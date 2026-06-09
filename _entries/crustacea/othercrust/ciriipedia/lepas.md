@@ -32,15 +32,6 @@ galleries:
     caption: Leathery stalk attaches the clam-like shell to a hard surface.
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3c.jpg
     caption: No operculum to seal the shell opening.
-  gallery2:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'References Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the
-      Sea: The Life and Times of Labrador Beach. Division of Biology, School of Science,
-      Nanyang Technological University & Department of Zoology, the National University
-      of Singapore. 160 pp. Debelius, Helmut, 2001. Crustacea Guide of the World:
-      Atlantic Ocean, Indian Ocean, Pacific Ocean IKAN-Unterwasserachiv, Frankfurt.
-      321 pp. Jones Diana S. and Gary J. Morgan, 2002. A Field Guide to Crustaceans
-      of Australian Waters . Reed New Holland. 224 pp.'
 location:
 - sis
 size:
@@ -50,6 +41,19 @@ authors:
 zone:
 - intertidal
 - marine
+links_references: '**References**
+
+  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.*Rhythm of the Sea: The Life and Times
+  of Labrador Beach.*Division of Biology, School of Science, Nanyang Technological
+  University & Department of Zoology, the National University of Singapore. 160 pp.
+
+
+  - Debelius, Helmut, 2001.*Crustacea Guide of the World: Atlantic Ocean, Indian Ocean,
+  Pacific Ocean*IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+
+
+  - Jones Diana S. and Gary J. Morgan, 2002.*A Field Guide to Crustaceans of Australian
+  Waters*. Reed New Holland. 224 pp.'
 ---
 
 ## Where seen?

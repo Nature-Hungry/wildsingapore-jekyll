@@ -33,25 +33,6 @@ galleries:
     caption: Hypselodoris maritima
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
     caption: Hypselodoris kanga
-  gallery2:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Acknowledgements Thanks to Toh Chay Hoon for sorting out the Hypselodoris
-      from the Chromodoris photos. Links The Sea Slug Forum by Dr Bill Rudman: including
-      descriptions and photos of Hypselodoris kanga , Hypselodoris bullockii The Slug
-      Site: photo and fact sheet on the Branch of the Week Hypselodoris bullockii
-      with a discussion on the wide range of morps of this nudibranch A Guide to Singapore
-      Nudibranchs by Uma Sachidhanandam: photo and distribution of Hypselodori bullockii
-      References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist
-      of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity Research,
-      National University of Singapore. Debelius, Helmut, 2001. Nudibranchs and Sea
-      Snails: Indo-Pacific Field Guide IKAN-Unterwasserachiv, Frankfurt. 321 pp. Wells,
-      Fred E. and Clayton W. Bryce. 2000. Slugs of Western Australia: A guide to the
-      species from the Indian to West Pacific Oceans . Western Australian Museum.
-      184 pp. Coleman, Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific
-      Sea Slugs . Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
-      Humann, Paul and Ned Deloach. 2010. Reef Creature Identification: Tropical Pacific
-      New World Publications. 497pp. Coleman, Neville, 1989. Nudibranchs of the South
-      Pacific Vol 1 . 64 pp.'
 size:
 - 2.0
 - 3.0
@@ -60,6 +41,51 @@ authors:
 zone:
 - intertidal
 - marine
+links_references: '**Acknowledgements**Thanks
+
+  to Toh Chay Hoon for sorting out the *Hypselodoris* from the
+
+  *Chromodoris* photos. **Links**
+
+  - [The Sea Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: including
+  descriptions and photos of[*Hypselodoris kanga*](http://www.seaslugforum.net/factsheet.cfm?base=hypskang),*[Hypselodoris
+  bullockii](http://www.seaslugforum.net/factsheet.cfm?base=hypsbull)*
+
+
+  - [The Slug Site:](http://slugsite.us/)photo and fact sheet on the Branch of the
+  Week[*Hypselodoris bullockii*](http://slugsite.us/bow/nudwk424.htm)with a discussion
+  on the wide range of morps of this nudibranch
+
+
+  - [A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)by
+  Uma Sachidhanandam: photo and distribution of[*Hypselodori bullockii*](http://rmbr.nus.edu.sg/nudibranch/nudipages/bullockii.html)
+
+
+  **References**
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
+
+  - Debelius, Helmut, 2001.*Nudibranchs and Sea Snails: Indo-Pacific Field Guide*IKAN-Unterwasserachiv,
+  Frankfurt. 321 pp.
+
+
+  - Wells, Fred E. and Clayton W. Bryce. 2000.*Slugs of Western Australia: A guide
+  to the species from the Indian to West Pacific Oceans*. Western Australian Museum.
+  184 pp.
+
+
+  - Coleman, Neville. 2001.*1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*.
+  Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
+
+
+  - Humann, Paul and Ned Deloach. 2010.*Reef Creature Identification: Tropical Pacific*New
+  World Publications. 497pp.
+
+
+  - Coleman, Neville, 1989.*Nudibranchs of the South Pacific Vol 1*. 64 pp.'
 ---
 
 ## Where seen?

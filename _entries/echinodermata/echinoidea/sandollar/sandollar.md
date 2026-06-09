@@ -21,24 +21,64 @@ superorder: Luminacea
 order: Clypeasteroida
 suborder: Clypeasterina
 updated: Apr 2020
-coverimg: ../../../../Templates/fornatureguides.gif
-links_references: "**Links**\n- [Class\n  Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
-  \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [The\n  Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)\
-  \ by Dr. Andrew B. Smith on the London Natural\n  History Museum website: everything\
-  \ you could possibly want to\n  know about sand dollars and sea urchins with lots\
-  \ of large close-up\n  images and explanatory diagrams.\n- [What\n  are those Holes\
-  \ in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollarsl)\
-  \ The Airplane-Sand Dollar\n  Connection! on the Echinoblog: a great explanation\
-  \ of the function\n  of lunules.\n\n**References**\n- Lane, David\n  J.W. and Didier\
-  \ Vandenspiegel. 2003*. A\n  Guide to Sea Stars and Other Echinoderms of Singapore*.\n\
-  \  Singapore Science Centre. 187pp.\n- Davison,\n  G.W. H. and P. K. L. Ng and Ho\
-  \ Hua Chew, 2008. *The Singapore\n  Red Data Book: Threatened plants and animals\
-  \ of Singapore*.\n  Nature Society (Singapore). 285 pp.\n- Wee Y.C.\n  and Peter\
-  \ K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.\n  National Council\
-  \ on the Environment. 163pp.\n- Miskelly,\n  Ashely. 2002. *Sea Urchins of Australia\
-  \ and the Indo-Pacific*.\n  Capricornia Publications. 180pp.\n- Edward E.\n  Ruppert,\
-  \ Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
+coverimg: https://live.staticflickr.com/65535/50504169572_521278a4a2_z.jpg
+links_references: '**Links**
+
+  - [Class Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)Tan, Leo
+  W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
+
+
+  - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)by
+  Dr. Andrew B. Smith on the London Natural History Museum website: everything you
+  could possibly want to know about sand dollars and sea urchins with lots of large
+  close-up images and explanatory diagrams.
+
+
+  - [What are those Holes in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollars.html)The
+  Airplane-Sand Dollar Connection! on the Echinoblog: a great explanation of the function
+  of lunules.
+
+
+  **References**
+
+  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
+  Echinoderms of Singapore*. Singapore Science Centre. 187pp.
+
+
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
+
+
+  - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*.
+  National Council on the Environment. 163pp.
+
+
+  - Miskelly, Ashely. 2002.*Sea Urchins of Australia and the Indo-Pacific*. Capricornia
+  Publications. 180pp.
+
+
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
+  of Thomson Learning Inc., 7th Edition. pp. 963
+
+
+  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill
+  Book Co., Singapore. 578 pp.
+
+
+  - Hendler, Gordon, John E. Miller, David L. Pawson and Porter M. Kier, 1995.*Sea
+  Stars, Sea Urchins, and Allies: Echinoderms of Florida and the Caribbean*. Smithsonian
+  Institution Press. 390 pp.
+
+
+  - Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow
+  water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*. Times
+  Edition, Singapore. 144 pp.
+
+
+  - Coleman, Neville. undated.*Sea Stars of Australasia and their relatives*. Neville
+  Coleman''s World of Water, Australia. 64pp.'
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
@@ -71,42 +111,15 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
     caption: A dead sand dollar has no spines. Chek Jawa, Nov 02
   gallery5:
-  - url: http://www.wildsingapore.com/asteroidea/protoreaster/110508cyrmng5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
     caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared
       by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
     caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek
       Jawa Feb 04
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
     caption: Grey bonnet snail eating a Cake sand dollar. Cyrene, Aug 11
-  gallery6:
-  - url: http://www.wildsingapore.com/concepts/pix/i020e4.gif
-    caption: 'Damaged dollars: Like other echinoderms, sand dollars can repair minor
-      damage. If you come across an ''uneven'' sand dollar with a part of its body
-      obviously chewed off, look closely and you might see spines growing on the chewed
-      edge. But if a large part of the sand dollar is broken, it will probably die.
-      How do upside down sand dollars right themselves? They dig one side into ground
-      and stick the other end out. Eventually, the waves and currents flip them over.
-      This is laborious and they usually need to be in water to achieve this. So please
-      put sand dollars back the right way around. Dollar babies: Sand dollars have
-      separate genders and are usually either male or female. They practice external
-      fertilisation, releasing eggs and sperm simultaneously into the water. Sand
-      dollars undergo metamorphosis and their larvae look nothing like their adults.
-      The form that first hatches from the eggs are bilaterally symmetrical and free-swimming,
-      drifting with the plankton. At this stage, they have several long ''arms'' which
-      are believed to funnel food particles into the central mouth. They eventually
-      settle down and develop into a more sand dollar-like shape. One species of sand
-      dollars ( Dendraster excentricus of the US) is known to settle in response to
-      a substance released by adults. This might explain why so many sand dollars
-      of the same species may be found in one place. Human uses: Sand dollar eggs
-      have been extensively studied to better understand cell division and thus some
-      diseases such as cancer, which is associated with uncontrolled cell growth.
-      Status and threats: Some of our sand dollars are listed among the threatened
-      animals of Singapore. The main threat is habitat loss due to reclamation or
-      human activities along the coast that pollute the water. Like other creatures
-      of the intertidal zone, they are affected by human activities such as reclamation
-      and pollution. Trampling by careless visitors and over-collection can also have
-      an impact on local populations.'
+  
   gallery7:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg
     caption: Cake sand dollar
@@ -117,32 +130,6 @@ galleries:
     caption: Pink sand dollar
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg
     caption: Thick-edged sand dollar
-  gallery9:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Class Echinoidea Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide
-      to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. The Echinoid
-      Directory by Dr. Andrew B. Smith on the London Natural History Museum website:
-      everything you could possibly want to know about sand dollars and sea urchins
-      with lots of large close-up images and explanatory diagrams. What are those
-      Holes in Sand Dollars for? The Airplane-Sand Dollar Connection! on the Echinoblog:
-      a great explanation of the function of lunules. References Lane, David J.W.
-      and Didier Vandenspiegel. 2003 . A Guide to Sea Stars and Other Echinoderms
-      of Singapore . Singapore Science Centre. 187pp. Davison, G.W. H. and P. K. L.
-      Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and
-      animals of Singapore . Nature Society (Singapore). 285 pp. Wee Y.C. and Peter
-      K. L. Ng. 1994. A First Look at Biodiversity in Singapore . National Council
-      on the Environment. 163pp. Miskelly, Ashely. 2002. Sea Urchins of Australia
-      and the Indo-Pacific . Capricornia Publications. 180pp. Edward E. Ruppert, Richard
-      S. Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson
-      Learning Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates
-      . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp. Hendler, Gordon, John
-      E. Miller, David L. Pawson and Porter M. Kier, 1995. Sea Stars, Sea Urchins,
-      and Allies: Echinoderms of Florida and the Caribbean . Smithsonian Institution
-      Press. 390 pp. Schoppe, Sabine, 2000. Echinoderms of the Philippines: A guide
-      to common shallow water sea stars, brittle stars, sea urchins, sea cucumbers
-      and feather stars . Times Edition, Singapore. 144 pp. Coleman, Neville. undated.
-      Sea Stars of Australasia and their relatives . Neville Coleman''s World of Water,
-      Australia. 64pp.'
 location:
 - chg
 - cj
@@ -196,16 +183,21 @@ The petal design on the upperside of a sand dollar is called a petaloid. The pet
 
 A sand dollar's mouth is on its underside, facing the ground. Its anus is on the its underside as well, usually, this is located off-center. Some, but not all, sand dollars have jaws made of a circle of five plates that meet in the middle. Unlike those of the sea urchin, however, the sand dollar's jaws cannot be extended outwards.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Picky eaters:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+
+**Picky eaters:**
 Most sand dollars are deposit feeders and process sand to feed on detritus in the sediments. They don't just process any sand. The dense layer of tiny spines keep out larger particles and only let in fine ones. Tiny tube feet and cilia (minute beating hairs) move these fine particles to the food grooves and along these grooves to the mouth in the center.
 
 **Dead or alive?**
 Sand dollars may appear dead, but they are very much alive. A living sand dollar is covered with fine spines and appears velvety. A dead one is smooth, without any spines, and the details of skeleton can be seen more clearly. The skeleton is fragile and will shatter at the slightest pressure.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Why do some sand dollars have holes in them?**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+
+**Why do some sand dollars have holes in them?**
 The
 [Keyhole sand dollar](echinodiscus)
 got its common name from the intriguing slot-shaped holes in the body (called lunules). Suggestions for the function of these slots range from helping the animal to burrow, right itself, find food or to prevent the waves from lifting it out of the sand. The last is the most widely accepted explanation.
+
 **What eats sand dollars?**
 Some snails such as the
 [Grey bonnet](../../../mollusca/gastropoda/cassidae/glaucum)
@@ -216,7 +208,29 @@ was seen with its stomach stuck to a sand dollar. A
 was also seen in the process of engulfing one.
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
-{% include img-wrap-group.html items=page.galleries.gallery6 %}
+
+### Damaged dollars: 
+Like other echinoderms, sand dollars can repair minor damage. If you come across an ''uneven'' sand dollar with a part of its body obviously chewed off, look closely and you might see spines growing on the chewed edge. But if a large part of the sand dollar is broken, it will probably die.
+### How do upside down sand dollars right themselves? 
+They dig one side into ground and stick the other end out. Eventually, the waves and currents flip them over. This is laborious and they usually need to be in water to achieve this. So please put sand dollars back the right way around. 
+### Dollar babies: 
+Sand dollars have separate genders and are usually either male or female. They practice external fertilisation, releasing eggs and sperm simultaneously into the water. Sand
+dollars undergo metamorphosis and their larvae look nothing like their adults.The form that first hatches from the eggs are bilaterally symmetrical and free-swimming,
+drifting with the plankton. At this stage, they have several long ''arms'' which
+are believed to funnel food particles into the central mouth. They eventually
+settle down and develop into a more sand dollar-like shape. One species of sand
+dollars ( Dendraster excentricus of the US) is known to settle in response to
+a substance released by adults. This might explain why so many sand dollars
+of the same species may be found in one place. 
+![](https://f003.backblazeb2.com/file/naturehungry/concepts/pix/i020e4.gif)
+
+## Human uses: 
+Sand dollar eggs have been extensively studied to better understand cell division and thus some diseases such as cancer, which is associated with uncontrolled cell growth.
+## Status and threats: 
+Some of our sand dollars are listed among the threatened animals of Singapore. The main threat is habitat loss due to reclamation or human activities along the coast that pollute the water. Like other creatures
+of the intertidal zone, they are affected by human activities such as reclamation
+and pollution. Trampling by careless visitors and over-collection can also have
+an impact on local populations.
 
 ---
 

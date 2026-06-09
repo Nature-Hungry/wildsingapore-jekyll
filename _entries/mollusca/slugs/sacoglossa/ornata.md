@@ -21,22 +21,63 @@ superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Oct 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
-links_references: "**Links**\n- [Leaf\n  Slug *Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151.htm)\
-  \ Tan, Leo W. H. & Ng, Peter K. L., 1988.\n  *[A Guide\n  to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre, Singapore.\n  160 pp.\n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
-  \ by Dr Bill Rudman: photos and fact sheet on\n  *[Elysia\n  ornata](http://www.seaslugforum.net/factsheet.cfm?base=elysorna)*\
-  \ including [solar\n  powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow):\
-  \ about how some slugs retain the chloroplasts\n  from their food.\n\n**References**\n\
-  - K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern\
-  \ coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey:\
-  \ Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015\
-  \ Supplement No. 31, Pp. 226-249.\n- Tan Siong\n  Kiat and Henrietta P. M. Woo,\
-  \ 2010 *Preliminary\n  Checklist of The Molluscs of Singapore* (pdf), Raffles\n\
-  \  Museum of Biodiversity Research, National University of Singapore.\n- Kathe\n\
-  \  R. Jensen. 30 Dec 2009. *Sacoglossa\n  (Mollusca: Gastropoda: Opisthobranchia)\
-  \ from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.\n- Chou,\
-  \ L.\n  M., 1998. *A\n  Guide to the Coral Reef Life of Singapore*. Singapore Science\n\
-  \  Centre. 128 pages.\n- Debelius,\n  Helmut, 2001. *Nudibranchs\n"
+links_references: '**Links**
+
+  - [Leaf Slug*Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151.htm)Tan,
+  Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
+
+
+  - [The Sea Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: photos and
+  fact sheet on*[Elysia ornata](http://www.seaslugforum.net/factsheet.cfm?base=elysorna)*including[solar
+  powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow): about how
+  some slugs retain the chloroplasts from their food.
+
+
+  **References**
+
+  - K. R. Jensen.*Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern
+  coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey:
+  Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015
+  Supplement No. 31, Pp. 226-249.
+
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
+
+  - Kathe R. Jensen. 30 Dec 2009.*Sacoglossa (Mollusca: Gastropoda: Opisthobranchia)
+  from Singapore*. The Raffles Bulletin of Zoology, Supplement 22: 207-223.
+
+
+  - Chou, L. M., 1998.*A Guide to the Coral Reef Life of Singapore*. Singapore Science
+  Centre. 128 pages.
+
+
+  - Debelius, Helmut, 2001.*Nudibranchs and Sea Snails: Indo-Pacific Field Guide*IKAN-Unterwasserachiv,
+  Frankfurt. 321 pp.
+
+
+  - Wells, Fred E. and Clayton W. Bryce. 2000.*Slugs of Western Australia: A guide
+  to the species from the Indian to West Pacific Oceans*. Western Australian Museum.
+  184 pp.
+
+
+  - Coleman, Neville. 2001.*1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*.
+  Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.
+
+
+  - Coleman, Neville, 1989.*Nudibranchs of the South Pacific Vol 1*. 64 pp.
+
+
+  - Humann, Paul and Ned Deloach. 2010.*Reef Creature Identification: Tropical Pacific*New
+  World Publications. 497pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
@@ -125,32 +166,6 @@ galleries:
     caption: Pulau Biola, Dec 09
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/ornata/100531biod4501m3a.jpg
     caption: Pulau Biola, May 10
-  gallery15:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Leaf Slug Elysia Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide
-      to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. The Sea
-      Slug Forum by Dr Bill Rudman: photos and fact sheet on Elysia ornata including
-      solar powered slugs : about how some slugs retain the chloroplasts from their
-      food. References K. R. Jensen. Sacoglossa (Mollusca: Gastropoda: Heterobranchia)
-      from northern coasts of Singapore . 10 July 2015. The Comprehensive Marine Biodiversity
-      Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of
-      Zoology 2015 Supplement No. 31, Pp. 226-249. Tan Siong Kiat and Henrietta P.
-      M. Woo, 2010 Preliminary Checklist of The Molluscs of Singapore (pdf), Raffles
-      Museum of Biodiversity Research, National University of Singapore. Kathe R.
-      Jensen. 30 Dec 2009. Sacoglossa (Mollusca: Gastropoda: Opisthobranchia) from
-      Singapore . The Raffles Bulletin of Zoology, Supplement 22: 207-223. Chou, L.
-      M., 1998. A Guide to the Coral Reef Life of Singapore . Singapore Science Centre.
-      128 pages. Debelius, Helmut, 2001. Nudibranchs and Sea Snails: Indo-Pacific
-      Field Guide IKAN-Unterwasserachiv, Frankfurt. 321 pp. Wells, Fred E. and Clayton
-      W. Bryce. 2000. Slugs of Western Australia: A guide to the species from the
-      Indian to West Pacific Oceans . Western Australian Museum. 184 pp. Coleman,
-      Neville. 2001. 1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs . Neville
-      Coleman''s Underwater Geographic Pty Ltd, Australia.144pp. Coleman, Neville,
-      1989. Nudibranchs of the South Pacific Vol 1 . 64 pp. Humann, Paul and Ned Deloach.
-      2010. Reef Creature Identification: Tropical Pacific New World Publications.
-      497pp. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral
-      Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-      of the vertebrates Sea Challengers. 314pp.'
 location:
 - pgl
 - prp

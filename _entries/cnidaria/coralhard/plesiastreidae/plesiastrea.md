@@ -18,18 +18,47 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
-links_references: "**Links**\n- [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306)\
-  \ on Corals of the World online on the\n  Australian Institute of Marine Science\
-  \ website: Technical fact\n  sheet.\n- [*Plesiastrea versipora*](http://www.iucnredlist.org/details/133284/0)\
-  \ on the IUCN Red List of Threatened Species\n  website: Technical fact sheet.\n\
-  - [*Plesiastrea versipora*](http://species-identification.org/species.php?species_group=corals&id=65&menuentry=groepen)\
-  \ on\n  Reef Corals of the Indo-Malayan Seas, the Marine Species Identification\n\
-  \  Portal: Technical fact sheet.\n- [*Plesiastrea versipora*](http://www.sealifebase.org/summary/Plesiastrea-versiporal)\
-  \ on\n  SeaLife Base: Technical fact sheet.\n\n**References**\n- Danwei\n  Huang,\
-  \ Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec\n  2009. *An\n  inventory\
-  \ of zooxanthellate sclerectinian corals in Singapore\n  including 33 new records*\
-  \ (pdf). Raffles Bulletin of\n  Zoology Supplement No. 22: 69-80.\n- Veron,\n  Jen.\
-  \ 2000. *Corals\n"
+links_references: '**Links**
+
+  - [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306)on
+  Corals of the World online on the Australian Institute of Marine Science website:
+  Technical fact sheet.
+
+
+  - [*Plesiastrea versipora*](http://www.iucnredlist.org/details/133284/0)on the IUCN
+  Red List of Threatened Species website: Technical fact sheet.
+
+
+  - [*Plesiastrea versipora*](http://species-identification.org/species.php?species_group=corals&id=65&menuentry=groepen)on
+  Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
+
+
+  - [*Plesiastrea versipora*](http://www.sealifebase.org/summary/Plesiastrea-versipora.html)on
+  SeaLife Base: Technical fact sheet.
+
+
+  **References**
+
+  - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.*An
+  inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*(pdf).
+  Raffles Bulletin of Zoology Supplement No. 22: 69-80.
+
+
+  - Veron, Jen. 2000.*Corals of the World*Australian Institute of Marine Science,
+  Australia. 3 volumes.
+
+
+  - Chou, L. M., 1998.*A Guide to the Coral Reef Life of Singapore*. Singapore Science
+  Centre. 128 pages.
+
+
+  - Erhardt, Harry and Daniel Knop. 2005.*Corals: Indo-Pacific Field Guide*IKAN-Unterwasserachiv,
+  Frankfurt. 305 pp.
+
+
+  - Borneman, Eric H. 2001.*Aquarium Corals: Selection, Husbandry and Natural History*T.F.
+  H Publications. 464 pp'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
@@ -56,22 +85,6 @@ galleries:
       .
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/250812tblvo2.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on facebook .
-  gallery5:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Plesiastrea versipora on Corals of the World online on the Australian
-      Institute of Marine Science website: Technical fact sheet. Plesiastrea versipora
-      on the IUCN Red List of Threatened Species website: Technical fact sheet. Plesiastrea
-      versipora on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
-      Portal: Technical fact sheet. Plesiastrea versipora on SeaLife Base: Technical
-      fact sheet. References Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter
-      A. Todd. 30 Dec 2009. An inventory of zooxanthellate sclerectinian corals in
-      Singapore including 33 new records (pdf). Raffles Bulletin of Zoology Supplement
-      No. 22: 69-80. Veron, Jen. 2000. Corals of the World Australian Institute of
-      Marine Science, Australia. 3 volumes. Chou, L. M., 1998. A Guide to the Coral
-      Reef Life of Singapore . Singapore Science Centre. 128 pages. Erhardt, Harry
-      and Daniel Knop. 2005. Corals: Indo-Pacific Field Guide IKAN-Unterwasserachiv,
-      Frankfurt. 305 pp. Borneman, Eric H. 2001. Aquarium Corals: Selection, Husbandry
-      and Natural History T.F. H Publications. 464 pp'
 location:
 - cj
 - skd

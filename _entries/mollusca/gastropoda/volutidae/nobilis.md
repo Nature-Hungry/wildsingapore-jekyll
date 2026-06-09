@@ -19,12 +19,31 @@ subfamily: Amoriinae
 tribe: Melonini
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg
-links_references: "**Links**
-- [Noble volute (*Cymbiola nobilis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=205) on the NParks Flora and Fauna website.
+links_references: '**Links**
+
+  - [Noble volute (*Cymbiola nobilis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=205)on
+  the NParks Flora and Fauna website.
+
+
   **References**
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist of The Molluscs of Singapore* (pdf), Lee Kong Chian Natural History Museum, National University of Singapore.
-  - Tan, K. S. & L. M. Chou, 2000. *A Guide to the Common Seashells of Singapore*. Singapore Science Centre. 160 pp.
-  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii"
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Lee Kong Chian Natural History Museum, National University of
+  Singapore.
+
+
+  - Tan, K. S. & L. M. Chou, 2000.*A Guide to the Common Seashells of Singapore*.
+  Singapore Science Centre. 160 pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.
+
+
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.'
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - It is among the large snails you might see on our shores.
@@ -104,18 +123,6 @@ galleries:
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr.
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/220201brkvc3.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook.
-  gallery14:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Noble volute ( Cymbiola nobilis ) on the NParks Flora and Fauna
-      website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary
-      Checklist of The Molluscs of Singapore (pdf), Lee Kong Chian Natural History
-      Museum, National University of Singapore. Tan, K. S. & L. M. Chou, 2000. A Guide
-      to the Common Seashells of Singapore . Singapore Science Centre. 160 pp. Gosliner,
-      Terrence M., David W. Behrens and Gary C. Williams. 1996. Coral Reef Animals
-      of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates
-      Sea Challengers. 314pp. Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
-      The Singapore Red Data Book: Threatened plants and animals of Singapore . Nature
-      Society (Singapore). 285 pp.'
 location:
 - prp
 - chg

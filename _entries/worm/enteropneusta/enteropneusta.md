@@ -13,12 +13,26 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg
-links_references: "**Links**  \n- [Acorn\n  worms](http://mangrove.nus.edu.sg/pub/seashore/text/225)\
-  \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Class\n  Enteropneusta](http://species-identification.org/species.php?species_group=zmns&id=118&menuentry=groepen)\
-  \ in Zooplankton and Micronekton of the North\n  Sea on the Marine Species Identification\
-  \ Portal: Technical fact\n  sheet.\n\n**References**\n- Edward E.\n  Ruppert, Richard\
-  \ S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
+links_references: '**Links**
+
+  - [Acorn worms](http://mangrove.nus.edu.sg/pub/seashore/text/225.htm)Tan, Leo W.
+  H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
+
+
+  - [Class Enteropneusta](http://species-identification.org/species.php?species_group=zmns&id=118&menuentry=groepen)in
+  Zooplankton and Micronekton of the North Sea on the Marine Species Identification
+  Portal: Technical fact sheet.
+
+
+  **References**
+
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
+  of Thomson Learning Inc., 7th Edition. pp. 963
+
+
+  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill
+  Book Co., Singapore. 578 pp.'
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/enteropneusta/enteropneusta/160508kusjt10.jpg
@@ -44,15 +58,6 @@ galleries:
     caption: Pulau Biola, Dec 09
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/enteropneusta/enteropneusta/100130brklks17m3.jpg
     caption: Terumbu Berkas, Jan 10 Shared by Loh Kok Sheng on his flickr .
-  gallery6:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Acorn worms Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to
-      Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Class Enteropneusta
-      in Zooplankton and Micronekton of the North Sea on the Marine Species Identification
-      Portal: Technical fact sheet. References Edward E. Ruppert, Richard S. Fox,
-      Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning
-      Inc., 7th Edition. pp. 963 Pechenik, Jan A., 2005. Biology of the Invertebrates
-      . 5 th edition. McGraw-Hill Book Co., Singapore. 578 pp.'
 location:
 - chg
 - cj

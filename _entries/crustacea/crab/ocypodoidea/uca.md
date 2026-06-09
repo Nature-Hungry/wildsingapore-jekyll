@@ -27,24 +27,36 @@ subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Jan 2020
 coverimg: ../../../../Templates/fornatureguides.gif
-links_references: "**Links**  \n- [Fiddler\n  crabs (*Uca* spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190)\
-  \ Tan, Leo W. H. & Ng, Peter K. L.,\n  1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Fiddler\n  crabs (*Uca*\
-  \ spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053) with descriptions of four\
-  \ species.Ng,\n  Peter K. L. & N. Sivasothi, 1999. *[A\n  Guide to the Mangroves\
-  \ of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.\n\
-  \  Singapore Science Centre. 168 pp.\n- [www.fiddlercrab.info](http://www.fiddlercrab.info/)\n\
-  \  by M.S. Rosenberg: list of all fiddler crab species with updates\n  on taxonomy,\
-  \ photos, video and links.\n- From the\n  wild shores of singapore blog\n  - [Dishonest\n\
-  \    fiddler crabs bluff with fake pincers](http://wildshores.blogspot.com/2008/11/dishonest-fiddler-crabs-bluff-with-fakel)\n\
-  \  - [Eye\n    of the fiddler](http://wildshores.blogspot.com/2009/10/eye-of-fiddlerl)\n\
-  \  - [How\n    do girl fiddler crabs defend their territory?](http://wildshores.blogspot.com/2009/11/how-do-girl-fiddler-crabs-defend-theirl)\n\
-  \n**References**\n- Ng, Peter\n  K. L. and Daniele Guinot and Peter J. F. Davie,\
-  \ 2008. *Systema\n  Brachyurorum: Part 1. An annotated checklist of extant Brachyuran\n\
-  \  crabs of the world*. The Raffles Bulletin of Zoology. Supplement\n  No. 17, 31\
-  \ Jan 2008. 286 pp.\n- Jocelyn Crane.\n  1975. Fiddler\n  Crabs of the World. Ocypodidae:\
-  \ Genus *Uca*, Princeton\n  University Press. 737pp\n- Edward E.\n  Ruppert, Richard\
-  \ S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
+links_references: "**Links**\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm)Tan,\
+  \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053.htm)with\
+  \ descriptions of four species.Ng, Peter K. L. & N. Sivasothi, 1999.*[A Guide to\
+  \ the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.\
+  \ Singapore Science Centre. 168 pp.\n\n- [www.fiddlercrab.info](http://www.fiddlercrab.info/)by\
+  \ M.S. Rosenberg: list of all fiddler crab species with updates on taxonomy, photos,\
+  \ video and links.\n\n- From the wild shores of singapore blog\n - [Dishonest fiddler\
+  \ crabs bluff with fake pincers](http://wildshores.blogspot.com/2008/11/dishonest-fiddler-crabs-bluff-with-fake.html)\n\
+  \ - [Eye of the fiddler](http://wildshores.blogspot.com/2009/10/eye-of-fiddler.html)\n\
+  \ - [How do girl fiddler crabs defend their territory?](http://wildshores.blogspot.com/2009/11/how-do-girl-fiddler-crabs-defend-their.html)\n\
+  \n**References**\n- Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.*Systema\
+  \ Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the\
+  \ world*. The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.\n\
+  \n- Jocelyn Crane. 1975. Fiddler Crabs of the World. Ocypodidae: Genus*Uca*, Princeton\
+  \ University Press. 737pp\n\n- Edward E. Ruppert, Richard S. Fox, Robert D. Barnes.\
+  \ 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc., 7th Edition.\
+  \ pp. 963\n\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.*Rhythm of the Sea: The\
+  \ Life and Times of Labrador Beach.*Division of Biology, School of Science, Nanyang\
+  \ Technological University & Department of Zoology, the National University of Singapore.\
+  \ 160 pp.\n\n- Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in\
+  \ Singapore*. National Council on the Environment. 163pp.\n\n- Ng, P. K. L. & Y.\
+  \ C. Wee, 1994.*The Singapore Red Data Book: Threatened Plants and Animals of Singapore*.\
+  \ The Nature Society (Singapore), Singapore. 343 pp.\n\n- Jones Diana S. and Gary\
+  \ J. Morgan, 2002.*A Field Guide to Crustaceans of Australian Waters*. Reed New\
+  \ Holland. 224 pp.\n\n- Davey, Keith, 1998.*A Photographic Guide to Seashore Life\
+  \ of Australia*. New Holland, Australia.144 pp.\n\n- Mastaller, Michael, 1997.*Mangroves:\
+  \ The Forgotten Forest Between Land and Sea*. Tropical Press, Malaysia, 200 pp.\n\
+  \n- Morton, Brian & John Morton, 1983.*The Sea Shore Ecology of Hong Kong*. Hong\
+  \ Kong University Press. 350 pp."
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
@@ -84,35 +96,6 @@ galleries:
   gallery7:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/130923tmftd3476m3.jpg
     caption: Tanah Merah, Sep 13
-  gallery8:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Fiddler crabs ( Uca spp.) Tan, Leo W. H. & Ng, Peter K. L., 1988.
-      A Guide to Seashore Life . The Singapore Science Centre, Singapore. 160 pp.
-      Fiddler crabs ( Uca spp.) with descriptions of four species.Ng, Peter K. L.
-      & N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity)
-      . Singapore Science Centre. 168 pp. www.fiddlercrab.info by M.S. Rosenberg:
-      list of all fiddler crab species with updates on taxonomy, photos, video and
-      links. From the wild shores of singapore blog Dishonest fiddler crabs bluff
-      with fake pincers Eye of the fiddler How do girl fiddler crabs defend their
-      territory? References Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie,
-      2008. Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran
-      crabs of the world . The Raffles Bulletin of Zoology. Supplement No. 17, 31
-      Jan 2008. 286 pp. Jocelyn Crane. 1975. Fiddler Crabs of the World. Ocypodidae:
-      Genus Uca , Princeton University Press. 737pp Edward E. Ruppert, Richard S.
-      Fox, Robert D. Barnes. 2004. Invertebrate Zoology Brooks/Cole of Thomson Learning
-      Inc., 7th Edition. pp. 963 Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm
-      of the Sea: The Life and Times of Labrador Beach. Division of Biology, School
-      of Science, Nanyang Technological University & Department of Zoology, the National
-      University of Singapore. 160 pp. Wee Y.C. and Peter K. L. Ng. 1994. A First
-      Look at Biodiversity in Singapore . National Council on the Environment. 163pp.
-      Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened Plants
-      and Animals of Singapore . The Nature Society (Singapore), Singapore. 343 pp.
-      Jones Diana S. and Gary J. Morgan, 2002. A Field Guide to Crustaceans of Australian
-      Waters . Reed New Holland. 224 pp. Davey, Keith, 1998. A Photographic Guide
-      to Seashore Life of Australia . New Holland, Australia.144 pp. Mastaller, Michael,
-      1997. Mangroves: The Forgotten Forest Between Land and Sea . Tropical Press,
-      Malaysia, 200 pp. Morton, Brian & John Morton, 1983. The Sea Shore Ecology of
-      Hong Kong . Hong Kong University Press. 350 pp.'
 location:
 - prp
 - chg

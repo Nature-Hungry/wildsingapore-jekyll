@@ -18,18 +18,31 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
-links_references: "**Links**\n- [*Cladiella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cladiella)\n\
-  \  on [Reef\n  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)\
-  \ on the [Marine\n  Species Identification Portal](http://species-identification.org/index.php):\
-  \ Technical fact sheet and photos.\n\n**References**\n- Checklist of Cnidaria (non-Sclerectinia)\
-  \ Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas,\
-  \ Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y.\
-  \ Lum, D.C.J. Yeo, May 2024. *The Singapore\n  Red Data Book: Threatened plants\
-  \ and animals of Singapore*.\n  3rd edition. National Parks Board. 663 pp.\n- Y.\
-  \ Benayahu\n  and L. M. Chou, 28 Feb 2010. *On\n  some Octocorallia (Cnidaria: Anthozoa:\
-  \ Alcyonacea) from Singapore,\n  with a description of a new Cladiella species*.\
-  \ The Raffles\n  Bulletin of Zoology 58(1) Pp. 1-13.\n- Fabricius,\n  Katharina\
-  \ and Philip Alderslade, 2001. *Soft\n"
+links_references: '**Links**
+
+  - [*Cladiella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cladiella)on[Reef
+  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)on
+  the[Marine Species Identification Portal](http://species-identification.org/index.php):
+  Technical fact sheet and photos.
+
+
+  **References**
+
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.*The
+  Singapore Red Data Book: Threatened plants and animals of Singapore*. 3rd edition.
+  National Parks Board. 663 pp.
+
+
+  - Y. Benayahu and L. M. Chou, 28 Feb 2010.*On some Octocorallia (Cnidaria: Anthozoa:
+  Alcyonacea) from Singapore, with a description of a new Cladiella species*. The
+  Raffles Bulletin of Zoology 58(1) Pp. 1-13.
+
+
+  - Fabricius, Katharina and Philip Alderslade, 2001.*Soft Corals and Sea Fans*. Australian
+  Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy.
+  264 pp'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
@@ -82,20 +95,6 @@ galleries:
     caption: Pulau Salu, Aug 10
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/100530tbkd4393m3.jpg
     caption: Pulau Berkas, May 10
-  gallery9:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Cladiella on Reef Corals of the Indo-Malayan Seas on the Marine
-      Species Identification Portal : Technical fact sheet and photos. References
-      Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
-      Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
-      Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
-      The Singapore Red Data Book: Threatened plants and animals of Singapore . 3rd
-      edition. National Parks Board. 663 pp. Y. Benayahu and L. M. Chou, 28 Feb 2010.
-      On some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a
-      description of a new Cladiella species . The Raffles Bulletin of Zoology 58(1)
-      Pp. 1-13. Fabricius, Katharina and Philip Alderslade, 2001. Soft Corals and
-      Sea Fans . Australian Institute of Marine Science and the Museum and Art Gallery
-      of the Northern Territoriy. 264 pp'
 location:
 - tm
 - lab

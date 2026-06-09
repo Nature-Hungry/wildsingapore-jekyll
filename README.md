@@ -16,7 +16,7 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			 🟡 Links & References
 			 🔲 Text section titles
 			 ✅ Location information
-			 🔲 IUCN & RDB status
+			 🟡 IUCN & RDB status
 			 🔲 !Entry attributes
 			 ✅ Atomic entry content
 			 🔲 Higher rank entries content
@@ -38,24 +38,12 @@ but we aim to standardize all to what we are working on in the seagrass sections
 		🔲 Step-by-step Photo indexes
 			🔲 Identify features to group entries by
 			🟡 Prototype
+         🔲 Add graphics for every button
 	🔲 New pages that reflect the goals of the new site
 	🟡 Layout components (subject to feedback & change)
 		🔲 Responsive css
 		🟡 Navigation header
-		🔲 Footer
-<<<<<<< HEAD
-   🔲 Add a search engine in the "For Teachers" page
-      🔲 Add classroom activities with proper YAML headers
-   🔲 Add For Teachers section
-      🔲 Create search.json for For Teachers section
-      🔲 Add classroom activities (same concept as entries, but different genre)
-	🔲 Add ilovenature.sg images (when received)
-      🔲 Reformat ilovenature.sg site structure into Nature Hungry entries
-      🔲 Add text for Flora pages 
-      🔲 Add terrestrial forest concepts to Concepts.md
-   🔲 Add LepakInSG OWS2.0 text into grid of sites in Singapore (~/Guides/Nature Sites)
-
-=======
+		🟡 Footer
     🔲 Add a search engine in the "For Teachers" page
        🔲 Add classroom activities with proper YAML headers
 
@@ -67,7 +55,6 @@ but we aim to standardize all to what we are working on in the seagrass sections
          🔲 Reviewer dashboard
          🔲 Admin dashboard
       
->>>>>>> 3edb260582b90415e602571db201fec4cd096fb7
 ---
 
 # Wild Singapore

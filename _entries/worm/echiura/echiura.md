@@ -10,12 +10,18 @@ species: Echiura
 attributes: []
 updated: Oct 2016
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/080801chgd8555m3.jpg
-links_references: "**Links**  \n- [Introduction\n  to the Echiura: Spoon Worms and\
-  \ Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiural) on the [Phylogeny\n\
-  \  Wing](http://www.ucmp.berkeley.edu/exhibit/phylogenyl) on the [Museum\n  of Paleontology,\
-  \ University of California Berkeley](http://www.ucmp.berkeley.edu/) website:\n \
-  \ fossil record, life history and ecology, systematics and more\n  on morphology.\n\
-  \n**References**\n- Edward E.\n  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
+links_references: '**Links**
+
+  - [Introduction to the Echiura: Spoon Worms and Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiura.html)on
+  the[Phylogeny Wing](http://www.ucmp.berkeley.edu/exhibit/phylogeny.html)on the[Museum
+  of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/)website:
+  fossil record, life history and ecology, systematics and more on morphology.
+
+
+  **References**
+
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
+  of Thomson Learning Inc., 7th Edition. pp. 963'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/080801chgd8555m3.jpg
@@ -46,13 +52,6 @@ galleries:
   gallery6:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/250628pcnky1.jpg
     caption: East Coast PCN, Jun 25 Photo shared by Kelvin Yong on facebook .
-  gallery7:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Introduction to the Echiura: Spoon Worms and Innkeepers on the
-      Phylogeny Wing on the Museum of Paleontology, University of California Berkeley
-      website: fossil record, life history and ecology, systematics and more on morphology.
-      References Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. Invertebrate
-      Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963'
 location:
 - prp
 - chg

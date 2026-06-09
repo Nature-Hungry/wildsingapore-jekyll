@@ -1,0 +1,4 @@
+# Redirect secondary domains to primary domain
+naturehungry.com/* https://naturehungry.sg/:splat 301
+naturehungry.net/* https://naturehungry.sg/:splat 301
+naturehungry.ord/* https://naturehungry.sg/:splat 301

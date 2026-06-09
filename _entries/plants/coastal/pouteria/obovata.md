@@ -21,11 +21,31 @@ class: Magnoliopsida
 order: Ericales
 updated: Nov 10
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg
-links_references: "**Links**\n- *[Pouteria\n  obovata](http://floraofsingapore.wordpress.com/2010/04/16/planchonella-obovata/)*\
-  \ on Total Vascular Flora of Singapore Online: photos\n  and fact sheet.\n\n**References**\n\
-  - Tan, Hugh\n  T.W. and T. Morgany. 2001. *[Growing\n  the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
-  \ BP Science Centre Guidebook.\n  168pp.\n- Hsuan Keng,\n  S.C. Chin and H. T. W.\
-  \ Tan. 1990, *[The\n"
+links_references: '**Links**
+
+  - *[Pouteria obovata](http://floraofsingapore.wordpress.com/2010/04/16/planchonella-obovata/)*on
+  Total Vascular Flora of Singapore Online: photos and fact sheet.
+
+
+  **References**
+
+  - Tan, Hugh T.W. and T. Morgany. 2001.*[Growing the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
+  BP Science Centre Guidebook. 168pp.
+
+
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
+  Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Singapore University Press. 222 pp.
+
+
+  - Corners, E. J. H., 1997.*[Wayside Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
+
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/090912chgbwd0597m3.jpg
@@ -60,18 +80,6 @@ galleries:
     caption: Labrador, Mar 11
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/110316labd7238m3.jpg
     caption: Labrador, Mar 11
-  gallery6:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Pouteria obovata on Total Vascular Flora of Singapore Online:
-      photos and fact sheet. References Tan, Hugh T.W. and T. Morgany. 2001. Growing
-      the Native Plants of Singapore . BP Science Centre Guidebook. 168pp. Hsuan Keng,
-      S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms
-      and Dicotyledons . Singapore University Press. 222 pp. Corners, E. J. H., 1997.
-      Wayside Trees of Malaya: in two volumes . Fourth edition, Malayan Nature Society,
-      Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates
-      139-236. Burkill, I. H., 1993. A Dictionary of the Economic Products of the
-      Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-      Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
 size:
 - 1800.0
 authors:

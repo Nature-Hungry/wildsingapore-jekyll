@@ -24,15 +24,30 @@ order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/formosa/120619tmd5566m3.jpg
-links_references: "**Links**  \n- [Blue-lined\n  hind (*Cephalopholis formosa*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/267)\
-  \ Lim, Kelvin\n  K. P. & Jeffrey K. Y. Low, 1998. *[A\n  Guide to the Common Marine\
-  \ Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore\n\
-  \  Science Centre. 163 pp.\n- [Bluelined\n  hind (*Cephalopholis formosa*)](http://www.fishbase.org/summary/6446)\
-  \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet\n- [Bluelined\n\
-  \  hind (*Cephalopholis formosa*)](http://www.iucnredlist.org/details/132743/0)\
-  \ from IUCN Red List: Technical fact sheet.\n\n**References**\n- Allen, Gerry,\n\
-  \  2000. *Marine\n  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.\n\
-  \  Periplus Editions. 292 pp.\n- Lieske,\n  Ewald and Robert Myers. 2001. *Coral\n"
+links_references: '**Links**
+
+  - [Blue-lined hind (*Cephalopholis formosa*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/267.htm)Lim,
+  Kelvin K. P. & Jeffrey K. Y. Low, 1998.*[A Guide to the Common Marine Fishes of
+  Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
+  Centre. 163 pp.
+
+
+  - [Bluelined hind (*Cephalopholis formosa*)](http://www.fishbase.org/summary/6446)from[FishBase](http://www.fishbase.org/):
+  Technical fact sheet
+
+
+  - [Bluelined hind (*Cephalopholis formosa*)](http://www.iucnredlist.org/details/132743/0)from
+  IUCN Red List: Technical fact sheet.
+
+
+  **References**
+
+  - Allen, Gerry, 2000.*Marine Fishes of South-East Asia: A Field Guide for Anglers
+  and Divers*. Periplus Editions. 292 pp.
+
+
+  - Lieske, Ewald and Robert Myers. 2001.*Coral Reef Fishes of the World*Periplus
+  Editions. 400pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/formosa/120619tmd5566m3.jpg
@@ -68,16 +83,6 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/formosa/161117rlhlks1.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
-  gallery8:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Blue-lined hind ( Cephalopholis formosa ) Lim, Kelvin K. P. &
-      Jeffrey K. Y. Low, 1998. A Guide to the Common Marine Fishes of Singapore .
-      Singapore Science Centre. 163 pp. Bluelined hind ( Cephalopholis formosa ) from
-      FishBase : Technical fact sheet Bluelined hind ( Cephalopholis formosa ) from
-      IUCN Red List: Technical fact sheet. References Allen, Gerry, 2000. Marine Fishes
-      of South-East Asia: A Field Guide for Anglers and Divers . Periplus Editions.
-      292 pp. Lieske, Ewald and Robert Myers. 2001. Coral Reef Fishes of the World
-      Periplus Editions. 400pp.'
 location:
 - tm
 - ecp

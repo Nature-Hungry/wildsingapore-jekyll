@@ -105,23 +105,6 @@ galleries:
       .
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/fineline/220201brklks5.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-  gallery16:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: "Acknowledgement Grateful thanks to Rene Ong for sharing details and\
-      \ identifying the flatworms on this page. References Rene S.L. Ong and Samantha\
-      \ J.W. Tong. 29 October 2018. A preliminary checklist and photographic catalogue\
-      \ of polyclad flatworms recorded from Singapore. Nature in Singapore 2018 11:\
-      \ 77\u2013125. D. M. Bola\xF1os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. First\
-      \ records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea)\
-      \ from Singapore: A taxonomic report with remarks on colour variation .(pdf)\
-      \ The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169. Newman,\
-      \ L.J. & Cannon, L.R.G. Nine new species of Pseudobiceros (Platyhelminthes:\
-      \ Polycladida) from Indo-Pacific . Pp. 341-368. in the Raffles Bulletin of Zoology\
-      \ vol 45. Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.\
-      \ Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii\
-      \ exclusive of the vertebrates Sea Challengers. 314pp. Newman, Leslie and Lester\
-      \ Cannon. 2003. Marine Flatworms: The World of Polyclads . CSIRO Publishing.\
-      \ 97pp."
 location:
 - chg
 - cj
@@ -144,6 +127,20 @@ authors:
 zone:
 - intertidal
 - marine
+links_references: "**Acknowledgement** \nGrateful thanks to Rene Ong for sharing details\
+  \ and identifying the flatworms on this page. \n \n**References**\n- Rene S.L. Ong\
+  \ and Samantha J.W. Tong. 29 October 2018.*A preliminary checklist and photographic\
+  \ catalogue of polyclad flatworms recorded from Singapore.*Nature in Singapore 2018\
+  \ 11: 77\u2013125.\n\n- D. M. Bola\xF1os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.*First\
+  \ records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from\
+  \ Singapore: A taxonomic report with remarks on colour variation*.(pdf) The Raffles\
+  \ Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.\n\n- Newman, L.J.\
+  \ & Cannon, L.R.G.*Nine new species of Pseudobiceros (Platyhelminthes: Polycladida)\
+  \ from Indo-Pacific*. Pp. 341-368. in the Raffles Bulletin of Zoology vol 45.\n\n\
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef\
+  \ Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the\
+  \ vertebrates*Sea Challengers. 314pp.\n\n- Newman, Leslie and Lester Cannon. 2003.*Marine\
+  \ Flatworms: The World of Polyclads*. CSIRO Publishing. 97pp."
 ---
 
 ## Where seen?

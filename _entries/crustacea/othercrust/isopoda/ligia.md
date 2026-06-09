@@ -22,21 +22,46 @@ suborder: Oniscidea
 infraorder: Diplocheta
 updated: Mar 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
-links_references: "**Links**\n- [Order\n  Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\
-  \ Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Mangrove\n  sea slater\
-  \ (*Ligia hawaiiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2034) Ng, Peter\
-  \ K. L. & N.\n  Sivasothi, 1999. *[A\n  Guide to the Mangroves of Singapore II (Animal\
-  \ Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*.\n  Singapore Science Centre.\
-  \ 168 pp.\n- [*Ligia exotica*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ligia%20exotical)\
-  \ (Isopoda: Ligiidae) Sea slater by Tan Yen Yi, 2016, on taxo4254.\n- [Isopods\n\
-  \  and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipodsl) and\
-  \ [Marine\n  slater](http://www.mesa.edu.au/friends/seashores/l_australiensisl)\
-  \ on the [Life\n  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l)\
-  \ by Keith Davey on the Marine Education\n  Society of Australia website: Fact sheet,\
-  \ diagrams.\n- *[Ligia\n  exotica](http://www.sms.si.edu/irlspec/Ligia_exotica)*\
-  \ by\n  J. Masterson on Smithsonian Marine Station at Fort Pierce.\n\n**References**\n\
-  - Edward E.\n  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate\n"
+links_references: '**Links**
+
+  - [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177.htm)Tan, Leo
+  W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
+
+
+  - [Mangrove sea slater (*Ligia hawaiiensis*)](http://mangrove.nus.edu.sg/guidebooks/text/2034.htm)Ng,
+  Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal
+  Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre.
+  168 pp.
+
+
+  - [*Ligia exotica*](https://singapore.biodiversity.online/taxo4254/mainSpace/Ligia%20exotica.html)(Isopoda:
+  Ligiidae) Sea slater by Tan Yen Yi, 2016, on taxo4254.
+
+
+  - [Isopods and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipods.html)and[Marine
+  slater](http://www.mesa.edu.au/friends/seashores/l_australiensis.html)on the[Life
+  on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)by
+  Keith Davey on the Marine Education Society of Australia website: Fact sheet, diagrams.
+
+
+  - *[Ligia exotica](http://www.sms.si.edu/irlspec/Ligia_exotica.htm)*by J. Masterson
+  on Smithsonian Marine Station at Fort Pierce.
+
+
+  **References**
+
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
+  of Thomson Learning Inc., 7th Edition. pp. 963.
+
+
+  - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.*Rhythm of the Sea: The Life and Times
+  of Labrador Beach.*Division of Biology, School of Science, Nanyang Technological
+  University & Department of Zoology, the National University of Singapore. 160 pp.
+
+
+  - Jones Diana S. and Gary J. Morgan, 2002.*A Field Guide to Crustaceans of Australian
+  Waters*. Reed New Holland. 224 pp.'
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
@@ -64,23 +89,6 @@ galleries:
       by Marcus Ng on flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg
     caption: Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
-  gallery6:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Order Isopoda Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide
-      to Seashore Life . The Singapore Science Centre, Singapore. 160 pp. Mangrove
-      sea slater ( Ligia hawaiiensis ) Ng, Peter K. L. & N. Sivasothi, 1999. A Guide
-      to the Mangroves of Singapore II (Animal Diversity) . Singapore Science Centre.
-      168 pp. Ligia exotica (Isopoda: Ligiidae) Sea slater by Tan Yen Yi, 2016, on
-      taxo4254. Isopods and amphipods and Marine slater on the Life on Australian
-      Seashores by Keith Davey on the Marine Education Society of Australia website:
-      Fact sheet, diagrams. Ligia exotica by J. Masterson on Smithsonian Marine Station
-      at Fort Pierce. References Edward E. Ruppert, Richard S. Fox, Robert D. Barnes.
-      2004. Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition.
-      pp. 963. Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994. Rhythm of the Sea: The
-      Life and Times of Labrador Beach. Division of Biology, School of Science, Nanyang
-      Technological University & Department of Zoology, the National University of
-      Singapore. 160 pp. Jones Diana S. and Gary J. Morgan, 2002. A Field Guide to
-      Crustaceans of Australian Waters . Reed New Holland. 224 pp.'
 location:
 - sbw
 - pgl

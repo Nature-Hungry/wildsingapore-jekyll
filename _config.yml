@@ -32,3 +32,8 @@ collections:
 
 exclude:
 - "*.py"
+
+media_library:
+  name: backblaze-b2
+  config:
+    bucket: ${{ secrets.B2_BUCKET }}

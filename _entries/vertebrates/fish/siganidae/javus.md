@@ -23,12 +23,21 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
-links_references: "**Links**  \n- [Streaked\n  spinefoot (*Siganus javus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4618)\
-  \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet.\n- [Volume\n\
-  \  4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)\
-  \ FAO Species\n  Identification Guide for Fishery Purposes The Living Marine Resources\n\
-  \  of the Western Central Pacific.\n\n**References**\n- Kuiter, Rudie\n  H. 2002.\
-  \ *Guide\n  to Sea Fishes of Australia: A Comprehensive Reference for Divers\n"
+links_references: '**Links**
+
+  - [Streaked spinefoot (*Siganus javus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4618)from[FishBase](http://www.fishbase.org/):
+  Technical fact sheet.
+
+
+  - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00.htm)FAO
+  Species Identification Guide for Fishery Purposes The Living Marine Resources of
+  the Western Central Pacific.
+
+
+  **References**
+
+  - Kuiter, Rudie H. 2002.*Guide to Sea Fishes of Australia: A Comprehensive Reference
+  for Divers & Fishermen*New Holland Publishers. 434pp.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
@@ -43,14 +52,6 @@ galleries:
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/090512tmjk1m6l.jpg
     caption: Tanah Merah, May 09 Photo shared by James Koh on his flickr .
-  gallery4:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Streaked spinefoot ( Siganus javus ) from FishBase : Technical
-      fact sheet. Volume 4: Bony fishes part 2 (Mugilidae to Carangidae) FAO Species
-      Identification Guide for Fishery Purposes The Living Marine Resources of the
-      Western Central Pacific. References Kuiter, Rudie H. 2002. Guide to Sea Fishes
-      of Australia: A Comprehensive Reference for Divers & Fishermen New Holland Publishers.
-      434pp.'
 location:
 - chg
 - cj

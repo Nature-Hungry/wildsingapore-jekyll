@@ -24,18 +24,49 @@ tribe: Ipomoeeae
 inat_id: 60879
 updated: Jan 13
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
-links_references: "**Links**\n- *[Ipomoea\n  pescaprae](http://floraofsingapore.wordpress.com/2010/08/22/ipomoea-pes-caprae/)*\
-  \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- *[Ipomoea\n\
-  \  pes-caprae](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1431)*\n\
-  \  on the NParks Flora and Fauna website: photos and fact sheet.\n- [Tapak\n  Kuda\
-  \ (*Ipomoea pescaprae*)](http://mangrove.nus.edu.sg/pub/seashore/text/110.htm) Tan,\
-  \ Leo W. H. & Ng, Peter\n  K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- Giesen, Wim\n  and Stephan\
-  \ Wulffraat, Max Zieren and Liesbeth Scholten. 2006.\n  [*Mangrove\n  Guidebook\
-  \ for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online\
-  \ downloadable).\n  RAP publication 2006/07 Food and Agriculture Organization of\
-  \ the\n  United Nations Regional Office for Asia and the Pacific Bangkok.\n\n**References**\n\
-  - Hsuan Keng,\n  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
+links_references: '**Links**
+
+  - *[Ipomoea pescaprae](http://floraofsingapore.wordpress.com/2010/08/22/ipomoea-pes-caprae/)*on
+  Total Vascular Flora of Singapore Online: photos and fact sheet.
+
+
+  - *[Ipomoea pes-caprae](https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1431)*on
+  the NParks Flora and Fauna website: photos and fact sheet.
+
+
+  - [Tapak Kuda (*Ipomoea pescaprae*)](http://mangrove.nus.edu.sg/pub/seashore/text/110.htm)Tan,
+  Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
+
+
+  - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.[*Mangrove
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm)(PDF
+  online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+
+
+  **References**
+
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
+  Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Singapore University Press. 222 pp.
+
+
+  - Tan, Hugh T.W. and T. Morgany. 2001.*[Growing the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
+  BP Science Centre Guidebook. 168pp.
+
+
+  - Wee Yeow Chin. 1992.*[A Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
+  The Singapore Science Centre. 160pp.
+
+
+  - Polunin, Ivan. 1987.[*Plants and Flowers of Singapore*](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FPlants-flowers-Singapore-Ivan-Polunin%2Fdp%2FB0007BPQQ0%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1232347888%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325).
+  Times Editions. 160pp.
+
+
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090405smkd8945m3b.jpg
@@ -44,24 +75,6 @@ galleries:
     caption: Opened fruit capsules. Changi, Jan 10
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5717m3.jpg
     caption: Fruit capsule. Pulau Semakau, Jan 09
-  gallery2:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Ipomoea pescaprae on Total Vascular Flora of Singapore Online:
-      photos and fact sheet. Ipomoea pes-caprae on the NParks Flora and Fauna website:
-      photos and fact sheet. Tapak Kuda ( Ipomoea pescaprae ) Tan, Leo W. H. & Ng,
-      Peter K. L., 1988. A Guide to Seashore Life . The Singapore Science Centre,
-      Singapore. 160 pp. Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth
-      Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online downloadable).
-      RAP publication 2006/07 Food and Agriculture Organization of the United Nations
-      Regional Office for Asia and the Pacific Bangkok. References Hsuan Keng, S.C.
-      Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore: Gymnosperms and
-      Dicotyledons . Singapore University Press. 222 pp. Tan, Hugh T.W. and T. Morgany.
-      2001. Growing the Native Plants of Singapore . BP Science Centre Guidebook.
-      168pp. Wee Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science
-      Centre. 160pp. Polunin, Ivan. 1987. Plants and Flowers of Singapore . Times
-      Editions. 160pp. Burkill, I. H., 1993. A Dictionary of the Economic Products
-      of the Malay Peninsula . 3rd printing. Publication Unit, Ministry of Agriculture,
-      Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

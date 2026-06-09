@@ -26,22 +26,44 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
-links_references: "**Links**\n- [Rodong/Berongan\n  (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/guidebooks/text/2084.htm)\
-  \ Ng, Peter K. L. & N. Sivasothi,\n  1999. *[A Guide\n  to the Mangroves of Singapore\
-  \ II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore\n \
-  \ Science Centre. 168 pp.\n- [Telescope\n  Creeper Shell (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/pub/seashore/text/139.htm)\
-  \ Tan, Leo W.\n  H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Telescopium](http://www.seashellarchitecture.com/TELESCOPIUMTELESCOPIUM.htm)\n\
-  \  on the Seashell Architecture website: an X-ray photo of the shell\n  to show\
-  \ its internal structure!\n- [Telescope\n  snail (*Telescopium telescopium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86856)\
-  \ in SeaLife Base: Technical\n  fact sheet.\n- Telescope\n  snail (*Telescopium\
-  \ telescopium*) in\n  the Gastropods section by J.M. Poutiers in the FAO Species\
-  \ Identification\n  Guide for Fishery Purposes: The Living Marine Resources of the\n\
-  \  Western Central Pacific [Volume\n  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)\
-  \ on the Food and\n  Agriculture Organization of the United Nations (FAO) website.\n\
-  \n**References**\n- Tan Siong\n  Kiat and Henrietta P. M. Woo, 2010 *Preliminary\n\
-  \  Checklist of The Molluscs of Singapore* (pdf), Raffles\n  Museum of Biodiversity\
-  \ Research, National University of Singapore.\n- Abbott, R.\n  Tucker, 1991. *Seashells\n"
+links_references: '**Links**
+
+  - [Rodong/Berongan (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/guidebooks/text/2084.htm)Ng,
+  Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal
+  Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre.
+  168 pp.
+
+
+  - [Telescope Creeper Shell (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/pub/seashore/text/139.htm)Tan,
+  Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
+
+
+  - [Telescopium](http://www.seashellarchitecture.com/TELESCOPIUMTELESCOPIUM.htm)on
+  the Seashell Architecture website: an X-ray photo of the shell to show its internal
+  structure!
+
+
+  - [Telescope snail (*Telescopium telescopium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86856)in
+  SeaLife Base: Technical fact sheet.
+
+
+  - Telescope snail (*Telescopium telescopium*) in the Gastropods section by J.M.
+  Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living
+  Marine Resources of the Western Central Pacific[Volume 1: Seaweeds, corals, bivalves
+  and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)on the Food and
+  Agriculture Organization of the United Nations (FAO) website.
+
+
+  **References**
+
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
+  of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
+
+
+  - Abbott, R. Tucker, 1991.*Seashells of South East Asia*. Graham Brash, Singapore.
+  145 pp.'
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
@@ -53,23 +75,6 @@ galleries:
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/251219cnyrqo1.jpg
     caption: Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  gallery4:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Rodong/Berongan ( Telescopium telescopium ) Ng, Peter K. L. &
-      N. Sivasothi, 1999. A Guide to the Mangroves of Singapore II (Animal Diversity)
-      . Singapore Science Centre. 168 pp. Telescope Creeper Shell ( Telescopium telescopium
-      ) Tan, Leo W. H. & Ng, Peter K. L., 1988. A Guide to Seashore Life . The Singapore
-      Science Centre, Singapore. 160 pp. Telescopium on the Seashell Architecture
-      website: an X-ray photo of the shell to show its internal structure! Telescope
-      snail ( Telescopium telescopium ) in SeaLife Base: Technical fact sheet. Telescope
-      snail ( Telescopium telescopium ) in the Gastropods section by J.M. Poutiers
-      in the FAO Species Identification Guide for Fishery Purposes: The Living Marine
-      Resources of the Western Central Pacific Volume 1: Seaweeds, corals, bivalves
-      and gastropods on the Food and Agriculture Organization of the United Nations
-      (FAO) website. References Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary
-      Checklist of The Molluscs of Singapore (pdf), Raffles Museum of Biodiversity
-      Research, National University of Singapore. Abbott, R. Tucker, 1991. Seashells
-      of South East Asia . Graham Brash, Singapore. 145 pp.'
 location:
 - sbw
 - prp

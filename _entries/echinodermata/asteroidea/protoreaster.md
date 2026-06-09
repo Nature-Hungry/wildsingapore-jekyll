@@ -130,32 +130,6 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/160208smkslks5.JPG
     caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his blog
       .
-  gallery18:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Acknowledgements With grateful thanks to Chim Chee Kong of the Star
-      Trackers for identifying the sea stars. Links The Star Trackers blog all about
-      the Knobbly sea stars of Singapore! Protoreaster nodosus (Valvatida: Oreasteridae)
-      Knobbly Sea Star by Chiu Po Wei Diana, 2011 on taxo4254. Starfish conservation:
-      Protoreaster nodosus on The Echinoblog: about the status of the Knobbly sea
-      star. References Loisette M. Marsh and Jane Fromont. Field Guide to Shallow
-      Water Seastars of Australia . 2020. Western Australian Museum. 543pp. Tan Yong
-      How Jonathan, Ria Tan and Loh Kok Sheng. 31 Mar 2016. Juvenile knobbly sea stars
-      on Singapore shores . Singapore Biodiversity Records 2016: 48-52 Genevieve Sew
-      & Siti Maryam Yaakub. 31 July 2015. Knobbly seastar on the shores of Tanah Merah
-      . Singapore Biodiversity Records 2015: 105 Lane, David J.W. and Didier Vandenspiegel.
-      2003 . A Guide to Sea Stars and Other Echinoderms of Singapore . Singapore Science
-      Centre. 187pp. Didier VandenSpiegel et al. 1998. The Asteroid fauna (Echinodermata)
-      of Singapore with a distribution table and illustrated identification to the
-      species . The Raffles Bulletin of Zoology 1998 46(2): 431-470. Davison, G.W.
-      H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened
-      plants and animals of Singapore . Nature Society (Singapore). 285 pp. Schoppe,
-      Sabine, 2000. Echinoderms of the Philippines: A guide to common shallow water
-      sea stars, brittle stars, sea urchins, sea cucumbers and feather stars . Times
-      Edition, Singapore. 144 pp. Gosliner, Terrence M., David W. Behrens and Gary
-      C. Williams. 1996. Coral Reef Animals of the Indo-Pacific: Animal life from
-      Africa to Hawai''i exclusive of the vertebrates Sea Challengers. 314pp. Chou,
-      L. M., 1998. A Guide to the Coral Reef Life of Singapore . Singapore Science
-      Centre. 128 pages.'
 location:
 - chg
 - cj
@@ -185,6 +159,64 @@ authors:
 zone:
 - intertidal
 - marine
+links_references: '**Acknowledgements**With
+
+  grateful thanks to Chim Chee Kong of the [Star
+
+  Trackers](http://startrackers.blogspot.com/) for identifying the sea stars. **Links**
+
+  - [The Star Trackers blog](http://startrackers.blogspot.com/)all about the Knobbly
+  sea stars of Singapore!
+
+
+  - [*Protoreaster nodosus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Protoreaster%20nodosus.html)(Valvatida:
+  Oreasteridae) Knobbly Sea Star by Chiu Po Wei Diana, 2011 on taxo4254.
+
+
+  - [Starfish conservation:*Protoreaster nodosus*](http://echinoblog.blogspot.com/2008/08/starfish-conservation-protoreaster.html)on
+  The Echinoblog: about the status of the Knobbly sea star.
+
+
+  **References**
+
+  - Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water Seastars of Australia*.
+  2020. Western Australian Museum. 543pp.
+
+
+  - Tan Yong How Jonathan, Ria Tan and Loh Kok Sheng. 31 Mar 2016.*Juvenile knobbly
+  sea stars on Singapore shores*. Singapore Biodiversity Records 2016: 48-52
+
+
+  - Genevieve Sew & Siti Maryam Yaakub. 31 July 2015.*Knobbly seastar on the shores
+  of Tanah Merah*. Singapore Biodiversity Records 2015: 105
+
+
+  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
+  Echinoderms of Singapore*. Singapore Science Centre. 187pp.
+
+
+  - Didier VandenSpiegel et al. 1998.*The Asteroid fauna (Echinodermata) of Singapore
+  with a distribution table and illustrated identification to the species*. The Raffles
+  Bulletin of Zoology 1998 46(2): 431-470.
+
+
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
+
+
+  - Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow
+  water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*. Times
+  Edition, Singapore. 144 pp.
+
+
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawai''i exclusive of the
+  vertebrates*Sea Challengers. 314pp.
+
+
+  - Chou, L. M., 1998.*A Guide to the Coral Reef Life of Singapore*. Singapore Science
+  Centre. 128 pages.'
 ---
 
 ## Where seen?

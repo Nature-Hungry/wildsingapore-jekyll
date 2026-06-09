@@ -1,0 +1,145 @@
+---
+title: "Step-by-step guide to identifying living things in singapore"
+
+---
+{% include global/header.html %}
+
+<link rel="stylesheet" href="{{ '/assets/css/stepbystep.css' | relative_url }}">
+<main class="page-content" id="main-content">
+    <div class="sliding-wrapper">
+        <div class="slider">
+            
+            <section class="step">
+                <div class="sub-step" id="sub-on-dry-land">
+                    <h2>What surface/substrate did you see it on?</h2>
+                    <div class="step-nav">
+                        <p class="prev-step">&lt; Back</p>
+                        <p>Next ></p>
+                    </div>
+                    <div class="substrates step-items">
+                        <div class="zone" id="on-plants">
+                            <div class="icon"></div>
+                            <h3>On plants</h3>
+                            <p>On branches of trees or among shrubs</p>
+                        </div>
+                        <div class="zone" id="ground">
+                            <div class="icon"></div>
+                            <h3>On the ground</h3>
+                            <p>Moving on or anchored to the ground</p>
+                        </div>
+                        <div class="zone" id="sky">
+                            <div class="icon"></div>
+                            <h3>In the sky</h3>
+                            <p>Flying or soaring</p>
+                        </div>
+                       
+        
+                    </div>
+                </div>
+                
+                
+            </section>
+
+
+          
+        </div>
+
+    </div>
+
+</main>
+
+
+
+{% include global/footer.html %}
+<script defer>
+document.addEventListener('DOMContentLoaded', () => {
+    
+let zone = "by-the-sea"
+let substrate = ""
+
+let step = 0
+const slider = document.querySelector(".slider")
+function renderStep(){
+    console.log("Slide", `${step*100}%`)
+    slider.style.transform = `translateX(-${step*100}%)`
+    
+}
+
+document.querySelectorAll('.step-items').forEach(s=>{
+    s.addEventListener('click', (event) => {
+        // Check if the clicked element has the target class
+        if (event.target.classList.contains('zone')) {
+            
+            if(event.target.id){
+
+                if(step == 0){
+                    substrate = event.target.id
+                }
+                console.log("clicked on", event.target.id)
+                /*let substep = document.querySelector(`#sub-${event.target.id}`)
+                if(substep){
+                    substep.parentElement.querySelectorAll('.sub-step').forEach(e=>{
+                        e.classList.remove('active')
+                    })
+                    substep.classList.add('active')
+                }else{
+                    substep = document.querySelectorAll(`.sub-step[zone]`).forEach(e=>{
+                        e.classList.remove('active')
+                    })
+                    substep = document.querySelectorAll(`.sub-step[zone=${zone}]`).forEach(e=>{
+                        e.classList.add('active')
+                    })
+                    substep = document.querySelectorAll(`.sub-step[zone=all]`).forEach(e=>{
+                        e.classList.add('active')
+                    })
+                }
+*/
+                step++
+                renderStep()
+            }
+        }
+    });
+})
+
+document.querySelectorAll('.prev-step').forEach(e=>{
+    e.addEventListener('click', event=>{
+        step--;
+        let section = e.closest("section")
+        // Select all checkboxes and radio buttons
+        const inputs = section.querySelectorAll('input[type="checkbox"], input[type="radio"]');
+        // Loop through and uncheck each one
+        inputs.forEach(input => input.checked = false);
+
+        renderStep()
+    })
+})
+document.querySelectorAll('.next-step').forEach(e=>{
+    e.addEventListener('click', event=>{
+        step++;
+        renderStep()
+    })
+})
+
+
+document.querySelectorAll('.gotophotoindex').forEach(e=>{
+    e.addEventListener('click', event=>{
+        // Select all checked checkboxes
+        const checkboxes = document.querySelectorAll('input[type="checkbox"]:checked');
+        const radios = document.querySelectorAll('input[type="radio"]:checked');
+
+        // Convert to an array of values
+        const cbvalues = Array.from(checkboxes).map(cb => cb.value);
+        const rvalues = Array.from(radios).map(r => r.value);
+        let attributes = [...cbvalues, ...rvalues]
+
+        console.log("Zone: ", zone)
+        console.log("Substrate: ", substrate)
+        console.log("Attributes:", attributes)
+
+        window.location.href = `/stepbystep/result?zone=${zone}&substrate=${substrate}&attrs=${attributes}`
+    })
+})
+
+});
+
+</script>

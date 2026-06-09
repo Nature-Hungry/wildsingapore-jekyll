@@ -23,11 +23,31 @@ subfamily: Rubioideae
 tribe: Palicoureeae
 updated: Dec 09
 coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg
-links_references: "**Links**\n- [Coffee](http://www.hort.purdue.edu/newcrop/Crops/Coffeel)\n\
-  \  and *[Coffea\n  arabica](http://www.hort.purdue.edu/newcrop/duke_energy/Coffea_arabical)*\
-  \ New Crop Resource Online Program at Purdue University.\n- [The\n  story of coffee](http://www.ico.org/coffee_story.asp)\
-  \ on the International Coffee Organization website.\n\n**References**\n- Hsuan Keng,\n\
-  \  S.C. Chin and H. T. W. Tan. 1990, *[The\n"
+links_references: '**Links**
+
+  - [Coffee](http://www.hort.purdue.edu/newcrop/Crops/Coffee.html)and*[Coffea arabica](http://www.hort.purdue.edu/newcrop/duke_energy/Coffea_arabica.html)*New
+  Crop Resource Online Program at Purdue University.
+
+
+  - [The story of coffee](http://www.ico.org/coffee_story.asp)on the International
+  Coffee Organization website.
+
+
+  **References**
+
+  - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
+  Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Singapore University Press. 222 pp.
+
+
+  - Corners, E. J. H., 1997.*[Wayside Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
+  1-38; volume 2: 477-861 pp., plates 139-236.
+
+
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
+  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5832m6l.jpg
@@ -41,18 +61,6 @@ galleries:
     caption: Pulau Ubin, Oct 09
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5839m6l.jpg
     caption: Pulau Ubin, Dec 09
-  gallery3:
-  - url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
-    caption: 'Links Coffee and Coffea arabica New Crop Resource Online Program at
-      Purdue University. The story of coffee on the International Coffee Organization
-      website. References Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise
-      Flora of Singapore: Gymnosperms and Dicotyledons . Singapore University Press.
-      222 pp. Corners, E. J. H., 1997. Wayside Trees of Malaya: in two volumes . Fourth
-      edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38;
-      volume 2: 477-861 pp., plates 139-236. Burkill, I. H., 1993. A Dictionary of
-      the Economic Products of the Malay Peninsula . 3rd printing. Publication Unit,
-      Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2:
-      1241-2444.'
 size:
 - 500.0
 authors:
