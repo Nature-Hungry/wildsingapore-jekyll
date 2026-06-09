@@ -2,7 +2,6 @@ backend:
   name: github
   repo: Wild-Singapore/wildsingapore-jekyll
   branch: main
-  auth_endpoint: https://api.netlify.com/auth
   base_url: https://api.netlify.com
 
 media_folder: "assets/images/uploads" # Where media files will be saved
