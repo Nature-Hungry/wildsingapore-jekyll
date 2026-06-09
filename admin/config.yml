@@ -1,19 +1,21 @@
 backend:
   name: github
-  repo: nature-hungry/nature-hungry.github.io # Path to your GitHub repository
-  branch: main # or master, depending on your default branch
+  repo: Wild-Singapore/wildsingapore-jekyll
+  branch: main
+  auth_endpoint: https://api.netlify.com/auth
+  base_url: https://api.netlify.com
 
 media_folder: "assets/images/uploads" # Where media files will be saved
 public_folder: "https://f003.backblazeb2.com/file/naturehungry/" # Where Jekyll will look for them
 
 collections:
-  - name: "entries"
-    label: "Entries"
+  - name: "species"
+    label: "Species Factsheets"
     folder: "_entries"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Body", name: "body", widget: "markdown"}
