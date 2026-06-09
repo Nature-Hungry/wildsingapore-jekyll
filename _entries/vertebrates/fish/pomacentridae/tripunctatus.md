@@ -27,6 +27,13 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Oct 2020
+forms:
+- juvenile:
+    img: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m.jpg
+    summary:  "Juvenile with electric blue stripes on nose and ringed dark spot on dorsal fin and base of tail. Living reefs. Sometimes seen on our Northern shores."
+    size:
+    - 2.0
+    - 3.0
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
 galleries:
   gallery1:
@@ -166,9 +173,6 @@ size:
 rdb: LC
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
-zone:
-- intertidal
-- marine
 ---
 
 ## Where seen?

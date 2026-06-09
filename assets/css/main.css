@@ -149,12 +149,15 @@ body {
 nav{
     display:flex;
     justify-content: space-between;
-    padding:2rem 4rem;
+    padding:3rem 4rem;
     gap:1rem;
     align-items: center;
 }
 .nav-logo{
   text-align: center;
+}
+.nav-logo h1{
+  margin:0;
 }
 .nav-links{
     white-space: nowrap;
@@ -953,6 +956,12 @@ li { margin-bottom: 0.2rem; }
   background-color:       var(--color-content-bar-btn);
 }
 
+@media screen and (max-width:1000px) {
+  .nav-socials{
+    display:none
+  }
+}
+
 @media (max-width: 700px) {
   .page-with-bar {
     grid-template-columns: 1fr;
@@ -976,7 +985,7 @@ li { margin-bottom: 0.2rem; }
     padding: 0 2rem 3rem;
   }
   nav{
-    padding: 1rem;
+    padding: 2rem;
   }
 }
 

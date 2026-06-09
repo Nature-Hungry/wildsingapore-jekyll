@@ -42,6 +42,7 @@
 window.addEventListener('load', () => {
     const toggle_btn = document.getElementById('show-filters-btn')
     const tax_filters = document.querySelectorAll('.tax-filters')[0]
+    const filters = document.querySelectorAll('.filters')[0]
     let opened = false;
     toggle_btn.addEventListener('click',e=>{
         console.log(e)
@@ -49,8 +50,11 @@ window.addEventListener('load', () => {
 
         if(opened){
             tax_filters.classList.add("show")
+            filters.classList.add("show")
         }else{
             tax_filters.classList.remove("show")
+            filters.classList.remove("show")
+
         }
     })
     
