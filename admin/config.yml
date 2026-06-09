@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Wild-Singapore/wildsingapore-jekyll
+  repo: Nature-Hungry/wildsingapore-jekyll
   branch: main
   base_url: https://api.netlify.com
 
