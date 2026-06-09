@@ -2,7 +2,12 @@ backend:
   name: github
   repo: Wild-Singapore/wildsingapore-jekyll
   branch: main
-  base_url: https://api.netlify.com
+  # base_url: https://api.netlify.com
+  use_graphql: true
+  open_authoring: false
+
+  
+local_backend: true
 
 media_folder: "assets/uploads" # Where media files will be saved
 public_folder: "https://f003.backblazeb2.com/file/naturehungry/" # Where Jekyll will look for them
@@ -13,10 +18,10 @@ collections:
     folder: "_entries"
     create: true
     slug: "{{slug}}"
+    path: "{{slug}}/index"
     nested:
-      depth: 10 
+      depth: 6 
     
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
     
     fields:
       - {label: "Title", name: "title", widget: "string"}
