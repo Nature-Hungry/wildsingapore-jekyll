@@ -6,6 +6,7 @@ backend:
   use_graphql: true
   open_authoring: true
 
+publish_mode: editorial_workflow
   
 local_backend: true
 
