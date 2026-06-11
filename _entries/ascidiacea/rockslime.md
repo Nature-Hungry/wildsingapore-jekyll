@@ -1,5 +1,5 @@
 ---
-title: 'Rock slime ascidians (Ascidiacea) '
+title: 'Rock slime ascidians  '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: rock, slime, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
   chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,

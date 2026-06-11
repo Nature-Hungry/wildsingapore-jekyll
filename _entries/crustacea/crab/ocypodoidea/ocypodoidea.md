@@ -25,7 +25,7 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg

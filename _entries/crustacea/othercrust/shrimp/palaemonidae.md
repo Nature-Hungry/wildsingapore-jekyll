@@ -25,7 +25,7 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
 galleries:
   gallery1:
   - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg

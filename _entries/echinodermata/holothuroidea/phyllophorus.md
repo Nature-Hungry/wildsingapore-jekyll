@@ -26,7 +26,7 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Orange lobed ascidians (Ascidiacea) '
+title: 'Orange lobed ascidians  '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: orange, blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
   chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,

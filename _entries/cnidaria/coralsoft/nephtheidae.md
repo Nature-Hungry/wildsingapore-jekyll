@@ -17,7 +17,7 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg

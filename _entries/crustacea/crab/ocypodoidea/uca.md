@@ -26,7 +26,7 @@ superfamily: Ocypodoidea
 subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Jan 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
 links_references: "**Links**\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053.htm)with\

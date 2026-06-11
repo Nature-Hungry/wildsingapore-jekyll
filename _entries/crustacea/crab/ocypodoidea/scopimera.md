@@ -13,7 +13,7 @@ family: Dotillidae
 genus: Scopimera
 species: and
 updated: Dec 2019
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/scopimera/050206cjd0046m3.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/scopimera/050206cjd0046m3.jpg

@@ -23,7 +23,7 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Oct 2016
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg

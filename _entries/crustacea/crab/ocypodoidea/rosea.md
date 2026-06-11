@@ -30,7 +30,7 @@ superfamily: Ocypodoidea
 subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Dec 2019
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg

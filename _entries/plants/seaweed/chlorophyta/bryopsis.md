@@ -25,7 +25,7 @@ superfamily: Noctuoidea
 subfamily: Noctuinae
 tribe: Bryophilini
 updated: Oct 2016
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: http://www.wildsingapore.com/worm/polychaeta/giant/040410sisbd0011m3.jpg
 galleries:
   gallery2:
   - url: http://www.wildsingapore.com/worm/polychaeta/giant/040410sisbd0011m3.jpg

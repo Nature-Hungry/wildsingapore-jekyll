@@ -28,7 +28,7 @@ order: Clypeasteroida
 suborder: Clypeasterina
 subfamily: Arachnoidinae
 updated: Mar 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg

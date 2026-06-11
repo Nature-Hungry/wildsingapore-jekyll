@@ -25,9 +25,9 @@
   --color-section-head:     #CC6666;
   --color-accent-green:     #336600;
   --color-accent-orange:    #CC6600;
-  --color-bg:               #FFFFFF;
+  --color-bg:               #fffffd;
   --color-surface:          #F5F5F0;
-  --color-text:             #222222;
+  --color-text:             #484855;
   --color-text-muted:       #666666;
   --color-border:           #DDDDCC;
   --color-link:             rgb(162, 65, 0);
@@ -1011,7 +1011,7 @@ li { margin-bottom: 0.2rem; }
   max-width: 900px;
   margin:0 auto;
   width:100%;
-  height:100%;
+  /* height:100%; */
   object-fit:cover;
 }
 .img-container .caption p{
@@ -1026,18 +1026,38 @@ hr{
 
 
 input[type="text"]{
-  border:2px solid lightgrey;
+    font-size: 1rem;
+    padding:1rem;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    outline: none;
+    background-color: white;
+    border-color: #f0f0f0;
+
+    color: #0d0c22;
+    transition: .3s ease;
+}
+input[type="text"]::placeholder {
+ color: #9e9ea7;
+}
+input[type="text"]:focus, input[type="text"]:hover {
+ outline: none;
+ border-color: rgb(0, 115, 25);
+ background-color: #fff;
+ box-shadow: 0 0 0 4px rgb(0 115 25 / 10%);
 }
 select{
   appearance: none;
   width: 100%;
   font-size: 1rem;
   padding: 0.5em 5em 0.5em 1em;
-  background-color: #fff;
-  border: 1px solid #caced1;
-  border-radius: 0.25rem;
-  color: #000;
   cursor: pointer;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  outline: none;
+  border-color: #f0f0f0;
+  color: #0d0c22;
+  transition: .3s ease;
 }
 
 

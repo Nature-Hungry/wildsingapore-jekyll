@@ -17,7 +17,7 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg

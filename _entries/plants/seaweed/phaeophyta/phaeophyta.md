@@ -13,7 +13,7 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 08
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg

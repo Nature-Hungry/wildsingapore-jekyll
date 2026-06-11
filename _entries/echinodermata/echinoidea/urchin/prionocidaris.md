@@ -27,7 +27,7 @@ order: Cidaroida
 superfamily: Cidaroidea
 subfamily: Stylocidarinae
 updated: Apr 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg

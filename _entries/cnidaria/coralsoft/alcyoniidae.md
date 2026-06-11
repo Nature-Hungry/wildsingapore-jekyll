@@ -17,7 +17,7 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg

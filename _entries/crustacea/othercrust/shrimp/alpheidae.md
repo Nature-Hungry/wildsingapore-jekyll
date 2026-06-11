@@ -33,7 +33,7 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg

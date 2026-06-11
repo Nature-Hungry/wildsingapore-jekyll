@@ -1,5 +1,5 @@
 ---
-title: 'Ascidians (Ascidiacea) '
+title: 'Ascidians  '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,

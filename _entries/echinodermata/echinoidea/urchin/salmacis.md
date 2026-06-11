@@ -20,7 +20,7 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg

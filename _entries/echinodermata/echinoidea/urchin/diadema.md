@@ -27,7 +27,7 @@ infraclass: Aulodonta
 superorder: Diadematacea
 order: Diadematoida
 updated: Mar 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/diadema/080608cyrd5418m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/diadema/080608cyrd5418m3.jpg
