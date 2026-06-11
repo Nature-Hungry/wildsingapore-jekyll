@@ -112,6 +112,7 @@ let pageInfo = Array.from(document.getElementsByClassName('page-info'))
 
 let prevBtn = Array.from(document.getElementsByClassName('prev'))
 let nextBtn = Array.from(document.getElementsByClassName('next'))
+let resultsCount = document.getElementById("results-count")
 let taxaFilters = new Set()
 let excludeFilters = new Set()
 let query = ""
@@ -251,6 +252,9 @@ function filterResults(){
 
   if(zone != "all"){
     zoneFilter = item=>{
+      if(!item.zone){
+        console.log(item)
+      }
       if(item.zone.includes(zone)){
         console.log(item.title)
       }
@@ -344,6 +348,8 @@ function renderResults() {
     pi.textContent = `Page ${currentPage} of ${totalPages || 1}`
 
   })
+
+  resultsCount.textContent = results.length + " results"
 
   prevBtn.forEach(pb=>{
     pb.disabled = currentPage === 1

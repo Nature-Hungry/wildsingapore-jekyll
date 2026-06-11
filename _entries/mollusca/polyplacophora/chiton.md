@@ -24,7 +24,7 @@ trivia_items:
 - Most are tiny and hard to spot.
 - They cling on tenaciously. Don't try to pry them off. Leave them alone!
 galleries:
-  gallery2:
+  gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
     caption: Changi, Jan 12
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6156m3.jpg
@@ -130,13 +130,6 @@ size:
 - 3.0
 - 12.0
 - 300.0
-trivia_title: if you learn only 3 things about them ..
-trivia_items:
-- Although they have segmented shells, they are molluscs and not crustaceans
-- Most are tiny and hard to spot
-- They cling on tenaciously
-- Don't try to pry them off
-- Leave them alone!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
