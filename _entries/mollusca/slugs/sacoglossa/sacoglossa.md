@@ -20,7 +20,7 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg

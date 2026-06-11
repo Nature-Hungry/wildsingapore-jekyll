@@ -1,13 +1,30 @@
 <style>
+        
+input[type="checkbox"] {
+  width: 1.4rem;
+  height: 1.4rem;
+  cursor: pointer; /* Enhances user experience */
+}
 
+details > summary::before {
+  content: "+";
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+  left: 0;
+}
+
+details[open] > summary::before {
+  content: "-";
+}
         .tax-filters{
-            width:fit-content;
             overflow:hidden;
             flex-shrink:0;
-            border:2px solid lightgrey;
             border-radius: 5px;
             height:fit-content;
             padding:1rem;
+            background-color:white;
+            box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.02);
         }
 
         .tax-children{
@@ -16,7 +33,26 @@
 
         .tax-title{
             white-space: nowrap;
+            width:100%;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            position:relative;
+            padding-left:15px;
+            gap:1rem;
+            border-bottom:1px solid lightgrey;
+            padding-bottom:0.2rem;
+            padding-top:0.2rem;
+            
         }
+
+        summary.tax-title{
+            cursor:pointer;
+        }
+        summary.tax-title:hover{
+            background-color:lightgrey;
+        }
+        
 
         @media (max-width:800px){
             .tax-filters{

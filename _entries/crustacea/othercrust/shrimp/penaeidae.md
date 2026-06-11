@@ -9,7 +9,7 @@ genus: Family
 species: Penaeidae
 attributes: []
 updated: Feb 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
 links_references: '**Links**
 
   - [Prawns (*Penaeus*and*Metapenaeus*)](http://mangrove.nus.edu.sg/pub/seashore/text/182.htm)Tan,

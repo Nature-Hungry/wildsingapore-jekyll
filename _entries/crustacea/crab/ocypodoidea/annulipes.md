@@ -28,7 +28,7 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg

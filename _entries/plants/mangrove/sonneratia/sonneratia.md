@@ -17,7 +17,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Myrtales
 updated: Jan 2013
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg

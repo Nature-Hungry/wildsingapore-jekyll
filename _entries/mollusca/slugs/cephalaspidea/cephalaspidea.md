@@ -20,7 +20,7 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
 galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg

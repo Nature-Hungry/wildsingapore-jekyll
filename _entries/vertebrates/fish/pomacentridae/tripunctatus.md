@@ -171,6 +171,9 @@ size:
 - 12.0
 - 15.0
 rdb: LC
+zone:
+- intertidal
+- marine
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---

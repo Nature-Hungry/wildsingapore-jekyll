@@ -21,7 +21,7 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg

@@ -7,15 +7,15 @@
     width:100%;
 }
 .img-wrap-group .img-container img{
-    width:auto;
-    height:auto;
-    max-width: 400px;
+    width:100%;
+    
 
 }
 .img-wrap-group .img-container {
-    width: min-content;
-    max-width: 400px;
+    max-width: 300px;
     margin-bottom:0.5rem;
+    flex: 1;
+    min-width: 100px;
 }
 .img-wrap-group .img-container .caption{
     display: flex;
@@ -28,9 +28,7 @@
 .img-wrap-group .img-container .caption p{
     margin-bottom:0;
 }
-.img-wrap-group .img-container img{
-    height:auto;
-}
+
 
 .img-grid{
     display:grid;
@@ -51,9 +49,5 @@
         width: 100%;
         max-width: 100%;
     }
-    .img-wrap-group .img-container{
-        max-width:100%;
-        width: auto;
-
-    } 
+    
 }

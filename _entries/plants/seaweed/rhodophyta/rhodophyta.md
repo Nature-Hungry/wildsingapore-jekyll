@@ -13,7 +13,7 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 11
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg

@@ -17,7 +17,7 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg

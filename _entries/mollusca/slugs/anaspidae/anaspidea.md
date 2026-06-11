@@ -1,7 +1,9 @@
 ---
 title: 'Sea hares '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: seahare, hare, anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: seahare, hare, anaspidea, opisthobranch, gastropod, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Aplysiidae
 genus: ''
@@ -18,7 +20,7 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg

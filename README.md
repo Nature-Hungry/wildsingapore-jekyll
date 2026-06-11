@@ -1,20 +1,9 @@
-The latest changes are made to the seagrasses,
-please take a look at /guides/plants/seagrass/seagrassfi.html
-and /_entries/plants/seagrass/*.md
-
-The rest of the entries and indexes have not been touched yet and is generated from a copy of the original website using the free version of claude
-
-but we aim to standardize all to what we are working on in the seagrass sections
-
-
-
 # Initial Roadmap
 	🟡 Clean and structure original data from http://www.wildsingapore.com
 		🟡 Entries	
 			 ✅ Image galleries
 			 ✅ Text sections
-			 🟡 Links & References
-			 🔲 Text section titles
+			 ✅ Links & References
 			 ✅ Location information
 			 🟡 IUCN & RDB status
 			 🔲 !Entry attributes
@@ -24,8 +13,8 @@ but we aim to standardize all to what we are working on in the seagrass sections
 			 🔲 !Assigning habitats to entries
 			 🔲 !Adding form information to entries (juvenile, larvae form etc.)
 		 🔲 Entry guides
-			 🔲 Pages to aggregate guides (files not ending in fi.md)
-			 🔲 Entry guide content (files ending in fi.md)
+			 🔲 Pages to aggregate guides
+			 🔲 Entry guide content (pages on how to tell apart things)
 	🟡 Entry aggregates
 		🟡 Explore page
 			✅ Text query search
@@ -36,9 +25,15 @@ but we aim to standardize all to what we are working on in the seagrass sections
 				🔲 Logic for "Other" checkbox option
 			🔲 Other filters (not decided yet)
 		🔲 Step-by-step Photo indexes
-			🔲 Identify features to group entries by
-			🟡 Prototype
+			🟡 Identify features to group entries by
+            ✅ Marine
+            🔲 Terrestrial
+            🔲 Freshwater
          🔲 Add graphics for every button
+         🔲 Add photoindexes that group animals by their features
+            🔲 Adapt from original fi.htm pages
+            🔲 Create new photoindexes
+            🔲 Assign features to photoindexes
 	🔲 New pages that reflect the goals of the new site
 	🟡 Layout components (subject to feedback & change)
 		🔲 Responsive css
@@ -48,7 +43,7 @@ but we aim to standardize all to what we are working on in the seagrass sections
        🔲 Add classroom activities with proper YAML headers
 
 # The Future 
-    🔲 Client-server hybrid architecture
+    🔲 Client-server architecture
       🔲 Features
          🔲 Visual editor
          🔲 Contributor dashboard for editing authorized entries

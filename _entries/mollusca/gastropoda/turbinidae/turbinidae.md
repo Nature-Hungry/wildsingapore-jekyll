@@ -17,7 +17,7 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Oct 2019
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg

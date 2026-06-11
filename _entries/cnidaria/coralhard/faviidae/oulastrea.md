@@ -17,7 +17,7 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg

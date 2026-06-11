@@ -16,7 +16,7 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Aug 2025
-coverimg: ../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
 links_references: '**Links**
 
   - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm)Tan,

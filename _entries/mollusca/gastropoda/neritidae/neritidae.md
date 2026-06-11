@@ -18,7 +18,7 @@ subclass: Neritimorpha
 order: Cycloneritida
 superfamily: Neritoidea
 updated: Sep 2020
-coverimg: ../../../../Templates/fornatureguides.gif
+coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
 links_references: "**Links**\n- [Common nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm)and[Violet\
   \ nerite (*Dostia violacea*)](http://mangrove.nus.edu.sg/guidebooks/text/2079.htm)Ng,\
   \ Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal\
