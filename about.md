@@ -1,24 +1,29 @@
 ---
-title: "About"
+title: "About Nature Hungry"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "index, worm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
 
-The site was set up for a layman introduction to our more common marine life. It was created in 1984! It also hopes to help nature guides in their work, with a [special section for nature guides](forguides/index).
+Nature Hungry was started by Jayden Kang and Ong Jun Ze, with LOTS of help from great people like **Ria Tan**. This website would not be possible without them.
 
-This site is an 'upgrade' of the Chek Jawa online guide that was launched in 2003 to support the Chek Jawa guidebook. That online guide was set up to include all the information and photos that could not fit into the guidebook. Since then, Ria has been visiting many other shores and has been amazed by the rich shorelife. In preparation for a broader guidebook to all our shores, Ria has set up the new Wild FactSheets online guide to showcase Singapore's shorelife. It is a work in progress and pages will be continuously added and updated. The focus is on marinelife on the intertidal. But hopefully, as I have more time and information, I hope to add factsheets about our other wild stuff, subtidal and terrestrial. 
-
-**It is now 2026**, and two pesky birdwatchers are porting this website onto GitHub Pages so you and anyone can contribute to it! We believe the site's future stands in open source, and welcome any interested parties who would like to help. The Wild FactSheets will be expanded to incorporate other taxa, and we will try our best to add everything!
-  
-## Use of Materials and Photos on This Site
-As this originally started as a fork of Ria Tan's website, please contact her (Ria at [hello@wildsingapore.com](mailto:%20hello@wildsingapore.com)) for commercial use (i.e., revenue generating). Use for commercial purposes can be arranged for a donation that supports nature conservation and education. This includes citing the checklists in publications and other work.  
-
-Free use is permitted for educators using the material in a classroom setting or non-commercial educational activities, students using this material for school assignments, personal websites, screen savers. For such uses, **please acknowledge the source (www.wildsingapore.com) and copyright holder (Ria Tan)**, adding a link to Ria's site (www.wildsingapore.com/wildfacts/) And do let me know so that I can add a link to your site too.
-
-This site would not have been possible without the kind and generous support of many people. I gratefully [acknowledge](thanks) them, but all errors and omissions are entirely mine.
-
-For [more about wildsingapore.com](http://www.wildsingapore.com/about) and my [other projects](http://www.wildsingapore.com/projects/index), and more [about Ria](http://www.wildsingapore.com/riablog/people/ria).  
+In 2026, we saw a gap in Singapore's nature community. People who wanted to study Singaporean biodiversity had too many resources to choose from, but not a single place to summarise the countless sources of information. So with Jun Ze's software engineering skills, Jayden's talkative nature, and Ria's Wild Fact Sheets, we are now here. We believe the site's future stands in open-source, and welcome any interested parties who would like to help. The Wild Fact Sheets will be expanded to incorporate other taxa, and we will try our best to add as much taxa as we can.
 
 ## Contact Us
-Do [email us](mailto:%20thewildsingapore@gmail.com) if you have any thoughts, comments and ideas to share. We would be glad to hear from you.  
+Do [email us](mailto:%20thewildsingapore@gmail.com) if you have any thoughts, comments and ideas to share. We would be glad to hear from you!
+
+---
+
+## About Wild Fact Sheets
+The website was set up for a layman introduction to our more common marine life. It was created in 1984! It also hopes to help nature guides in their work, with a [special section for nature guides](wildfacts/forguides/index).
+
+The Wild Fact Sheets is an 'upgrade' of the Chek Jawa online guide that was launched in 2003 to support the Chek Jawa guidebook. That online guide was set up to include all the information and photos that could not fit into the guidebook. Since then, Ria has been visiting many other shores and has been amazed by the rich shorelife. In preparation for a broader guidebook to all our shores, Ria has set up the new Wild FactSheets online guide to showcase Singapore's shorelife. It is a work in progress and pages will be continuously added and updated. The focus is on marinelife on the intertidal. But hopefully, as I have more time and information, I hope to add factsheets about our other wild stuff, subtidal and terrestrial. 
+  
+## Use of Materials and Photos on Wild Fact Sheets
+As this originally started as a fork of Ria Tan's website, please contact her (Ria at [hello@wildsingapore.com](mailto:%20hello@wildsingapore.com)) for commercial use (i.e., revenue generating). Use for commercial purposes can be arranged for a donation that supports nature conservation and education. This includes citing the checklists in publications and other work.  
+
+Free use is permitted for educators using the material in a classroom setting or non-commercial educational activities, students using this material for school assignments, personal websites, and screen savers. For such uses, **please acknowledge the source (www.wildsingapore.com) and copyright holder (Ria Tan)**, adding a link to Ria's site (www.wildsingapore.com/wildfacts/) And do let me know so that I can add a link to your site too.
+
+The Wild Fact Sheets would not have been possible without the kind and generous support of many people. I gratefully [acknowledge](thanks) them, but all errors and omissions are entirely mine.
+
+For [more about wildsingapore.com](http://www.wildsingapore.com/about) and my [other projects](http://www.wildsingapore.com/projects/index), and more [about Ria](http://www.wildsingapore.com/riablog/people/ria).  

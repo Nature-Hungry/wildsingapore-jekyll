@@ -1,11 +1,11 @@
 ---
-title: "Links to more info about the Shores of Singapore"
+title: "Useful Links"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 ---
 
-# Websites about Singaporean Biodiversity
+## Websites about Singaporean Biodiversity
 
 [Coral Reefs of Singapore](http://coralreef.nus.edu.sg/)
 by the Marine Biology Lab, NUS. A comprehensive site with lots of photos and maps, tons of info on all our southern islands, and all about reef conservation efforts in Singapore.  
@@ -16,7 +16,7 @@ on the Raffles Museum of Biodiversity Research website: an online journal of the
 [National Biodiversity Centre](http://www.nbrcnparks.org/)
 of the National Parks Board: checklists and more.
  
-# Online versions of printed guidebooks
+## Online versions of printed guidebooks
  
 [Seashore Life of Singapore](http://mangrove.nus.edu.sg/pub/seashore/)
 A full on-line version of the complete BP-Science Centre guide by Leo W H Tan and Peter K L Ng. Includes fact sheets on the flora and fauna of Singapore seashores, an introduction to the shore environment in general, Singapore shores to visit, preparing for a visit, dangerous animals, introduction to special communities on the shore, the strand line, symbiosis Intro and Man and the Sea.  
@@ -27,7 +27,7 @@ A full on-line version of the complete BP-Science Centre guide by Peter K L Ng a
 [Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)
 A full on-line version of the complete BP-Science Centre guide by Kelvin K P Lim and Jeffrey K Y Low. Includes fact sheets on common marine fishes of Singapore, an introduction to coastal marine habitats, fishy trivia, dangerous fishes, fishes and man.
 
-# Online guides to specific flora and fauna groups in Singapore
+## Online guides to specific flora and fauna groups in Singapore
  
 [A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/mainl)
 by Uma Sachidhanandam: though without any description of the nudibranchs, there are lots of photos and locations where the species are found and a list of Singapore nudibranchs.
@@ -41,20 +41,20 @@ fact sheets, checklists, about snaky adventures, our snakes in danger, snaky gam
 [Bird Ecology Study Group blog](http://besgroup.talfrynature.com/)
 observations about bird behaviour and other bird happenings and issues.
 
-# Other Sites
+## Other Sites
 
-## Seaweeds
+### Seaweeds
  
 [AlgaeBase](http://www.algaebase.org/)
 detailed and technical factsheets on every algae you can think
 of. Many with photos.
 
-# Shore Creatures in General
+## Shore Creatures in General
  
 [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l)
 by Keith Davey on the Marine Education Society of Australia website: Fact sheets with photos, diagrams, and even animated gifs with details on various species found in Australia.
   
-## Cnidarians
+### Cnidarians
  
 [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
 website by Dr Daphne Fautin: all about sea
@@ -67,12 +67,12 @@ Fautin, Daphne G. and Gerald R. Allen, 1992. Western Australian Museum.
 [The Scyphozoan website](http://thescyphozoan.ucmerced.edu/)
 by Dr Michael N Dawson: lots of info about jellyfishes in Class Scyphozoa.
 
-## Crustaceans
+### Crustaceans
  
 [Marine Crustaceans of Southern Australia](http://www.museum.vic.gov.au/crust/page1al)
 page on the Museum Victoria website: photos and brief fact sheets on a small selection of crabs, shrimps, barnacles and their relatives.
   
-## Molluscs
+### Molluscs
  
 [Man and Mollusc/Mollusk](http://manandmollusc.net/)
 The Resource Site for Students, Educators, and anyone wanting to learn about molluscs. Includes an introduction to the major classes, molluscs as food, medicine, other uses, religious significance, kid's zone, teacher's zone.
@@ -101,7 +101,7 @@ by Dr James B Wood: a database-driven website on all living cephalopods with spe
 [Cephalopodcast Blog](http://cephalopodcast.com/blog/)
 by Jason Robertshaw: all about cephalopods.
   
-## Echinoderms
+### Echinoderms
  
 [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
 by Dr. Andrew B. Smith on the London Natural History Museum website: everything you could possibly want to know about sand dollars, sea urchins and heart urchins with detailed fact sheets for many species and slots of large close-up images and explanatory diagrams.  
@@ -112,7 +112,7 @@ by ChrisM: all about echinoderms with many interesting scientific details and wa
 [Wold Asteroidea Database](http://www.marinespecies.org/Asteroidea/)
 by Christopher Mah: taxonomic database.
   
-## Fishes
+### Fishes
  
 [FishBase](http://www.fishbase.org/)
 technical fact sheets on almost all families and individual species with photos and details on environment, climate, economic importance, resilience, distribution, biology, red list status, whether dangerous.  
@@ -122,17 +122,17 @@ technical fact sheets on almost all families and individual species with photos 
 [Fishes of Bitung](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/indexl) (Northern Tip of Sulawesi Indonesia) by Seishi Kimura and Keiichi Matsuura (eds.);
 [Coastal Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/indexl) by Keiichi Matsuura, Seishi Kimura and Teguh Peristiwady on the National Science Museum, Tokyo website: factsheets with photos and descriptions with details on similar families found in the area.
   
-## Ascidians
+### Ascidians
  
 [The Dutch Ascidians Homepage](http://www.ascidians.com/) by Arjan Gittenberger: general introduction and photos of a wide range of ascidians.
   
-## Worms
+### Worms
   
 [Nemertes: Portal to the Nemetean Universe](http://nemertes.si.edu/)
 on the The Smithsonian Institution's National Museum of Natural History website: all about ribbon worms.
 
 
-# Other sites with general info
+## Other sites with general info
 [Tree of Life](http://tolweb.org/tree/phylogenyl) web project hosted by The University of Arizona College
 of Agriculture and Life Sciences and The University of Arizona Library: introduction, characteristics, phylogeny, evolution, links.   
   

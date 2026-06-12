@@ -1,18 +1,13 @@
 backend:
-<<<<<<< HEAD
   name: github
   repo: Nature-Hungry/wildsingapore-jekyll
-=======
-  name: git-gateway
-  repo: Wild-Singapore/wildsingapore-jekyll
->>>>>>> c44ef74b35d00e99ec4071c9b32db60d331109e2
   branch: main
   # base_url: https://api.netlify.com
   use_graphql: true
   open_authoring: true
 
 publish_mode: editorial_workflow
-  
+
 local_backend: true
 
 media_folder: "assets/uploads" # Where media files will be saved
