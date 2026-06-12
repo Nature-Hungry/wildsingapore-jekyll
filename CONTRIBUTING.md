@@ -1,4 +1,4 @@
-
+As this site is still new and in the works, there are many things that can be improved on. Feel free to let us know of any ideas that you may have to improve the site.
 # Content structure
 In Jekyll, each page is made out of 2 sections, the frontmatter and the content.
 ## Frontmatter
@@ -177,6 +177,8 @@ zone:
 ```
 
 Attributes field is a list of numbers from the attributes map file which can be found in `/_data/attribute_map.yaml`.
+
+The attribute list is not comprehensive and inadequate. Feel free to suggest more attributes.
 ```yaml
 attributes:
 - 130
