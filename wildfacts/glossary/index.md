@@ -1,26 +1,8 @@
 ---
-title: "Glossary of terms used in the Wild Fact Sheets on wildsingapore"
+title: "Glossary"
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "glossary, meaning, definition, explain, explanation, what, chek, jawa, pulau, ubin, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore"
 layout: default
----
-[![](../../Templates/wildfactsheet3.gif)](../indexl)
-
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals)
-| [all plants](../plants)
-| [concepts](../concepts/indexl)
-| [glossary](indexl)
-| [search](../search)
-
-**Glossary**
-
 ---
 
 **[A](#a)
@@ -33,34 +15,19 @@ blog](http://wildshores.blogspot.com/)
 
 ---
 
-The glossary
-explains some scientific terms used in the website.  
+The glossary explains some scientific terms used in the website.  
   
-**Adaptation:** The features and behaviour of living
-things that help them better survive in their environment.  
+**Adaptation:** The features and behaviour of living things that help them better survive in their environment.  
   
-**Adductor muscle:** In [bivalves](../mollusca/bivalvia),
-the muscle that keeps their shells shut.  
+**Adductor muscle:** In [bivalves](../mollusca/bivalvia), the muscle that keeps their shells shut.  
   
 **Algae:** See [seaweeds](../plants/seaweed/seaweed).  
   
-**Antennae:** A pair of long, jointed, flexible
-structures on the head used to sense the surroundings. Compare with
-[tentacle](#tentacle).  
+**Antennae:** A pair of long, jointed, flexible structures on the head used to sense the surroundings. Compare with [tentacle](#tentacle).  
   
-**Ambush predator:** A [predator](#predator)
-that does not actively hunt its prey. Instead, it hides and waits
-for prey to come within reach (thus they are sometimes also called
-sit-and-wait predators). Some ambush predators rely on camouflage
-to avoid being seen by prey. Some may even lure prey closer, e.g.,
-the [frogfish](../vertebrates/fish/antennariidae/antennariidae).
-While many ambush predators generally don't move about very quickly,
-most are able to rapidly snatch prey that comes close enough.  
+**Ambush predator:** A [predator](#predator) that does not actively hunt its prey. Instead, it hides and waits for prey to come within reach (thus they are sometimes also called sit-and-wait predators). Some ambush predators rely on camouflage to avoid being seen by prey. Some may even lure prey closer, e.g., the [frogfish](../vertebrates/fish/antennariidae/antennariidae). While many ambush predators generally don't move about very quickly, most are able to rapidly snatch prey that comes close enough.  
   
-**Arthropods:** Animals from the Phylum Arthropoda.
-Their bodies are supported by a hard outer casing (called the exoskeleton)
-instead of a back bone. They have jointed limbs. Arthropods include
-insects, spiders, crabs and prawns.  
+**Arthropods:** Animals from the Phylum Arthropoda. Their bodies are supported by a hard outer casing (called the exoskeleton) instead of a back bone. They have jointed limbs. Arthropods include insects, spiders, crabs and prawns.  
   
 **Ascidians:** Animals from the Class [Ascidiacea](../ascidiacea/ascidiacea).
 These animals belong to the same Phylum Chordata as us vertebrates.
