@@ -1,38 +1,99 @@
 ---
 title: Make a Difference
-layout: default
+layout: none
 ---
-<style>
-  
-    section{
-        margin-bottom: 2rem;
-        position: relative;
-    }
+{% include global/header.html %}
 
-    section::before{
-        content: '';
-        position: absolute;
-        height:calc(100% - 3rem);
-        width:2px;
-        background-color: slategray;
-        bottom:0;
-        left:1rem;
+<style>
+    .page-content{
+        display:flex;
+        flex-direction: column;
+        padding-top:0;
     }
-    section h3, section p{
-        margin-left: 2rem;
+  .makediffs{
+    display:flex;
+    gap:2rem;
+    justify-content: center;
+    flex-grow: 1;
+  }
+
+  .makediff{
+    width: 400px;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    height:fit-content;
+    max-height: 800px;
+    height: auto;
+    cursor: pointer;
+    background-color: var(--color-accent-green);
+    color:white;
+    background-position: center;
+    background-size: cover;
+    transition: all 0.1s cubic-bezier(0.075, 0.82, 0.165, 1);
+    font-weight: normal;
+  }
+  .makediff:hover{
+    text-decoration: none;
+    color:white;
+    transform: translateY(-10px);
+     border-color: rgb(0, 115, 25);
+    box-shadow: 0 0 0 4px rgb(0 115 25 / 10%);
+  }
+  .makediff:visited{
+    color:white;
+  }
+ 
+  .makediff h2{
+    color:white;
+  }
+  .makediff .text{
+      padding:0 1rem;
+      flex-grow: 1;
+      background-color: rgba(44, 19, 0, 0.708);
     }
+    .makediff .space{
+    height:60%;
+    min-height: 100px;
+  }
+
+  @media screen and (max-width:500px) {
+    .makediffs{
+        gap:1rem;
+    }
+    .makediff .space{
+        height: 40%;
+    }
+    .makediff .text{
+        padding:0 0.5rem;
+    }
+  }
+    
 </style>
 
-<section>
-    <h2>As an Individual</h2>
-    <p><strong>You</strong> can make a difference too. The more people know and understand our local biodiversity, there'll be a bigger voice for them. This increases the likelihood they can get conserved if they are conservationally significant!</p>
-    <p>If you would like to know what happens in the entire process of a development project, please refer to <a href="/concepts/eia">Guide to the EIA process</a>.</p>
-</section>
+<main class="page-content">
+    <h1 style="text-align:center;margin-bottom: 2rem;">Make a Difference</h1>
+    <div class="makediffs">
+        
+        <a class="makediff" style="background-image: url(https://live.staticflickr.com/4664/39763205972_b3e41020ec_c.jpg);">
+            <div class="space"></div>
+            <div class="text">
+                <h2>As an Individual</h2>
+                <p>Join a community of people who are on a mission to help Singaporeans discover their natural heritage. And make informed decisions about our choices for the future.</p>
+            </div>
+        </a>
+        <a class="makediff" href="/forteachers">
+            <div class="space"></div>
+            <div class="text">
+                <h2>For Teachers</h2>
+                <p>You can always include local biodiversity within your classroom, and many others have done it before you!</p>
+            </div>
+        </a>
+    </div>
 
-<section>
-    <h2>For Teachers</h2>
-    <p>You can always include local biodiversity within your classroom, and many others have done it before you!</p>
-    <p>Refer to <a href="/forteachers/">the For Teachers section</a> for more information.</p>
-</section>
+</main>
+
+
+{% include global/footer.html %}
 
 

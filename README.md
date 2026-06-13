@@ -39,9 +39,9 @@
 		🔲 Responsive css
 		🟡 Navigation header
 		🟡 Footer
-    🔲 Add a search engine in the "For Teachers" page
-       🔲 Add classroom activities with proper YAML headers
-
+   🔲 Add a search engine in the "For Teachers" page
+      🔲 Add classroom activities with proper YAML headers
+   🔲 Vector art and background illustrations
 # The Future 
     🔲 Client-server architecture
       🔲 Features
