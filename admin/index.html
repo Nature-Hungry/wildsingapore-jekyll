@@ -3,15 +3,10 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<<<<<<< HEAD
-  <title>Nature Hungry Admin</title>
-=======
-  <title>Wild Singapore Admin</title>
 
+  <title>Wild Singapore Admin</title>
   <link href="config.yml" type="yaml" rel="cms-config-url" />
 
-
->>>>>>> c44ef74b35d00e99ec4071c9b32db60d331109e2
   <!-- Load Netlify Identity widget first (provides login UI) -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
@@ -25,7 +20,7 @@
       window.netlifyIdentity.on("init", (user) => {
         if (!user) {
           window.netlifyIdentity.on("login", () => {
-            document.location.href = "./";
+            document.location.href = "/admin/";
           });
         }
       });

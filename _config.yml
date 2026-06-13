@@ -30,6 +30,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+include: [admin]
 exclude:
 - "*.py"
 

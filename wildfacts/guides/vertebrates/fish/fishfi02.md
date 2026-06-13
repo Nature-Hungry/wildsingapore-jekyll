@@ -52,7 +52,7 @@ mullet](mugilidae/mugilidae.htm)
  
 About 1.5cm.
 Black with 5 or more white saddles. Lives with a [snapping
-shrimp](../../crustacea/othercrust/shrimp/alpheidae.htm). Sometimes seen on some of our shores.
+shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alpheidae.htm). Sometimes seen on some of our shores.
 About
 1.5 cm. Black and yellow bands. Sometimes
 seen in our mangroves.

@@ -8,7 +8,7 @@ layout: default
 ascidians [photo index](ascidiaceafi)
 | Phylum Chordata
 | Subphylum Tunicata/Urochordata
-| Class [Ascidiacea](ascidiacea)
+| Class [Ascidiacea]
 
 Don't know the name of the ascidian? Try the [ascidian photo index](ascidiaceafi)  
 
