@@ -1,0 +1,40 @@
+{% comment %}
+  _includes/forteacher-preview.html
+  
+  Displays a single classroom activity in the paginated list.
+  
+  Usage:
+    {% include forteacher-preview.html activity=activity %}
+{% endcomment %}
+
+<div class="forteacher-preview">
+  
+  <div class="forteacher-preview__header">
+    <h2 class="forteacher-preview__title">
+      <a href="{{ activity.url | relative_url }}">{{ activity.title }}</a>
+    </h2>
+    
+    <div class="forteacher-preview__tags">
+      <span class="forteacher-subject-tag">{{ activity.subject }}</span>
+    </div>
+  </div>
+  
+  <p class="forteacher-preview__description">
+    {{ activity.description }}
+  </p>
+  
+  <div class="forteacher-preview__meta">
+    {% if activity.author %}
+    <span class="forteacher-preview__author">
+      <strong>by</strong> {{ activity.author }}
+    </span>
+    {% endif %}
+    
+    {% if activity.date %}
+    <span class="forteacher-preview__date">
+      {{ activity.date | date: "%B %d, %Y" }}
+    </span>
+    {% endif %}
+  </div>
+
+</div><!-- .forteacher-preview -->
