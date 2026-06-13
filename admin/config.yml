@@ -1,9 +1,11 @@
 backend:
-  name: git-gateway
+  backend:
+  name: github
   repo: Nature-Hungry/wildsingapore-jekyll
   branch: main
-  # base_url: https://api.netlify.com
-  use_graphql: true
+  base_url: https://api.netlify.com 
+  auth_endpoint: auth
+  use_graphql: true                 
   open_authoring: true
 
 publish_mode: editorial_workflow
