@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<article class="forteacher-article">
+  
+  <div class="forteacher-article__header">
+    
+    <div class="forteacher-article__meta">
+      {% if page.subject %}
+      <p class="forteacher-article__subject">
+        <span class="label">Subject:</span>
+        <strong>{{ page.subject }}</strong>
+      </p>
+      {% endif %}
+      
+      {% if page.author %}
+      <p class="forteacher-article__author">
+        <span class="label">Author:</span>
+        <strong>{{ page.author }}</strong>
+      </p>
+      {% endif %}
+      
+      {% if page.date %}
+      <p class="forteacher-article__date">
+        <span class="label">Posted:</span>
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%B %d, %Y" }}
+        </time>
+      </p>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="forteacher-article__description">
+    {% if page.description %}
+    <p><em>{{ page.description }}</em></p>
+    {% endif %}
+  </div>
+
+  <div class="forteacher-article__content">
+    {{ content }}
+  </div>
+
+  <div class="forteacher-article__footer">
+    <hr>
+    <p>
+      <strong>Share this activity!</strong> Know other teachers who might find this useful? 
+      <a href="mailto:?subject=Classroom Activity: {{ page.title }}&body=Check out this classroom activity: {{ site.url }}{{ page.url }}">
+        Share via email
+      </a>
+    </p>
+    
+    <p>
+      <a href="{{ '/forteachers/' | relative_url }}" class="btn">
+        ← Back to All Activities
+      </a>
+    </p>
+  </div>
+
+</article>

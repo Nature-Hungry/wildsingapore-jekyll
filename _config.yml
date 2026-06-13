@@ -29,6 +29,18 @@ collections:
   photoindexes:
     output: true
     permalink: /:collection/:path/
+  forteachers:
+    output: true
+    permalink: /wildfacts/forteachers/:name/
+    sort_by: date
+
+pagination:
+  enabled: true
+  per_page: 5
+  sort_field: "date"
+  sort_reverse: true
+  permalink: "/wildfacts/forteachers/page/:num/"
+  title_suffix: " — Page :num"
 
 exclude:
 - "*.py"
