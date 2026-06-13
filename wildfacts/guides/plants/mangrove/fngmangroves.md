@@ -107,7 +107,7 @@ provide food:**
 - Some animals
   can eat mangrove leaves, ***Can you see any animals that might
   eat mangrove leaves?*** Yes, crabs do! (See [tree
-  climbing crabs](../../crustacea/crab/sesarmidae/episesarma)).
+  climbing crabs](/wildfacts/guides/crustacea/crustacea/crab/sesarmidae/episesarma)).
 - Dead and
   decaying mangrove leaves also wash out into the seagrass meadows
   and coral reefs where they feed other creatures there.
@@ -122,10 +122,10 @@ provide shelter:**
 - Some animals
   that can live in between water and land are also found here ([mudskippers](../../vertebrates/fish/gobiidae/mudskipper),
   [tree
-  climbing crabs](../../crustacea/crab/sesarmidae/episesarma)).
+  climbing crabs](/wildfacts/guides/crustacea/crustacea/crab/sesarmidae/episesarma)).
 - The mat of
   roots provide firm ground for small burrowing animals ([fiddler
-  crabs](../../crustacea/crab/ocypodoidea/uca)).
+  crabs](/wildfacts/guides/crustacea/crustacea/crab/ocypodoidea/uca)).
 - ***Let's
   see if we can find some of these animals?***
 
@@ -163,7 +163,7 @@ favourite food depends on mangroves.
 - ***What
   are YOUR favourite seafood? Let's see if we can find them here
   in this mangrove?*** Young
-  crabs, [shrimps](../../crustacea/othercrust/shrimp/shrimp)
+  crabs, [shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/shrimp)
   live in the mangroves before going into deeper waters as they
   grow up where they are caught by fishermen. So to get good fishing,
   it's important to have good mangroves nearby.

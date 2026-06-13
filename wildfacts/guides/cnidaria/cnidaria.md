@@ -330,7 +330,7 @@ clown anemonefish](../vertebrates/fish/pomacentridae/ocellaris.htm) can live hap
 in the  [carpet anemone](actiniaria/stichodactyla.htm) that would eat any other fish. *Kusu Island, Jun 04*
 *![](../crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg)*  
 [Peacock-tail anemone
-shrimps](../../crustacea/othercrust/shrimp/brevicarpalis.htm)   
+shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis.htm)   
 are often
 found [carpet anemones](actiniaria/stichodactyla.htm).  
 *Kusu Island, Jul 04*

@@ -8,7 +8,7 @@ layout: default
 
 ascidians [text index](ascidiaceaindex)
 | Phylum Chordata
-| Subphylum Tunicata/Urochordata | Class [Ascidiacea](ascidiacea)
+| Subphylum Tunicata/Urochordata | Class [Ascidiacea]
 
 ![](polycarpa/050510tusg6134m.jpg)  
 [Thumbs-up sea squirt](polycarpa) *Polycarpa* sp.

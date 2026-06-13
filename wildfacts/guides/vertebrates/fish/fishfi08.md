@@ -186,14 +186,14 @@ near reefs. Sometimes seen on our shores.
 4-6cm.
 6 broad oblique bars on the body, many pink and blue spots on the
 head. Lives with a [snapping
-shrimp](../../crustacea/othercrust/shrimp/alpheidae.htm). Sandy, silty areas near reefs. Sometimes seen on our Southern
+shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alpheidae.htm). Sandy, silty areas near reefs. Sometimes seen on our Southern
 shores.
 6-10cm.
 Two bright orange stripes. Near reefs. Sometimes seen on our shores.
 5-7cm.
 Adults with 5 or more pale saddles, dark spots along the sides and
 speckles all over. Lives with a [snapping
-shrimp](../../crustacea/othercrust/shrimp/alpheidae.htm). Sometimes seen on our Southern shores.
+shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alpheidae.htm). Sometimes seen on our Southern shores.
  
  
  

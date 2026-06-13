@@ -42,6 +42,7 @@ pagination:
   permalink: "/wildfacts/forteachers/page/:num/"
   title_suffix: " — Page :num"
 
+include: [admin]
 exclude:
 - "*.py"
 

@@ -167,7 +167,7 @@ bacteria support food chains in the mangroves and beyond.
 *![](avicennia/officinalis/090214sbwrd7157m3.jpg)*Salt
 crystals deposited on  
 an [*Avicennia officinalis*](avicennia/officinalis) leaf. *Sungei Buloh Wetland Reserve, Feb 09*
-*![](acrostichum/speciosum/090816sbwrd9070m3.jpg)*[Mudlobsters](../../crustacea/othercrust/lobster/thalassina) and their mounds  
+*![](acrostichum/speciosum/090816sbwrd9070m3.jpg)*[Mudlobsters](/wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina) and their mounds  
 add to richness of life in the mangroves *Tuas, Nov 03*
 *![](sonneratia/caseolaris/091230prpd6477m3.jpg)*Sunbird
 nesting in *[Sonneratia
@@ -189,7 +189,7 @@ of roots provide hiding places for young fishes and shrimps from
 larger predators. Their branches provide shelter for creatures from
 Proboscis Monkeys and nesting sites for large herons, to crevices
 for insects and other tiny creatures. [The
-mudlobster](../../crustacea/othercrust/lobster/thalassina) plays a key role in further enriching the mangrove
+mudlobster](/wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina) plays a key role in further enriching the mangrove
 habitat and allowing a wide variety of plants and animals to thrive
 in the back mangroves.  
   
@@ -204,9 +204,9 @@ mangrove flowers that produce nectar. Bats rely on the nectar of
 the large [pom-pom flowers of *Sonneratia*](sonneratia/sonneratia) and it is these bats that also pollinate our
 durians! There are even tiny moth larvae that feed on pneumatophores.
 
-![](../../crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg)  
+![](/wildfacts/guides/crustacea/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg)  
 [Tree-climbing
-crabs](../../crustacea/crab/sesarmidae/episesarma) do exactly that!  
+crabs](/wildfacts/guides/crustacea/crustacea/crab/sesarmidae/episesarma) do exactly that!  
 *Sungei Buloh Wetland Reserve, Dec 03*
 
 ![](sonneratia/alba/030621cjd0004m3.jpg)  
