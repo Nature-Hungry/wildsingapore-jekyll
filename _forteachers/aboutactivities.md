@@ -1,8 +1,8 @@
 ---
 title: About Classroom Activities
 description: "For teachers to learn about creating classroom activities"
-date: 2026-06-13
 layout: default
+permalink: /forteachers/aboutactivities
 ---
 
 ## How to Submit an Activity
