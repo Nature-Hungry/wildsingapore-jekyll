@@ -1,0 +1,30 @@
+{% comment %}
+  _includes/forindividual-preview.html
+  
+  Displays a single nature group in the paginated list.
+  
+  Usage:
+    {% include forindividual-preview.html group=group %}
+{% endcomment %}
+
+<div class="forindividual-preview">
+  
+  <div class="forindividual-preview__header">
+    <h2 class="forindividual-preview__title">
+      <a href="{{ group.url | relative_url }}">{{ group.title }}</a>
+    </h2>
+    
+    {% if group.grouptype %}
+    <div class="forindividual-preview__tags">
+      <span class="forindividual-grouptype-tag">{{ group.grouptype }}</span>
+    </div>
+    {% endif %}
+  </div>
+  
+  {% if group.description %}
+  <p class="forindividual-preview__description">
+    {{ group.description }}
+  </p>
+  {% endif %}
+
+</div><!-- .forindividual-preview -->

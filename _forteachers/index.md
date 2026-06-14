@@ -1,6 +1,6 @@
 ---
-layout: default
 title: "Classroom Activities for Teachers"
+layout: default
 description: "Shareable classroom activities for teaching Singapore's marine biodiversity"
 permalink: /forteachers/
 ---

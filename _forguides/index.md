@@ -76,8 +76,7 @@ in [mangroves](../plants/mangrove/fngmangroves)
  
 ### cnidarians
  
-[hard
-corals](../cnidaria/fngcoralhard)  
+[hard corals](../cnidaria/fngcoralhard)  
 [soft corals](../cnidaria/fngcoralsoft)  
 [sea anemones](../cnidaria/fngcactiniaria)
  
@@ -115,7 +114,6 @@ corals](../cnidaria/fngcoralhard)
 [worms](../worm/fngworm)
 
 ## FLORA
-  
  
 ### marine plants
  
