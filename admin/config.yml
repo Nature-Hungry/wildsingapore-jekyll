@@ -20,8 +20,213 @@ collections:
       depth: 6 
     
     summary: "{{title}}"
+    
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Cover Image", name: "coverimg", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Keywords(comma delimited)", name: "keywords", widget: "string", required: false}
+      - {label: "Kingdom", name: "kingdom", widget: "string"}
+      - {label: "phylum", name: "phylum", widget: "string"}
+      - {label: "subphylum", name: "subphylum", widget: "string"}
+      - {label: "class", name: "class", widget: "string"}
+      - {label: "superorder", name: "superorder", widget: "string", required: false}
+      - {label: "order", name: "order", widget: "string", required: false}
+      - {label: "suborder", name: "suborder", widget: "string", required: false}
+      - {label: "family", name: "family", widget: "string", required: false}
+      - {label: "subfamily", name: "subfamily", widget: "string", required: false}
+      - {label: "genus", name: "genus", widget: "string", required: false}
+      - {label: "species", name: "species", widget: "string", required: false}
+      - {label: "Size range", name: "size", widget: "list", value_type: "float"}
+      - label: "RDB Status"
+        name: "rdb"
+        widget: "select"
+        required: false
+        options: ["LC", "NT", "VU", "EN", "CR", "NEx", "EX", "DD", "NA", "NE", "NL"]
+      - label: "IUCN Status"
+        name: "iucn"
+        widget: "select"
+        required: false
+        options: ["LC", "NT", "VU", "EN", "CR","EX", "DD","NE"]
+      - label: "Zone"
+        name: "zone"
+        multiple: true
+        widget: "select"
+        required: false
+        options: ["intertidal", "marine", "freshwater", "terrestrial"]
+      - label: "Habitats"
+        name: "habitats"
+        multiple: true
+        widget: "select"
+        required: false
+        options: 
+        - "mangrove"
+        - "mudflat"
+        - "coastal forest"
+        - "rocky shore"
+        - "sandy shore"
+        - "seagrass meadow"
+        - "coral rubble"
+        - "coral reef"
+        - "native forest"
+        - "exotic forest"
+        - "grassland"
+        - "scrubland"
+        - "urban park"
+        - "built-up"
+        - "freshwater swamp"
+        - "freshwater marsh"
+      - label: "Forms"
+        name: "forms"
+        widget: "list"
+        summary: '{{fields.form_name}}' # Displays their custom typed name in the list overview
+        fields:
+          - label: "Form Name"
+            name: "form_name"
+            widget: "string"
+            hint: "juvenile, larvae, egg, etc."
+          - label: "Image"
+            name: "img"
+            widget: "image"
+          - label: "Summary"
+            name: "summary"
+            widget: "text"
+          - label: "Size Range (cm)"
+            name: "size"
+            widget: "list"
+            value_type: "float"
+      - label: "Galleries"
+        name: "galleries"
+        widget: "object"
+        fields:
+          - label: "Gallery 1"
+            name: "gallery1"
+            widget: "list"
+            required: false
+            # Define the anchor template here using '&gallery_fields'
+            fields: &gallery_fields
+              - { label: "Image URL", name: "url", widget: "image" }
+              - { label: "Caption", name: "caption", widget: "string", required: false }
+
+          # Inject the anchor using '*gallery_fields' for the rest
+          - label: "Gallery 2"
+            name: "gallery2"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 3"
+            name: "gallery3"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 4"
+            name: "gallery4"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 5"
+            name: "gallery5"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 6"
+            name: "gallery6"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 7"
+            name: "gallery7"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 8"
+            name: "gallery8"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 9"
+            name: "gallery9"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 10"
+            name: "gallery10"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 11"
+            name: "gallery11"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 12"
+            name: "gallery12"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 13"
+            name: "gallery13"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 14"
+            name: "gallery14"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 15"
+            name: "gallery15"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 16"
+            name: "gallery16"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 17"
+            name: "gallery17"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 18"
+            name: "gallery18"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 19"
+            name: "gallery19"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+
+          - label: "Gallery 20"
+            name: "gallery20"
+            widget: "list"
+            required: false
+            fields: *gallery_fields
+      - label: "Authors(can use markdown syntax)"
+        name: "authors"
+        widget: "list"
+        value_type: "string"
+      - {label: "Layout", name: "layout", widget: "hidden", default: "entry"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Links & References", name: "links_references", widget: "markdown"}
