@@ -2,7 +2,15 @@ backend:
   name: git-gateway
   repo: Nature-Hungry/wildsingapore-jekyll
   branch: main
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
 
+site_url: https://www.naturehungry.sg
 publish_mode: editorial_workflow
 
 # local_backend: true

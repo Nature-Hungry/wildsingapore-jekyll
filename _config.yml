@@ -33,6 +33,10 @@ collections:
     output: true
     permalink: /wildfacts/forteachers/:name/
     sort_by: date
+  forguides:
+    output: true
+    permalink: /wildfacts/forguides/:name/
+
 
 pagination:
   enabled: true
