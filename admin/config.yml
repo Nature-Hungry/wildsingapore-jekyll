@@ -26,9 +26,9 @@ collections:
     slug: "{{slug}}"
     nested:
       depth: 6 
-      summary: "{{dirname}}"
+      summary: "{{commit_path}}"
     subfolders: true  
-    meta: { path: { widget: string, label: 'Path'} }
+    meta: { path: { widget: string, label: 'File Path', index_file: 'index' } }
     path: '{{path}}'
     fields:
       - {label: "Title", name: "title", widget: "string"}
