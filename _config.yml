@@ -39,6 +39,9 @@ collections:
   forindividuals:
     output: true
     permalink: /forindividuals/:name/
+  contributors:
+    output: true
+    permalink: /contributors/:name/
 
 pagination:
   enabled: true
@@ -50,7 +53,7 @@ pagination:
 
 pagination:
   enabled: true
-  per_page: 8
+  per_page: 5
   sort_field: "date"
   sort_reverse: true
   permalink: "/forindividuals/page/:num/"
@@ -62,6 +65,14 @@ pagination:
   sort_field: "date"
   sort_reverse: true
   permalink: "/forguides/page/:num/"
+  title_suffix: " — Page :num"
+
+pagination:
+  enabled: true
+  per_page: 5
+  sort_field: "date"
+  sort_reverse: true
+  permalink: "/contributors/page/:num/"
   title_suffix: " — Page :num"
 
 include: [admin]

@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<article class="contributor-article">
+  
+  <div class="contributor-article__header">
+    <h1 class="contributor-article__title">{{ page.title }}</h1>
+    
+    {% if page.role %}
+    <p class="contributor-article__role">
+      <span class="label">Role:</span>
+      <strong>{{ page.role }}</strong>
+    </p>
+    {% endif %}
+    
+    {% if page.date %}
+    <p class="contributor-article__date">
+      <span class="label">Joined:</span>
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%B %d, %Y" }}
+      </time>
+    </p>
+    {% endif %}
+  </div>
+
+  {% if page.description %}
+  <div class="contributor-article__description">
+    <p><em>{{ page.description }}</em></p>
+  </div>
+  {% endif %}
+
+  <div class="contributor-article__content">
+    {{ content }}
+  </div>
+
+  <div class="contributor-article__footer">
+    <hr>
+    <p>
+      <a href="{{ '/contributors/' | relative_url }}" class="btn">
+        ← Back to All Contributors
+      </a>
+    </p>
+  </div>
+
+</article>

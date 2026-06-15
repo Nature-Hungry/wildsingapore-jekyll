@@ -2,7 +2,7 @@
 title: "Individuals Making a Change"
 layout: default
 description: "Shareable classroom activities for teaching Singapore's marine biodiversity"
-permalink: /forindividuals/
+permalink: /forindividuals/wherecanijoin/
 ---
 
 <style>

@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<article class="group-article">
+  
+  <div class="group-article__header">
+    
+    <div class="group-article__meta">
+      {% if page.grouptype %}
+      <p class="group-article__grouptype">
+        <span class="label">Type:</span>
+        <strong>{{ page.grouptype }}</strong>
+      </p>
+      {% endif %}
+      
+      {% if page.author %}
+      <p class="group-article__author">
+        <span class="label">Founded by:</span>
+        <strong>{{ page.author }}</strong>
+      </p>
+      {% endif %}
+      
+      {% if page.date %}
+      <p class="group-article__date">
+        <span class="label">Founded:</span>
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%B %d, %Y" }}
+        </time>
+      </p>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="group-article__description">
+    {% if page.description %}
+    <p><em>{{ page.description }}</em></p>
+    {% endif %}
+  </div>
+
+  <div class="group-article__content">
+    {{ content }}
+  </div>
+
+  <div class="group-article__footer">
+    <hr>
+    <p>
+      <a href="{{ '/forindividuals/' | relative_url }}" class="btn">
+        ← Back to All Groups
+      </a>
+    </p>
+  </div>
+
+</article>
