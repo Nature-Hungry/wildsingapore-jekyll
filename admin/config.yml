@@ -26,10 +26,10 @@ collections:
     slug: "{{slug}}"
     nested:
       depth: 6 
-      summary: "{{title}}"
+      summary: "{{dirname}}"
     subfolders: true  
     meta: { path: { widget: string, label: 'Path'} }
-    path: '{{dir}}/{{slug}}'
+    path: '{{path}}'
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Cover Image", name: "coverimg", widget: "string"}
