@@ -33,6 +33,7 @@ collections:
     
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Updated date", name: "updated", widget: "datetime", date_format: "YYYY-MMM",time_format: false, format: "MMM YYYY", default: "{{now}}"}
       - {label: "Cover Image", name: "coverimg", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string"}
@@ -48,8 +49,7 @@ collections:
       - {label: "subfamily", name: "subfamily", widget: "string", required: false}
       - {label: "genus", name: "genus", widget: "string", required: false}
       - {label: "species", name: "species", widget: "string", required: false}
-      - {label: "Size range", name: "size", widget: "list", value_type: "float"}
-      - {label: "Updated", name: "updated", widget: "hidden", value_type: "string", default: "{{month}} {{year}}"}
+      - {label: "Size range(comma seperated)", name: "size", widget: "list", value_type: "float"}
       - label: "RDB Status"
         name: "rdb"
         widget: "select"
