@@ -28,7 +28,7 @@ collections:
       depth: 10
       summary: "{{filename}}"
       subfolders: false  
-    meta: { path: { widget: string, label: 'File Path', index_file: 'index' } }
+    meta: { path: { widget: string, label: 'File Path'} }
     path: '{{path}}'
     fields:
       - {label: "Title", name: "title", widget: "string"}
