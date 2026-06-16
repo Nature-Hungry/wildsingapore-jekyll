@@ -15,6 +15,6 @@ Help expand our knowledge base by creating new entries, adding observations, imp
 ## Contribute to Development
 If you're a developer, designer, or technical contributor, we'd love your help improving the platform. You can contribute code, report issues, suggest features, improve documentation, or help with testing through our GitHub repository.
 
-Every contribution—large or small—helps us create a better resource for the community.
+Every contribution, large or small, helps us create a better resource for the community.
 
-To contribute photos or content, email us at [thewildsingapore@gmail.com](mailto:thewildsingapore@gmail.com). For code contributions, visit our (GitHub repository)[https://github.com/Nature-Hungry/wildsingapore-jekyll].
+To contribute photos or content, email us at [thewildsingapore@gmail.com](mailto:thewildsingapore@gmail.com). For code contributions, visit our [GitHub repository](https://github.com/Nature-Hungry/wildsingapore-jekyll).
