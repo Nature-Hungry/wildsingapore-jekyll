@@ -24,12 +24,13 @@ collections:
     folder: "_entries"
     create: true
     slug: "{{slug}}"
+    preview_path: "{{filename}}.{{extension}}"
     nested:
       depth: 10
       summary: "{{filename}}"
       subfolders: false  
     meta: { path: { widget: string, label: 'File Path'} }
-    path: '{{path}}'
+    
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Cover Image", name: "coverimg", widget: "string"}
@@ -48,6 +49,7 @@ collections:
       - {label: "genus", name: "genus", widget: "string", required: false}
       - {label: "species", name: "species", widget: "string", required: false}
       - {label: "Size range", name: "size", widget: "list", value_type: "float"}
+      - {label: "Updated", name: "updated", widget: "hidden", value_type: "string", default: "{{month}} {{year}}"}
       - label: "RDB Status"
         name: "rdb"
         widget: "select"
@@ -238,4 +240,4 @@ collections:
         value_type: "string"
       - {label: "Layout", name: "layout", widget: "hidden", default: "entry"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Links & References", name: "links_references", widget: "markdown"}
+      - {label: "Links & References", name: "links_references", widget: "markdown", required: false}
