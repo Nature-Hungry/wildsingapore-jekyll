@@ -23,7 +23,7 @@
   --color-nav:              #336699;
   --color-nav-hover:        #264d73;
   --color-section-head:     #CC6666;
-  --color-accent-green:     #336600;
+  --color-accent-green:     #3d7a00;
   --color-accent-orange:    #CC6600;
   --color-bg:               #fffffd;
   --color-surface:          #F5F5F0;
@@ -44,6 +44,7 @@
   /* Layout */
   --max-width: 1440px;
   --gap:       2rem;
+  --border-radius: 8px;
 }
 
 /* ── Reset ──────────────────────────────────────────────────────────────── */
