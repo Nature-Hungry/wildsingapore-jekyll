@@ -23,7 +23,6 @@
 				✅ Logic for single checkbox single taxa
 				✅ Logic for single checkbox multiple taxa
 				🔲 Logic for "Other" checkbox option
-			🔲 Other filters (not decided yet)
 		🔲 Step-by-step Photo indexes
 			🟡 Identify features to group entries by
             ✅ Marine
@@ -35,6 +34,7 @@
             🔲 Create new photoindexes
             🔲 Assign features to photoindexes
 	🔲 New pages that reflect the goals of the new site
+      🔲 Our wild spaces (a page for every area)
 	🟡 Layout components (subject to feedback & change)
 		🔲 Responsive css
 		🟡 Navigation header

@@ -1,0 +1,153 @@
+---
+title: "Photo index"
+sections:
+- label: "Fishes"
+  children:
+  - img: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m.jpg
+    link: ""
+    text: "Typical fishes"
+  - img: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/pavoninus/050722cjg9806m.jpg
+    link: ""
+    text: "Flattened fishes"
+  - img: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8804m.jpg
+    link: ""
+    text: "Stingrays"
+  - img: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0311m.jpg
+    link: ""
+    text: "Round fishes"
+  - img: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pseudochromidae/subducens/040703sisg0979m.jpg
+    link: ""
+    text: "Elongated fishes"
+- label: "Mammals"
+  children:
+  - img: ""
+    link: ""
+    text: "Rodents"
+  - img: ""
+    link: ""
+    text: "Bats"
+  - img: ""
+    link: ""
+    text: "Primates"
+  - img: ""
+    link: ""
+    text: "Hoofed mammals"
+  - img: ""
+    link: ""
+    text: "Carnivorans"
+  - img: ""
+    link: ""
+    text: "Cetaceans"
+  - img: ""
+    link: ""
+    text: "Others"
+- label: "Birds"
+  children:
+  - img: ""
+    link: ""
+    text: "Songbirds"
+  - img: ""
+    link: ""
+    text: "Pheasants"
+  - img: ""
+    link: ""
+    text: "Waterbirds"
+  - img: ""
+    link: ""
+    text: "Pigeons"
+  - img: ""
+    link: ""
+    text: "Cuckoos"
+  - img: ""
+    link: ""
+    text: "Swifts & nightjars"
+  - img: ""
+    link: ""
+    text: "Raptors"
+  - img: ""
+    link: ""
+    text: "Parrots"
+  - img: ""
+    link: ""
+    text: "Woodpeckers, hornbills & kingfishers"
+- label: "Reptiles"
+  children:
+  - img: ""
+    link: ""
+    text: "Snakes"
+  - img: ""
+    link: ""
+    text: "Lizards"
+  - img: ""
+    link: ""
+    text: "Crocodilians"
+  - img: ""
+    link: ""
+    text: "Turtles"
+- label: "Amphibians"
+  children:
+  - img: ""
+    link: ""
+    text: "Toads"
+  - img: ""
+    link: ""
+    text: "Litter frogs"
+  - img: ""
+    link: ""
+    text: "Fanged frogs"
+  - img: ""
+    link: ""
+    text: "True frogs"
+  - img: ""
+    link: ""
+    text: "Tree frogs"
+  - img: ""
+    link: ""
+    text: "Narrow-mouthed frogs"
+  - img: ""
+    link: ""
+    text: "Caecilians"
+---
+
+{% include global/header.html %}
+
+<style>
+    .photoindex-cards{
+        display:flex;
+        gap:0.5rem;
+        margin-bottom: 1rem;
+    }
+    .photoindex-card .text{
+        padding:0.5rem;
+    }
+    .photoindex-card{
+        border:1px solid rgb(218, 218, 218);
+        overflow: hidden;
+        border-radius: 8px;
+        width: 150px;
+    }
+    .photoindex-card img{
+        width:100%;
+        aspect-ratio: 1;
+        object-fit: cover;
+        object-position: center;
+    }
+</style>
+
+<main class="page-content" id="main-content">
+{% for section in page.sections %}
+<h3>{{section.label}}</h3>
+<div class="photoindex-cards">
+    {% for card in section.children %}
+    <a href="{{card.link}}" class="photoindex-card">
+        <img src="{{card.img}}" alt="">
+        <div class="text">
+            <p>{{card.text}}</p>
+        </div>
+    </a>
+    {% endfor %}
+</div>
+{% endfor %}
+</main>
+
+{% include global/footer.html %}

@@ -19,13 +19,13 @@
 /* ── Custom properties ──────────────────────────────────────────────────── */
 :root {
   /* Brand colours */
-  --color-primary:          #CC0033;
+  --color-primary:          #aa002b;
   --color-nav:              #336699;
   --color-nav-hover:        #264d73;
   --color-section-head:     #CC6666;
   --color-accent-green:     #3d7a00;
   --color-accent-orange:    #CC6600;
-  --color-bg:               #fffffd;
+  --color-bg:               #f3eeea;
   --color-surface:          #F5F5F0;
   --color-text:             #484855;
   --color-text-muted:       #666666;
@@ -62,8 +62,9 @@ body {
   font-family:      var(--font-body);
   line-height:      1.7;
   color:            var(--color-text);
-  background-color: var(--color-bg);
+  
   -webkit-font-smoothing: antialiased;
+
 }
 
 /* ── Layout wrapper ─────────────────────────────────────────────────────── */
@@ -79,9 +80,9 @@ body {
 .page-content {
   flex:      1;
   width:     100%;
-  max-width: var(--max-width);
-  margin:    0 auto;
-  padding:   var(--gap) 1rem 3rem;
+ 
+  padding:   var(--gap) 4rem 3rem;
+  background-color: white;
 }
 
 /* ── Site header ─────────────────────────────────────────────────────────
@@ -148,11 +149,17 @@ body {
 /* ── Navigation bar ──────────────────────────────────────────────────────
  * ─────────────────────────────────────────────────────────────────────── */
 nav{
-    display:flex;
-    justify-content: space-between;
-    padding:3rem 4rem;
-    gap:1rem;
-    align-items: center;
+  background-color: white;
+  width: 100%;
+}
+.nav-content{
+  display:flex;
+  justify-content: space-between;
+  padding:3rem 4rem;
+  gap:1rem;
+  align-items: center;
+  max-width: var(--max-width);
+  margin: 0 auto;
 }
 .nav-logo{
   text-align: center;
@@ -304,11 +311,6 @@ nav{
 }
 
 /* ── Page content area ───────────────────────────────────────────────────── */
-.page-content {
-  max-width: var(--max-width);
-  margin:    0 auto;
-  padding:   var(--gap) 4rem 3rem;
-}
 
 /* ── Responsive: sidebar collapses to top bar on small screens ───────────── */
 @media (max-width: 700px) {
@@ -985,7 +987,7 @@ li { margin-bottom: 0.2rem; }
   .page-content{
     padding: 0 2rem 3rem;
   }
-  nav{
+  .nav-content{
     padding: 2rem;
   }
 }
@@ -1089,8 +1091,11 @@ select{
 
 
 footer{
-  font-size:12px;
   background-color: var(--color-accent-green);
+  width:100%;
+}
+.footer-content{
+  font-size:12px;
   color:white;
   padding:2rem;
   padding-bottom: 0.5rem;
@@ -1099,6 +1104,9 @@ footer{
   align-items: center;
   gap:4rem;
   margin-top:10rem;
+  max-width: 1440px;
+  margin:0 auto;
+
 }
 .footer-column a{
   color:white;

@@ -99,6 +99,36 @@
     aspect-ratio: 1;
 }
 
+
+
+.photoindex-cards{
+    display:grid;
+    gap:1rem;
+    margin-bottom: 1rem;
+    flex-wrap:wrap;
+    grid-template-columns: repeat(auto-fill, minmax(min(250px, 100%), 1fr));
+}
+.photoindex-quadcard .text{
+    padding:0.5rem;
+}
+.photoindex-quadcard{
+    border:1px solid rgb(218, 218, 218);
+    overflow: hidden;
+    border-radius: 8px;
+    width: 100%;
+}
+.photoindex-quadcard .images{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.photoindex-quadcard img{
+    width:100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center;
+}
+
+
 @media (max-width: 800px){
     .photo-index-images-text-row{
         flex-direction:column;

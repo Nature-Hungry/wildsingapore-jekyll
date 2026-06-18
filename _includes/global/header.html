@@ -32,13 +32,16 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
     {% include google-analytics.html %}
 </head>
-<body>
+
+<body
+{% if page.url != "/" and page.url != "/explore.html" %}
+  style="background-color: var(--color-bg);"
+{%endif%}
+>
 
   <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
-  <div class="site-wrapper">
-
     <nav>
-        
+        <div class="nav-content">
           {% if page.url != "/" %}
           <a class="nav-logo" href="/">
             <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
@@ -97,4 +100,6 @@
           </div>
         {% endif %}
         </div>
+        </div>
     </nav>
+  <div class="site-wrapper">
