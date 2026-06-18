@@ -14,7 +14,6 @@ attributes:
 - 130
 - 153
 - 130
-- 133
 - 134
 child_pages:
 - label: "[Diameter < 3cm](/photoindexes/cnidaria/actiniara/anemone_lt3)<br>including small ones on snail shells"

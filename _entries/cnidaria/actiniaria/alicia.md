@@ -20,16 +20,16 @@ species: sp.
 inat_id: 1154776
 stateofmatter: Life
 kingdom: Animalia
-phylum: Arthropoda
-subphylum: Hexapoda
-class: Insecta
-subclass: Pterygota
-order: Hymenoptera
-suborder: Apocrita
-infraorder: Aculeata
-superfamily: Pompiloidea
-subfamily: Pepsinae
-tribe: Priocnemini
+phylum: Cnidaria
+subphylum: Anthozoa
+class: 	Hexacorallia
+subclass: ''
+order: 	Actiniaria
+suborder: ''
+infraorder: ''
+superfamily: ''
+subfamily: ''
+tribe: ''
 updated: Dec 2024
 coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg
 galleries:

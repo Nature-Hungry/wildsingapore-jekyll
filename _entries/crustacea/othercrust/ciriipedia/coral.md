@@ -6,22 +6,22 @@ keywords: barnacle, pyrgoma, pyrgomatidae, cirripedia, crustacea, field, guide, 
 layout: entry
 family: Pyrgomatidae
 genus: Pyrgoma
-species: ''
+species: 'sp.'
 attributes: []
 inat_id: 643648
 stateofmatter: Life
 kingdom: Animalia
 phylum: Arthropoda
-subphylum: Hexapoda
-class: Insecta
-subclass: Pterygota
-order: Mantodea
-suborder: Eumantodea
-infraorder: Schizomantodea
-superfamily: Eremiaphiloidea
-subfamily: Tarachodinae
-tribe: Tarachodini
-subtribe: Tarachodina
+subphylum: ''
+class: Thecostraca
+subclass: Cirripedia
+order: Balanomorpha
+suborder: ''
+infraorder: ''
+superfamily: Balanoidea
+subfamily: ''
+tribe: ''
+subtribe: ''
 updated: Mar 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/060527sjid2249m3.jpg
 galleries:

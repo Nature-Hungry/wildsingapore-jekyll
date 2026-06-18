@@ -81,6 +81,10 @@
     aspect-ratio: 1;
     max-width: 150px;
 }
+.photo-index-images-text-row .img-grid .img-container img{
+    height: 100%;
+    width: 100%;
+}
 
 
 .entry-summary-card{
