@@ -9,6 +9,7 @@
 			 🔲 !Entry attributes
 			 ✅ Atomic entry content
 			 🔲 Higher rank entries content
+			 🔲 (Dev) Sidebar section navigation (collapsible on mobile view)
 			 ✅ Assigning zones to entries
 			 🔲 !Assigning habitats to entries
 			 🔲 !Adding form information to entries (juvenile, larvae form etc.)
@@ -34,7 +35,15 @@
             🔲 Create new photoindexes
             🔲 Assign features to photoindexes
 	🔲 New pages that reflect the goals of the new site
-      🔲 Our wild spaces (a page for every area)
+      🔲 Make a Difference pages
+         🟡 For Individuals
+            🟡 Index page
+            🟡 Nature Communities & Groups aggregate
+               🔲 Nature Communities & Groups pages
+         🟡 For Teachers
+         🔲 For guides
+   🔲 Our wild spaces (a page for every place)
+   🔲 Habitat pages
 	🟡 Layout components (subject to feedback & change)
 		🔲 Responsive css
 		🟡 Navigation header

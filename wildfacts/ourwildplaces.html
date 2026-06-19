@@ -1,0 +1,54 @@
+---
+title: Our wild places
+---
+
+{% include global/header.html %}
+
+<style>
+.place-grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100px, 100%), 300px));
+}
+.place{
+    display:flex;
+    flex-direction: column;
+}
+.place img{
+    width: 100%;
+    aspect-ratio: 4/3;
+}
+</style>
+<main class="page-content" id="main-content">
+<h1>Our wild places</h1>
+<p>Singapore still has many wild places left despite the scarce land space and rapid economic progress. However, many of them are at threat of disappearing forever, along with the rich ecosystems that they hold.</p>
+<div>
+    <h2>Intertidal</h2>
+    <p>At the edge of land and sea, there is a zone that is submerged at high tide, but is dry and exposed to air at low tide. This coastal area affected by the tides is called the intertidal zone.</p>
+    <p><a href="/wildfacts/concepts/intertidal.md">More on the intertidal zone here.</a></p>
+    <p>It gives us a unique opportunity to look at the lifeforms that would otherwise be difficult to observe deeper in the sea</p>
+    <p>Coral reefs, seagrass meadows and rocky shores, all accessible by foot!</p>
+    <a href="" class="btn">Explore intertidal places</a>
+</div>
+<div>
+    <h2>Forests</h2>
+    <p>
+        Over 95% of Singapore's original forests were cut down for gambir plantations during colonial rule triggering local extinctions of a large percentage of species and destroying ecological relationships built over millenia.
+    </p>
+    <p>
+        But as the plantations were abandoned, the forest started to recover, and whatever left in the little amounts of forest spared spread along with the trees.
+        Today, forests cover about 20% of Singapore's landmass and host a rich diversity of life.
+    </p>
+    <a href="" class="btn">Explore forests</a>
+</div>
+
+<h2>Wetlands</h2>
+<p>Mangroves and mudflats make up just about 1% of Singapore's landmass but holds many unique species specially adapted to life between the terrestrial and the aquatic</p>
+<p>Freshwater marshes were historically not present in Singapore, but the damming of rivers and levelling of forested areas has created a place where the water is still enough and shallow enough to allow floating and marginal vegetation to take root, attracting a wide variety of insects, amphibians and birds that seek shelter in the dense vegetation.</p>
+<a href="" class="btn">Explore wetlands</a>
+
+<h2>Gardens & Parks</h2>
+<p>Green spaces where vegetation is maintained for leisure activities. </p>
+<a href="" class="btn">Explore gardens & parks</a>
+
+</main>
+{% include global/footer.html %}
