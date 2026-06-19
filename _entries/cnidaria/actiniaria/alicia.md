@@ -22,9 +22,9 @@ stateofmatter: Life
 kingdom: Animalia
 phylum: Cnidaria
 subphylum: Anthozoa
-class: 	Hexacorallia
+class: Hexacorallia
 subclass: ''
-order: 	Actiniaria
+order: Actiniaria
 suborder: ''
 infraorder: ''
 superfamily: ''
@@ -106,6 +106,10 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- seagrass meadow
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

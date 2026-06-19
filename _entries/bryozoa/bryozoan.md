@@ -87,6 +87,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- seagrass meadow
 ---
 
 

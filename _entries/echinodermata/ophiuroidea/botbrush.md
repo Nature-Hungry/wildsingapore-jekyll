@@ -70,6 +70,10 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- muddy shore
+- seagrass meadow
+- coral rubble
 ---
 
 ## Where seen?

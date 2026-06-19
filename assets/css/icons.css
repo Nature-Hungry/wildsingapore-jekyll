@@ -1,0 +1,58 @@
+.custom-icon {
+  display: inline-block;
+  
+  border:none;
+  /* Apply your custom SVG as a mask layer */
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-position: bottom;
+  mask-position: bottom;
+
+  /* Set the default color of the icon using background-color */
+  background-color: #333333; 
+}
+
+/* Define the specific graphic path for this icon */
+.icon-sandy-shore {
+  -webkit-mask-image: url('/assets/icons/shore.svg');
+  mask-image: url('/assets/icons/shore.svg');
+  background-color: #EDC9AF;
+}
+.icon-muddy-shore {
+  -webkit-mask-image: url('/assets/icons/shore.svg');
+  mask-image: url('/assets/icons/shore.svg');
+  background-color: #70543E;
+}
+.icon-mudflat {
+  -webkit-mask-image: url('/assets/icons/shore.svg');
+  mask-image: url('/assets/icons/shore.svg');
+  background-color: #70543E;
+}
+
+.icon-coral-reef {
+    -webkit-mask-image: url('/assets/icons/reef.svg');
+    mask-image: url('/assets/icons/reef.svg');
+    background-color: coral;
+}
+.icon-coral-rubble {
+    -webkit-mask-image: url('/assets/icons/rubble.svg');
+    mask-image: url('/assets/icons/rubble.svg');
+    background-color: #EDC9AF;
+}
+.icon-rocky-shore {
+    -webkit-mask-image: url('/assets/icons/rocky.svg');
+    mask-image: url('/assets/icons/rocky.svg');
+    background-color: #715335;
+}
+.icon-mangrove {
+    -webkit-mask-image: url('/assets/icons/mangrove.svg');
+    mask-image: url('/assets/icons/mangrove.svg');
+    background-color: #70543E;
+}
+.icon-seagrass-meadow {
+    -webkit-mask-image: url('/assets/icons/seagrass.svg');
+    mask-image: url('/assets/icons/seagrass.svg');
+    background-color: green;
+}

@@ -1,7 +1,8 @@
 ---
 title: Jewelled chiton
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: acanthopleura, gemmata, chiton, polyplacophora, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: acanthopleura, gemmata, chiton, polyplacophora, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: Acanthopleura
@@ -24,7 +25,8 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg
     caption: St. John's Island, Sep 09
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/190123lazm6l.jpg
-    caption: A large and small one found on artificial seawalls. Seringat-Kias, Jan 19
+    caption: A large and small one found on artificial seawalls. Seringat-Kias, Jan
+      19
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/220618tmftvc3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on facebook.
@@ -63,14 +65,19 @@ galleries:
     caption: Pulau Tekukor, Sep 18 Photo shared by Liz Lim on facebook.
 links_references: '**Links**
 
-  - [*Acanthopleura* *gemmata*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=4) on the NParks Flora and Fauna website.
+  - [*Acanthopleura* *gemmata*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=4)
+  on the NParks Flora and Fauna website.
 
 
   **References**
 
-  - Tan, S. K. & H. P. M. Woo, 2010. *A preliminary checklist of the molluscs of Singapore*. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 78 pp.
+  - Tan, S. K. & H. P. M. Woo, 2010. *A preliminary checklist of the molluscs of Singapore*.
+  Lee Kong Chian Natural History Museum, National University of Singapore, Singapore.
+  78 pp.
 
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
 
   '
 location:
@@ -90,6 +97,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- rocky shore
 ---
 
 ## Where seen?

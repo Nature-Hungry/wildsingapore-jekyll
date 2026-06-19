@@ -151,6 +151,9 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
+habitats:
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

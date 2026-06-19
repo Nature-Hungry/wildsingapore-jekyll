@@ -13,7 +13,12 @@ layout: default
 {% assign filtered_posts = site.entries | where: "order", "Actiniaria" %}
 
 
-<div style="display:flex;flex-wrap:wrap;gap:1rem;">
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
 {% for post in filtered_posts %}
 {% assign match_found = false %}
 
@@ -25,9 +30,8 @@ layout: default
 
 {% if match_found and post.hideFromPhotoindex != true %}
 
-<div style="max-width:550px;width:stretch;">
     {% include entry-summary-rows.html item=post %}
-</div>
+
 {% endif %}
 {% endfor %}
 </div>

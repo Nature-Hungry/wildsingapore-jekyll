@@ -86,6 +86,10 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+habitats:
+- sandy shore
+- rocky shore
+- mangrove
 ---
 
 ## Where seen?

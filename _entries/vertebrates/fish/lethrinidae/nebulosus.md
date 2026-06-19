@@ -105,6 +105,12 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- rocky shore
+- seagrass meadow
+- coral reef
+- mangrove
 ---
 
 ## Where seen?

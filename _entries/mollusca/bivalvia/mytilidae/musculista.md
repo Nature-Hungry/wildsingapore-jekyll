@@ -105,6 +105,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- mudflat
 ---
 
 ## Where seen?
@@ -112,7 +115,7 @@ This tiny mussel appears to be seasonal on our Northern shores. Sometimes, it is
 *Muscuslita senhousia*
 .
 
-It is described as an opportunistic species characterised by fast growth and unique ability to colonise both hard and soft surfaces. On hard surfaces, it settles among other creatures that live there. On soft surfaces, the little mussels weave their byssal threads into an all-enclosing nest forming dense mats that can hold more than 2,000 individuals in one square metre. These mats rapidly change sandy bottoms into mud flats as they retain silt. Colonies fluctuate widely and unpredictably.
+It is described as an opportunistic species characterised by fast growth and unique ability to colonise both hard and soft surfaces. On hard surfaces, it settles among other creatures that live there. On soft surfaces, the little mussels weave their byssal threads into an all-enclosing nest forming dense mats that can hold more than 2,000 individuals in one square metre. These mats rapidly change sandy bottoms into mudflats as they retain silt. Colonies fluctuate widely and unpredictably.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ## Features
 

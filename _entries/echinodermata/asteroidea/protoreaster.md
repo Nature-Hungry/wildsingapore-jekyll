@@ -217,6 +217,11 @@ links_references: '**Acknowledgements**With
 
   - Chou, L. M., 1998.*A Guide to the Coral Reef Life of Singapore*. Singapore Science
   Centre. 128 pages.'
+habitats:
+- sandy shore
+- seagrass meadow
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

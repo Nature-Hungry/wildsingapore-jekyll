@@ -152,6 +152,11 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- mangrove
+- seagrass meadow
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

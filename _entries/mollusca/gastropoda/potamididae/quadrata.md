@@ -58,6 +58,8 @@ links_references: "**Acknowlegement** \nWith grateful thanks to Tan Siong Kiat o
   \ of The Molluscs of Singapore*(pdf), Raffles Museum of Biodiversity Research, National\
   \ University of Singapore.\n\n- Abbott, R. Tucker, 1991.*Seashells of South East\
   \ Asia*. Graham Brash, Singapore. 145 pp."
+habitats:
+- mangrove
 ---
 
 ## Where seen?

@@ -106,6 +106,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- mangrove
 ---
 
 ## Where seen?
@@ -117,7 +119,7 @@ This medium-sized mudskipper is sometimes seen in some of our mangroves. It is a
 [how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 
-The mudskipper is said to have a homing behavior and found in brackish mud flats in mangrove and nipa palm areas. Occasionally in the lower parts of freshwater streams. It actively moves back and forth between rock pools and air and is said to be able to stay out of water for more than a day if it is kept moist.
+The mudskipper is said to have a homing behavior and found in brackish mudflats in mangrove and nipa palm areas. Occasionally in the lower parts of freshwater streams. It actively moves back and forth between rock pools and air and is said to be able to stay out of water for more than a day if it is kept moist.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 It feeds on worms, crustaceans and insects.

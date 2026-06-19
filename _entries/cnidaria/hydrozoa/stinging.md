@@ -116,6 +116,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- coral rubble
 ---
 
 ## Where seen?

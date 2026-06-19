@@ -119,6 +119,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- rocky shore
+- mangrove
 ---
 
 ## Where seen?

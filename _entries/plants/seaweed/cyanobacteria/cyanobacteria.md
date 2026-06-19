@@ -107,6 +107,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- seagrass meadow
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -107,6 +107,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- muddy shore
 ---
 
 ## Where seen?

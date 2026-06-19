@@ -117,10 +117,15 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- mangrove
+- sandy shore
+- mudflat
+- seagrass meadow
 ---
 
 ## Where seen?
-This pretty spotted fat fish is sometimes seen on our shores. One was seen half-buried in a sandy stretch at Tanah Merah near a freshwater outflow. Elsewhere, it is common in estuaries and shallow waters, in sand flats, mud flats and seagrass meadows, often in schools. Juveniles are common in mangroves,
+This pretty spotted fat fish is sometimes seen on our shores. One was seen half-buried in a sandy stretch at Tanah Merah near a freshwater outflow. Elsewhere, it is common in estuaries and shallow waters, in sand flats, mudflats and seagrass meadows, often in schools. Juveniles are common in mangroves,
 
 ## Features
 

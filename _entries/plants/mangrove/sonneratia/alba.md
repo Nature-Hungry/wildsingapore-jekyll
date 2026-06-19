@@ -108,12 +108,16 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
+habitats:
+- sandy shore
+- mudflat
+- mangrove
 ---
 
 ## Where seen?
 This large and beautiful tree is commonly seen, usually on the seaward side of the mangroves. It is considered the most widely distributed
 *Sonneratia*
-species. A pioneer species, it colonises newly formed sandy mud flats in sheltered estuaries and coastal areas. It is intolerant to long periods of exposure to freshwater. Another local name for it was 'Bedada'.
+species. A pioneer species, it colonises newly formed sandy mudflats in sheltered estuaries and coastal areas. It is intolerant to long periods of exposure to freshwater. Another local name for it was 'Bedada'.
 
 ## Features
 

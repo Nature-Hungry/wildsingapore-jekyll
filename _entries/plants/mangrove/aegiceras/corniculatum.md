@@ -117,6 +117,9 @@ authors:
 zone:
 - intertidal
 - terrestrial
+habitats:
+- sandy shore
+- mangrove
 ---
 
 ## Where seen?

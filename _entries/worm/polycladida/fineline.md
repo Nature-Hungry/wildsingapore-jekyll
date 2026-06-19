@@ -141,6 +141,9 @@ links_references: "**Acknowledgement** \nGrateful thanks to Rene Ong for sharing
   \ Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the\
   \ vertebrates*Sea Challengers. 314pp.\n\n- Newman, Leslie and Lester Cannon. 2003.*Marine\
   \ Flatworms: The World of Polyclads*. CSIRO Publishing. 97pp."
+habitats:
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

@@ -81,10 +81,14 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- mudflat
+- mangrove
 ---
 
 ## Where seen?
-These large anemones can be seen in numbers in very soft mud flats on the seaward side of mangroves and other soft silty sandy shores on our Northern shores.
+These large anemones can be seen in numbers in very soft mudflats on the seaward side of mangroves and other soft silty sandy shores on our Northern shores.
 
 ## Features
 

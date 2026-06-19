@@ -120,6 +120,12 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- seagrass meadow
+- coral rubble
+- muddy shore
+- mangrove
 ---
 
 ## Where seen?

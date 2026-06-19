@@ -172,6 +172,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- mangrove
+- seagrass meadow
 ---
 
 ## Where seen?

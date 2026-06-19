@@ -135,6 +135,13 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- rocky shore
+- seagrass meadow
+- coral rubble
+- coral reef
+- mangrove
 ---
 
 ## Where seen?
@@ -145,7 +152,7 @@ This orange spotted fish is the most commonly seen mudskipper on many of our sho
 6-12cm. Gaily speckled with orange-yellow spots on 'cheeks' and the sides of the body. Often with many dark bars along the body too. The male raises his bright orange-and-black dorsal fin to court females and intimidate rival males. Unlike females, males have elongated spikes on the first and second spine of his colourful first dorsal fin.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Burrow wars:**
-It digs a burrow on soft mud flats, spitting out balls of mud as it digs out the hole. One mudskipper was seen to spit out mud missiles at an intruder!
+It digs a burrow on soft mudflats, spitting out balls of mud as it digs out the hole. One mudskipper was seen to spit out mud missiles at an intruder!
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Schools of skippers:**
 This mudskipper is sometimes seen in small groups, moving around together along the tide line. Sometimes they move in a line, following what seems to be the leader.

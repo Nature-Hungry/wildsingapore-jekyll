@@ -60,6 +60,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
 ---
 
 ## Where seen?

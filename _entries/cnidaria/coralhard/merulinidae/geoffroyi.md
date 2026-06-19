@@ -153,6 +153,11 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- muddy shore
+- seagrass meadow
+- coral reef
 ---
 
 ## Where seen?

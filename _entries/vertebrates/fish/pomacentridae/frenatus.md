@@ -29,7 +29,6 @@ updated: Sep 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
 galleries:
   gallery2:
- 
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/100617tbd6333m6l.jpg
     caption: Terumbu Bemban, Jun 10
   gallery3:
@@ -93,18 +92,25 @@ galleries:
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/210428slulks10.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  gallery12:
+  gallery12: null
 links_references: '**Links**
 
-  - [Tomato Anemonefish (*Amphiprion frenatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/338)Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.*[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science Centre. 163 pp.
+  - [Tomato Anemonefish (*Amphiprion frenatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/338)Lim,
+  Kelvin K. P. & Jeffrey K. Y. Low, 1998.*[A Guide to the Common Marine Fishes of
+  Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science
+  Centre. 163 pp.
 
   - Joy Wong Shu Yee. 2016.
 
-  [*Amphiprion ocellaris*(Perciformes: Pomacentridae) False Clown Anemonefish](https://taxo4254.wikispaces.com/Amphiprion+ocellaris) from taxo4254.
+  [*Amphiprion ocellaris*(Perciformes: Pomacentridae) False Clown Anemonefish](https://taxo4254.wikispaces.com/Amphiprion+ocellaris)
+  from taxo4254.
 
-  - [Tomato Anemonefish (*Amphiprion frenatus*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=6522) from [FishBase](http://www.fishbase.org/): fact sheet
+  - [Tomato Anemonefish (*Amphiprion frenatus*)](http://www.fishbase.org/Summary/speciesSummary.php?ID=6522)
+  from [FishBase](http://www.fishbase.org/): fact sheet
 
-  - [*Amphiprion frenatus*](http://www.nhm.ku.edu/inverts/ebooks/ch2.html#frena) from the [the Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html) by Dr Daphne G. Fautin and Dr Gerald R. Allen: brief fact sheet with photo.
+  - [*Amphiprion frenatus*](http://www.nhm.ku.edu/inverts/ebooks/ch2.html#frena) from
+  the [the Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)
+  by Dr Daphne G. Fautin and Dr Gerald R. Allen: brief fact sheet with photo.
 
 
   **References**
@@ -173,6 +179,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- coral reef
 ---
 
 ## Where seen?

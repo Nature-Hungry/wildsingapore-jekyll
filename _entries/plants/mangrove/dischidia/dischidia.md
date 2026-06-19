@@ -90,6 +90,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
+habitats:
+- mangrove
 ---
 
 ## Where seen?

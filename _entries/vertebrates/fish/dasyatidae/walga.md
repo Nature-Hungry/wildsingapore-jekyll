@@ -114,6 +114,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- muddy shore
+- seagrass meadow
 ---
 
 ## Where seen?

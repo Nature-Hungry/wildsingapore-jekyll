@@ -86,6 +86,9 @@ links_references: '**Acknowledgements**Thanks
 
 
   - Coleman, Neville, 1989.*Nudibranchs of the South Pacific Vol 1*. 64 pp.'
+habitats:
+- rocky shore
+- coral rubble
 ---
 
 ## Where seen?

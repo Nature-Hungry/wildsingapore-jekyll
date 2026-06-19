@@ -109,6 +109,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
+habitats:
+- mangrove
 ---
 
 ## Where seen?
@@ -126,7 +128,7 @@ Propagule develops on the parent plant: thin, smooth and long hypocotyl (8-13cm 
 
 According to Tomlinson, the small flowers are pollinated by day flying insects such as butterflies. The petals of the flower hold loose pollen and are under tension. When probed at the base, the petal unzips to scatter a cloud of pollen over the head of the visiting insect.
 
-According to Tomlinson, it is found in inner mangrove fringes and river banks and has characteristics of a pioneer species. According to Giersen, it forms single species stands in areas that are infrequently inundated, while isolated individuals may occur along tidal waterways and coastal fish ponds. Often found in solid stands in the interior of mangroves on firm mud flats. The hypocotyls establish themselves better in areas with much or moderate sunlight. It can be common in overlogged areas or where immature mangrove vegetation is exploited. According to Ng, it is found on the inner side of the mangrove and noted to be a slow grower and has the shortest lifespan. It does not appear to grow well in Singapore with only few individuals and less than the 24 m maximum height found elsewhere.
+According to Tomlinson, it is found in inner mangrove fringes and river banks and has characteristics of a pioneer species. According to Giersen, it forms single species stands in areas that are infrequently inundated, while isolated individuals may occur along tidal waterways and coastal fish ponds. Often found in solid stands in the interior of mangroves on firm mudflats. The hypocotyls establish themselves better in areas with much or moderate sunlight. It can be common in overlogged areas or where immature mangrove vegetation is exploited. According to Ng, it is found on the inner side of the mangrove and noted to be a slow grower and has the shortest lifespan. It does not appear to grow well in Singapore with only few individuals and less than the 24 m maximum height found elsewhere.
 
 ## Human uses
 

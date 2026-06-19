@@ -60,6 +60,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- seagrass meadow
 ---
 
 ## Where seen?

@@ -97,6 +97,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- rocky shore
+- seagrass meadow
 ---
 
 ## Where seen?

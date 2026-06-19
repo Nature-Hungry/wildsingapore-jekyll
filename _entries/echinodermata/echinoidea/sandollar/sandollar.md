@@ -119,7 +119,6 @@ galleries:
       Jawa Feb 04
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
     caption: Grey bonnet snail eating a Cake sand dollar. Cyrene, Aug 11
-  
   gallery7:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg
     caption: Cake sand dollar
@@ -157,6 +156,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- seagrass meadow
 ---
 
 ## Where seen?

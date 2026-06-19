@@ -139,6 +139,10 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- muddy shore
+- coral reef
 ---
 
 ## Where seen?

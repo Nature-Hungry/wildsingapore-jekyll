@@ -66,6 +66,10 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- mudflat
+- muddy shore
+- mangrove
 ---
 
 ## Where seen?

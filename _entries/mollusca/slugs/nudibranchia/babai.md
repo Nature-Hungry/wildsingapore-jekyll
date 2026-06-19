@@ -70,6 +70,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- seagrass meadow
 ---
 
 ## Where seen?

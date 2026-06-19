@@ -135,6 +135,8 @@ zone:
 - intertidal
 - freshwater
 - terrestrial
+habitats:
+- mangrove
 ---
 
 ## Where seen?

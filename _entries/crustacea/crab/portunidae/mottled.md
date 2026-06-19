@@ -131,6 +131,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

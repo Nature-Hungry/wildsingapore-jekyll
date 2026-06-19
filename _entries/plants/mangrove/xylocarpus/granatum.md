@@ -1,5 +1,5 @@
 ---
-title: 'Nyireh bunga'
+title: Nyireh bunga
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: nyireh, bunga, xylocarpus, granatum, polygalaceae, meliaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
@@ -119,6 +119,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
+habitats:
+- mangrove
 ---
 
 ## Where seen?

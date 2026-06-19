@@ -69,6 +69,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- rocky shore
+- coral reef
 ---
 
 ## Where seen?

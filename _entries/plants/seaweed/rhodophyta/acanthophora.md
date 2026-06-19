@@ -158,6 +158,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- coral rubble
 ---
 
 ## Where seen?

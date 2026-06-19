@@ -116,6 +116,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - marine
+habitats:
+- seagrass meadow
 ---
 
 ## Where seen?

@@ -45,6 +45,8 @@ authors:
 zone:
 - terrestrial
 - freshwater
+habitats:
+- mangrove
 ---
 
 ## Where seen?

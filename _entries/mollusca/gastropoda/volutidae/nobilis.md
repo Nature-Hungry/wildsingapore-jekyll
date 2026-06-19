@@ -1,7 +1,9 @@
 ---
 title: Noble volute
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, snail shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, snail shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Volutidae
 genus: Cymbiola
@@ -145,6 +147,10 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- seagrass meadow
+- coral rubble
 ---
 
 ## Where seen?

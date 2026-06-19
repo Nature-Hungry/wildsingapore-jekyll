@@ -190,6 +190,11 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- seagrass meadow
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

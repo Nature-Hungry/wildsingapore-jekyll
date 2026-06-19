@@ -132,6 +132,9 @@ zone:
 - marine
 - freshwater
 - terrestrial
+habitats:
+- mudflat
+- mangrove
 ---
 
 ## Where seen?

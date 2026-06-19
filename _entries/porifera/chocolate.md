@@ -89,6 +89,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- muddy shore
+- coral reef
 ---
 
 ******

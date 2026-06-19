@@ -74,6 +74,10 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- mangrove
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

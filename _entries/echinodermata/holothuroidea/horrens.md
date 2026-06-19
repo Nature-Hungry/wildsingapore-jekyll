@@ -98,6 +98,10 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

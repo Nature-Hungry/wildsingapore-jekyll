@@ -112,6 +112,10 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
+habitats:
+- sandy shore
+- muddy shore
+- mangrove
 ---
 
 ## Where seen?

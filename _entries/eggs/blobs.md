@@ -36,6 +36,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- mudflat
 ---
 
 ## Where seen?

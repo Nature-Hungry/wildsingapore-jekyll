@@ -130,6 +130,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- mangrove
 ---
 
 ## Where seen?

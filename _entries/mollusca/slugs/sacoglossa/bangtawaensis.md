@@ -54,6 +54,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- mangrove
 ---
 
 ## Where seen?

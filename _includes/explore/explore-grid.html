@@ -18,6 +18,7 @@
     z-index: 0;
     border-radius: 8px 8px 0 0;
     overflow: hidden;
+    min-height:200px;
   }
   .entry .img-container{
     width:100%;
@@ -275,10 +276,7 @@ function filterResults(){
   if(zone != "all"){
     zoneFilter = item=>{
       if(!item.zone){
-        console.log(item)
-      }
-      if(item.zone.includes(zone)){
-        console.log(item.title)
+        return false
       }
       return item.zone.includes(zone)
     }

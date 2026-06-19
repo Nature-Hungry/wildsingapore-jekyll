@@ -83,6 +83,10 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- sandy shore
+- mudflat
+- mangrove
 ---
 
 ## Where seen?

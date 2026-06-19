@@ -30,7 +30,8 @@ updated: Oct 2020
 forms:
 - juvenile:
     img: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m.jpg
-    summary:  "Juvenile with electric blue stripes on nose and ringed dark spot on dorsal fin and base of tail. Living reefs. Sometimes seen on our Northern shores."
+    summary: Juvenile with electric blue stripes on nose and ringed dark spot on dorsal
+      fin and base of tail. Living reefs. Sometimes seen on our Northern shores.
     size:
     - 2.0
     - 3.0
@@ -176,6 +177,10 @@ zone:
 - marine
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+habitats:
+- sandy shore
+- coral rubble
+- coral reef
 ---
 
 ## Where seen?

@@ -148,6 +148,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- coral reef
 ---
 
 ## Where seen?

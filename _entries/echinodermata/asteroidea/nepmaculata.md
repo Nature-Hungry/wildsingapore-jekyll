@@ -48,6 +48,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- muddy shore
+- coral rubble
 ---
 
 ## Where seen?

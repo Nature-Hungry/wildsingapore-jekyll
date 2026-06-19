@@ -56,6 +56,8 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- rocky shore
 ---
 
 ## Where seen?

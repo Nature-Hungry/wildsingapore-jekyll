@@ -42,11 +42,12 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        gap:0.5rem;
     }
     .attribute-icon{
         height:50px;
+        width:50px;
         aspect-ratio: 1;
-        border:2px solid lightgrey;
     }
 
     .other-images{
@@ -178,15 +179,15 @@
                             <p>RDB3</p>
                         </div>
                     {% endif %}
-                  {% for a in page.display_attributes %}
+                </div>
+                <div class="attributes-row" style="gap:1rem">
+                  {% for a in page.habitats %}
                     
                     <div class="attribute">
-                        <div class="attribute-icon"></div>
-                        <p>{{a}}</p>
+                        <div class="attribute-icon custom-icon icon-{{a | replace: ' ', '-'}}"></div>
                     </div>
                     
                   {% endfor %}
-                   
                 </div>
           </div>
        

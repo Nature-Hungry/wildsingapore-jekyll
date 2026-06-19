@@ -149,6 +149,9 @@ authors:
 zone:
 - intertidal
 - marine
+habitats:
+- mangrove
+- coral rubble
 ---
 
 ## Where seen?
