@@ -219,9 +219,13 @@ nav{
   flex-direction: column;
   gap:2rem;
   align-items: center;
+  transition: transform 1s;
+  padding:2rem;
 }
 #redirect-overlay p{
   font-size: 2rem;
+  text-align: center;
+  line-height: 1.5;
 }
 #redirect-overlay.show{
   display: flex;
@@ -1026,6 +1030,10 @@ li { margin-bottom: 0.2rem; }
   }
   .nav-content{
     padding: 2rem;
+  }
+  #redirect-overlay p{
+    font-size: 1rem;
+    line-height: 1;
   }
 }
 
