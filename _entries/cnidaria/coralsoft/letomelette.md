@@ -32,7 +32,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/160724tpto7240179m3.jpg
     caption: Bleaching and 'melting' colony during mass coral bleaching. Terumbu Pempang
       Tengah, Jul 16
-  - url: http://www.wildsingapore.com/ctenophora/coeloplana/120722cyrd8101m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/120722cyrd8101m3.jpg
     caption: Tiny ctenophores sometimes seen. Cyrene Reef, Jul 12
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/140518tmlks.JPG

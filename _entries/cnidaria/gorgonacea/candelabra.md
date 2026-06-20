@@ -29,9 +29,9 @@ galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg
     caption: Squid egg capsules attached to the sea fan. Changi, Jul 17
-  - url: http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg
     caption: Winged oyster on the sea fan. Beting Bronok, Aug 15
-  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg
     caption: Tiny colourful brittle stars on the sea fan. Chek Jawa, Jul 15
 links_references: '**Links**
 

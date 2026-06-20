@@ -34,9 +34,9 @@ galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg
     caption: Changi, Jul 09 On a living flower crab .
-  - url: http://www.wildsingapore.com/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg
     caption: East Coast, Aug 09 On a living Purple climber crab .
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg
     caption: Changi, Aug 05 Acorn barnacles on a living snail.
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg

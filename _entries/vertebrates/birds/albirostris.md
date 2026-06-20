@@ -23,9 +23,9 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/050126cjd9848m3.jpg
     caption: Pulau Ubin, Jan 05 Pulau Ubin, Feb 04 Chek Jawa, Mar 10
   gallery2:
-  - url: http://www.wildsingapore.com/plants/others/ficus/microcarpa/100314cjd9940m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9940m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: http://www.wildsingapore.com/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
     caption: Chek Jawa, Mar 10
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/100314cjd0014m3.jpg

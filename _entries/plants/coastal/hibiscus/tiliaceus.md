@@ -75,10 +75,10 @@ links_references: '**Links**
   The Singapore Science Centre. 160pp.'
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/insecta/dysdercus/081206smkd2478m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/081206smkd2478m3.jpg
     caption: Juvenile Cotton stainer bug These bugs feed on its seeds. Pulau Semakau,
       Dec 08
-  - url: http://www.wildsingapore.com/insecta/dysdercus/090214sbwrd7160m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/090214sbwrd7160m3a.jpg
     caption: Adult Bugs are often found in large numbers under Sea hibiscus leaves.
       Sungei Buloh Wetland Reserve, Feb 09
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090321krjo3211491m3a.jpg

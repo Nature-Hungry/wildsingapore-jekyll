@@ -50,7 +50,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
     caption: Oysters often form a distint band on hard surfaces near the high water
       mark. Chek Jawa, Jan 08
-  - url: http://www.wildsingapore.com/concepts/pix/080122cjd9042m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/concepts/pix/080122cjd9042m3.jpg
     caption: All kinds of different animals may settle among the oysters. Chek Jawa,
       Jan 08
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg

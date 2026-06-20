@@ -39,11 +39,11 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG
     caption: East Coast Park, Feb 16 On a Painted sand star . Photo shared by Loh
       Kok Sheng on flickr .
-  - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg
     caption: East Coast, Jun 09 On a sea cucumber . Photo shared by James Koh on flickr
       .
   gallery5:
-  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
     caption: Cyrene, May 17 On White Salmacis urchin . Photo shared on Singapore Biodiversity
       Records.
 location:

@@ -30,7 +30,7 @@ galleries:
     caption: St John's Island, May 06
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3.jpg
     caption: Raffles Lighthouse, Jun 07
-  - url: http://www.wildsingapore.com/cnidaria/coralhard/poritidae/gonsmall/250529cjlk4a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonsmall/250529cjlk4a.jpg
     caption: Chek Jawa, May 2025 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/040410sisbd0030m3.jpg

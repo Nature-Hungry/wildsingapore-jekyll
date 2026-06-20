@@ -37,7 +37,7 @@ galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/060516chgd2003m3a.jpg
     caption: Changi, May 06 On pink flowery soft coral .
-  - url: http://www.wildsingapore.com/cnidaria/coralsoft/nepball/060625bbd3423m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/060625bbd3423m3c.jpg
     caption: Beting Bronok, Jun 06 In ball flowery soft coral .
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
     caption: Cyrene Reef, Jul 11 In asparagus flowery soft coral .

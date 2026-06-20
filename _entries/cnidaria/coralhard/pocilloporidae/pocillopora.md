@@ -28,7 +28,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/pocilloporidae/pocillopora/050509hntg5963m3b.jpg
     caption: Usually covered in mucus. Pulau Hantu, May 05
   gallery2:
-  - url: http://www.wildsingapore.com/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
     caption: Red coral crab in bleaching Cauliflower coral. Cyrene Reef, Jul 10
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/pocilloporidae/pocillopora/130511hntd6469m3.jpg
     caption: Pulau Hantu, Aug 13

@@ -38,7 +38,7 @@ galleries:
     caption: Grass-like pale stinging hydroids . Beting Bronok, Aug 05
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg
     caption: Tiny tentacles of stinging hydroids . Changi, Aug 12
-  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
     caption: Cuthona nudibranch on Fern hydroid Beting Bronok, Aug 06
   gallery5:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg

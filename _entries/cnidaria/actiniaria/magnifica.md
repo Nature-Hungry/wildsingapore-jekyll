@@ -62,7 +62,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/181225kuslks5.jpg
     caption: A small fish caught in its tentacles. Kusu Island, Dec 18 Photo shared
       by Loh Kok Sheng on facebook .
-  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg
     caption: Peacock-tail anemone shrimp on the anemone. Pulau Hantu, Apr 04
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/110802smkd8206m3.jpg
     caption: Clown anemonefish lives safely in the anemone. Pulau Semakau, Aug 11

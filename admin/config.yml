@@ -237,7 +237,8 @@ collections:
       - label: "Authors(can use markdown syntax)"
         name: "authors"
         widget: "list"
-        value_type: "string"
+        field: {label: "Author", name: "author", widget: "string"}
+          
       - {label: "Layout", name: "layout", widget: "hidden", default: "entry"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Links & References", name: "links_references", widget: "markdown", required: false}

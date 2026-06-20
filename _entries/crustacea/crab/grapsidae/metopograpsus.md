@@ -60,7 +60,7 @@ galleries:
   gallery7:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/100515sjid2485m3.jpg
     caption: A pair, getting ready to mate? St. John's Island, May 10
-  - url: http://www.wildsingapore.com/othercrust/isopoda/ligia/090510hntmn.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/othercrust/isopoda/ligia/090510hntmn.jpg
     caption: Captured a Shore cricket Pulau Hantu May 09 Photo shared by Marcus Ng
       on flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/251207hntky8.jpg

@@ -34,7 +34,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/201020prp.jpg
     caption: May look like a 'sausage'. Pasir Ris Park, Oct 20
   gallery3:
-  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m3.jpg
     caption: A nudibranch that eats sea pens is lurking near this one. Changi, Aug
       14
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg

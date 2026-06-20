@@ -30,7 +30,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg
     caption: Plain creeper snails sometimes seen in large numbers. Pasir Ris Park,
       Aug 13
-  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg
     caption: Empty shells may be taken over by tiny huddling hermit crabs . St John's
       Island, Jan 06
   gallery3:

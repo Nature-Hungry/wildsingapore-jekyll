@@ -20,7 +20,7 @@ galleries:
     caption: Furry tube and smooth body column. Chek Jawa, Jul 05
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/040720chgd2929m3.jpg
     caption: Long outer tentacles, short inner tentacles. Changi, Jul 04
-  - url: http://www.wildsingapore.com/worm/phoronida/phoronida/030630chgd0017m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/030630chgd0017m3.jpg
     caption: With black Phoronid worms in the tube. Changi, Jun 03
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/030927cjd0065m3.jpg

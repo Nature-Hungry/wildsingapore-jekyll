@@ -56,7 +56,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
     caption: The Peacock-tail anemone shrimp and small False clown anemonefish in
       a Giant carpet anemone. Pulau Hantu, Jul 07
-  - url: http://www.wildsingapore.com/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg
     caption: Clown anemonefish in a Giant carpet anemone. Sisters Island, Aug 09
   gallery4:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/250501skddc2.jpg

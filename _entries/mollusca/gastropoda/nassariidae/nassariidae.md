@@ -29,7 +29,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg
     caption: With a pair of tiny sea anemone hitch-hikers. Chek Jawa, Apr 04
   gallery3:
-  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
     caption: Whelks cleaning out a recently dead snail while a hermit crab waits patiently.
       Tanah Merah, Feb 07
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg

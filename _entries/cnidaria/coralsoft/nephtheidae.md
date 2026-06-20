@@ -30,15 +30,15 @@ galleries:
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
     caption: Tiny red nose shrimp in Spiky flowery soft coral. Tuas, Nov 03
-  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: A pair of white snapping shrimps in a ball flowery soft coral. Beting
       Bronok, May 11
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
     caption: False cowrie snail in a pink flowery soft coral. Beting Bronok, May 11
   gallery4:
-  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/white/160606chg1d3845m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/white/160606chg1d3845m3.jpg
     caption: Large ghost brittle star in Ball flowery soft coral. Changi, Jun 16
-  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
     caption: Tiny colourful brittle star and tiny orange brittle star Chek Jawa, Oct
       16 In Spiky flowery soft coral
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg

@@ -39,10 +39,10 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/250530kus2a.jpg
     caption: ''
   gallery4:
-  - url: http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/250726cyrlks5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/250726cyrlks5.jpg
     caption: With Sea fan winged oyster . Cyrene, Jul 25 Photo shared by Loh Kok Sheng
       on facebook .
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1a.jpg
     caption: With Nectar spindle cowrie Cyrene, Jul 25 Photo shared by Loh Kok Sheng
       on facebook .
   gallery5:

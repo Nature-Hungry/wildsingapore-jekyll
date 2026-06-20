@@ -22,7 +22,7 @@ galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/111031chgd3457m3.jpg
     caption: Growing on a living small crab. Changi, Oct 11
-  - url: http://www.wildsingapore.com/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
     caption: Growing on a fan shell . Pulau Sekudu, Jun 06
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/serpulidae/080731chgd8492m3.jpg
     caption: Growing on a shell occupied by a hermit crab . Changi, Jul 08

@@ -36,7 +36,7 @@ galleries:
     caption: Tentacles retracted, body column forms lumps. No spikes among the polyps.
       Pulau Hantu, Jan 06
   gallery3:
-  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinyorange/250515tpt1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/250515tpt1a.jpg
     caption: Terumbu Pempang Tengah, May 25 With tiny orange brittle stars .
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepasparagus/070322cyrd9116m3.jpg
     caption: Cyrene Reef, Mar 07 With tiny orange brittle stars .

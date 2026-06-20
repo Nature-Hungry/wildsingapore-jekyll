@@ -27,11 +27,11 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg
     caption: Polyps of a sea fan. Tuas, Dec 11
   gallery3:
-  - url: http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg
     caption: Winged oyster on a sea fan Changi, Jan 13
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
     caption: Ovulid snails on a sea fan East Coast, Jun 06
-  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg
     caption: Tiny colourful brittle stars . Changi, Jul 09
   gallery4:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg

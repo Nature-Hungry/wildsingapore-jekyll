@@ -28,7 +28,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/120413cjs06290m3.jpg
     caption: Chek Jawa, Apr 12
   gallery3:
-  - url: http://www.wildsingapore.com/worm/phoronida/phoronida/030630chgd0017m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/030630chgd0017m3.jpg
     caption: Tiny black Phoronid worms are often seen with cerianthids. Changi, Jun
       03
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/110519chgd2139m3.jpg

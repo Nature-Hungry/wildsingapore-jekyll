@@ -52,7 +52,7 @@ galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
     caption: Tanah Merah, Sep 13
-  - url: http://www.wildsingapore.com/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
     caption: On a horseshoe crab . Changi, Jul 04
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
     caption: On a living scallop . Changi, Aug 18

@@ -25,7 +25,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/spiky/050726chgg0426m3.jpg
     caption: Tiny porcelain crabs are often seen in pairs in a sea pen. Changi, Jul
       05
-  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg
     caption: A nudibranch that eats sea pens is lurking near this one. Changi, Aug
       19 Photo shared by Loh Kok Sheng on facebook .
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg

@@ -37,7 +37,7 @@ galleries:
     caption: Underside white without markings. Changi, Jun 05
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandpainted/060612chgg6132m3d.jpg
     caption: Pointed tube feet. Changi, Jun 06
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG
     caption: Parasitic Ulimid snail . East Coast Park, Feb 16 Photo shared by Loh
       Kok Sheng on flickr .
   gallery3:

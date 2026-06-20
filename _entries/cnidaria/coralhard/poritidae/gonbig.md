@@ -30,11 +30,11 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/050310smkg3203m3d.jpg
     caption: Polyps large often with long body.
   gallery3:
-  - url: http://www.wildsingapore.com/worm/acoela/acoela/110802smkd8294m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/110802smkd8294m3.jpg
     caption: Acoel flatworms Pulau Semakau, Aug 11
-  - url: http://www.wildsingapore.com/worm/acoela/acoela/050724bbg0145m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/050724bbg0145m3a.jpg
     caption: Acoel flatworms Beting Bronok, Jul 05
-  - url: http://www.wildsingapore.com/worm/acoela/acoela/110517tptd1581m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/acoela/acoela/110517tptd1581m3b.jpg
     caption: Acoel flatworms Terumbu Pempang Tengah, May 11
   gallery4:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/150617ecpbslks1m3.jpg

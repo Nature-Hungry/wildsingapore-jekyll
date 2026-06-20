@@ -37,7 +37,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/others/050512tmg6400.jpg
     caption: Periwinkles sheltering next to barnacles, with a small one inside shell
       of a dead barnacle. Changi, Jun 05
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3b.jpg
     caption: Barnacles on a living snail. Changi, Jun 05
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3a.jpg
     caption: Tiny egg sacs of a parasitic barnacle emerging through the joints of

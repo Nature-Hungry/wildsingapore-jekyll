@@ -18,7 +18,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/lined/050711tmg9452m3.jpg
     caption: Tanah Merah, Jul 05
   gallery2:
-  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
     caption: Whelks cleaning out a recently dead snail while a hermit crab waits patiently.
       Tanah Merah, Feb 07
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/lined/110829ecpd0142m3.jpg

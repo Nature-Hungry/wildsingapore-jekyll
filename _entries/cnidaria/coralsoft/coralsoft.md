@@ -80,10 +80,10 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
     caption: St. John's Island, Aug 05 Polyps of a leathery coral
   gallery3:
-  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg
     caption: Tiny colourful brittle stars are sometimes seen in soft corals. Tuas,
       Nov 03
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
     caption: Often seen in a pair. Pulau Sekudu, May 12
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
     caption: Tiny red nose shrimp are sometimes seen in numbers in flowery soft coral.

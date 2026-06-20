@@ -46,7 +46,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/090705krjd6492m6l.jpg
     caption: Not attached to snails. Kranji, Jul 09
   gallery3:
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg
     caption: Punggol, Sep 18 Photo shared by Dayna Cheah on facebook .
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/251208chgrk6.jpg
     caption: Changi, Dec 25 Photo shared by Richard Kuah on facebook .

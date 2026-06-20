@@ -28,13 +28,13 @@ updated: Oct 2016
 coverimg: http://www.wildsingapore.com/worm/polychaeta/giant/040410sisbd0011m3.jpg
 galleries:
   gallery2:
-  - url: http://www.wildsingapore.com/worm/polychaeta/giant/040410sisbd0011m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/giant/040410sisbd0011m3.jpg
     caption: A Giant reef worm snatching a mouthful of seaweed back into its lair.
       Sisters Island, Apr 04
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/091104sntd3635m3.jpg
     caption: '` Lots of tiny creatures are often seen on this seaweed. Sentosa, Nov
       09'
-  - url: http://www.wildsingapore.com/mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg
     caption: Tiny Bryopsis slugs are often abundant on this seaweed. Sentosa, Sep
       08
   gallery3:

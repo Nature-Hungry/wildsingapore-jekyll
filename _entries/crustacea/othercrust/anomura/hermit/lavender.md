@@ -39,7 +39,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/240723chgerk1.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Richard Kuah on facebook
       .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
     caption: East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/200705kusvc1.jpg

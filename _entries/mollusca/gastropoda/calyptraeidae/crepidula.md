@@ -25,14 +25,14 @@ galleries:
     caption: Chek Jawa, Mar 05
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
     caption: The smaller shell is usually the male.
-  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
     caption: Changi, Apr 05
   gallery2:
-  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/hermit/veryhairy/101224sisd4096m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/veryhairy/101224sisd4096m3.jpg
     caption: Sisters Island, Jan 11
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
     caption: Tanah Merah, Sep 13
-  - url: http://www.wildsingapore.com/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
     caption: Changi, Jul 04
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/210402tmskvc3.jpg

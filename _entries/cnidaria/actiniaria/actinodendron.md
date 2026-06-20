@@ -45,9 +45,9 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinodendron/090920smkd1378m3.jpg
     caption: Pulau Semakau, Sep 09 A small one about 10cm in total diameter
   gallery3:
-  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1.jpg
     caption: East Coast PCN, Aug 23
-  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1a.jpg
     caption: With peacock-tail anemone shrimp.
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinodendron/240820kusky6.jpg
     caption: Caught a fish, which was still struggling. Kusu Island, Aug 24 Photo

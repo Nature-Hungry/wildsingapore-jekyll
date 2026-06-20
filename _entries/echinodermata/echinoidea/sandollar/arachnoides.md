@@ -55,16 +55,16 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
     caption: Living sand dollars, not moving under sand. Lazarus Island, Jun 09
   gallery3:
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
     caption: Is this Grey bonnet snail eating a sand dollar? Cyrene Reef, May 11 Photo
       shared by Marcus Ng on flickr .
-  - url: http://www.wildsingapore.com/asteroidea/protoreaster/110508cyrmng5m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/asteroidea/protoreaster/110508cyrmng5m3.jpg
     caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared
       by Marcus Ng on flickr .
   gallery4:
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
     caption: Tiny parasitic snail on a Cake sand dollar. Cyrene, Aug 11
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
     caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek
       Jawa Feb 04
   gallery5:

@@ -45,10 +45,10 @@ galleries:
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphmanyband/050722cjg9923m3.jpg
     caption: This shrimp shares its burrow with a brittle star. Chek Jawa, Jul 05
-  - url: http://www.wildsingapore.com/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
     caption: A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby
       . Kusu Island, Aug 08
-  - url: http://www.wildsingapore.com/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
     caption: A Many-band snapping shrimp sharing a burrow with a Saddled shrimp-goby
       . Labrador, May 05 .
   gallery4:

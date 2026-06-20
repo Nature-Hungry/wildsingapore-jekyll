@@ -95,7 +95,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050621skdg8000m3.jpg
     caption: Mating crabs, male on top. Pulau Sekudu, Jun 05
   gallery3:
-  - url: http://www.wildsingapore.com/othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg
     caption: Those infected with parasitic barnacles tend to be covered with seaweeds
       . Pulau Sekudu, Apr 06
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/101008tusd1761m3.jpg

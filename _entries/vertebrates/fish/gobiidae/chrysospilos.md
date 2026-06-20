@@ -41,7 +41,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/041214smkd8794m3.jpg
     caption: Sometimes seen moving in a group . Pulau Semakau, Dec 04
   gallery3:
-  - url: http://www.wildsingapore.com/worm/polychaeta/diopatra/110611cjlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/110611cjlks.JPG
     caption: Mudskipper eating a tubeworm . Chek Jawa, Jun 11 Photo shared by Loh
       Kok Sheng on his blog .
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/160306labmn.jpg

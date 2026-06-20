@@ -40,14 +40,14 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/paralichthyidae/paralichthyidae/050917smkg2477m3e.jpg
     caption: ''
   gallery2:
-  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
     caption: Some nudibranchs are large. They are snails without shells.
-  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/villosa/050526cj6777m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/villosa/050526cj6777m3.jpg
     caption: On the underside of a nudibranch is a broad foot.
-  - url: http://www.wildsingapore.com/worm/polycladida/acanthozoon/100130brkd8439m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/100130brkd8439m3.jpg
     caption: Some flatworms are large and fast moving.
   gallery3:
-  - url: http://www.wildsingapore.com/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
     caption: Horseshoe crab
   - url: https://f003.backblazeb2.com/file/naturehungry/platycephalidae/nematophthalmus/040730skdd3246m3.jpg
     caption: Flathead

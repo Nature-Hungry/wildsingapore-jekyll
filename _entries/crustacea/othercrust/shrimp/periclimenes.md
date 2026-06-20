@@ -29,7 +29,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
     caption: Little red-nose shrimps are also found on living hard and soft corals.
       St. John's Island, May 06
-  - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, Aug
       05
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg

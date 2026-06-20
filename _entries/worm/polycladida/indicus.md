@@ -28,7 +28,7 @@ galleries:
     caption: Faint line in the centre is the intestine showing through the body. Pulau
       Hantu, Mar 06
   gallery2:
-  - url: http://www.wildsingapore.com/ascidiacea/beige/050822cjg2070m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/050822cjg2070m3.jpg
     caption: Seen on Beige ascidians . Chek Jawa, Aug 05
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/indicus/080619chgd5684m3.jpg
     caption: Eating Yellow clustered bead ascidians ? Changi, Jun 08

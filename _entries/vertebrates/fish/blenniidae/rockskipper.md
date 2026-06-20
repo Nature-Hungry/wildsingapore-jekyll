@@ -23,10 +23,10 @@ galleries:
     caption: Black-spotted rockskipper blenny (Entomacrodus striatus) Kusu Island,
       Jun 15 Photo shared by Marcus Ng on flickr .
   gallery2:
-  - url: http://www.wildsingapore.com/crustacea/crab/portunidae/blue/251011ssisyls6.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/251011ssisyls6.jpg
     caption: Rockskipper ( Istiblennius sp.) ID by Yan Le , caught by a Blue swimming
       crab Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facbeook .
-  - url: http://www.wildsingapore.com/crustacea/crab/portunidae/blue/251011ssisyls6a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/251011ssisyls6a.jpg
     caption: Close up of fish caught. Small Sisters Island, Oct 25 Photo shared by
       Yan Le Su on facbeook .
   gallery3:

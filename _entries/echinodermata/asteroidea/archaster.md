@@ -109,10 +109,10 @@ galleries:
     caption: Regenerating new arms. Tanah Merah, Oct 09
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/archaster/080707hntd7423m3a.jpg
     caption: Parasitic snail on arm. Pulau Hantu, Jul 08
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0423m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0423m3b.jpg
     caption: Parasitic snail on arm. Cyrene Reef, Aug 11
   gallery6:
-  - url: http://www.wildsingapore.com/crustacea/crab/xanthidae/pictor/251008bbbky9.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pictor/251008bbbky9.jpg
     caption: Mosaic crab attempting to eat ione? Beting Bemban Besar, Oct 25 Photo
       shared by Kelvin Yong on facebook
   gallery7:

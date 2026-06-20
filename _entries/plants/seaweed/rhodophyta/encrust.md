@@ -30,10 +30,10 @@ galleries:
     caption: Encrusting dead coral. Sentosa, Jun 05
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
     caption: Encrusting a rock. Sisters Island, Jan 10
-  - url: http://www.wildsingapore.com/mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg
     caption: Encrusting a Hammer oyster . Pulau Semakau. Feb 09
   gallery2:
-  - url: http://www.wildsingapore.com/seagrass/thalassia/041019labd7736m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/seagrass/thalassia/041019labd7736m3b.jpg
     caption: The whitish stuff that grows on seagrass leaves is probably also coralline
       algae Labrador, Oct 04
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/081030sntd1456m3.jpg

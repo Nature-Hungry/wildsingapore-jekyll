@@ -13,9 +13,9 @@ updated: Oct 2016
 coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
     caption: In a White salmacis sea urchin. Changi, Oct 10 .
-  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/temnopleurus/040618chgg0672m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/040618chgg0672m3a.jpg
     caption: In a Black sea urchin. Changi, Jun 04
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/urchinmouth/101223pgllks.JPG
@@ -23,9 +23,9 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/urchinmouth/090514prplks.JPG
     caption: Pasir Ris Park, May 09 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/temnopleurus/251205cjky2.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/251205cjky2.jpg
     caption: Chek Jawa, Dec 25 Photo shared by Kelvin Yong on facebook
-  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/110830cyrjk6m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/110830cyrjk6m3.jpg
     caption: . Cyrene Reef, Aug 11 Photo shared by James Koh on his blog
 links_references: '**Links**
 

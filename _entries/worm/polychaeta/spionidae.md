@@ -28,11 +28,11 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/120124sisd5948m3a.jpg
     caption: On Daisy sponges . Sisters Island, Jan 12
   gallery2:
-  - url: http://www.wildsingapore.com/porifera/sprawlorange/081212cyrd2927m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/081212cyrd2927m3a.jpg
     caption: On Orange sprawling sponge . Cyrene Reef, Dec 08
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/100530tbkd4320m3a.jpg
     caption: On Smooth brown sponge . Terumbu Berkas, May 10
-  - url: http://www.wildsingapore.com/porifera/xestospongia/040803tusd3969m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/040803tusd3969m3a.jpg
     caption: On Barrel sponges . Tuas, Aug 04
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/190706skdro2.jpg

@@ -35,7 +35,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/spiky/111031chgd3404m3a.jpg
     caption: Tiny coloutful brittle stars . Changi, Oct 11
   gallery3:
-  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg
     caption: A nudibranch that eats sea pens is lurking near this one. Beting Bronok,
       Jun 18
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg

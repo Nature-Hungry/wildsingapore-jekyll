@@ -29,7 +29,7 @@ galleries:
     caption: A tiny shrimp. Sentosa, Oct 04
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/060312hntd0199m3a.jpg
     caption: A tiny scallop clam . Pulau Hantu, Mar 06
-  - url: http://www.wildsingapore.com/worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg
     caption: A fan worm . Raffles Lighthouse, Aug 06
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg

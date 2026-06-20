@@ -55,7 +55,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg
     caption: Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: http://www.wildsingapore.com/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg
     caption: In Stumpy acropora coral Big Sisters, Aug 25 Photo shared by Lon Voon
       Ong on facebook .
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/210625kusjk2.jpg

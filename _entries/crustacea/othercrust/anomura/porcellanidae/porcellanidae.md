@@ -45,7 +45,7 @@ galleries:
   gallery5:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
     caption: Hermit porcelain crab
-  - url: http://www.wildsingapore.com/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
     caption: Painted porcelain crab
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
     caption: Commensal porcelain crabs

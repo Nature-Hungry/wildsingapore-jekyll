@@ -42,9 +42,9 @@ galleries:
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/fish/ophichthidae/wormeel/040411hntd0060m3.jpg
     caption: The worm eel is a fish that appears worm- or snake-like.
-  - url: http://www.wildsingapore.com/worm/sipuncula/sipuncula/031122cjd0011m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/031122cjd0011m3.jpg
     caption: Peanut worms don't move very fast either.
-  - url: http://www.wildsingapore.com/worm/nemertea/verylong/050325sjid1973m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/050325sjid1973m3.jpg
     caption: Ribbon worms can be very long. They usually stay on the ground and don't
       swim about very fast.
 authors:

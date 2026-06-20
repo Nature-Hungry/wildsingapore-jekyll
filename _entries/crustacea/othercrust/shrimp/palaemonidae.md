@@ -28,7 +28,7 @@ updated: Jan 2020
 coverimg: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, Aug
       05
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg

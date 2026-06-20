@@ -47,7 +47,7 @@ galleries:
     caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo
       shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: http://www.wildsingapore.com/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg
     caption: A fang-blenny guarding eggs laid inside a dead Fan shell. Tanah Merah,
       Sep 09
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2790m3.jpg

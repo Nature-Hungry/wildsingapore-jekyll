@@ -16,13 +16,13 @@ updated: Oct 2019
 coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/030630chgd0017m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet2.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet2.gif
     caption: if you learn only 3 things about them ... They are often seen near cerianthids.
       They are shy and hide at the slightest sign of danger. Be quiet and wait for
       them to emerge. They look like fanworms but belong to a different animal group.
       Their tubes are made of chitin, the same substance that insect exoskeleton is
       made of.
-  - url: http://www.wildsingapore.com/photos/bullet2.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet2.gif
     caption: They are often seen near cerianthids. They are shy and hide at the slightest
       sign of danger. Be quiet and wait for them to emerge. They look like fanworms
       but belong to a different animal group. Their tubes are made of chitin, the

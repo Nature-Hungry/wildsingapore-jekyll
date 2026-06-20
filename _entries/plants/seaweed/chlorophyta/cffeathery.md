@@ -43,9 +43,9 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/seagrass/spinulosa/070716chgd4197m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/seagrass/spinulosa/070716chgd4197m3.jpg
     caption: Fern seagrass Halophila spinulosa
-  - url: http://www.wildsingapore.com/seagrass/spinulosa/030928cjd0024m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/seagrass/spinulosa/030928cjd0024m3a.jpg
     caption: ''
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

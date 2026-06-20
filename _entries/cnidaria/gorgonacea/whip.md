@@ -27,7 +27,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/050412tusd2422m3.jpg
     caption: Tuas, Apr 05
   gallery2:
-  - url: http://www.wildsingapore.com/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
     caption: Unidentified goby seen on a sea whip. Chek Jawa, Jun 23 Photo shared
       by Kelvin Yong on facebook .
   gallery3:

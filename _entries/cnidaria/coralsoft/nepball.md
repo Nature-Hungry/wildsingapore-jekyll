@@ -28,9 +28,9 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/110518bbd1694m3.jpg
     caption: Beting Bronok, May 11
   gallery2:
-  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/white/111222tusd4699m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/white/111222tusd4699m3.jpg
     caption: Ghost brittle star . Tuas, Dec 11
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg
     caption: False cowrie eats the soft coral. Tuas, Aug 09
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepball/080705bbd7110m3a.jpg
     caption: Tiny white snapping shrimps often found in a pair in this soft coral.

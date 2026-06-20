@@ -30,7 +30,7 @@ galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/excoecaria/excoecaria/090905sbwrd0118m3.jpg
     caption: Leaves turning red at the same time. Sungei Buloh, Sep 09
-  - url: http://www.wildsingapore.com/insecta/calliphara/040108ubnd0013m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/040108ubnd0013m3a.jpg
     caption: Juvenile Mangrove shield bugs . Pulau Ubin, Jan 04
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/excoecaria/excoecaria/090321krjo3211561m3.jpg
     caption: Fruits. Kranji Canal, Mar 09

@@ -39,7 +39,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/201019sjijll5.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG
     caption: A pair of Peacock-tail anemone shrimps seen in this anemone. Tanah Merah,
       May 13 Photo shared by Loh Kok Sheng on flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/others/100711cyrd8263m3.jpg

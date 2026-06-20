@@ -29,17 +29,17 @@ galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg
     caption: Half buried next to a Cake sand dollar. East Coast Park, Jul 15
-  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
     caption: The 'burn' marks on the test of this recently dead sea urchin might have
       been made by a Helmet snail!
-  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
     caption: Changi, May 08
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
     caption: Japanese bonnet snail
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg
     caption: Grey bonnet snail
-  - url: http://www.wildsingapore.com/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
     caption: Changi, May 08
 links_references: '**Links**
 

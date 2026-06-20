@@ -27,9 +27,9 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
     caption: Beting Bronok, Jun 06
   gallery2:
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
     caption: False cowrie snail . Chek Jawa, Apr 08
-  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg
     caption: Tiny colourful brittle star Pulau Sekudu, May 08
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg
     caption: Tiny porcelain crab. Beting Bronok, Jun 06

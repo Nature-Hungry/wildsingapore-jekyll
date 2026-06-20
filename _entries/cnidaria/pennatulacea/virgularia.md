@@ -38,7 +38,7 @@ galleries:
       05
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/virgularia/050820bbg1699m3a.jpg
     caption: Secondary polyps on the leaf-like structures.
-  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/porcellanidae/picta/050821bbg1897m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/picta/050821bbg1897m3.jpg
     caption: A pair of Painted porcelain crabs on the sea pen. Beting Bronok, Aug
       05
   gallery4:

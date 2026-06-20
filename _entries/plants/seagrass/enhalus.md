@@ -64,7 +64,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/091205sudd5574m3.jpg
     caption: Pulau Sudong, Dec 09
   gallery7:
-  - url: http://www.wildsingapore.com/ascidiacea/greengumdrop/060312hntd0129m3c.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/060312hntd0129m3c.jpg
     caption: Pulau Hantu, Mar 06
   - url: https://f003.backblazeb2.com/file/naturehungry/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
     caption: Encrusting red algae. Sentosa, Oct 08

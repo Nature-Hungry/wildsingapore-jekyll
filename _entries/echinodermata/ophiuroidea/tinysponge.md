@@ -44,9 +44,9 @@ galleries:
     caption: Larger white brittle stars among the tiny banded ones. Pulau Sekudu,
       Jul 04
   gallery3:
-  - url: http://www.wildsingapore.com/porifera/smoothblue/100911sisd1174m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/100911sisd1174m3a.jpg
     caption: In a blue icing sponge . Sisters Island, Sep 10
-  - url: http://www.wildsingapore.com/porifera/smoothbrown/100911sisd1245m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/100911sisd1245m3a.jpg
     caption: In a smooth brown sponge . Sisters Island, Sep 10
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/050621skdg7908m3.jpg
     caption: In a Orange blob sponge . Pulau Sekudu, Jun 06

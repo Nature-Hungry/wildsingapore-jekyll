@@ -47,12 +47,12 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/080519sisd3399m3a.jpg
     caption: Coral scallop Sisters Island, May 08
   gallery3:
-  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg
     caption: Machine gun shrimp Kusu Island, Jun 10 Photo shared by Loh Kok Sheng
       on his blog .
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acropora/060305sisd0062m3.jpg
     caption: Bandit coral crab Sisters Islands, Mar 06
-  - url: http://www.wildsingapore.com/vertebrates/fish/gobiidae/histrio/051204sisg3318m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/051204sisg3318m3a.jpg
     caption: Acropora goby Sisters Islands, Dec 05
   gallery4:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg

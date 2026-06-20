@@ -41,7 +41,7 @@
   padding:0.5rem;
   border-radius: 8px;
   box-shadow: 0 0 0 4px rgb(0 115 25 / 10%);
-  z-index: 99;
+  z-index: 20;
   position: absolute;
   width:100%;
 
@@ -145,81 +145,89 @@ input.value = initialQuery
 
 document.addEventListener("DOMContentLoaded", init);
 
+async function fetchData(){
+  let res = await fetch('/assets/search.json')
+  let local = await res.json()
+
+  res = await fetch('/assets/fishblogger.json')
+  let fishblogger = await res.json()
+
+  return output = [...local, ...fishblogger]
+}
+
 function init(){
-initialQuery = params.get('q') || ''
-    currentPage = parseInt(params.get('page'), 10)
-    if (isNaN(currentPage) || currentPage < 1) {
-      currentPage = 1
-    }
-    query = initialQuery
+  initialQuery = params.get('q') || ''
+      currentPage = parseInt(params.get('page'), 10)
+      if (isNaN(currentPage) || currentPage < 1) {
+        currentPage = 1
+      }
+      query = initialQuery
+
+      
+  fetchData().then(json => {
+      data = json
+
+      fuse = new Fuse(data, {
+        includeScore: true,
+        threshold: 0.03, // lower = stricter, higher = more fuzzy
+        minMatchCharLength: 2,
+        ignoreLocation: true,
+      findAllMatches: false,
+        keys: [
+          { name: "title", weight: 3 },
+          { name: "species", weight: 3 },
+          { name: "genus", weight: 2 },
+          { name: "family", weight: 2 },
+          { name: "keywords", weight: 2 }, 
+          { name: "summary", weight: 1 }, 
+          { name: "subfamily", weight: 1 }, 
+          { name: "infraorder", weight: 1 }, 
+          { name: "suborder", weight: 1 }, 
+          { name: "order", weight: 1 },
+          { name: "class", weight: 1 },
+          { name: "subphylum", weight: 1 },
+          { name: "phylum", weight: 1 },
+          { name: "kingdom", weight: 1 },
+          { name: "zone", weight: 1 },
+
+          { name: "search_text", weight: 0.5 }, // fallback for partial strings
+        ]
+      })
+
+      results = json
 
     
-fetch('/assets/search.json')
-  .then(res => res.json())
-  .then(json => {
-    data = json
+      filterResults()
+      renderResults()
 
-    fuse = new Fuse(data, {
-      includeScore: true,
-      threshold: 0.01, // lower = stricter, higher = more fuzzy
-      minMatchCharLength: 4,
-      ignoreLocation: false,
-    findAllMatches: false,
-      keys: [
-        { name: "title", weight: 3 },
-        { name: "species", weight: 3 },
-        { name: "genus", weight: 2 },
-        { name: "family", weight: 2 },
-        { name: "keywords", weight: 2 }, 
-        { name: "summary", weight: 1 }, 
-        { name: "subfamily", weight: 1 }, 
-        { name: "infraorder", weight: 1 }, 
-        { name: "suborder", weight: 1 }, 
-        { name: "order", weight: 1 },
-        { name: "class", weight: 1 },
-        { name: "subphylum", weight: 1 },
-        { name: "phylum", weight: 1 },
-        { name: "kingdom", weight: 1 },
-        { name: "zone", weight: 1 },
-
-        { name: "search_text", weight: 0.5 }, // fallback for partial strings
-      ]
     })
 
-    results = json
+    pageInfo = Array.from(document.getElementsByClassName('page-info'))
 
-   
-    filterResults()
-    renderResults()
+    prevBtn = Array.from(document.getElementsByClassName('prev'))
+    nextBtn = Array.from(document.getElementsByClassName('next'))
+
+    prevBtn.forEach(pb=>{
+    pb.addEventListener('click', () => {
+      if (currentPage > 1) {
+        currentPage--
+        updateURL()
+        renderResults()
+      }
+    })
+  })
+  nextBtn.forEach(nb=>{
+    nb.addEventListener('click', () => {
+      const totalPages = Math.ceil(results.length / perpage)
+    
+      if (currentPage < totalPages) {
+        currentPage++
+        updateURL()
+        renderResults()
+      }
+    })
 
   })
-
-  pageInfo = Array.from(document.getElementsByClassName('page-info'))
-
-  prevBtn = Array.from(document.getElementsByClassName('prev'))
-  nextBtn = Array.from(document.getElementsByClassName('next'))
-
-  prevBtn.forEach(pb=>{
-  pb.addEventListener('click', () => {
-    if (currentPage > 1) {
-      currentPage--
-      updateURL()
-      renderResults()
-    }
-  })
-})
-nextBtn.forEach(nb=>{
-  nb.addEventListener('click', () => {
-    const totalPages = Math.ceil(results.length / perpage)
-  
-    if (currentPage < totalPages) {
-      currentPage++
-      updateURL()
-      renderResults()
-    }
-  })
-
-})
 }
 
 input.addEventListener('keyup', () => {
@@ -287,9 +295,12 @@ function filterResults(){
   // Step 1: true substring search for partial matches
   let partialResults = data
   if(query){
-    partialResults = data.filter(item =>
-      item.search_text.includes(query)
-    )
+    partialResults = data.filter(item =>{
+      if(!item.search_text){
+        return false
+      }
+      return item.search_text.includes(query)
+    })
   }
   partialResults = partialResults.filter(item => taxafilter(item))
   partialResults = partialResults.filter(zoneFilter)
@@ -345,7 +356,7 @@ function renderResults() {
     
     return `
     <div class="entry-wrapper">
-    <a href="${item.url}" class="entry">
+    <a href="${item.url}" class="entry" ${item.external ? "external="+item.external : ""}>
         <div class="img-container">
             <img src="${item.coverimg ?? 'https://placehold.co/600x400/png'}" alt="">
         </div>
@@ -560,5 +571,43 @@ tree.addEventListener('change', e => {
   filterResults()
   renderResults()
 })
+
+
+
+
+
+
+
+const redirectMap = {
+  "sgfishesabovewater.blogspot.com":{
+    "logo":"",
+  }
+}
+
+
+document.body.addEventListener('click', function(event) {
+  // 2. Check if the clicked element (or its closest ancestor) is a transition link
+  const link = event.target.closest('a.entry[external]');
+  
+  if (link) {
+    // 3. Override the default redirect
+    event.preventDefault();
+    const targetUrl = link.href;
+    
+    // 4. Trigger transition animation
+    const overlay = document.getElementById("redirect-overlay")
+    overlay.classList.add('show');
+    overlay.insertAdjacentHTML('beforeend', `
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/timelinejs/2.25/css/loading.gif"/>
+      <p>Redirecting to ${link.getAttribute("external")}</p>
+    `);
+    
+    // 5. Redirect after transition finishes
+    console.log("Redirecting to ", link.getAttribute("external"))
+    setTimeout(() => {
+      window.location.href = targetUrl;
+    }, 1500);
+  }
+});
 
 </script>

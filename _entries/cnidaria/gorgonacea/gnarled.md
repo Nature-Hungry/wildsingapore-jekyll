@@ -27,9 +27,9 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/030714bbd0045m3.jpg
     caption: Beting Bronok, Jul 03
   gallery3:
-  - url: http://www.wildsingapore.com/mollusca/cephalopoda/cepeggs/030618bbd0161m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/030618bbd0161m3.jpg
     caption: Squid egg capsules attached to the sea fan. Beting Bronok, Jun 03
-  - url: http://www.wildsingapore.com/mollusca/bivalvia/pteriidae/pteriidae/120704chgd6895m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/120704chgd6895m3.jpg
     caption: Winged oyster on the sea fan. Changi, Jul 12
 links_references: '**Links**
 

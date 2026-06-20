@@ -38,7 +38,7 @@ galleries:
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/050819cjg1506m3a.jpg
     caption: Tiny snails grazing on algae on the leaves. Chek Jawa, Aug 05
-  - url: http://www.wildsingapore.com/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
     caption: Bryozoans growing on the seagrass. Changi, Aug 08
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/071126chgd7629m3c.jpg
     caption: Tiny organisms growing on leaflet. Changi, Nov 07

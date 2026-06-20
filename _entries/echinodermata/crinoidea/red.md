@@ -27,7 +27,7 @@ galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/080425cyrd1818m3.jpg
     caption: Cyrene Reef, Apr 08
-  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
     caption: Well-camouflaged Crinoid shrimp . Pulau Hantu, Jan 12
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/120123hntd5773m3.jpg

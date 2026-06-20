@@ -44,7 +44,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/crispa/100529kuslks7m3.jpg
     caption: Bleaching. Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: http://www.wildsingapore.com/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks7m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks7m3a.jpg
     caption: Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/crispa/100528kusmn1m3.jpg
     caption: Kusu Island, May 10 Photo shared by Marcus Ng on his flickr .

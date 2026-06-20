@@ -39,7 +39,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
     caption: Tiny sea anemones may be found on a shell occupied by a hermit crab.
       Changi, Apr 07
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
     caption: Others may have big sea anemones ! Changi, Apr 07
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg
     caption: Slipper snails are often found on the inside of the shell occupied by

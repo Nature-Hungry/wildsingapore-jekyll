@@ -29,9 +29,9 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/031115rmbrad0082m3a.jpg
     caption: Yellow flower. Sungei Buloh Wetland Reserve, Nov 03
   gallery2:
-  - url: http://www.wildsingapore.com/insecta/pycanum/040207ubnd0027m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040207ubnd0027m3.jpg
     caption: Nymph of Giant shield bug ( Pycanum sp) . Pulau Ubin, Feb 04
-  - url: http://www.wildsingapore.com/insecta/pycanum/040214ubnd0082m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040214ubnd0082m3.jpg
     caption: . Adult Giant shield bug ( Pycanum sp.). Pulau Ubin, Feb 04
 links_references: '**Links**
 

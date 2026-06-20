@@ -24,7 +24,7 @@ galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: In a Magnificent anemone . Terumbu Semakau, Jul 14
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
     caption: In a Merten's carpet anemone . Terumbu Hantu, Apr 12
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
     caption: 'Stranded at low tide: best to leave it alone. Kusu Island, Aug 19'

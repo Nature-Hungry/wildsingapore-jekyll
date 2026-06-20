@@ -21,12 +21,12 @@ updated: Oct 2020
 coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 galleries:
   gallery1:
-  - url: http://www.wildsingapore.com/photos/bullet2.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet2.gif
     caption: if you learn only 3 things about them ... They are 'one-sided' fishes
       as adults, but start life looking like other 'normal' fishes. Their transformation
       is fascinating. They can crawl slowly using the fins that border the body edge.
       They are well camouflaged and some are tiny. Don't step on them!
-  - url: http://www.wildsingapore.com/photos/bullet2.gif
+  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet2.gif
     caption: They are 'one-sided' fishes as adults, but start life looking like other
       'normal' fishes. Their transformation is fascinating. They can crawl slowly
       using the fins that border the body edge. They are well camouflaged and some

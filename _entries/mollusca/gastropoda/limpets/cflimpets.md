@@ -37,7 +37,7 @@ galleries:
     caption: ''
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
     caption: ''
-  - url: http://www.wildsingapore.com/polyplacophora/chiton/110803chgd8435m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/polyplacophora/chiton/110803chgd8435m3.jpg
     caption: ''
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

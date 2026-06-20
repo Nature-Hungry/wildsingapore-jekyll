@@ -31,7 +31,7 @@ galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/060129skdg4092m3.jpg
     caption: Sometimes divided into four or more 'wings'. Pulau Sekudu, Jan 06
-  - url: http://www.wildsingapore.com/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg
     caption: Strawberry slug found on the seaweed. Tanah Merah, Dec 09
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/180815bbbll2.jpg

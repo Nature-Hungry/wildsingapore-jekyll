@@ -37,7 +37,7 @@ galleries:
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
     caption: 'Stranded at low tide: best to leave it alone. Kusu Island, Aug 19'
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
     caption: In a Merten's carpet anemone . Terumbu Hantu, Apr 12
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: In a Magnificent anemone . Terumbu Semakau, Jul 14
@@ -72,10 +72,10 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/250714srpttt1.jpg
     caption: In Magnificent anemone Sentosa Serapong, Jul 25 Photo shared by Tommy
       Tan on facebook .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/magnifica/120407lazlks1m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/120407lazlks1m3a.jpg
     caption: Seringat Kias, Apr 12 Photo shared by James Koh on his blog .
   gallery10:
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
   - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/240528tslrk1.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Richard Kuah on facebook .

@@ -29,12 +29,12 @@ galleries:
     caption: Half dead specimen washed ashore . Skeleton of the central stalk Changi,
       May 06
   gallery2:
-  - url: http://www.wildsingapore.com/crustacea/othercrust/anomura/porcellanidae/picta/071002chngtch.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/picta/071002chngtch.jpg
     caption: Painted porcelain crab seen on a Sea pencil. Changi, Oct 07 Photo shared
       by Toh Chay Hoon on flickr .
-  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
     caption: Armina nudibranch next to a sea pencil . Changi, Jun 05
-  - url: http://www.wildsingapore.com/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg
     caption: Armina nudibranchs next to a Sea pencil. Changi, Jul 20 Photo shared
       by Toh Chay Hoon on facebook .
   gallery3:

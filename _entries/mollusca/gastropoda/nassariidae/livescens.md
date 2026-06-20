@@ -38,7 +38,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/120705chgd7078m6l.jpg
     caption: Very long foot with a pair of tentacles at the end, operculum with a
       dark blotch. Changi, May 05
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/snail/081216prpd3576m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/081216prpd3576m3.jpg
     caption: With tiny sea anemones on it. Pasir Ris, Dec 08
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/090224lazlks05m3.JPG

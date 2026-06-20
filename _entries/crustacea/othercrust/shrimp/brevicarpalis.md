@@ -47,7 +47,7 @@ galleries:
       May 05
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3618m3.jpg
     caption: '''Locked out'' of its sea anemone at low tide! Kusu Island, Jul 04'
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
     caption: Sometimes, both anemone shrimps and anemonefishes share the same anemone.
       Pulau Hantu, Jul 07
   gallery4:
@@ -61,7 +61,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks6m3a.jpg
     caption: On a pizza anemone . Kusu Island, Jun 10 Photo shared by Loh Kok Sheng
       on his blog .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/crispa/100528kusmn1m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/crispa/100528kusmn1m3.jpg
     caption: On a leathery anemone . Kusu Island, May 10 Photo shared by Marcus Ng
       on his flickr .
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/110507cyrd0994m3.jpg
@@ -90,7 +90,7 @@ galleries:
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100502trygl2m3.JPG
     caption: Terumbu Raya, May 10 Photo shared byGeraldine Lee on her blog .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Russel Low on facebook .
   gallery10:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/251008bbbmn3.jpg
@@ -107,10 +107,10 @@ galleries:
     caption: Pulau Pawai, Dec 09
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/100613snglks5m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery13:
-  - url: http://www.wildsingapore.com/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg
     caption: On a pizza anemone . Pulau Pawai, Dec 09 Shared by James Koh on his flickr
       .
   gallery14:

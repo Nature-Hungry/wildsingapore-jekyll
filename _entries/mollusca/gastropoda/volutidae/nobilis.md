@@ -60,7 +60,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/130624chg7d7899.jpg
     caption: Burrowing with siphon sticking out. Changi, Jun 13
   gallery2:
-  - url: http://www.wildsingapore.com/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
     caption: Noble volute hunting down a Big brown mactra clam that eventually escaped.
       Pulau Semakau, Mar 08
   gallery3:

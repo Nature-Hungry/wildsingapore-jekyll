@@ -33,7 +33,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0420m3.jpg
     caption: Mouthparts Changi, Jul 05
   gallery2:
-  - url: http://www.wildsingapore.com/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
     caption: In the Spiky sea pen Changi, Jul 04
   - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/picta/050821bbg1897m3a.jpg
     caption: In the Slender sea pen Beting Bronok, Aug 05

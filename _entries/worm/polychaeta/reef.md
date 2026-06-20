@@ -33,7 +33,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/050513labg6499m3a.jpg
     caption: ''
   gallery3:
-  - url: http://www.wildsingapore.com/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg
     caption: Swimming crab eating a Reef bristleworm Pulau Semakau (West), Jul 25
       Photo shared by Jayden Kang on facebok .
   - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/081017cyrtch.jpg

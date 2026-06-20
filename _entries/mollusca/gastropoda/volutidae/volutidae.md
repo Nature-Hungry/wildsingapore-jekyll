@@ -28,7 +28,7 @@ galleries:
   gallery1:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
     caption: Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by Toh Chay Hoon on her blog.
-  - url: http://www.wildsingapore.com/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
     caption: Noble volute hunting down a Big brown mactra clam that eventually escaped. Pulau Semakau, Mar 08
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100614bbd5995m3.jpg
@@ -38,7 +38,7 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg
     caption: Baby Noble volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her flickr.
   gallery3:
-  - url: http://www.wildsingapore.com/cephalopoda/bigseagrass/130624chg7d7811.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/cephalopoda/bigseagrass/130624chg7d7811.jpg
     caption: Octopus hiding inside an empty Noble volute shell. Changi, Jun 13
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/090514prpd1730.jpg
     caption: Hermit crab and Slipper snails living in an empty Baler volute shell. Pasir Ris, May 09

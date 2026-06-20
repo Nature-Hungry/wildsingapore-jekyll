@@ -27,11 +27,11 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/050722cjg9842m3b.jpg
     caption: Chek Jawa, Jul 05
   gallery2:
-  - url: http://www.wildsingapore.com/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
     caption: Tiny colourful brittle stars . Changi, Jun 12
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/081214ecmd3212m3.jpg
     caption: Red flatworm ? East Coast, Dec 08
-  - url: http://www.wildsingapore.com/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
     caption: Ovulid snails East Coast, Jun 06
   gallery3:
   - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/091218tmlks2m3.JPG
