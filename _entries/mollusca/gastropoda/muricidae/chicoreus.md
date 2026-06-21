@@ -113,7 +113,6 @@ galleries:
 links_references: '**Links**
 
   - [Firebrand murex (
-
   *Chicoreus torrefactus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86970)
@@ -121,13 +120,11 @@ links_references: '**Links**
   and
 
   [Adusta murex (
-
   *Chicoreus brunneus*](http://www.sealifebase.org/summary/speciessummary.php?genusname=Chicoreus&speciesname=brunneus)
 
   ) on SeaLife Base: Technical fact sheet.
 
   - Firebrand murex (
-
   *Chicoreus torrefactus*
 
   ) and
@@ -222,9 +219,7 @@ Like other drills in the Family Muricidae, this snail can also drill through she
 *Gafrarium*
 (Family Veneridae) by drilling a neat hole through the shell. We have often seen them suspiciously clasping a
 [Bazillion snail](../batillariidae/zonalis)
-(
-*Batillaria zonalis*
-).
+(*Batillaria zonalis*).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby drills**
 Once, many clusters of many snails were seen on Cyrene Reef apparently laying egg capsules on dead Fan clam shells and other hard surfaces.

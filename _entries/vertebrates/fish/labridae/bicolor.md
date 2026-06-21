@@ -87,7 +87,6 @@ galleries:
 links_references: '**Links**
 
   - [Brown-stripe Wrasse (
-
   *Halichoeres bicolor*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/350)

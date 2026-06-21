@@ -105,9 +105,7 @@ habitats:
 ## Where seen?
 This seagrass is abundant on Pulau Semakau, growing among the more dominant
 [Tape seagrass](enhalus)
-(
-*Enhalus acoroides*
-), and on Cyrene Reef.
+(*Enhalus acoroides*), and on Cyrene Reef.
 
 Noodle seagrass is found throughout the tropical Indo-West Pacific region. Elsewhere, it can form thick tall stands without any other seagrass species. It can also grow among other seagrasses species, where it is then smaller. It is rarely found in shallow intertidal areas. It appears to respond rapidly to increased nutrient availability.
 
@@ -118,8 +116,7 @@ Leaves of those seen were 5-10cm long, but elsewhere, they can grow to 50cm long
 
 **Sometimes confused with**
 [Needle seagrass](halodule)
-(
-*Halodule*
+(*Halodule*
 sp.). While both are long and narrow, noodle seagrass, however, is cylindrical like plastic tubing or noodles, while needle seagrass is flat like a ribbon.
 
 **Flowers and fruits:**

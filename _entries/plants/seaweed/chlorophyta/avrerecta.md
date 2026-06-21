@@ -160,8 +160,7 @@ The stalk can be quite long (up to 10cm long), with only a short portion stickin
 
 Sometimes, tiny
 [Strawberry slugs](../../../mollusca/slugs/sacoglossa/costasiella)
-(
-*Costasiella*
+(*Costasiella*
 sp.) are found on this seaweed.
 
 **Sometimes confused with**

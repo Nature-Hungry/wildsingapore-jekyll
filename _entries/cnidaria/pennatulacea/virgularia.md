@@ -133,9 +133,7 @@ When exposed at low tide, the leaf-like structures are collapsed, while the stif
 **Pen pals:**
 Slender sea pens are recorded to harbour small creatures such as porcelain crabs, shrimps, brittle stars and small nudibranchs. The
 [Painted porcelain crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/picta)
-(
-*Porcellanella picta*
-) have been spotted on the Red slender sea pen.
+(*Porcellanella picta*) have been spotted on the Red slender sea pen.
 
 **Species are difficult to positively identify without close examination.
 

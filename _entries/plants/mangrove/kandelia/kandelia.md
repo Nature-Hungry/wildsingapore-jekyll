@@ -43,7 +43,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Pisang pisang (
-
   *Kandelia candel*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1064)

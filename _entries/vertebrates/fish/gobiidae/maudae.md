@@ -85,7 +85,6 @@ galleries:
 links_references: '**Links**
 
   - [Saddled prawn-goby (
-
   *Cryptocentrus maudae*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=13767)

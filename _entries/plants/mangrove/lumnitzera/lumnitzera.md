@@ -54,7 +54,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Teruntum merah (
-
   *Lumnitzera littorea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1065)
@@ -62,7 +61,6 @@ links_references: '**Links**
   and
 
   [Teruntum bunga puteh (
-
   *Lumnitzera racemosa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1066)
@@ -141,9 +139,7 @@ Short shrub to tall tree. Leaves spatula shaped with oval ends thick and fleshy,
 
 **Sometimes mistaken for**
 [Chengam](../scyphiphora/hydrophyllacea)
-(
-*Scyphiphora hydrophyllacea*
-) which has its leaves arranged in a spiral.
+(*Scyphiphora hydrophyllacea*) which has its leaves arranged in a spiral.
 
 According to Giesen, although occurring throughout Malaysia and Indonesia,
 *L. littorea*

@@ -45,7 +45,6 @@ galleries:
 links_references: '**Links**
 
   - [Common frill-fin goby (
-
   *Bathygobius fuscus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/360)
@@ -59,7 +58,6 @@ links_references: '**Links**
   - [Dusky frillgoby](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
 
   [(
-
   *Bathygobius fuscus*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
@@ -67,7 +65,6 @@ links_references: '**Links**
   and
 
   [Meggitt''s goby (
-
   *Bathygobius meggitti*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=46431)
@@ -136,11 +133,7 @@ This pretty spotted goby is commonly seen on many of our shores, in rocky shores
 
 4-7cm long. It has bulging cheeks and a pattern of tiny white spots regularly spaced on its face and in rows down its body. Usually a pair of dark saddles, as well as dark blotches, along the body length.
 
-The most commonly seen frill-fin gobies on our shores are the Common frill-fin goby (
-*Bathygobius fuscus*
-) and Meggitt's frill-fin goby (
-*Bathygobius meggitti*
-) which look very similar.
+The most commonly seen frill-fin gobies on our shores are the Common frill-fin goby (*Bathygobius fuscus*) and Meggitt's frill-fin goby (*Bathygobius meggitti*) which look very similar.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

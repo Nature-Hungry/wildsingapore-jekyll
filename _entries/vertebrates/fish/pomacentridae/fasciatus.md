@@ -92,7 +92,6 @@ galleries:
 links_references: '**Links**
 
   - [Yellow-banded damsel (
-
   *Dischistodus fasciatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/341)
@@ -104,7 +103,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Banded damsel (
-
   *Dischistodus fasciatus*
 
   )](http://www.fishbase.se/Summary/SpeciesSummary.php?id=9982)

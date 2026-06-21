@@ -55,7 +55,6 @@ links_references: '**Links**
   and
 
   [Sea Nettle (
-
   *Chrysaora melanaster*
 
   ) Order Semaeostomeae](http://mangrove.nus.edu.sg/pub/seashore/text/249)

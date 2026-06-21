@@ -95,9 +95,7 @@ The seaweed resembles bunches of little bells, with a flattened top. Each bunch 
 
 **Sometimes confused with**
 [Round sea grape seaweeds](lentillifera)
-(
-*Caulerpa lentillifera*
-). Here's more on
+(*Caulerpa lentillifera*). Here's more on
 [how to tell apart the sea grapes seaweeds](cfgrapes)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

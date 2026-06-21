@@ -84,11 +84,7 @@ habitats:
 ---
 
 ## Where seen?
-With fresh green leaves and bright purple flowers, this creeper is sometimes seen growing wild on our sandy beaches, at the highest water mark. This plant is found on tropical shores everywhere including throughout Southeast Asia. It belongs to the Family Convolvulaceae which includes the more commonly seen terrestrial morning glory, as well as our favourite vegetable Kang kong (
-*Ipomoea reptans*
-) and sweet potato or Keladi (
-*Ipomoea batatas*
-).
+With fresh green leaves and bright purple flowers, this creeper is sometimes seen growing wild on our sandy beaches, at the highest water mark. This plant is found on tropical shores everywhere including throughout Southeast Asia. It belongs to the Family Convolvulaceae which includes the more commonly seen terrestrial morning glory, as well as our favourite vegetable Kang kong (*Ipomoea reptans*) and sweet potato or Keladi (*Ipomoea batatas*).
 
 ## Features
 

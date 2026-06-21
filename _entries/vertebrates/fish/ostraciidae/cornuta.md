@@ -68,7 +68,6 @@ galleries:
 links_references: '**Links**
 
   - [Longhorn cowfish (
-
   *Lactoria cornuta*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6399)

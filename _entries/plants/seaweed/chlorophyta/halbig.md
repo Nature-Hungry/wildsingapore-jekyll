@@ -59,7 +59,6 @@ galleries:
 links_references: '**Links**
 
   - [Calcified seaweed (
-
   *Halimeda*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/102)
@@ -152,9 +151,7 @@ An upright chain (5-10cm long) of joined up coin-like flattened segments. Each c
 **Living on halimeda:**
 The keen-eyed observer may spot the tiny
 [Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla)
-(
-*Elysiella pusilla*
-) found on this seaweed. The slugs are difficult to spot as they usually the same colour as the seaweed or somewhat translucent.
+(*Elysiella pusilla*) found on this seaweed. The slugs are difficult to spot as they usually the same colour as the seaweed or somewhat translucent.
 
 During one
 [visit to Tuas in Sep 08](http://wildshores.blogspot.com/2008/09/tuas-with-teamseagrass-of-schering.html)

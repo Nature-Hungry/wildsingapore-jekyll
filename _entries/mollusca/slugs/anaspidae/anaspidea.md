@@ -186,9 +186,7 @@ Sea hares are molluscs. They belong to
 [Phylum Mollusca](../../mollusca)
 and
 [Class Gastropoda](../../gastropoda)
-like snails. Like many other sea slugs (
-[Subclass Opistobranchia](../../slug)
-), sea hares lack external shells as adults. Sea hares belong to Order Anaspidea and are NOT
+like snails. Like many other sea slugs ([Subclass Opistobranchia](../../slug)), sea hares lack external shells as adults. Sea hares belong to Order Anaspidea and are NOT
 [nudibranchs](../../nudibranchia)
 , which belong to a different Order Nudibranchia.
 
@@ -287,8 +285,7 @@ sp.](seagrass)
 (Seagrass sea hare)
 **Placobranchus virgatus=Thuridilla virgata*
 (now in
-[Family Plakobranchidae](../sacoglossa/elysiidae)
-)
+[Family Plakobranchidae](../sacoglossa/elysiidae))
 *[Stylocheilus](stylocheilus)*
 [sp.](stylocheilus)
 (Furry sea hare)

@@ -61,7 +61,6 @@ galleries:
 links_references: '**Links**
 
   - [Squaretail mullet (
-
   *Ellochelon vaigensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/233)

@@ -59,11 +59,9 @@ links_references: '**Links**
   - [Family Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140)
 
   including the Spider conch (
-
   *Lambis lambis*
 
   ) and the Black-lipped Conch (
-
   *Strombus urceus*
 
   ). Tan, Leo W. H. & Ng, Peter K. L., 1988,
@@ -206,9 +204,7 @@ and
 [Spider conch](lambis)
 are listed as 'Vulnerable' on the Red List of threatened animals of Singapore, while the
 [Dark Diana conch](aratrum)
-is listed as 'Critically endangered'. The Spider conch and Black-lipped conch are no longer as common as in the past. They are threatened by habitat degradation, over-collection for food and as souvenirs. Hopefully, our Conch snails don't suffer the same fate as the Queen Conch (
-*Strombus gigas*
-) of the Americas which is now listed on CITES II due to over-harvesting.
+is listed as 'Critically endangered'. The Spider conch and Black-lipped conch are no longer as common as in the past. They are threatened by habitat degradation, over-collection for food and as souvenirs. Hopefully, our Conch snails don't suffer the same fate as the Queen Conch (*Strombus gigas*) of the Americas which is now listed on CITES II due to over-harvesting.
 
 ---
 

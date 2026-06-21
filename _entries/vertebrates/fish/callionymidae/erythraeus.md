@@ -48,7 +48,6 @@ galleries:
 links_references: '**Links**
 
   - [Smallhead dragonet (
-
   *Callionymus erythraeus*
 
   )](http://www.fishbase.us/summary/Callionymus-erythraeus.html)

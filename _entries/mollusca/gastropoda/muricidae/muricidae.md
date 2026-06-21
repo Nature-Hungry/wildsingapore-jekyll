@@ -79,11 +79,9 @@ galleries:
 links_references: '**Links**
 
   - [Drill (
-
   *Thais gradata*
 
   ) and Ketem (
-
   *Chicoreus capucinus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2085)
@@ -95,11 +93,9 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Spiny Murex (
-
   *Murex martineaus*
 
   ), Mangrove Murex (
-
   *Chicoreus capucinus*
 
   ), Thais and Morula](http://mangrove.nus.edu.sg/pub/seashore/text/146)
@@ -115,7 +111,6 @@ links_references: '**Links**
   - Rugose Drupe by Wu Yuwei, 10 Apr 2019 on Taxo4254.
 
   - [Ramose murex (
-
   *Chicoreus ramosus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=200)
@@ -123,7 +118,6 @@ links_references: '**Links**
   and
 
   [Rare-spined murex (
-
   *Murex trapa*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=195)
@@ -277,12 +271,9 @@ You will almost be certain to meet this ferocious predator on our rocky shores! 
 
 ## Features
 
-They range from small shells to some that can be as big as your hand! Among the common drill species on our shores are Rock-shell (
-*Thais*
-sp.), Drupes (
-*Morula*
-sp.) and Murex (
-*Chicoreus*
+They range from small shells to some that can be as big as your hand! Among the common drill species on our shores are Rock-shell (*Thais*
+sp.), Drupes (*Morula*
+sp.) and Murex (*Chicoreus*
 sp.). Drills usually have thick shells and a thick operculum made of a horn-like material. Those with complicated spines on their shells usually move by holding their shells above the surface as they move along the surface.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Bored to Death:**
@@ -322,9 +313,7 @@ The toxins kill drill larvae, or result in deformities in adults.
 *Chicoreus ramosus*
 is listed as 'Endangered' and the
 [Murex snail](trapa)
-(
-*Murex trapa*
-) as 'Vulnerable' in the Red List of threatened animals of Singapore. Our other drills are not on this list. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
+(*Murex trapa*) as 'Vulnerable' in the Red List of threatened animals of Singapore. Our other drills are not on this list. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---
 

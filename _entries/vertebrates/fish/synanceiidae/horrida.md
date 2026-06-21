@@ -109,7 +109,6 @@ galleries:
 links_references: '**Links**
 
   - [Hollow-cheek Stonefish (
-
   *Synanceia horrida*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256)
@@ -121,7 +120,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Stonefish (
-
   *Synanceia horrida*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/231)
@@ -252,9 +250,7 @@ Stonefishes are carnivores but don't actively hunt their prey. Instead, they lie
 **What will eat a stonefish?**
 Incredible as it may sound, some animals do eat them. According to the
 [Australian Museum](http://www.amonline.net.au/fishes/students/focus/sverruc)
-, sharks and rays and a sea snake (
-*Astrotia stokesii*
-) eats them! And of course, some people eat them as a delicacy.
+, sharks and rays and a sea snake (*Astrotia stokesii*) eats them! And of course, some people eat them as a delicacy.
 
 ## Human uses
 

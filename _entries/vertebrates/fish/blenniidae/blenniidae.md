@@ -40,7 +40,6 @@ galleries:
 links_references: '**Links**
 
   - [Striped Fang-blenny (
-
   *Meiacanthus grammistes*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356)
@@ -48,7 +47,6 @@ links_references: '**Links**
   ,
 
   [Whitebar Oyster-blenny (
-
   *Omobranchus ferox*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355)
@@ -56,7 +54,6 @@ links_references: '**Links**
   ,
 
   [Variable Fang-blenny (
-
   *Petroscirtes variabilis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357)

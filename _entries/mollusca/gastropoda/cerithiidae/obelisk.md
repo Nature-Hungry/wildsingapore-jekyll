@@ -60,7 +60,6 @@ galleries:
 links_references: '**Links**
 
   - [Obelisk vertagus (
-
   *Rhinoclavis sinensis*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?GenusName=Rhinoclavis&SpeciesName=sinensis)

@@ -105,7 +105,6 @@ galleries:
 links_references: '**Links**
 
   - [Peacock Sole (
-
   *Pardachirus pavoninus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/385)
@@ -117,7 +116,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp. Family Soleidae .
 
   - [Peacock sole (
-
   *Pardachirus pavoninus*
 
   )](http://www.fishbase.org/summary/8271)
@@ -210,9 +208,7 @@ The fish produces a mucus from toxin glands along the base of the dorsal and ana
 [FishBase](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8271)
 , this mucus appears to have shark-repellent properties. The more obvious marking on this fish may serve to warn of its unpleasant nature.
 
-The Moses sole (
-*Pardachirus mamoratus*
-) found in the Red Sea produces an astringent, frothy, soap-like poison, called pardaxin, that was found to repel sharks. However, the toxin proved difficult to package and store and could not be used to protect humans.
+The Moses sole (*Pardachirus mamoratus*) found in the Red Sea produces an astringent, frothy, soap-like poison, called pardaxin, that was found to repel sharks. However, the toxin proved difficult to package and store and could not be used to protect humans.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What does it eat?**
 Lying buried in the sand, it preys on bottom dwelling animals including worms, small crustaceans and molluscs.

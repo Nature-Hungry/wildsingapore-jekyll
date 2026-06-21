@@ -261,8 +261,7 @@ This distinctive elegantly-spotted nudibranch is regularly encountered on many o
 **What does it eat?**
 It is said to eat a
 [blue sponge](../../../porifera/bluejorunna)
-(
-*Neopetrosia*
+(*Neopetrosia*
 sp.). Indeed, on Pulau Sekudu, we have seen large Polka-dot jorunna nudibranchs near these sponges, sometimes in pairs, and sometimes appearing to have just having laid a ribbon-like egg mass. Elsewhere, we have also seen these nudibranchs near blue sponges.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

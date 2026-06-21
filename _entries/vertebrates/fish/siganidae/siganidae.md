@@ -40,7 +40,6 @@ galleries:
 links_references: '**Links**
 
   - [White-spotted Rabbitfish (
-
   *Siganus canaliculatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379)
@@ -48,7 +47,6 @@ links_references: '**Links**
   and
 
   [Double-barred Rabbitfish (
-
   *Siganus virgatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/380)
@@ -238,9 +236,7 @@ Most rabbitfishes are herbivores, grazing on algae that grows on the sea bottom,
 
 The
 [White-spotted rabbitfish](canaliculatus)
-(
-*Siganus canaliculatus*
-) is highly sought after for eating during the Chinese Lunar New Year. At this time, the fishes breed and their roe are particularly relished. Called
+(*Siganus canaliculatus*) is highly sought after for eating during the Chinese Lunar New Year. At this time, the fishes breed and their roe are particularly relished. Called
 *'Pei Tor'*
 , the Chinese believe it eating it brings good luck. Other species are important foodfishes in other parts of the world. Some of the more colourful reef rabbitfishes are also collected for the aquarium trade.
 

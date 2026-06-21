@@ -45,7 +45,6 @@ galleries:
 links_references: '**Links**
 
   - [Calcified seaweed (
-
   *Halimeda*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/102)

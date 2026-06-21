@@ -40,7 +40,6 @@ galleries:
 links_references: '**Links**
 
   - [Pigeon or Dove Shell (
-
   *Pyrene*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/147)

@@ -72,7 +72,6 @@ galleries:
 links_references: '**Links**
 
   - [Pear-shaped moon snail (
-
   *Polinices mammilla*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86934)
@@ -80,7 +79,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Pear-shaped moon snail (
-
   *Polinices mammilla*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
@@ -91,7 +89,6 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   - [Moon Snail (
-
   *Polinices*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)
@@ -162,8 +159,7 @@ This oval white moon snail is among our most commonly encountered. Usually seen 
 
 ## Features
 
-5-6cm. Shell smooth glossy, thick heavy, oval, the spiral tip smoothly sticking out so the overall shape resembles a teardrop or breast (
-*Mamma*
+5-6cm. Shell smooth glossy, thick heavy, oval, the spiral tip smoothly sticking out so the overall shape resembles a teardrop or breast (*Mamma*
 means 'breast' in Latin). Shell pattern plain white, sometimes with large irregular patches of brown, black, orange or yellow. On the underside, a large bump and shallow depression next to the bump. Operculum smooth, made of a thin horn-like material, amber yellow sometimes with dark blotches. Body plain white. It's hard to get a good look at the entire body as the snail retracts quickly and completely into the shell when it is disturbed.
 
 **Sometimes mistaken for**

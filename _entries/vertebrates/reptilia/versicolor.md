@@ -78,9 +78,7 @@ habitats:
 ## Where seen?
 This large sometimes brightly coloured lizard is commonly seen in our wild places including near mangroves and coastal vegetation. It is active during the day and is arboreal, found in bushes and trees. It is believed to have been introduced to Singapore possibly in the 1980's and has since spread almost everywhere, including in parks and urban areas. It is native to continental Asia up to the northern Peninsular Malaysia. In Singapore, it has displaced the
 [Green crested lizard](cristatella)
-(
-*Bronchodela cristatella*
-) a native lizard which used to be commonly seen.
+(*Bronchodela cristatella*) a native lizard which used to be commonly seen.
 
 ## Features
 

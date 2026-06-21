@@ -89,9 +89,7 @@ This large banded prawn is often seen on many of our shores. In sandy, silty are
 
 5-8cm long. Body brown or greenish with dark bands. The tips of its legs and other appendages are often reddish.
 
-The Black tiger prawn (
-*Penaeus monodon*
-) as well as other members of the Family Penaeidae may have this appearance. Species are difficult to positively identify without close examination.
+The Black tiger prawn (*Penaeus monodon*) as well as other members of the Family Penaeidae may have this appearance. Species are difficult to positively identify without close examination.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

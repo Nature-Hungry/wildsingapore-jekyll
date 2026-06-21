@@ -292,8 +292,7 @@ which have a hole at the tip of their conical shells. Water is sucked in from un
 
 Another member of the Family Fissurellidae are the
 [Shield-limpets](scutus)
-(
-*Scutus*
+(*Scutus*
 sp.). Their bodies are a lot larger than their shell. In fact, the shell might be completely covered by their mantle, making them appear to be
 [slugs](../../slug)
 . A Shield-limpet's body usually folds up around the edges of the shell and may cover most of the shell. They come in various colours. Their body may be black or beige, and shell white or brown. These limpets are commonly found under rocks on our shores.

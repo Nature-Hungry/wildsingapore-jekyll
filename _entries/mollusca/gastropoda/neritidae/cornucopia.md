@@ -36,7 +36,6 @@ galleries:
 links_references: '**Links**
 
   - [Violet nerite (
-
   *Dostia violacea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2079)

@@ -47,7 +47,6 @@ galleries:
 links_references: '**Links**
 
   - [Lined moon snail (
-
   *Natica lineata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86935)
@@ -55,7 +54,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Lined moon snail (
-
   *Natica lineata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

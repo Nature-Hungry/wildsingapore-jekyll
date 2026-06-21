@@ -113,8 +113,7 @@ Gorgonians sometimes also reproduce by budding off new polyps to enlarge the col
 All kinds of small animals live on gorgonians including tunicates, barnacles,
 [clams](../../../mollusca/bivalvia/pteriidae/seafan)
 , snails (such as the
-[ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae)
-), tiny shrimps,
+[ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae)), tiny shrimps,
 [brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 and gobies.
 [Hermit crabs](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/banded)

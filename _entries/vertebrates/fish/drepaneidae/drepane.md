@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Spotted Sicklefish (
-
   *Drepane punctata*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/327)
@@ -49,7 +48,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Spotted Sicklefish (
-
   *Drepane punctata*
 
   )](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?id=454)

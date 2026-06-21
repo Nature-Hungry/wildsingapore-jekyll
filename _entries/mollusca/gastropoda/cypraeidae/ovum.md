@@ -171,9 +171,7 @@ pear-shaped
 **Sometimes confused with**
 the
 [Wandering cowrie](errones)
-(
-*Cypraea errones*
-) which is similar but is cylindrical in shape. It does not have coloured 'teeth' and has a brown spot or spots at the front end of the shell.
+(*Cypraea errones*) which is similar but is cylindrical in shape. It does not have coloured 'teeth' and has a brown spot or spots at the front end of the shell.
 Here's more on how to tell apart
 [Wandering and Ovum cowries](cfcypraeidae)
 .

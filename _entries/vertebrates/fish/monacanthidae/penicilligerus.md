@@ -61,7 +61,6 @@ galleries:
 links_references: '**Links**
 
   - [Prickly leatherjacket (
-
   *Chaetodermis penicilligerus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7975)

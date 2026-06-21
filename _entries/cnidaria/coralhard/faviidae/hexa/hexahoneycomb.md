@@ -105,9 +105,7 @@ It's hard to distinguish them without close examination of small features and th
 
 **Sometime confused with**
 [Neat hexa corals](../../siderastreidae/hexaneat)
-(
-*Pseudosiderastrea tayami*
-) which has more conical corallites with a narrow 'base'.
+(*Pseudosiderastrea tayami*) which has more conical corallites with a narrow 'base'.
 Another coral with honeycomb shaped corallites is
 *Gardineroseris planulata*
 of

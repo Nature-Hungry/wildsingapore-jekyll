@@ -29,7 +29,6 @@ galleries:
 links_references: '**Links**
 
   - [Blue-spotted puffer (
-
   *Arothron caeruleopunctatus*
 
   )](https://www.fishbase.se/summary/13051)

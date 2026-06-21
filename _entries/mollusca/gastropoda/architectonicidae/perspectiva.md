@@ -52,7 +52,6 @@ links_references: '**Links**
   Natural History Museum website: brief fact sheet with photos.
 
   - [Clear sundial (
-
   *Architectonica perspectiva*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=2755)
@@ -60,7 +59,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - [Clear sundial (
-
   *Architectonica perspectiva*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=190)
@@ -68,7 +66,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Clear sundial (
-
   *Architectonica perspectiva*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

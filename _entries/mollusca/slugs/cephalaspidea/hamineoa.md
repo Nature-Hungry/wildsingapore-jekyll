@@ -65,7 +65,6 @@ galleries:
 links_references: '**Links**
 
   - [Bubble shell (
-
   *Haminoea*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2088)

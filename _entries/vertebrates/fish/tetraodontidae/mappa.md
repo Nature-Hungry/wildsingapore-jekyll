@@ -32,7 +32,6 @@ galleries:
 links_references: '**Links**
 
   - [Map puffer (
-
   *Arothron mappa*
 
   )](https://www.fishbase.se/summary/7857)

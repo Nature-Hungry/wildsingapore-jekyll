@@ -35,7 +35,6 @@ links_references: '**Links**
   in SeaBase Life: Technical fact sheet.
 
   - Labio monodont (
-
   *Monodontia labio*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

@@ -52,7 +52,6 @@ galleries:
 links_references: '**Links**
 
   - [Curvespine cuttlefish (
-
   *Sepia recurvirostra*
 
   )](http://sealifebase.ca/summary/Sepia-recurvirostra.html)

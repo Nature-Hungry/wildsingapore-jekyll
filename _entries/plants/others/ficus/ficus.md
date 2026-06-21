@@ -80,9 +80,7 @@ Figs play a critical role in many habitats. While other trees in the forest ofte
 
 ## Human uses
 
-Some figs are important culturally. For example, Buddha is believed to have gained enlightenment under the Bodhi tree (
-*Ficus religiosa*
-). Enormous fig trees in Asia often become stuff of legend and are treated with respect. Figs also provide food and medicine.
+Some figs are important culturally. For example, Buddha is believed to have gained enlightenment under the Bodhi tree (*Ficus religiosa*). Enormous fig trees in Asia often become stuff of legend and are treated with respect. Figs also provide food and medicine.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg)
 

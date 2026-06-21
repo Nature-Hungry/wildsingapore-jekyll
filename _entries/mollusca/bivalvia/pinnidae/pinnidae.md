@@ -85,7 +85,6 @@ galleries:
 links_references: '**Links**
 
   - [Indo-Pacific fan shell (
-
   *Atrina vexillum*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=210)
@@ -93,7 +92,6 @@ links_references: '**Links**
   and
 
   [Two coloured fan shell (
-
   *Pinna bicolor*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=16)
@@ -122,7 +120,6 @@ links_references: '**Links**
   - [Fan Mussel](http://www.marlin.ac.uk/species/Atrinafragilis)
 
   (
-
   *Atrina fragilis*
 
   ) on the Marine Life Information Network for Britain and Ireland website: fact sheet
@@ -223,8 +220,7 @@ Species are difficult to positively identify without close examination. On this 
 Like other bivalves, fan clams are filter feeders. At high tide, they open their shells a little. They then generate a current of water through the shell and sieve out the food particles with enlarged gills. When the tide goes out, they clamp up their shells tightly to prevent water loss.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Role in the ecosystem:**
-All manner of seaweeds and encrusting animals often settle on the portions of the fan clam that sticks out above the sand, even when the clam is still alive. These provide food and shelter for small animals. The tiny Pea crab (
-*Pinnotheres*
+All manner of seaweeds and encrusting animals often settle on the portions of the fan clam that sticks out above the sand, even when the clam is still alive. These provide food and shelter for small animals. The tiny Pea crab (*Pinnotheres*
 sp.) and small snapping shrimps are sometimes found living inside these clams. The crab not only gains shelter but also eats some of the food gathered by the fan shell host. The space between the valves of a dead fan clam is a safe space for animals to shelter or lay their eggs.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
@@ -236,9 +232,7 @@ Fan clams are edible and were once plentiful in Singapore and collected as food.
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
-It is said that in the past, people collected the long, golden byssus threads of the Noble pen shell (
-*Pinna nobilis*
-), a fan clam found in the Mediterranean. The threads were woven into a delicate and fine 'cloth of gold'. Some suggest that the 'Golden Fleece' of Greek mythology was made out of the byssus threads of this clam.
+It is said that in the past, people collected the long, golden byssus threads of the Noble pen shell (*Pinna nobilis*), a fan clam found in the Mediterranean. The threads were woven into a delicate and fine 'cloth of gold'. Some suggest that the 'Golden Fleece' of Greek mythology was made out of the byssus threads of this clam.
 
 Some other species of fan clams have byssus hairs that are so similar to human hair that people refuse to eat the animals.
 

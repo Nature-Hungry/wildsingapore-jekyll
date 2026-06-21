@@ -46,7 +46,6 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   - [Common pythia (
-
   *Pythia scarabaeus*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=1203)

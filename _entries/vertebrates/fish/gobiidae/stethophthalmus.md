@@ -86,7 +86,6 @@ galleries:
 links_references: '**Links**
 
   - [Byno Goby (
-
   *Amblygobius bynoensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359)

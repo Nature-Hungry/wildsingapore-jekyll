@@ -73,7 +73,6 @@ galleries:
 links_references: '**Links**
 
   - [Tiger moon snail (
-
   *Natica tigrina*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86530)
@@ -81,7 +80,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Tiger moon snail (
-
   *Natica tigrina*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

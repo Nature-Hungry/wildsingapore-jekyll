@@ -70,9 +70,7 @@ A small tree (to about 10m). Leaves oval with pointed tips (6-15cm long) arrange
 
 The fruits are relished by bats. I've observed a steady stream of
 [Common fruit bat](../../../vertebrates/mammals/brachyotis)
-(
-*Cynopterus brachyotis*
-) feasting on a fruiting Chiku tree. Each bat clings onto the fruit that is almost as large as itself, and gorges it.
+(*Cynopterus brachyotis*) feasting on a fruiting Chiku tree. Each bat clings onto the fruit that is almost as large as itself, and gorges it.
 
 ## Human uses
 

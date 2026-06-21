@@ -66,7 +66,6 @@ galleries:
 links_references: '**Links**
 
   - [Round-faced Batfish (
-
   *Platax teira*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/328)
@@ -219,8 +218,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Ephippidae**
 (previously listed under
-[Family Chaetodontidae](../chaetodontidae/chaetodontidae)
-)
+[Family Chaetodontidae](../chaetodontidae/chaetodontidae))
 
 *Platax batavianus*
 (Batavia batfish)

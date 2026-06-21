@@ -128,9 +128,7 @@ About 6-10cm sometimes larger. Is generally encrusting, with small (5cm in diame
 
 It appears to be among the favourite food of the
 [Polka-dot nudibranch](../mollusca/slugs/nudibranchia/funebris)
-(
-*Jorunna funebris*
-) and this nudibranch is often seen laying egg masses near the sponge.
+(*Jorunna funebris*) and this nudibranch is often seen laying egg masses near the sponge.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

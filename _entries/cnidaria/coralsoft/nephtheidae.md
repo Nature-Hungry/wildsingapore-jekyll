@@ -151,8 +151,7 @@ Some species can be abundant in areas with fast but one-way flow of water. But t
 
 The
 [fire anemone](../actiniaria/actinodendron)
-(
-*Actinodendron*
+(*Actinodendron*
 sp.) looks similar to a flower soft coral. Unlike the soft coral, however, the anemone has a powerful sting. So be careful!
 
 **Flowery babies:**
@@ -206,11 +205,9 @@ Wee Y.C. and Peter K. L. Ng. 1994.
 ***Family Neptheidae**
 
 *Dendronephthya*
-sp. (
-[Pink flowery soft coral](neppink)
+sp. ([Pink flowery soft coral](neppink)
 and
-[Ball flowery soft coral](nepball)
-)
+[Ball flowery soft coral](nepball))
 
 +
 [*Nepththea*

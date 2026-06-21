@@ -53,7 +53,6 @@ galleries:
 links_references: '**Links**
 
   - [Kops'' Glass Perchlet (
-
   *Ambassis kopsii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263)
@@ -73,7 +72,6 @@ links_references: '**Links**
   on Ecology Asia.
 
   - [Singapore glassy perchlet (
-
   *Ambassis kopsii*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982)
@@ -128,9 +126,7 @@ Perchlets belong to Family Ambassidae (previously Family Chandidae). According t
 To about 10cm. Body nearly transparent covered with thin scales. Thus it is sometimes called the Glassfish. Mouth is upturned with a projecting jaw and large eyes. A single dorsal fin, deeply notched before the last spine. These fishes are often seen in small groups.
 
 **Kops' glass perchlet**
-(
-*Ambassis kopsii*
-) are commonly seen often in a large group of many individuals. Those seen about 5-8cm, grows to about 10cm. Body silvery almost transparent. A distinctive blackish mark on the tip of the dorsal fin, which is deeply notched. Else seen in coastal and brackish waters, sometimes upstream in freshwater. It eats invertebrates. May be marketed fresh or dried and salted.
+(*Ambassis kopsii*) are commonly seen often in a large group of many individuals. Those seen about 5-8cm, grows to about 10cm. Body silvery almost transparent. A distinctive blackish mark on the tip of the dorsal fin, which is deeply notched. Else seen in coastal and brackish waters, sometimes upstream in freshwater. It eats invertebrates. May be marketed fresh or dried and salted.
 
 **Sometimes confused with**
 [Mojarras](../gerreidae/gerreidae)

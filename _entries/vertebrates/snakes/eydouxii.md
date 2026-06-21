@@ -70,7 +70,6 @@ links_references: '**Links**
   - Noel Thomas & Francis L. K. Lim. 7 February 2014.
 
   [Beaded sea-snake (
-
   *Aipysurus eydouxii*
 
   ) at Pulau Ubin](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Singapore%20Biodiversity/2014/sbr2014-038-039.pdf)
@@ -80,7 +79,6 @@ links_references: '**Links**
   - Ron K. H. Yeo. 21 February 2014.
 
   [Beaded sea-snake (
-
   *Aipysurus eydouxii*
 
   ) at Changi Beach](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-050.pdf)

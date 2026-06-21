@@ -220,8 +220,7 @@ It feeds on and gathers detritus with the 20 or so short feeding tentacles that 
 Younger sea cucumbers are usually found nearer the shore. As they grow bigger, they move into deeper waters to breed. It reaches sexual maturity at about 15-25cm.
 
 **Living in a sea cucumber:**
-This sea cucumber has an internal breathing system of branching tubes along the length of the body. Called respiratory trees, these are connected to the opening on the backside. To breathe, the sea cucumber pumps water in through its backside and up through the respiratory trees. The water is then flushed out through the backside again. With this constant flow of water, some tiny creatures find the backside of a sea cucumber a well aerated but also safe place to be! Pea crabs (
-*Pinnotheres*
+This sea cucumber has an internal breathing system of branching tubes along the length of the body. Called respiratory trees, these are connected to the opening on the backside. To breathe, the sea cucumber pumps water in through its backside and up through the respiratory trees. The water is then flushed out through the backside again. With this constant flow of water, some tiny creatures find the backside of a sea cucumber a well aerated but also safe place to be! Pea crabs (*Pinnotheres*
 sp.) are sometimes found living in the Garlic bread sea cucumber's rear end! These cannot be seen unless the animal is killed and dissected, so please do not prod the sea cucumber to try to see these crabs.
 
 ## Role in habitat
@@ -232,9 +231,7 @@ has found that this sea cucumber plays an important role in the health of seagra
 [IUCN Red List](http://www.iucnredlist.org/details/full/180257/0)
 , juveniles settle in shallow seagrass beds and prefer seagrass such as
 [Sickle seagrass](../../plants/seagrass/thalassia)
-(
-*Thallassia hemprichi*
-) as well as mangrove areas.
+(*Thallassia hemprichi*) as well as mangrove areas.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ## Human uses

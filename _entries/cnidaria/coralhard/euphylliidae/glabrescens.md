@@ -137,9 +137,7 @@ species](euphyllia)
 
 With their tentacles fully extended, torch corals may also resemble
 [Sunflower mushroom corals](../fungiidae/heliofungia)
-(
-*Heliofungia actiniformis*
-). The torch coral, however, has much shorter tentacles and of course an entirely different skeleton structure.
+(*Heliofungia actiniformis*). The torch coral, however, has much shorter tentacles and of course an entirely different skeleton structure.
 
 **Status and threats:**
 This coral is listed as globally Near Threatened

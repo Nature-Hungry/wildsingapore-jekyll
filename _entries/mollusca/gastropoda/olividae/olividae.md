@@ -66,7 +66,6 @@ links_references: '**Links**
   163 ISSN 2345-7597, National University of Singapore.
 
   - [Orange-mouth olive snail (
-
   *Olivia sericea*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=202)

@@ -35,7 +35,6 @@ galleries:
 links_references: '**Links**
 
   - [Black-spot sergeant (
-
   *Abudefduf sordidus*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=5689)

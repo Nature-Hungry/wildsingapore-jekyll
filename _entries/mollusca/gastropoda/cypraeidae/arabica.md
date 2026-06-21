@@ -128,7 +128,6 @@ galleries:
 links_references: '**Links**
 
   - [Arabian cowrie (
-
   *Cypraea arabica*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86894)
@@ -136,7 +135,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Arabian cowrie (
-
   *Cypreae arabica*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=197)
@@ -144,7 +142,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Arabian cowrie (
-
   *Cypraea arabica*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

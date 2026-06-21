@@ -57,7 +57,6 @@ galleries:
 links_references: '**Links**
 
   - [Leaf Porter Crab (
-
   *Neodorippe callida*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/204)
@@ -69,7 +68,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Leaf Porter Crab (
-
   *Neodorippe callida*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2043)

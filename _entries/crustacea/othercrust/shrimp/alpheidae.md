@@ -66,7 +66,6 @@ galleries:
 links_references: '**Links**
 
   - [Mangrove snapping prawns (
-
   *Alpheus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2040)
@@ -188,14 +187,10 @@ Some species live in symbiosis with corals, sponges, sea fans and other animals.
 . The shrimp goby lives in the same burrow with a snapping shrimp. With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home. The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby. When the goby darts into the burrow, the shrimp is right behind it!
 
 **Colonial shrimps?**
-A kind of snapping shrimp (
-*Synalpheaus regalis*
-) that lives in sponges in the coral reefs of Belize were found to form colonies much like termites do. One 'queen' prawn produces all the members of the colony, which attack members of other colonies but are peaceful towards members of their own colony.
+A kind of snapping shrimp (*Synalpheaus regalis*) that lives in sponges in the coral reefs of Belize were found to form colonies much like termites do. One 'queen' prawn produces all the members of the colony, which attack members of other colonies but are peaceful towards members of their own colony.
 
 **Status and threats:**
-Most of our snapping shrimps are not listed among the endangered animals of Singapore, except for the Crinoid snapping shrimp (
-*Synalpheus stimpsoni*
-).
+Most of our snapping shrimps are not listed among the endangered animals of Singapore, except for the Crinoid snapping shrimp (*Synalpheus stimpsoni*).
 This tiny shrimp (about 1cm) lives in pairs on
 [feather stars](../../../echinodermata/crinoidea/crinoidea)
 (crinoids), feeding off the mucus of its host. It is threatened by reef destruction and siltation.

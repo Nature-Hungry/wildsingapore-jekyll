@@ -46,7 +46,6 @@ galleries:
 links_references: '**Links**
 
   - [Shortnose boxfish (
-
   *Rhynchostracion nasus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399)
@@ -58,7 +57,6 @@ links_references: '**Links**
   . Singapore Science Centre.
 
   - [Shortnose boxfish (
-
   *Ostracion nasus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8192)

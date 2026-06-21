@@ -68,7 +68,6 @@ links_references: '**Links**
   ,
 
   [barnacles on crabs (
-
   *Balanus, Octolasmis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/269)
@@ -76,7 +75,6 @@ links_references: '**Links**
   ,
 
   [Parasitic barnacles (
-
   *Thompsonia, Sacculina*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/270)

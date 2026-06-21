@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Piai Raya (
-
   *Acrostichum aureum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1038)
@@ -45,7 +44,6 @@ links_references: '**Links**
   and
 
   [Piai Lasu (
-
   *Acrostichum speciosum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1039)

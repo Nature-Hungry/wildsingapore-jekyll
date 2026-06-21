@@ -50,7 +50,6 @@ galleries:
 links_references: '**Links**
 
   - [Mangrove hermit crab (
-
   *Diogenes*
 
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)

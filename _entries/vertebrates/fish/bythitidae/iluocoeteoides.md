@@ -60,7 +60,6 @@ galleries:
 links_references: '**Links**
 
   - [Yellow cuskeel (
-
   *Dinematichthys iluocoeteoides*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/229)
@@ -80,7 +79,6 @@ links_references: '**Links**
   and
 
   [Yellow pigmy brotula (
-
   *Dinematichthys iluocoeteoides*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7300)
@@ -140,9 +138,7 @@ habitats:
 ---
 
 ## Where seen?
-This odd little eel-like fish is sometimes seen on some of our shores, usually near reefs at night. It was previously listed under Family Brotulidae and thus sometimes still referred to as brotulids. Another species, the Riau viviparous brotula (
-*Ungusurculus riauensis*
-) looks very similar.
+This odd little eel-like fish is sometimes seen on some of our shores, usually near reefs at night. It was previously listed under Family Brotulidae and thus sometimes still referred to as brotulids. Another species, the Riau viviparous brotula (*Ungusurculus riauensis*) looks very similar.
 
 ## Features
 

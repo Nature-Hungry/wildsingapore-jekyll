@@ -159,9 +159,7 @@ a sea anemone when its long tentacles obscure the hard skeleton. The hard skelet
 
 The
 [Torch coral](../euphylliidae/glabrescens)
-(
-*Euphyllia glabrescens*
-) has tentacles that look similar to the sunflower mushroom coral. But the torch coral and its tentacles are smaller.
+(*Euphyllia glabrescens*) has tentacles that look similar to the sunflower mushroom coral. But the torch coral and its tentacles are smaller.
 
 When the tentacles are retracted, it resembles
 [Fungia mushroom corals](fungia)

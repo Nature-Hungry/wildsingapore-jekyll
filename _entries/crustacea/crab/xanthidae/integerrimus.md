@@ -147,7 +147,6 @@ galleries:
 links_references: '**Links**
 
   - [Red Egg Crab (
-
   *Atergatis integerrimus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/209)
@@ -268,13 +267,9 @@ and should not be eaten.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes mistaken for**
 [Stone crabs](../menippidae/hardwicki)
-(
-*Myomenippe hardwicki*
-) and
+(*Myomenippe hardwicki*) and
 [Maroon stone crab](rumphii)
-(
-*Menippe rumphii*
-). Here's more on how to tell apart
+(*Menippe rumphii*). Here's more on how to tell apart
 [big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 

@@ -55,7 +55,6 @@ galleries:
 links_references: '**Links**
 
   - [Javanese false limpet (
-
   *Siphonaria javanica*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87081)
@@ -63,7 +62,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Javan false limpet (
-
   *Siphonaria javanica*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

@@ -33,7 +33,6 @@ galleries:
 links_references: '**Links**
 
   - [Stellate puffer (
-
   *Arothron stellatus*
 
   )](http://www.fishbase.org/summary/6526)
@@ -56,7 +55,6 @@ links_references: '**Links**
   University of Singapore.
 
   - Tan Heok Hui. 29 July 2016. Starry pufferfish (
-
   *Arothon stellatus*
 
   ) with barnacles in its gut sold for food in a market. Singapore Biodiversity Records

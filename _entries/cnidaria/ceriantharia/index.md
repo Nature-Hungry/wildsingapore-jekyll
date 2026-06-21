@@ -52,7 +52,6 @@ galleries:
 links_references: '**Links**
 
   - [Snakelock or cerianthid (
-
   *Cerianthus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/122)
@@ -139,8 +138,7 @@ The cerianthid cannot tuck its tentacles inside its body column like true anemon
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
 Cerianthids do not harbour symbiotic algae (zooxanthellae). They feed on plankton and suspended food particles which they gather from the water. Cerianthids have potent stingers that can even be released into the water. These floating stingers can seriously affect creatures such as fishes and corals. (more about stingers on the
-[Cnidria page](../../cnidaria)
-)
+[Cnidria page](../../cnidaria))
 
 **Peacock Babies:**
 They reproduce by releasing eggs and sperm into the water. The larvae are tiny and drift with other plankton before settling down to become a new cerianthid. Cerianthids are also known to reproduce asexually. Some can also reproduce by budding.
@@ -148,10 +146,7 @@ They reproduce by releasing eggs and sperm into the water. The larvae are tiny a
 **Peacock friends:**
 Various animals may live with a cerianthid. Small black feathery fanworm-like creatures called
 [Phoronid worms](../../../worm/phoronida/phoronida)
-may be found near cerianthids. Is it said some small crabs (
-*Lissocarcinus laevis*
-) also live inside the tube with the cerianthid and some shrimps (
-*Periclimenes*
+may be found near cerianthids. Is it said some small crabs (*Lissocarcinus laevis*) also live inside the tube with the cerianthid and some shrimps (*Periclimenes*
 sp.) are associated with the cerianthid.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses

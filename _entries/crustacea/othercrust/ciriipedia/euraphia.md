@@ -89,8 +89,7 @@ zone:
 ## Where seen?
 This little starry barnacle is sometimes seen on some of our shores. Usually found in small groups, in higher areas where it is too dry for
 [acorn barnacles](balanus)
-(
-*Balanus*
+(*Balanus*
 sp.). They were formerly known as
 *Chthamalus*
 .

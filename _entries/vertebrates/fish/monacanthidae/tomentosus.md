@@ -116,7 +116,6 @@ galleries:
 links_references: '**Links**
 
   - [Seagrass Filefish (
-
   *Acreichthys tomentosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/393)

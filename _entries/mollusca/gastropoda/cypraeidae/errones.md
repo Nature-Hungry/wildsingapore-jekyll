@@ -63,7 +63,6 @@ galleries:
 links_references: '**Links**
 
   - [Wandering Cowrie (
-
   *Cypraea errones*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/141)
@@ -158,9 +157,7 @@ There may be one or two brown spots at the front tip of the shell, sometimes no 
 **Sometimes confused with**
 the
 [Ovum cowrie](ovum)
-(
-*Cypraea ovum*
-) which is similar but is pear-shaped, does not have spots at the front end of the shell and has 'teeth' that are tinged yellow or orange. Here's more on
+(*Cypraea ovum*) which is similar but is pear-shaped, does not have spots at the front end of the shell and has 'teeth' that are tinged yellow or orange. Here's more on
 [how to tell apart Wandering and Ovum cowries](cfcypraeidae)
 .
 

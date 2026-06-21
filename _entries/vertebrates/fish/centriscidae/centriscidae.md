@@ -88,7 +88,6 @@ galleries:
 links_references: '**Links**
 
   - [Longspine Razorfish (
-
   *Aeoliscus strigatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/246)
@@ -132,7 +131,6 @@ links_references: '**Links**
   **References**
 
   - Toh Chay Hoon. 7 March 2015. Longspine razorfish (
-
   *Aeoliscus strigatus*
 
   ) at Pulau Hantu. 7 Mar 2014. Singapore Biodiversity Records 2014: 63

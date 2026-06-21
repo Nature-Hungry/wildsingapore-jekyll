@@ -68,9 +68,7 @@ This colourful insect is sometimes seen in numbers in our mangroves.
 
 Adults about 1-1.5cm long. The larvae are only found on
 [Buta buta trees](../plants/mangrove/excoecaria/excoecaria)
-(
-*Excoecaria algallocha*
-), where they feed on the developing seeds. But the adults may be found in groups under large leaves of any mangrove plant.
+(*Excoecaria algallocha*), where they feed on the developing seeds. But the adults may be found in groups under large leaves of any mangrove plant.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

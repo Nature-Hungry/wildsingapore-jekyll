@@ -91,20 +91,11 @@ The Atlas moth's pupae is encased in a silken cocoon, emerging as an adult moth 
 Adult Atlas moths don't eat at all throughout their adult life which lasts for about two weeks. An adult Atlas moth doesn't even have a mouth and lives off fat reserves built up when it was a caterpillar. The adults quickly mate, lay eggs, and die shortly thereafter.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Uses by humans:**
-While the Silkworm Moth (
-*Bombyx mori*
+While the Silkworm Moth (*Bombyx mori*
 , which belongs to a different family) which makes its cocoon out of one unbroken silk strand, the Atlas Moth caterpillar makes it out of broken strands of silk. Nevertheless, Atlas Moth cocoons are used to make a durable silk called Fagara Silk, in northern India. In Taiwan, their cocoons are made into pocket purses!
 
 **Other mammoth moths:**
-The Giant Silkworm Moth (
-*Coscinocera hercules*
-) has a wing surface area that rivals the Atlas Moth's. The Queen Alexandra Birdwing (
-*Ornithoptera alexandrae*
-) found in Papua New Guinea. Females are larger than males and can reach 28cm across and weigh more than 25g. The Hercules Moth (
-*Cosdinoscera hercules*
-) from Australia and Papua New Guinea is also 28cm. The Owlet Moth (
-*Thysania agrippina*
-) of tropical Americas can reach 30cm.
+The Giant Silkworm Moth (*Coscinocera hercules*) has a wing surface area that rivals the Atlas Moth's. The Queen Alexandra Birdwing (*Ornithoptera alexandrae*) found in Papua New Guinea. Females are larger than males and can reach 28cm across and weigh more than 25g. The Hercules Moth (*Cosdinoscera hercules*) from Australia and Papua New Guinea is also 28cm. The Owlet Moth (*Thysania agrippina*) of tropical Americas can reach 30cm.
 
 ---
 

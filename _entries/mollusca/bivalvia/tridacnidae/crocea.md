@@ -71,7 +71,6 @@ galleries:
 links_references: '**Links**
 
   - [Crocus giant clam (
-
   *Tridacna crocea*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84545)
@@ -79,7 +78,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Crocus giant clam (
-
   *Tridacna crocea*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

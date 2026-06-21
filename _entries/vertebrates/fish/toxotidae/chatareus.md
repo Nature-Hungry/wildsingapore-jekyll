@@ -38,7 +38,6 @@ links_references: '**Links**
   on NParks Flora and Fauna website.
 
   - [Spotted archerfish (
-
   *Toxotes chatareus*
 
   )](http://fishbase.org/summary/8079)
@@ -50,7 +49,6 @@ links_references: '**Links**
   : Technical fact sheet
 
   - [Seven-spot archerfish (
-
   *Toxotes chatareus*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar)

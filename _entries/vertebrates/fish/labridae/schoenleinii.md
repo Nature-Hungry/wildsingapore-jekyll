@@ -43,7 +43,6 @@ galleries:
 links_references: '**Links**
 
   - [Black-spot Tuskfish (
-
   *Choerodon schoenleinii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/348)
@@ -61,7 +60,6 @@ links_references: '**Links**
   on the IUCN Red List.
 
   - [Black-spot Tuskfish (
-
   *Choerodon schoenleinii*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=6433)

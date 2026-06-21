@@ -62,7 +62,6 @@ links_references: '**Links**
   : technical fact sheets.
 
   - [Sea grapes or green caviar (
-
   *Caulerpa lentillifera*
 
   )](http://www.fao.org/docrep/006/y4765e/y4765e0b.htm#bm11.8)
@@ -92,7 +91,6 @@ links_references: '**Links**
   coverage on Chek Jawa during the 2001 Chek Jawa survey.
 
   - [Sea grapes (
-
   *Caulerpa lentillifera*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/101)
@@ -194,9 +192,7 @@ The seaweed resembles bunches of little grapes. Each 'grape' is tiny (0.1-0.2cm)
 
 **Sometimes confused with**
 [Oval sea grapes](racemosa)
-(
-*Caulerpa racemosa*
-).
+(*Caulerpa racemosa*).
 *Caulerpa microphysa*
 can look very similar but lack the distinct constriction where the 'grape' attached to the stalk. Here's more on
 [how to tell apart the sea grapes seaweeds](cfgrapes)

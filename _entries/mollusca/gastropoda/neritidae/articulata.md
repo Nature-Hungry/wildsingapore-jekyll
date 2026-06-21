@@ -51,7 +51,6 @@ galleries:
 links_references: '**Links**
 
   - [Common nerite (
-
   *Nerita lineata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2078)

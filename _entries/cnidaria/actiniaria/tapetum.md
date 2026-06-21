@@ -100,9 +100,7 @@ This tiny anemone is more commonly seen in our Northern shores such as Chek Jawa
 
 Oral disk 2-6cm in diameter. The tentacles are very short and look more like bumps. The tentacles are not so tightly packed together and especially in the centre, are neatly arranged into wedge-shaped groups, resembling the spokes of a wheel. The outer edge of the oral disk does not have a fringe of alternating long-short tentacles like
 [Haddon's carpet anemone](haddoni)
-(
-*Stichodactyla haddoni*
-).
+(*Stichodactyla haddoni*).
 
 **Sometimes mistaken for**
 babies of bigger carpet anemones.

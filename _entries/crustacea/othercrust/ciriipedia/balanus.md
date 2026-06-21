@@ -59,7 +59,6 @@ links_references: '**Links**
   ,
 
   [barnacles on crabs (
-
   *Balanus, Octolasmis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/269)
@@ -116,8 +115,7 @@ habitats:
 ## Where seen?
 This small rather pointy barnacle is commonly seen on many of our rocky shores and other hard surfaces in the sea such as jetty pilings, sea walls. Usually, many are crowded together in lower portions and shaded crevices where it is wetter. Unlike the hardier
 [star barnacles](euraphia)
-(
-*Euraphia*
+(*Euraphia*
 sp.) which are found higher up where it is drier.
 
 ## Features

@@ -213,12 +213,10 @@ Young giant reef worms crawl about freely, but as they get older, they make a si
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 It appears to eat seaweed. It creeps cautiously out of its hiding place then quickly snatches a mouthful before retracting back instantly. Among the seaweeds we have observed being gathered by the worm include:
 [Hairy green seaweed](../../plants/seaweed/chlorophyta/bryopsis)
-(
-*Bryopsis*
+(*Bryopsis*
 sp.) and
 [Sargassum seaweed](../../plants/seaweed/phaeophyta/sargassum)
-(
-*Sargassum*
+(*Sargassum*
 sp.). Although it seems to have ferocious jaws, these are probably used more to ensure a good grip on the food item. They have not been observed eating animals.
 
 But it is listed among the dangerous animals on our shores as it can give a nasty bite. So do leave the worm alone.

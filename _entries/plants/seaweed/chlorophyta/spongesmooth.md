@@ -141,17 +141,13 @@ This woolly branching seaweed is often seen on many of our Southern shores, grow
 
 The entire organism can be about 20-30cm across (to 50cm), with 'stems' about 0.5-1cm wide. 'Stems' may be short knobs, long cylindrical or flattened, or even flattened leafy shapes. Tips usually thin and tapering, usually not Y-shaped. Each 'stem' is made up of fine, branched filaments that are packed together to form structures that feel woolly, velvety, spongey or felt-like. The 'stems' are smooth and do not have obvious holes in them, especially when the sponge is out of water. Light to dark green.
 
-This organism is actually a symbiotic combination of an algae (
-*Cladophoropsis vaucheriaeformis*
-) and a sponge (
-*Halichondria cartilaginea,*
+This organism is actually a symbiotic combination of an algae (*Cladophoropsis vaucheriaeformis*) and a sponge (*Halichondria cartilaginea,*
 Family Halichondriidae)! The sponge cells and spicules are intertwined with the algae.
 
 **Sometimes confused with**
 the
 [Holey sponge seaweed](../rhodophyta/spongeholey)
-(
-*Ceratodictyon*
+(*Ceratodictyon*
 sp.) which has more obvious 'holes' along the 'stems'. It is a red seaweed which also has a symbiotic relationship with another kind of sponge. The two organisms are sometimes difficult to tell apart in the field.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg)

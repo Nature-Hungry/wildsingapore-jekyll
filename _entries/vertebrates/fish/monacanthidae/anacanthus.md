@@ -42,7 +42,6 @@ galleries:
 links_references: '**Links**
 
   - [Bearded leatherjacket (
-
   *Anacanthus barbatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8178)

@@ -52,7 +52,6 @@ galleries:
 links_references: '**Links**
 
   - [Api-api bulu (
-
   *Avicennia rumphiana*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1052)

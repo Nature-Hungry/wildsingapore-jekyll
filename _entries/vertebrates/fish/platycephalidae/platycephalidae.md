@@ -42,7 +42,6 @@ galleries:
 links_references: '**Links**
 
   - [Bartail Flathead (
-
   *Platycephalus indicus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259)
@@ -50,7 +49,6 @@ links_references: '**Links**
   and
 
   [Fringe-eyed Flathead (
-
   *Cymbacephalus nematophthalmus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260)
@@ -205,9 +203,7 @@ Flatheads eat small fishes, octopus and cuttlefish, crustaceans and other animal
 
 ## Human uses
 
-Some large species of flatheads are considered good eating. They are caught by seining and trawling. The Bartail flathead (
-*Platycephalus indicus*
-) is commercially cultured in Japan for the table and is also used in Chinese traditional medicine.
+Some large species of flatheads are considered good eating. They are caught by seining and trawling. The Bartail flathead (*Platycephalus indicus*) is commercially cultured in Japan for the table and is also used in Chinese traditional medicine.
 
 ---
 

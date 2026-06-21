@@ -47,7 +47,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Kacang-kacang (
-
   *Aegiceras corniculatum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1048)

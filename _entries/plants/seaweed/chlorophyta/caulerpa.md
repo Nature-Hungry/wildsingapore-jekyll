@@ -58,7 +58,6 @@ galleries:
 links_references: '**Links**
 
   - [Sea grapes or green caviar (
-
   *Caulerpa lentillifera*
 
   )](http://www.fao.org/docrep/006/y4765e/y4765e0b.htm#bm11.8)
@@ -84,7 +83,6 @@ links_references: '**Links**
   .
 
   - [Sea grapes (
-
   *Caulerpa lentillifera*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/101)
@@ -263,8 +261,7 @@ var.
 (Round sea grapes seaweed)
 *Caulerpa macrophysa*
 (see
-*Caulerpa racemosa*
-)
+*Caulerpa racemosa*)
 *[Caulerpa mexicana](mexicana)*
 (Mexican green seaweed)
 *[Caulerpa peltata](peltata)*

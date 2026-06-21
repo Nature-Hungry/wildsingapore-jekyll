@@ -51,7 +51,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Common button top (
-
   *Umbonium vestiarium*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86800)
@@ -59,7 +58,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - [Common button top (
-
   *Umbonium vestiarium*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=187)
@@ -71,7 +69,6 @@ links_references: '**Links**
   (Vestigastropoda: Trochidae) Button snail by Jenny, 2015, on taxo4254.
 
   - Common button top (
-
   *Umbonium vestiarium*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

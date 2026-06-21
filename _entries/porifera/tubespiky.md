@@ -77,8 +77,7 @@ A neat small bush (about 20cm) with closely packed narrow tubes (about 1-2cm wid
 
 **Sometimes confused with**
 [Tubular sponges](tube)
-(
-*Haliclona*
+(*Haliclona*
 sp.) which may have spikes around their hollow tubes but the spikes are not as regular or neat.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

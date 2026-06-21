@@ -112,7 +112,6 @@ links_references: '**Links**
   on its body, egg laying and more.
 
   - [Southern Pygmy Squid (
-
   *Idiosepius notoides*](http://australianmuseum.net.au/Southern-Pygmy-Squid-Idiosepius-notoides-Berry-1921)
 
   ) on the Australian Museum website: fact sheet.

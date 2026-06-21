@@ -119,7 +119,6 @@ galleries:
 links_references: '**Links**
 
   - [Mangrove hermit crab (
-
   *Diogenes*
 
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)
@@ -127,7 +126,6 @@ links_references: '**Links**
   and the
 
   [Land hermit crab (
-
   *Coenobita cavipes*
 
   ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
@@ -339,9 +337,7 @@ Please don't take hermit crabs home. And please don't buy one from a pet store. 
 If you have bought a pet hermit crab and now feel bad about keeping it, please do not release it on our shores. It may not be the same species as those naturally found on our shores. It may have diseases that may be passed on to our marine life. The least worst option would be to return it to the pet shop where you bought it from. If you enjoy looking at hermit crabs, why not visit them on the shore and observe them in their natural surroundings doing what hermit crabs do?
 
 {% include img-wrap-group.html items=page.galleries.gallery10 %}**Special hermits:**
-Land hermit crabs belong to the Family Coenobitidae which includes the largest hermit crab: the Robber or Coconut crab (
-*Birgus latro*
-). The Robber crab is so large that it no longer needs to live in an empty snail shell for protection. The Robber crab is only found in the Indian and Pacific Ocean islands. It is not found in Singapore.
+Land hermit crabs belong to the Family Coenobitidae which includes the largest hermit crab: the Robber or Coconut crab (*Birgus latro*). The Robber crab is so large that it no longer needs to live in an empty snail shell for protection. The Robber crab is only found in the Indian and Pacific Ocean islands. It is not found in Singapore.
 
 **Role in the ecosystem:**
 Hermit crabs are eaten by many animals higher up in the food chain. Bigger crabs and birds can pry them out of their shells to eat them. Many small animals live with hermit crabs (see above). Many hermit crabs are scavengers and help quickly recycle dead matter on the shores.
@@ -349,8 +345,7 @@ Hermit crabs are eaten by many animals higher up in the food chain. Bigger crabs
 **Status and threats:**
 The
 [Land hermit crabs](coenobita)
-(
-*Coenobita*
+(*Coenobita*
 sp.) are listed as 'Vulnerable' on the Red List of threatened animals of Singapore due to loss of our natural beaches. As for our other hermit crabs, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution as well as over-collection for the pet trade and by hobbyists.
 
 ---

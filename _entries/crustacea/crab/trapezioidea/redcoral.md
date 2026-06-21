@@ -67,7 +67,6 @@ galleries:
 links_references: '**Links**
 
   - [Lilac coral crab (
-
   *Trapezia cymodoce*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=103072)
@@ -153,8 +152,7 @@ zone:
 ## Where seen?
 This tiny red crab is sometimes seen in
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.) on our Southern shores.
 
 ## Features
@@ -163,8 +161,7 @@ Body width about 1cm, body flat, claws large with pointed pincers usually dark a
 
 This crab lives only in
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.). The crab feeds on the mucus produced by the coral, gathering these with the minute comb-like structures at the tips of their feet. In turn, it protects the coral from predators such as the Crown-of-Thorns sea star and sea snails that eat corals. It discourages the sea star by using its sharp pincers to nip at the sensitive tube feet of the sea star.
 
 **Status and threats:**

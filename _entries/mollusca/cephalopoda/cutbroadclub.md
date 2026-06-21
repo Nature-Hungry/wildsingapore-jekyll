@@ -78,7 +78,6 @@ galleries:
 links_references: '**Links**
 
   - [Broadclub cuttlefish (
-
   *Sepia latimanus*
 
   )](http://sealifebase.ca/summary/Sepia-latimanus.html)
@@ -151,8 +150,7 @@ It preys on fishes and crustaceans, apparently mesmerising or distracting them b
 **Broad babies:**
 According to Norman, this cuttlefish lays its egg capsules deep inside branching hard corals, typically
 [Pore hard corals](../../cnidaria/coralhard/poritidae/porbranch)
-(
-*Porites*
+(*Porites*
 sp.). A male cuttlefish establishes a territory over coral colonies suitable for egg laying. The female approaches the male, mates with him, then lays the eggs deep among the coral branches where they harden and are hard to remove. The eggs hatch in 4-6 weeks. Juveniles hide among coral and may mimic brown or yellow mangrove leaves in colour, pattern (complete with stem, ribs and scattered spots) as well as floating movement in the water. More about
 [cephalopod eggs](cepeggs)
 .

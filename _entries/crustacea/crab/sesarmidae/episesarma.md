@@ -61,7 +61,6 @@ links_references: '**Links**
   ,
 
   [Tree-climbing/Vinegar crabs (
-
   *Episesarma*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049)
@@ -73,7 +72,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Sesarmine crabs (
-
   *Episesarma*
 
   and

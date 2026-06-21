@@ -51,7 +51,6 @@ galleries:
 links_references: '**Links**
 
   - [Mangrove tree-dwelling crab (
-
   *Selatium brockii*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2050)

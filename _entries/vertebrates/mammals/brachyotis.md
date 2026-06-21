@@ -78,9 +78,7 @@ Forearm length about 6.5cm. It has white wing bones and white ear edges. A small
 
 Several bats (6-12) may roost together. Sometimes under
 [Bird's nest ferns](../../plants/others/asplenium/nidus)
-(
-*Asplenium nidus*
-) creating a sheltered area by chewing off some of the inner portions of the 'skirt' of dead leaves under the fern. They also create a shelter out of a palm leaf by biting the ribs of so portions of the leaf droop to form an umbrella. They even shelter in buildings.
+(*Asplenium nidus*) creating a sheltered area by chewing off some of the inner portions of the 'skirt' of dead leaves under the fern. They also create a shelter out of a palm leaf by biting the ribs of so portions of the leaf droop to form an umbrella. They even shelter in buildings.
 
 **What does it eat?**
 It eats fruits and drinks nectar. A fruit bat may travel nearly 100km in a single night to feed on fruiting trees such as palms, figs, guavas, bananas, mangoes. As well as on flowers. These fruit bats drink the juice of the fruits, instead of eating the pulp. That is, they mash the fruits in their mouth, drink the juice and spit out the pulp. Thus, they are kind of like flying fruit juicers. But they do swallow small fruits and thus help disperse the seeds of many pioneer forest trees.

@@ -109,9 +109,7 @@ habitats:
 ## Where seen?
 These seagrasses are common on Pulau Semakau, growing among the more dominant
 [Tape seagrass](enhalus)
-(
-*Enhalus acoroides*
-). They are also commonly seen on Cyrene Reef.
+(*Enhalus acoroides*). They are also commonly seen on Cyrene Reef.
 
 Serrated ribbon seagrass is considered common and widespread throughout tropical Indo-West Pacific usually dominant in muddy reef tops. In reefs, it grow mixed with other seagrasses commonly found in such ecosystems. It quickly grows over
 *Halophila*

@@ -45,7 +45,6 @@ links_references: '**Links**
   Natural History Museum website: brief description and photos.
 
   - [File shells (
-
   *Lima lima*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/162)

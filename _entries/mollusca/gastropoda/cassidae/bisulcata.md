@@ -50,7 +50,6 @@ galleries:
 links_references: '**Links**
 
   - [Globular helmet shell (
-
   *Semicassis bisulcata*
 
   )](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=137542)

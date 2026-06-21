@@ -35,7 +35,6 @@ galleries:
 links_references: '**Links**
 
   - [Yellow boxfish (
-
   *Ostracion cubicus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6555)

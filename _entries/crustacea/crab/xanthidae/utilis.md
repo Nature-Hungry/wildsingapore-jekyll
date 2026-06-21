@@ -95,7 +95,6 @@ galleries:
 links_references: '**Links**
 
   - [Sawedged spooner (
-
   *Etisus utilis*
 
   )](http://142.103.81.136/summary/SpeciesSummary.php?genusname=Etisus&speciesname=utilis)

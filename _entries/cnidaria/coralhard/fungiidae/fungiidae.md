@@ -172,9 +172,7 @@ Most members of the Family Fungiidae are solitary corals that are free-living (i
 
 Unlike most other hard corals which are colonies of small polyps, most mushroom corals are a single giant polyp. Some species have a circular disk-like skeleton, others are long and tongue-like. Most have short tentacles, except for the
 [Sunflower mushroom coral](heliofungia)
-(
-*Heliofungia actiniformis*
-) that has such long tentacles that it is often
+(*Heliofungia actiniformis*) that has such long tentacles that it is often
 [mistaken for a sea anemone](../../cflargecnidarians)
 .
 
@@ -194,9 +192,7 @@ A mushroom coral is often home to different kinds of small animals from shrimps 
 Some species of mushroom corals can reproduce by special asexual reproduction. A daughter colony (anthocauli) is formed when a part of the parent's skeleton loses its calcium (decalcification) resulting in clones that develop on the parent's body and become self-sufficient before detaching from the parent.
 
 **Status and threats:**
-The Sunflower mushroom coral (
-*Heliofungia actiniformis*
-) and some other mushroom corals are listed as threatened on the
+The Sunflower mushroom coral (*Heliofungia actiniformis*) and some other mushroom corals are listed as threatened on the
 [IUCN global listing](http://www.iucnredlist.org/)
 . Like other creatures of the intertidal zone, all mushroom corals are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection by hobbyists also have an impact on local populations.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

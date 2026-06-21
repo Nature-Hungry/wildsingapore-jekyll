@@ -38,7 +38,6 @@ galleries:
 links_references: '**Links**
 
   - [Yellow Sea Catfish (
-
   *Arius venosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223)

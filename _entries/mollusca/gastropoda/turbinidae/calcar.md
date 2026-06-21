@@ -56,7 +56,6 @@ galleries:
 links_references: '**Links**
 
   - [Spurred turban (
-
   *Astralium calcar*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86822)
@@ -64,7 +63,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Spurred turban (
-
   *Astralium calcar*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

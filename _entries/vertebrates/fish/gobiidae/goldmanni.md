@@ -52,7 +52,6 @@ galleries:
 links_references: '**Links**
 
   - [Goldman''s goby (
-
   *Istigobius goldmanni*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=4327)

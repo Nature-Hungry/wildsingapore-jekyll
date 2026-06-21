@@ -41,7 +41,6 @@ galleries:
 links_references: '**Links**
 
   - [Orange signaller crab (
-
   *Metaplax elegans*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2051)
@@ -53,7 +52,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Orange signaller crab (
-
   *Metaplax elegans*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1742)

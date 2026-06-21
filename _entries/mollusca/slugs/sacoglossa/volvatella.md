@@ -142,12 +142,10 @@ Another kind of Volvatella has a white shell with transparent spots and it has y
 They have been seen on
 *[Caulerpa](../../../plants/seaweed/chlorophyta/caulerpa)*
 [green seaweeds](../../../plants/seaweed/chlorophyta/caulerpa)
-(
-*Caulerpa*
+(*Caulerpa*
 sp.) as well as other kinds of green seaweeds including
 [Hairy green seaweeds](../../../plants/seaweed/chlorophyta/bryopsis)
-(
-*Bryopsis*
+(*Bryopsis*
 sp.).
 
 **Baby volvatellas:**

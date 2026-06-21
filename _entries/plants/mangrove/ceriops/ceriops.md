@@ -42,7 +42,6 @@ galleries:
 links_references: '**Links**
 
   - [Tengar (
-
   *Ceriops tagal*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1056)
@@ -120,31 +119,21 @@ Usually neat and tidy trees or bushes. Sometimes seen in our mangroves.
 
 A short tree sometimes just a bush, older plants may have well developed knee roots. The leaves are thick and spatula-shaped so they are sometimes mistaken for
 [Teruntum](../lumnitzera/lumnitzera)
-(
-*Lumnitzera*
-sp.). Tengar (
-*Ceriops*
+(*Lumnitzera*
+sp.). Tengar (*Ceriops*
 sp.) have a flattened knife-like stipule (leaf bud at the tip of a branch). For young plants, it is difficult to be sure whether they are Tengar putih or Tengar merah without the flowers and propagules. To distinguish from
 [Pisang-pisang](../kandelia/kandelia)
-(
-*Kandelia candel*
-), Tengar leaf stalks usually not pinkish.
+(*Kandelia candel*), Tengar leaf stalks usually not pinkish.
 
 ## Human uses
 
-Tengar (
-*Ceriops tagal*
-) is valued as timber, firewood and a source of dyes. It is also used in traditional medicine.
+Tengar (*Ceriops tagal*) is valued as timber, firewood and a source of dyes. It is also used in traditional medicine.
 
 **Status and threats:**
 [Tengar putih](tagal)
-(
-*Ceriops tagal*
-) is listed as 'Vulnerable' and
+(*Ceriops tagal*) is listed as 'Vulnerable' and
 [Tengar merah](zippeliana)
-(
-*Ceriops zippeliana*
-) as 'Endangered' on the Red List of threatened plants of Singapore.
+(*Ceriops zippeliana*) as 'Endangered' on the Red List of threatened plants of Singapore.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg)
 

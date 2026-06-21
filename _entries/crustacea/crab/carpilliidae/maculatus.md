@@ -43,7 +43,6 @@ links_references: '**Links**
   - [Spotted reef crab](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380&genusname=Carpilius&speciesname=maculatus)
 
   [(
-
   *Carpilius maculatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380)

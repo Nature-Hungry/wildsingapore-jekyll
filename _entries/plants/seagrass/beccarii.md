@@ -153,8 +153,7 @@ This small seagrass is quite commonly encountered on Chek Jawa, usually in small
 of Chek Jawa suggest it is probably sparsely distributed in the Chek Jawa seagrass lagoon. It is also found at Sungei Buloh Wetland Reserve, with wide swathes along Kranji Nature Trail and Mandai mangroves.
 
 Globally, it is considered a rare and uncommon seagrass with a distribution restricted to the Bay of Bengal and South China Sea. Singapore lies near the southern most point of the global distribution (see
-[global range on the IUCN Red List](http://maps.iucnredlist.org/map.html?id=173342)
-). The first specimen of this seagrass was discovered in Sarawak by the intrepid Italian botanist-explorer,
+[global range on the IUCN Red List](http://maps.iucnredlist.org/map.html?id=173342)). The first specimen of this seagrass was discovered in Sarawak by the intrepid Italian botanist-explorer,
 [Odoardo Beccari](http://wildshores.blogspot.sg/2013/08/beccari-explorer-and-singapore.html)
 and named after him.
 
@@ -165,9 +164,7 @@ Beccari's seagrass is the smallest seagrass found on our shores (0.5cm long). Th
 
 On Chek Jawa, patches were seen among the byssus nests created by
 [Nest mussels](../../mollusca/bivalvia/mytilidae/musculista)
-(
-*Musculita senhausia*
-). In Singapore's northern mangroves, mangrove seedlings are often seen in patches of this seagrass.
+(*Musculita senhausia*). In Singapore's northern mangroves, mangrove seedlings are often seen in patches of this seagrass.
 
 ## Role in habitat
 Studies suggest that beds of Beccari's seagrass are an important nursery for

@@ -59,7 +59,6 @@ galleries:
 links_references: '**Links**
 
   - [Plain troughshell (
-
   *Mactra mera*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84554)
@@ -67,7 +66,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Plain troughshell (
-
   *Mactra mera*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

@@ -57,9 +57,7 @@ Headshield slugs belong to
 [Phylum Mollusca](../../mollusca)
 and
 [Class Gastropoda](../../gastropoda)
-. They belong to group of sea slugs (
-[Subclass Opistobranchia](../../slug)
-) but most have retained shells as adults, although the shell may be reduced or internal. There are 31 families of headshield slugs.
+. They belong to group of sea slugs ([Subclass Opistobranchia](../../slug)) but most have retained shells as adults, although the shell may be reduced or internal. There are 31 families of headshield slugs.
 
 ## Features
 

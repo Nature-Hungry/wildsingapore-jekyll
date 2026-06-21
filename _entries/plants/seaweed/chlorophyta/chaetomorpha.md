@@ -141,8 +141,7 @@ species.
 
 **Sometimes confused with**
 [Hairy green seaweed](bryopsis)
-(
-*Bryopsis*
+(*Bryopsis*
 sp.) which has much shorter filaments and appears feathery. Here's more on
 [how to tell apart some green seaweeds](cffeathery)
 .

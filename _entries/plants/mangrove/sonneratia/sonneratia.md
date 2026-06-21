@@ -81,7 +81,6 @@ links_references: '**Links**
   - [Life in the mangroves](http://wetlands.sbwr.org.sg/text/00-7-1-5)
 
   by Halilah Ahmad in Wetland: about the the Common long-tongued fruit bat (
-
   *Macroglossus minimus*
 
   ).
@@ -129,9 +128,7 @@ habitats:
 ---
 
 ## Where seen?
-On our shores, the Perepat (
-*Sonneratia alba*
-) is commonly seen on the seaward side of mangroves, often forming majestic large tall trees. According to Corners, these trees are found in all tropical shores of the Eastern hemisphere from East Africa to the Pacific. There are four species in Malaya. Hybrids among
+On our shores, the Perepat (*Sonneratia alba*) is commonly seen on the seaward side of mangroves, often forming majestic large tall trees. According to Corners, these trees are found in all tropical shores of the Eastern hemisphere from East Africa to the Pacific. There are four species in Malaya. Hybrids among
 *S. alba, S. caseolaris*
 and
 *S. ovata*
@@ -156,24 +153,12 @@ are important sources of food for these bats.
 
 According to Tomlinson, in Malaysia, several species of nectar-feeding bats are responsible for the pollination of
 *Sonneratia*
-. One of them, the Common long-tongued nectar bat (
-*Macroglossus minimus*
-) is said to be dependent on
+. One of them, the Common long-tongued nectar bat (*Macroglossus minimus*) is said to be dependent on
 *Sonneratia*
-as its main food source, and this bat has never been recorded away from mangroves. In Singapore, this bat is known in the mangroves of Pulau Ubin, Pulau Tekong and also at Sungei Buloh where it feeds on the nectar of Berembang (
-*Sonneratia caseolaris*
-) and Perepat (
-*Sonneratia alba*
-) trees, as well as durian, jambu and banana trees. The bat feeds on the nectar with its brush-like tongue, in the processing getting dusted by pollen which it transfers to the next flower that it feeds on.
+as its main food source, and this bat has never been recorded away from mangroves. In Singapore, this bat is known in the mangroves of Pulau Ubin, Pulau Tekong and also at Sungei Buloh where it feeds on the nectar of Berembang (*Sonneratia caseolaris*) and Perepat (*Sonneratia alba*) trees, as well as durian, jambu and banana trees. The bat feeds on the nectar with its brush-like tongue, in the processing getting dusted by pollen which it transfers to the next flower that it feeds on.
 
 **Fiery Tree:**
-According to the NParks Flora and Fauna website, Berembang (
-*Sonneratia caseolaris*
-) is where adult "fireflies" flock and flash in a synchronised manner, famous in places such as Selangor. These animals are actually a bettle (
-*Pteroptyx tener*
-). The Berembang's exact relationship with firefly is unknown. The adults is believed to feed on either the tree's sap, young leaves, flower nectar or scale insects specific to the tree, and prefer the open canopy of the tree which allows their flashing displays to be seen from long distances.Their larvae are carnivorous and amphibious, nesting in the vegetation below tree, feeding on aquatic snails (
-*Cyclotropis carinata*
-) and nematode worms.
+According to the NParks Flora and Fauna website, Berembang (*Sonneratia caseolaris*) is where adult "fireflies" flock and flash in a synchronised manner, famous in places such as Selangor. These animals are actually a bettle (*Pteroptyx tener*). The Berembang's exact relationship with firefly is unknown. The adults is believed to feed on either the tree's sap, young leaves, flower nectar or scale insects specific to the tree, and prefer the open canopy of the tree which allows their flashing displays to be seen from long distances.Their larvae are carnivorous and amphibious, nesting in the vegetation below tree, feeding on aquatic snails (*Cyclotropis carinata*) and nematode worms.
 
 Fireflies are also associated with other Sonneratia species and other mangrove trees. In Singapore, a different firefly beetle species is found,
 *Pteroptyx valida*

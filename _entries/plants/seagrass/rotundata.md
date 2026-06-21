@@ -111,9 +111,7 @@ There is a small patch of this seagrass on Chek Jawa and they have also been see
 
 Smooth ribbon seagrass is found throughout tropical Indo-West Pacific usually in clear water reefs, growing where it is exposed for only a short time during low spring tide. It is fast growing and believed to play a role in habitat recovery. It is not as well studied as
 [Serrated ribbon seagrass](cymodoceaceae/serrulata)
-(
-*Cymodocea serrulata*
-).
+(*Cymodocea serrulata*).
 
 ## Features
 

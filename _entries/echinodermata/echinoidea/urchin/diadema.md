@@ -129,7 +129,6 @@ galleries:
 links_references: '**Links**
 
   - [Black sea urchin (
-
   *Diadema setosum*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/223)
@@ -264,8 +263,7 @@ Wear covered shoes and long pants to cover all skin exposed to water. Don't touc
 **May be confused with**
 the
 [Black sea urchin](temnopleurus)
-(
-*Temnopleurus*
+(*Temnopleurus*
 sp.) with much shorter spines is more commonly seen on our Northern shores, sometimes in large numbers. Thanks to Dr Frederic Ducarme for more on how to tell apart
 *Diadema setosum*
 and
@@ -291,10 +289,7 @@ The sea urchin is sometimes home to other animals such as
 [cardinalfish](../../../vertebrates/fish/apogonidae/apogonidae)
 (Family Apogonidae),
 [razorfishes](../../../vertebrates/fish/centriscidae/centriscidae)
-(Family Centriscidae) and shrimps (
-*Saron marmoratus*
-) and anemones (
-*Coeloplana*
+(Family Centriscidae) and shrimps (*Saron marmoratus*) and anemones (*Coeloplana*
 sp.). Small white parasitic snails are also said to be associated with it.
 
 ## Human uses

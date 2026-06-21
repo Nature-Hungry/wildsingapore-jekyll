@@ -43,7 +43,6 @@ galleries:
 links_references: '**Links**
 
   - [Honey-head damsel (
-
   *Dischistodus prosopotaenia*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/343)

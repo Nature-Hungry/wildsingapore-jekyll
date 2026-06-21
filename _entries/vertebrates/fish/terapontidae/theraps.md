@@ -45,7 +45,6 @@ galleries:
 links_references: '**Links**
 
   - [Banded perch (
-
   *Terapon theraps*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273)

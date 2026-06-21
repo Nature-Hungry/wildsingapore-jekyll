@@ -60,7 +60,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Crucifix crab (
-
   *Charybdis feriatus*
 
   )](http://www.sealifebase.org/summary/Charybdis-feriatus.html)
@@ -139,8 +138,7 @@ Some people believe that these crabs were blessed by the missionary, St Francis 
 
 The commercially most important of the
 *Charybdis*
-species, caught by bottom trawls, sometimes by traps and nets. It sells for a premium in East Asia. More delicate than Mud crabs (
-*Scylla*
+species, caught by bottom trawls, sometimes by traps and nets. It sells for a premium in East Asia. More delicate than Mud crabs (*Scylla*
 sp.), it is usually sold frozen.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

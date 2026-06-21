@@ -95,11 +95,9 @@ Thin layer encrusting small areas 10-20cm sometimes larger. Often with irregular
 
 **May be confused with**
 [Blue icing sponges](smoothblue)
-(
-*Lendenfeldia*
+(*Lendenfeldia*
 cf.
-*chondrodes*
-) which look similar but are blue, green or lilac. Also similar to
+*chondrodes*) which look similar but are blue, green or lilac. Also similar to
 [Smooth green sponge](smoothgreen)
 which is not as smooth has has a texture of tiny bumps.
 ## Human uses

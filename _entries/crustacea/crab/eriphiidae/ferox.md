@@ -126,7 +126,6 @@ galleries:
 links_references: '**Links**
 
   - [Red Eyed Reef Crab (
-
   *Eriphia smithi*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/216)

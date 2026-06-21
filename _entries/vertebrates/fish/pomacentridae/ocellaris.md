@@ -138,7 +138,6 @@ galleries:
 links_references: '**Links**
 
   - [Clown Anemonefish (
-
   *Amphiprion ocellaris*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/337)
@@ -155,7 +154,6 @@ links_references: '**Links**
   on taxo4254.
 
   - [Clown Anemonefish (
-
   *Amphiprion ocellaris*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=6509)
@@ -167,7 +165,6 @@ links_references: '**Links**
   : Technical fact sheet on the family, including fact sheet on
 
   - [False-Clown Anemonefish (
-
   *Amphiprion ocellaris*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/aocellaris)
@@ -254,13 +251,8 @@ This delightful fish is commonly seen in large sea anemones on some of our South
 2-9cm. Red to reddish-brown with three broad white bars (the middle bar widening at the middle of the side of the body towards the head) and black bands on the edges of all the fins including the top of the dorsal fin.
 
 **False Clown?**
-Our clown anemonefish (
-*Amphiprion ocellaris*
-) is sometimes called the False clown anemonefish, to distinguish it from another closely related fish called the Orange anemonefish (
-*Amphiprion percula*
-) which has black bands on the white body bars (see
-[SeaLife Base fact sheet](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=9209&genusname=Amphiprion&speciesname=percula)
-). The natural distribution of these two species of anemonefishes do NOT overlap.
+Our clown anemonefish (*Amphiprion ocellaris*) is sometimes called the False clown anemonefish, to distinguish it from another closely related fish called the Orange anemonefish (*Amphiprion percula*) which has black bands on the white body bars (see
+[SeaLife Base fact sheet](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=9209&genusname=Amphiprion&speciesname=percula)). The natural distribution of these two species of anemonefishes do NOT overlap.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Home Sweet Anemone Home:**
 On our intertidal, the fish is often seen in

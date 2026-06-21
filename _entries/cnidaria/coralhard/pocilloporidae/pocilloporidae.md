@@ -121,8 +121,7 @@ habitats:
 ## Where seen?
 The
 [Cauliflower coral](pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.) is commonly seen on many of our Southern reefs.
 
 Members of the Family Pocilloporidae are considered the second-largest contributors to reef formations although they have relatively few species. They are most active and found in greatest numbers in shallow waters with strong waves. They reproduce easily by fragmentation, the fragments surviving stress well in nature.

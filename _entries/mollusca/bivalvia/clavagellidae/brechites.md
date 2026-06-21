@@ -62,7 +62,6 @@ galleries:
 links_references: '**Links**
 
   - [Waterspout or watering pot shell (
-
   *Brechites penis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/163)
@@ -74,7 +73,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Waterspout or Watering pot shell (
-
   *Brechites penis*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=211)
@@ -82,7 +80,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - [Waterspout shell (
-
   *Brechites penis*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=139335&genusname=Brechites&speciesname=penis)

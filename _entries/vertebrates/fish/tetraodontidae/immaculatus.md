@@ -48,7 +48,6 @@ galleries:
 links_references: '**Links**
 
   - [Yelloweye Puffer (
-
   *Arothron immaculatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395)
@@ -60,7 +59,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Puffer or Globe fish (
-
   *Arothron*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253)
@@ -72,7 +70,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Immaculate puffer (
-
   *Arothron immaculatus*
 
   )](http://www.fishbase.org/summary/7188)

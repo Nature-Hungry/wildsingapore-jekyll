@@ -147,8 +147,7 @@ habitats:
 ## Where seen?
 This tiny 'furry' nudibranch is sometimes seen among
 [Sea Lettuce](../../../plants/seaweed/chlorophyta/ulva)
-(
-*Ulva*
+(*Ulva*
 sp.) as well as burrowing in sandy areas on our Northern shores.
 
 ## Features

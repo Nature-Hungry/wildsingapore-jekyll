@@ -60,7 +60,6 @@ galleries:
 links_references: '**Links**
 
   - [Freckled goatfish (
-
   *Upeneus tragula*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/322)
@@ -122,7 +121,6 @@ links_references: '**Links**
   : Technical fact sheet on the family, including fact sheets on individual species
 
   [Freckled goatfish (
-
   *Upeneus tragula*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=5443)

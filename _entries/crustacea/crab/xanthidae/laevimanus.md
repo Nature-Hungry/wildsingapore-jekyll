@@ -103,7 +103,6 @@ galleries:
 links_references: '**Links**
 
   - [Common Rock Crab (
-
   *Leptodius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/208)
@@ -171,8 +170,7 @@ Body width 8-10cm. Body fan-shaped, rather flat, with 4 blunt teeth on the edges
 
 **Sometimes confused with**
 [Rock crabs](leptodius)
-(
-*Leptodius*
+(*Leptodius*
 sp.) which have pincers which are more squat, with bumps on the elbows.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

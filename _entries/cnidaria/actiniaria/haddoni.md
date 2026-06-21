@@ -118,7 +118,6 @@ galleries:
 links_references: '**Links**
 
   - [Sea anemones (
-
   *Stoichactis*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120)
@@ -264,37 +263,28 @@ The anemones have also been seen swallowing various animals. The sticky tentacle
 .
 
 **Haddoni friends:**
-Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been recorded elsewhere as being associated with Haddon's carpet anemones. These include anemone shrimps (
-*Periclimenes*
+Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been recorded elsewhere as being associated with Haddon's carpet anemones. These include anemone shrimps (*Periclimenes*
 sp.), and fishes such as
 *Dascyllus trimaculatus*
 and
 [anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
-(
-*Amphiprion*
+(*Amphiprion*
 sp.) including
 *A. akindynos, A. clarkii, A. fuscocaudatus, A. polymnus, A. sebae, A. xanthurus.*
 But so far, the only animals seen living on our Haddon's carpet anemones are the
 [tiny carpet anemoneshrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/carpet)
-(
-*Periclimenes*
+(*Periclimenes*
 sp.),
 [Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
-(
-*Periclimenes brevicarpalis*
-).
+(*Periclimenes brevicarpalis*).
 
 Other animals have been observed taking shelter under these anemones, such as crabs and snapping shrimps.
 [Ball sea cucumbers](../../echinodermata/holothuroidea/phyllophorus)
 are often found buried near carpet anemones. Also seen were
 [Kite butterflyfish](../../vertebrates/fish/chaetodontidae/ocellatus)
-(
-*Parachaetodon ocellatus*
-) and
+(*Parachaetodon ocellatus*) and
 [Chequered cardinalfish](../../vertebrates/fish/apogonidae/margaritophorus)
-(
-*Apogon margaritophorus*
-) swimming near, but not touching, carpet anemones. Sometimes small groups of small Kite butterflyfishes are seen near carpet anemones.
+(*Apogon margaritophorus*) swimming near, but not touching, carpet anemones. Sometimes small groups of small Kite butterflyfishes are seen near carpet anemones.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Should I 'save' animals trapped in a carpet anemone?**
 If you do, you will be depriving the anemone of a meal. It might not get so lucky again for a while. The animal that you 'saved' might also not survive if it was badly stung by the carpet anemone.
@@ -313,17 +303,14 @@ Carpet anemones probably usually stay in one spot. However, they can uproot them
 
 **Bleaching carpet anemones:**
 Carpet anemones do suffer from bleaching, turning pale or flourescent colours when the symbiotic algae leave them. This happens when they are stressed. Stresses include elevated seawater temperatures for an extended time (which causes
-[mass coral bleaching](../coralhard/coralhard)
-). As well as other extreme changes in water conditions due to pollution or other causes.
+[mass coral bleaching](../coralhard/coralhard)). As well as other extreme changes in water conditions due to pollution or other causes.
 [In 2007](https://iyor08singapore.blogspot.com/2008/01/chek-jawa-death-and-life-in-2007.html)
 , there was mass bleaching of carpet anemones on Chek Jawa, believed to be due to prolonged and high rain fall upstream in the Johor River. The exreme and prolonged fall in salinity caused the carpet anemones to not only bleach but also balloon up and explode.
 
 **Carpet babies:**
 There is not much information on how Carpet anemones reproduce. Small carpet anemones seen on our shores may actually be another species, the
 [Mini carpet anemone](tapetum)
-(
-*Stichodactyla tapetum*
-) and not a young version of the Haddon's carpet anemone.
+(*Stichodactyla tapetum*) and not a young version of the Haddon's carpet anemone.
 
 ## Human uses
 

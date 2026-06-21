@@ -30,7 +30,6 @@ galleries:
 links_references: '**Links**
 
   - [Moon Snail (
-
   *Polinices*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)

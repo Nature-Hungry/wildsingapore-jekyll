@@ -38,7 +38,6 @@ galleries:
 links_references: '**Links**
 
   - [Indian Halibut (
-
   *Psettodes erumei*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/383)
@@ -54,7 +53,6 @@ links_references: '**Links**
   and
 
   [Indian spiny turbot (
-
   *Psettodes erumei*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=513)
@@ -103,17 +101,13 @@ habitats:
 ---
 
 ## Where seen?
-The Indian halibut (
-*Psettodes erumei*
-) is sometimes seen on some of our shores, often near seagrasses.
+The Indian halibut (*Psettodes erumei*) is sometimes seen on some of our shores, often near seagrasses.
 **What are halibuts?**
 They are
 [flatfishes](../pleuronectiformes/pleuronectiformes)
 that belong to the Family Psettodidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=437)
-: the family has 1 genera and 3 species found in West Africa and the Indo-West Pacific. They are considered the most primitive of the flatfishes for some of their body characteristics and their habit of often swimming in an upright position. The only species that occurs in our region is the Indian halibut (
-*Psettodes erumei*
-).
+: the family has 1 genera and 3 species found in West Africa and the Indo-West Pacific. They are considered the most primitive of the flatfishes for some of their body characteristics and their habit of often swimming in an upright position. The only species that occurs in our region is the Indian halibut (*Psettodes erumei*).
 
 ## Features
 

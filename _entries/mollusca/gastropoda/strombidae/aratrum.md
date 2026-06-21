@@ -40,7 +40,6 @@ galleries:
 links_references: '**Links**
 
   - [Diana conch (
-
   *Strombus aurisdianae*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86872)
@@ -48,7 +47,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Dark diana conch (
-
   *Strombus aratrum*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=198)
@@ -56,7 +54,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Diana conch (
-
   *Strombus aurisdianae*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

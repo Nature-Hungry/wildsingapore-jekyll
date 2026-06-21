@@ -118,8 +118,7 @@ An aggressive hunter, it eats crabs (one study found it prefers crabs) as well a
 [One study found](http://www.kmae-journal.org/articles/kmae/pdf/2012/02/kmae110093.pdf)
 that it eats mostly
 [fiddler crabs](..//wildfacts/guides/crustacea/crustacea/crab/ocypodoidea/uca)
-, Medaka fish (
-*Oryzias*
+, Medaka fish (*Oryzias*
 sp.) and juvenile fishes.
 
 In turn, the fish is preyed upon by the

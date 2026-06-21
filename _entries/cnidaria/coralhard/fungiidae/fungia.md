@@ -135,9 +135,7 @@ An unusual property of fungia mushroom corals is the inclusion of large amounts 
 **Sometimes mistaken for**
 the
 [Sunflower mushroom hard coral](heliofungia)
-(
-*Heliofungia actiniformis*
-) especially when
+(*Heliofungia actiniformis*) especially when
 *Heliofungia*
 has its tentacles retracted.
 *Heliofungia*

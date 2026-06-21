@@ -72,7 +72,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Porcelain fiddler (
-
   *Uca annulipes*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2053)
@@ -147,9 +146,7 @@ Body width 1.5-2cm. Body squarish. The male fiddler crab's enlarged pincer almos
 **Sometimes mistaken for**
 the
 [Orange fiddler crab](vocans)
-(
-*Uca vocans*
-). More on
+(*Uca vocans*). More on
 [how to tell apart the fiddler crabs commonly seen](cflongeyedcrabs)
 on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

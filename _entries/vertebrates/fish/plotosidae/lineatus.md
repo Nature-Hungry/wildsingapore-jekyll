@@ -79,7 +79,6 @@ galleries:
 links_references: '**Links**
 
   - [Striped eeltail catfish (
-
   *Plotosus lineatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226)
@@ -93,7 +92,6 @@ links_references: '**Links**
   [http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706)
 
   - [Striped eel-catfish (
-
   *Plotosus lineatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706)
@@ -196,9 +194,7 @@ Adults can reach about 30cm long, those seen on the intertidal range from tiny o
 
 **Sometimes confused with**
 [Black eeltail catfishes](canius)
-(
-*Plotosus canius*
-). The adults of these two eeltail catfishes may appear similar as the stripes on the Striped eeltail catfish fades with age. In Black eeltail catfish adults, the long barbels at the top of the snout can extend past the eyes. In adult Striped eeltail catfishes, these barbels don't extend past the eyes.
+(*Plotosus canius*). The adults of these two eeltail catfishes may appear similar as the stripes on the Striped eeltail catfish fades with age. In Black eeltail catfish adults, the long barbels at the top of the snout can extend past the eyes. In adult Striped eeltail catfishes, these barbels don't extend past the eyes.
 
 **Sometimes mistaken for**
 [sea snakes](../../snakes/hydrophiidae/laticauda)

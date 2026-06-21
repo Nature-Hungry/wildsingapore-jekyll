@@ -44,7 +44,6 @@ galleries:
 links_references: '**Links**
 
   - [Banded urchin (
-
   *Salmacis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/223)

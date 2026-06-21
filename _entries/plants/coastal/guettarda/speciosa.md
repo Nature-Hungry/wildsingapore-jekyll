@@ -101,9 +101,7 @@ A spreading shrub or tall tree (4-22m). Bark is smooth and grey-brown.
 
 Leaves resemble those of the
 [Sea almond](../terminalia/catappa)
-(
-*Terminalia catappa*
-). The leaves are large (10-25cm long) oval with hairs on both sides or only below. The leaves are arranged opposite one another.
+(*Terminalia catappa*). The leaves are large (10-25cm long) oval with hairs on both sides or only below. The leaves are arranged opposite one another.
 
 Flowers small (1-3cm) white tubular appearing in clusters on long stalks (6-9 cm) from leaf axils. Corners describes them as "typical moth flowers" being white, with a long corolla tube and fragrant. They open an hour after sunset and fall off the following morning. The tree flowers throughout the year.
 
@@ -112,9 +110,7 @@ Fruits small and round (2-3cm), green and smooth at first, turning whitish or pi
 **Sometimes mistaken for**
 the
 [Sea almond](../terminalia/catappa)
-or Ketapang (
-*Terminalia catappa*
-). Thus one of its Malay names is 'Ketapang pasir' which means 'Sea almond of the shore'. Here's more on
+or Ketapang (*Terminalia catappa*). Thus one of its Malay names is 'Ketapang pasir' which means 'Sea almond of the shore'. Here's more on
 [how to tell apart Sea almond and other similar trees on the shores](../cfketapang)
 .
 

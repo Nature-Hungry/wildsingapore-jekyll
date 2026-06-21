@@ -67,7 +67,6 @@ links_references: '**Links**
   by Gianluca Polgar: Technical fact sheets with lots of photos.
 
   - [Walking goby (
-
   *Scartelaos histophoru*
 
   )](http://fishbase.mnhn.fr/Summary/SpeciesSummary.php?id=7487)

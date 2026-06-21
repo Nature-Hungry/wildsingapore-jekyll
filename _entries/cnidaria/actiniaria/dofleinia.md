@@ -72,7 +72,6 @@ links_references: '**Links**
   and more.
 
   - [Striped Anemone (
-
   *Dofleinia armata*
 
   )](http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299)

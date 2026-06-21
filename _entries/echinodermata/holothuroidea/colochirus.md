@@ -150,9 +150,7 @@ Sometimes small creatures are seen on the sea cucumber. Such as parasitic snails
 
 Thorny sea cucumbers are among the sea cucumbers harvested for the live aquarium trade, although not as popular as the more colourful
 [Sea apple sea cucumber](violaceaus)
-(
-*Pseudocolochirus violaceus*
-). Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without pro
+(*Pseudocolochirus violaceus*). Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without pro
 fessional care, most die soon after they are sold. Often of starvation as owners are unable to provide the food that they need to survive. Those that do survive are unlikely to breed.
 
 ---

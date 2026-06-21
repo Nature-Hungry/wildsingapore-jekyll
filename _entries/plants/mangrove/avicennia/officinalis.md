@@ -44,7 +44,6 @@ galleries:
 links_references: '**Links**
 
   - [Api-api ludat (
-
   *Avicennia officinalis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1051)

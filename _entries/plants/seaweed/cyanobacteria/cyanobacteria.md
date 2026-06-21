@@ -142,12 +142,9 @@ that produce dense blooms in that body of water. African flamingos are pink from
 ## Role in habitat
 Cyanobacteria are eaten by a wide range of animals. Among the common animals believed to eat cyanobacteria are sea slugs like the
 [Hairy sea hare](../../../mollusca/slugs/anaspidae/bursatella)
-(
-*Bursatella leachii*
-) and
+(*Bursatella leachii*) and
 [Long-tailed hairy sea hare](../../../mollusca/slugs/anaspidae/stylocheilus)
-(
-*Styloceilus*
+(*Styloceilus*
 sp.)
 
 ## Human uses

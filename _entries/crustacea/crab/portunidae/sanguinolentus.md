@@ -42,7 +42,6 @@ galleries:
 links_references: '**Links**
 
   - [Blood-spotted swimming crab (
-
   *Portunus*
 
   *sanguinolentus*

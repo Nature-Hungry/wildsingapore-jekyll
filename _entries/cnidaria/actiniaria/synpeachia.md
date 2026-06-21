@@ -67,9 +67,7 @@ Diameter with tentacles expanded 4-5cm. One ring of 20 tentacles that are thick 
 
 **Sometimes mistaken for**
 [White peachia anemone](peachia)
-(
-*Metapeachia tropica*
-) which far more common. It looks similar but has a cream-colored body column and 16 tentacles.
+(*Metapeachia tropica*) which far more common. It looks similar but has a cream-colored body column and 16 tentacles.
 
 An 'uprooted' Peachia anemone is often mistaken for a sea cucumber or a worm. Here's more on
 [how to tell apart sausage-like creatures](../../glossary/sausage)
@@ -101,8 +99,6 @@ for free download
 **References**
 
 - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-- Nicholas Wei Liang Yap, Daphne Gail Fautin, Dino Angelo Ramos, and Ria Tan (
-*2014*
-)
+- Nicholas Wei Liang Yap, Daphne Gail Fautin, Dino Angelo Ramos, and Ria Tan (*2014*)
 *Sea anemones of Singapore: Synpeachia temasek new genus, new species, and redescription of Metapeachia tropica (Cnidaria: Actiniaria: Haloclavidae)*
 . Proceedings of the Biological Society of Washington: October 2014, Vol. 127, No. 3, pp. 439-454.

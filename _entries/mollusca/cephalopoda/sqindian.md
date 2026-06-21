@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Indian squid (
-
   *Uroteuthis duvaucelii*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/Uroteuthis-duvaucelii.html)

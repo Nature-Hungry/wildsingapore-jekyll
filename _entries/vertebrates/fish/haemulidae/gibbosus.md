@@ -80,7 +80,6 @@ galleries:
 links_references: '**Links**
 
   - [Brown Sweetlips or Harry Hotlips (
-
   *Plectorhinchus gibbosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/285)
@@ -92,7 +91,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Harry Hotlips (
-
   *Plectorhinchus gibbosus*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=6366&genusname=Plectorhinchus&speciesname=gibbosus)

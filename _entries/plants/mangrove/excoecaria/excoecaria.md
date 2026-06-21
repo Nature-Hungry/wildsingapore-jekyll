@@ -135,9 +135,7 @@ The fruits are small (less than 1cm) three-lobed, green turning black as they ri
 
 The colourful
 [Mangrove shield bug](../../../insecta/calliphara)
-(
-*Calliphara nobilis*
-) feeds on the seeds of this tree and is often seen in large numbers when the tree is fruiting. It is the preferred local food plant for the caterpillars of the moths,
+(*Calliphara nobilis*) feeds on the seeds of this tree and is often seen in large numbers when the tree is fruiting. It is the preferred local food plant for the caterpillars of the moths,
 *Achaea janatas*
 ,
 *Iscadia pulchra, Selepa celtis*

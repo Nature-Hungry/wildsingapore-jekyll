@@ -131,8 +131,7 @@ Body diameter 4-5cm, sometimes tiny ones about 1cm in diameter are seen among se
 **May be confused with**
 the
 [Long-spined black sea urchin](diadema)
-(
-*Diadema*
+(*Diadema*
 sp.) which has much longer spines and is not often seen on the Northern shores.
 
 **Prickly Home:**

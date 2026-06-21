@@ -34,7 +34,6 @@ galleries:
 links_references: '**Links**
 
   - [Bladder moon snail (
-
   *Polinices didyma*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86933)
@@ -42,7 +41,6 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
   - Bladder moon snail (
-
   *Polinices didyma*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
@@ -100,8 +98,7 @@ This almost spherical moon snail is commonly seen on a few of our sandy Northern
 
 ## Features
 
-3-5cm. Shell smooth glossy, thick heavy, spherical, the spiral tip not sticking out so that the overall shape resembles a ball (
-*Didyma*
+3-5cm. Shell smooth glossy, thick heavy, spherical, the spiral tip not sticking out so that the overall shape resembles a ball (*Didyma*
 means 'testicles'). Shell pattern usually plain white sometimes with pearly pastel shades, with narrow white spiral at the spire, sometimes with irregular blotches of darker colours. On the underside, a brown blotch and a small depression. Operculum smooth, made of a thin horn-like material, yellow. Body huge, plain white. Tentacles with more opaque white bands.
 
 **Sometimes mistaken for**

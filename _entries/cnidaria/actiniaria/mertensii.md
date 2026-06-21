@@ -167,17 +167,13 @@ This enormous carpet anemone with short fat tentacles is sometimes seen on our u
 
 Diameter to 1m or more. The large oral disk covered with short tentacles so that it resembles a carpet. The oral disk is often held flat against the surface, unlike the
 [Giant carpet anemone](gigantea)
-(
-*Stichodactyla gigantea*
-) in which the oral disk is often folded. Small pedal disc frequently attached in crevice. The anemone can retract but not rapidly.
+(*Stichodactyla gigantea*) in which the oral disk is often folded. Small pedal disc frequently attached in crevice. The anemone can retract but not rapidly.
 
 Body column tan to white with bumps (verrucae) that are adhesive and appear as rows of spots, generally in magenta or orange (which may appear purplish at depth). No verrucae below wide upper column, but splotches of pigment continue down short, narrow column in more or less longitudinal streaks.
 
 The tentacles are not adhesive, club-shaped to finger-like. All tentacles may be short (10-20 mm long), or some (in patches) very long (to 50 mm or more). It does not have a fringe of long-short tentacles at the edge of the oral disk like
 [Haddon's carpet anemone](/wildfacts/cnidaria/actiniaria/haddoni)
-(
-*Stichodactyla haddoni*
-).
+(*Stichodactyla haddoni*).
 
 **Sometimes confused with**
 other large sea anemones and similar large cnidarians. Here's more on how to tell apart
@@ -194,15 +190,12 @@ Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). Th
 **Giant friends:**
 Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with Merten's carpet anemones. These
 [anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
-(
-*Amphiprion*
+(*Amphiprion*
 sp.) including
 *A. akallopisos, A. akindynos, A. allardi, A. chrysogaster, A. chrysopterus, A. clarkii, A. fuscocaudatus, A. latifasciatus, A. leucokranos, A. ocellaris, A. sandaracinos, A. tricinctus*
 . But so far, the only animals observed on Merten's carpet anemones were the
 [Five-spot anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
-(
-*Periclimines brevicarpalis*
-) and the
+(*Periclimines brevicarpalis*) and the
 [Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris)
 .
 

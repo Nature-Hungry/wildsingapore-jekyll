@@ -87,7 +87,6 @@ galleries:
 links_references: '**Links**
 
   - [Slender Seamoth (
-
   *Pegasus volitans*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/247)
@@ -197,9 +196,7 @@ Pegasus is the winged horse of Greek mythology. In one version of the myth, Pega
 
 4-6cm. Body hard, enclosed by a bony skeleton of rigid plates. The tail is enclosed in bony rings. It has a long stiff pointed snout that is made up of modified nose bones. The small mouth is found under the snout. The mouth is protrusible, i.e., it can stick out of the body. The snout usually has a white or pale tip. It has large pectoral fins that are held out horizontally and often spread out like wings. The gill openings are small. Adult slender seamoths come in various colours and patterns, usually camouflaging. Young slender seamoths are sometimes all black.
 
-Seamoths are adapted for bottom-dwelling and lack swim-bladders. The Slender seamoth (
-*Pegasus volitans*
-) is reported to "walk" over the bottom using its pelvic fins which are reduced to a pair of slender structures.
+Seamoths are adapted for bottom-dwelling and lack swim-bladders. The Slender seamoth (*Pegasus volitans*) is reported to "walk" over the bottom using its pelvic fins which are reduced to a pair of slender structures.
 
 A study of captive specimens observed the fish to shed its skin in one piece with a rapid jump, to get rid of unwanted parasites or encrusting algae on their skin. One species can bury themselves in the sand and change colours to match their surroundings.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

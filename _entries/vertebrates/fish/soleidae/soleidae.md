@@ -208,21 +208,13 @@ that belong to the Family Soleidae. According to
 
 10-30cm. Eyes small and on the right side. The head is small. In some species, the tail fin separate from the dorsal and anal fins. In others, such as
 [Commerson's sole](commersoniana)
-(
-*Synaptura commersoniana*
-), the tail fins are joined to the dorsal and anal fins. The fins lack spines. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins (
-[here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)
-).
+(*Synaptura commersoniana*), the tail fins are joined to the dorsal and anal fins. The fins lack spines. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins ([here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)).
 
 Snout sometimes hook-shaped. Scales relatively large and sometimes modified into skin flaps fringed with sensory filaments. Colours on the eyed side highly variable depending on the surroundings. May be uniformly brown to patterned with scattered dark spots or blotches.
 
 Some soles such as the
 [Peacock sole](pavoninus)
-(
-*Pardachirus pavoninus*
-) have toxin glands that produce a distasteful substance. The Moses sole (
-*Pardachirus mamoratus*
-) found in the Red Sea produces an astringent, frothy, soap-like poison, called pardaxin, that was found to repel sharks. However, the toxin proved difficult to package and store and could not be used to protect humans.
+(*Pardachirus pavoninus*) have toxin glands that produce a distasteful substance. The Moses sole (*Pardachirus mamoratus*) found in the Red Sea produces an astringent, frothy, soap-like poison, called pardaxin, that was found to repel sharks. However, the toxin proved difficult to package and store and could not be used to protect humans.
 
 **Sometimes confused with**
 other

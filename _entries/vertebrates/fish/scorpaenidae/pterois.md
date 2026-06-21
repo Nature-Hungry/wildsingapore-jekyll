@@ -69,14 +69,10 @@ This magnificent fish is sometimes seen on our Southern shores. Elsewhere, they 
 Grows to about 30cm. Brown striped with broad median fins made up of flappy rays. The dorsal fins also long and flappy rays. The sting is extremely painful but rarely fatal.
 
 **Russel's lionfish**
-(
-*Pterois russelii*
-) does not have spots on the median fins.
+(*Pterois russelii*) does not have spots on the median fins.
 
 **Volitans lionfish**
-(
-*Pterois volitans*
-) has spots on the median fins.
+(*Pterois volitans*) has spots on the median fins.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

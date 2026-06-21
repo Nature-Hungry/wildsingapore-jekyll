@@ -158,9 +158,7 @@ species.
 Lumpy blobby Codium green seaweed
 **may be confused with**
 [Puffy brown seaweed](../phaeophyta/colpomenia)
-(
-*Colpomenia sinuosa*
-) which is golden brown.
+(*Colpomenia sinuosa*) which is golden brown.
 
 ## Role in habitat
 Some

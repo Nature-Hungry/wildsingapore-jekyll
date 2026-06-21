@@ -90,9 +90,7 @@ Those seen on the intertidal about 2-3cm, grows to 15cm long. A portion of the d
 According to Kelvin Lim, juveniles have proportionally taller dorsal fins with a prominent yellow edged eye-spot on the first dorsal fin. Small juveniles around 2 cm are white with orange bars on the head and nape.
 
 **Sometimes confused**
-with the Fingered dragonet (
-*Dactylopus dactylopus*
-). Both Fingered and Kuiter's dragonets have the first pelvic fin ray separated from the rest of the pelvic fin. The fingered dragonet differs in having long filamentous rays on the first dorsal fin and distinct stripes on the second dorsal fin.
+with the Fingered dragonet (*Dactylopus dactylopus*). Both Fingered and Kuiter's dragonets have the first pelvic fin ray separated from the rest of the pelvic fin. The fingered dragonet differs in having long filamentous rays on the first dorsal fin and distinct stripes on the second dorsal fin.
 
 **Sometimes mistaken**
 for

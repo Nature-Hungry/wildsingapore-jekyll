@@ -40,7 +40,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Piai Raya (
-
   *Acrostichum aureum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1038)
@@ -48,7 +47,6 @@ links_references: '**Links**
   and
 
   [Piai Lasu (
-
   *Acrostichum speciosum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1039)
@@ -107,17 +105,13 @@ This humungous fern is often seen in back mangroves, flourishing on
 [mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 and other higher ground along the coasts including reclaimed land. According to Giersen, it does not tolerate as much inundation by seawater as
 [Piai lasu](speciosum)
-(
-*A. speciosum*
-), and prefers bright, sunny areas. In cleared mangroves, this fern can dominate and thus considered a nuisance plant.
+(*A. speciosum*), and prefers bright, sunny areas. In cleared mangroves, this fern can dominate and thus considered a nuisance plant.
 
 ## Features
 
 The leaflets are broader and longer (1-4m long) than those of
 [Piai lasu](speciosum)
-(
-*A. speciosum*
-) and young fronds are crimson red. Rhizomes and base of the leaf stalks covered with scales up to 4cm long. The first 5-8 pairs near the tips are fertile leaflets, the underside covered below with red-brown spores (sporangia). Sterile leaflets have a rounded tip sometimes with a small sharp point.
+(*A. speciosum*) and young fronds are crimson red. Rhizomes and base of the leaf stalks covered with scales up to 4cm long. The first 5-8 pairs near the tips are fertile leaflets, the underside covered below with red-brown spores (sporangia). Sterile leaflets have a rounded tip sometimes with a small sharp point.
 
 See the
 [main page on mangrove ferns](acrostichum)

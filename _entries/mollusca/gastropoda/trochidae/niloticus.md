@@ -109,7 +109,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Commercial top (
-
   *Trochus niloticus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86799)
@@ -117,7 +116,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - [Pyramid top (
-
   *Trochus niloticus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=184)
@@ -125,7 +123,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Commercial top (
-
   *Trochus niloticus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

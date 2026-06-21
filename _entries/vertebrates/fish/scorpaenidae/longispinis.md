@@ -70,7 +70,6 @@ galleries:
 links_references: '**Links**
 
   - [Long-spine scorpionfish (
-
   *Paracentropogon longispinis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/255)
@@ -88,7 +87,6 @@ links_references: '**Links**
   and
 
   [Wispy waspfish (
-
   *Paracentropogon longispinus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=12043)
@@ -169,9 +167,7 @@ a
 [stonefish](../synanceiidae/horrida)
 (Family Synanceiidae) or the
 [False scorpionfish](../centrogenyidae/vaigiensis)
-(
-*Centrogenys vaigiensis*
-), a grouper, which looks very similar. Here's more on
+(*Centrogenys vaigiensis*), a grouper, which looks very similar. Here's more on
 [how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

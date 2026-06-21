@@ -74,7 +74,6 @@ galleries:
 links_references: '**Links**
 
   - [Tuberculated Sally-light-foot (
-
   *Plagusia squamosa*
 
   )](http://142.103.81.136/summary/SpeciesSummary.php?genusname=Plagusia&speciesname=squamosa)
@@ -86,7 +85,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Depressed red rock crab (
-
   *Plagusia tuberculata*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1752)
@@ -135,9 +133,7 @@ habitats:
 ## Where seen?
 This bumpy crab that resembles the
 [Sally-light-foot crab](../grapsidae/albolineatus)
-(
-*Grapsus albolineatus*
-) is sometimes seen on rocky shores in the North and South. Previously placed in
+(*Grapsus albolineatus*) is sometimes seen on rocky shores in the North and South. Previously placed in
 [Family Grapsidae](../grapsidae/grapsidae)
 .
 
@@ -148,9 +144,7 @@ Body width 5-6cm. Body oval (not so circular), convex (not flat), covered with s
 **Sometimes mistaken for**
 the
 [Sally-light-foot crab](../grapsidae/albolineatus)
-(
-*Grapsus albolineatus*
-) which has a more circular flatter smoother body.
+(*Grapsus albolineatus*) which has a more circular flatter smoother body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

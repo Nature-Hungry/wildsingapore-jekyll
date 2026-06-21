@@ -43,7 +43,6 @@ galleries:
 links_references: '**Links**
 
   - [Wader tree oyster (
-
   *Isognomon isognomum*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84370&genusname=Isognomon&speciesname=isognomum)
@@ -51,7 +50,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Wader tree oyster (
-
   *Isognomon isgonomum*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

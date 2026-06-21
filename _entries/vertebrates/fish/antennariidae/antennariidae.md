@@ -42,7 +42,6 @@ galleries:
 links_references: '**Links**
 
   - [Spotted-tail frogfish (
-
   *Lophiocharon trisignatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231)
@@ -201,11 +200,8 @@ According to
 the father fish carries egg clusters attached to the side of his body, "either as brooding strategy or as aid in luring other fish for food". Motionless, his eggs will indeed look like a tasty snack on a stone. Any potential egg-snackers will of course be in danger of becoming a snack for papa frogfish!
 
 **Unusual frogfishes:**
-While most frogfishes are bottom-dwelling, one species (
-*Histrio*
-sp.) floats among sargassum seaweed. Another species, the Brackishwater frogfish (
-*Antennarius biocellatus*
-) inhabits brackish and even totally freshwater habitats.
+While most frogfishes are bottom-dwelling, one species (*Histrio*
+sp.) floats among sargassum seaweed. Another species, the Brackishwater frogfish (*Antennarius biocellatus*) inhabits brackish and even totally freshwater habitats.
 
 ---
 

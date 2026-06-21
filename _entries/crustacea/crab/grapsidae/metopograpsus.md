@@ -76,7 +76,6 @@ galleries:
 links_references: '**Links**
 
   - [Purple Climber Crabs (
-
   *Metopograpsus*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047)

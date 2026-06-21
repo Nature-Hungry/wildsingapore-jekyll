@@ -241,16 +241,13 @@ The anemone harbours symbiotic algae (called zooxanthellae) that produces food t
 
 Several kinds of animals are said to live happily among and unharmed by the tentacles of bubble tip anemones. These include
 [Peacock-tail aemone shrimps](/entries/crustacea/othercrust/shrimp/brevicarpalis)
-(
-*Periclimenes brevicarpalis*
-) these fishes:
+(*Periclimenes brevicarpalis*) these fishes:
 *Dascyllus trimaculatus*
 and
 *Premnas biaculeatus*
 and
 [anemonefishes](/entries/vertebrates/fish/pomacentridae/amphiprion)
-(
-*Amphiprion*
+(*Amphiprion*
 sp.) including
 *A. akindynos, A. biaculeatus, A. bicinctus, A. chrysopterus, A. clarkii, A. ephippium,
 [A. frenatus](/entries/vertebrates/fish/pomacentridae/frenatus)*

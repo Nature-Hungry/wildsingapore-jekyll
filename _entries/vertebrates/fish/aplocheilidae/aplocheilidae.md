@@ -33,7 +33,6 @@ galleries:
 links_references: '**Links**
 
   - [Whitespot/Tinhead (
-
   *Aplocheilus panchax*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/244)
@@ -45,7 +44,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Whitespot (
-
   *Aplocheilus panchax*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2104)
@@ -61,7 +59,6 @@ links_references: '**Links**
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
 
   - [Whitespot (
-
   *Aplocheilus panchax*
 
   )](http://www.ecologyasia.com/verts/fishes/whitespot)
@@ -73,7 +70,6 @@ links_references: '**Links**
   (Killifishes) and
 
   [Blue panchax (
-
   *Aplocheilus panchax*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=4756)
@@ -121,19 +117,13 @@ Rivulines belong to Family Aplocheilidae. According to
 **The native:**
 The
 **Whitespot toothcarp**
-(
-*Aplocheilus panchax*
-) resembles a guppy. It is native to Singapore and Southeast Asia. Up to 6cm long. A slender silvery fish with a shiny white spot at the top of its head. There is also a dark spot on its dorsal fin. According to Yeo and Lim, it is locally widespread in streams in open, usually coastal areas, and also in some inland reservoirs. Elsewhere it is found in lowland wetlands to estuaries and peats, also found in ponds and ditches, reservoirs and mangrove creeks. It prefers clear water in areas with dense growths of rooted or floating plants
+(*Aplocheilus panchax*) resembles a guppy. It is native to Singapore and Southeast Asia. Up to 6cm long. A slender silvery fish with a shiny white spot at the top of its head. There is also a dark spot on its dorsal fin. According to Yeo and Lim, it is locally widespread in streams in open, usually coastal areas, and also in some inland reservoirs. Elsewhere it is found in lowland wetlands to estuaries and peats, also found in ponds and ditches, reservoirs and mangrove creeks. It prefers clear water in areas with dense growths of rooted or floating plants
 .
 
 **The non-native:**
 According to Yeo and Lim, the
 **Striped panchax**
-(
-*Aplocheilus lineatus*
-) is non-native and found in freshwater in Bukit Batok Nature Park and Singapore Botanic Gardens, probably introduced by humans. These fishes are popular in home aquariums. Looks similar to the Whitespot toothcarp (
-*Aplocheilus panchax*
-) but has narrow black bars, irridescent yellow spots on the side of the body and filamentous extensions on the pelvic fins.
+(*Aplocheilus lineatus*) is non-native and found in freshwater in Bukit Batok Nature Park and Singapore Botanic Gardens, probably introduced by humans. These fishes are popular in home aquariums. Looks similar to the Whitespot toothcarp (*Aplocheilus panchax*) but has narrow black bars, irridescent yellow spots on the side of the body and filamentous extensions on the pelvic fins.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**
 According to FishBase, they feed mainly on insects and have been used for mosquito control.

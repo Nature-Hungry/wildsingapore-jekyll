@@ -45,7 +45,6 @@ galleries:
 links_references: '**Links**
 
   - [Blue-spotted Stingray (
-
   *Dasyatis kuhlii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/203)
@@ -57,7 +56,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Bluespotted stingray (
-
   *Neotrygon kuhlii*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=4508)
@@ -129,9 +127,7 @@ a
 [horseshoe crab](../../../arthropoda/limulidae/limulidae)
 and visa versa. In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. The
 [Blue-spotted fantail ray](lymma)
-(
-*Taeniura lymma*
-) has bright and prominent spots and is more commonly seen near reefs.
+(*Taeniura lymma*) has bright and prominent spots and is more commonly seen near reefs.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**

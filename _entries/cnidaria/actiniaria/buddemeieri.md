@@ -70,8 +70,7 @@ Diameter with tentacles expanded 1-2cm. Pale body column with pink spots in rows
 When exposed to air at low tide, it tucks its tentacles into its body column so it looks like a pink bead of jelly with tiny red spots.
 It looks quite different from other
 [bead anemones](beadbanded)
-(
-*Anthopleura*
+(*Anthopleura*
 sp.)
 
 **What does it eat?**

@@ -49,7 +49,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Kalak kambing (
-
   *Finlaysonia obovata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1061)

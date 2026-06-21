@@ -107,18 +107,15 @@ zone:
 ---
 
 ## Where seen?
-Disk corals (
-*Turbinaria*
-spp.) are among our most commonly encountered hard corals and seen on many of our Southern shores and even some Northern shores. Cave corals (
-*Tubastraea*
+Disk corals (*Turbinaria*
+spp.) are among our most commonly encountered hard corals and seen on many of our Southern shores and even some Northern shores. Cave corals (*Tubastraea*
 sp.) are small hard corals usually seen in dark places.
 
 Only
 *Turbinaria*
 is commonly considered reef-building.
 [Disk corals](turbinaria)
-(
-*Turbinaria*
+(*Turbinaria*
 spp.) are among the most commonly encountered of this family on Singapore's intertidal shores. They may be flat plates which may be folded into vase-shapes or lettuce-like forms. They may also be encrusting. Some can be large (20-50cm).
 
 *[Tubastrea](tubastrea)*

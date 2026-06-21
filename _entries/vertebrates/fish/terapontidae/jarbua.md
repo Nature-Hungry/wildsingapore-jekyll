@@ -57,7 +57,6 @@ galleries:
 links_references: '**Links**
 
   - [Crescent perch (
-
   *Terapon jarbua*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272)
@@ -69,7 +68,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Jarbua perch (
-
   *Terapon jarbua*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4458)
@@ -81,7 +79,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Cresent perch (
-
   *Terapon jarbua*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua)

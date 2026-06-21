@@ -160,14 +160,11 @@ Some tubes are thin and delicate and look more like roots of plants, others are 
 [keelworms](../polychaeta/serpulidae)
 build tubes made of calcium carbonate on hard surfaces. The
 [Giant reef worm](../polychaeta/giant)
-(
-*Eunice aphroditois*
-) builds a paper tube in crevices in coral rubble or even living coral.
+(*Eunice aphroditois*) builds a paper tube in crevices in coral rubble or even living coral.
 
 Some like the
 [Solitary tubeworm](../polychaeta/diopatra)
-(
-*Diopatra*
+(*Diopatra*
 sp.) may incorporate a leaf at the top of the tube. This may help to reduce water loss or transmit the vibrations of nearby predators or prey.
 
 Some tubeworms live close together in large numbers. The hundreds of tubes of the tiny
@@ -190,8 +187,7 @@ made by worms from those made by other animals.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Why live in a tube?**
 A tube provides some protection from the abrasive sand, as well as most predators. It is also a lair from which predatory worms can hide to catch passing prey. Tubes may go quite deep to where it remains moist and cool at low tide. Tubes that project some distance above the bottom may allow the worms to reach clean, oxygenated water above a muddy or sandy bottom. Building a tube on a hard surface also allows worms to live in places where they cannot burrow (see
-[keelworms](../polychaeta/serpulidae)
-).
+[keelworms](../polychaeta/serpulidae)).
 
 **Tubeworm babies:**
 Most tubeworms have separate genders. In some, eggs and sperm are released into the water simultaneously where they are fertilised. In others, eggs are retained or brooded within their tubes. Some eggs develop into free-swimming larvae that drift with the plankton before settling down and developing into new tubeworms.

@@ -73,7 +73,6 @@ galleries:
 links_references: '**Links**
 
   - [Painted scorpionfish (
-
   *Parascorpaena picta*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/254)
@@ -87,7 +86,6 @@ links_references: '**Links**
   Singapore Science Centre. 163 pp.
 
   - [Northern scorpionfish (
-
   *Parascorpaena picta*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8296)
@@ -152,9 +150,7 @@ a
 [stonefish](../synanceiidae/horrida)
 (Family Synanceiidae) or the
 [False scorpionfish](../centrogenyidae/vaigiensis)
-(
-*Centrogenys vaigiensis*
-), a grouper, which looks very similar. Here's more on
+(*Centrogenys vaigiensis*), a grouper, which looks very similar. Here's more on
 [how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

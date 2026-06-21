@@ -50,7 +50,6 @@ galleries:
 links_references: '**Links**
 
   - [Api-api jambu (
-
   *Avicennia marina*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1050)

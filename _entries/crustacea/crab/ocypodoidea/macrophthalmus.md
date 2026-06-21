@@ -63,7 +63,6 @@ galleries:
 links_references: '**Links**
 
   - [Sentinel crabs (
-
   *Macrophthalmus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055)
@@ -95,7 +94,6 @@ links_references: '**Links**
   and
 
   [Latreille''s sentinel crab (
-
   *Macrophthalmus latreillei*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1797)
@@ -160,8 +158,7 @@ This inconspicous little crab with eyes on super long stalks are sometimes seen 
 Body width 0.5-1cm. Body is flattened, squarish or somewhat rectangular. The eye stalks are long and in some species can even extend outside the sides of the body. This feature probably gave them their common name. Both pincers of equal size.
 **Sometimes confused with**
 [fiddler crabs](uca)
-(
-*Uca*
+(*Uca*
 spp.). Sentinel crabs do not have one enlarged pincer like the fiddler crabs. Sentinel crabs are also not colourful, usually drab brown with darker mottling. Here's more on
 [how to tell apart small crabs with long eye stalks](cflongeyedcrabs)
 .

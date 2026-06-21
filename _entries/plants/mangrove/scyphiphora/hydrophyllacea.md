@@ -43,7 +43,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Chengam (
-
   *Scyphiphora hydrophyllacea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1072)
@@ -116,8 +115,7 @@ Fruit tiny (0.5cm) oblong with 6-8 ridges, first green then white. The outer lay
 
 **Sometimes mistaken for**
 [Teruntum](../lumnitzera/lumnitzera)
-(
-*Lumnitzera*
+(*Lumnitzera*
 sp.), which has its leaves arranged in a spiral.
 ## Human uses
 

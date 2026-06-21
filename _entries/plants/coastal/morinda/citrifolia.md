@@ -96,9 +96,7 @@ Flowers small (1cm long) white, tubular emerging from an egg-shaped structure.
 Fruits egg-shaped (8-10cm), described by Burkill as "greyish transparent white, in appearance anything but appetizing, in flavour as of soap and sugar mixed, with a smell like decaying cheese". The ripe fruit rots readily and the smell has been described as a "terrible stench" that resembles vomit. The fruit contains many seeds.
 
 ## Role in habitat
-According to Giesen, it is often infested by Weaver ants (
-*Oecophylla smaragdina*
-) which build their nests out of the large leaves of the plant.
+According to Giesen, it is often infested by Weaver ants (*Oecophylla smaragdina*) which build their nests out of the large leaves of the plant.
 
 ## Human uses
 

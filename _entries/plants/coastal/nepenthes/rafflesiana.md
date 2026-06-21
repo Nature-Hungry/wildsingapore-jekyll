@@ -96,13 +96,9 @@ Fruits reddish capsules which split open explosively releasing thread-like seeds
 The pitchers are modified leaves, each with a tiny lid. Nectar is secreted by glands under the lid or at the lip of the pitcher, which are colourful too. These attract insects. The pitcher's lip is smooth and inner surface covered with loose scales of wax that clog up the feet of insects. Thus a small misstep causes the hapless insect to slide into the fluid in the pitcher, where it eventually drowns. The resulting nutrients in the fluid are absorbed by the plant.
 
 **Pit of Life:**
-Despite the treacherous nature of the pitcher, the Nepenthes Crab Spider (
-*Misumenops nepenthicola*
-) lays its eggs on the inside of the pitcher walls, and ambushes insect prey that approach the pitchers. According to Butterfly Circle, the tiny butterfly
+Despite the treacherous nature of the pitcher, the Nepenthes Crab Spider (*Misumenops nepenthicola*) lays its eggs on the inside of the pitcher walls, and ambushes insect prey that approach the pitchers. According to Butterfly Circle, the tiny butterfly
 [Pitcher Blue](http://butterflycircle.blogspot.sg/2010/03/life-history-of-pitcher-blue.html)
-(
-*Virachola kessuma deliochus*
-) lays its eggs on a maturing seedpod and the developing caterpillars bore into the pod and devour the developing seeds, moving onto another pod as it grows, finally pupating in yet another pod or even inside a pitcher.
+(*Virachola kessuma deliochus*) lays its eggs on a maturing seedpod and the developing caterpillars bore into the pod and devour the developing seeds, moving onto another pod as it grows, finally pupating in yet another pod or even inside a pitcher.
 
 ## Human uses
 

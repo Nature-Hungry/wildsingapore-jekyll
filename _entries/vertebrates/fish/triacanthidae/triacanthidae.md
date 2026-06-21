@@ -67,7 +67,6 @@ galleries:
 links_references: '**Links**
 
   - [Longtail Tripodfish (
-
   *Tripodichthys blochii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/391)
@@ -79,7 +78,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Tripodfish (
-
   *Triacanthus*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/238)
@@ -194,9 +192,7 @@ Tripodfish are adapted for sandy or muddy coastal areas. Here, they hunt for sma
 
 ## Human uses
 
-Tripodfish are generally not considered good eating. When caught by trawlers together with other more marketable fish, tripodfish are considered trash. They are wastefully thrown back, often dead. In some places, however, such 'trash' fish are converted into fish meal or fertiliser. One species, the Short-nosed tripodfish (
-*Triacanthus biaculeatus*
-) is said to be used in traditional Chinese medicine.
+Tripodfish are generally not considered good eating. When caught by trawlers together with other more marketable fish, tripodfish are considered trash. They are wastefully thrown back, often dead. In some places, however, such 'trash' fish are converted into fish meal or fertiliser. One species, the Short-nosed tripodfish (*Triacanthus biaculeatus*) is said to be used in traditional Chinese medicine.
 
 **Status and threats:**
 Our Tripodfishes are not listed among the threatened animals of Singapore. However, l

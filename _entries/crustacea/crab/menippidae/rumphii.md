@@ -65,7 +65,6 @@ links_references: '**Links**
   with photos.
 
   - [Maroon stone crab (
-
   *Menippe rumphii*
 
   )](http://www.sealifebase.org/summary/SpeciesSummary.php?id=83550)
@@ -115,20 +114,14 @@ This sturdy crab is seen in rocky and rubbly areas on our Northern shores. Elsew
 Body width to about 9cm. Large oval body, edge smooth with four blunt points or 'teeth'. Between the eyes are four tiny bumps arranged in a square. Reddish to pinkish brown and maroon in adults; young crabs maroon to reddish brown, with longitudinal white stripes. Large pincers smooth (no pimples) with black tips. One pincer slightly larger with a large molar-like tooth at the base of the finger. Walking legs not very hairy. Its eyes are all red without any green, unlike
 the very similar looking
 [Stone crab](hardwickii)
-(
-*Myomenippe hardwickii*
-).
+(*Myomenippe hardwickii*).
 
 **Sometimes mistaken for**
 the
 [Stone crab](hardwickii)
-(
-*Myomenippe hardwickii*
-) and
+(*Myomenippe hardwickii*) and
 [Red egg crab](../xanthidae/integerrimus)
-(
-*Atergatis integerrimus*
-).
+(*Atergatis integerrimus*).
 Here's more on how to tell apart
 [big crabs with big pincers](../../bigpincer)
 seen on our rocky shores and coral rubble.

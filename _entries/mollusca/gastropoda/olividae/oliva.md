@@ -39,7 +39,6 @@ galleries:
 links_references: '**Links**
 
   - [Common olive (
-
   *Oliva oliva*
 
   )](http://www.sealifebase.org/summary/Oliva-oliva.html)

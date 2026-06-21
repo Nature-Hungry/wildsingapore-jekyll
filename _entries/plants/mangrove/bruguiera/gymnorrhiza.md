@@ -43,7 +43,6 @@ galleries:
 links_references: '**Links**
 
   - [Tumu (
-
   *Bruguiera gymnorrhiza*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1054)

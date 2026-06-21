@@ -197,14 +197,12 @@ and
 Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals. The zooxanthellae are believed to give tentacles their brown or greenish tinge. Carpet anemones may also feed on fine particles that are trapped on their bodies. These anemones have not been observed to eat large animals.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Giant friends:**
-Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with giant carpet anemones. These include anemone shrimps (
-*Periclimenes*
+Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with giant carpet anemones. These include anemone shrimps (*Periclimenes*
 sp.), and fishes such as
 [Three-spot dascyllus](../../vertebrates/fish/pomacentridae/trimaculatus)
 and
 [anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
-(
-*Amphiprion*
+(*Amphiprion*
 sp.) including
 *A. akindynos, A. bicinctus, A. clarkii, A. ocellaris*
 ,

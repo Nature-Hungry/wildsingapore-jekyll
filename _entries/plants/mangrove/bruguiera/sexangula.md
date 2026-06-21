@@ -112,9 +112,7 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 
 **Sometimes mistaken for**
 [Tumu](gymnorrhiza)
-(
-*Bruguiera gymnorrhiza*
-) but differs in smaller, thinner leaves and the flower petal tips are blunt without hairy tassels.
+(*Bruguiera gymnorrhiza*) but differs in smaller, thinner leaves and the flower petal tips are blunt without hairy tassels.
 
 ## Human uses
 

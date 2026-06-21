@@ -114,9 +114,7 @@ A coarse climbing vine (5-15m long) to a prickly shrub. The compound leaf is bip
 
 **Sometimes mistaken for**
 [Maiden's jealousy](../tristellateia/australasiae)
-(
-*Tristellateia australasiae*
-) especially when in bloom.
+(*Tristellateia australasiae*) especially when in bloom.
 
 ## Human uses
 

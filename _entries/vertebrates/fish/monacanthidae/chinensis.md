@@ -80,7 +80,6 @@ galleries:
 links_references: '**Links**
 
   - [Fan-bellied Filefish (
-
   *Monacanthus chinensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/394)
@@ -102,7 +101,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Fan-bellied leatherjacket (
-
   *Monacanthus chinensis*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7976)

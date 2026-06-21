@@ -58,7 +58,6 @@ galleries:
 links_references: '**Links**
 
   - [Porcelain Crab (
-
   *Petrolisthes*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/184)

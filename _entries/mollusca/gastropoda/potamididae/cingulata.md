@@ -36,7 +36,6 @@ galleries:
 links_references: '**Links**
 
   - [Girdled horn snail (
-
   *Cerithidea cingulata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86861)
@@ -44,7 +43,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Girdled horn snail (
-
   *Cerithidea cingulata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

@@ -95,7 +95,6 @@ galleries:
 links_references: '**Links**
 
   - [Diamond Tuskfish (
-
   *Halichoeres dussumieri*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/349)
@@ -113,7 +112,6 @@ links_references: '**Links**
   on the IUCN Red List.
 
   - [Bubblefin wrasse (
-
   *Halichoeres nigrescens*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=58179)

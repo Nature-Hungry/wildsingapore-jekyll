@@ -45,7 +45,6 @@ galleries:
 links_references: '**Links**
 
   - [Estuarine Moray (
-
   *Gymnothorax tile*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210)
@@ -53,7 +52,6 @@ links_references: '**Links**
   and
 
   [Brown-spotted Moray (
-
   *Gymnothorax reevesii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211)

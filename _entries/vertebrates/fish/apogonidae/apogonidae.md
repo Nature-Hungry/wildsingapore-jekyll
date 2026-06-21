@@ -137,13 +137,9 @@ As a group they eat a wide variety from small fishes, crabs, prawns and other ti
 
 ## Human uses
 
-Some species of cardinalfish like the Five-lined Cardinalfish (
-*Cheilodipterus quinquelineatus*
-) and
+Some species of cardinalfish like the Five-lined Cardinalfish (*Cheilodipterus quinquelineatus*) and
 [Orbicular cardinalfish](orbicularis)
-(
-*Sphaemaria orbicularis*
-) are popular in the live aquarium trade. Some are being successfuly bred in captivity.
+(*Sphaemaria orbicularis*) are popular in the live aquarium trade. Some are being successfuly bred in captivity.
 
 ---
 

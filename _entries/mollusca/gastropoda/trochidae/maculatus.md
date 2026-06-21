@@ -96,7 +96,6 @@ links_references: '**Links**
   (Trochidae) Spotted top shell snail by Jamie Low Su Lin, 2011 on taxo4254.
 
   - [Maculated top (
-
   *Tectus maculatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86798)
@@ -104,7 +103,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Maculated top (
-
   *Trochus maculatus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

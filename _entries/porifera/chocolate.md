@@ -106,9 +106,7 @@ The small smooth holes of the sponge is usually inhabited by
 [tiny brittle stars](../echinodermata/ophiuroidea/tinysponge)
 . All you can see of them are their little arms. When submerged, a brittle star infested sponge appears furry.
 [Sponge barnacles](../crustacea/othercrust/ciriipedia/sponge)
-(
-*Membranobalanus longirostrum*
-) may also be found in this sponge. Possibly, the tiny spotted fans often seen on this sponge are the feeding 'feet' of these barnacles.Tiny
+(*Membranobalanus longirostrum*) may also be found in this sponge. Possibly, the tiny spotted fans often seen on this sponge are the feeding 'feet' of these barnacles.Tiny
 [spinoid worms](../worm/polychaeta/spionidae)
 may encrust the outer surface of the sponge, spacing themselves out regularly, at a distance equalling the length of their tentacles.
 

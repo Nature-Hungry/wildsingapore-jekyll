@@ -71,9 +71,7 @@ zone:
 ## Where seen?
 This tiny shrimp is often seen in
 [Haddon's carpet anemones](../../../cnidaria/actiniaria/haddoni)
-(
-*Stichodactyla haddoni*
-) on our Northern shores, including small anemones less than 10cm in diameter. One anemone may have 10 or more of these tiny shrimps! They are more active at night, when they move about on the surface of the sea anemone. They are rarely seen during the day.
+(*Stichodactyla haddoni*) on our Northern shores, including small anemones less than 10cm in diameter. One anemone may have 10 or more of these tiny shrimps! They are more active at night, when they move about on the surface of the sea anemone. They are rarely seen during the day.
 
 Studies of some specimens found at Chek Jawa, Pulau Semakau and the Singapore Straits identified them as
 *Periclimenes*

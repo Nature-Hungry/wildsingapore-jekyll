@@ -100,7 +100,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mud Crabs (
-
   *Scylla*
 
   sp)](http://mangrove.nus.edu.sg/guidebooks/text/2045)
@@ -108,7 +107,6 @@ links_references: '**Links**
   and
 
   [Flower Crab (
-
   *Portunus pelagicus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2045)
@@ -247,9 +245,7 @@ In Greek Mythology, Scylla is a female sea monster, who lives along a narrow cha
 
 Swimming crabs are edible and enjoyed by people everywhere. In our part of the world, from Asia to Australia., the
 [Flower crab](pelagicus)
-(
-*Portunus pelagicus*
-) is one of the commonly eaten members of this family.
+(*Portunus pelagicus*) is one of the commonly eaten members of this family.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---

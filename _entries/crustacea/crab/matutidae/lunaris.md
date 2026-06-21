@@ -75,7 +75,6 @@ galleries:
 links_references: '**Links**
 
   - [Moon Crab (
-
   *Matuta lunaris*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/205)
@@ -91,7 +90,6 @@ links_references: '**Links**
   in Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
   - [Yellow moon crab (
-
   *Ashtoret lunaris*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83543)

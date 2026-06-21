@@ -50,7 +50,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Teruntum merah (
-
   *Lumnitzera littorea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1065)
@@ -143,9 +142,7 @@ The small fruits are ribbed, corky and float, and dispersed by water. Each fruit
 
 **Sometimes mistaken for**
 [Chengam](../scyphiphora/hydrophyllacea)
-(
-*Scyphiphora hydrophyllacea*
-) which has its leaves arranged in a spiral.
+(*Scyphiphora hydrophyllacea*) which has its leaves arranged in a spiral.
 
 According to Giesen, although occurring throughout Malaysia and Indonesia,
 *L. littorea*

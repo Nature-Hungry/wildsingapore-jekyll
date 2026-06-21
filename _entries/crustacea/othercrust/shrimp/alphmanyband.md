@@ -106,13 +106,9 @@ This snapping shrimp with a long body and many bands is rarely seen. On coral ru
 
 These snapping shrimps are often seen with shrimp gobies such as the
 [Slender-lined shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus)
-(
-*Cryptocentrus leptocephalus*
-) and
+(*Cryptocentrus leptocephalus*) and
 [Saddled shrimp-goby](../../../vertebrates/fish/gobiidae/maudae)
-(
-*Cryptocentrus maudae*
-).
+(*Cryptocentrus maudae*).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.
 

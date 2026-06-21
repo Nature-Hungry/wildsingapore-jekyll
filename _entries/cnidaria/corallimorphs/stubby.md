@@ -97,9 +97,7 @@ A study found that Stubby corallimorphs
 **
 can also look like
 [Beaded corallimorphs](beaded)
-(
-*Discosoma nummiforme*
-).
+(*Discosoma nummiforme*).
 
 **Status and threats:**
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

@@ -97,8 +97,7 @@ The
 **Sponging clams:**
 Some Spongia species are inhabited by
 [Sponge finger oysters](../mollusca/bivalvia/pteriidae/vulsella)
-(
-*Vulsella*
+(*Vulsella*
 sp.), a kind of clam that lives only in sponges. These are completely and deeply embedded in the sponge, with only a slit on the surface of the sponge where the bivalve's shell opening is.
 
 Members of the Family Spongiidaes have a skeleton made up of tough, elastic fibres made of a protein called spongin. They lack the framework of spicules (tiny, hard, sharp spikes) throughout their body.
@@ -106,9 +105,7 @@ Members of the Family Spongiidaes have a skeleton made up of tough, elastic fibr
 **Sometimes confused with**
 the
 [Black prickly sponge](blackprickly)
-(
-*Echinodictyum conulosum*
-) which has a very prickly surface.
+(*Echinodictyum conulosum*) which has a very prickly surface.
 
 ## Human uses
 

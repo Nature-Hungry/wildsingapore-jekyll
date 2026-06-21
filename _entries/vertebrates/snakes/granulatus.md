@@ -140,16 +140,13 @@ To about 1m, but usually shorter. Body cylindrical, banded with black or brown b
 **Sometimes confused with**
 the highly venomous
 [Yellow-lipped sea snake](laticauda)
-(
-*Laticauda colubrina*
-). Here's
+(*Laticauda colubrina*). Here's
 [how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
 [how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)
 .
 
-Another file snake recorded for Singapore is the Elephant trunk water snake (
-*Acrochordus javanicus)*
+Another file snake recorded for Singapore is the Elephant trunk water snake (*Acrochordus javanicus)*
 . It is longer, grows to about 2.9m. It is not banded and is olive brown to grey brown with faintly marbled black pattern on the sides. The underside is lighter than the upperside. There is no prominent central fold on the underside. In slow-moving waters of estuaries and freshwater streams and canals.
 **What does it eat?**
 Mainly small fishes such as bottom dwelling

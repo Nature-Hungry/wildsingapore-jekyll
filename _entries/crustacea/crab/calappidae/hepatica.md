@@ -63,7 +63,6 @@ galleries:
 links_references: '**Links**
 
   - [Reef box crab (
-
   *Calappa hepatica*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21137&genusname=Calappa&speciesname=hepatica)

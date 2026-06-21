@@ -85,9 +85,7 @@ Flowers (5-7cm) white with a yellowish centre, appearing at the tips of the twig
 
 Fruits globular or mango-shaped (5-7cm) glossy hard. Green ripening pink, rosy purple and finally black. Each fruit contains one poisonous seed. The fruits float and are dispersed by water. When they wash up, often only the fibrous husk is left, around a hard stone.
 
-It is the caterpillar host-plant of the King Crow butterfly (
-*Euploea phaenareta castelnaui*
-).
+It is the caterpillar host-plant of the King Crow butterfly (*Euploea phaenareta castelnaui*).
 
 ## Human uses
 

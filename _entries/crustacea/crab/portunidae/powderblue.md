@@ -108,7 +108,6 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   - [Crenate swimming crab (
-
   *Thalamita crenata*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21361)
@@ -120,7 +119,6 @@ links_references: '**Links**
   : technical fact sheet.
 
   - [Mangrove swimming crab (
-
   *Thalamita crenata*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1142)

@@ -152,9 +152,7 @@ for Sea almond. Here's more on
 
 In Singapore, aquarists often put the leaves in their aquariums as they have an antibacterial effect due to the release of tannic and humic acid, which is believed to promote the fish health and provide a calming effect. According to Burkill, the timber is considered good as it is elastic, easy to work and seasons well. It is used interchangeably in some places as
 [Penaga Laut](../calophyllum/inophyllum)
-(
-*Callophyllum innophylum*
-) for building things that need to be tough and durable such as houses, boats and carts. Although the embryo is edible, tasting like almonds, it is not worth the effort to extract. Medicinal uses include the bark to treat dysentery, leaves applied to rheumatic joints, juice of young leaves for headache and colic. According to Wee, the leaves are used in the Philippines to expel intestinal worms.
+(*Callophyllum innophylum*) for building things that need to be tough and durable such as houses, boats and carts. Although the embryo is edible, tasting like almonds, it is not worth the effort to extract. Medicinal uses include the bark to treat dysentery, leaves applied to rheumatic joints, juice of young leaves for headache and colic. According to Wee, the leaves are used in the Philippines to expel intestinal worms.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg)*
 'Autumn colours' before the tree sheds its leaves.

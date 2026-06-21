@@ -147,9 +147,7 @@ and
 . The clam excavates the hard coral to create a cavity for itself and attaching to the coral by byssus threads. The clam is usually completely surrounded by living tissue.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Coral-clam cooperation:**
-The coral provides the clam a safe place with support and protection. The clam may improve water circulation for the coral which helps the coral feed. A study showed that the clam helped reduce the impact of predatory Crown-of-Thorns sea stars (
-*Acanthaster planci*
-) by repeatedly spitting out jets of water. On the other hand, the clam may weaken the coral as it excavates a cavity within the coral structure.
+The coral provides the clam a safe place with support and protection. The clam may improve water circulation for the coral which helps the coral feed. A study showed that the clam helped reduce the impact of predatory Crown-of-Thorns sea stars (*Acanthaster planci*) by repeatedly spitting out jets of water. On the other hand, the clam may weaken the coral as it excavates a cavity within the coral structure.
 
 This page includes all the little clams found in hard corals, for convenience of display. It is possible that they are different species and may even not be scallops but belong to other families.
 

@@ -86,9 +86,7 @@ Different species of porcelain crabs probably match this description. Species ar
 
 The
 [Painted porcelain crab](picta)
-(
-*Porcellanella triloba*
-) that lives in sea pens has a separate fact sheet.
+(*Porcellanella triloba*) that lives in sea pens has a separate fact sheet.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

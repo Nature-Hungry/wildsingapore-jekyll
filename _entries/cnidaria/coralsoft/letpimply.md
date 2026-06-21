@@ -131,8 +131,7 @@ The colony has both feeding polyps (autozooids) and water pumping polyps (siphon
 
 **Sometimes confused with**
 [Smooth leathery soft coral](letsmooth)
-(
-*Sinularia*
+(*Sinularia*
 sp.) which does not have siphonozooids and thus has a smooth common tissue.
 
 **Status and threats:**

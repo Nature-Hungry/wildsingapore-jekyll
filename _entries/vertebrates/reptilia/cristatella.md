@@ -97,9 +97,7 @@ Mama lizard lays 1-4 large, spindle-shaped eggs which are buried in the soil.
 **Status and threats:**
 It is not listed among our threatened animals. But it is no longer as commonly seen as in the past. It has been displaced by the more aggressive
 [Changeable lizard](versicolor)
-(
-*Calotes versicolor*
-).
+(*Calotes versicolor*).
 
 ---
 

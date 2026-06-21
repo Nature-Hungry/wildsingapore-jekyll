@@ -88,7 +88,6 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   - [Ridged swimming crab (
-
   *Charybdis natator*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=83562)

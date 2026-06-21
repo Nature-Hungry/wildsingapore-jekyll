@@ -64,15 +64,11 @@ A thin layer encrusting coral rubble 10-20cm. Generally a smooth layer but also 
 
 **May be confused with**
 [Blue icing sponge](smoothblue)
-(
-*Lendenfeldia*
+(*Lendenfeldia*
 cf.
-*chondrodes*
-) which may also be green, but is very smooth and doesn't have tiny bumps on the surface. Also similar to the
+*chondrodes*) which may also be green, but is very smooth and doesn't have tiny bumps on the surface. Also similar to the
 [Smooth brown sponges](smoothbrown)
-(
-*Neopetrosia exigua*
-) which are brown.
+(*Neopetrosia exigua*) which are brown.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 **Species are difficult to positively identify without close examination.

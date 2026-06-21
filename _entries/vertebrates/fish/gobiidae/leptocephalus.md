@@ -89,7 +89,6 @@ galleries:
 links_references: '**Links**
 
   - [Pink-speckled shrimpgoby (
-
   *Cryptocentrus leptocephalus)*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=25799)

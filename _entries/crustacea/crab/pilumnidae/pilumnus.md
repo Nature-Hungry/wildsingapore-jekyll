@@ -122,7 +122,6 @@ galleries:
 links_references: '**Links**
 
   - [Hairy Crab (
-
   *Pilumnus vespertilio*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/211)
@@ -234,9 +233,7 @@ These little crabs are not the same as the large 'Hairy crabs' that are served i
 
 Body width 3-5cm. As its name suggests, its body and limbs are covered with long, silky hairs. These trap sediments allowing the crab to blend perfectly with its surroundings. In the water, its hairs 'fluff up' breaking up its body outline. It also moves slowly and thus overlooked as some bit of drifting rubbish. It has large claws, with black or light brown tips. It has reddish eyes.
 
-The Common hairy crab (
-*Pilumnus vespertilio*
-) is the most commonly encountered hairy crab on our shores and reefs. It has long, soft hairs and has been described as having the appearance of a mop. The various species of hairy crabs are very difficult to distinguish in the field.
+The Common hairy crab (*Pilumnus vespertilio*) is the most commonly encountered hairy crab on our shores and reefs. It has long, soft hairs and has been described as having the appearance of a mop. The various species of hairy crabs are very difficult to distinguish in the field.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 The Common hairy crab eats mainly seaweed. It may also eat toxic

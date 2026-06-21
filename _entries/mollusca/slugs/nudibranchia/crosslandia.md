@@ -78,8 +78,7 @@ zone:
 ## Where seen?
 This extremely well camouflaged nudibranch was seen among
 [Sargassum seaweeds](../../../plants/seaweed/phaeophyta/sargassum)
-(
-*Sargassum*
+(*Sargassum*
 sp.) at St. John's Island.
 
 ## Features

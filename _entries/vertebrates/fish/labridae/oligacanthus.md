@@ -35,7 +35,6 @@ galleries:
 links_references: '**Links**
 
   - [White-patch tuskfish (
-
   *Choerodon oligacanthus*
 
   )](http://www.fishbase.org/summary/8406)
@@ -43,7 +42,6 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
   - [White-patch tuskfish (
-
   *Choerodon oligacanthus*
 
   )](http://www.iucnredlist.org/details/187568/0)

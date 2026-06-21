@@ -59,7 +59,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mangrove mudhopper (
-
   *Microrchestria*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2036)
@@ -119,8 +118,7 @@ zone:
 ## Where seen?
 The most commonly encountered are tiny ones in large numbers among seaweeds, especially when there is a bloom of
 [Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis)
-(
-*Bryopsis*
+(*Bryopsis*
 sp.).
 
 **What are amphipods?**
@@ -128,14 +126,11 @@ They are
 [crustaceans](/wildfacts/guides/crustacea/crustacea)
 that resemble shrimps. While shrimps belong to the Class
 [Decapoda](/wildfacts/guides/crustacea/decapoda)
-, beachfleas and other amphipods belong to the Order Amphipoda. Among the most numerous and most diverse of bottom-dwelling crustaceans, they are sometimes also called amphipods, sand hoppers or sandfleas. While most beachfleas are tiny, one monstrous beachflea (
-*Alicella gigantea*
-) grows to 25cm! Fortunately, we are unlikely to encounter it as it lives at the bottom of the deep sea.
+, beachfleas and other amphipods belong to the Order Amphipoda. Among the most numerous and most diverse of bottom-dwelling crustaceans, they are sometimes also called amphipods, sand hoppers or sandfleas. While most beachfleas are tiny, one monstrous beachflea (*Alicella gigantea*) grows to 25cm! Fortunately, we are unlikely to encounter it as it lives at the bottom of the deep sea.
 ## Features
 
 0.5cm or less. Their bodies are flattened sideways (instead of downwards as in
-[isopods](../isopoda/beachisopod)
-). Their eyes are NOT on stalks. They have seven pairs of limbs, the first two pairs may have claws and are used for feeding and in mating. The remainder are walking legs. Amphipoda means 'different feet' while Isopoda meaning 'same feet'. Many can hop long distances by flexing their long abdomens.
+[isopods](../isopoda/beachisopod)). Their eyes are NOT on stalks. They have seven pairs of limbs, the first two pairs may have claws and are used for feeding and in mating. The remainder are walking legs. Amphipoda means 'different feet' while Isopoda meaning 'same feet'. Many can hop long distances by flexing their long abdomens.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Skeleton shrimps are tiny amphipods that belong to Family Caprellidae. They have a long skinny translucent body with many limbs. The last 3 pairs of limbs grip stuff while the body extends outwards. Near the head, a pair of humungous pincers are used to snatch tiny tidbits and prey. They also have other pairs of limbs near the front used to grab on to stuff, so they can move like an inch-worm.
 

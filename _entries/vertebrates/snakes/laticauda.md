@@ -173,9 +173,7 @@ Wear covered shoes and long pants to cover all skin exposed to water. Don't hara
 **Sometimes confused**
 with the harmless
 [Banded file snake](granulatus)
-(
-*Acrochordus granulatus*
-). Here's
+(*Acrochordus granulatus*). Here's
 [how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
 [how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)

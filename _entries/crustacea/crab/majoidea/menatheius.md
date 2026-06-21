@@ -60,9 +60,7 @@ This tiny crab is sometimes seen on some of our shores, among seagrasses and sea
 
 Body width 0.5-1cm. Body rather flat and quite triangular with a sharp pointed tip between the eyes. Walking legs and pincers long. May be brown or green. Slow moving.
 
-According to the Singapore Red Data Book, the One-horned spider crab (
-*Menaethius monoceros*
-) is found among seaweeds such as Sargassum, and among seagrasses on rocky or sandy/muddy shores. It also covers itself with debris to blend into the surroundings.
+According to the Singapore Red Data Book, the One-horned spider crab (*Menaethius monoceros*) is found among seaweeds such as Sargassum, and among seagrasses on rocky or sandy/muddy shores. It also covers itself with debris to blend into the surroundings.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 **Species are difficult to positively identify without close examination.

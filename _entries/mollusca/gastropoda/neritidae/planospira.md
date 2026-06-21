@@ -29,7 +29,6 @@ galleries:
 links_references: '**Links**
 
   - [Flatspired nerite (
-
   *Nerita planospira*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86838)
@@ -37,7 +36,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Flatspired nerite (
-
   *Nerita planospira*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
@@ -98,8 +96,7 @@ appears to be located in the mangroves of Pulau Ubin.
 
 ## Features
 
-About 2cm. Shell thick heavy, hemispherical with a sunken spire. Rough thick cords on the shell, the earlier whorls of the shell is flattened thus giving its common name (
-*Planus*
+About 2cm. Shell thick heavy, hemispherical with a sunken spire. Rough thick cords on the shell, the earlier whorls of the shell is flattened thus giving its common name (*Planus*
 means 'flat',
 *spira*
 refer to 'spiral'). It has a thin, brown 'skin' (periostracum) which covers a pink shell with dark bands and patches.

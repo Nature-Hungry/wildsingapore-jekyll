@@ -80,7 +80,6 @@ galleries:
 links_references: '**Links**
 
   - [Mottled Sally-light-foot (
-
   *Grapsus albolineatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21498)
@@ -157,9 +156,7 @@ Body width 5-6cm. Body circular, flat, dark with a pattern of light spots in ban
 **Sometimes mistaken with**
 the
 [Scaly rock crab](../plagusiidae/plagusia)
-(
-*Plagusia squamosa*
-) which has a more squarish less flat more bumpy body.
+(*Plagusia squamosa*) which has a more squarish less flat more bumpy body.
 
 **What does it eat?**
 It is a scavenger and also eats seaweeds. It has relatively small pincers that work like scissors to snip and scrape off edible titbits.

@@ -69,9 +69,7 @@ Small, covering an area of 10-15cm. Surface texture prickly, the prickles formin
 
 Are these young
 [Silvery blue sponges](spatula)
-(
-*Lamellodysidea herbacea*
-) that have yet to develop protruding portions?
+(*Lamellodysidea herbacea*) that have yet to develop protruding portions?
 
 ![](https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/070317sntg8092m3.jpg)
 

@@ -87,7 +87,6 @@ galleries:
 links_references: '**Links**
 
   - [Stone Crab (
-
   *Myomenippe hardwicki*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/214)
@@ -99,7 +98,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Stone Crab (
-
   *Myomenippe hardwicki*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2041)
@@ -115,7 +113,6 @@ links_references: '**Links**
   (Decapoda: Menippidae) Thunder crab by Suhailah Binte Isnin, 2015, on taxo4254.
 
   - [Stone Crab (
-
   *Myomenippe hardwicki*
 
   )](http://ranong.myspecies.info/category/clade/flora-and-fauna/crustacea/decapoda/brachyura/menippidae/myomenippe-hardwickii)
@@ -123,7 +120,6 @@ links_references: '**Links**
   on Marine Flora and Fauna of Ranong, Thailand
 
   - [Stone Crab (
-
   *Myomenippe hardwicki*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1453&tab=synoniemen)
@@ -214,13 +210,9 @@ The stone crab eats snails and clams, crushing their shells with its powerful pi
 **Sometimes mistaken for**
 the
 [Red egg crab](../xanthidae/integerrimus)
-(
-*Atergatis integerrimus*
-) and
+(*Atergatis integerrimus*) and
 [Maroon stone crab](rumphii)
-(
-*Menippe rumphii*
-).
+(*Menippe rumphii*).
 Here's more on how to tell apart
 [big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.

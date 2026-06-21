@@ -35,7 +35,6 @@ galleries:
 links_references: '**Links**
 
   - [Jeruju (
-
   *Acanthus volubilis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1047)
@@ -43,7 +42,6 @@ links_references: '**Links**
   ,
 
   [Jeruju hitam (
-
   *Acanthus ebracteatus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1045)
@@ -51,7 +49,6 @@ links_references: '**Links**
   and
 
   [Jeruju putih (
-
   *Acanthus ilicifolius*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1046)
@@ -166,21 +163,15 @@ Fruit is a capsule (2-3cm) each with 4 flat, whitish seeds. The ripe capsule exp
 
 According to Tomlinson, "they do not seem to differ in any consistent vegetative feature" and "there is a tendency to treat the mangrove species as one single variable species". Giesen also says that some authors regard the three species below as one highly variable species. But these species are usually differentiated in Singapore guidebooks.
 
-**Jeruju putih (
-*Acanthus ilicifolius*
-)**
+**Jeruju putih (*Acanthus ilicifolius*)**
 
 Open flower 3.5-4cm long, petals light blue or violet (rarely white). Inflorescence usually longer than 10cm. Ripe fruit 2.5-3cm or longer. Low sprawling shrub, not much branching, sometimes like a vine to 2m tall.
 
-**Jeruju hitam (
-*Acanthus ebracteatus*
-)**
+**Jeruju hitam (*Acanthus ebracteatus*)**
 
 Open flower 2-2.5cm long, petals white. Inflorescence variable. Ripe fruit shorter than 2cm. Leaves usually widest below the middle. Usually with thick stems.
 
-**Jeruju (
-*Acanthus volubilis*
-)**
+**Jeruju (*Acanthus volubilis*)**
 
 Open flower 2-2.5cm long, petals white. Inflorescence variable usually shorter and with fewer flowers. Ripe fruit shorter than 2cm, but fruits are rare. Leaves usually wide above the middle. Usually with slender, sprawling stems without spines. It is more of a climber than the other species and in undisturbed forests may be seen even in the canopies.
 

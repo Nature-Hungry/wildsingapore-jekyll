@@ -113,9 +113,7 @@ The fruits (4-7cm long) are flat smooth pods (not prickly) with a beak which con
 
 **Sometimes mistaken for**
 [Maiden's jealousy](../tristellateia/australasiae)
-(
-*Tristellateia australasiae*
-) especially when in bloom.
+(*Tristellateia australasiae*) especially when in bloom.
 
 ## Human uses
 

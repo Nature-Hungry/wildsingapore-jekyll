@@ -64,7 +64,6 @@ galleries:
 links_references: '**Links**
 
   - [Bakau putih (
-
   *Bruguiera cylindrica*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1053)
@@ -72,7 +71,6 @@ links_references: '**Links**
   ,
 
   [Tumu (
-
   *Bruguiera gymnorrhiza*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1054)
@@ -80,7 +78,6 @@ links_references: '**Links**
   ,
 
   [Lenggadai (
-
   *Bruguiera parviflora*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1055)
@@ -154,9 +151,7 @@ habitats:
 ## Where seen?
 While
 [Bakau putih](cylindrica)
-(
-*Bruguiera cylindrica*
-) is one of the most commonly seen trees in our mangroves, others are less common, and some are quite rare.
+(*Bruguiera cylindrica*) is one of the most commonly seen trees in our mangroves, others are less common, and some are quite rare.
 
 ## Features
 
@@ -170,17 +165,11 @@ The timber and other parts of these trees have many traditional applications. Se
 
 **Status and threats:**
 [Lenggadai](parviflora)
-(
-*Bruguiera parviflora*
-) is listed as 'Endangered' and
+(*Bruguiera parviflora*) is listed as 'Endangered' and
 [Bakau mata buaya](hainesii)
-(
-*Bruguiera hainesii*
-) and
+(*Bruguiera hainesii*) and
 [Tumu berau](sexangula)
-(
-*Bruguiera sexangula*
-) are both listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
+(*Bruguiera sexangula*) are both listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090809sjid8843m6l.jpg)
 

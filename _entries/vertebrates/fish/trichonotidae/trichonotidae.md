@@ -109,9 +109,7 @@ These long, beautifully patterned fishes are sometimes seen in sandy areas near 
 **What are sand-divers?**
 Sand-divers belong to Family Trichonotidae. According to
 [FishBase](http://www.fishbase.se/Summary/FamilySummary.cfm?ID=372)
-: the family has one genera (
-*Trichonotus*
-) with 6 species.
+: the family has one genera (*Trichonotus*) with 6 species.
 
 ## Features
 

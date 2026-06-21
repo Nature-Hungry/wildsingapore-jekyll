@@ -66,7 +66,6 @@ galleries:
 links_references: '**Links**
 
   - [True heart cockle (
-
   *Corculum cardissa*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84534)
@@ -74,7 +73,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - True heart cockle (
-
   *Corculum cardissa*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

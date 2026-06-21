@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Bumblebee goby (
-
   *Brachygobius kabillensis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
@@ -49,7 +48,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Kabili bumblebee goby (
-
   *Brachygobius kabiliensis*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=25067)
@@ -95,9 +93,7 @@ habitats:
 ---
 
 ## Where seen?
-This tiny banded goby is commonly seen in our mangroves, in pools at low tide. This goby is different from the Bumblebee goby (
-*Brachygobius doriae*
-) in the aquarium trade. Elsewhere, it is found in fresh and brackish water including in mangroves.
+This tiny banded goby is commonly seen in our mangroves, in pools at low tide. This goby is different from the Bumblebee goby (*Brachygobius doriae*) in the aquarium trade. Elsewhere, it is found in fresh and brackish water including in mangroves.
 
 ## Features
 

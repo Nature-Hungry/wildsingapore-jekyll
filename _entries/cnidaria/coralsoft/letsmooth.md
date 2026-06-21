@@ -130,8 +130,7 @@ The surface of the common leathery tissue is usually smooth as there are only au
 
 **Sometimes confused with**
 [Pimply leathery soft coral](letpimply)
-(
-*Lobophytum*
+(*Lobophytum*
 sp.) which have siphonozooids and thus has a pimply common tissue.
 
 **Status and threats:**

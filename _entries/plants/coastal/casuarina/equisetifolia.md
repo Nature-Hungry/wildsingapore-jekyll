@@ -116,8 +116,7 @@ At first sight mistaken for a conifer (a non-flowering plant), this tree is actu
 The most common species is
 *Casuarina equisetifolia*
 (which some say should be called
-*C. littorea*
-) which has narrow, unbranched needle twigs, while the other species have branched or thicker twigs.
+*C. littorea*) which has narrow, unbranched needle twigs, while the other species have branched or thicker twigs.
 
 ## Features
 

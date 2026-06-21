@@ -164,9 +164,7 @@ Feather-duster or 'Christmas tree fanworms' more familiar to divers belong to
 .
 ## Human uses
 
-Unfortunately, fanworms are popular in the live aquarium trade and collected for this purpose. A fanworm (
-*Sabella spallanzanii*
-) introduced to Australian harbours and coasts is affecting some mussel farms because they grow on the lines meant for mussel larvae settlement. Dense growths of these worms foul up dredges and nets, overgrow seagrass and are such effective filter feeders that they deprive native filter feeders of food.
+Unfortunately, fanworms are popular in the live aquarium trade and collected for this purpose. A fanworm (*Sabella spallanzanii*) introduced to Australian harbours and coasts is affecting some mussel farms because they grow on the lines meant for mussel larvae settlement. Dense growths of these worms foul up dredges and nets, overgrow seagrass and are such effective filter feeders that they deprive native filter feeders of food.
 
 **Status and threats:**
 Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive. Those that do survive are unlikely to breed.

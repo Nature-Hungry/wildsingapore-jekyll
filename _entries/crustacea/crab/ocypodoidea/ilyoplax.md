@@ -44,7 +44,6 @@ galleries:
 links_references: '**Links**
 
   - [Semaphore crabs (
-
   *Ilyoplax*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054)

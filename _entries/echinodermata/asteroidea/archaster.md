@@ -208,8 +208,7 @@ habitats:
 
 ## Where seen?
 Despite its name, this elegant sea star is no longer common on all our shores. In the North, Chek Jawa used to be the only place where it was seen in large numbers. But following massive flooding in Johor in early 2007, there were mass deaths among these animals (more about the mass deaths on the
-[Chek Jawa project blog](http://cjproject.blogspot.com/)
-). It is not no longer found on Changi or the East Coast. But it remains the most commonly encountered sea star on Southern shores. Generally in shallow sandy or silty areas near seagrasses and mangroves.
+[Chek Jawa project blog](http://cjproject.blogspot.com/)). It is not no longer found on Changi or the East Coast. But it remains the most commonly encountered sea star on Southern shores. Generally in shallow sandy or silty areas near seagrasses and mangroves.
 
 ## Features
 
@@ -236,9 +235,7 @@ This behaviour is believed to increase the chances of external fertilisation. So
 Juveniles are found in prop roots of mangroves and gradually inhabits sandy shores, seagrass areas and shoals as they age, where they are burried slightly in the sand.
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Living on a star:**
-A tiny parastic snail (
-*Parvioris fulvescens*
-) is said to be sometimes found on the underside of the common sea star. Here's some of the parasitic
+A tiny parastic snail (*Parvioris fulvescens*) is said to be sometimes found on the underside of the common sea star. Here's some of the parasitic
 [Ulimid snails](../../mollusca/gastropoda/eulimidae/eulimidae)
 (Family Eulimidae) seen on our Common sea stars.
 

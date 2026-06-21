@@ -52,9 +52,7 @@ habitats:
 ## Where seen?
 Tiny swimming crabs are commonly seen on our Northern shores, especially in areas with seaweeds and seagrasses. They particularly active at night. They are probably juvenile
 [Flower crabs](pelagicus)
-(
-*Portunus pelagicus*
-).
+(*Portunus pelagicus*).
 
 ## Features
 

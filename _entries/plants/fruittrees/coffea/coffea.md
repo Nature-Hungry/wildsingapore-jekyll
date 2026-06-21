@@ -79,9 +79,7 @@ A tall bush (to about 5m). Leaves large. Flowers small, white or green, and frag
 **Civet-processed coffee:**
 'Kopi Luwak' is a type of expensive gourmet coffee, possibly the most expensive. It is made from coffee beans that have been 'processed' by a
 [Common palm civet](../../../vertebrates/mammals/hermaphroditus)
-(
-*Paradoxurus hermaphroditus*
-). Yes, the civet cat eats the coffee beans, which passes out and are collected to be made into coffee for humans to drink!
+(*Paradoxurus hermaphroditus*). Yes, the civet cat eats the coffee beans, which passes out and are collected to be made into coffee for humans to drink!
 
 ## Human uses
 

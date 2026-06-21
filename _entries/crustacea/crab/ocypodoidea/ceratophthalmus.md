@@ -154,9 +154,7 @@ Ghost crabs are well adapted for life out of water and are among the few marine 
 **Similar to**
 the
 [Smooth-eyed ghost crab](cordimanus)
-(
-*Ocypode cordimanus*
-) which is rarely encountered.
+(*Ocypode cordimanus*) which is rarely encountered.
 
 **Speedy Ghosts:**
 Ghost crabs can really run fast! As suggested by their scientific name ("Ocy" means swift and "podi" foot in Greek). They literally fly over the sand and their movement has been described as a small leaf blowing over the sand surface. In fact, they may be among the fastest land creatures, moving at 100 bodylengths per second. In comparison, the cockroach does 50 bodylengths while the cheetah does a sluggish 10 bodylengths. Ghost crabs are only beaten by tiger beetles which do 171 body lengths when they are really scared. Being fast moving creatures, Ghost crabs have excellent eyesight to see where they are going.

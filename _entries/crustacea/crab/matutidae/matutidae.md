@@ -57,7 +57,6 @@ galleries:
 links_references: '**Links**
 
   - [Moon Crab (
-
   *Matuta lunaris*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/205)

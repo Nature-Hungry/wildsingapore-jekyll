@@ -41,7 +41,6 @@ galleries:
 links_references: '**Links**
 
   - [Green Mussel (
-
   *Perna viridis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/158)
@@ -53,7 +52,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Nest mussel (
-
   *Musculista senhausii*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2091)
@@ -61,7 +59,6 @@ links_references: '**Links**
   and
 
   [Black mussel (
-
   *Xenostrobus*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092)
@@ -146,8 +143,7 @@ do, mussels attach themselves with byssus threads.
 
 Sea mussels are often found in colonies of a large number of individuals.
 [Nest mussels](musculista)
-are tiny mussels about 1cm long that live in colonies of thousands. They weave a nest out of byssus threads and mud. Date mussels (
-*Lithophaga*
+are tiny mussels about 1cm long that live in colonies of thousands. They weave a nest out of byssus threads and mud. Date mussels (*Lithophaga*
 sp.) create a safe hiding place for themselves by drilling into dead coral and even concrete by rotating their shells and secreting an acid.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
@@ -157,9 +153,7 @@ Like most other bivalves, sea mussels are filter feeders. At high tide, they ope
 
 Sea mussels are among the favourite seafood of people everywhere. The
 [Green mussel](viridis)
-(
-*Perna viridis*
-) is farmed in many parts of Southeast Asia. In colder seas, they are among key food sources. Like other filter-feeding clams, however, sea mussels may be affected by
+(*Perna viridis*) is farmed in many parts of Southeast Asia. In colder seas, they are among key food sources. Like other filter-feeding clams, however, sea mussels may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 

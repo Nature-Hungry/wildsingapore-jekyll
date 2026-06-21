@@ -116,8 +116,7 @@ This strange sponge is sometimes seen on many of our shores, growing on and amon
 
 15-20cm in diameter. There is usually one or two large hollow cones (to 2cm in diameter), encircled by upright long 'fingers' (up to 15cm tall). These fingers are generally unbranched with flattened or rounded tips, and they don't have any large holes. With some imagination, it does resemble a daisy, doesn't it? There may be creeping buried 'rhizomes' extending along the ground from the sponge with fingers sticking up from these horizontal stems. Colours include bright yellow, brownish, maroon, greenish and black.
 
-Another sponge species of a different family (
-*Oceanapia*
+Another sponge species of a different family (*Oceanapia*
 sp., Family Phloeodictyidae) can look very similar and the two kinds of sponges are difficult to tell apart in the field.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/080621labd6086m3e.jpg)

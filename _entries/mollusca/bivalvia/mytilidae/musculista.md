@@ -49,7 +49,6 @@ galleries:
 links_references: '**Links**
 
   - [Nest mussel (
-
   *Musculista senhausii*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2091)
@@ -61,7 +60,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Green mussel (
-
   *Musculista senhousia*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=47699)
@@ -69,7 +67,6 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
   - Senhouse horse mussel (
-
   *Musculista senhousia*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
@@ -128,9 +125,7 @@ which are also small, but black and while they may also produce a kind of 'nest'
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Friends and enemies:**
 Sometimes, small
 [Green mussels](viridis)
-(
-*Perna viridis*
-) are seen growing among the tinier nest mussels. Animals seen on the mussels include
+(*Perna viridis*) are seen growing among the tinier nest mussels. Animals seen on the mussels include
 [Drills](../../gastropoda/muricidae/muricidae)
 ,
 [Sand stars](../../../echinodermata/asteroidea/astropecten)

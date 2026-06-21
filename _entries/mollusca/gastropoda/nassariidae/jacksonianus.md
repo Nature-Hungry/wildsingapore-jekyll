@@ -44,7 +44,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Mud whelk (
-
   *Nassarius jacksonianus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2087)

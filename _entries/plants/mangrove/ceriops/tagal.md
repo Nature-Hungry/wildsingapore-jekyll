@@ -44,7 +44,6 @@ galleries:
 links_references: '**Links**
 
   - [Tengar (
-
   *Ceriops tagal*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3801)

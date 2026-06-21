@@ -111,9 +111,7 @@ Sap-sucking slugs belong to
 [Phylum Mollusca](../../mollusca)
 and
 [Class Gastropoda](../../gastropoda)
-like other snails. Like many other sea slugs (
-[Subclass Opistobranchia](../../slug)
-), sap-sucking slugs lack external shells as adults. Sacoglossans are also called sap-sucking slugs because this is what they do (see below).
+like other snails. Like many other sea slugs ([Subclass Opistobranchia](../../slug)), sap-sucking slugs lack external shells as adults. Sacoglossans are also called sap-sucking slugs because this is what they do (see below).
 
 ## Features
 

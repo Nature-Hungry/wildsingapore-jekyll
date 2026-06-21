@@ -122,12 +122,10 @@ is greyish green with many scattered small black spots. Also, many tiny orange o
 **What do they eat?**
 They have been seen on
 [Bee hoon green seaweed](../../../plants/seaweed/chlorophyta/chaetomorpha)
-(
-*Chaetomorpha*
+(*Chaetomorpha*
 sp.), and are sometimes abundant on
 [Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis)
-(
-*Bryopsis*
+(*Bryopsis*
 sp.).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

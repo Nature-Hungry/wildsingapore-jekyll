@@ -55,7 +55,6 @@ links_references: '**Links**
   - [Sleepy goby](http://www.fishbase.org/summary/speciessummary.php?id=9946)
 
   [(
-
   *Psammogobius biocellatus*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)

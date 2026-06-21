@@ -52,7 +52,6 @@ galleries:
 links_references: '**Links**
 
   - [Mangrove Whipray (
-
   *Himantura walga*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/205)
@@ -64,7 +63,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Dwarf whipray (
-
   *Himantura walga*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=15484)

@@ -53,7 +53,6 @@ galleries:
 links_references: '**Links**
 
   - [Common Rock Crab (
-
   *Leptodius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/208)
@@ -129,9 +128,7 @@ Body width 8-10cm. Body oval, rather flat, with 4-5 blunt teeth on the edges of 
 
 **Sometimes confused with**
 [Smooth spooner crab](laevimanus)
-(
-*Etisus laevimanus*
-) which have pincers that are longer, more slender and smooth (without bumps).
+(*Etisus laevimanus*) which have pincers that are longer, more slender and smooth (without bumps).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

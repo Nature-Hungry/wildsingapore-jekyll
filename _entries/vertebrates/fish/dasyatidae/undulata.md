@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Leopard whipray (
-
   *Himantura undulata*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=12584)
@@ -49,7 +48,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Bleeker''s variegated whipray (
-
   *Himantura undulata*
 
   )](http://www.iucnredlist.org/apps/redlist/details/161621/0)

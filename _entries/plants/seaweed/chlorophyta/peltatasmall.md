@@ -119,9 +119,7 @@ This green seaweed with tiny fleshy 'umbrellas' is sometimes seen on our Souther
 
 Forms structures that look like tiny fleshy umbrellas; with a thick circular portion (about 0.5-1cm across) on a little stalk. These little umbrellas emerge along the length of a 'horizontal root' that creeps over the surface. Various shades of green to bluish-green. This is probably a variety of
 [Oval sea grapes](racemosa)
-(
-*Caulerpa racemosa*
-).
+(*Caulerpa racemosa*).
 
 **Sometimes confused with**
 similar green seaweeds. Here's more on

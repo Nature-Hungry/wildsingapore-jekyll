@@ -62,7 +62,6 @@ galleries:
 links_references: '**Links**
 
   - [Mangrove dragonet (
-
   *Callionymus enneactis*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=17468)

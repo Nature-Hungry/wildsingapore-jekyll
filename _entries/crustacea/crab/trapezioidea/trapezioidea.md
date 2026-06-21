@@ -55,12 +55,10 @@ zone:
 ## Where seen?
 These tiny crabs are only found in living branching hard corals such as
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
-(
-*Acropora*
+(*Acropora*
 sp.) and
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.). They are well hidden and quick, and thus hard to spot and photograph.
 
 ## Features
@@ -71,35 +69,25 @@ Usually a pair of male and female are found in one coral colony. The females are
 
 The
 [Red coral crab](redcoral)
-(
-*Trapezia cymodoce*
-) lives only in
+(*Trapezia cymodoce*) lives only in
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.).
 
 The
 [Bandit coral crab](bandit)
-(
-*Tetralia nigrolineata*
-) lives only in
+(*Tetralia nigrolineata*) lives only in
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
-(
-*Acropora*
+(*Acropora*
 sp.).
 
 **Other tiny crabs that live in corals**
 include the
 [Hairy coral crab](../xanthidae/cymo)
-(
-*Cymo andreossyi*
-)
+(*Cymo andreossyi*)
 
 **Status and threats:**
-The Red coral crab (
-*Trapezia cymodoce*
-) is listed as 'Vulnerable' in our Red List of threatened animals of Singapore. To protect these crabs, we need to protect their hard coral homes.
+The Red coral crab (*Trapezia cymodoce*) is listed as 'Vulnerable' in our Red List of threatened animals of Singapore. To protect these crabs, we need to protect their hard coral homes.
 
 ---
 

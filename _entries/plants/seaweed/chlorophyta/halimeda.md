@@ -33,7 +33,6 @@ galleries:
 links_references: '**Links**
 
   - [Calcified seaweed (
-
   *Halimeda*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/102)
@@ -156,9 +155,7 @@ These seaweeds can relocate their chlorophyll (the green pigment used in photosy
 
 In addition to calcium carbonate, they also have chemicals that protect them from herbivores. Despite this, some slugs like the
 [Halimeda slug](../../../mollusca/slugs/sacoglossa/pusilla)
-(
-*Elysiella pusilla*
-) actually eat the seaweed and incorporates these chemicals into their tissues to protect themselves!
+(*Elysiella pusilla*) actually eat the seaweed and incorporates these chemicals into their tissues to protect themselves!
 
 The calcium carbonate released from dead
 *Halimeda*

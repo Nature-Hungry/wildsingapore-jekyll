@@ -105,9 +105,7 @@ Disk diameter about 1cm, arms 10-20cm long. Central disk thick and somewhat pent
 **Sometimes confused with**
 the
 [Very long armed brittle star](longipeda)
-(
-*Macrophiothrix longipeda*
-) which also has very long arms but lacks the blue lines and has flatter spines.
+(*Macrophiothrix longipeda*) which also has very long arms but lacks the blue lines and has flatter spines.
 
 **Status and threats:**
 The Blue-lined brittle star is listed among the threatened animals of Singapore.

@@ -59,7 +59,6 @@ links_references: '**Links**
   (Arecales: Arecaceae) Nipah Palm by Erika I. Halim, 2013 on taxo4254.
 
   - [Nipah (
-
   *Nypa fruticans*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1068)
@@ -73,7 +72,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Nipah or Attap Palm (
-
   *Nypa fruticans*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/109)
@@ -158,9 +156,7 @@ Fruits are chestnut brown, in cluster forming a globular shape (20-25cm). Each f
 
 The Nipah palm is among the more commercially valuable plants of the mangroves. The leaves are used as thatch for 'attap' huts, the immature seed (endosperm) is harvested as a jellylike sweetmeat called 'attap-chee' and is a favourite in local desserts. The sap is extracted from the inflorescence and when fermented, is called 'toddy', a local alcoholic drink. The
 [Common palm civet](../../../vertebrates/mammals/hermaphroditus)
-(
-*Paradoxurus hermaphroditus*
-) is known to 'steal' a drink of the sap. This civet is thus also known as the Toddycat.
+(*Paradoxurus hermaphroditus*) is known to 'steal' a drink of the sap. This civet is thus also known as the Toddycat.
 
 According to Burkill, the leaves are used for roofing as is, or "a more skilful use of the leaves" is to produce attap: drying the leaves, folding them over a rod and stitching them in place to form shingles called 'attap'. These shingles are used for roofing as well as the sides of houses and can last for 5 years or more. The leaves are also used to make umbrellas, sunhats, raincoats, baskets, mats and bags. Young leaves are made into cigarette-wrappers.
 

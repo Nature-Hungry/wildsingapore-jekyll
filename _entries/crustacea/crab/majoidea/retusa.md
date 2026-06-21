@@ -123,7 +123,6 @@ links_references: '**Links**
   marinelife.
 
   - [Decorator crab (
-
   *Camposcia retusa*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=856)

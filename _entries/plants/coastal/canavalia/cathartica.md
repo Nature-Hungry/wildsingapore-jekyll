@@ -76,9 +76,7 @@ A twinning climber. Compound leaf made up of three leaflets eye-shaped (4-9cm) t
 
 According to Butterfly Circle, this plant is one of the host plants for the caterpillar of the
 [Common Sailor](http://butterflycircle.blogspot.sg/2010/07/life-history-of-common-sailor.html)
-(
-*Neptis hylas papaja*
-).
+(*Neptis hylas papaja*).
 
 ![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg)
 

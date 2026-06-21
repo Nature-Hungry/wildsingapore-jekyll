@@ -69,7 +69,6 @@ galleries:
 links_references: '**Links**
 
   - [Soldier crab (
-
   *Dotilla*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192)
@@ -81,7 +80,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Soldier crab (
-
   *Dotilla myctiroides*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2052)
@@ -196,9 +194,7 @@ The soldier crab eats the thin coating of detritus on sand grains. Sand grains a
 The shifted sand is then discarded in a little ball. The bigger untidy balls are sand pellets dug out of the burrow.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Status and threats:**
-One of our soldier crab species (
-*Dotilla myctiroides*
-) is listed among the threatened animals of Singapore due to loss of our natural beaches. While somewhat common on Chek Jawa, they are not commonly seen elsewhere in Singapore.
+One of our soldier crab species (*Dotilla myctiroides*) is listed among the threatened animals of Singapore due to loss of our natural beaches. While somewhat common on Chek Jawa, they are not commonly seen elsewhere in Singapore.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.
 
 ---

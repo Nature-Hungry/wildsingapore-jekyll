@@ -69,13 +69,11 @@ links_references: '**Links**
   - [Deepbody Mojarra/Silver-biddy](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/304)
 
   (
-
   *Gerres abbreviatus*
 
   ) and
 
   [Slender Mojarra/Silver-biddy (
-
   *Gerres oyena*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/305)

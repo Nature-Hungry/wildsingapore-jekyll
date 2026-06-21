@@ -48,7 +48,6 @@ galleries:
 links_references: '**Links**
 
   - [Rarespined murex (
-
   *Murex trapa*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86982)
@@ -56,7 +55,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Rare-spined murex (
-
   *Murex trapa*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=195)
@@ -64,7 +62,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Rarespined murex (
-
   *Murex trapa*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

@@ -76,7 +76,6 @@ galleries:
 links_references: '**Links**
 
   - [Variable Fang-blenny (
-
   *Petroscirtes variabilis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357)
@@ -88,7 +87,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Variable sabretooth blenny (
-
   *Petroscirtes variabilis*
 
   )](http://fishbase.org/Summary/SpeciesSummary.php?ID=6076)

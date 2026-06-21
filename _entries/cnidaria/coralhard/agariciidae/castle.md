@@ -108,8 +108,7 @@ Colony (10-30cm across) forming plates that may be encrusting or upright shapes,
 **Sometimes confused with**
 other leafy hard corals like
 [Lettuce coral](pavona)
-(
-*Pavona*
+(*Pavona*
 sp.).
 
 **Status and threats:**

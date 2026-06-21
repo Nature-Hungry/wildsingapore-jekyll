@@ -77,7 +77,6 @@ galleries:
 links_references: '**Links**
 
   - [Grey bonnet (
-
   *Phalium glaucum*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86956)
@@ -85,7 +84,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Grey bonnet (
-
   *Phalim glaucum*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=1233)
@@ -93,7 +91,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Grey bonnet (
-
   *Phalium glaucum*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

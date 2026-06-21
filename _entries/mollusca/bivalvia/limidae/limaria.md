@@ -77,7 +77,6 @@ galleries:
 links_references: '**Links**
 
   - [File shells (
-
   *Lima lima*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/162)
@@ -89,7 +88,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - Common file clam (
-
   *Lima vulgaris*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

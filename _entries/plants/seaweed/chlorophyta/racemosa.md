@@ -167,23 +167,17 @@ Some other Caulerpa species may take forms that resemble Oval sea grapes. These 
 *Caulerpa racemosa*
 with
 [bell-shaped tips](bell)
-(
-*Caulerpa racemosa*
+(*Caulerpa racemosa*
 var
-*turbinata*
-) or flat like
+*turbinata*) or flat like
 [little umbrellas](peltatasmall)
-(
-*Caulerpa racemosa*
+(*Caulerpa racemosa*
 var
-*peltata*
-).
+*peltata*).
 
 **Sometimes confused with**
 [Round sea grape seaweeds](lentillifera)
-(
-*Caulerpa lentillifera*
-). Here's more on
+(*Caulerpa lentillifera*). Here's more on
 [how to tell apart the sea grapes seaweeds](cfgrapes)
 .
 

@@ -98,8 +98,7 @@ zone:
 ## Where seen?
 This tiny slug is sometimes seen on
 [Big coin green seaweeds](../../../plants/seaweed/chlorophyta/halbig)
-(
-*Halimeda*
+(*Halimeda*
 sp.). Several slugs may be seen on one clump of seaweed. It was previously known as
 *Elysiella pusilla*
 .

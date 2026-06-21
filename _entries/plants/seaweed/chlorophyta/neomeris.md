@@ -156,8 +156,7 @@ species. The species are hard to tell apart in the field.
 
 **Sometimes confused with**
 [green sea sausage seaweeds](bornetella)
-(
-*Bornetella*
+(*Bornetella*
 sp.) but these are completely green and don't have white stems.
 
 Neomeris is the name of one of the 50 Greek nymphs or sea goddesses collectively called the Nereides.

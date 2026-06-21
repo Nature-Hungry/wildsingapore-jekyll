@@ -63,7 +63,6 @@ galleries:
 links_references: '**Links**
 
   - [Pasir or Silver Sand Whiting (
-
   *Sillago sihama*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281)
@@ -174,26 +173,19 @@ appear very similar in the field.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The
 **Silver sillago**
-(
-*Sillago sihama*
-) is commonly seen in coastal areas and even recorded in freshwater. It can grow to about 30cm. Body silvery often without any obvious markings. May have dusky tips on the dorsal fins and tail fins. No dark blotch at the base of the pectoral fins. Tail fins may have a whitish margin. These fishes form schools. Adults bury themselves in sand when disturbed. The young fish live out in the open sea, feeding on plankton. In Singapore, this fish is also called 'pasir', which means 'sand' in Malay.
+(*Sillago sihama*) is commonly seen in coastal areas and even recorded in freshwater. It can grow to about 30cm. Body silvery often without any obvious markings. May have dusky tips on the dorsal fins and tail fins. No dark blotch at the base of the pectoral fins. Tail fins may have a whitish margin. These fishes form schools. Adults bury themselves in sand when disturbed. The young fish live out in the open sea, feeding on plankton. In Singapore, this fish is also called 'pasir', which means 'sand' in Malay.
 
 The
 **Trumpeter sillago**
-(
-*Sillago maculata*
-) is found in deeper coastal waters but also in river mouths and mangrove creeks. It can grow about 30cm. There is a black spot at the base of the pectoral fin, the back and sides of the body with dark blotches. The upper and lower blotches are often joined, the upper blotches generally larger. They are found in deeper coastal waters but also in river mouths and mangrove creeks. Juveniles are found in shallow waters, moving into deeper waters as they mature.
+(*Sillago maculata*) is found in deeper coastal waters but also in river mouths and mangrove creeks. It can grow about 30cm. There is a black spot at the base of the pectoral fin, the back and sides of the body with dark blotches. The upper and lower blotches are often joined, the upper blotches generally larger. They are found in deeper coastal waters but also in river mouths and mangrove creeks. Juveniles are found in shallow waters, moving into deeper waters as they mature.
 
 The
 **Large-scale sillago**
-(
-*Sillago macrolepsis*
-) can grow to about 20cm. Body yellowish, darker above, without any markings, dorsal fin dusky with a narrow blackish margin. Juveniles have a series of small brown spots along each side at the base of the dorsal fins.
+(*Sillago macrolepsis*) can grow to about 20cm. Body yellowish, darker above, without any markings, dorsal fin dusky with a narrow blackish margin. Juveniles have a series of small brown spots along each side at the base of the dorsal fins.
 
 The
 **Spotted sillago**
-(
-*Sillago burru*
+(*Sillago burru*
 s) is found in silty and muddy areas. It can grow to about 36cm. Body silvery with irregular dark blotches on the sides that may appear to be oblique bars. The upper blotches are small, an indistinct black spot at the base of the pectoral fin. It is found in silty and muddy areas.
 
 **Sometimes confused with**

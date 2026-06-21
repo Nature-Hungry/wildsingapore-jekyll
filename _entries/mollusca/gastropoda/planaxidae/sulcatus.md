@@ -90,8 +90,7 @@ This large 'groovy' snail is commonly seen, usually in clustered together in lar
 
 ## Features
 
-2-2.5cm. Shell thick with strong squarish spiralling cords (
-*Sulcus*
+2-2.5cm. Shell thick with strong squarish spiralling cords (*Sulcus*
 means 'grooved'). Colour blackish to cream sometimes with white or yellowish spots. Shell opening wide, inner surface white sometimes with dark purple grooves. Operculum thin, horn-like material and dark coloured. Body pale, small foot with a pale underside dark mottled pattern above, long tentacles with dark bands.
 
 **Sometimes confused with**

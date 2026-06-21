@@ -67,9 +67,7 @@ A strangling fig that grows as a shrub. According to Corners, it is rarely large
 
 Human uses: According to Burkill, like the
 [India-rubber tree](elastica)
-(
-*Ficus elastica*
-), it also produces a latex that was used as rubber. Unfortunately, the latex of this fig also contains a resin that hardens with time thus making the latex less elastic.
+(*Ficus elastica*), it also produces a latex that was used as rubber. Unfortunately, the latex of this fig also contains a resin that hardens with time thus making the latex less elastic.
 *Ficus consociata*
 var
 *murtoni*

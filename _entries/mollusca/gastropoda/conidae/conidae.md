@@ -108,7 +108,6 @@ links_references: '**Links**
   - [Geography Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/251)
 
   (
-
   *Conus geographus*
 
   ) and
@@ -116,7 +115,6 @@ links_references: '**Links**
   [Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/148)
 
   (
-
   *Conus consors*
 
   ) Tan, Leo W. H. & Ng, Peter K. L., 1988.
@@ -126,7 +124,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Textile cone (
-
   *Conus textile*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=203)
@@ -134,7 +131,6 @@ links_references: '**Links**
   and
 
   [Singed cone (
-
   *Conus consors*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=204)
@@ -260,11 +256,7 @@ Cone snails are predators. They feed on worms, other snails and small fishes. Ma
 Cone snails are mainly collected for their attractive shells for the shell trade. Research on their toxins have resulted in some medical applications to help humans cope with pain and diseases.
 
 **Status and threats:**
-The Textile cone (
-*Conus textile*
-) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be found in Singapore coral reef areas up till the 1970s but is now extremely rare. The Singed cone (
-*Conus consor*
-) is also listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be the most common cone species seen in Singapore's rocky shores in the past, but now seldom seen due to degradation or reclamation of natural rocky shores.
+The Textile cone (*Conus textile*) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be found in Singapore coral reef areas up till the 1970s but is now extremely rare. The Singed cone (*Conus consor*) is also listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be the most common cone species seen in Singapore's rocky shores in the past, but now seldom seen due to degradation or reclamation of natural rocky shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Deadly cone!**
 The cone snail is one of the most dangerous animals on Singapore shores. The snail can inject bare hands and bare feet of swimmers and shore explorers in shallow water. Its tiny 'harpoon' is hardly felt so victims are often unaware until they show symptoms of envenomation.
@@ -274,9 +266,7 @@ The best recourse is to bring the victim to hospital
 .
 
 **What is the effect of a cone snail's sting?**
-Although the sting is painless, the effect on humans can be fatal. Here's a description: Local stinging is followed within minutes by numbness, or tingling/burning skin and localised tissue death. Serious stings may result in nausea, headache, loss of coordination, blurred vision, speech and hearing, general paralysis, coma, and respiratory failure within hours. Death is typically due to respiratory failure from paralysis of the diaphragm or heart failure. The Geographic cone (
-*Conus geographus*
-), which produces the most potent conotoxins found to date, may produce rapid brain swelling, coma, respiratory arrest and heart failure. Death has been documented within 5 hours in a
+Although the sting is painless, the effect on humans can be fatal. Here's a description: Local stinging is followed within minutes by numbness, or tingling/burning skin and localised tissue death. Serious stings may result in nausea, headache, loss of coordination, blurred vision, speech and hearing, general paralysis, coma, and respiratory failure within hours. Death is typically due to respiratory failure from paralysis of the diaphragm or heart failure. The Geographic cone (*Conus geographus*), which produces the most potent conotoxins found to date, may produce rapid brain swelling, coma, respiratory arrest and heart failure. Death has been documented within 5 hours in a
 *C. geographus*
 envenomation. No antivenin is available for cone shell envenomation. In significant envenomations, symptoms may take several weeks to resolve.
 *From

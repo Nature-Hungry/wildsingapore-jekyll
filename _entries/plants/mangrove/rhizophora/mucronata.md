@@ -48,7 +48,6 @@ galleries:
 links_references: '**Links**
 
   - [Bakau kurap (
-
   *Rhizophora mucronata*](http://mangrove.nus.edu.sg/guidebooks/text/1070)
 
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
@@ -109,9 +108,7 @@ and grows very long (50-70cm).
 
 **Sometimes mistaken for**
 [Bakau pasir](stylosa)
-(
-*R. stylosa*
-) which has smaller leaves and shorter, less pimply propagules. The two species can only be distinguished with certainty by looking at the details of the flowers:
+(*R. stylosa*) which has smaller leaves and shorter, less pimply propagules. The two species can only be distinguished with certainty by looking at the details of the flowers:
 *R. stylosa*
 has a longer style.
 

@@ -71,7 +71,6 @@ galleries:
 links_references: '**Links**
 
   - [Broad-barred Acropora Goby (
-
   *Gobiodon histrio*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/358)
@@ -83,7 +82,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Broad-barred goby (
-
   *Gobiodon histrio*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7216)

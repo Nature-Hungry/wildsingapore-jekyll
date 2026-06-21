@@ -42,7 +42,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Limau lelang (
-
   *Merope angulata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1067)

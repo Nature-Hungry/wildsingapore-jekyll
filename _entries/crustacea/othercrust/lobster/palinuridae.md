@@ -45,7 +45,6 @@ galleries:
 links_references: '**Links**
 
   - [Ornate spiny lobster (
-
   *Panulirus ornatus*
 
   )](http://www.sealifebase.ca/summary/Panulirus-ornatus.html)
@@ -135,7 +134,5 @@ for free download
 ---
 
 
-[Ornate spiny lobster (
-*Panulirus ornatus*
-)](http://species-identification.org/species.php?species_group=lobsters&id=159)
+[Ornate spiny lobster (*Panulirus ornatus*)](http://species-identification.org/species.php?species_group=lobsters&id=159)
 on Marine Lobsters of the World on Marine Species Identification Portal.

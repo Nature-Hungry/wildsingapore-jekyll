@@ -69,7 +69,6 @@ galleries:
 links_references: '**Links**
 
   - [Black cardinalfish (
-
   *Apogonichthyoides melas*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=5749)

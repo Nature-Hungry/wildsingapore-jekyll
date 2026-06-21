@@ -48,7 +48,6 @@ links_references: '**Links**
   (Myrtales: Sonneratiaceae) Mangrove Apple from Teo Xian Hui Jessica, 2013 from taxo4254.
 
   - [Perepat (
-
   *Sonneratia alba*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1073)

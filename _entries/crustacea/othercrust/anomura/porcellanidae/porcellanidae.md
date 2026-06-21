@@ -55,7 +55,6 @@ galleries:
 links_references: '**Links**
 
   - [Porcelain Crab (
-
   *Petrolisthes*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/184)
@@ -67,7 +66,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mangrove porcelain crab (
-
   *Petrolisthes kranjiensis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2066)

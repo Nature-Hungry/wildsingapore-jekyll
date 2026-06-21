@@ -102,9 +102,7 @@ The entire cushion about 2-5cm wide made up of tiny, tightly packed beads. Each 
 
 **Sometimes mistaken for**
 [Bubble green seaweed](boergesenia)
-(
-*Boergesenia forbesii*
-) which has much larger and more loosely arranged translucent bubble-like shapes. Here's more on
+(*Boergesenia forbesii*) which has much larger and more loosely arranged translucent bubble-like shapes. Here's more on
 [how to tell apart some green seaweeds](cfgrapes)
 .
 

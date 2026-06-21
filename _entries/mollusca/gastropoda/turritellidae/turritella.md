@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Screw turret (
-
   *Turritella terebra*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86863)
@@ -45,7 +44,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Screw turret (
-
   *Turritella terebra*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

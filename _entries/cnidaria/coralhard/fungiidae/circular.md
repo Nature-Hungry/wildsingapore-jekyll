@@ -147,9 +147,7 @@ species may also be
 **Sometimes confused with**
 the
 [Sunflower mushroom hard coral](heliofungia)
-(
-*Heliofungia actiniformis*
-) especially when the tentacles are retracted. The Sunflower mushroom hard coral also has a flat circular skeleton. However, it has long cylindrical white-tipped tentacles that when full extended, completely obscures the skeleton so that the coral resembles a sea anemone.
+(*Heliofungia actiniformis*) especially when the tentacles are retracted. The Sunflower mushroom hard coral also has a flat circular skeleton. However, it has long cylindrical white-tipped tentacles that when full extended, completely obscures the skeleton so that the coral resembles a sea anemone.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 

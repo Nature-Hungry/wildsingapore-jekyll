@@ -45,7 +45,6 @@ galleries:
 links_references: '**Links**
 
   - [Orange-spotted rabbitfish (
-
   *Siganus guttatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4588)

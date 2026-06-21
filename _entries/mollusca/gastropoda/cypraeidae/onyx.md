@@ -49,7 +49,6 @@ galleries:
 links_references: '**Links**
 
   - [Onyx cowrie (
-
   *Cypraea onyx*
 
   )](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=86923)
@@ -57,7 +56,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Onyx cowrie (
-
   *Cypraea onyx*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

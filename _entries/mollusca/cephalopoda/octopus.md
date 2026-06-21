@@ -236,9 +236,7 @@ Octopuses are
 [cephalopods](../cephalopoda)
 (Class Cephalopoda) which include
 [squids and cuttlefish](squid)
-. The correct plural term for octopus is octopuses and not octopi (
-[more here](http://grammarist.com/usage/octopi-octopuses/)
-).
+. The correct plural term for octopus is octopuses and not octopi ([more here](http://grammarist.com/usage/octopi-octopuses/)).
 
 **Awesome Octopus:**
 The octopus is a hunter with many tricks. Among its formidable weapons is its brain! The octopus is in fact considered the smartest known invertebrate. It has a well-developed brain and excellent eyesight. Studies show that the octopus can learn, not only by itself but also from one another!
@@ -252,9 +250,7 @@ The arms are joined together near the head with webbing. An octopus uses this we
 Although octopuses have a hard beak and a radula (ribbon of teeth), they don't chew their food. Digestive juices are injected into the prey which soften the tissues. Some octopuses can drill a hole through a snail's shell to get at it. Others crush shells and crack crabs with their hard beaks.
 
 **Not cuddly:**
-Octopuses have a sharp, hard beak. Some can inject a toxin with their beaks. The tiny Blue-ringed octopus (
-*Hapalochaena maculosa*
-) is recorded for Singapore, but not commonly seen. Still, it is best to avoid touching any kind of octopus.
+Octopuses have a sharp, hard beak. Some can inject a toxin with their beaks. The tiny Blue-ringed octopus (*Hapalochaena maculosa*) is recorded for Singapore, but not commonly seen. Still, it is best to avoid touching any kind of octopus.
 
 **
 **How to stay safe:**

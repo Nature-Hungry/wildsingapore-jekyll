@@ -89,15 +89,11 @@ habitats:
 ## Where seen?
 Not as commonly seen as the
 [Sea hibiscus](../hibiscus/tiliaceus)
-(
-*Hibiscus tiliceaus*
-), this similar looking plant is sometimes seen on our shores and near our mangroves. Elsewhere, it is found on beaches, sandy and rocky coasts as well as back mangroves. It has a wide distribution as the seeds can stay alive in seawater for many months.
+(*Hibiscus tiliceaus*), this similar looking plant is sometimes seen on our shores and near our mangroves. Elsewhere, it is found on beaches, sandy and rocky coasts as well as back mangroves. It has a wide distribution as the seeds can stay alive in seawater for many months.
 
 ## Features
 
-A shrub that can grow to a rather tall tree (2-10m tall). Conical crown when young, becoming spreading with age. Leaves more triangular than heart-shaped. The leaves are fleshy and shiny with midribs and veins yellow, and are arranged in a spiral. According to Tomlinson, some specimens of this tree also have leaf-slits on the undersides like the Sea hibiscus (
-*Hibiscus tiliceaus*
-).
+A shrub that can grow to a rather tall tree (2-10m tall). Conical crown when young, becoming spreading with age. Leaves more triangular than heart-shaped. The leaves are fleshy and shiny with midribs and veins yellow, and are arranged in a spiral. According to Tomlinson, some specimens of this tree also have leaf-slits on the undersides like the Sea hibiscus (*Hibiscus tiliceaus*).
 
 Flower typical hibiscus shape, pale yellow with maroon eye. Stigma column pale yellow, stigma pale yellow. According to Corners, the flowers open late in the morning, about 10am. The flowers fade to pink on the plant and does not fall off for several days.
 
@@ -109,9 +105,7 @@ The fruit is the primary means of dispersal, although the seeds may also float. 
 
 According to Burkill, thoughout much of the Pacific, the tree is considered sacred and planted near temples. He suggests this is because the tree was so important to sea-faring people. It is used interchangeably with the
 [Sea hibiscus](../hibiscus/tiliaceus)
-(
-*Hibiscus tiliceaus*
-) for cordage. The timber is hard and Fiji natives praise it as being "almost indestructible underwater". In the Philippines it is prized for making musical instruments. According to Hugh Tan, oil is extracted from the seeds and gum from the bark, while an orange-yellow dye is extracted from the wood.
+(*Hibiscus tiliceaus*) for cordage. The timber is hard and Fiji natives praise it as being "almost indestructible underwater". In the Philippines it is prized for making musical instruments. According to Hugh Tan, oil is extracted from the seeds and gum from the bark, while an orange-yellow dye is extracted from the wood.
 
 *![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg)
 

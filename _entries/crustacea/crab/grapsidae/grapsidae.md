@@ -34,7 +34,6 @@ galleries:
 links_references: '**Links**
 
   - [Purple climber crabs (
-
   *Metopograpsus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047)
@@ -127,9 +126,7 @@ Body width 4-6cm. Grapsid crabs are adapted for scrambling over rocks and other 
 
 The
 [Rafting crab](../plagusiidae/plagusia)
-(
-*Plagusia squamosa*
-) is sometimes mistaken for a grapsid crab. But it belongs to another family.
+(*Plagusia squamosa*) is sometimes mistaken for a grapsid crab. But it belongs to another family.
 
 **What do they eat?**
 Grapsid crabs are scavengers and will eat almost anything. They also eat seaweed.

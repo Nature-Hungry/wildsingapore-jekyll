@@ -80,7 +80,6 @@ galleries:
 links_references: '**Links**
 
   - [Sponge Crab (
-
   *Cryptodromia*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/187)

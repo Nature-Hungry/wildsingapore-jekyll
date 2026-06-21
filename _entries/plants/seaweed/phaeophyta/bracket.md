@@ -111,8 +111,7 @@ Thin, flat stiff leathery disks about 2-4cm in diameter, growing in clusters. On
 
 **Sometimes confused with**
 [Scaly red seaweed](../rhodophyta/scaly)
-(
-*Peyssonnelia*
+(*Peyssonnelia*
 sp.) which are more encrusting and stiff with a slimy surface.
 
 According to

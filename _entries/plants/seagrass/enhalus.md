@@ -83,7 +83,6 @@ galleries:
 links_references: '**Links**
 
   - [Tape seagrass (
-
   *Enhalus acoroides*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/108)
@@ -218,9 +217,7 @@ The female flower is large and held on a long stalk. It has three large ribbed w
 The fruit is round to tear-drop shaped and large (4-6cm in diameter) with dark, ribbed hairy skin. When ripe, the fruit splits open releasing 6-7 white seeds. The opened fruit is sometimes mistaken for a flower because of the petal-shaped split segments. The seeds float for only about 5 hours before they start to sink, thus they don't travel far. Roots develop rapidly and the seeds germinate quickly. Like other seagrasses, tape seagrass spreads mostly by vegetative reproduction.
 
 ## Role in habitat
-Tape seagrass is believed to be among the main food of the Dugong (
-*Dugong dugon*
-). On the seagrass blade grows a wide variety of tiny encrusting animals like
+Tape seagrass is believed to be among the main food of the Dugong (*Dugong dugon*). On the seagrass blade grows a wide variety of tiny encrusting animals like
 [green gum drop ascidians](../../ascidiacea/greengumdrop)
 and
 [seagrass hydroids](../../cnidaria/others/hydrozoa/seagrass)

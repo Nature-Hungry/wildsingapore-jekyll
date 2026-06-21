@@ -98,7 +98,6 @@ links_references: '**Links**
   by Des Beechey Research Associate, Australian Museum:
 
   - [Gualteri''s moon snail (
-
   *Natica gualtieriana*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=2762)
@@ -106,7 +105,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Gualteri''s moon snail (
-
   *Natica gualteriana*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

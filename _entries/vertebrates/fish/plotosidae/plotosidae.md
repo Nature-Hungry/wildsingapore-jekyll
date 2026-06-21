@@ -40,7 +40,6 @@ galleries:
 links_references: '**Links**
 
   - [Black eeltail catfish (
-
   *Plotosus canius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/236)
@@ -52,7 +51,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [White-lipped Eeltail Catfish (
-
   *Paraplotosus albilabris*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/224)
@@ -60,7 +58,6 @@ links_references: '**Links**
   ,
 
   [Black Eeltail Catfish (
-
   *Plotosus canius*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225)
@@ -68,7 +65,6 @@ links_references: '**Links**
   ,
 
   [Striped Eeltail Catfish (
-
   *Plotosus lineatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226)
@@ -90,7 +86,6 @@ links_references: '**Links**
   and
 
   [Gray eel-catfish (
-
   *Plotosus canius*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=8167)
@@ -98,7 +93,6 @@ links_references: '**Links**
   and
 
   [Striped eel-catfish (
-
   *Plotosus lineatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706)

@@ -60,7 +60,6 @@ galleries:
 links_references: '**Links**
 
   - [Ramose murex (
-
   *Murex ramosus*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/Chicoreus-ramosus.html)
@@ -68,7 +67,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Ramose murex (
-
   *Murex ramosus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=200)
@@ -76,7 +74,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Ramose murex (
-
   *Murex ramosus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

@@ -92,11 +92,9 @@ links_references: '**Links**
   - Marcus Ng and Robert W. Mendyk. 2012.
 
   [Predation of an Adult Malaysian Water monitor (
-
   *Varanus salvator macromaculatus*
 
   ) by an Estuarine Crocodile (
-
   *Crocodylus porosus*
 
   )](https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list)

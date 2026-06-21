@@ -153,8 +153,7 @@ A few sea pens may harbour zooxanthellae (symbiotic algae) inside their bodies. 
 **Snacking on sea pens:**
 Sea pens are preyed upon by some snails and nudibranchs. The striped
 [Armina nudibranch](../../../mollusca/slugs/nudibranchia/arminina/arminidaenoida)
-(
-*Armina*
+(*Armina*
 sp.) is among those seen near
 [sea pencils](pencil)
 , and appear to feed on these sea pencils.
@@ -162,12 +161,9 @@ sp.) is among those seen near
 **Pen pals:**
 Sea pens are often homes to other small creatures. The tiny
 [Painted porcelain crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/picta)
-(
-*Porcellanella picta*
-) is often found in the
+(*Porcellanella picta*) is often found in the
 [Common sea pen](pteroides)
-(
-*Pteroides*
+(*Pteroides*
 sp.). Sometimes, tiny transparent shrimps are seen on
 [Flowery sea pens](veretillidae)
 (Family Vertillidae)

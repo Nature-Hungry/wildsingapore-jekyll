@@ -153,9 +153,7 @@ Giant clams are considered a delicacy and in some places, an aphrodisiac. The la
 **Status and threats:**
 Giant clams have been listed in CITES Appendix II since 1985. The
 [Fluted giant clam](squamosa)
-(
-*Tridacna squamosa*
-) is listed as 'Endangered' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Large specimens have virtually disappeared from our shores. Young specimens are occasionally but infrequently seen". Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.
+(*Tridacna squamosa*) is listed as 'Endangered' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Large specimens have virtually disappeared from our shores. Young specimens are occasionally but infrequently seen". Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.
 
 ---
 
@@ -224,9 +222,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 
 Konda P. Reddy. 10 August 2007.
-[Can giant clam (
-*Tridacna squamosa*
-) populations be restored on Singapore's heavily impacted coral reefs?](http://onlinelibrary.wiley.com/doi/10.1002/aqc.888/full)
+[Can giant clam (*Tridacna squamosa*) populations be restored on Singapore's heavily impacted coral reefs?](http://onlinelibrary.wiley.com/doi/10.1002/aqc.888/full)
 Aquatic Conservation.
 - Tan, K. S. & L. M. Chou, 2000.
 *A Guide to the Common Seashells of Singapore*

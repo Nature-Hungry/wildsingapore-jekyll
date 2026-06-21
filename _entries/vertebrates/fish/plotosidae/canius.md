@@ -74,7 +74,6 @@ galleries:
 links_references: '**Links**
 
   - [Black eel-catfish (
-
   *Plotosus canius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/236)
@@ -86,7 +85,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Black eeltail catfish (
-
   *Plotosus canius*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225)
@@ -98,7 +96,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp. online version of
 
   - [Gray eel-catfish (
-
   *Plotosus canius*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=8167)

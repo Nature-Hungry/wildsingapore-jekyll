@@ -60,7 +60,6 @@ galleries:
 links_references: '**Links**
 
   - [Eggwhite moon snail (
-
   *Neverita albumen*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86931)
@@ -68,7 +67,6 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
   - Eggwhite moon snail (
-
   *Neverita albumen*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

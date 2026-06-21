@@ -199,9 +199,7 @@ There are several species of gymnodoris nudibranchs with yellow spots and they a
 *Gymnodoris ceylonica*
 : According to Bill Rudman, it has a translucent white body with small bright orange-red spots; large gills with orange lines. It preys on the
 [Long-tailed hairy sea hare](../anaspidae/stylocheilus)
-(
-*Stylocheilus longicauda*
-). This nudibranch lays eggs in 'strings' that look more like sea hare egg masses. It is widespread in the Indo-West Pacific.
+(*Stylocheilus longicauda*). This nudibranch lays eggs in 'strings' that look more like sea hare egg masses. It is widespread in the Indo-West Pacific.
 
 *Gymnodoris alba*
 : According to Bill Rudman, white with orange spots; an orange border on the mantle at the head, end of the foot has an orange tip, gills translucent, rhinophores translucted tipped orange. One was reported eating an aeolid nudibranch.

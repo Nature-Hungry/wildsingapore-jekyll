@@ -81,7 +81,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Porcelain fiddler crabs (
-
   *Uca vocans*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2053)
@@ -171,9 +170,7 @@ Their burrows can be half a metre deep!
 **Sometimes mistaken for**
 the
 [Porcelain fiddler crab](annulipes)
-(
-*Uca annulipes*
-). More on
+(*Uca annulipes*). More on
 [how to tell apart the fiddler crabs commonly seen](cflongeyedcrabs)
 on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

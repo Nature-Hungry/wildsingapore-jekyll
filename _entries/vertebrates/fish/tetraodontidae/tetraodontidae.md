@@ -50,7 +50,6 @@ galleries:
 links_references: '**Links**
 
   - [Yelloweye Puffer (
-
   *Arothron immaculatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395)
@@ -58,7 +57,6 @@ links_references: '**Links**
   ,
 
   [Rough Golden Toadfish (
-
   *Lagocephalus lunaris*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396)
@@ -66,7 +64,6 @@ links_references: '**Links**
   ,
 
   [Milk-spotted Puffer (
-
   *Chelonodon patoca*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397)
@@ -74,7 +71,6 @@ links_references: '**Links**
   and
 
   [Spotted Green Puffer (
-
   *Tetraodon nigroviridis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398)

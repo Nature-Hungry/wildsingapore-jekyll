@@ -38,7 +38,6 @@ galleries:
 links_references: '**Links**
 
   - [Belitong (
-
   *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2082)
@@ -50,7 +49,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Sulcate creeper (
-
   *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
@@ -62,7 +60,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Sulcate swamp cerith (
-
   *Terebralia sulcata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86858)
@@ -70,7 +67,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Sulcate swamp cerith (
-
   *Terebralia sulcata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

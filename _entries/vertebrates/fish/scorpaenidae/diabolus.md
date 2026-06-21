@@ -77,18 +77,14 @@ This rock-like fish is seldom seen, usually our southern shores on coral rubble 
 
 15-30cm long with a humped back. Small eyes that don't stick out of the head, with small shallow depression near the eyes, not as large and deep as the true
 [Hollow-cheeked stonefish](../synanceiidae/horrida)
-(
-*Synanceia horrida*
-). Wide horizontal mouth on a large rather flattened head. Large pectoral fins sometimes colourful. Spiky dorsal fin which carries venomous stings but it is not as dangerous as the real stonefish. When disturbed, it waddles away awkwardly on its pectoral fins.
+(*Synanceia horrida*). Wide horizontal mouth on a large rather flattened head. Large pectoral fins sometimes colourful. Spiky dorsal fin which carries venomous stings but it is not as dangerous as the real stonefish. When disturbed, it waddles away awkwardly on its pectoral fins.
 
 **Sometimes mistaken for**
 a
 [stonefish](../synanceiidae/horrida)
 (Family Synanceiidae) or the
 [False scorpionfish](../centrogenyidae/vaigiensis)
-(
-*Centrogenys vaigiensis*
-), a grouper, which looks very similar. Here's more on
+(*Centrogenys vaigiensis*), a grouper, which looks very similar. Here's more on
 [how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -113,9 +109,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Links**
 
-- [False stonefish (
-*Scorpaenopsis diabolus*
-)](http://www.fishbase.org/summary/Scorpaenopsis-diabolus.html)
+- [False stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolus.html)
 from
 [FishBase](http://www.fishbase.org/)
 : Technical fact sheet on the order, including a fact sheet on

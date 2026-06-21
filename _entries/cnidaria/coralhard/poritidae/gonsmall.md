@@ -107,8 +107,7 @@ are seen on the oral disk or body columns of anemone coral polyps.
 [Favid corals](../faviidae/faviidae)
 (Family Faviidae) or
 [Pore corals](porites)
-(
-*Porites*
+(*Porites*
 sp.), but polyp body column of these other corals are not as long as those of Goniopora corals.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -200,8 +200,7 @@ Other tiny gobies found in coral reefs live in close association with other anim
 [Broad barred acropora goby](histrio)
 lives only in Acropora corals.
 
-Some gobies (
-*Gobiosoma*
+Some gobies (*Gobiosoma*
 spp.) perform 'cleaning' functions on larger fishes and other marine creatures. These gobies are usually colourful.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
@@ -233,8 +232,7 @@ for free download
 ---
 
 **Some Gobies on Singapore shores (except
-[mudskippers](mudskipper)
-)**
+[mudskippers](mudskipper))**
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery6 %}
@@ -295,16 +293,14 @@ Amblygobius phaleana
 Amblygobius sphynx*
 *[Amblygobius stethophthalmus](stethophthalmus)*
 (previously
-*A. bynoensis*
-) (Head-stripe goby)
+*A. bynoensis*) (Head-stripe goby)
 *Amoya gracilis*
 (Slender amoya)
 *Amoya moloanus*
 (Bar-cheek goby)
 *Apocyptodon*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Arcygobius baliurus*
 (Isthmus goby)
 *Asterropteryx semipunctatus*
@@ -319,8 +315,7 @@ sp.](bathygobius)
 (Meggitt's frill-fin goby)
 *Boleophthalmus*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Brachyamblyopus brachysoma*
 (Short Eel-goby)
 
@@ -490,8 +485,7 @@ Oxymetopon compressus
 
 Oxuderces*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Oxyurichthys longicauda=Oxyurichthys uronema*
 (Fine-blotched tentacle-goby)
 *Oxyurichthys microlepis*
@@ -508,8 +502,7 @@ Paragobiodon echinocephalus*
 (Spiny-headed goby)
 *Parapocryptes*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Paratrypauchen microcephalus*
 (Small-eyed worm-goby)
 
@@ -517,12 +510,10 @@ Paragobiodon echinocephalus*
 
 *Periophthalmodon*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Periophthalmus*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 **
 
 *Priolepis nuchifasciata*
@@ -534,8 +525,7 @@ Paragobiodon echinocephalus*
 
 *Pseudapocryptes*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 
 *Pseudogobiopsis oligactis*
 *=^Eugnathogobius oligactis*
@@ -560,8 +550,7 @@ Paragobiodon echinocephalus*
 
 *Scartelaos*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 
 *Sicyopterus macrostetholepis*
 

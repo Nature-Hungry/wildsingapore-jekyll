@@ -42,7 +42,6 @@ galleries:
 links_references: '**Links**
 
   - [Painted sweetlips (
-
   *Diagramma pictum*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/283)

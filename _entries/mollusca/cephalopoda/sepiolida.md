@@ -76,7 +76,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets for
 
   [Mimika bobtail squid (
-
   *Euprymna morsei*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57886)
@@ -84,7 +83,6 @@ links_references: '**Links**
   ,
 
   [Butterfly bobtail (
-
   *Sepiola birostrata*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57725)

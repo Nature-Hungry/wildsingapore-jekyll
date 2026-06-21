@@ -79,7 +79,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Marine prawns (
-
   *Penaeus and Metapenaeus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038)
@@ -87,13 +86,11 @@ links_references: '**Links**
   ,
 
   [Estuarine prawn (
-
   *Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037)
 
   ,
 
   [Mangrove hairy-handed prawn (
-
   *Caridina propinqua*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2039)

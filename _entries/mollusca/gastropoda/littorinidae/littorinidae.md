@@ -48,7 +48,6 @@ galleries:
 links_references: '**Links**
 
   - [Mangrove periwinkle (
-
   *Littoraria*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080)

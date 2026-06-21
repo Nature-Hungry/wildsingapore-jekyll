@@ -49,7 +49,6 @@ galleries:
 links_references: '**Links**
 
   - [Mound crab (
-
   *Sarmatium germaini*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2048)

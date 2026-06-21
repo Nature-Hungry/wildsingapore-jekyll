@@ -33,7 +33,6 @@ galleries:
 links_references: '**Links**
 
   - [Parasitic barnacles (
-
   *Thompsonia, Sacculina*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/270)
@@ -75,9 +74,7 @@ zone:
 ## Where seen?
 These gruesome animals are often seen growing in
 [flower crabs](../../crab/portunidae/pelagicus)
-(
-*Portunus pelagicus*
-). Infected crabs are usually encrusted with non-parasitic barnacles and other animals and seaweeds. They usually move weakly and are generally in poor shape.
+(*Portunus pelagicus*). Infected crabs are usually encrusted with non-parasitic barnacles and other animals and seaweeds. They usually move weakly and are generally in poor shape.
 
 ## Features
 

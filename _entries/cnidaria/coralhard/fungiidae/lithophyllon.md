@@ -138,8 +138,7 @@ Flat plate-like about 20cm in diameter, attached at the base with a stalk but wa
 
 May be confused with
 [Bracket mushroom coral](bracket)
-(
-*Podabacia*
+(*Podabacia*
 sp.) which has finer lines with thinner walls.
 
 **Status and threats:**

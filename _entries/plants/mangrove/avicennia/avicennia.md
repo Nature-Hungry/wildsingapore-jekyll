@@ -52,7 +52,6 @@ galleries:
 links_references: '**Links**
 
   - [Api-api (
-
   *Avicennia*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1049)

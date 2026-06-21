@@ -35,7 +35,6 @@ galleries:
 links_references: '**Links**
 
   - [Longspine porcupinefish (
-
   *Diodon holacanthus*
 
   )](https://www.fishbase.se/summary/Diodon-holocanthus.html)
@@ -43,7 +42,6 @@ links_references: '**Links**
   and
 
   [Black-blotched porcupinefish (
-
   *Diodon liturosus*
 
   )](https://www.fishbase.se/summary/6552)

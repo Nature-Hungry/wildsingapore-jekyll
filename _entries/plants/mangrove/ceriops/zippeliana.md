@@ -63,9 +63,7 @@ Leaves oval (tips not pointed) (7-11cm), glossy green. Leaf stalk usually not pi
 
 Flowers small (0.5cm) with tiny white frilly petals. Several flowers on a short stalk, but not as many flowers as in
 [Tengar](tagal)
-(
-*Ceriops tagal*
-).
+(*Ceriops tagal*).
 
 Fruit brown with a textured pattern: this is the identifying feature of this species. Hypocotyl long pointed (9-17cm long) with fluted ridges along the length and a red collar when ready to drop off. The propagules point upwards and in all directions, not all hanging downwards as in
 *Ceriops tagal*

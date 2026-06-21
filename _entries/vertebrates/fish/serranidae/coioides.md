@@ -41,7 +41,6 @@ galleries:
 links_references: '**Links**
 
   - [Orange-spotted Grouper (
-
   *Epinephelus coioides*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/268)
@@ -53,7 +52,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Orange-spotted Grouper (
-
   *Epinephelus coioides*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2103)
@@ -65,7 +63,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Orange-spotted grouper (
-
   *Epinephelus coioides*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6465)
@@ -77,7 +74,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Orange-spotted grouper (
-
   *Epinephelus coioides*
 
   )](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/data/p028_02b.html)
@@ -91,7 +87,6 @@ links_references: '**Links**
   with details on similar families.
 
   - [Orange-spotted grouper (
-
   *Epinephelus coioides*
 
   )](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/data/p052_02b.html)

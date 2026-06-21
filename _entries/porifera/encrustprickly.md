@@ -109,15 +109,13 @@ Extremely variable in shape from knobs, lobes, to slender branching stems (8-12c
 
 **Sometimes confused with**
 [Mustard sponge](dactylospongia)
-(
-*Dactylospongia elegans*
+(*Dactylospongia elegans*
 , Family Thorectidae) can look very similar. The two kinds of sponges are difficult to tell apart in the field.
 
 **Sponging clams:**
 Sometimes, the sponge is inhabited by
 [Sponge finger oysters](../mollusca/bivalvia/pteriidae/vulsella)
-(
-*Vulsella*
+(*Vulsella*
 sp.), a kind of clam that lives only in sponges. These are completely covered by the sponge, with only a slit on the surface of the sponge where the bivalve's shell opening is. Often, these bivalves result in flat blade or leaf-like protrusions in the sponge.
 
 ## Human uses

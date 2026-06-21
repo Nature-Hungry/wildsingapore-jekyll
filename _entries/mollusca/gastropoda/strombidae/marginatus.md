@@ -64,7 +64,6 @@ galleries:
 links_references: '**Links**
 
   - [Marginate conch (
-
   *Strombus marginatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86887)
@@ -72,7 +71,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Marginate conch (
-
   *Strombus marginatus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

@@ -189,45 +189,31 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 **Family Corallimorphidae**
 
 *Corynactis*
-spp. (
-[Ball-tip corallimorphs](balltip)
-)
+spp. ([Ball-tip corallimorphs](balltip))
 
 **Family Discosomidae**
 
 *Discosoma nummiforme*
-(
-[Beaded corallimorphs](beaded)
-)
+([Beaded corallimorphs](beaded))
 
 *Discosoma*
-spp. (
-[Striped corallimorphs](striped)
-)
+spp. ([Striped corallimorphs](striped))
 
 *Rhodactis inchoata*
-(
-[Frilled corallimorphs](frilled)
-)
+([Frilled corallimorphs](frilled))
 
 *Rhodactis indosinensis*
-(
-[Carpet corallimorphs](carpet)
+([Carpet corallimorphs](carpet)
 and
-[White-tip corallimorphs](whitetip)
-)
+[White-tip corallimorphs](whitetip))
 
 *Platyzoanthus mussoides*
-(
-[Ridged corallimorphs](ridged)
-)
+([Ridged corallimorphs](ridged))
 
 **Family Ricordeidae**
 
 *Ricordea yuma*
-(
-[Stubby corallimorphs](stubby)
-)
+([Stubby corallimorphs](stubby))
 
 ---
 

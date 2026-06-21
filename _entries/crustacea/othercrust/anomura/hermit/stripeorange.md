@@ -61,7 +61,6 @@ galleries:
 links_references: '**Links**
 
   - [Mangrove hermit crab (
-
   *Clibanarius*
 
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)

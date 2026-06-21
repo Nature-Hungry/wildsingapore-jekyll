@@ -50,7 +50,6 @@ links_references: '**Links**
   (Carnivora: Mustelidae) Smooth-coated Otter by Tan Jia Xiu, 2015, on taxo4254.
 
   - [Group of ten smooth-coated otters (
-
   *Lutrogale perspicillata*
 
   ) at Pulau Ubin](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-064.pdf)

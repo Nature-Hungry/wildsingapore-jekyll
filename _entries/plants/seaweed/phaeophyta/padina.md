@@ -71,7 +71,6 @@ links_references: '**Links**
   with photos of species found in Australia.
 
   - [Mermaid''s fan (
-
   *Padina*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/104)

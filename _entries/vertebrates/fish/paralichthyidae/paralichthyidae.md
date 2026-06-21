@@ -82,7 +82,6 @@ galleries:
 links_references: '**Links**
 
   - [Largetooth Flounder (
-
   *Pseudorhombus arsius*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/384)

@@ -256,9 +256,7 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
 ****
 Stingrays are a popular seafood dish in Singapore. The large pectoral fins are barbequed and served with chilli, often on a banana leaf. You can see their cartilageous bones as you eat the flesh. The
 [Blue-spotted fantail ray](lymma)
-(
-*Taeniura lymma*
-) is also popular in the live aquarium trade although it does not do well in captivity. Stingrays are often seen among the fishes trapped in abandoned fishing nets and traps on our shores.
+(*Taeniura lymma*) is also popular in the live aquarium trade although it does not do well in captivity. Stingrays are often seen among the fishes trapped in abandoned fishing nets and traps on our shores.
 
 ---
 

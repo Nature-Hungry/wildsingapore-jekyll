@@ -162,16 +162,14 @@ The colony may be made up of two different kinds of polyps. Feeding polyps look 
 
 Other polyps function as reproductive organs and often don't have tentacles. Some hydroids have defensive polyps, usually club-shaped and well armed with stingers that can inject toxins or are sticky. These not only protect the colony but may also help to capture tiny prey.
 
-Fire corals (
-*Millepora*
+Fire corals (*Millepora*
 sp.) are hydroids that produce a massive skeleton so they appear to be hard corals. As their name suggests, these animals have powerful stingers.
 
 [Stinging hydroids](stinging)
 inflict powerful stings that can leave painful and hideous scars on the bare skin of careless visitors or divers.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
-The feeding polyps gather food with tiny tentacles armed with stinging cells. The digested nutrients are shared with the rest of the colony. Some hydroids such as Fire corals (
-*Millepora*
+The feeding polyps gather food with tiny tentacles armed with stinging cells. The digested nutrients are shared with the rest of the colony. Some hydroids such as Fire corals (*Millepora*
 sp.) harbour symbiotic algae (zooxanthellae) in their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals.
 
 **Living on a hydroid**

@@ -30,7 +30,6 @@ coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiid
 links_references: '**Links**
 
   - [Dusky-gilled mudskipper (
-
   *Periophthalmus novemradiatus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2106)
@@ -42,7 +41,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Dusky-gilled mudskipper (
-
   *Periophthalmus novemradiatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/372)
@@ -62,7 +60,6 @@ links_references: '**Links**
   by Gianluca Polgar: Technical fact sheets with lots of photos.
 
   - [Pearse''s mudskipper (
-
   *Periophthalmus novemradiatus*
 
   )](http://www.fishbase.us/summary/SpeciesSummary.php?id=7486)

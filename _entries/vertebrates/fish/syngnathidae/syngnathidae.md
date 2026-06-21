@@ -43,7 +43,6 @@ links_references: '**Links**
   ,
 
   [Seahorse (
-
   *Hippocampus*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)
@@ -57,7 +56,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Blue-speckled Pipefish (
-
   *Hippichthys cyanospilus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
@@ -65,7 +63,6 @@ links_references: '**Links**
   ,
 
   [Spotted Seahorse (
-
   *Hippocampus kuda*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248)

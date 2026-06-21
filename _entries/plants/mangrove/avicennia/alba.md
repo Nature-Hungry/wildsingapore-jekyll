@@ -56,7 +56,6 @@ galleries:
 links_references: '**Links**
 
   - [Api-api putih (
-
   *Avicennia alba*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1049)

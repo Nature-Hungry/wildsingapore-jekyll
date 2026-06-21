@@ -74,7 +74,6 @@ galleries:
 links_references: '**Links**
 
   - [Banded bead anemone (
-
   *Epiactis*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/119)
@@ -174,9 +173,7 @@ As at 2024,
 *A. handi, A. dixoniana, A. nigrescens*
 are assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-Another bead anemone sometimes seen on our shores is the Pink-spotted bead anemone (
-[*Anthopleura buddemeieri*](buddemeieri)
-). It looks very different. Pale body column with red spots along the entire length, tentacles grey with a reddish cast.
+Another bead anemone sometimes seen on our shores is the Pink-spotted bead anemone ([*Anthopleura buddemeieri*](buddemeieri)). It looks very different. Pale body column with red spots along the entire length, tentacles grey with a reddish cast.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 
 ---

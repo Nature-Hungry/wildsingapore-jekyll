@@ -43,7 +43,6 @@ galleries:
 links_references: '**Links**
 
   - [Red berry snail (
-
   *Sphaerassiminea miniata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2083)
@@ -57,7 +56,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Red mangrove shell (
-
   *Assiminaea brevicula*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/152)

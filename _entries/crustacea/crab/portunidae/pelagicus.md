@@ -185,8 +185,7 @@ Some flower crabs may have a 'garden' of various living seaweed and
 [barnacles](../../othercrust/ciriipedia/balanus)
 growing on their bodies, pincers and legs. These crabs are usually those infected by a
 [parasitic barnacle](../../othercrust/ciriipedia/thompsonia)
-(
-*Thompsonia*
+(*Thompsonia*
 sp.)
 
 ## Role in habitat

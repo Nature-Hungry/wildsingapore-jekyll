@@ -124,7 +124,6 @@ galleries:
 links_references: '**Links**
 
   - [Tiger tail seahorse (
-
   *Hippocampus comes*
 
   )](http://www.fishbase.org/summary/53792)
@@ -184,9 +183,7 @@ This large seahorse with a black-and-yellow banded tail is often seen on our Sou
 
 It's difficult to tell this seahorse apart from the
 [Estuarine seahorse](kuda)
-(
-*Hippocampus kuda*
-). More on
+(*Hippocampus kuda*). More on
 [how to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

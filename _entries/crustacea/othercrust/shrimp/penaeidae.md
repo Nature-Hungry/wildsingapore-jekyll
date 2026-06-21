@@ -136,13 +136,9 @@ Those of the genus
 *Penaeus*
 have large pointed 'teeth' on the rostrum. These include the popular 'Tiger prawns' probably so-named for the banded patterns on their bodies. But these prawns may also be green or grey.
 
-The Black tiger prawn (
-*Penaeus monodon*
-) has a well-developed rostrum armed with 7 or 8 upper (dorsal) teeth and 3 ventral teeth. Depending on ground, what they eat and how murky the water is, body colours vary from green, brown, red, grey, blue. With bands alternating blue or black and yellow. Pleopods brown to blue pleopods with reddish fringing hairs. Grows to 30cm and weighing 130g, females larger. It is also called the Giant tiger prawn and Asian tiger prawn.
+The Black tiger prawn (*Penaeus monodon*) has a well-developed rostrum armed with 7 or 8 upper (dorsal) teeth and 3 ventral teeth. Depending on ground, what they eat and how murky the water is, body colours vary from green, brown, red, grey, blue. With bands alternating blue or black and yellow. Pleopods brown to blue pleopods with reddish fringing hairs. Grows to 30cm and weighing 130g, females larger. It is also called the Giant tiger prawn and Asian tiger prawn.
 
-The Green tiger prawn (
-*Penaeus semisulcatus*
-) has a more or less straight rostrum armed with 7 or 8 upper (dorsal) teeth and 3 ventral teeth. Antennae with white and red bands. Grows to 18-22cm and weighing 130g, females larger.
+The Green tiger prawn (*Penaeus semisulcatus*) has a more or less straight rostrum armed with 7 or 8 upper (dorsal) teeth and 3 ventral teeth. Antennae with white and red bands. Grows to 18-22cm and weighing 130g, females larger.
 
 *Parapenaeopsis*
 species are 12-17cm long prawns that live in deeper water 10 to 90m.

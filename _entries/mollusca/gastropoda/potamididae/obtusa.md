@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Mud creepers (
-
   *Cerithidea obtusa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2081)
@@ -49,7 +48,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Obtuse creeper (
-
   *Cerithidae obtusa*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
@@ -61,7 +59,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Obtuse horn snail (
-
   *Cerithidea obtusa*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86855)
@@ -69,7 +66,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Obtuse horn snail (
-
   *Cerithidea obtusa*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

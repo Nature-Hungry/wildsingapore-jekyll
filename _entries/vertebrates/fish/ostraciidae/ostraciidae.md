@@ -30,7 +30,6 @@ galleries:
 links_references: '**Links**
 
   - [Shortnose boxfish (
-
   *Rhynchostracion nasus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399)
@@ -50,7 +49,6 @@ links_references: '**Links**
   : Technical fact sheet on the family
 
   - [Yellow Boxfish (
-
   *Ostracion cubicus*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus)

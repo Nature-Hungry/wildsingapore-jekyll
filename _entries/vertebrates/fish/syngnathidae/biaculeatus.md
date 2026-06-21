@@ -75,7 +75,6 @@ links_references: '**Links**
   : THE website for everything about seahorses, it also has lots of info about pipefishes.
 
   - [Alligator pipefish (
-
   *Syngnathoides biaculeatus*
 
   )](http://www.fishbase.org/summary/5980)

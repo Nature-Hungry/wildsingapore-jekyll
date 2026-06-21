@@ -59,7 +59,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Pink ear emperor (
-
   *Lethrinus lentjan*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=1863)

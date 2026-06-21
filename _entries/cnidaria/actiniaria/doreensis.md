@@ -189,12 +189,10 @@ The anemone harbours symbiotic single-celled algae (called zooxanthellae). The a
 
 Several kinds of animals have been associated with snaky anemones including
 [anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/palaemonidae)
-(
-*Periclimenes*
+(*Periclimenes*
 sp.) and
 [anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
-(
-*Amphiprion*
+(*Amphiprion*
 sp.) including
 *A. biaculeatus, A. clarkii*
 (juvenile and adult),

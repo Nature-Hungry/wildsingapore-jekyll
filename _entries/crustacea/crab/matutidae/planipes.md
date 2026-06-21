@@ -41,7 +41,6 @@ galleries:
 links_references: '**Links**
 
   - [Flower moon crab (
-
   *Matuta planipes*
 
   )](http://sealifebase.org/Summary/SpeciesSummary.php?id=83540)

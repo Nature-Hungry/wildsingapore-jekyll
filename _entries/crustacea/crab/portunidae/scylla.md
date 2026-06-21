@@ -67,7 +67,6 @@ galleries:
 links_references: '**Links**
 
   - [Mud Crab (
-
   *Scylla serrata*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/203)
@@ -86,7 +85,6 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   - [Mud Crabs (
-
   *Scylla*
 
   sp)](http://mangrove.nus.edu.sg/guidebooks/text/2044)
@@ -98,7 +96,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Orange mud crab (
-
   *Scylla olivacea*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1082&menuentry=soorten)
@@ -110,7 +107,6 @@ links_references: '**Links**
   and
 
   [Mangrove crab (
-
   *Scylla serrata*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1084&menuentry=soorten)
@@ -187,22 +183,14 @@ Body width to about 20cm. Body somewhat fan-shaped with 9 spines on the sides bu
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 There are three species of mud crabs found in Singapore.
 
-The Green mud crab (
-*S. paramamosain*
-): body width to about 15cm with orange and green pincers and very sharp teeth between the eyes.
+The Green mud crab (*S. paramamosain*): body width to about 15cm with orange and green pincers and very sharp teeth between the eyes.
 
 The
-Orange mud crab (
-*S. olivacea*
-): body width to about 18cm with orange pincers.
+Orange mud crab (*S. olivacea*): body width to about 18cm with orange pincers.
 
-The Purple mud crab (
-*S. tanquebarica*
-): body width to about 20cm with distinct purple pincers.
+The Purple mud crab (*S. tanquebarica*): body width to about 20cm with distinct purple pincers.
 
-The Mud crab we often eat at restaurants are actually from the Giant mud crab (
-*Scylla serrata*
-) which can grow to about 28cm. These come from Sri Lanka (thus sometimes also called the Sri Lankan crab). This crab is not found in Singapore.
+The Mud crab we often eat at restaurants are actually from the Giant mud crab (*Scylla serrata*) which can grow to about 28cm. These come from Sri Lanka (thus sometimes also called the Sri Lankan crab). This crab is not found in Singapore.
 
 **What does it eat?**
 This crab is a predator and will eat any animal that it can catch. It appears to prefer snails and clams.

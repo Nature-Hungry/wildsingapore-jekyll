@@ -53,7 +53,6 @@ galleries:
 links_references: '**Links**
 
   - [Oxpalate nerite (
-
   *Nerita albicilla*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86830)
@@ -61,7 +60,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Oxpalate nerite (
-
   *Nerita albicilla*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
@@ -134,8 +132,7 @@ This nerite snail with distinctive 'pimples' on the underside is often seen on m
 
 ## Features
 
-2-3cm. Shell thick heavy, a flattened oval narrower at end and wider at front, spire does not stick out at all. The flat underside is much longer that other nerites, smooth white or yellowish and pimpled with large rounded bumps. These bumps resembles the tongue of an ox (
-*Albicilla*
+2-3cm. Shell thick heavy, a flattened oval narrower at end and wider at front, spire does not stick out at all. The flat underside is much longer that other nerites, smooth white or yellowish and pimpled with large rounded bumps. These bumps resembles the tongue of an ox (*Albicilla*
 means 'ox-tongue'). Small ridged 'teeth' on the straight edge at the shell opening. Larger shells with two rounded 'teeth' on both sides of the shell opening. Operculum thick, evenly covered in tiny bumps, pinkish or yellowish sometimes with darkish portion. Body pale with fine black bands on the foot and long thin black tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Many patterns:**

@@ -63,7 +63,6 @@ galleries:
 links_references: '**Links**
 
   - [Chequered cardinalfish (
-
   *Apogon margaritophorus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/275)

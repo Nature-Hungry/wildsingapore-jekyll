@@ -110,8 +110,7 @@ habitats:
 
 ## Where seen?
 This group includes the most colourful large crabs that you might commonly encounter on the shore.
-The Egg crabs (
-*Atergatis*
+The Egg crabs (*Atergatis*
 sp.) are often encountered on many of our shores and can be quite common in coral rubble areas. Others are only sometimes seen. They are more active at night, but nevertheless, usually slow moving and always near some hideaway into which they scuttle at the first sign of danger.
 
 ## Features

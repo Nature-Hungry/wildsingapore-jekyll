@@ -96,13 +96,9 @@ This snail with a large, thin spherical shell is rarely seen. They are usually f
 
 9-10cm. The shell is thin but strong, nearly spherical with a short spiral and very large shell opening. Usually with spiralling ridges on the surface. Adult snails lack an operculum.
 
-The Banded tun (
-*Tonna sulcosa*
-) is about 10cm with a rather thick shell that has flat spiral ribs. It is creamy white with 3-4 broad spiralling brown bands. It is found on fine sand and muddy bottoms.
+The Banded tun (*Tonna sulcosa*) is about 10cm with a rather thick shell that has flat spiral ribs. It is creamy white with 3-4 broad spiralling brown bands. It is found on fine sand and muddy bottoms.
 
-The Spotted tun (
-*Tonna dolium*
-) is about 13cm and found on find sand and muddy bottoms.
+The Spotted tun (*Tonna dolium*) is about 13cm and found on find sand and muddy bottoms.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**
 Mainly echinoderms such as sea cucumbers and crustaceans. The snail first paralyses the prey with a salivary secretion containing sulphuric acid before swallowing it whole! The animal has a large foot and can crawl and burrow rapidly.

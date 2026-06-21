@@ -41,7 +41,6 @@ galleries:
 links_references: '**Links**
 
   - [Mud creepers (
-
   *Cerithidea obtusa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2081)
@@ -49,7 +48,6 @@ links_references: '**Links**
   ,
 
   [Belitong (
-
   *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2082)
@@ -57,7 +55,6 @@ links_references: '**Links**
   ,
 
   [Rodong/Berongan (
-
   *Telescopium telescopium*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2084)
@@ -69,21 +66,17 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Telescope Creeper Shell (
-
   *Telescopium telescopium*
 
   ), Obtuse creeper (
-
   *Cerithidae obtusa*
 
   ), Sulcate creeper (
-
   *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
 
   [Creeper Shell (
-
   *Batillaria zonalis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/138)

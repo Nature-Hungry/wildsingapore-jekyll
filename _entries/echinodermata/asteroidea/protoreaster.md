@@ -231,9 +231,7 @@ This huge and colourful sea star is sometimes on some of our undisturbed Norther
 
 Diameter with arms, adults to 30cm, juveniles 8-15cm. Hard, heavy body that is calcified. Arms long tapering to rounded tip, thick and triangular in cross-section. Although their arms appear stiff, these can bend quite extensively. When submerged tiny transparent finger-like structures (papulae) might be seen on the upperside. This species is generally identified by the single row of knobs along the upperside of the arms. The shape, colour and number of knobs may vary. Underneath, from grooves under the arms, emerge tube feet with sucker-shaped tips. These tube feet can be bright red or purple! Knobbly sea stars are mostly red, orange or brown, but sometimes white or pink ones are encountered. Blue or green ones are also sometimes seen.
 
-The Nodulose sea star (
-*Protoreaster nodulosus*
-) can look very similar. They are difficult to tell apart with certainty in the field.
+The Nodulose sea star (*Protoreaster nodulosus*) can look very similar. They are difficult to tell apart with certainty in the field.
 
 Knobbly sea stars are not venomous, although they are often brightly coloured and covered with dangerous-looking knobs, nodules and spines. They are also called the Giant Nodulated sea star, Horned sea star or Chocolate Chip sea star.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

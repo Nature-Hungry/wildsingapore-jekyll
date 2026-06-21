@@ -120,13 +120,9 @@ based on DNA studies. But the old name
 A shrub to a tall tree growing to 10-15m. Leaves (10-15cm) heart-shaped, dark green and shiny above, white and finely furry beneath. The leaves have tiny slits on the main veins on the underside of the leaf. Secretions from these slits often attracts ants. Flower a typical hibiscus-shape, yellow with maroon eye fading to dull pink or orange before falling. Stigma column light yellow, stigma deep crimson purple. According to Corners, the flower blooms at about 9am, long after sunrise and close in the afternoon at about 4pm. The petals usually fall off the same evening or the next morning. Usually, every flower sets fruit. Fruit ripens to a tiny dry capsule (2-3cm) surrounded by the calyx. It splits open to reveal the seeds which float and can withstand extended periods of immersion in sea water.
 
 ## Role in habitat
-Each of three veins on the underside of the leaf near the stalk have a small slit. A sweet substance is secreted from these slits, and ants of all sizes can be seen drinking from them. Among these, are the fierce Weaver ants (
-*Oecophylla smaragdina*
-), which may help keep off insect pests. Some insects that feed on the plant include the
+Each of three veins on the underside of the leaf near the stalk have a small slit. A sweet substance is secreted from these slits, and ants of all sizes can be seen drinking from them. Among these, are the fierce Weaver ants (*Oecophylla smaragdina*), which may help keep off insect pests. Some insects that feed on the plant include the
 [Cotton stainer bug](../../../insecta/dysdercus)
-(
-*Dysdercus decussatus*
-) that feeds on its seeds.
+(*Dysdercus decussatus*) that feeds on its seeds.
 
 ## Human uses
 

@@ -86,7 +86,6 @@ links_references: '**Links**
   on A field guide to Kenyan mangroves: fact sheet with photos.
 
   - [Spottedbelly rock crab (
-
   *Ozius guttatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83554)

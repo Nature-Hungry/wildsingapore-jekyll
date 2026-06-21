@@ -51,7 +51,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Gedabu (
-
   *Sonneratia ovata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1075)
@@ -142,9 +141,7 @@ species. When ripe, the fruit falls and smashes open releasing the seeds.
 
 Similar to
 [Perepat](alba)
-(
-*S. alba*
-) except that it tends to be a shorter tree with shiny, dark green leaves and the flowers have no petals.
+(*S. alba*) except that it tends to be a shorter tree with shiny, dark green leaves and the flowers have no petals.
 
 Gedabu is the preferred local food plant for caterpillars of the moths
 *Eucosma, Taurometopa pyrometalla*

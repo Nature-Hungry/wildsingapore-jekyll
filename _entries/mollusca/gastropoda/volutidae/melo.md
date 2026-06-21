@@ -73,7 +73,6 @@ galleries:
 links_references: '**Links**
 
   - [Melon or Baler Shell (
-
   *Cymbium melo*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/144)
@@ -89,7 +88,6 @@ links_references: '**Links**
   at pearl.com: about the "pearls" that form inside Bailer shells.
 
   - [Indian volute (
-
   *Melo melo*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87026)
@@ -97,7 +95,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Indian volute (
-
   *Melo melo*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

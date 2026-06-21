@@ -101,7 +101,6 @@ links_references: '**Links**
   - ****
 
   [Seahorse (
-
   *Hippocampus*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)
@@ -113,7 +112,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Spotted Seahorse (
-
   *Hippocampus kuda*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248)
@@ -127,7 +125,6 @@ links_references: '**Links**
   Singapore Science Centre. 163 pp.
 
   - [Spotted seahorse (
-
   *Hippocampus kuda*
 
   )](http://www.fishbase.org/summary/5955)
@@ -221,9 +218,7 @@ This seahorse is sometimes seen on many of our Northern shores, among seagrasses
 
 It's difficult to tell this seahorse apart from the
 [Tiger-tailed seahorse](comes)
-(
-*Hippocampus comes*
-). More on
+(*Hippocampus comes*). More on
 [how to tell apart the Tiger-tail and Estuarine seahorses](cfcomeskuda)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

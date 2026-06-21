@@ -95,9 +95,7 @@ Blue corals belong to
 [Phylum Cnidaria](../../cnidaria)
 . Although they produce a hard skeleton, they are NOT
 [hard corals](../../coralhard/coralhard)
-and are more closely related to soft corals. Blue corals are the only members of the Order Helioporacea, Family Helioporidae. They are also the only members of the soft corals (
-[Subclass Alcyonaria](../../coralsoft/coralsoft)
-) that contributes to reef-building, like hard corals do.
+and are more closely related to soft corals. Blue corals are the only members of the Order Helioporacea, Family Helioporidae. They are also the only members of the soft corals ([Subclass Alcyonaria](../../coralsoft/coralsoft)) that contributes to reef-building, like hard corals do.
 
 **Living fossil:**
 Blue corals are considered living relicts of fossil species known from more than 100 million years ago. Most other corals have an evolutionary age of only several hundred thousand years. Blue corals used to be dominant before the last Ice Age when the seas were warmer. They are now only found in warm tropical waters.

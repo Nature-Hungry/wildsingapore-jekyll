@@ -108,7 +108,6 @@ galleries:
 links_references: '**Links**
 
   - [Bigfin reef squid (
-
   *Sepioteuthis lessoniana*
 
   )](http://www.sealifebase.org/summary/Sepioteuthis-lessoniana.html)

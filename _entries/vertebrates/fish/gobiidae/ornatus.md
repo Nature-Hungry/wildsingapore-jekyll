@@ -63,7 +63,6 @@ galleries:
 links_references: '**Links**
 
   - [Ornate goby (
-
   *Istigobius ornatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/361)
@@ -159,9 +158,7 @@ Large for a goby, it grows to about 10cm. Those seen usually about 8cm. Bulbous 
 **Sometimes confused with**
 the
 [Black-spotted lagoon-goby](goldmanni)
-(
-*Istigobius goldmanni*
-) which has pairs of close-set round black spots along the side of the body.
+(*Istigobius goldmanni*) which has pairs of close-set round black spots along the side of the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**

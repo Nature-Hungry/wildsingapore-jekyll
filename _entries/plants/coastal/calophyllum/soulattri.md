@@ -66,9 +66,7 @@ Several of these trees are planted at Chek Jawa, Pulau Ubin. According to Hsuan 
 
 A small tree that looks very much like a
 [Penaga laut](inophyllum)
-(
-*Calophyllum inophyllum*
-) but the leaves are narrower. The flowers and fruits look similar too.
+(*Calophyllum inophyllum*) but the leaves are narrower. The flowers and fruits look similar too.
 
 ## Human uses
 

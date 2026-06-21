@@ -146,8 +146,7 @@ Sometimes a faint central stripe is seen. This is the intestine that shows throu
 
 The worms have been observed enveloping spherical objects. Could they be eating the
 [Yellow clustered bead ascidians](../../ascidiacea/eudistoma)
-(
-*Eudistoma*
+(*Eudistoma*
 sp.) that grow on the rocks? They have also been seen on
 [Beige sheet ascidians](../../ascidiacea/beige)
 .

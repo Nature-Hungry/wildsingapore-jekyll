@@ -93,9 +93,7 @@ This armina nudibranch is sometimes seen on Changi and some of our Northern shor
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken for**
 [Semper's armina nudibranch](semperi)
-(
-*Armina semperi*
-) that has a more colourful oral veil and foot and lacks 'bumps' on its face.
+(*Armina semperi*) that has a more colourful oral veil and foot and lacks 'bumps' on its face.
 
 **What does it eat?**
 As a group, the armina nudibranchs eat soft corals and sea pens. The bumpy-faced armina nudibranch is often seen near

@@ -30,7 +30,6 @@ galleries:
 links_references: '**Links**
 
   - [Reticulated puffer (
-
   *Arothron reticularis*
 
   )](https://www.fishbase.se/summary/6594)

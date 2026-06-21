@@ -118,9 +118,7 @@ Fruit (3-8cm long) egg- or pear-shaped, sometimes weakly angled or with four fai
 
 It is the food plant for caterpillars of the moths
 [Attacus atlas](../../../insecta/atlas)
-(
-*Atlas Moth*
-),
+(*Atlas Moth*),
 *Gnathmocerodes tonsoria*
 , and
 *Thosea andamanica*

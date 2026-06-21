@@ -31,7 +31,6 @@ galleries:
 links_references: '**Links**
 
   - [Violet nerite (
-
   *Dostia violacea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2079)
@@ -103,9 +102,7 @@ About 2cm. Shell thick heavy, oval with a sunken spire. When alive, the shell is
 **Sometimes mistaken for**
 the
 [Black-mouth nerite](cornucopia)
-(
-*Neritina cornocupia*
-) which has the same shell shape but has a black mouth.
+(*Neritina cornocupia*) which has the same shell shape but has a black mouth.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

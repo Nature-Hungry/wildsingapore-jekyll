@@ -135,8 +135,7 @@ There are probably several different species on this page. It's hard to distingu
 **Sometimes confused with**
 branching
 [pore corals](../poritidae/porbranch)
-(
-*Porites*
+(*Porites*
 sp.). For Montipora corals, the corallites and polyps are not visible on the tips of the branches. For Pore corals, the corallites are visible even on the tips of the branches.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

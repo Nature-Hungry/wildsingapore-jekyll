@@ -73,8 +73,7 @@ Thin encrustation with short (2-5cm) finger-like upright branches. Surface rubbe
 
 **Sometimes confused with**
 [Yellow prickly branching sponges](encrustprickly)
-(
-*Pseudoceratina purpurea*
+(*Pseudoceratina purpurea*
 , Family Pseudoceratinidae) which looks very similar. The two kinds of sponges are difficult to tell apart in the field.
 
 ![](https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/100518bbbd3074m3.jpg)

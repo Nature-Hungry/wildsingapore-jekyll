@@ -121,8 +121,7 @@ Colony bushy 15-20cm to 50cm. Colony is branched with thick study 'stems' emergi
 
 **Sometimes confused with**
 [Smooth flowery soft corals](nepsmooth)
-(
-*Litophyton*
+(*Litophyton*
 sp.). It may also resemble the
 [Fire anemone](../actiniaria/actinodendron)
 which, unlike the soft coral, has white stripes radiating from the centre of the oral disk.

@@ -77,7 +77,6 @@ galleries:
 links_references: '**Links**
 
   - [Land hermit crab (
-
   *Coenobita cavipes*
 
   ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
@@ -179,9 +178,7 @@ Boday 3-6cm long, 1cm wide. Left pincer usually larger than the right. Pincers a
 
 There are three species of land hermit crabs in Singapore. They are not easy to distinguish in the field.
 
-The Land hermit crab is so well adapted to life out of water that it will drown if kept underwater! It has special gill chambers that act as lungs. These chambers are large and holds water to keep the gill filaments wet. The hermit crab only needs to occasionally dip in either rainwater or the sea to keep the chambers wet. Females, however, must go to the edge of the sea to release their eggs into the sea. These hatch into planktonic larvae. When the larvae develops into a small hermit crab, it finds an empty shell then heads landward. The Family Coenobitidae includes the largest hermit crab, the Robber or Coconut crab (
-*Birgus latro*
-) which doesn't live in a shell.
+The Land hermit crab is so well adapted to life out of water that it will drown if kept underwater! It has special gill chambers that act as lungs. These chambers are large and holds water to keep the gill filaments wet. The hermit crab only needs to occasionally dip in either rainwater or the sea to keep the chambers wet. Females, however, must go to the edge of the sea to release their eggs into the sea. These hatch into planktonic larvae. When the larvae develops into a small hermit crab, it finds an empty shell then heads landward. The Family Coenobitidae includes the largest hermit crab, the Robber or Coconut crab (*Birgus latro*) which doesn't live in a shell.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 The hermit crab is a scavenger and also eats plants. It may go far inland to forage. Sometimes, many are seen at night near the visitors' huts on our offshore islands. Possibly looking for scraps left behind by visitors?

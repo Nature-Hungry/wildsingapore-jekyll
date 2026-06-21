@@ -102,7 +102,6 @@ galleries:
 links_references: '**Links**
 
   - [Threespot damsel (
-
   *Pomacentrus tripunctatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/344)
@@ -114,7 +113,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Threespot damsel (
-
   *Pomacentrus tripunctatus*
 
   )](http://www.fishbase.se/Summary/SpeciesSummary.php?id=8277)
@@ -195,8 +193,7 @@ To about 20cm, those seen about 12-15cm long. Adults dull greenish black or dark
 Tiny juveniles 2-3cm long can have electric blue lines (although these little fishes may also be the juveniles of
 *Pomacentrus cuneatus*
 or
-*Pomacentrus cheraphilus*
-). These tiny fishes seem to be territorial and swim in jerky darting movements around their 'turf'.
+*Pomacentrus cheraphilus*). These tiny fishes seem to be territorial and swim in jerky darting movements around their 'turf'.
 
 **What does it eat?**
 It eats mainly algae growing on the sea bottom.

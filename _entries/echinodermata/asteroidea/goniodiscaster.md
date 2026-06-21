@@ -112,13 +112,9 @@ These sea stars have been observed clasping coral rubble coated with encrusting 
 **Sometimes confused with**
 the
 [Spiny sea star](gymnanthenea)
-(
-*Gymnanthenea laevis*
-) and the
+(*Gymnanthenea laevis*) and the
 [Cake sea star](anthenea)
-(
-*Anthenea aspera*
-). Here's more on
+(*Anthenea aspera*). Here's more on
 [how to tell apart large sea stars](cfbigstars)
 seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

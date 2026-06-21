@@ -66,7 +66,6 @@ galleries:
 links_references: '**Links**
 
   - [Eight-banded butterflyfish (
-
   *Chaetodon octofasciatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/330)
@@ -78,7 +77,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Eightband butterflyfish (
-
   *Parachaetodon ocellatus*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=5570)

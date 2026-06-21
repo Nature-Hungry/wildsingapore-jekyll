@@ -141,9 +141,7 @@ Body width 4-6cm. Body and claws chocolate brown and covered with large rounded 
 **Sometimes mistaken for**
 the more commonly seen
 [Floral egg crab](floridus)
-(
-*Atergatis floridus*
-).
+(*Atergatis floridus*).
 
 **Status and threats:**
 This crab is listed as 'Endangered' in our Red List of threatened animals of Singapore.

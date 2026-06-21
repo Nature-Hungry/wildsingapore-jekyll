@@ -48,7 +48,6 @@ galleries:
 links_references: '**Links**
 
   - [Honeycomb whipray (
-
   *Himantura uarnak*
 
   )](http://www.fishbase.org/summary/5507)
@@ -60,7 +59,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Honeycomb whipray (
-
   *Himantura undulata*
 
   )](http://www.iucnredlist.org/details/161692/0)

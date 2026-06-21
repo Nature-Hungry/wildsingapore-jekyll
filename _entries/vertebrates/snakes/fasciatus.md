@@ -63,7 +63,6 @@ links_references: '**Links**
   - Tan Heok Hui. 1 Oct 2013.
 
   [Banded krait (
-
   *Bungarus fasciatus*
 
   ) on Pulau Ubin](http://lkcnhm.nus.edu.sg/nis/sbr2013/sbr2013-002.pdf)
@@ -127,16 +126,12 @@ swimming near mangroves on an offshore island. According to Baker, in Singapore 
 ## Features
 
 ****
-1.5-2m long. The body has a triangular cross-section. It has regular black and white bands of equal size. The head is mostly black and is somewhat distinct from the body (it has a 'neck'). The black patch on the head forms a V-shape with the first black band on the body. The tail is not flattened into a paddle shape although it is somewhat triangular like the rest of the body. A highly venomous snake with a toxin that can be fatal to humans with recorded fatalities. But is not an aggressive snake and it will not bite if it is left alone. When it is scared, it will hide its head under coils of its body. Although it has also been recorded as being active and dangerous at night. WARNING: more aggressive baby cobras (
-*Naja sumatrana*
-) have similar markings.
+1.5-2m long. The body has a triangular cross-section. It has regular black and white bands of equal size. The head is mostly black and is somewhat distinct from the body (it has a 'neck'). The black patch on the head forms a V-shape with the first black band on the body. The tail is not flattened into a paddle shape although it is somewhat triangular like the rest of the body. A highly venomous snake with a toxin that can be fatal to humans with recorded fatalities. But is not an aggressive snake and it will not bite if it is left alone. When it is scared, it will hide its head under coils of its body. Although it has also been recorded as being active and dangerous at night. WARNING: more aggressive baby cobras (*Naja sumatrana*) have similar markings.
 
 **Sometimes confused with**
 the highly venomous
 [Yellow-lipped sea snake](laticauda)
-(
-*Laticauda colubrina*
-). Here's
+(*Laticauda colubrina*). Here's
 [how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
 [how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)

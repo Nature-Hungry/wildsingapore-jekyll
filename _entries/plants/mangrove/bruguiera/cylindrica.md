@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Bakau putih (
-
   *Bruguiera cylindrica*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1053)

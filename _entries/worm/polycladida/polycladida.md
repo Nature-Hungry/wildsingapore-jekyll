@@ -266,8 +266,7 @@ Flatworms come in a bewildering variety of colours and patterns. Some of these c
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
 Many flatworms are carnivores that prey on tiny animals (protozoa, copepods,
-[worms](../worm)
-) or feed on immobile animals such as
+[worms](../worm)) or feed on immobile animals such as
 [bryozoans](../../bryozoa/bryozoan)
 ,
 [ascidians](../../ascidiacea/ascidiacea)

@@ -83,7 +83,6 @@ galleries:
 links_references: '**Links**
 
   - [Pacific strawberry cockle (
-
   *Fragum unedo*
 
   )](http://www.sealifebase.org/summary/SpeciesSummary.php?id=84532)
@@ -91,7 +90,6 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
   - Pacific strawberry cockle (
-
   *Fragum unedo*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

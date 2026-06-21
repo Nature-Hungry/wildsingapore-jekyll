@@ -39,7 +39,6 @@ galleries:
 links_references: '**Links**
 
   - [Banded Archerfish (
-
   *Toxotes jaculatrix*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324)
@@ -51,7 +50,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Archerfish (
-
   *Toxotes jaculatrix*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2105)

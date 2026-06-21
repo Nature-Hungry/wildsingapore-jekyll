@@ -117,9 +117,7 @@ habitats:
 ## Where seen?
 The handsome
 [Mangrove cannon-ball tree](granatum)
-(
-*Xylocarpus granatum*
-) is still commonly seen in our mangroves. But other
+(*Xylocarpus granatum*) is still commonly seen in our mangroves. But other
 *Xylocarpus*
 species are not as frequently encountered.
 

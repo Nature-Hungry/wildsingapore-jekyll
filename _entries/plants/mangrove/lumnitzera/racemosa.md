@@ -41,7 +41,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Teruntum bunga puteh (
-
   *Lumnitzera racemosa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1066)
@@ -118,9 +117,7 @@ habitats:
 ## Where seen?
 This pretty plant with plasticky leaves and tiny white flowers is sometimes seen in our mangroves. It is found in the back mangroves, preferring sandy or hard mud areas. Also on shores and waterways with freshwater influence. It can tolerate more saline conditions than
 [Teruntum merah](littorea)
-(
-*Lumnitzera littorea*
-). There are some large old trees at Kranji Nature Trail.
+(*Lumnitzera littorea*). There are some large old trees at Kranji Nature Trail.
 
 ## Features
 
@@ -132,9 +129,7 @@ The small fruits are ribbed, fibrous and float, and dispersed by water. Each fru
 
 **Sometimes mistaken for**
 [Chengam](../scyphiphora/hydrophyllacea)
-(
-*Scyphiphora hydrophyllacea*
-).
+(*Scyphiphora hydrophyllacea*).
 
 According to Giesen, although occurring throughout Malaysia and Indonesia,
 *L. littorea*
@@ -146,9 +141,7 @@ practically exclude each other in habitat and have never been collected in exact
 
 According to Burkill, the timber has similar properties as that of
 [Teruntum merah](littorea)
-(
-*Lumnitzera littorea*
-) but because it is a smaller plant it is less useful.
+(*Lumnitzera littorea*) but because it is a smaller plant it is less useful.
 
 **Status and threats:**
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.

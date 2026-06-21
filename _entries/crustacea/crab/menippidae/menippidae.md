@@ -64,23 +64,18 @@ Body width 10-12cm, smaller ones also often seen. Large rounded body with large 
 
 The common
 [Stone crab](hardwickii)
-(
-*Myomenippe hardwicki*
+(*Myomenippe hardwicki*
 i) is identified by
 bright green eyes circled with red. The
 [Maroon stone crab](rumphii)
-(
-*Menippe rumphii*
-) lacks such eyes and is usually plain maroon or red.
+(*Menippe rumphii*) lacks such eyes and is usually plain maroon or red.
 
 **Steady crab:**
 When a stone is overturned, other crabs usually madly dash out helter skelter. The stone crab merely tucks its limbs under its body and remains motionless. In this way, predators overlook it as they focus instead on the more nervous crabs.
 
 **Sometimes mistaken for**
 [Red egg crabs](../xanthidae/integerrimus)
-(
-*Atergatis integerrimus*
-), especially Stone crabs that are rather reddish.
+(*Atergatis integerrimus*), especially Stone crabs that are rather reddish.
 Here's more on how to tell apart
 [big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.

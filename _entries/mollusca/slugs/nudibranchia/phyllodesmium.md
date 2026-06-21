@@ -106,8 +106,7 @@ According to Bill Rudman,
 *Phyllodesmium briareum*
 feeds on
 [Fine feathery soft corals](../../../cnidaria/coralsoft/feafine)
-(
-*Briareum*
+(*Briareum*
 sp.).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

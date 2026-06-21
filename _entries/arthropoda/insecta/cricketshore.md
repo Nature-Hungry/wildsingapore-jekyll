@@ -65,9 +65,7 @@ This tiny cricket is sometimes seen on some of our shores. On rocky shores near 
 
 Body about 1cm long. A fat bodied insect with long back legs and very long antennae. Usually crawls slowly and only hops to escape predators. The
 [Marine spider](../arachnida/desis)
-(
-*Desis martensi*
-) has been seen preying on these crickets.
+(*Desis martensi*) has been seen preying on these crickets.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

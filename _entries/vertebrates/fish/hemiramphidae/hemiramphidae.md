@@ -157,8 +157,7 @@ Most halfbeak lay eggs attached to seaweed in shallow waters. Some, however, may
 ## Human uses
 
 Halfbeaks apparently taste good and large species (like the
-[Black-barred halfbeak](far)
-) are eaten in some places, sold fresh and dried salted. Or they are used as bait fish. They are caught with nets under lights at night. Some freshwater species are popular in the live aquarium trade.
+[Black-barred halfbeak](far)) are eaten in some places, sold fresh and dried salted. Or they are used as bait fish. They are caught with nets under lights at night. Some freshwater species are popular in the live aquarium trade.
 
 **Status and threats:**
 Our halfbeaks are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.

@@ -215,9 +215,7 @@ seen on our shores.
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What does it eat?**
-It is reported that they eat live corals similar to the feeding habits of the dreaded Crown-of-thorns sea star (
-*Acanthaster planci*
-). According to Chow, it has been found to eat some species of hard corals. But according to Lane, those in Singapore evert their stomachs over immobile animals or even on sediments to eat the organic particles found there. According to Gosliner,
+It is reported that they eat live corals similar to the feeding habits of the dreaded Crown-of-thorns sea star (*Acanthaster planci*). According to Chow, it has been found to eat some species of hard corals. But according to Lane, those in Singapore evert their stomachs over immobile animals or even on sediments to eat the organic particles found there. According to Gosliner,
 *Culcita*
 species gains at least part of their nutrition from eating coral polyps as well as seaweeds. While Schoppe says they eat coral polyps and other immobile invertebrates. According to Marsh and Fromont, it eats corals such as
 *Acropora, Pocillopora*

@@ -51,7 +51,6 @@ galleries:
 links_references: '**Links**
 
   - [Creeper Shell (
-
   *Batillaria zonalis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/138)

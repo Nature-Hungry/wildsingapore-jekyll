@@ -127,8 +127,7 @@ Usually hidden by the fleshy tissue, the 'hollow' structure of the branches prov
 **Sometimes confused with**
 some species of
 [Lobed brain corals](../mussidae/lobophyllia)
-(
-*Lobophyllia*
+(*Lobophyllia*
 sp.) that may also have branching corallites with circular openings. Other corals that may appear similar include:
 *Barabattoia*
 and some

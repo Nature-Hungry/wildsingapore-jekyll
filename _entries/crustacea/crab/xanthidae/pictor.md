@@ -127,7 +127,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mosaic reef crab (
-
   *Lophozozymus pictor*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=139345&genusname=Lophozozymus&speciesname=pictor)

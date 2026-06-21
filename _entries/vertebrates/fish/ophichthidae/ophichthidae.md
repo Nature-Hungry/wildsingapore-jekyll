@@ -30,7 +30,6 @@ galleries:
 links_references: '**Links**
 
   - [Green worm-eel (
-
   *Muraenichthys*
 
   sp.)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213)
@@ -38,7 +37,6 @@ links_references: '**Links**
   and
 
   [Burrowing Snake-eel (
-
   *Pisodonophis crancrivorus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/214)

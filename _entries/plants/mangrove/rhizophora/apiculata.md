@@ -48,7 +48,6 @@ links_references: '**Links**
   (Malpighiales: Rhizophoraceae) Bakau minyak by Song Yiluan, 2014, on taxo4254.
 
   - [Bakau minyak (
-
   *Rhizophora apiculata*](http://mangrove.nus.edu.sg/guidebooks/text/1069)
 
   ) Ng, Peter K. L. & N. Sivasothi, 1999.

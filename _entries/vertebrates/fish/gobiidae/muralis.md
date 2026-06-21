@@ -54,7 +54,6 @@ galleries:
 links_references: '**Links**
 
   - [Mural goby (
-
   *Valenciennea muralis*
 
   )](http://www.fishbase.org/summary/7226)

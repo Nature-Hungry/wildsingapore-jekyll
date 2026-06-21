@@ -168,13 +168,9 @@ Sometimes mistaken for red plastic bags, these traslucent slippery red seaweeds 
 
 Texture slippery. Some are flat with feathered edges. Others have branching forms with a broad flat central 'stem' from which arise finer branches. Spots and bumps on the seaweed may be reproductive structures.
 [Ruffled halymenia red seaweed](dilatata)
-(
-*Halymenia dilatata*
-) is translucent, slippery flat with ruffled edges.
+(*Halymenia dilatata*) is translucent, slippery flat with ruffled edges.
 [Frilly sheet red seaweed](maculata)
-(
-*Halymenia maculata*
-) is more leathery.
+(*Halymenia maculata*) is more leathery.
 
 Although each clump of Halymenia red seaweed can be large, these seaweeds do not 'bloom' and cover large areas like some other kinds of seaweeds.
 

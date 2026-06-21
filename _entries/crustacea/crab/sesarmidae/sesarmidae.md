@@ -48,7 +48,6 @@ links_references: '**Links**
   ,
 
   [Tree-climbing/Vinegar crabs (
-
   *Episesarma*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049)
@@ -56,7 +55,6 @@ links_references: '**Links**
   ,
 
   [Mangrove tree-dwelling crab (
-
   *Selatium brockii*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2050)
@@ -241,15 +239,11 @@ Perisesarma bidens
 Perisesarma dussumieri
 
 Perisesarma/Chiromantes eumolpe=^Perisesarma eumolpe*
-(
-[Face-banded sesarmine crabs](perisesarma)
-)
+([Face-banded sesarmine crabs](perisesarma))
 *+Perisesarma fasciatum
 
 Perisesarma indiarum*
-(
-[Face-banded sesarmine crabs](perisesarma)
-)
+([Face-banded sesarmine crabs](perisesarma))
 *+Perisesarma cf. lenzii
 
 Perisesarma onychophorum

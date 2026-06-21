@@ -31,7 +31,6 @@ galleries:
 links_references: '**Links**
 
   - [Sea Lettuce (
-
   *Ulva*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/103)
@@ -165,9 +164,7 @@ When the shores are covered with sea lettuce, you can smell the distinctive arom
 Sometimes, you might come across a sea lettuce blade that is white or transparent. This could be because the sea lettuce has become fertile and converted some of its cells into reproductive cells and released these cells. Often, this happens along the edge of the blade.
 
 ## Role in habitat
-Sea lettuce is one of the seaweeds eaten by the Green turtle (
-*Chelonia mydas*
-), as well as other creatures. The dense tangle of seaweed also provides plenty of hiding places for the small animals that live in the seagrass lagoon.
+Sea lettuce is one of the seaweeds eaten by the Green turtle (*Chelonia mydas*), as well as other creatures. The dense tangle of seaweed also provides plenty of hiding places for the small animals that live in the seagrass lagoon.
 
 ## Human uses
 

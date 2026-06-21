@@ -117,9 +117,7 @@ Clusters of flat circular encrusting (2-4cm) disks that have a slippery surface.
 
 **Sometimes confused with**
 [Bracket brown seaweed](../phaeophyta/bracket)
-(
-*Lobophora variegata*
-) which is not so encrusting and is leathery.
+(*Lobophora variegata*) which is not so encrusting and is leathery.
 
 According to
 [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=33926)

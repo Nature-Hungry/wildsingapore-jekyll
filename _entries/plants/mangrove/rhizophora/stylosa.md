@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Bakau pasir (
-
   *Rhizophora stylosa*](http://mangrove.nus.edu.sg/guidebooks/text/1071)
 
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
@@ -94,9 +93,7 @@ and generally shorter (less than 30cm).
 
 **Sometimes mistaken for**
 [Bakau kurap](mucronata)
-(
-*Rhizophora mucronata*
-) which has larger leaves and longer, more pimply propagules. The two species can only be distinguished with certainty by looking at the details of the flowers.
+(*Rhizophora mucronata*) which has larger leaves and longer, more pimply propagules. The two species can only be distinguished with certainty by looking at the details of the flowers.
 *R. stylosa*
 has a longer style.
 

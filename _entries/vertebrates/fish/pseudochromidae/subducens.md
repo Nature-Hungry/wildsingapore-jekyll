@@ -128,7 +128,6 @@ galleries:
 links_references: '**Links**
 
   - [Carpet eel-blenny (
-
   *Congrogadus subducens*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/306)
@@ -154,7 +153,6 @@ links_references: '**Links**
   and
 
   [Carpet eel-blenny (
-
   *Congrogadus subducens*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4419)

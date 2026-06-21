@@ -51,7 +51,6 @@ galleries:
 links_references: '**Links**
 
   - [Strap-weed file-fish (
-
   *Pseudomonacanthus macrurus*
 
   )](www.fishbase.org/Summary/SpeciesSummary.php?ID=10598)

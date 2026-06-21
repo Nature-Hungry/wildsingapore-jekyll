@@ -173,22 +173,16 @@ Grouped in this entry are flatworms with a body that is white, beige or pale blu
 
 From Rene Ong:
 
-Blue-lined flatworm (
-*Pseudoceros concinnus*
-): Two fine blue lines in the centre, which are so close to one another that they appear to be one solid blue line. In between the fine blue lines, is the body colour. Body colour creamy-white to slightly bluish-creamy-white.
+Blue-lined flatworm (*Pseudoceros concinnus*): Two fine blue lines in the centre, which are so close to one another that they appear to be one solid blue line. In between the fine blue lines, is the body colour. Body colour creamy-white to slightly bluish-creamy-white.
 
-Yellow-lined flatworm (
-*Pseudoceros*
+Yellow-lined flatworm (*Pseudoceros*
 sp. 3): central line is yellow with dark blue border. Body colour lightly bluish-white to bluish (not solid blue).
 
-Braided-line flatworm (
-*Pseudoceros*
+Braided-line flatworm (*Pseudoceros*
 sp. 4): resembles Pseudoceros sp. 3 but the central line is golden-speckled yellow that looks intermittent by some dull orange and ends in front. Body colour bluish-white to bluish.
 
 [Racing-lined flatworm](bifurcus)
-(
-*Pseudoceros bifurcus*
-): Body solid blue to bluish purple (not bluish-white) with central line that is white (not yellow or golden) becoming orange or red near the head, the line is edged with a thin dark purple border.
+(*Pseudoceros bifurcus*): Body solid blue to bluish purple (not bluish-white) with central line that is white (not yellow or golden) becoming orange or red near the head, the line is edged with a thin dark purple border.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

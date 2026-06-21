@@ -143,13 +143,9 @@ Diameter with arms 7-15cm. Usually five arms long with rounded tips. The body is
 **Sometimes confused with**
 the
 [Biscuit sea star](goniodiscaster)
-(
-*Goniodiscaster scaber*
-) and the
+(*Goniodiscaster scaber*) and the
 [Cake sea star](anthenea)
-(
-*Anthenea aspera*
-). Here's more on
+(*Anthenea aspera*). Here's more on
 [how to tell apart large sea stars](cfbigstars)
 on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -66,7 +66,6 @@ galleries:
 links_references: '**Links**
 
   - [Oriental Sole (
-
   *Brachirus orientalis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/387)
@@ -78,7 +77,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp. Family Soleidae .
 
   - [Oriental sole (
-
   *Brachirus orientalis*
 
   )](http://www.fishbase.org/summary/8312)
@@ -121,9 +119,7 @@ This large flattened fish is sometimes seen on some of our shore.
 ## Features
 
 Usually 10-12cm, it can grow to 30cm. Eyes on the right side with a small curved mouth. Body oval, it has a tiny pectoral fin on the eyed-side. Dorsal and anal fins joined with the tail fin and uniformly dark. The eyed-side is greyish brown with dark patches.
-Scales are rough. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins (
-[here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)
-).
+Scales are rough. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins ([here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)).
 
 **Sometimes confused with**
 other

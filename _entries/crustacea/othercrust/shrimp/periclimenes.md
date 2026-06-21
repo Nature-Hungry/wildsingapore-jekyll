@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Glass Shrimp (
-
   *Periclimenes*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/180)

@@ -99,8 +99,7 @@ The fruits take exactly five weeks to set and opens at 3am. The pink star-shaped
 ## Role in habitat
 Nymphs and adults of the colourful
 [Giant shield bug](../../../insecta/pycanum)
-(
-*Pycanum*
+(*Pycanum*
 sp.) are often seen on the plant and it appears to feed on the plant, sucking the sap. The large leaves are used by tailorbirds to sew together into a pouch for their tiny nests. Unfortunately, after they fall to the ground, the large leaves also hold shallow pools of rainwater in which mosquitos breed. Thus areas with Simpoh air are often mosquito infested.
 
 ## Human uses

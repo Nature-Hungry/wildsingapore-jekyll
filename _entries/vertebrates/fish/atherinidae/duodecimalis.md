@@ -53,7 +53,6 @@ galleries:
 links_references: '**Links**
 
   - [Tropical Silverside (
-
   *Atherinomorus duodecimalis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/234)
@@ -65,7 +64,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Tropical Silverside (
-
   *Atherinomorus duodecimalis)*](http://mangrove.nus.edu.sg/guidebooks/text/2103)
 
   Ng, Peter K. L. & N. Sivasothi, 1999.
@@ -79,7 +77,6 @@ links_references: '**Links**
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
 
   - [Tropical Silverside (
-
   *Atherinomorus duodecimalis*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=1302)
@@ -200,9 +197,7 @@ Silversides belong to Family Atherinidae. According to
 3-10cm long. These indeed silvery fishes are small, slender and streamlined, with large eyes and relatively large scales. They have small mouths that are upturned toward the water surface. They have two widely separated dorsal fins. They usually have a distinct darker band along the middle of the body from head to tail. Often seen in groups, sometimes in large schools. They are also called hardyheads.
 
 **Tropical silversides**
-(
-*Atherinomorus duodecimalis*
-): Those seen 3-6cm long, grows to about 10cm. Streamlined torpedo-shaped with large eyes. Colours silvery grey, bluish to bright blue. Usually with a narrow silvery line along the length of the side of the body.
+(*Atherinomorus duodecimalis*): Those seen 3-6cm long, grows to about 10cm. Streamlined torpedo-shaped with large eyes. Colours silvery grey, bluish to bright blue. Usually with a narrow silvery line along the length of the side of the body.
 
 **Sometimes confused with**
 other small silvery fishes. More on

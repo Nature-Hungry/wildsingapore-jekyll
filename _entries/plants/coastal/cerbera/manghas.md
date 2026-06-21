@@ -111,17 +111,13 @@ Tree up to 15-20m tall, but in Singapore usually shorter. Produces a white sap f
 
 Leaves oval (12-30cm long) dark green and glossy, held in dense spirals at the tips of the twigs. Leaves generally smaller than that of the more common
 [Yellow-eyed Pong pong tree](odollam)
-(
-*Cerbera odollam*
-).
+(*Cerbera odollam*).
 
 Flowers (3-4.5cm) white with pink centre, first orange pink then reddish pink. The flowers appear at the tips of the twigs.
 
 Fruits mango-shaped or oblong (5-7cm) glossy hard, often paired. Green ripening pink, rosy purple and finally black. The fruits float are dispersed by water. When they wash up, often only the fibrous husk is left, around a hard stone.
 
-It is the caterpillar host-plant of the King Crow butterfly (
-*Euploea phaenareta castelnaui*
-).
+It is the caterpillar host-plant of the King Crow butterfly (*Euploea phaenareta castelnaui*).
 
 ## Human uses
 

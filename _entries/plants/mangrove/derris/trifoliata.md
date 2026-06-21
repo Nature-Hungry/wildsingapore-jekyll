@@ -50,7 +50,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Common derris (
-
   *Derris trifoliata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1057)
@@ -126,27 +125,17 @@ Fruits coin-like circular flat pods (3-4cm) with 1-2 seeds. The pods are green a
 ## Role in habitat
 Like other climbers, it provides shelter for smaller creatures of the mangroves. The plants also form an interlocking framework among trees, which may add to strength of the forest against coastal storms. The plant twines around trees and shrubs and can form deep "choke" marks on trees as their trunks expand. But eventually, the trees usually prevail, breaking the vines. Thus common derris doesn't 'strangle' trees.
 
-According to the NParks Flora and Fauna website, it is the preferred local food plant for caterpillars of the dark caerulean butterfly (
-*Jamides bochus nabonassar*
-). The mother butterfly lays her eggs in the space between the flower buds, or in the spaces between the flower stalks and the axis of the flowering shoot. According to Butterfly Circle, it is also the host plant for the
+According to the NParks Flora and Fauna website, it is the preferred local food plant for caterpillars of the dark caerulean butterfly (*Jamides bochus nabonassar*). The mother butterfly lays her eggs in the space between the flower buds, or in the spaces between the flower stalks and the axis of the flowering shoot. According to Butterfly Circle, it is also the host plant for the
 [Sumatran sunbeam](http://butterflycircle.blogspot.com/2010/08/life-history-of-sumatran-sunbeam.html)
-(
-*Curetis saronis sumatrana*
-),
+(*Curetis saronis sumatrana*),
 [Common Awl](http://butterflycircle.blogspot.sg/2009/12/life-history-of-common-awl.html)
-(
-*Hasora badra badra*
-),
+(*Hasora badra badra*),
 [White Banded Awl](http://www.butterflycircle.com/checklist%20V2/CI/index.php/start-page/startpage/showbutterfly/239)
-(
-*Hasora taminatus malayana*
-),
+(*Hasora taminatus malayana*),
 *[Nacaduba pavana singapura](http://www.butterflycircle.com/checklist%20V2/CI/index.php/start-page/startpage/showbutterfly/192)*
 and
 [Short Banded Sailor](http://butterflycircle.blogspot.sg/2010/05/life-history-of-short-banded-sailor.html)
-(
-*Phaedyma columella singa*
-).
+(*Phaedyma columella singa*).
 
 ## Human uses
 

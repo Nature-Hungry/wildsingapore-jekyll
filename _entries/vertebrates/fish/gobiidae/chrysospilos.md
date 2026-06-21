@@ -73,7 +73,6 @@ galleries:
 links_references: '**Links**
 
   - [Gold-spotted mudskipper (
-
   *Periophthalmus chrysospilos*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/371)

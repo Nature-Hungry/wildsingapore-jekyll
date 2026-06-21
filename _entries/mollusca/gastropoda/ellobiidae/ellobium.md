@@ -115,9 +115,7 @@ It grazes on algae growing on mangrove trees and on the ground.
 Traditionally collected as food by Indonesian coastal dwellers.
 
 **Status and threats:**
-The Mangrove land snail (
-*Ellobium scheepmakeri*
-) is listed as 'Critically Endangered' on the list of threatened animals of Singapore due to habitat loss.
+The Mangrove land snail (*Ellobium scheepmakeri*) is listed as 'Critically Endangered' on the list of threatened animals of Singapore due to habitat loss.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---

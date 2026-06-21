@@ -56,7 +56,6 @@ galleries:
 links_references: '**Links**
 
   - [Spot-tail Needlefish (
-
   *Strongylura strongylura*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/242)
@@ -64,7 +63,6 @@ links_references: '**Links**
   and
 
   [Banded/Slender Needlefish (
-
   *Strongylura leiura*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/243)
@@ -76,7 +74,6 @@ links_references: '**Links**
   . Singapore Science Centre.
 
   - [Spot-tail needlefish (
-
   *Strongylura strongylura*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2104)

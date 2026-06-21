@@ -48,7 +48,6 @@ galleries:
 links_references: '**Links**
 
   - [Polished nerite (
-
   *Nerita polita*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86832)
@@ -56,7 +55,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Polished nerite (
-
   *Nerita polita*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

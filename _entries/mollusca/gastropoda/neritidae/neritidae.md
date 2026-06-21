@@ -153,9 +153,7 @@ They are gathered as food by coastal dwellers. Some species of nerites are eaten
 **Status and threats:**
 The tiny and beautifully marked
 [Dubious nerite snails](oualaniensis)
-(
-*Clithon oulaniensis*
-) and
+(*Clithon oulaniensis*) and
 [Polished nerite](polita)
 *(Nerita polita)*
 are listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

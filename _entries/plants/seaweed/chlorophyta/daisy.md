@@ -107,8 +107,7 @@ habitats:
 ## Where seen?
 This tiny seaweed is often overlooked. It grows on stones and coral rubble, often near the
 ['Taugeh' seaweed](neomeris)
-(
-*Neomeris*
+(*Neomeris*
 sp.)
 
 ## Features

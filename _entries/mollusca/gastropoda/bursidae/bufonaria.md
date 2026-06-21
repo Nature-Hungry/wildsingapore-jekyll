@@ -60,7 +60,6 @@ links_references: '**Links**
   with photos of shells and detailed fact sheets for many species.
 
   - [Common frog snail (
-
   *Bufonaria rana*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86964)
@@ -68,7 +67,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Common frog snail (
-
   *Bufonaria rana*
 
   ) in Family Bursidae in the Gastropods section by J.M. Poutiers in the FAO Species
@@ -130,9 +128,7 @@ Although the shells are often seen (usually occupied by hermit crabs), living sn
 
 4-6cm. Shell thick, conical with spirals of many regular bumps and blunt spines. There is a short tubular tip on the shell for the siphon. Ooperculum thin and flexible, made of a horn-like material. Body pale, with a long muscular foot, short tentacles with a black band at the tips.
 
-The Common frog snail (
-*Bufonaria rana*
-) is about 7.5cm long, up to 9cm and found on mud or muddy-sand bottoms.
+The Common frog snail (*Bufonaria rana*) is about 7.5cm long, up to 9cm and found on mud or muddy-sand bottoms.
 
 **What does it eat?**
 Some species appear appear to feed on tube worms. These have an extendible proboscis and large salivary glands, that are probably used to anaesthetize the worms in their tubes; the worms are then sucked out and swallowed whole.

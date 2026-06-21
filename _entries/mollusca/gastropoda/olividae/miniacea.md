@@ -50,7 +50,6 @@ galleries:
 links_references: '**Links**
 
   - [Redmouth olive (
-
   *Oliva miniacea*
 
   )](http://www.sealifebase.org/summary/SpeciesSummary.php?id=87039)
@@ -58,7 +57,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet and photo.
 
   - [Orange-mouth olive snail (
-
   *Olivia sericea*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=202)

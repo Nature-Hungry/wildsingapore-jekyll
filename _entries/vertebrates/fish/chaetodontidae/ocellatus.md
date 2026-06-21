@@ -98,7 +98,6 @@ galleries:
 links_references: '**Links**
 
   - [Kite butterflyfish (
-
   *Parachaetodon ocellatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/329)
@@ -114,7 +113,6 @@ links_references: '**Links**
   on Ecology Asia: Fact sheet with photos.
 
   - [Sixspine butterflyfish (
-
   *Parachaetodon ocellatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7887)

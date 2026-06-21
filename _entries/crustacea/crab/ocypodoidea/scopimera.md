@@ -66,7 +66,6 @@ galleries:
 links_references: '**Links**
 
   - [Sand Bubbler Crab (
-
   *Scopimera*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/193)
@@ -86,7 +85,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Sand bubbler crab (
-
   *Scopimera globosa*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1775&menuentry=soorten)

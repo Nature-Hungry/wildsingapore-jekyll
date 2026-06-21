@@ -128,8 +128,7 @@ Some species of broad zoanthids have been recorded to contain the highly toxic
 
 Compared to
 [button zoanthids](zoanthus)
-(
-*Zoanthus*
+(*Zoanthus*
 sp.), broad zoanthids are generally found in smaller clusters with fewer individuals, although large mounds of them are sometimes seen.
 
 **Sometimes confused**

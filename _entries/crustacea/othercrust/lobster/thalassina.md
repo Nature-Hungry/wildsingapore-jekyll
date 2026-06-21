@@ -60,7 +60,6 @@ galleries:
 links_references: '**Links**
 
   - [Mud lobster (
-
   *Thalassina anomala*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/183)
@@ -72,7 +71,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mud lobster (
-
   *Thalassina anomala*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2064)
@@ -94,7 +92,6 @@ links_references: '**Links**
   and
 
   [Scorpion mud lobster (
-
   *Thalassina anomala*
 
   )](http://species-identification.org/species.php?species_group=lobsters&id=75)

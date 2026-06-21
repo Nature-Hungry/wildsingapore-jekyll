@@ -82,7 +82,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Common decorator crab (
-
   *Schizophrys aspera*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=aspera)
@@ -90,7 +89,6 @@ links_references: '**Links**
   and
 
   [Pronghorn decorator crab (
-
   *Schizophrys dama*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=dama)
@@ -173,9 +171,7 @@ This large squat crab is sometimes seen on some of our shores, clinging to coral
 
 Body width 4-5cm. Body teardrop-shaped with large spines on the sides. Large eyes on short stalks with a pair of spines between them. Pincers long cylindrical, tucked downwards under the body, claws with spoon-shaped tips. Body and walking legs usually covered with encrustations, except for the ends of the pincers. Some may have small bits and pieces stuck on their bodies, but they are not as well 'decorated' as the
 [Velcro crabs](retusa)
-(
-*Camposcia retusa*
-).
+(*Camposcia retusa*).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

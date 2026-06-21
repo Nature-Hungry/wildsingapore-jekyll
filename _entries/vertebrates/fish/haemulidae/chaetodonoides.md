@@ -53,7 +53,6 @@ galleries:
 links_references: '**Links**
 
   - [Clown Sweetlips (
-
   *Plectorhinchus chaetodonoides*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/284)
@@ -65,7 +64,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Harlequin sweetlips (
-
   *Plectorhinchus chaetodonoides*
 
   )](http://www.fishbase.org/summary/Plectorhinchus-chaetodonoides.html)

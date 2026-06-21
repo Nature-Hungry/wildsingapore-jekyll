@@ -136,8 +136,7 @@ the
 [bumpy-faced armina nudibranch](bumpyface)
 , that has a plain oral veil and foot and has bumps on its 'face'. The
 [Tiny striped nudibranch](dermatobranchus)
-(
-*Dermatobranchus*
+(*Dermatobranchus*
 sp.) is also striped but is much smaller.
 
 **What does it eat?**

@@ -66,7 +66,6 @@ galleries:
 links_references: '**Links**
 
   - [Calf moon snail (
-
   *Natica vitellus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86930)
@@ -74,7 +73,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Calf moon snail (
-
   *Natica vitellus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

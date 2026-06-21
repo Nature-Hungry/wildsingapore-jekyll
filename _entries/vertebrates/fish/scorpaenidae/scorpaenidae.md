@@ -149,9 +149,7 @@ A scorpionfish uses its venom only for protection and not to catch or kill prey.
 **Scorpionfish mimic:**
 The
 [False scorpionfish](../centrogenyidae/vaigiensis)
-(
-*Centrogenys vaigiensis*
-) looks and behaves like a scorpionfish but belong to the Family Serranidae which includes groupers. By mimicking the more venomous scorpionfishes, the false scorpionfish probably manages to discourage most predators. Here's more on
+(*Centrogenys vaigiensis*) looks and behaves like a scorpionfish but belong to the Family Serranidae which includes groupers. By mimicking the more venomous scorpionfishes, the false scorpionfish probably manages to discourage most predators. Here's more on
 [how to tell apart fishes that look like stones](../cfstonefish)
 .
 
@@ -163,13 +161,10 @@ Most scorpionfishes reproduce through internal fertilisation. Some species lay t
 
 ## Human uses
 
-Scorpionfishes are venomous but not poisonous. In temperate climates, large members of this group called rockfishes or rockcods (
-*Sebastes*
+Scorpionfishes are venomous but not poisonous. In temperate climates, large members of this group called rockfishes or rockcods (*Sebastes*
 sp.) are considered good eating and are caught by sport fishermen as well as commercially for as food fish. Rockfishes are vulnerable to overfishing as they grow slowly and reach maturity late.
 
-Tropical scorpionfishes of various kinds are extensively harvested from the wild for the live aquarium trade. The Lionfish (
-*Pterois volitans*
-) is particularly popular. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
+Tropical scorpionfishes of various kinds are extensively harvested from the wild for the live aquarium trade. The Lionfish (*Pterois volitans*) is particularly popular. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
 ---
 

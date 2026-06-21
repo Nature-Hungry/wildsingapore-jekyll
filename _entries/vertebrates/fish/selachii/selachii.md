@@ -234,9 +234,7 @@ Among the sharks commonly seen on our shores are:
 (Family Hemiscylliidae): sometimes seen by divers at Pulau Hantu.
 
 **Black tipped reef sharks**
-(
-*Carcharhinus melanopterus*
-): sometimes encountered during surveys of the Southern submerged reefs at low tide. These sharks appear to hunt fish in low water, thus staying in the shallows at moderate tides or coming in with the tide.
+(*Carcharhinus melanopterus*): sometimes encountered during surveys of the Southern submerged reefs at low tide. These sharks appear to hunt fish in low water, thus staying in the shallows at moderate tides or coming in with the tide.
 
 Records (see below) suggest a wide variety of shark species have been seen in Singapore in the past.
 

@@ -79,7 +79,6 @@ galleries:
 links_references: '**Links**
 
   - [Three-spined Toadfish (
-
   *Batrachomoeus trispinosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/232)
@@ -91,7 +90,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Toadfish (
-
   *Batrachus*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/232)
@@ -226,9 +224,7 @@ is another kind of fish.
 A toadfish is basically an enormous head on a small body! It has a broad, flat head with large eyes near the top of the head.
 
 **Three-spined toadfish**
-(
-*Batrachomoeus trispinosus*
-): Those seen about 10-20cm long, grows to about 30cm. Its super wide mouth circles the broad head and is usually camouflaged with fleshy barbels and flaps around the lips. The first dorsal fin has 2-3 spines. It lacks scales and has a tough, leathery smooth skin with mottled patterns. Distinct greyish-brown bars on the sides, well-contrasted markings on the top of its head. There is a pit behind the upper edge of the pectoral fin base.
+(*Batrachomoeus trispinosus*): Those seen about 10-20cm long, grows to about 30cm. Its super wide mouth circles the broad head and is usually camouflaged with fleshy barbels and flaps around the lips. The first dorsal fin has 2-3 spines. It lacks scales and has a tough, leathery smooth skin with mottled patterns. Distinct greyish-brown bars on the sides, well-contrasted markings on the top of its head. There is a pit behind the upper edge of the pectoral fin base.
 *Allenbatrachus reticulatus*
 looks similar and lacks this pit.
 

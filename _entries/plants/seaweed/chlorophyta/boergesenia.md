@@ -142,12 +142,10 @@ and
 
 **Sometimes confused with**
 [Green sea sausage seaweed](bornetella)
-(
-*Bornetella*
+(*Bornetella*
 sp.) which is more club- to cylindrical in shape and is opaque, and
 [Beaded cushion green seaweed](valonia)
-(
-*Valonia*
+(*Valonia*
 sp.) which has tinier bubbles packed closely together. Here's more on
 [how to tell apart some green seaweeds](cfgrapes)
 .

@@ -72,7 +72,6 @@ galleries:
 links_references: '**Links**
 
   - [Spectacled box crab (
-
   *Calappa philargius*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83545)

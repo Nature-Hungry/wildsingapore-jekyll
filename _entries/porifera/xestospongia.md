@@ -170,9 +170,7 @@ are also seen draped on the outside.
 
 It it not correct to refer to this sponge as the
 [Neptune's cup sponge](patera)
-(
-*Cliona patera*
-), which is usually found in deep water and often much larger.
+(*Cliona patera*), which is usually found in deep water and often much larger.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

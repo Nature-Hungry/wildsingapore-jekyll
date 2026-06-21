@@ -45,7 +45,6 @@ galleries:
 links_references: '**Links**
 
   - [Brown shore goby (
-
   *Drombus triangularis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/364)

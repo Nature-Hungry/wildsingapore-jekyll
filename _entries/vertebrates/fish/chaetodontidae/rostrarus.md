@@ -108,7 +108,6 @@ galleries:
 links_references: '**Links**
 
   - [Copperband butterflyfish (
-
   *Chelmon rostratus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/331)
@@ -120,7 +119,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Copper Banded Butterflyfish (
-
   *Chelmon rostratus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/235)
@@ -132,7 +130,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Copperband butterflyfish (
-
   *Chelmon rostratus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=5483)

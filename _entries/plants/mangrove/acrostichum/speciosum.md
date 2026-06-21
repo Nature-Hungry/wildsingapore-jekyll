@@ -40,7 +40,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Piai Raya (
-
   *Acrostichum aureum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1038)
@@ -48,7 +47,6 @@ links_references: '**Links**
   and
 
   [Piai Lasu (
-
   *Acrostichum speciosum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1039)
@@ -102,17 +100,13 @@ The more delicate and elegant of our mangrove ferns, it is often seen in back ma
 [mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 and other higher ground, usually in the shade. Compared to
 [Piai raya](aureum)
-(
-*A. aureum*
-), it is found in areas more frequently inundated by tides.
+(*A. aureum*), it is found in areas more frequently inundated by tides.
 
 ## Features
 
 The leaflets are thinner and shorter (1.5-2m long) than those of
 [Piai raya](aureum)
-(
-*A. aureum*
-) and young fronds are green or brownish-green. Rhizomes covered with scales up to 8mm long. The first few pairs near the tips are fertile leaflets, the underside covered below with dark brown spores (sporangia). Sterile leaflets gradually tapering to a narrow tip.
+(*A. aureum*) and young fronds are green or brownish-green. Rhizomes covered with scales up to 8mm long. The first few pairs near the tips are fertile leaflets, the underside covered below with dark brown spores (sporangia). Sterile leaflets gradually tapering to a narrow tip.
 
 See the
 [main page on mangrove ferns](acrostichum)

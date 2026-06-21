@@ -92,8 +92,7 @@ The entire sponge 10-15cm wide with closely packed narrow hollow tubes (4-6cm ta
 
 **Sometimes confused with**
 [Spiky tubular sponges](tubespiky)
-(
-*Gelliodes*
+(*Gelliodes*
 sp.) which have neat spikes regularly arranged around their hollow tubes forming a star-like shape around the large hole at the tibe of the tube.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

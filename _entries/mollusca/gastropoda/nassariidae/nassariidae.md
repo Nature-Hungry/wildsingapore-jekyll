@@ -56,7 +56,6 @@ galleries:
 links_references: '**Links**
 
   - [Mud whelk (
-
   *Nassarius jacksonianus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2087)

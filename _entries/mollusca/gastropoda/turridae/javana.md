@@ -37,7 +37,6 @@ galleries:
 links_references: '**Links**
 
   - [Javanese turrid (
-
   *Turricula javana*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87071)
@@ -45,7 +44,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Javanese turrid (
-
   *Turricula javana*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

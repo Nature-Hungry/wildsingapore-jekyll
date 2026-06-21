@@ -142,9 +142,7 @@ These crabs really do resemble tiny pebbles and are sometimes seen on our Northe
 
 Body width 1-2cm. Body smooth somewhat rhomboid, indeed resembling a tiny pebble. The head forms a blunt pointed tip with a pair of tiny eyes. In this way, its eyes can peep out while the rest of the crab is buried underground. It has powerful long flat pincers with pointed claws. The crab can bury itself in the sand very rapidly. Some may be colourful.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
-According to the Singapore Red Data Book, the Rubble crab (
-*Favus granulatus*
-) is known only from Singapore and was a new genus and species discovered from Singapore and is not yet known elsewhere. It was found on Siloso Beach of Sentosa which has since been 'improved', and Pulau Semakau.
+According to the Singapore Red Data Book, the Rubble crab (*Favus granulatus*) is known only from Singapore and was a new genus and species discovered from Singapore and is not yet known elsewhere. It was found on Siloso Beach of Sentosa which has since been 'improved', and Pulau Semakau.
 *Alox somphos*
 , a related species in another genus was also first described from Singapore.
 

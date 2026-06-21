@@ -76,9 +76,7 @@ The layer encrusts coral rubble and may cover an area of 20cm wide or more. Some
 [Smooth green sponge](smoothgreen)
 which is not as smooth has has a texture of tiny bumps. Also similar to the
 [Smooth brown sponges](smoothbrown)
-(
-*Neopetrosia exigua*
-) which are brown.
+(*Neopetrosia exigua*) which are brown.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.
 

@@ -69,7 +69,6 @@ galleries:
 links_references: '**Links**
 
   - [Little pitcher conch (
-
   *Strombus urceus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86879)
@@ -77,7 +76,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Black-lipped conch (
-
   *Strombus urceus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=199)
@@ -85,7 +83,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Little pitcher conch (
-
   *Strombus urceus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

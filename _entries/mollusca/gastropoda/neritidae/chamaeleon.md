@@ -41,7 +41,6 @@ galleries:
 links_references: '**Links**
 
   - [Chameleon nerite (
-
   *Nerita chamaleon*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86831)
@@ -49,7 +48,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Chameleon nerite (
-
   *Nerita chamaleon*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

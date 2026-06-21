@@ -34,7 +34,6 @@ galleries:
 links_references: '**Links**
 
   - [Yellowtail or Vermiculated angelfish (
-
   *Chaetodontoplus mesoleucus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/334)

@@ -95,7 +95,6 @@ galleries:
 links_references: '**Links**
 
   - [Fringe-eyed Flathead (
-
   *Cymbacephalus nematophthalmus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260)
@@ -107,7 +106,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Fringe-eyed Flathead (
-
   *Cymbacephalus nematophthalmus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=10776)

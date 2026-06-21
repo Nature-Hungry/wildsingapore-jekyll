@@ -67,7 +67,6 @@ galleries:
 links_references: '**Links**
 
   - [Soldier crab (
-
   *Dotilla myctiroides*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2052)
@@ -75,7 +74,6 @@ links_references: '**Links**
   ,
 
   [Fiddler crabs (
-
   *Uca*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053)
@@ -83,7 +81,6 @@ links_references: '**Links**
   ,
 
   [Semaphore crabs (
-
   *Ilyoplax*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054)
@@ -91,7 +88,6 @@ links_references: '**Links**
   ,
 
   [Sentinel crabs (
-
   *Macrophthalmus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055)
@@ -99,7 +95,6 @@ links_references: '**Links**
   ,
 
   [Shen crab (
-
   *Shenius anomalum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2056)
@@ -111,7 +106,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Ghost Crab (
-
   *Ocypoda*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)
@@ -119,7 +113,6 @@ links_references: '**Links**
   and
 
   [Fiddler crabs (
-
   *Uca*
 
   spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190)
@@ -196,22 +189,17 @@ zone:
 ## Where seen?
 Crabs belonging to this family include some of the most commonly encountered on our shores during the day:
 [fiddler crabs](uca)
-(
-*Uca*
+(*Uca*
 sp.),
 [sand bubbler crabs](scopimera)
-(
-*Scopimera*
+(*Scopimera*
 and
 *Dotilla*
 spp.) and
 [soldier crabs](dotilla)
-(
-*Dotilla myctiroides*
-). Others like the
+(*Dotilla myctiroides*). Others like the
 [ghost crabs](ceratophthalmus)
-(
-*Ocypode*
+(*Ocypode*
 sp.) are only active at night.
 
 ## Features
@@ -272,9 +260,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 sp.**
 
 *Dotilla myctiroides*
-(VU: Vulnerable) (
-[Soldier crab](dotilla)
-)
+(VU: Vulnerable) ([Soldier crab](dotilla))
 
 *Dotilla wichmanni*
 

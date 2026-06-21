@@ -98,8 +98,7 @@ These climbers with tough succulent leaves and beautiful wax-like flowers are so
 (previously known as
 *H. parasitica*
 or
-*H. ridleyi*
-) "often near the sea" at Changi, Chua Chu Kang, Tuas, Krani and Pulau Tekong. With the loss of our mangroves, however, these plants are now less commonly seen.
+*H. ridleyi*) "often near the sea" at Changi, Chua Chu Kang, Tuas, Krani and Pulau Tekong. With the loss of our mangroves, however, these plants are now less commonly seen.
 
 ## Features
 

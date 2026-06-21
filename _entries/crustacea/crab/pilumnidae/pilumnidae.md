@@ -95,8 +95,7 @@ habitats:
 ## Where seen?
 The most commonly seen member of this family on our shores are the
 [Common hairy crabs](pilumnus)
-(
-*Pilumnus*
+(*Pilumnus*
 sp.) near rubble and reefs.
 
 ## Features
@@ -145,9 +144,7 @@ Bathypilumnus sinensis
 +Benthopanope aff. eucratoides
 
 Ceratocarcinus longimanus*
-(
-[Feather star crab](featherstar)
-)
+([Feather star crab](featherstar))
 *Ceratoplax ciliata
 
 Galene bispinosa*
@@ -160,13 +157,9 @@ Galene bispinosa*
 (**Now in Family Galenidae)
 **
 *Harrovia albolineata*
-(
-[Feather star crab](featherstar)
-) (CR: Critically endangered)
+([Feather star crab](featherstar)) (CR: Critically endangered)
 *Harrovia longipes*
-(
-[Feather star crab](featherstar)
-) (CR: Critically endangered)
+([Feather star crab](featherstar)) (CR: Critically endangered)
 *Heteropanope changensis
 
 Heteropanope glabra

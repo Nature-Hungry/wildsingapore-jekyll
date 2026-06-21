@@ -169,9 +169,7 @@ and
 
 Many green seaweeds are eaten directly by people. In the Philippines,
 [sea grapes](lentillifera)
-(
-*Caulerpa lentillifera*
-) is cultivated as food and sold fresh or salted. Some species are used as feritilisers and additives in animal feed (poultry, cattle, fish).
+(*Caulerpa lentillifera*) is cultivated as food and sold fresh or salted. Some species are used as feritilisers and additives in animal feed (poultry, cattle, fish).
 
 Unlike
 [brown seaweeds](../phaeophyta/phaeophyta)
@@ -184,22 +182,17 @@ Like other seaweeds, green seaweeds provide food and shelter for a wide range of
 
 Some of the animals that eat green seaweeds look like the seaweeds! Those commonly seen include the
 [Ornate leaf slug](../../../mollusca/slugs/sacoglossa/ornata)
-(
-*Elysia ornata*
-) and a tiny hairy
+(*Elysia ornata*) and a tiny hairy
 [Bryopsis slug](../../../mollusca/slugs/sacoglossa/bryopsis)
 that is still awaiting identification and is often seen on the
 [Hairy green seaweed](bryopsis)
-(
-*Bryopsis*
+(*Bryopsis*
 sp.) and the tiny
 [Halimeda slug](../../../mollusca/slugs/sacoglossa/pusilla)
-(
-*Pusilla*
+(*Pusilla*
 sp.) often seen on
 [Big coin green seaweed](halbig)
-(
-*Halimeda*
+(*Halimeda*
 sp.)
 
 During a seaweed 'bloom' there can be a corresponding explosion in the number and variety of animals that eat that particular seaweed. As well as the predators that eat the seaweed-eaters.

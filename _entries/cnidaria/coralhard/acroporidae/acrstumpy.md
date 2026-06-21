@@ -90,9 +90,7 @@ Colonies 10-25cm. Short, thick stumpy branches forming a squat bush-like shape. 
 
 The coral often has various animals hidden among the branches. These include the
 [Broad-barred acropora goby](../../../vertebrates/fish/gobiidae/histrio)
-(
-*Gobiodon histrio*
-), shrimps and clams.
+(*Gobiodon histrio*), shrimps and clams.
 
 There are probably several different species on this page. It's hard to distinguish them without close examination of small features and they are grouped by large external features for convenience of display.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

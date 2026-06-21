@@ -152,9 +152,7 @@ According to
 *Gracilaria*
 species. The species are difficult to differentiate based on external features alone. Except for
 [Knobbly agar-agar red seaweed](salicornia)
-(
-*Gracilaria salicornia*
-) with distinctive club-shaped segments.
+(*Gracilaria salicornia*) with distinctive club-shaped segments.
 
 Some other species found on our shore that resemble Gracilaria include
 *Hydropuntia edulis*

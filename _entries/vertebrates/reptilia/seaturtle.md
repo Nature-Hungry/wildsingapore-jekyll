@@ -84,7 +84,6 @@ links_references: '**Links**
   - NParks Flora and Fauna website:
 
   [Green turtle (
-
   *Chelonia mydas*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=263)
@@ -92,7 +91,6 @@ links_references: '**Links**
   and
 
   [Hawksbill turtle (
-
   *Eretmochelys imbricata*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=262)
@@ -187,14 +185,10 @@ Marine turtles are air-breathing reptiles that live out at sea. They only return
 Globally, there are 7 sea turtle species belonging to two families. The two species most commonly encountered in Singapore are the Green turtle and the Hawksbill turtle.
 
 **Hawksbill turtle**
-(
-*Eretmochelys imbricata*
-): To about 90cm. Its jaws are distinctly hook-shaped and are used to crunch crabs and shells. The edge of the shell towards the back is serrated and not smooth. It eats mainly sponges but also other animals. It is found near reefs. This is the sea turtle that is harvested for its shell, used in 'tortoise shell' products.
+(*Eretmochelys imbricata*): To about 90cm. Its jaws are distinctly hook-shaped and are used to crunch crabs and shells. The edge of the shell towards the back is serrated and not smooth. It eats mainly sponges but also other animals. It is found near reefs. This is the sea turtle that is harvested for its shell, used in 'tortoise shell' products.
 
 **Green turtle**
-(
-*Chelonia mydas*
-): To about 1.5m or more. Jaws are not hooked shaped and the edge of shell is smooth. Their common name arose from the colour of the cartilage and fat deposits around their internal organs. Adults eat mainly or only seagrasses and thus found near coastal areas with seagrass meadows. Juveniles are omnivorous and eat seaweeds, crabs and squid.
+(*Chelonia mydas*): To about 1.5m or more. Jaws are not hooked shaped and the edge of shell is smooth. Their common name arose from the colour of the cartilage and fat deposits around their internal organs. Adults eat mainly or only seagrasses and thus found near coastal areas with seagrass meadows. Juveniles are omnivorous and eat seaweeds, crabs and squid.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Stranded baby sea turtles:**
 In recent years, there were incidents of sea turtle hatchlings going in the 'wrong' direction when they emerged from the sandy shores of East Coast Park. Why do they do this? Baby sea turtles' natural instinct is to head towards the sea. In nature, starlight and moonlight on the water would guide them in the right direction. However, in urbanised shores like ours, light from our parks, streets and other human activities disorientate them. As a result, they head in the wrong direction and usually come to a sad end.

@@ -35,7 +35,6 @@ galleries:
 links_references: '**Links**
 
   - [Lenggadai (
-
   *Bruguiera parviflora*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1055)
