@@ -1,6 +1,6 @@
 ---
 title: Mini sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mini sea hare on the shores of Singapore
 keywords: mini, seahare, hare, aplysia, parvula, anaspidea, aplysiidae, bursatella,
   leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Pinang palm '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pinang palm  on the shores of Singapore
 keywords: betel, nut, betelnut, areca, catechu, aracaceae, palmae, palm, plant, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

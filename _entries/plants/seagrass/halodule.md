@@ -1,6 +1,8 @@
 ---
 title: Needle seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Thin ribbon-like leaves up to 15cm long and 3.5mm wide. Rhizomes thin.
+  Sometimes seen on some our shores, especially on sand bars. Luxuriant growths seen
+  on seaward sandbars on Chek Jawa.
 keywords: needle, grass, halodule, uninervis, pinifolia, cymodoceaceae, potamogetonaceae,
   cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

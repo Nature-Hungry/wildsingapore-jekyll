@@ -1,6 +1,6 @@
 ---
 title: 'Brown-scurfy fig '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown-scurfy fig  on the shores of Singapore
 keywords: brown, scurfy, fig, ficus, consociata, moraceae, tree, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

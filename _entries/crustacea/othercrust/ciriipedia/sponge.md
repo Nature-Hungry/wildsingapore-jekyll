@@ -1,6 +1,6 @@
 ---
 title: Sponge barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sponge barnacle on the shores of Singapore
 keywords: sponge, barnacle, membranobalanus, longirostrum, archaeobalanidae, cirripedia,
   crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

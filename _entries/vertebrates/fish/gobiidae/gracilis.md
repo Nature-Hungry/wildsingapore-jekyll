@@ -1,6 +1,6 @@
 ---
 title: Slender mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Slender mudskipper on the shores of Singapore
 keywords: mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, gracilis,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

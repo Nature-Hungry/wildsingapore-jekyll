@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange blob sponge on the shores of Singapore
 keywords: orange, blob, sponge, mycale, myclaidae, porifera, field, guide, seashore,
 layout: entry
 shape: blobs

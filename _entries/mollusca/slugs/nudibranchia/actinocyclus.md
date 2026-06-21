@@ -1,6 +1,6 @@
 ---
 title: Fugly nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fugly nudibranch on the shores of Singapore
 keywords: actinocyclus, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

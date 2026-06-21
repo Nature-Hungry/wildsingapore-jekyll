@@ -1,6 +1,6 @@
 ---
 title: 'Acorn worms '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Acorn worms  on the shores of Singapore
 keywords: acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo
 layout: entry

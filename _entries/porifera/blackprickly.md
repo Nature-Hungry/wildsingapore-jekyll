@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black prickly sponge on the shores of Singapore
 keywords: spiky, ball, sponge, porifera, echinodictyum, conulosum, raspailiidae, field,
 layout: entry
 shape: blobs

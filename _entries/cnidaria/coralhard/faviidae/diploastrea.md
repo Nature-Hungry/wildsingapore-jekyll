@@ -1,6 +1,6 @@
 ---
 title: Moon coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Moon coral on the shores of Singapore
 keywords: moon, diploastrea, heliopora, faviidae,
 layout: entry
 family: Faviidae

@@ -1,6 +1,7 @@
 ---
 title: 'Upsidedown brittle star (Ophiothrix sp.) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Upsidedown brittle star (Ophiothrix sp.)  on the shores
+  of Singapore
 keywords: upsidedown, brittle, star, brittlestar, ophiothrix, ophiuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

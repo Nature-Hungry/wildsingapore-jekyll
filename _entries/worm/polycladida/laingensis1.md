@@ -1,6 +1,7 @@
 ---
 title: 'Purple-spotted yelllow flatworms (Polycladida) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Purple-spotted yelllow flatworms (Polycladida)  on the
+  shores of Singapore
 keywords: flat, worm, flatworm, polyclad, turbellaria, platyhelminthes,  field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

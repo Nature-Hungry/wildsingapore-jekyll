@@ -1,6 +1,6 @@
 ---
 title: Fern hydroid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fern hydroid on the shores of Singapore
 keywords: feathery, hydroid, sertularella, sertulariidae, hydrozoa, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

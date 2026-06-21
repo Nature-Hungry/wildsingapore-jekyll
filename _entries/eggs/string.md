@@ -1,6 +1,6 @@
 ---
 title: Egg strings on Singapore shores
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Egg strings on Singapore shores on the shores of Singapore
 keywords: encrusting, sponge, porifera, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

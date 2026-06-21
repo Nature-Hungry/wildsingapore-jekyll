@@ -1,7 +1,9 @@
 ---
 title: Sunburst carrier-shell snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sunburst, carrier, stellaria, solaris, xenophoridae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet of Sunburst carrier-shell snail on the shores of Singapore
+keywords: sunburst, carrier, stellaria, solaris, xenophoridae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Stellaria
@@ -34,18 +36,29 @@ galleries:
     caption: Changi, Oct 10
 links_references: '**Links**
 
-  - [Family Xenophoridae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Xenophoridae.html) on [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html) at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
+  - [Family Xenophoridae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Xenophoridae.html)
+  on [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  fact sheet with photos.
 
-  - [Sunburst carrier shell (*Xenophora solaris*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86893) on SeaLife Base: Technical fact sheet.
+  - [Sunburst carrier shell (*Xenophora solaris*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86893)
+  on SeaLife Base: Technical fact sheet.
 
-  - Sunburst carrier shell (*Xenophora solaris*) Family Xenophoridae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00) on the Food and Agriculture Organization of the United Nations (FAO) website.
+  - Sunburst carrier shell (*Xenophora solaris*) Family Xenophoridae in the Gastropods
+  section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes:
+  The Living Marine Resources of the Western Central Pacific [Volume 1: Seaweeds,
+  corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+  on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
   **References**
 
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist of The Molluscs of Singapore* (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist of The Molluscs
+  of Singapore* (pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
 
-  - Abbott, R. Tucker, 1991. *Seashells of South East Asia*. Graham Brash, Singapore. 145 pp.
+  - Abbott, R. Tucker, 1991. *Seashells of South East Asia*. Graham Brash, Singapore.
+  145 pp.
 
   '
 location:

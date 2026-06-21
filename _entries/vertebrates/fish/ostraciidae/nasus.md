@@ -1,6 +1,6 @@
 ---
 title: 'Shortnose boxfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Shortnose boxfish  on the shores of Singapore
 keywords: short, nose, shortnose, boxfish, box, fish, rhynchostracion, ostracion,
   rhynchostracion, nasus, ostraciidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

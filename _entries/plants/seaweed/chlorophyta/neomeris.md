@@ -1,6 +1,6 @@
 ---
 title: Taugeh seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Taugeh seaweed on the shores of Singapore
 keywords: white, stem, sausage, seaweed, weed, green, neomeris, dasycladaceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

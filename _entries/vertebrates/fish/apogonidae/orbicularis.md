@@ -1,6 +1,6 @@
 ---
 title: Orbicular cardinalfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orbicular cardinalfish on the shores of Singapore
 keywords: orbicular, cardinalfish, cardinal, fish,sphaeramia, apogon, orbicularis,
   apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

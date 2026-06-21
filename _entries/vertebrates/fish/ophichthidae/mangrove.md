@@ -1,6 +1,6 @@
 ---
 title: Mangrove snake-eel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove snake-eel on the shores of Singapore
 keywords: mangrove, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry

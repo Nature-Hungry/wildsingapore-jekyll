@@ -1,6 +1,6 @@
 ---
 title: Heavy jumper spider
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Heavy jumper spider on the shores of Singapore
 keywords: heavy, jumper, spider, hyllus, diardi, salticidae, arachnid, arthropod,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info

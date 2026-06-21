@@ -1,6 +1,6 @@
 ---
 title: 'Tiny orange brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny orange brittle stars  on the shores of Singapore
 keywords: tiny, orange, brittle, star, brittlestar, ophiothela, mirabilis, ophiuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,9 @@
 ---
 title: Small hermit-hitching  anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 1-2cm. Many short tapering tentacles. Oral disk white or with white radiating
+  stripes. Body column short, smooth and not covered in sediments, pale some with
+  faint stripes. On shells occupied by hermit crabs. Sometimes seen on our Northern
+  shores.
 keywords: hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

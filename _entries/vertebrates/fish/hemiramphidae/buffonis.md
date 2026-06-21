@@ -1,6 +1,6 @@
 ---
 title: Stripe-nosed   halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stripe-nosed   halfbeak on the shores of Singapore
 keywords: stripe, striped, nose, halfbeak, half, beak, zenarchopterus, buffonis, zenarchopteridae,
   hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

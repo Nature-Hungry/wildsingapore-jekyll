@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chocolate sponge on the shores of Singapore
 keywords: chocolate, sponge, spheciospongia, vagabunda, clionaidae, porifera, field,
 layout: entry
 shape: blobs

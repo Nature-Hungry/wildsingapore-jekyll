@@ -1,6 +1,6 @@
 ---
 title: 'Curry puff crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Curry puff crab  on the shores of Singapore
 keywords: ruby, reef, crab, liomera, venosa, xanthidae, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

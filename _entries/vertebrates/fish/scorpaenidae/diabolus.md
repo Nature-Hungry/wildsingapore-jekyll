@@ -1,6 +1,6 @@
 ---
 title: False stonefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of False stonefish on the shores of Singapore
 keywords: false, stone, scorpion, fish, scorpaenopsis, diabolus, scorpaenidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black antler sponge on the shores of Singapore
 keywords: black, spiky, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: branching

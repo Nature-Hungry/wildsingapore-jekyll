@@ -1,6 +1,6 @@
 ---
 title: Spotted sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted sea hare on the shores of Singapore
 keywords: spotted, seahare, hare, aplysia, oculifera, anaspidea, opisthobranch, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Estuarine crocodile '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Estuarine crocodile  on the shores of Singapore
 keywords: estuarine, crocodile, crocodylus, porosus, crocodylidae, vertebrate, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Chut-chut '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chut-chut  on the shores of Singapore
 keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae,
   gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Sea mussels
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea mussels on the shores of Singapore
 keywords: mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

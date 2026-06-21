@@ -1,6 +1,6 @@
 ---
 title: 'Spotted-belly '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted-belly  on the shores of Singapore
 keywords: spotted, belly, forceps, crab, ozius, guttatus, oziidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

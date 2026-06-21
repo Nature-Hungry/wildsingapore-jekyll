@@ -1,6 +1,6 @@
 ---
 title: Merten's carpet anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Merten's carpet anemone on the shores of Singapore
 keywords: mertens, carpet, anemone, stichodactyla, mertensii, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

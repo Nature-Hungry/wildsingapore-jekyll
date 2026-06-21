@@ -1,6 +1,6 @@
 ---
 title: Elephant-nose plate
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elephant-nose plate on the shores of Singapore
 keywords: elephant, nose, plate, mycedium, elephantotus, merulinidae, pectiniidae,
   coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

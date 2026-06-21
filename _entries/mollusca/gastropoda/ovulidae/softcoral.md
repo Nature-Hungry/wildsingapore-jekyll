@@ -1,6 +1,6 @@
 ---
 title: Soft coral false cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Soft coral false cowrie on the shores of Singapore
 keywords: soft, coral, ovulid, cowrie, ovulidae, gastropod, mollusc, snail, shell,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

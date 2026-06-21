@@ -1,6 +1,6 @@
 ---
 title: Tigerish olive snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tigerish olive snail on the shores of Singapore
 keywords: olive, snail, shell, oliva, tigridella, olividae, gastropod, mollusc, sand,
   collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Broad feathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Broad feathery soft coral on the shores of Singapore
 keywords: alcyonacea, soft, coral, octocoral, sansibia, flava, xeniidae, alcyonacea,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

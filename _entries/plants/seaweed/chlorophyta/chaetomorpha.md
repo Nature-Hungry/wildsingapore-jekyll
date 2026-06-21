@@ -1,6 +1,6 @@
 ---
 title: '''Bee hoon'' green seaweed'
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of 'Bee hoon' green seaweed on the shores of Singapore
 keywords: bee, hoon, seaweed, weed, green, chaetomorpha, cladophoraceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

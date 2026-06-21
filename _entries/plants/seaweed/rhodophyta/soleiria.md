@@ -1,6 +1,6 @@
 ---
 title: Robust red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Robust red seaweed on the shores of Singapore
 keywords: robust, red, seaweed, weed, algae, solieria, robusta, solieriaceae, rhodophyceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

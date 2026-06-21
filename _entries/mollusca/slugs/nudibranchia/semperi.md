@@ -1,6 +1,6 @@
 ---
 title: Semper's armina nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Semper's armina nudibranch on the shores of Singapore
 keywords: semper, armina, semperi, arminidae, arminacea nudibranchia, slug, seaslug,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

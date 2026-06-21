@@ -1,6 +1,6 @@
 ---
 title: Daisy green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Daisy green seaweed on the shores of Singapore
 keywords: seaweed, weed, green, parvocaulis, parvulus, acetabularia, polyphysaceae,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

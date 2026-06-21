@@ -1,6 +1,7 @@
 ---
 title: 'Serrated ribbon seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Narrow and shorter ribbon-like leaves with rounded tips with fine serrations.
+  Rhizomes thick and smooth. Seen on some of our Southern reefs and shores.
 keywords: serrated, ribbon, grass, cymodocea, serrulata, cymodoceaceae, potamogetonaceae,
   cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

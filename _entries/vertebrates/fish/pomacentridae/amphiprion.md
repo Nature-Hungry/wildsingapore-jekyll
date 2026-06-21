@@ -1,6 +1,6 @@
 ---
 title: Anemonefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Anemonefishes on the shores of Singapore
 keywords: anemonefish, anemone, fish, pomacentridae, amphiprion, amphiprioninae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Golf ball sponge on the shores of Singapore
 keywords: golf, ball, sponge, porifera, cinachyrella, australiensis, tetillidae, field,
 layout: entry
 shape: ball

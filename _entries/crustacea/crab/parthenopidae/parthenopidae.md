@@ -1,6 +1,6 @@
 ---
 title: Elbow crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elbow crabs on the shores of Singapore
 keywords: elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

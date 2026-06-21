@@ -1,6 +1,6 @@
 ---
 title: Green-shouldered goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Green-shouldered goby on the shores of Singapore
 keywords: green, shoulder, goby, acentrogobius, caninus, fish, gobiidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

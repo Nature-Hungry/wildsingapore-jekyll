@@ -1,6 +1,6 @@
 ---
 title: Cyanobacteria
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cyanobacteria on the shores of Singapore
 keywords: cyanobacteria, blue-green, blue, green, seaweed, weed, algae, chlorophyta,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info

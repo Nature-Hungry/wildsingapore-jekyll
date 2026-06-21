@@ -1,6 +1,6 @@
 ---
 title: Round sea grapes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Round sea grapes on the shores of Singapore
 keywords: round, grapes, caulerpa, lentillifera, caulerpaceae, seaweed, weed, green,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Waringin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Waringin on the shores of Singapore
 keywords: waringin, fig, ficus, benjamina, moraceae, tree, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

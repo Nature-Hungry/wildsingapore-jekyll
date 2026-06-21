@@ -1,6 +1,6 @@
 ---
 title: 'Rambut putri '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rambut putri  on the shores of Singapore
 keywords: rambut, putri, cassytha, filiformis, lauraceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

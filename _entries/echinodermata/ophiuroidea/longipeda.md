@@ -1,6 +1,6 @@
 ---
 title: 'Very long-armed brittle star '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Very long-armed brittle star  on the shores of Singapore
 keywords: macrophiothrix, ophiothrix, longipeda, ophiotrichidae, very, long, arm,
   brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

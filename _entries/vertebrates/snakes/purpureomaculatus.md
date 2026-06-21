@@ -1,6 +1,6 @@
 ---
 title: Shore pit viper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Shore pit viper on the shores of Singapore
 keywords: shore, pit, viper, snake, cryptelytrops, trimeresurus, purpureomaculatus,
   viperidae, crotalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

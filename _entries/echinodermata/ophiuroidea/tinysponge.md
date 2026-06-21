@@ -1,6 +1,6 @@
 ---
 title: 'Tiny in-a-sponge brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny in-a-sponge brittle stars  on the shores of Singapore
 keywords: tiny, sponge, brittle, star, brittlestar, ophiactis, savignyi, ophiuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

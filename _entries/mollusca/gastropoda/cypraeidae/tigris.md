@@ -1,6 +1,6 @@
 ---
 title: 'Tiger cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiger cowrie  on the shores of Singapore
 keywords: cowrie, cypraea, tigris, cypraeidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

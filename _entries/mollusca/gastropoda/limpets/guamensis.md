@@ -1,6 +1,6 @@
 ---
 title: Guam false limpet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Guam false limpet on the shores of Singapore
 keywords: guam, false, limpet, siphonaria, guamensis, siphonariidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

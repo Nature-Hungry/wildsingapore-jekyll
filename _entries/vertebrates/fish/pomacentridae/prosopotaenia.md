@@ -1,6 +1,6 @@
 ---
 title: 'Honey-head damsel '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Honey-head damsel  on the shores of Singapore
 keywords: honey, head, damsel, dischistodus, prosopotaenia, pomacentridae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

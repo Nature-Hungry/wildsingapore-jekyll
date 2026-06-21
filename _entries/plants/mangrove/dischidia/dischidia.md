@@ -1,6 +1,6 @@
 ---
 title: Mangrove ant-house plant
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove ant-house plant on the shores of Singapore
 keywords: ant, house, dischidia, major, apocynaceae, asclepiadoideae, plant, tree,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

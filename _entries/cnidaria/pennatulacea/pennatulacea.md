@@ -1,6 +1,6 @@
 ---
 title: 'Sea pens '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea pens  on the shores of Singapore
 keywords: pen, seapen, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

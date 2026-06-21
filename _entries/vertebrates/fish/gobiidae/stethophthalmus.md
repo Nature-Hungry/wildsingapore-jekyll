@@ -1,6 +1,6 @@
 ---
 title: Head-stripe lagoon-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Head-stripe lagoon-goby on the shores of Singapore
 keywords: head, stripe, byno, lagoon, goby, amblygobius, bynoensis, stethophthalmus,
   fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

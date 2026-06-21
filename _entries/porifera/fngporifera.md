@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Introducing sponges on the shores of Singapore
 keywords: seaweed, weed, algae, field, guide, seashore, sea, shore, marine, coastal,
 layout: entry
 shape: ''

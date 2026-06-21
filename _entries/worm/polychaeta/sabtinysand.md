@@ -1,6 +1,6 @@
 ---
 title: Tiny sand fanworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny sand fanworm on the shores of Singapore
 keywords: fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info

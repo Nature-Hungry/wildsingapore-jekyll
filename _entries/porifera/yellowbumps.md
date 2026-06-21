@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Yellow bumpy sponges on the shores of Singapore
 keywords: bumpy, yellow, sponge, porifera, field, guide, seashore, sea, shore, marine,
 layout: entry
 shape: encrusting

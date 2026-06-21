@@ -1,6 +1,6 @@
 ---
 title: Bumpy finger seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bumpy finger seaweed on the shores of Singapore
 keywords: bumpy, finger, seaweed, weed, algae, eucheuma, kappaphycus, solieriaceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

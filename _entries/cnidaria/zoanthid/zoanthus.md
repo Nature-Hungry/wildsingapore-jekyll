@@ -1,6 +1,8 @@
 ---
 title: Button zoanthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Colony10-15cm, encrusting small stones and rubble sometimes forming dense
+  carpet. Polyps about 1cm with long body column, oral disk appears to be split into
+  two. Commonly seen on our shores.
 keywords: button, colonial, anemone, zoanthid, zoanthus, zoanthidae, anthozoa, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

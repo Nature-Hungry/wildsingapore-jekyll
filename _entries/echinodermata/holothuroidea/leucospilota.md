@@ -1,6 +1,6 @@
 ---
 title: 'Black long sea cucumber '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black long sea cucumber  on the shores of Singapore
 keywords: black, long, seacucumber, cucumber, holothuria, leucospilota, cucumariidae,
   holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

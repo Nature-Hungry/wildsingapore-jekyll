@@ -1,6 +1,6 @@
 ---
 title: Perchlets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Perchlets on the shores of Singapore
 keywords: kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

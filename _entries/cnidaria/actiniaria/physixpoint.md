@@ -1,6 +1,6 @@
 ---
 title: Six-point frilly anemones
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Six-point frilly anemones on the shores of Singapore
 keywords: six, point, frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

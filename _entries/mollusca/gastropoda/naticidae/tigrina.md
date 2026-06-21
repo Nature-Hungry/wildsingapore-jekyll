@@ -1,6 +1,6 @@
 ---
 title: 'Tiger moon snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiger moon snail  on the shores of Singapore
 keywords: tiger, moon, snail, shell, naticidae, tectonatica, natica, notocochlis,
   tigrina, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

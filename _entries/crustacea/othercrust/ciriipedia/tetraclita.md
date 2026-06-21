@@ -1,6 +1,6 @@
 ---
 title: Volcano barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Volcano barnacle on the shores of Singapore
 keywords: volcano, barnacle, tetraclita, cirripedia, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

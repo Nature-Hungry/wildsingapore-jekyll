@@ -1,6 +1,6 @@
 ---
 title: Wandering cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Wandering cowrie on the shores of Singapore
 keywords: wandering, cowrie, cypraeidae, erronea, errones, cypraea, gastropod, mollusc,
   snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

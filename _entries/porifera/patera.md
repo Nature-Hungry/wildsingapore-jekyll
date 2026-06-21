@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of The Neptune's Cup sponge on the shores of Singapore
 keywords: neptune, cup, sponge, cliona, patera, porifera, field, guide, seashore,
 layout: entry
 shape: ''

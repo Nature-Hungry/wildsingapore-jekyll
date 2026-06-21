@@ -1,6 +1,6 @@
 ---
 title: Red scaly sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red scaly sea star on the shores of Singapore
 keywords: red, scaly, sea star, seastar, starfish, star, fish, nepanthia, belcheri,
   asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

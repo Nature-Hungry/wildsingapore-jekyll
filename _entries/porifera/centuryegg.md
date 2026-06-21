@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of 'Century egg' sponge on the shores of Singapore
 keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: ''

@@ -1,6 +1,6 @@
 ---
 title: 'Common red stem-fig '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common red stem-fig  on the shores of Singapore
 keywords: common, red, stem-fig, stem, fig, ficus, variegated, moraceae, tree, plant,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Sand bubbler crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sand bubbler crab on the shores of Singapore
 keywords: sand, bubbler, crab, scopimera, dotilla, dotillidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Blue-spot nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-spot nudibranch on the shores of Singapore
 keywords: denison, dendrodoris, denisoni, dendrodorididae, nudibranch, slug, seaslug,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

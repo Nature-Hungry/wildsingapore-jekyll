@@ -1,6 +1,6 @@
 ---
 title: Sea toad spider crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea toad spider crab on the shores of Singapore
 keywords: toad, spider, crab, spider crab, schizophrys, majidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info,  photo

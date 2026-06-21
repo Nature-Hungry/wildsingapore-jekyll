@@ -1,6 +1,6 @@
 ---
 title: Brown feather star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown feather star on the shores of Singapore
 keywords: feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

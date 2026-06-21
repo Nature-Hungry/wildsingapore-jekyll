@@ -1,6 +1,6 @@
 ---
 title: Tree climbing crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tree climbing crab on the shores of Singapore
 keywords: tree, climbing, crab, episesarma, sesarmidae, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -12,7 +12,7 @@ attributes:
 - 112
 family: Sesarmidae
 genus: Episesarma
-species: ''
+species: 'sp.'
 inat_id: 143092
 stateofmatter: Life
 kingdom: Animalia

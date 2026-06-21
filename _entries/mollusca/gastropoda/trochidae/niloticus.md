@@ -1,6 +1,6 @@
 ---
 title: Giant top shell snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Giant top shell snail on the shores of Singapore
 keywords: top, trochus, tectus, niloticus, trochidae, tegulidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

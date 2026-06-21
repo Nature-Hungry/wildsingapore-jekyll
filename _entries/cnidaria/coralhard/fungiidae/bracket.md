@@ -1,6 +1,6 @@
 ---
 title: 'Bracket mushroom coral '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bracket mushroom coral  on the shores of Singapore
 keywords: bracket, mushroom, podabacia, fungidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

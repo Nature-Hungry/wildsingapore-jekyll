@@ -1,6 +1,6 @@
 ---
 title: White-rumped sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of White-rumped sea cucumber on the shores of Singapore
 keywords: blotchy, cucumber, seacucumber, actinopyga, lecanora, holothuriidae, holothuroidae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Eeltail catfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eeltail catfishes on the shores of Singapore
 keywords: eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

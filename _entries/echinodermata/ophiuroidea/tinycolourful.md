@@ -1,6 +1,6 @@
 ---
 title: 'Tiny colourful brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny colourful brittle stars  on the shores of Singapore
 keywords: tiny, colourful, brittle, star, brittlestar, ophiothela, danae, ophiuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

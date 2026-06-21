@@ -1,6 +1,6 @@
 ---
 title: Octopuses
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Octopuses on the shores of Singapore
 keywords: octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

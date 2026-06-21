@@ -1,6 +1,8 @@
 ---
 title: Pink-spotted bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 1-2cm. Pale column with pink spots in rows. One row of tapered tentacles
+  pale, greyish with pinkish cast. Near high water mark on bouldery rocky shore under
+  rich coastal forest. Seen on our Southern shores.
 keywords: banded, bead, anemone, anthopleura, actiniidae, actiniaria, anthozoa, cnidarian,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

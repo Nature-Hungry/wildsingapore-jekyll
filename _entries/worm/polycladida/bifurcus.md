@@ -1,6 +1,6 @@
 ---
 title: Racing-line flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Racing-line flatworm on the shores of Singapore
 keywords: racing, stripe, red, tipped, flat, worm, flatworm, pseudoceros, bifurcus,
   polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

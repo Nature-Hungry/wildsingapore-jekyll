@@ -1,6 +1,6 @@
 ---
 title: Delicate feathery green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Delicate feathery green seaweed on the shores of Singapore
 keywords: broad, feathery, seaweed, weed, green, caulerpa, sertularioides, caulerpaceae,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

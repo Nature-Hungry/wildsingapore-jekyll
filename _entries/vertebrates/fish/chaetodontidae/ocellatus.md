@@ -1,6 +1,6 @@
 ---
 title: Kite butterflyfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Kite butterflyfish on the shores of Singapore
 keywords: kite, butterflyfish, butterfly, ocellate, coralfish, fish, parachaetodon,
   ocellatus, chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact

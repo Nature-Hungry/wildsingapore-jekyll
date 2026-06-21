@@ -1,6 +1,6 @@
 ---
 title: 'Perepat '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Perepat  on the shores of Singapore
 keywords: perepat, bedada, sonneratia, alba, lythraceae.sonneratiaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

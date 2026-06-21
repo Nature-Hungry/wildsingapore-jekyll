@@ -1,6 +1,6 @@
 ---
 title: Galloping sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Galloping sea star on the shores of Singapore
 keywords: galloping, sea star, seastar, starfish, star, fish, stellaster, childreni,
   equestris, goniasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

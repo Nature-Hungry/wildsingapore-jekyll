@@ -1,6 +1,6 @@
 ---
 title: Seahorses
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Seahorses on the shores of Singapore
 keywords: seahorse, horse, hippocampus, syngnathidae, kuda, fish, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

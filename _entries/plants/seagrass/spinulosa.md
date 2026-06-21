@@ -1,6 +1,8 @@
 ---
 title: 'Fern seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 2cm wide, 4cm long. Only seagrass with opposite leaves on a stem that
+  makes it appear fern-like. 10-20 opposite pairs of leaves on one stem, the stem
+  about 4cm long. Rhizomes thin, sometimes woody. Common on Chek Jawa and Changi.
 keywords: fern, spinulosa, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

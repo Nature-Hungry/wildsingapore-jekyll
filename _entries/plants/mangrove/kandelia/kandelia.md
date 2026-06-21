@@ -1,6 +1,6 @@
 ---
 title: Pisang-pisang
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pisang-pisang on the shores of Singapore
 keywords: pisang, kandelia, candel, rhizophoraceae, tree, mangrove, mangroves, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

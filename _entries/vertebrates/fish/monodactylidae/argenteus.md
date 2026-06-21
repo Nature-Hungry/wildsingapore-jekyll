@@ -1,6 +1,6 @@
 ---
 title: Silver moony
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Silver moony on the shores of Singapore
 keywords: silver, moony, monodactylus, argenteus, monodactylidae, fish, scatophagidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

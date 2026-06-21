@@ -1,6 +1,6 @@
 ---
 title: Seagrasses
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Seagrasses on the shores of Singapore
 keywords: seagrass, hydrocharitaceae, potamogetonaceae, cymodoceaceae, grass, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info

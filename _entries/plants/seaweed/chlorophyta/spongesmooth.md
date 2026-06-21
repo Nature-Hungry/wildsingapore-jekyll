@@ -1,6 +1,6 @@
 ---
 title: Smooth sponge green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth sponge green seaweed on the shores of Singapore
 keywords: sponge, seaweed, weed, green, codium, cladophoropsis, vaucheriaeformis,
   siphonocladaceae, chlorophyta, algae, porifera, halichondria, cartilaginea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact

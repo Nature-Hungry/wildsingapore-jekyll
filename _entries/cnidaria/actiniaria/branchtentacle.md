@@ -1,6 +1,9 @@
 ---
 title: Branched-tentacle mangrove anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 2-3cm. Few transparent tentacles, that branch at least once ending in
+  tapering tips, with narrow white rings at the branching point. Oral disk tiny. Body
+  column pale. Sometimes seen on mudflats near mangroves and freshwater flows on our
+  Nothern shores.
 keywords: mangrove, anemone, pelocoetes, exul, haliactiidae, actiniaria, anthozoa,
   cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Brown-stripe wrasse
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown-stripe wrasse on the shores of Singapore
 keywords: brown, stripe, wrasse, fish, halichoeres, bicolor, labridae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

@@ -1,6 +1,6 @@
 ---
 title: Mural glider-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mural glider-goby on the shores of Singapore
 keywords: mural, glider, goby, cryptocentrus, leptocephalus, fish, gobiidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Clown anemonefish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Clown anemonefish  on the shores of Singapore
 keywords: false, clown, anemonefish, anemone, fish, ocellaris, pomacentridae, amphiprion,  amphiprioninae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

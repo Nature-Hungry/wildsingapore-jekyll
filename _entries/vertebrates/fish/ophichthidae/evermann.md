@@ -1,6 +1,6 @@
 ---
 title: Evermann's snake-eel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Evermann's snake-eel on the shores of Singapore
 keywords: evermann, snake-eel, snake, eel, fish, ophichthus, lithinus, evermanni,
   ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info

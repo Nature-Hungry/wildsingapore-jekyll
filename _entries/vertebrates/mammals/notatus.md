@@ -1,6 +1,6 @@
 ---
 title: 'Plantain squirrel '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Plantain squirrel  on the shores of Singapore
 keywords: plantain, squirrel, callosciurus, notatus, sciuridae, vertebrate, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

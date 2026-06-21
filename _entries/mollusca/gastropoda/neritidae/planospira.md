@@ -1,6 +1,6 @@
 ---
 title: Flat-spire nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flat-spire nerite snail on the shores of Singapore
 keywords: flatspire, flat, spire, nerita, nerite, ilynerita, planospira, neritidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Mangrove creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove creeper snail on the shores of Singapore
 keywords: pellucid, creeper, trail, cerith, snail, shell, clypeomorus, pellucidus,
   cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

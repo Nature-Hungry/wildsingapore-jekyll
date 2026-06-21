@@ -1,6 +1,6 @@
 ---
 title: Silversides
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Silversides on the shores of Singapore
 keywords: tropical, silverside, atherinomorus, duodecimalis, atherinidae, fish, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

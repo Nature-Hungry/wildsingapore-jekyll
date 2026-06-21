@@ -1,6 +1,6 @@
 ---
 title: Mangrove periwinkle snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove periwinkle snail on the shores of Singapore
 keywords: mangrove, periwinkle, littoraria, littorinidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

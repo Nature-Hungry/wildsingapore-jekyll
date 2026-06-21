@@ -1,6 +1,7 @@
 ---
 title: Seagrass anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Less than 1cm. Many translucent tentacles with tiny spots, body column
+  short with tiny bumps. Sometimes seen stuck on seagrasses on some of our shores.
 keywords: seagrass, actiniaria, anthozoa, cnidarian, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

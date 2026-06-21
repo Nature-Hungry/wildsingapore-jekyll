@@ -1,6 +1,6 @@
 ---
 title: Sally-light-foot crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sally-light-foot crab on the shores of Singapore
 keywords: sally, light, foot, crab, grapsus, albolineatus, grapsidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

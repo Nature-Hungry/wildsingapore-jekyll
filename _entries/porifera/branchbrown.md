@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown prickly branching sponge on the shores of Singapore
 keywords: sponge, ircinia, irciniidae, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: branching

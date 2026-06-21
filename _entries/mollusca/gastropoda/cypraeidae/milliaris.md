@@ -1,6 +1,6 @@
 ---
 title: 'Miliaris cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Miliaris cowrie  on the shores of Singapore
 keywords: miliaris, cowrie, cypraeidae, erosaria, cypraea, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

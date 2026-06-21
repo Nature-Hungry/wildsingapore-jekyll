@@ -1,6 +1,6 @@
 ---
 title: Flat branch sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flat branch sea fan on the shores of Singapore
 keywords: seafan, fan, subergorgia, subergorgiidae, gorgonian, gorgonacea, anthozoa,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

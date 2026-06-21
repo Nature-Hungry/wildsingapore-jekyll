@@ -1,6 +1,6 @@
 ---
 title: Striped sand anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Striped sand anemone on the shores of Singapore
 keywords: sand, anemone, actiniaria, cnidaria, actiniidae, paracondylactis, hertwigi,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

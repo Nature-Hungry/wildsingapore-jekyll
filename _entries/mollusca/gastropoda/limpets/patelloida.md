@@ -1,6 +1,6 @@
 ---
 title: 'Star limpet '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Star limpet  on the shores of Singapore
 keywords: star, limpet, patelloida, saccharinoides, acmaeidae, lottiidae, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

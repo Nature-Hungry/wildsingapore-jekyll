@@ -1,6 +1,6 @@
 ---
 title: 'Strawberry cockle '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Strawberry cockle  on the shores of Singapore
 keywords: strawberry, cockle, ark, shell, clam, fragum, unedo, carciidae, bivalve,
   mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

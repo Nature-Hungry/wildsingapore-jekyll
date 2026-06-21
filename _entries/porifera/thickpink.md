@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Champagne  sponge on the shores of Singapore
 keywords: thick, pink, branching, sponge, callyspongia, diffusa, callyspongiidae,
 layout: entry
 shape: branching

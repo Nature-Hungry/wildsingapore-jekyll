@@ -1,6 +1,6 @@
 ---
 title: Turf green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Turf green seaweeds on the shores of Singapore
 keywords: seaweed, weed, green, enteromorpha, ulvaceae, chlorophyta, algae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

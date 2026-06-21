@@ -1,6 +1,6 @@
 ---
 title: Black-lipped conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-lipped conch on the shores of Singapore
 keywords: black, lip, conch, strombus, canarium, urceus, strombidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

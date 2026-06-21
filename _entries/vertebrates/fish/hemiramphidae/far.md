@@ -1,6 +1,6 @@
 ---
 title: Black-barred     halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-barred     halfbeak on the shores of Singapore
 keywords: black, barred, halfbeak, half, beak, hemiramphus, far, hemiramphidae, fish,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

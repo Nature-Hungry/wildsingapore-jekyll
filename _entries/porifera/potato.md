@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Potato sponge on the shores of Singapore
 keywords: potato, sponge, biemna, porifera, field, guide, seashore, sea, shore, marine,
 layout: entry
 shape: sausage

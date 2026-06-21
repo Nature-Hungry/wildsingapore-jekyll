@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rambutan sponge on the shores of Singapore
 keywords: prickly, ball, sponge, tethya, robusta, tethyidae, porifera, field, guide,
 layout: entry
 shape: ball

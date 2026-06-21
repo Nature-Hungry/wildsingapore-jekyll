@@ -1,6 +1,6 @@
 ---
 title: Ridged swimming crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ridged swimming crab on the shores of Singapore
 keywords: swimming, crab, charybdis, natator, portunidae, decapod, crustrace, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Pearse's mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pearse's mudskipper on the shores of Singapore
 keywords: pearse, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus,
   novemradiatus, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

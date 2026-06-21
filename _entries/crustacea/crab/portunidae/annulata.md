@@ -1,6 +1,6 @@
 ---
 title: Banded-leg swimming crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded-leg swimming crab on the shores of Singapore
 keywords: banded, ring, leg, legged, swimming, crab, charybdis, annulata, portunidae,
   decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

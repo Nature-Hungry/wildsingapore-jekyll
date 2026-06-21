@@ -1,6 +1,6 @@
 ---
 title: Obelisk creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Obelisk creeper snail on the shores of Singapore
 keywords: obelisk, vertagus, creeper, cerith, snail, shell, rhinoclavis, sinensis,  cerithiidae,
   gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

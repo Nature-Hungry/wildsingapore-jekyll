@@ -1,6 +1,6 @@
 ---
 title: Paradise tree snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Paradise tree snake on the shores of Singapore
 keywords: paradies, flying, tree, snake, chrysopelea, paradisi, elapidae, colubridae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Tumu berau
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tumu berau on the shores of Singapore
 keywords: bakau, berau, bruguiera, sexangula, rhizophoraceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

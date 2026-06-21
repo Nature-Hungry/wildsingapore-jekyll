@@ -1,6 +1,6 @@
 ---
 title: 'Sea slaters '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea slaters  on the shores of Singapore
 keywords: seaslater, slater, ligia, ligiidae, isopod, crustacea,  field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry

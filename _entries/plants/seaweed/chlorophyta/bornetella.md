@@ -1,6 +1,6 @@
 ---
 title: Green sea sausage seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Green sea sausage seaweed on the shores of Singapore
 keywords: sausage, seaweed, weed, green, bornetella, oligospora, dasycladaceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

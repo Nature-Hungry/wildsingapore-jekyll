@@ -1,6 +1,6 @@
 ---
 title: Herrmann's sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Herrmann's sea cucumber on the shores of Singapore
 keywords: curryfish, cucumber, seacucumber, stichopus, herrmanni, holothuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

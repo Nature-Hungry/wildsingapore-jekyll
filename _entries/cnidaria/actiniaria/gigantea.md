@@ -1,6 +1,6 @@
 ---
 title: Giant carpet anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Giant carpet anemone on the shores of Singapore
 keywords: giant, carpet, anemone, stichodactyla, gigantea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

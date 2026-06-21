@@ -1,6 +1,6 @@
 ---
 title: 'Polka-dot nudibranch '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Polka-dot nudibranch  on the shores of Singapore
 keywords: polka, dot, nudibranchia, jorunna, funebris, dorid, discodorididae, kentodoridae,
   dorididae,  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

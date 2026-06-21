@@ -1,6 +1,6 @@
 ---
 title: Forskal's sidegill slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Forskal's sidegill slug on the shores of Singapore
 keywords: side, gill, sidegill, notaspidea, pleurobranchus, forskalii, slug, seaslug,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Broad strap brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Broad strap brown seaweed on the shores of Singapore
 keywords: no, vein, branch, brown, seaweed, weed, phaeophyta, algae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

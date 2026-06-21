@@ -1,6 +1,6 @@
 ---
 title: Sea apple sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea apple sea cucumber on the shores of Singapore
 keywords: apple, seacucumber, cucumber, pseudocolochirus, axiologus, violaceus, cucumariidae,
   holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

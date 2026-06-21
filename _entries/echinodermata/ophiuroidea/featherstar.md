@@ -1,6 +1,6 @@
 ---
 title: 'Feather-hitching brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feather-hitching brittle stars  on the shores of Singapore
 keywords: feather, hitching, brittle, star, brittlestar, ophiomaza, cacaotica, ophiuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

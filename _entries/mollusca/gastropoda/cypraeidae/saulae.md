@@ -1,6 +1,6 @@
 ---
 title: 'Saul''s cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Saul's cowrie  on the shores of Singapore
 keywords: saulcowrie, cypraeidae, palmadusta, cypraea, saulae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

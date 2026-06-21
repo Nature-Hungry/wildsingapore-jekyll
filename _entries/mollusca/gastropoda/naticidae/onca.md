@@ -1,6 +1,6 @@
 ---
 title: 'China moon snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of China moon snail  on the shores of Singapore
 keywords: china, moon, snail, shell, natica, naticarius, onca, gualtieriana, naticidae,
   gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

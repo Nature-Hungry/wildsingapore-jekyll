@@ -1,6 +1,6 @@
 ---
 title: 'Tomato anemonefish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tomato anemonefish  on the shores of Singapore
 keywords: tomato, anemonefish, anemone, fish, frenatus, pomacentridae, amphiprion,  amphiprioninae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

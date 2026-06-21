@@ -1,6 +1,6 @@
 ---
 title: Tiny black gymnodoris nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny black gymnodoris nudibranch on the shores of Singapore
 keywords: orange, spot, gymnodoris, nudibranch, slug, seaslug, opisthobranch, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

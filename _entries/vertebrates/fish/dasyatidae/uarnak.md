@@ -1,6 +1,6 @@
 ---
 title: Honeycomb whipray
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Honeycomb whipray on the shores of Singapore
 keywords: honey, comb, honeycomb, reticulated, whip, whipray, sting, ray, stingray,
   himantura, uarnak, fish, rajiformes, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

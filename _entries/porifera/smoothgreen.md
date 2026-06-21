@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth green sponge on the shores of Singapore
 keywords: smooth, green, sponge, porifera, field, guide, seashore, sea, shore, marine,
 layout: entry
 shape: encrusting

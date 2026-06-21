@@ -1,6 +1,6 @@
 ---
 title: 'Curled-tip red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Curled-tip red seaweed  on the shores of Singapore
 keywords: red, seaweed, weed, algae, portieria, hornemannii, rhizophyllidaceae, rhodophyta,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

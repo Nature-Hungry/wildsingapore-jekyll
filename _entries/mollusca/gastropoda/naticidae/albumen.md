@@ -1,6 +1,6 @@
 ---
 title: Eggwhite moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eggwhite moon snail on the shores of Singapore
 keywords: egg, white, moon, snail, neverita, polinices, albumen, naticidae, gastropod,
   mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

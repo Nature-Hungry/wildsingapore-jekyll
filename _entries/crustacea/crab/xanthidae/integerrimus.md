@@ -1,6 +1,6 @@
 ---
 title: 'Red egg crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red egg crab  on the shores of Singapore
 keywords: red, egg, xanthid, crab, atergatis, integerrimus, xanthidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

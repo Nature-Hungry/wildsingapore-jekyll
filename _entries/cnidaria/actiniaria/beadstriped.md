@@ -1,6 +1,7 @@
 ---
 title: Striped bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 2-3cm. Abut 40 tentacles with dark stripes and white bars. On hard surfaces
+  and rocky shores. Common on our Northern shores.
 keywords: anemone, actiniaria, cnidaria, actiniidae, paracondylactis singaporensis,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: False scorpionfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of False scorpionfish on the shores of Singapore
 keywords: false, scorpionfish, scorpion, fish, centrogenys, vaigiensis, centrogenyidae,
   serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

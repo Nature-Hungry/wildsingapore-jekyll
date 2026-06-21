@@ -1,6 +1,6 @@
 ---
 title: 'Frog spawn coral '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Frog spawn coral  on the shores of Singapore
 keywords: frog, spawn, euphyllia, paradivisa, euphylliidae, caryophyliidae, coral,
   hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

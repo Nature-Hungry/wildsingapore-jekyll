@@ -1,6 +1,6 @@
 ---
 title: Script venus clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Script venus clam on the shores of Singapore
 keywords: venus, shell, clam, circe, scripta, veneridae, bivalve, mollusc, clam, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

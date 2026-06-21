@@ -1,6 +1,8 @@
 ---
 title: Banded bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 1-2cm. One row of tapered tentacles with a banded pattern. Large oral
+  relative to tentacles. Usually brownish. On rocky shores, in sand or in cracks in
+  large boulders and sea walls. Commonly seen on our shores.
 keywords: banded, bead, anemone, anthopleura, actiniidae, anthozoa, cnidarian, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

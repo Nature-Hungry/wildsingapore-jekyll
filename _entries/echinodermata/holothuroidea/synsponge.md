@@ -1,6 +1,6 @@
 ---
 title: Sponge synaptid sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sponge synaptid sea cucumber on the shores of Singapore
 keywords: synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

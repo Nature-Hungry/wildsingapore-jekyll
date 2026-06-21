@@ -1,6 +1,6 @@
 ---
 title: Big brown mactra clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Big brown mactra clam on the shores of Singapore
 keywords: venus, clam, mactra, grandis, mera, mactridae, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

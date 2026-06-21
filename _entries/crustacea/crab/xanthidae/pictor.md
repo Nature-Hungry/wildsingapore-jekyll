@@ -1,6 +1,6 @@
 ---
 title: 'Mosaic reef crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mosaic reef crab  on the shores of Singapore
 keywords: mosaic, xanthid, crab, lophozozymus, pictor, xanthidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Variegated sundial snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Variegated sundial snail on the shores of Singapore
 keywords: sundial, heliacus, variegatus, architectonicidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

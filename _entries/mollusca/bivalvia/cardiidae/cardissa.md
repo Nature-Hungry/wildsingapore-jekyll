@@ -1,6 +1,6 @@
 ---
 title: Heart cockle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Heart cockle on the shores of Singapore
 keywords: heart, cockle, shell, clam, corculum, cardissa, cardiidae bivalve, mollusc,
   clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

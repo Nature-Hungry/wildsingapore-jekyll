@@ -1,6 +1,6 @@
 ---
 title: Extraordinary sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Extraordinary sea hare on the shores of Singapore
 keywords: extraordinary, seahare, hare, aplysia, extraordinaria, anaspidea, aplysiidae,
   bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

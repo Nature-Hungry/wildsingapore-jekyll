@@ -1,6 +1,6 @@
 ---
 title: Eightband butterflyfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eightband butterflyfish on the shores of Singapore
 keywords: eight, band, banded, kite, butterflyfish, butterfly, fish, chaetodon, octofasciatus
   chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

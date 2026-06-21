@@ -1,6 +1,6 @@
 ---
 title: Plain sand star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Plain sand star on the shores of Singapore
 keywords: sand, star, seastar, sea star, starfish, fish, astropecten, indicus, astropectinidae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

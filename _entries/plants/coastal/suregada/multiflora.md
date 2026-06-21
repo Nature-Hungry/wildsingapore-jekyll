@@ -1,6 +1,6 @@
 ---
 title: 'Limau hantu '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Limau hantu  on the shores of Singapore
 keywords: limau, hantu, calophyllum, soulattri, clusiaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

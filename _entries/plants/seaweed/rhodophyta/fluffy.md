@@ -1,6 +1,6 @@
 ---
 title: 'Cotton candy red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cotton candy red seaweed  on the shores of Singapore
 keywords: fluffy, cotton, candy, red, seaweed, weed, algae, asparagopsis, bonnemaisoniaceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,12 +1,12 @@
 ---
 title: Coral barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Coral barnacle on the shores of Singapore
 keywords: barnacle, pyrgoma, pyrgomatidae, cirripedia, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pyrgomatidae
 genus: Pyrgoma
-species: 'sp.'
+species: sp.
 attributes: []
 inat_id: 643648
 stateofmatter: Life

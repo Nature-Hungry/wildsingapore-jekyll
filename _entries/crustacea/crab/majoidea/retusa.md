@@ -1,6 +1,6 @@
 ---
 title: Velcro crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Velcro crab on the shores of Singapore
 keywords: velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info,  photo

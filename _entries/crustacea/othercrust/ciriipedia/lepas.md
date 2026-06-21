@@ -1,6 +1,6 @@
 ---
 title: Goose barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Goose barnacle on the shores of Singapore
 keywords: goose, barnacle, lepas, lepadidae, cirripedia, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

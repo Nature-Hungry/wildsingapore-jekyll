@@ -1,6 +1,6 @@
 ---
 title: Scintilla       clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scintilla       clam on the shores of Singapore
 keywords: scintilla, clam, galeommatidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

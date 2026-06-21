@@ -1,6 +1,6 @@
 ---
 title: Sea anemones
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea anemones on the shores of Singapore
 keywords: anemone, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

@@ -1,6 +1,6 @@
 ---
 title: Yellow-spotted mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow-spotted mudskipper on the shores of Singapore
 keywords: yellow, spotted, mudskipper, mud, skipper, fish, periophthalmus, walailakae,
   gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

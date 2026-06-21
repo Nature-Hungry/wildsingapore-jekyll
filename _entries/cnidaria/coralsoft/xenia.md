@@ -1,6 +1,6 @@
 ---
 title: Xenia soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Xenia soft coral on the shores of Singapore
 keywords: xenia, soft, coral, heteroxenia, xeniidae, aclyonacea, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Portia tree (Thespesia populnea) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Portia tree (Thespesia populnea)  on the shores of Singapore
 keywords: portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

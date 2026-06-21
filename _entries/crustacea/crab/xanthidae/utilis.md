@@ -1,6 +1,6 @@
 ---
 title: 'Saw-edged spooner crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Saw-edged spooner crab  on the shores of Singapore
 keywords: saw, edge, spooner, crab, etisus, utilis, xanthidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

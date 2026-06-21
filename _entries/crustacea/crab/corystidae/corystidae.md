@@ -1,6 +1,6 @@
 ---
 title: Masked burrowing crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Masked burrowing crabs on the shores of Singapore
 keywords: masked, burrowing, crab, corystidae, gomeza, bicornis, jonas, formosa, decapod,
   crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

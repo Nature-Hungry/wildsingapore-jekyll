@@ -1,6 +1,6 @@
 ---
 title: 'Dungun air '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dungun air  on the shores of Singapore
 keywords: brownlowia, tersa, malvaceae, tiliaceae, tree, mangrove, mangroves, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

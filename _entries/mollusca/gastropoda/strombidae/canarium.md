@@ -1,6 +1,6 @@
 ---
 title: Gong-gong or Pearl conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gong-gong or Pearl conch on the shores of Singapore
 keywords: gong, pearl, spider, conch, strombus, turturella, canarium, strombidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

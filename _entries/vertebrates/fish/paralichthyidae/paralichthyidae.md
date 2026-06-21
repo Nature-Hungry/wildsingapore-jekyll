@@ -1,6 +1,6 @@
 ---
 title: 'Large-tooth flounders '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Large-tooth flounders  on the shores of Singapore
 keywords: large, tooth, flat, fish, flatfish, flounder, paralichthyidae, pleuronectiformes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Dwarf turban snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dwarf turban snail on the shores of Singapore
 keywords: dwarf, turban, turbo, bruneus, turbinidae, gastropod, mollusc, snail, shell,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Freckled   goatfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Freckled   goatfish  on the shores of Singapore
 keywords: freckled, goatfish, upeneus, tragula, mullidae, fish, scatophagidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

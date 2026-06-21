@@ -1,6 +1,6 @@
 ---
 title: Starry-mouthed nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Starry-mouthed nudibranch on the shores of Singapore
 keywords: bornella, nudibranchia, slug, seaslug, stellifer, opisthobranch, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

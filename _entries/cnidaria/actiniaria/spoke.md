@@ -1,6 +1,6 @@
 ---
 title: Transparent spoke anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Transparent spoke anemone on the shores of Singapore
 keywords: anemone, actiniaria, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

@@ -1,6 +1,6 @@
 ---
 title: Shy glass cerianthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Shy glass cerianthid on the shores of Singapore
 keywords: shy, night,peacock, anemone, ceriantharia, anthozoa, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

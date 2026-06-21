@@ -1,6 +1,6 @@
 ---
 title: Tellin clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tellin clams on the shores of Singapore
 keywords: tellin, clam, tellinidae, bivalve, mollusc, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

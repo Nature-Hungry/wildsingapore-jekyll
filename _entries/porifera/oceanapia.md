@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink puff ball sponge on the shores of Singapore
 keywords: pink, puff, ball, sponge, oceanapia, sagittaria, phloeodictyidae, porifera,
 layout: entry
 shape: ball

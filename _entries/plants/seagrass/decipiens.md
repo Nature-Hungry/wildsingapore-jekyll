@@ -1,6 +1,8 @@
 ---
 title: Hairy spoon seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Spoon shaped leaves, longer and the width, 0.5 wide, 1-2.5cm long, emerging
+  in pairs. Minute serrations on edges and minute hairs on both sides of the leaves.
+  Seen in deeper waters in our Southern islands.
 keywords: hairy, spoon, halophila, decipiens, complex, minor, hydrocharitaceae, seagrass,
   grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Tawny hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tawny hermit crab on the shores of Singapore
 keywords: tawny, hermit, crab, clibanarius, arethusa, rutilus, anomura, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

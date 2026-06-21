@@ -1,6 +1,6 @@
 ---
 title: 'Scaly nerite snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scaly nerite snail  on the shores of Singapore
 keywords: scaled, nerita, nerite, histrio, squamulata, neritidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

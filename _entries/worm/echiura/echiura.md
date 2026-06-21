@@ -1,6 +1,6 @@
 ---
 title: Spoon worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spoon worms on the shores of Singapore
 keywords: spoon, worm, spoonworm, echiura, echiuran, annelid, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of 'Hairy olives' sponge on the shores of Singapore
 keywords: hairy, olive, sponge, porifera, stelletta, clavosa, ancorinidae, field,
 layout: entry
 shape: bristley

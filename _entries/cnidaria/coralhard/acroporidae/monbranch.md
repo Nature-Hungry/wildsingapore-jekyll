@@ -1,6 +1,6 @@
 ---
 title: Branching montipora coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Branching montipora coral on the shores of Singapore
 keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

@@ -1,6 +1,6 @@
 ---
 title: Milk-spotted pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Milk-spotted pufferfish on the shores of Singapore
 keywords: milk, spotted, pufferfish, puffer, fish, chelonodon, patoca, tetraodontidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

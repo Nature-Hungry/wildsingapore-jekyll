@@ -1,6 +1,6 @@
 ---
 title: Orange-mouth top shell snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange-mouth top shell snail on the shores of Singapore
 keywords: orange, mouth, top, chrysostoma, paradoxum, trochidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

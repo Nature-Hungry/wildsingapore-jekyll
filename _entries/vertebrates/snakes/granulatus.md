@@ -1,6 +1,6 @@
 ---
 title: Banded file snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded file snake on the shores of Singapore
 keywords: banded, file, snake, watersnake, acrochordus, granulatus, acrochordidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

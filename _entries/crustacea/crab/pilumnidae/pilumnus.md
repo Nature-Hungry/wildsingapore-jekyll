@@ -1,6 +1,6 @@
 ---
 title: Common hairy crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common hairy crabs on the shores of Singapore
 keywords: crab, hairy, crustacea, pilumnus, vespertilio, pilumnidae, decapod, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

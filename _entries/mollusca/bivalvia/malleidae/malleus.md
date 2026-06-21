@@ -1,6 +1,6 @@
 ---
 title: 'Hammer oyster '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hammer oyster  on the shores of Singapore
 keywords: hammer, oyster, malleus, malleidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry

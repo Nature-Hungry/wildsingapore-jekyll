@@ -1,6 +1,6 @@
 ---
 title: Pink ribbon worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink ribbon worm on the shores of Singapore
 keywords: red, ribbon, worm, ribbonworm, hoplonemertea, nemertine, nemertean, nemertines,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

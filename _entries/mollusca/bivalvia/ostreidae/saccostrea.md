@@ -1,6 +1,6 @@
 ---
 title: Spiked rock oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spiked rock oyster on the shores of Singapore
 keywords: spiked, rock, oyster, saccostrea, cuccullata, osteridae, bivalve, mollusc,
   clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

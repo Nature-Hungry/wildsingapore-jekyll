@@ -1,6 +1,6 @@
 ---
 title: Peacock-tail anemone shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Peacock-tail anemone shrimp on the shores of Singapore
 keywords: peacock, tail, anemone, shrimp, ancylocaris, periclimenes, brevicarpalis,
   palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

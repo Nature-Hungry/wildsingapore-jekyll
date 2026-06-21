@@ -1,6 +1,6 @@
 ---
 title: Feline flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feline flatworm on the shores of Singapore
 keywords: flat, worm, flatworm, pseudoceros, felis, polyclad, turbellaria, platyhelminthes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

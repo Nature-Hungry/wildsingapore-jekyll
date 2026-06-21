@@ -1,6 +1,6 @@
 ---
 title: Naked moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Naked moon snail on the shores of Singapore
 keywords: moon, snail, sinum, naticidae, gastropod, mollusc, sand, collar, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

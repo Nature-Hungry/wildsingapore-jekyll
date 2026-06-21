@@ -1,6 +1,6 @@
 ---
 title: Pale scaly sea stars
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pale scaly sea stars on the shores of Singapore
 keywords: red, scaly, sea star, seastar, starfish, star, fish, nepanthia, maculata,
   asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

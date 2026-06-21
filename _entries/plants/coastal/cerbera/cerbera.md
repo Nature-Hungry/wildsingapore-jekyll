@@ -1,6 +1,6 @@
 ---
 title: Pong pong tree
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pong pong tree on the shores of Singapore
 keywords: pong, cerbera, odollam, manghas, apocynaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

@@ -1,6 +1,6 @@
 ---
 title: Burrowing giant clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Burrowing giant clam on the shores of Singapore
 keywords: burrowing, giant, clam, tridacna, crocea, tridacnidae, bivalve, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

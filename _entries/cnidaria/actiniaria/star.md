@@ -1,6 +1,6 @@
 ---
 title: Wiggly reef star anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Wiggly reef star anemone on the shores of Singapore
 keywords: star, anemone, actiniaria, cnidria, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

@@ -1,6 +1,6 @@
 ---
 title: Bluering angelfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bluering angelfish on the shores of Singapore
 keywords: bluering, blue, ring, angel, fish, angelfish, pomacanthus, annularis, pomacanthidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

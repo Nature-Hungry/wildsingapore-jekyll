@@ -1,6 +1,6 @@
 ---
 title: Alicia anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Alicia anemone on the shores of Singapore
 keywords: alicia, anemone, aliciidae, anthozoa, cnidarian, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

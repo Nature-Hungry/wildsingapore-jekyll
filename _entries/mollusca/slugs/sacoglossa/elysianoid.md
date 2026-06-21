@@ -1,6 +1,6 @@
 ---
 title: 'Wooly elysia slug (Elysia) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Wooly elysia slug (Elysia)  on the shores of Singapore
 keywords: wooly, elysia, leaf, slug, seaslug, sap, sucking, sacoglossan, elysiidae,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

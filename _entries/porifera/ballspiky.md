@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spiky ball sponge on the shores of Singapore
 keywords: spiky, ball, sponge, porifera, dysidea, dysideidae, field, guide, seashore,
 layout: entry
 shape: ball

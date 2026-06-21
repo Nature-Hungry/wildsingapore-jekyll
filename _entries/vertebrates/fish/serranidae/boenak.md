@@ -1,6 +1,6 @@
 ---
 title: 'Chocolate hind '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chocolate hind  on the shores of Singapore
 keywords: chocolate, hind, indian, grouper, fish, cephalopholis, boenak, serranidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

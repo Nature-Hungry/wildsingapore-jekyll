@@ -1,6 +1,6 @@
 ---
 title: 'Chiku tree '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chiku tree  on the shores of Singapore
 keywords: chiku, sapodilla, manilkara, zapota, sapotaceae, tree, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

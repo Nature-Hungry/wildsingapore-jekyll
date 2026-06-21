@@ -1,6 +1,6 @@
 ---
 title: Spotted moon crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted moon crab on the shores of Singapore
 keywords: moon, crab, matuta, lunaris,  matutitdae, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

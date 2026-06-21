@@ -1,6 +1,6 @@
 ---
 title: Flat-armed brittle star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flat-armed brittle star on the shores of Singapore
 keywords: flat, arm, brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

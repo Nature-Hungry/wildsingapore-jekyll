@@ -1,6 +1,6 @@
 ---
 title: Indo-Pacific hump-backed dolphin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Indo-Pacific hump-backed dolphin on the shores of Singapore
 keywords: indopacific, indo, pacific, humpbacked, hump, back, dolphin, pink, sousa,
   chinensis, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

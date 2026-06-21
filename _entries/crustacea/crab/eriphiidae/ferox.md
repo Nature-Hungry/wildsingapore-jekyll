@@ -1,6 +1,6 @@
 ---
 title: 'Ferocious reef '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ferocious reef  on the shores of Singapore
 keywords: red, eyed, reef, crab, eriphia, smithi, ferox, eriphiidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

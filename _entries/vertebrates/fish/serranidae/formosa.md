@@ -1,6 +1,6 @@
 ---
 title: 'Bluelined hind '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bluelined hind  on the shores of Singapore
 keywords: bluelined, blue, lined, hind, indian, grouper, fish, cephalopholis, formosa,
   serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

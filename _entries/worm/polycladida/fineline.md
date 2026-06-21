@@ -1,6 +1,6 @@
 ---
 title: Lightning flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lightning flatworm on the shores of Singapore
 keywords: lightning, fine, lined, flat, worm, flatworm, pseudobiceros, fulgor, polyclad,
   turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

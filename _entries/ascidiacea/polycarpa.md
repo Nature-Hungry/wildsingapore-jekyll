@@ -1,6 +1,6 @@
 ---
 title: Thumbs-up sea squirt
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thumbs-up sea squirt on the shores of Singapore
 keywords: solitary, ascidian, squirt, seasquirt, polycarpa, tunicate, ascidiacea,
   urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

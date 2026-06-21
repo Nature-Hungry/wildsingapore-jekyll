@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Silvery blue  sponge on the shores of Singapore
 keywords: blue, spatula, sponge, lamellodysidea, herbacea, thorectidae, porifera,
 layout: entry
 shape: leafy

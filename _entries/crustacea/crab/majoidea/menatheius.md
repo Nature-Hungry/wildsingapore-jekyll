@@ -1,6 +1,6 @@
 ---
 title: Arrow-head spider crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Arrow-head spider crab on the shores of Singapore
 keywords: arrow, head, spider, crab, spider crab, menatheius, majidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info,  photo

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Yellow horn sponge on the shores of Singapore
 keywords: horn, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,
 layout: entry
 shape: stick

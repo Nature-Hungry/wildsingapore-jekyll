@@ -1,6 +1,6 @@
 ---
 title: Zebra sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Zebra sole on the shores of Singapore
 keywords: zebra, flat, fish, flatfish, sole, zebrias, soleidae, pleuronectiformes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

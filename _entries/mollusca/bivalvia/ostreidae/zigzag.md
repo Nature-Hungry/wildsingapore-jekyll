@@ -1,6 +1,6 @@
 ---
 title: Zig zag  oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Zig zag  oyster on the shores of Singapore
 keywords: zig, zag, oyster, osteridae, bivalve, mollusc, clam, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

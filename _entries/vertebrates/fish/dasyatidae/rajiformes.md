@@ -1,6 +1,6 @@
 ---
 title: Skates, rays and stingrays
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Skates, rays and stingrays on the shores of Singapore
 keywords: skate, sting, ray, stingray, fish, rajiformes, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

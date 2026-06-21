@@ -1,6 +1,6 @@
 ---
 title: Fire anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fire anemone on the shores of Singapore
 keywords: fire, anemone, actinodendron, arboreum, actinodendridae, actiniaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

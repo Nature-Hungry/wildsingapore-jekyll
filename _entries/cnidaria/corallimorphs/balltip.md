@@ -1,6 +1,8 @@
 ---
 title: Ball-tip corallimorphs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 1.5-4cm. Tentacles many, long thin, transparent with darker ball-shaped
+  tip. Body column smooth and brightly coloured brown, blue, orange or red. Oral disk
+  usually dark. On rocks. Seen on our Northern shores.
 keywords: corallimorph, corynactis, corallimorpharia, corallimorphidae, anthozoa,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

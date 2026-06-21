@@ -1,6 +1,6 @@
 ---
 title: 'Chengam '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chengam  on the shores of Singapore
 keywords: chengam, scyphiphora, hydrophyllacea, rubiaceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

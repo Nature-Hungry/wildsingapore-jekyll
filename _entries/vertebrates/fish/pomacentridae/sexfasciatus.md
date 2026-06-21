@@ -1,6 +1,6 @@
 ---
 title: 'Scissortail sergeant '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scissortail sergeant  on the shores of Singapore
 keywords: scissor, tail, sergeant, abudefduf, sexfasciatus, damsel, fish, damselfish,
   pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

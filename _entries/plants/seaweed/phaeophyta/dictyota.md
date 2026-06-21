@@ -1,6 +1,6 @@
 ---
 title: Y-branch brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Y-branch brown seaweed on the shores of Singapore
 keywords: strap,  brown, seaweed, weed, dictyota, dictyotaceae, phaeophyta, algae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

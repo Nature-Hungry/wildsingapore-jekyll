@@ -1,6 +1,6 @@
 ---
 title: Black frogfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black frogfish on the shores of Singapore
 keywords: black, frog, angler, fish, frogfish, anglerfish, antennariidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Tongkat Ali '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tongkat Ali  on the shores of Singapore
 keywords: tongkat, ali, eurycoma, longifolia, simaroubaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

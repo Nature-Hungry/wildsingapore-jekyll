@@ -1,6 +1,6 @@
 ---
 title: Smooth-coated otter
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth-coated otter on the shores of Singapore
 keywords: smooth, coated, otter, lutrogale, perspicillata, mustelidae, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

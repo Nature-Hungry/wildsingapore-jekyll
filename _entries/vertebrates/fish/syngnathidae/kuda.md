@@ -1,6 +1,6 @@
 ---
 title: Estuarine seahorse
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Estuarine seahorse on the shores of Singapore
 keywords: spotted, estuarine, seahorse, horse, hippocampus, kuda, syngnathidae, kuda,
   fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

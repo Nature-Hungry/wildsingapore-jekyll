@@ -1,6 +1,6 @@
 ---
 title: 'Razor clams '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Razor clams  on the shores of Singapore
 keywords: razor, clam, shell, solenidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

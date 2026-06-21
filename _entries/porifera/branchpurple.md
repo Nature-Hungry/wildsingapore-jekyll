@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Purple branching sponge on the shores of Singapore
 keywords: purple, branching, sponge, callyspongia, callyspongiidae, porifera, field,
 layout: entry
 shape: branching

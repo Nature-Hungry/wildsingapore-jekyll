@@ -1,6 +1,7 @@
 ---
 title: 'Beccari''s seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Seagrass with the smallest leaves, 0.5cm wide, emerging in a rosette
+  of 5-10 leaves. Common on Chek Jawa.
 keywords: beccari, beccarii, halophila, ovalis, minor, hydrocharitaceae, seagrass,
   grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Indian squid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Indian squid on the shores of Singapore
 keywords: indian, pencil, squid, uroteuthis, duvaucelii, loliginidae, cephalopod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

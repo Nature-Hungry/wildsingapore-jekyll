@@ -1,6 +1,6 @@
 ---
 title: 'Bobtail squids '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bobtail squids  on the shores of Singapore
 keywords: bobtail, bob, tail, bottletail, bottle, squid, sepiolidae, sepiadariidae,
   cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

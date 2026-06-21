@@ -1,6 +1,6 @@
 ---
 title: See-through sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of See-through sea cucumber on the shores of Singapore
 keywords: transparent, sea-through, cucumber, seacucumber, paracaudina, australis,
   caudinidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

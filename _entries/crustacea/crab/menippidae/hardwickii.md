@@ -1,6 +1,6 @@
 ---
 title: 'Stone '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stone  on the shores of Singapore
 keywords: stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

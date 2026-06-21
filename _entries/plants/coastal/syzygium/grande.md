@@ -1,6 +1,6 @@
 ---
 title: Jambu air laut
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Jambu air laut on the shores of Singapore
 keywords: sea, apple, syzygium, grande, myrtaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

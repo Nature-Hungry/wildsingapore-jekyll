@@ -1,6 +1,6 @@
 ---
 title: Green mussel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Green mussel on the shores of Singapore
 keywords: green, mussel, clam, perna, viridis, mytilidae, bivalve, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info

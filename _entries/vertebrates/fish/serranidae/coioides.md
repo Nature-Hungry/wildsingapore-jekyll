@@ -1,6 +1,6 @@
 ---
 title: Orange-spotted grouper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange-spotted grouper on the shores of Singapore
 keywords: orange, spotted, grouper, fish, epinephalus, coioides, serranidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

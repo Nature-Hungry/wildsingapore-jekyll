@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rainbow sponge on the shores of Singapore
 keywords: smooth, green, sponge, suberites, suberitidae, porifera, field, guide, seashore,
 layout: entry
 shape: encrusting

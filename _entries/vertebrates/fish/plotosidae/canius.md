@@ -1,6 +1,6 @@
 ---
 title: Black eeltail catfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black eeltail catfish on the shores of Singapore
 keywords: black, catfish, cat, fish, siluriformes, plotosidae, plotosus, canius, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

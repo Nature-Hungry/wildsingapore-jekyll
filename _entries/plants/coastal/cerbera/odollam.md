@@ -1,6 +1,6 @@
 ---
 title: Yellow-eyed pong pong tree
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow-eyed pong pong tree on the shores of Singapore
 keywords: pong, cerbera, odollam, apocynaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

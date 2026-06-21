@@ -1,6 +1,6 @@
 ---
 title: Furry sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Furry sea hare on the shores of Singapore
 keywords: seahare, hare, anaspidea, aplysiidae, stylocheilus, opisthobranch, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

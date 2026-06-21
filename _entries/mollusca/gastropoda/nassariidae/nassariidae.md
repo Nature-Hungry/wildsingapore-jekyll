@@ -1,6 +1,6 @@
 ---
 title: Whelks
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Whelks on the shores of Singapore
 keywords: whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

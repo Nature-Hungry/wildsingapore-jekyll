@@ -1,6 +1,6 @@
 ---
 title: Tiny maretia heart urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny maretia heart urchin on the shores of Singapore
 keywords: heart, urchin, maretia, planulata, maretiidae, spatangidae, spatangoida,
   echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

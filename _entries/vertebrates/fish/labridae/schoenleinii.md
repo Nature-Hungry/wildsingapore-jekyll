@@ -1,6 +1,6 @@
 ---
 title: 'Black-spot tuskfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-spot tuskfish  on the shores of Singapore
 keywords: black, spot, tuskfish, tusk, fish, choerodon, schoenleinii, labridae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

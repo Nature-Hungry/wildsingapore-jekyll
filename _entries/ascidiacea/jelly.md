@@ -1,6 +1,6 @@
 ---
 title: Jelly sea squirt
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Jelly sea squirt on the shores of Singapore
 keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidia gemmata, ascidiidae,
   ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Bushy slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bushy slug on the shores of Singapore
 keywords: polybranchia, phyllobranchus, phyllobranchillus, orientalis, slug, seaslug,
   sap, sucking, sacoglossan, polybranchidae, opisthobranch, gastropod, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact

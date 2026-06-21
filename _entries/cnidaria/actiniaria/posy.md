@@ -1,6 +1,6 @@
 ---
 title: Posy anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Posy anemone on the shores of Singapore
 keywords: anemone, anthozoa, actiniidae, isactinia, citrina, mesactinia, ganensis,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

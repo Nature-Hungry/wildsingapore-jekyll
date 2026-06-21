@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue icing sponge on the shores of Singapore
 keywords: smooth, blue, sponge, lendenfeldia, chondrodes, thorectidae, porifera, field,
 layout: entry
 shape: encrusting

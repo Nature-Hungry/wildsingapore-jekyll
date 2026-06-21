@@ -1,6 +1,6 @@
 ---
 title: 'Agar-agar red seaweeds '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Agar-agar red seaweeds  on the shores of Singapore
 keywords: agar, gracilaria, red, seaweed, weed, algae, gracilariaceae, rhodophyceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

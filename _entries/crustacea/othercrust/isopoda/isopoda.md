@@ -1,6 +1,6 @@
 ---
 title: Marine isopods
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Marine isopods on the shores of Singapore
 keywords: isopod, crustacea, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info
 layout: entry

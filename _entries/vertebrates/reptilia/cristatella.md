@@ -1,6 +1,6 @@
 ---
 title: 'Green crested lizard '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Green crested lizard  on the shores of Singapore
 keywords: green, crested, lizard, bronchocela, cristatella, agamidae, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lumpy pink sponge on the shores of Singapore
 keywords: pink, lumpy, sponge, haliclona, baeri, chalinidae, porifera, field, guide,
 layout: entry
 shape: blobs

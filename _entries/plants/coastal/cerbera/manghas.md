@@ -1,6 +1,6 @@
 ---
 title: Pink-eyed pong pong tree
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink-eyed pong pong tree on the shores of Singapore
 keywords: pong, cerbera, manghas, apocynaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

@@ -1,6 +1,6 @@
 ---
 title: Commerson's sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Commerson's sole on the shores of Singapore
 keywords: commerson, flat, fish, flatfish, sole, synaptura, commersonnii, soleidae,
   pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

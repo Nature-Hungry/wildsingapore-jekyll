@@ -1,6 +1,6 @@
 ---
 title: Pearly anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pearly anemone on the shores of Singapore
 keywords: pearly, anemone, anthozoa, cnidaria, actiniidae, paracondylactis, sinensis,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

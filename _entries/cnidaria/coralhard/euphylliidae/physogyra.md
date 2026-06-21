@@ -1,6 +1,6 @@
 ---
 title: 'Pearl bubble coral '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pearl bubble coral  on the shores of Singapore
 keywords: branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae,
   coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

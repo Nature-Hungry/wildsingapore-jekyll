@@ -1,6 +1,6 @@
 ---
 title: Holey sponge seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Holey sponge seaweed on the shores of Singapore
 keywords: sponge, seaweed, weed, green, codium, red, ceratodictyon, spongiosum, lomentariaceae,
   rhodomeniaceae, rhodophyta, algae, porifera, haliclona cymaeformis, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,

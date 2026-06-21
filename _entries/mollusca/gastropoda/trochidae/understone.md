@@ -1,6 +1,6 @@
 ---
 title: Tiny under-a-stone top shell snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny under-a-stone top shell snail on the shores of Singapore
 keywords: euchelus, trochidae, chilodontidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

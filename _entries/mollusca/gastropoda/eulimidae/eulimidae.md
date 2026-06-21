@@ -1,6 +1,6 @@
 ---
 title: 'Ulimid snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ulimid snails  on the shores of Singapore
 keywords: ulimid, shell, snail, eulimidae, gastropod, mollusc, mangrove, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

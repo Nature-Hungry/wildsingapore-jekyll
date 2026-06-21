@@ -1,6 +1,6 @@
 ---
 title: Yelloweye pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yelloweye pufferfish on the shores of Singapore
 keywords: yelloweye, yellow, eye, pufferfish, puffer, arothron, immaculatus, fish,
   tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

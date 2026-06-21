@@ -1,6 +1,6 @@
 ---
 title: 'Reticulated tailed-slug '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Reticulated tailed-slug  on the shores of Singapore
 keywords: tailed, slug, philinopsis, reticulata, aglajidae, cephalaspidea, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Soles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Soles on the shores of Singapore
 keywords: flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

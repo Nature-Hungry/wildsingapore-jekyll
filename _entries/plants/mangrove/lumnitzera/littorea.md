@@ -1,6 +1,6 @@
 ---
 title: 'Teruntum merah '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Teruntum merah  on the shores of Singapore
 keywords: teruntum, merah, lumnitzera, littorea, combretaceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

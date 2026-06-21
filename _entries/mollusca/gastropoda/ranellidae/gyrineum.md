@@ -1,6 +1,6 @@
 ---
 title: Common triton snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common triton snail on the shores of Singapore
 keywords: gyrineum, natator, ranellidae, cymatiidae, gastropod, mollusc, snail, shell,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

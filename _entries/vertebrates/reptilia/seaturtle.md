@@ -1,6 +1,6 @@
 ---
 title: Sea turtles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea turtles on the shores of Singapore
 keywords: changeable, lizard, calotes, versicolor, agamidae, vertebrate, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange sprawling sponge on the shores of Singapore
 keywords: orange, sprawling, sponge, clathria, reinwardti, microcionidae, porifera,
 layout: entry
 shape: branching

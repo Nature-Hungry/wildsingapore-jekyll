@@ -1,6 +1,6 @@
 ---
 title: Crinoid crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Crinoid crabs on the shores of Singapore
 keywords: crab, hairy, crustacea, ceratocarcinus, longimanus, harrovia, albolineata,
   pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

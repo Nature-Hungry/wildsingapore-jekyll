@@ -1,6 +1,6 @@
 ---
 title: 'Mangrove tree-dwelling crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove tree-dwelling crab  on the shores of Singapore
 keywords: mangrove, tree, dwelling, crab, selatium, brocki, brockii, sesarmidae, decapod,
   crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

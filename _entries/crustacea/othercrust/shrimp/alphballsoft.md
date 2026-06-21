@@ -1,6 +1,6 @@
 ---
 title: White snapping shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of White snapping shrimp on the shores of Singapore
 keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

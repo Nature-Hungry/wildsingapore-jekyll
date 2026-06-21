@@ -1,6 +1,6 @@
 ---
 title: 'Piai raya '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Piai raya  on the shores of Singapore
 keywords: fern, acrostichum, aureum, pteridaceae, mangrove, mangroves, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

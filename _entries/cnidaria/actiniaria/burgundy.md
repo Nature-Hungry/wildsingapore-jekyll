@@ -1,6 +1,6 @@
 ---
 title: Burgundy anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Burgundy anemone on the shores of Singapore
 keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

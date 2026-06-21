@@ -1,6 +1,6 @@
 ---
 title: Vermilion flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Vermilion flatworm on the shores of Singapore
 keywords: little, ruby, red, flat, worm, flatworm, phrikoceros baibaiye, polyclad,
   turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

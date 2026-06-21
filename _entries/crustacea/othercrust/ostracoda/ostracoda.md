@@ -1,6 +1,6 @@
 ---
 title: 'Mussel shrimps '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mussel shrimps  on the shores of Singapore
 keywords: mussel, shrimp, ostracod, crustacea, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry

@@ -1,6 +1,6 @@
 ---
 title: Feathery green seaweeds compared
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feathery green seaweeds compared on the shores of Singapore
 keywords: caulerpa, sertularioides, mexicana, taxifolia, seaweed, algae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info

@@ -1,6 +1,6 @@
 ---
 title: 'Tiny fern red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny fern red seaweed  on the shores of Singapore
 keywords: pimply, red, seaweed, weed, algae, bostrychia, rhodomelaceae, rhodophyceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

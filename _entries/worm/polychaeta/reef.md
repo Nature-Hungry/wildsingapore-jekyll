@@ -1,6 +1,6 @@
 ---
 title: Reef bristleworms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Reef bristleworms on the shores of Singapore
 keywords: bristleworm, eurythoe, complanata, amphinomidae, polychaete, annelid, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

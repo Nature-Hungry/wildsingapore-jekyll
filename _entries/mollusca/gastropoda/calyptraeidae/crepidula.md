@@ -1,6 +1,6 @@
 ---
 title: Flat slipper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flat slipper snail on the shores of Singapore
 keywords: flat, slipper, siphopatella, crepidula, walshi, clyptraea, crepidulidae,
   calyptraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

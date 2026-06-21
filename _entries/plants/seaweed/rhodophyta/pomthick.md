@@ -1,6 +1,6 @@
 ---
 title: 'Thick   crunchy pom-pom red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thick   crunchy pom-pom red seaweed  on the shores of Singapore
 keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

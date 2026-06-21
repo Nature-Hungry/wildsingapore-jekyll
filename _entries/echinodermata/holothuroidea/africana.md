@@ -1,6 +1,6 @@
 ---
 title: Little African sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Little African sea cucumber on the shores of Singapore
 keywords: cucumber, seacucumber, afrocucumis, africana, holothuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

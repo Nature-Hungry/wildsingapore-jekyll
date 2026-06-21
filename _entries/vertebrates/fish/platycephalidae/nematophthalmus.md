@@ -1,6 +1,6 @@
 ---
 title: Fringe-eyed flathead
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fringe-eyed flathead on the shores of Singapore
 keywords: fringe, eyed, flathead, flat, head, fish, cymbacephalus, nematophthalmus,
   platycephalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

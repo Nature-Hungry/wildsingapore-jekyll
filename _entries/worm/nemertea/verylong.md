@@ -1,6 +1,6 @@
 ---
 title: Very long ribbon worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Very long ribbon worm on the shores of Singapore
 keywords: ribbon, worm, ribbonworm, baseodiscus, delineatus, nemertine, nemertean,
   nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Sea hibiscus '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea hibiscus  on the shores of Singapore
 keywords: talipariti, tiliaceum, hibiscus, tiliaceus, malvaceae, plant, tree, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

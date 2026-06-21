@@ -1,6 +1,6 @@
 ---
 title: Petai laut
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Petai laut on the shores of Singapore
 keywords: desmodium, umbellatum, fabaceae, plant, shrub, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

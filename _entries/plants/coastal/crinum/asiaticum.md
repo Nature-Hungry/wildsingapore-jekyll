@@ -1,6 +1,6 @@
 ---
 title: 'Bakung '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bakung  on the shores of Singapore
 keywords: spider, lily, crinum, asiaticum, amaryllidaceae, creeper, plant, bush, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

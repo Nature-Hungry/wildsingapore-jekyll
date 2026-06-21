@@ -1,6 +1,6 @@
 ---
 title: Swimming anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Swimming anemone on the shores of Singapore
 keywords: swimming, anemone, boloceroides, mcmurrichi, boloceroididae, actiniaria,
   cnidria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

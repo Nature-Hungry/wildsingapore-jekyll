@@ -1,6 +1,6 @@
 ---
 title: Hoof-shield limpet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hoof-shield limpet on the shores of Singapore
 keywords: limpet, scutus, hoof, shield, fissurellidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

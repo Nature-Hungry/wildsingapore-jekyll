@@ -1,6 +1,6 @@
 ---
 title: Various kinds of limpets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Various kinds of limpets on the shores of Singapore
 keywords: limpets, mollusca, gastropoda, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry

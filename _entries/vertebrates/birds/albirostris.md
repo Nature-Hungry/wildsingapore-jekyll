@@ -1,6 +1,6 @@
 ---
 title: Oriental pied-hornbill
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Oriental pied-hornbill on the shores of Singapore
 keywords: oriental, pied, hornbill, anthracoceros, albirostris, bucerotidae, birds,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info

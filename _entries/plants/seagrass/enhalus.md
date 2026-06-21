@@ -1,6 +1,9 @@
 ---
 title: Tape seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Longest seagrass with ribbon-like leaves. 30cm-1.5m long, 1-2cm wide.
+  Thick rhizomes. Flowering often observed. Large female flowers on coiled stalk.
+  Tiny white male flowers produced from inflorescence at base of the plant. Often
+  seen on most of our undisturbed shores. Largest meadow on Pulau Semakau.
 keywords: tape, enhalus, acoroides, hydrocharitaceae, seagrass, grass, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

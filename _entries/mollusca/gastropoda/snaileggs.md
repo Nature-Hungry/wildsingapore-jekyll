@@ -1,7 +1,8 @@
 ---
 title: Snail eggs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: snail, egg, capsule, mass, gastropod,  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet of Snail eggs on the shores of Singapore
+keywords: snail, egg, capsule, mass, gastropod,  mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
@@ -22,7 +23,8 @@ trivia_items:
 galleries:
   gallery2:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg
-    caption: Spiral melongena snail laying its large egg capsules. Tanah Merah, Sep 11
+    caption: Spiral melongena snail laying its large egg capsules. Tanah Merah, Sep
+      11
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3a.jpg
     caption: ''
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/111226tmftd5043m3.jpg
@@ -31,7 +33,8 @@ galleries:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg
     caption: Elegant drills laying eggs on a rock. Changi, Jul 05
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260098m3.jpg
-    caption: Reef murex laying egg capsules on a dead Fan clam shell. Cyrene Reef, Jun 17
+    caption: Reef murex laying egg capsules on a dead Fan clam shell. Cyrene Reef,
+      Jun 17
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg
     caption: Gong gong snail laying fine beige egg string. Tanah Merah, Jul 10
   gallery4:
@@ -43,7 +46,8 @@ galleries:
     caption: Limpet with its egg capsule. East Coast Park, Aug 11
   gallery5:
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/050526cjg6730m3.jpg
-    caption: Mother cowries usually stay over their egg mass. Don't remove them. Chek Jawa, May 05
+    caption: Mother cowries usually stay over their egg mass. Don't remove them. Chek
+      Jawa, May 05
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/050206cjd9930m3.jpg
     caption: Another mama cowrie with her eggs. Chek Jawa, Feb 05
   - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg

@@ -1,6 +1,6 @@
 ---
 title: 'Smooth spooner crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth spooner crab  on the shores of Singapore
 keywords: smooth, spoon, pincer, crab, etisus, laevimanus, xanthidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

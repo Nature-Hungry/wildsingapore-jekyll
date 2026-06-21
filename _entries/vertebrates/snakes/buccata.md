@@ -1,6 +1,6 @@
 ---
 title: Puff-faced water snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Puff-faced water snake on the shores of Singapore
 keywords: puff, face, faced, water, snake, homalopsis, buccata, homalopsidae, colubridae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

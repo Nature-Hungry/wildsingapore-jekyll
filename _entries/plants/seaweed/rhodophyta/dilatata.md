@@ -1,6 +1,6 @@
 ---
 title: Ruffled halymenia red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ruffled halymenia red seaweed on the shores of Singapore
 keywords: halymenia, dilatata, red, seaweed, weed, algae, halymeniaceae, halymeniales,
   rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

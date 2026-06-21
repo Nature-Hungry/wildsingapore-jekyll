@@ -1,6 +1,6 @@
 ---
 title: Seagrass filefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Seagrass filefish on the shores of Singapore
 keywords: seagrass, filefish, file, fish, acreichthys, tomentosus, leather, jacket,
   monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

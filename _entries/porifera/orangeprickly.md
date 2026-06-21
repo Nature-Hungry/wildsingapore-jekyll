@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange prickly sponge on the shores of Singapore
 keywords: orange, prickly, sponge, mycale,parishi, myclaidae, porifera, field, guide,
 layout: entry
 shape: encrusting

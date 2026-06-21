@@ -1,6 +1,6 @@
 ---
 title: Pink-speckled shrimp-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink-speckled shrimp-goby on the shores of Singapore
 keywords: pink, speckle, slender, lined, shrimp, goby, cryptocentrus, leptocephalus,
   fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

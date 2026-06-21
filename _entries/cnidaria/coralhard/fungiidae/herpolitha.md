@@ -1,6 +1,6 @@
 ---
 title: Tongue mushroom coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tongue mushroom coral on the shores of Singapore
 keywords: tongue, mushroom, herpolitha, limax, fungiidae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

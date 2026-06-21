@@ -1,6 +1,6 @@
 ---
 title: 'India-rubber tree '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of India-rubber tree  on the shores of Singapore
 keywords: india, rubber, fig, ficus, elastica, moraceae, tree, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

@@ -1,6 +1,6 @@
 ---
 title: Haeckel's anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Haeckel's anemone on the shores of Singapore
 keywords: haeckel, anemone, actinostephanus, haeckeli, actinodendridae, anthozoa,
   cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

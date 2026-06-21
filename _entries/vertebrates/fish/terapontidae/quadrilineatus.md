@@ -1,6 +1,6 @@
 ---
 title: Trumpeter perch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Trumpeter perch on the shores of Singapore
 keywords: trumpeter, grunter, perch, fish, pelates, quadrilineatus, teraponidae, theraponidae,
   therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

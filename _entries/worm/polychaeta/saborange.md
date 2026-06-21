@@ -1,6 +1,6 @@
 ---
 title: Orange fanworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange fanworm on the shores of Singapore
 keywords: orange, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info

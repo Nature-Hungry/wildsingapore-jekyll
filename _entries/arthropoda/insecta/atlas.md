@@ -1,6 +1,6 @@
 ---
 title: Atlas moth
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Atlas moth on the shores of Singapore
 keywords: atlas, moth, atlas attacus, saturniidae, lepidoptera, insect, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info

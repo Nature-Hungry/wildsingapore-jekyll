@@ -1,0 +1,37 @@
+---
+title: "Contributors"
+layout: none
+description: "Meet the contributors behind Wild Singapore"
+permalink: /thanks/
+---
+
+{% include global/header.html %}
+
+
+<main class="page-content" id="main-content">
+
+  <h1>Contributors</h1>
+<p>
+  Nature hungry is built, maintained, and powered by an a small group of passionate and like-minded volunteers. This page is dedicated to the contributors, developers, and thinkers who donate their time and expertise to make information of Singapore's nature open and accessible.
+
+</p>
+
+{% assign contributors = site.contributors | sort: "order" %}
+
+{% if contributors.size == 0 %}
+<p><em>No contributors found yet. Check back soon!</em></p>
+{% else %}
+
+<div class="contributors">
+  {% for contributor in contributors %}
+    {% include contributor-preview.html contributor=contributor %}
+  {% endfor %}
+
+</div>
+
+{% endif %}
+
+
+
+
+{% include global/footer.html %}

@@ -1,6 +1,8 @@
 ---
 title: 'Smooth ribbon seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Narrow and shorter ribbon-like leaves with rounded or squarish tips without
+  serrations. Rhizomes thick and smooth. Seen on Chek Jawa, Tanah Merah and Cyrene
+  Reef.
 keywords: ribbon, grass, cymodocea, rotundata, cymodoceaceae, potamogetonaceae, cymodoceaceae,
   seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

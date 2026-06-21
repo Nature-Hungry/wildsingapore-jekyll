@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Barrel  sponge on the shores of Singapore
 keywords: barrel, neptune, cup, sponge, xestospongia,  testudinaria, petrosiidae,
 layout: entry
 shape: sausage

@@ -1,6 +1,6 @@
 ---
 title: 'Filefishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Filefishes  on the shores of Singapore
 keywords: filefish, file, fish, leather, jacket, monacanthidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

@@ -1,6 +1,6 @@
 ---
 title: Sponge finger oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sponge finger oyster on the shores of Singapore
 keywords: sponge, oyster, vulsella, pteriidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry

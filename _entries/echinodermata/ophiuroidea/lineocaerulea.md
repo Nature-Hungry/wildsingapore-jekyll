@@ -1,6 +1,6 @@
 ---
 title: Blue-lined brittle star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-lined brittle star on the shores of Singapore
 keywords: blue, lined, brittle, star, brittlestar, macrophiothrix, ophiothrix, lineocaerulea,
   ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

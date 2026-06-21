@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black bath sponge on the shores of Singapore
 keywords: black, bath, sponge, spongia, hippospongia, spongiidae, porifera, field,
 layout: entry
 shape: ball

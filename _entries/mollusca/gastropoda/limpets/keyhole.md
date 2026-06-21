@@ -1,6 +1,6 @@
 ---
 title: 'Keyhole limpets '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Keyhole limpets  on the shores of Singapore
 keywords: keyhole, limpet, fissurilidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

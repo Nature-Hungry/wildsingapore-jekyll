@@ -1,6 +1,6 @@
 ---
 title: 'Thread-tentacled jellyfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thread-tentacled jellyfish  on the shores of Singapore
 keywords: jellyfish, jelly, fish, jellies, aequora, hydrozoa, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

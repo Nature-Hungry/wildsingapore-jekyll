@@ -1,6 +1,6 @@
 ---
 title: 'Api-api jambu '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Api-api jambu  on the shores of Singapore
 keywords: api, jambu, avicennia, marina, acanthaceae, avicenniaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

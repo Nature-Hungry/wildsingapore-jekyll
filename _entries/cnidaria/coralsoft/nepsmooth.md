@@ -1,6 +1,6 @@
 ---
 title: Smooth flowery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth flowery soft coral on the shores of Singapore
 keywords: smooth, litophyton, nephtheidae, alcyonacea, soft, coral, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Rare-spined murex
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rare-spined murex on the shores of Singapore
 keywords: rare, spined, spiny, murex, trapa, muricidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

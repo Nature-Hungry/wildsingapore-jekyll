@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue encrusting prickly sponge on the shores of Singapore
 keywords: blue, encrusting, prickly, sponge, porifera, field, guide, seashore, sea,
 layout: entry
 shape: encrusting

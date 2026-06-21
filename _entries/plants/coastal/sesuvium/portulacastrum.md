@@ -1,6 +1,6 @@
 ---
 title: 'Gelang laut '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gelang laut  on the shores of Singapore
 keywords: sesuvium, portulacastrum, aizoaceae, creeper, plant, bush, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

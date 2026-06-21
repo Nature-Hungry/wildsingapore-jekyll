@@ -1,6 +1,6 @@
 ---
 title: Mosaic dragonet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mosaic dragonet on the shores of Singapore
 keywords: dragonet, fish, callionymidae, callionymus, enneactis,field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

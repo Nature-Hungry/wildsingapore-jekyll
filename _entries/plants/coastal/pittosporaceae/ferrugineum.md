@@ -1,6 +1,6 @@
 ---
 title: 'Belalang puak '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Belalang puak  on the shores of Singapore
 keywords: pittosporum, ferrugineum, pittosporaceae, tree, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

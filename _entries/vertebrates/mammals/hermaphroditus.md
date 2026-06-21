@@ -1,6 +1,6 @@
 ---
 title: Common palm civet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common palm civet on the shores of Singapore
 keywords: toddycat, palm, civet, cat, paradoxurus, hermaphroditus, viverridae, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

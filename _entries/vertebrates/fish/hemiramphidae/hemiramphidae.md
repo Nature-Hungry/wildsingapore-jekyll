@@ -1,6 +1,6 @@
 ---
 title: Halfbeaks
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Halfbeaks on the shores of Singapore
 keywords: halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

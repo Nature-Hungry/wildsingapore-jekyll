@@ -1,6 +1,6 @@
 ---
 title: Sponge crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sponge crab on the shores of Singapore
 keywords: sponge, crab, sponge crab, cryptodromia, dromiidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

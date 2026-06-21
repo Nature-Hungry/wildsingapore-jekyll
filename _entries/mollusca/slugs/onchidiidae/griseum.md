@@ -1,6 +1,6 @@
 ---
 title: Orange-footed mangrove onch slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange-footed mangrove onch slug on the shores of Singapore
 keywords: orange, footed, slug, seaslug, onch, onchidium, griseum, onchidiidae, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info

@@ -1,6 +1,8 @@
 ---
 title: Lined bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Less than 0.5cm, at low tide, a tiny blob with fine stripes in white,
+  orange, yellow or red. Among barnacles, on jetty legs and other hard surfaces. Commonly
+  seen on our Northern shores.
 keywords: banded, bead, anemone, anthozoa, cnidarian, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

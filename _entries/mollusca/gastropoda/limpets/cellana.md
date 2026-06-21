@@ -1,6 +1,6 @@
 ---
 title: Smooth limpet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth limpet on the shores of Singapore
 keywords: smooth, limpet, cellana, nacellidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

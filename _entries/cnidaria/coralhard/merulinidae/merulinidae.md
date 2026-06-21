@@ -1,6 +1,6 @@
 ---
 title: 'Merulinid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Merulinid corals  on the shores of Singapore
 keywords: crispy, crust, merulinidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

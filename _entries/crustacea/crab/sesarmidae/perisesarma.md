@@ -1,6 +1,6 @@
 ---
 title: Face-banded sesarmine crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Face-banded sesarmine crab on the shores of Singapore
 keywords: face, banded, perisesarma, chiromantes, indiarum, eumolpe, crab, sesarmidae,
   decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Black-tailed sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-tailed sea hare on the shores of Singapore
 keywords: black, tailed, seahare, hare, aplysia, dactylomela, anaspidea, aplysiidae,
   bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

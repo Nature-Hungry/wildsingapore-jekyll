@@ -1,6 +1,8 @@
 ---
 title: Sea mat zoanthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Colony 20-40cm, encrusts rocks and rubble like a rubbery mat. Polyps
+  1-2cm in diameter embedded in this common tissue, short or no body column. Coral
+  rubble, boulders. Commonly seen on our Southern shores.
 keywords: sea, mat, colonial, anemone, zoanthid, palythoa, tuberculosa, zoanthidae,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

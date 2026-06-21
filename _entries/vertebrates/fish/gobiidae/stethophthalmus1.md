@@ -1,6 +1,7 @@
 ---
 title: 'Head-stripe gobies (Amblygobius stethophthalmus) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Head-stripe gobies (Amblygobius stethophthalmus)  on the
+  shores of Singapore
 keywords: head, stripe, byno, goby, amblygobius, bynoensis, stethophthalmus, fish,
   gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

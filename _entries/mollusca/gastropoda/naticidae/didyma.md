@@ -1,6 +1,6 @@
 ---
 title: Ball moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ball moon snail on the shores of Singapore
 keywords: ball, moon, snail, naticidae, natica, polinices, neverita, didyma, gastropod,
   mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

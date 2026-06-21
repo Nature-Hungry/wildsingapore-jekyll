@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Straw sponge on the shores of Singapore
 keywords: straw, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,
 layout: entry
 shape: sausage

@@ -1,6 +1,6 @@
 ---
 title: Plasticky sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Plasticky sea cucumber on the shores of Singapore
 keywords: beige, cucumber, seacucumber, cladolabes, hamatus, sclerodactylidae, holothuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

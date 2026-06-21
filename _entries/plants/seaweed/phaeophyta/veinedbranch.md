@@ -1,6 +1,6 @@
 ---
 title: Veined branched brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Veined branched brown seaweed on the shores of Singapore
 keywords: veined, branch, brown, seaweed, weed, dictyopteris, dictyotaceae, phaeophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

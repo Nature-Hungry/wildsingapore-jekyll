@@ -1,6 +1,6 @@
 ---
 title: Diamond tuskfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Diamond tuskfish on the shores of Singapore
 keywords: diamond, wrasse, tuskfish, fish, halichoeres, nigrescens, dussumieri, labridae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

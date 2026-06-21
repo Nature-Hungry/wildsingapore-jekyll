@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tubular sponge on the shores of Singapore
 keywords: tubular, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: sausage

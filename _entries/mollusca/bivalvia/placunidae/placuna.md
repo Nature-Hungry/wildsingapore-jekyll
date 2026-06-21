@@ -1,6 +1,6 @@
 ---
 title: Window-pane clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Window-pane clam on the shores of Singapore
 keywords: window, pane, shell, placuna, placunidae, anomiidae, bivalve, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

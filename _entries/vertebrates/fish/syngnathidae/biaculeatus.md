@@ -1,6 +1,6 @@
 ---
 title: Alligator pipefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Alligator pipefish on the shores of Singapore
 keywords: alligator, double, end, ended, pipefish, pipe, fish, syngnathoides, biaculeatus,
   syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

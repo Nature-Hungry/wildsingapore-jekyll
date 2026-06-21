@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Sucker sponge on the shores of Singapore
 keywords: sucker, sponge, cliona, utricularis, porifera, field, guide, seashore, sea,
 layout: entry
 shape: encrusting

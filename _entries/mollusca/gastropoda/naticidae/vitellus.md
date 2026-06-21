@@ -1,6 +1,6 @@
 ---
 title: Calf moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Calf moon snail on the shores of Singapore
 keywords: moon, snail, natica, vitellus, naticidae, gastropod, mollusc, sand, collar,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

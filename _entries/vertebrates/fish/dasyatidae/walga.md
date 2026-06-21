@@ -1,6 +1,6 @@
 ---
 title: Mangrove whipray
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove whipray on the shores of Singapore
 keywords: mangrove, whip, whipray, sting, ray, stingray, himantura, walga, fish, rajiformes,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

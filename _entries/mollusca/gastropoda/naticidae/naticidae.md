@@ -1,6 +1,6 @@
 ---
 title: 'Moon snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Moon snails  on the shores of Singapore
 keywords: moon, snail, shell, naticidae, natica, policines, gastropod, mollusc, sand,
   collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

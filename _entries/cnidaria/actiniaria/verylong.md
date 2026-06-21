@@ -1,6 +1,6 @@
 ---
 title: Very long anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Very long anemone on the shores of Singapore
 keywords: anemone, actinoporus, elongatus, actiniaria, anthozoa, cnidarian, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

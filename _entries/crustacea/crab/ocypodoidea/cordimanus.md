@@ -1,6 +1,6 @@
 ---
 title: Smooth-eyed ghost crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth-eyed ghost crab on the shores of Singapore
 keywords: horn, eyed, ghost, crab, ocypode, cordimanus, ocypodidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

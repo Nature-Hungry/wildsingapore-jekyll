@@ -1,6 +1,6 @@
 ---
 title: Banded cerianthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded cerianthid on the shores of Singapore
 keywords: peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Oriental whip snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Oriental whip snake on the shores of Singapore
 keywords: oriental, whip, snake, ahaetulla, prasina, colubridae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

@@ -1,6 +1,6 @@
 ---
 title: Copperband butterflyfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Copperband butterflyfish on the shores of Singapore
 keywords: copperband, copper, band, banded, butterflyfish, butterfly, beaked, coralfish,
   fish, chelmon, rostratus, chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,

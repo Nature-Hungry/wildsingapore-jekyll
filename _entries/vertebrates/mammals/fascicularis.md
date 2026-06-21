@@ -1,6 +1,6 @@
 ---
 title: Long-tailed macaque
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Long-tailed macaque on the shores of Singapore
 keywords: long, tailed, crab, eating, macaque, monkey, macaca, fascicularis, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Reticulated python '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Reticulated python  on the shores of Singapore
 keywords: broghammerus, malayopython, python, reticulated, reticulatus, pythonidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

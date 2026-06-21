@@ -1,6 +1,6 @@
 ---
 title: 'Bosom moon snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bosom moon snail  on the shores of Singapore
 keywords: bosom, breast, shaped, moon, snail, shell, polinices, mammatus, naticidae,
   gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

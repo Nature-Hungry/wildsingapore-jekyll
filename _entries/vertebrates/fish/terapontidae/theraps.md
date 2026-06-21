@@ -1,6 +1,6 @@
 ---
 title: Banded perch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded perch on the shores of Singapore
 keywords: banded, grunter, perch, fish, terapon, theraps, teraponidae, theraponidae,
   therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

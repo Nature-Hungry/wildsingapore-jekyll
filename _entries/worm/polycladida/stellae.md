@@ -1,6 +1,6 @@
 ---
 title: Starry flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Starry flatworm on the shores of Singapore
 keywords: starry, flat, worm, flatworm, pseudobiceros, stellae, polyclad, turbellaria,
   platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

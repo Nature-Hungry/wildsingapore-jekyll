@@ -1,6 +1,6 @@
 ---
 title: Pleated fan green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pleated fan green seaweed on the shores of Singapore
 keywords: pleated, fan, seaweed, weed, green, rhipidosiphon. udotea, javensis, udoteacea,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

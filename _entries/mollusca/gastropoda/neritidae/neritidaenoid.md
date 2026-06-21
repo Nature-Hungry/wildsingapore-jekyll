@@ -1,6 +1,6 @@
 ---
 title: 'Nerites snails (Nerita) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Nerites snails (Nerita)  on the shores of Singapore
 keywords: nerita, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

@@ -1,6 +1,7 @@
 ---
 title: Pink button zoanthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Colony10-15cm, encrusting small stones and rubble. Polyps about 1cm with
+  long body column tipped in bright pink. Sometimes seen on our shores.
 keywords: pink, button, colonial, anemone, zoanthid, zoanthus, vietnamensis, zoanthidae,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Urchin-mouth worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Urchin-mouth worm on the shores of Singapore
 keywords: bristle, worm, oxydromus, angustifrons, hesionidae, bristleworm, polychaete,
   annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

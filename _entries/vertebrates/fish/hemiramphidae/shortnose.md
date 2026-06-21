@@ -1,6 +1,6 @@
 ---
 title: Quoy's halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Quoy's halfbeak on the shores of Singapore
 keywords: quoy, short, nose, halfbeak, half, beak, hemiramphidae, hyporhamphus, quoyi,
   fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

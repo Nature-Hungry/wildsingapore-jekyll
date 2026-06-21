@@ -1,6 +1,6 @@
 ---
 title: 'Sea pencil '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea pencil  on the shores of Singapore
 keywords: pencil, pen, seapen, lituaria, veretillidae, pennatulacea, anthozoa, cnidaria,
   pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Malayan water monitor
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Malayan water monitor on the shores of Singapore
 keywords: malayan, water, monitor, varanus, salvator, varanidae, vertebrate, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

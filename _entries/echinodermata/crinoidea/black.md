@@ -1,6 +1,6 @@
 ---
 title: Black-and-white feather star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-and-white feather star on the shores of Singapore
 keywords: black, feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

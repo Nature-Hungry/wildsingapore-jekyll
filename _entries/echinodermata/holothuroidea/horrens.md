@@ -1,6 +1,6 @@
 ---
 title: Durian sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Durian sea cucumber on the shores of Singapore
 keywords: selenka, stichopus, horrens, stichopodidae, cucumber, seacucumber, holothuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Big parasol green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Big parasol green seaweed on the shores of Singapore
 keywords: parasol, seaweed, weed, green, caulerpa, peltata, caulerpaceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

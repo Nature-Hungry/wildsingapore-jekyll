@@ -1,6 +1,6 @@
 ---
 title: Blue-spotted pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-spotted pufferfish on the shores of Singapore
 keywords: starry, pufferfish, puffer, fish, arothon, caeruleopunctatus, tetraodontidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

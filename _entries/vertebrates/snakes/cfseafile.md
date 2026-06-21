@@ -1,6 +1,6 @@
 ---
 title: Banded marine snakes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded marine snakes on the shores of Singapore
 keywords: banded, marine, snake, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info
 layout: entry

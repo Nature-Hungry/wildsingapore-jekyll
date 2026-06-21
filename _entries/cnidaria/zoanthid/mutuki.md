@@ -1,6 +1,7 @@
 ---
 title: Broad zoanthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Colony 5-10cm, a cluster of a few individual polyps. Polyp 1-2cm with
+  long body column, broad oral disk. On coral rubble. Commonly seen on our shores.
 keywords: broad, colonial, anemone, zoanthid, mutuki, palythoa, zoanthidae, anthozoa,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

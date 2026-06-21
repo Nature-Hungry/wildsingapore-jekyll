@@ -1,6 +1,6 @@
 ---
 title: Fig snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fig snail on the shores of Singapore
 keywords: fig, snail, ficus, variegata, ficidae, gastropod, mollusc, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

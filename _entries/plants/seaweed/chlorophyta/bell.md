@@ -1,6 +1,6 @@
 ---
 title: Bell sea grapes seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bell sea grapes seaweed on the shores of Singapore
 keywords: oval, grapes, seaweed, weed, green, caulerpa, racemosa, turbinata, caulerpaceae,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

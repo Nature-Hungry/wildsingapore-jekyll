@@ -1,6 +1,6 @@
 ---
 title: 'Sea lettuce '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea lettuce  on the shores of Singapore
 keywords: ulva, lettuce, seaweed, weed, green, ulvaceae, enteromorpha, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

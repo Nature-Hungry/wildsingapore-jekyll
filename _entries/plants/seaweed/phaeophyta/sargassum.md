@@ -1,6 +1,6 @@
 ---
 title: Sargassum seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sargassum seaweed on the shores of Singapore
 keywords: sargassum, brown, seaweed, weed, sargassaceae, phaeophyta, algae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Waved mitre snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Waved mitre snails on the shores of Singapore
 keywords: mitre, pterygia, undulosa, mitridae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

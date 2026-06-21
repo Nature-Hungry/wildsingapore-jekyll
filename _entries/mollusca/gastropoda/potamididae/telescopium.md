@@ -1,6 +1,6 @@
 ---
 title: Rodong snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rodong snail on the shores of Singapore
 keywords: rodong, telescopium, creeper, shell, snail, cerithiidae, potamididae, gastropod,
   mollusc, snail, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

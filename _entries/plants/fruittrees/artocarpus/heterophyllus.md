@@ -1,6 +1,6 @@
 ---
 title: 'Nangka '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Nangka  on the shores of Singapore
 keywords: nangka, jack, fruit, jackfruit, artocarpus, heterophyllus, moraceae, tree,
   plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

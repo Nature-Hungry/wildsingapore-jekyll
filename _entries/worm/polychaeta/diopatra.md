@@ -1,6 +1,6 @@
 ---
 title: Solitary tubeworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Solitary tubeworm on the shores of Singapore
 keywords: solitary, tube, worm, tubeworm, diopatra, sbristle, polychaete, annelida,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

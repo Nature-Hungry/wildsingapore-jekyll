@@ -1,6 +1,6 @@
 ---
 title: Feathery filefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feathery filefish on the shores of Singapore
 keywords: feathery, filefish, file, fish, chaetodoerma, penicilligera, chaetodermis,
   penicilligerus, leather, jacket, monacanthidae, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

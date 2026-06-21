@@ -1,6 +1,6 @@
 ---
 title: 'Shore cricket '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Shore cricket  on the shores of Singapore
 keywords: cricket, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info
 layout: entry

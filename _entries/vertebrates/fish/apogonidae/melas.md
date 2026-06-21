@@ -1,6 +1,6 @@
 ---
 title: Black cardinalfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black cardinalfish on the shores of Singapore
 keywords: black, cardinalfish, cardinal, fish, apogonichthyoides, apogon, melas, apogonidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Smooth sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth sea cucumber on the shores of Singapore
 keywords: cucumber, seacucumber, acaudina, caudinidae, holothuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

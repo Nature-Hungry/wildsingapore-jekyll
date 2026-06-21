@@ -1,6 +1,6 @@
 ---
 title: Leathery soft coral ctenophores
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Leathery soft coral ctenophores on the shores of Singapore
 keywords: coeloplana, ctenophora, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

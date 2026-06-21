@@ -1,6 +1,6 @@
 ---
 title: Conical slipper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Conical slipper snail on the shores of Singapore
 keywords: conical, slipper, desmaulus, calyptraea, extinctorium, crepidulidae, calyptraeidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Threespot damselfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Threespot damselfish on the shores of Singapore
 keywords: three, spot, damsel, fish, damselfish, pomacentrus, tripunctatus, pomacentridae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

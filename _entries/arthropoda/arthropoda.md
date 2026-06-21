@@ -1,6 +1,6 @@
 ---
 title: Arthropods
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Arthropods on the shores of Singapore
 keywords: arthropoda, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info
 layout: entry

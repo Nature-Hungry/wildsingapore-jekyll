@@ -1,6 +1,6 @@
 ---
 title: Little black mussel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Little black mussel on the shores of Singapore
 keywords: little, black, horse, mussel, clam, xenostrobus, mytilidae, bivalve, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info

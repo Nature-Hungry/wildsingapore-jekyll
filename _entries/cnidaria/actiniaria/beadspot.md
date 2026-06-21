@@ -1,6 +1,8 @@
 ---
 title: Spotted mangrove anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 'Less than 0.5cm, at low tide, a tiny blob with ''eye spots'': black
+  centre with white and orange edges. Among barnacles, wood on the high shore among
+  mangroves.'
 keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

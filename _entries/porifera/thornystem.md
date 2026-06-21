@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thorny stem sponge on the shores of Singapore
 keywords: orange, sprawling, sponge, gelliodes, fibulata, niphatidae, porifera, field,
 layout: entry
 shape: branching

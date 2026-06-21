@@ -1,6 +1,6 @@
 ---
 title: 'Swimming crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Swimming crabs  on the shores of Singapore
 keywords: swimming, crab, portunidae, thalamita, decapod, crustrace, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info

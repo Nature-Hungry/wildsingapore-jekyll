@@ -1,6 +1,6 @@
 ---
 title: Haddon's carpet anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Haddon's carpet anemone on the shores of Singapore
 keywords: haddon's, carpet, anemone, stichodactyla, haddoni, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

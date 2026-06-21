@@ -1,6 +1,6 @@
 ---
 title: Api-api
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Api-api on the shores of Singapore
 keywords: avicennia, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

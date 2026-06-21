@@ -1,6 +1,6 @@
 ---
 title: 'Piai lasu '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Piai lasu  on the shores of Singapore
 keywords: fern, acrostichum, speciosum, pteridaceae, mangrove, mangroves, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

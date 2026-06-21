@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Daisy sponge on the shores of Singapore
 keywords: daisy, sponge, coelocarteria, singaporensis, isodictyidae, coelosphoeridae,
 layout: entry
 shape: branching

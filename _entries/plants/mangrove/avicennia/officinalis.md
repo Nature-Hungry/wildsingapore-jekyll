@@ -1,6 +1,6 @@
 ---
 title: 'Api-api ludat '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Api-api ludat  on the shores of Singapore
 keywords: api, ludat, avicennia, officinalis, acanthaceae, avicenniaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

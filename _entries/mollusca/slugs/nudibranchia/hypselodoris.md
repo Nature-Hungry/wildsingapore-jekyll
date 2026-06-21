@@ -1,6 +1,6 @@
 ---
 title: 'Hypselodoris nudibranchs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hypselodoris nudibranchs  on the shores of Singapore
 keywords: hypselodoris, kanga, nudibranch, slug, seaslug, chromodoridae, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

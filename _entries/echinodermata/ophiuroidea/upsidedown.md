@@ -1,6 +1,6 @@
 ---
 title: Upsidedown brittle star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Upsidedown brittle star on the shores of Singapore
 keywords: upsidedown, brittle, star, brittlestar, ophiothrix, ophiuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

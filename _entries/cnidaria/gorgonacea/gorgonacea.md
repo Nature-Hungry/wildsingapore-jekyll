@@ -1,6 +1,6 @@
 ---
 title: Sea fans or Gorgonians
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea fans or Gorgonians on the shores of Singapore
 keywords: fan, whip, coral, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info

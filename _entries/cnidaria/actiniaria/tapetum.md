@@ -1,6 +1,6 @@
 ---
 title: Mini carpet anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mini carpet anemone on the shores of Singapore
 keywords: tinycarpet, anemone, stichodactyla, tapetum, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

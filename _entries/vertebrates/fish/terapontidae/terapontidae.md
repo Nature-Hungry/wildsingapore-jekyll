@@ -1,6 +1,6 @@
 ---
 title: Perch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Perch on the shores of Singapore
 keywords: grunter, perch, fish, teraponidae, theraponidae, therapontidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow pot sponge on the shores of Singapore
 keywords: yellow, pot, sponge, rhabdastrella, globostellata, ancorinidae, porifera,
 layout: entry
 shape: ''

@@ -1,6 +1,6 @@
 ---
 title: Smasher mantis shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smasher mantis shrimp on the shores of Singapore
 keywords: gonodactylus chiragra, gonodactylidae, smasher, mantis, shrimp, stomatopod,
   stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

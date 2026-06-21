@@ -1,6 +1,6 @@
 ---
 title: 'Bean cowries '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bean cowries  on the shores of Singapore
 keywords: bean, cowry, cowrie, triviidae, trivirostra, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

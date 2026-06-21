@@ -1,6 +1,6 @@
 ---
 title: 'Spotted moon snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted moon snail  on the shores of Singapore
 keywords: spotted, moon, snail, shell, natica, gualteriana, gualtieriana, naticidae,
   gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

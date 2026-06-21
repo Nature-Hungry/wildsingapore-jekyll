@@ -1,6 +1,6 @@
 ---
 title: 'Pelir musang '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pelir musang  on the shores of Singapore
 keywords: pelir, musang, fagraea, auriculata, gentianaceae, loganiaceae, tree, plant,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

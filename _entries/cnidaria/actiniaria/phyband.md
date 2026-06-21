@@ -1,6 +1,6 @@
 ---
 title: Banded frilly anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded frilly anemone on the shores of Singapore
 keywords: banded, branched, tentacle, anemone, phymanthus, phymantidae, actiniaria,
   cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

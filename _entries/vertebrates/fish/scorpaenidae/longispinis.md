@@ -1,6 +1,6 @@
 ---
 title: 'Longspined waspfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Longspined waspfish  on the shores of Singapore
 keywords: longspined, long, spine, waspfish, wasp, scorpionfish, scorpion, fish, paracentropogon,
   longispinus, tetrarogidae, scorpaenidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

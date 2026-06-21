@@ -1,6 +1,6 @@
 ---
 title: Grey knight-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Grey knight-goby on the shores of Singapore
 keywords: grey, knight, goby, stigmatogobius, sadanundio, fish, gobiidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

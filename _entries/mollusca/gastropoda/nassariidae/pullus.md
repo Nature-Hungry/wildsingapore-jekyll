@@ -1,6 +1,6 @@
 ---
 title: Black whelk
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black whelk on the shores of Singapore
 keywords: black, whelk, nassarius, pullus, nassariidae, gastropod, mollusc, shell,
   snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info

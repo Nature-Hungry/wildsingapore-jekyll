@@ -1,6 +1,6 @@
 ---
 title: Wedge sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Wedge sea hare on the shores of Singapore
 keywords: hairy, seahare, hare, anaspidea, aplysiidae, dolabella, auricularia, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

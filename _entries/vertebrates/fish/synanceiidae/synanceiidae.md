@@ -1,6 +1,6 @@
 ---
 title: Stonefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stonefishes on the shores of Singapore
 keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

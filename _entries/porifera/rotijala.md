@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of 'Roti jala' sponge on the shores of Singapore
 keywords: roti, jala, sponge, porifera, terpios, suberitidae, field, guide, seashore,
 layout: entry
 shape: encrusting

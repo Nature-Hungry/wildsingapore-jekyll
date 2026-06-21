@@ -1,6 +1,6 @@
 ---
 title: Shorebirds and sea birds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Shorebirds and sea birds on the shores of Singapore
 keywords: shorebirds, birds, waders, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info
 layout: entry

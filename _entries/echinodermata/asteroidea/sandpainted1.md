@@ -1,6 +1,6 @@
 ---
 title: 'Painted sand stars (Astropecten) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Painted sand stars (Astropecten)  on the shores of Singapore
 keywords: sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

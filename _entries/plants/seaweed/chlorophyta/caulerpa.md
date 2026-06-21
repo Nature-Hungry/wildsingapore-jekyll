@@ -1,6 +1,6 @@
 ---
 title: Caulerpa green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Caulerpa green seaweeds on the shores of Singapore
 keywords: caulerpa, caulerpaceae, seaweed, weed, green, chlorophyta, algae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

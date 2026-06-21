@@ -1,6 +1,7 @@
 ---
 title: 'Flatfishes: how to tell apart some common families'
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 'Fact sheet of Flatfishes: how to tell apart some common families on
+  the shores of Singapore'
 keywords: flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

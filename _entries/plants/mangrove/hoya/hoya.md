@@ -1,6 +1,6 @@
 ---
 title: 'Mangrove wax plant '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove wax plant  on the shores of Singapore
 keywords: wax, hoya, apocynaceae, asclepiadaceae, creeper, plant, bush, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

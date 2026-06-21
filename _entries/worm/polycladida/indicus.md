@@ -1,6 +1,6 @@
 ---
 title: Blue-dot margined
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-dot margined on the shores of Singapore
 keywords: blue, dotted, flat, worm, flatworm, pseudoceros, indicus, polyclad, turbellaria,
   platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

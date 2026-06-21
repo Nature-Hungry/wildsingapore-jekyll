@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Melted chocolate sponges on the shores of Singapore
 keywords: melted, chocolate, sponge, chondrilla, australiensis, chondrillidae, porifera,
 layout: entry
 shape: encrusting

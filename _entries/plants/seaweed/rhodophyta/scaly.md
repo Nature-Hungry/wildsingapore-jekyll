@@ -1,6 +1,6 @@
 ---
 title: 'Scaly red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scaly red seaweed  on the shores of Singapore
 keywords: scaly, red, seaweed, weed, algae, peyssonnelia, peyssonneliales, rhodophyta,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

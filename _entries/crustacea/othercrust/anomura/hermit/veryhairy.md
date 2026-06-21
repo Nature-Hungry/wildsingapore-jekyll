@@ -1,6 +1,6 @@
 ---
 title: Very hairy hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Very hairy hermit crab on the shores of Singapore
 keywords: hermit, crab, dardanus, lagopodes, diogenidae, anomura, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

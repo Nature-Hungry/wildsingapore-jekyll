@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth brown sponge on the shores of Singapore
 keywords: smooth, blue, sponge, neopetrosia, exigua, petrosiidae, porifera, field,
 layout: entry
 shape: encrusting

@@ -1,6 +1,6 @@
 ---
 title: 'Spider crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spider crabs  on the shores of Singapore
 keywords: spider, crab, spider crab, majidae, majoidea, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info,  photo

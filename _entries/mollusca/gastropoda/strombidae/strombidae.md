@@ -1,6 +1,6 @@
 ---
 title: 'Conch snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Conch snails  on the shores of Singapore
 keywords: gong, pearl, spider, conch, strombus, canarium, lambis, lambis, strombidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

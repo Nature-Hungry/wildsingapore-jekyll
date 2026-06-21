@@ -1,6 +1,6 @@
 ---
 title: Fluffy green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fluffy green seaweeds on the shores of Singapore
 keywords: fluffy, seaweed, weed, green, caulerpa, verticillata, caulerpaceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

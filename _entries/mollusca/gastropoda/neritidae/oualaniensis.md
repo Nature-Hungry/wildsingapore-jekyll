@@ -1,6 +1,6 @@
 ---
 title: Dubious nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dubious nerite snail on the shores of Singapore
 keywords: dubious, nerite, clithon, oualaniensis,  neritidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

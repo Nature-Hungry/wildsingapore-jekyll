@@ -1,6 +1,7 @@
 ---
 title: 'Crabs with long eye stalks: how to tell them apart'
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 'Fact sheet of Crabs with long eye stalks: how to tell them apart on
+  the shores of Singapore'
 keywords: sentinel, fiddler, crab, uca, macrophthalmus, ocypodidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

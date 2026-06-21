@@ -1,6 +1,6 @@
 ---
 title: Marbled flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Marbled flatworm on the shores of Singapore
 keywords: red, flat, worm, flatworm, pseudoceros, polycladida, polyclad, turbellaria,
   platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

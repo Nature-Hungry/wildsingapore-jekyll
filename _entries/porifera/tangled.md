@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tangled sponge on the shores of Singapore
 keywords: tangled, sponge, callyspongia, samarensis, callyspongiidae, porifera, field,
 layout: entry
 shape: branching

@@ -1,6 +1,6 @@
 ---
 title: Strapweed filefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Strapweed filefish on the shores of Singapore
 keywords: strapweed, filefish, file, fish, leather, jacket, pseudomonacanthus, monacanthus,
   macrurus, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

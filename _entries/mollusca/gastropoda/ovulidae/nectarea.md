@@ -1,6 +1,6 @@
 ---
 title: Nectar spindle cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Nectar spindle cowrie on the shores of Singapore
 keywords: nectar, spindle, ovulid, cowrie, ovulidae, phenacovolva, nectarea, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Sea grapes compared
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea grapes compared on the shores of Singapore
 keywords: caulerpa, lentillifera, racemosa, green, seaweed, algae, chlorophyta, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info

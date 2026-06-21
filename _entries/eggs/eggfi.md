@@ -1,6 +1,7 @@
 ---
 title: 'Marine eggs: photo index for the Shores of Singapore'
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 'Fact sheet of Marine eggs: photo index for the Shores of Singapore on
+  the shores of Singapore'
 keywords: small, snail, shell, gastropod, mollusc, mollusk, mollusca, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

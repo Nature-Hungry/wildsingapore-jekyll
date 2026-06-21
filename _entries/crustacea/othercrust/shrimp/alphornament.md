@@ -1,6 +1,6 @@
 ---
 title: Ornamented snapping shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ornamented snapping shrimp on the shores of Singapore
 keywords: flat, pincer, snapping, shrimp, alpheus, alpheidae, alpheid, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

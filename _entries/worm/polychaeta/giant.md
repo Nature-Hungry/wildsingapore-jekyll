@@ -1,6 +1,6 @@
 ---
 title: Giant reef worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Giant reef worm on the shores of Singapore
 keywords: giant, reef, bristle, worm, eunice, aphroditois, eunicid, bristleworm, polychaete,
   annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

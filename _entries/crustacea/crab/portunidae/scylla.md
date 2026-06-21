@@ -1,6 +1,6 @@
 ---
 title: Mud crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mud crab on the shores of Singapore
 keywords: mud, crab, scylla, crustacea, portunidae, decapod, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

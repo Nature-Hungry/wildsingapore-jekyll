@@ -1,6 +1,6 @@
 ---
 title: Sea whip
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea whip on the shores of Singapore
 keywords: whip, coral, seafan, fan, junceella, ellisellidae, gorgonian, gorgonacea,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

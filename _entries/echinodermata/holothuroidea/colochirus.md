@@ -1,6 +1,6 @@
 ---
 title: Thorny sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thorny sea cucumber on the shores of Singapore
 keywords: thorny, cucumber, seacucumber, colochirus, quadrangularis, cucumariidae,
   holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

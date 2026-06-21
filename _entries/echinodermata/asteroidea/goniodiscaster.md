@@ -1,6 +1,6 @@
 ---
 title: Biscuit sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Biscuit sea star on the shores of Singapore
 keywords: biscuit, sea star, seastar, starfish, star, fish, goniodiscater, scaber,
   oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

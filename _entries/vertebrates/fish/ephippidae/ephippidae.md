@@ -1,6 +1,6 @@
 ---
 title: 'Batfishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Batfishes  on the shores of Singapore
 keywords: batfish, bat, fish, ephippidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

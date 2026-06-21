@@ -1,6 +1,6 @@
 ---
 title: Rosy fiddler crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rosy fiddler crab on the shores of Singapore
 keywords: rosy, fiddler, crab, uca, tubuca, rosea, ocypodidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

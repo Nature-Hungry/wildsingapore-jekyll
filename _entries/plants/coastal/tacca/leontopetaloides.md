@@ -1,6 +1,6 @@
 ---
 title: Seashore bat lily
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Seashore bat lily on the shores of Singapore
 keywords: batlily, bat, lily, tacca, leontopetaloides, taccaceae, plant, tree, bush,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

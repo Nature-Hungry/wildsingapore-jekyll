@@ -1,6 +1,6 @@
 ---
 title: Dusky-gilled mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dusky-gilled mudskipper on the shores of Singapore
 keywords: dusky, gill, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus,
   variabilis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

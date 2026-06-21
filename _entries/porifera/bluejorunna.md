@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue jorunna sponge on the shores of Singapore
 keywords: blue, jorunna, sponge, porifera, neopetrosia, petrosiidae, field, guide,
 layout: entry
 shape: encrusting

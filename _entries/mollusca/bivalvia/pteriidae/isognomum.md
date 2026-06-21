@@ -1,6 +1,6 @@
 ---
 title: Elongated toothed oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elongated toothed oyster on the shores of Singapore
 keywords: wader, tree, oyster, isognomon, isognomum, pteriidae, isognominidae, bivalve,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

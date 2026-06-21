@@ -1,6 +1,6 @@
 ---
 title: 'Crab-eating frog '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Crab-eating frog  on the shores of Singapore
 keywords: crab, eating, frog, fejervarya, rana, crancrivora, amphibian, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

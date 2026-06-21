@@ -1,6 +1,6 @@
 ---
 title: Flowery sea pen
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flowery sea pen on the shores of Singapore
 keywords: flowery, pen, seapen, veretilllidae, pennatulacea, anthozoa, cnidaria, pteroides,
   cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: 'Jejawi '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Jejawi  on the shores of Singapore
 keywords: fig, malayan, banyan, ficus, microcarpa, moraceae, tree, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

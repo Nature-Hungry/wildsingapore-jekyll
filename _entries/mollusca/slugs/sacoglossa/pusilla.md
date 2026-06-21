@@ -1,6 +1,6 @@
 ---
 title: Halimeda slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Halimeda slug on the shores of Singapore
 keywords: halimeda, slug, elysia, elysiella, pusilla, plakobranchidae, sacoglossa,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

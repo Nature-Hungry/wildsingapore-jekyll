@@ -1,6 +1,6 @@
 ---
 title: Lesser dog-faced fruit bat
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lesser dog-faced fruit bat on the shores of Singapore
 keywords: fruit, bat, cynopterus, brachyotis, pteropodidae, vertebrate, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

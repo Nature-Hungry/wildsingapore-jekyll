@@ -1,6 +1,6 @@
 ---
 title: Four-spot cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Four-spot cowrie on the shores of Singapore
 keywords: four, spot, cowrie, cypraeidae, quadrimaculata, cypraea, eclogavena, gastropod,
   mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

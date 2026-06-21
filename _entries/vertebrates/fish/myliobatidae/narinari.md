@@ -1,6 +1,6 @@
 ---
 title: Eagle rays
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eagle rays on the shores of Singapore
 keywords: spotted, eagle, ray, aetobatus, mula, narinari, myliobatidae, fish, scatophagidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

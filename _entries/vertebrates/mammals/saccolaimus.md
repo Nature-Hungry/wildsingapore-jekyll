@@ -1,6 +1,6 @@
 ---
 title: Pouched tomb bat
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pouched tomb bat on the shores of Singapore
 keywords: pouched, bearing, tomb, bat, saccolaimus, emballonuridae, vertebrate, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo

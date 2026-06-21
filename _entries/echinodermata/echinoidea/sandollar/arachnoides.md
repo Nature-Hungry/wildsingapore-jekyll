@@ -1,6 +1,6 @@
 ---
 title: Cake sand dollar
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cake sand dollar on the shores of Singapore
 keywords: cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Persian carpet flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Persian carpet flatworm on the shores of Singapore
 keywords: persian, carpet, flat, worm, flatworm, pseudobiceros, bedfordi, polyclad,
   turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

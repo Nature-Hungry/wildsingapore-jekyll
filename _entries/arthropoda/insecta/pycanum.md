@@ -1,6 +1,6 @@
 ---
 title: Giant shield bug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Giant shield bug on the shores of Singapore
 keywords: giant, shield, bug, pycanum, rubens, tessaratomidae, insect, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info

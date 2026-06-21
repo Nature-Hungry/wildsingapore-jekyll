@@ -1,6 +1,7 @@
 ---
 title: Spoon seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Spoon shaped leaves, 0.5-1cm wide, 1-4cm long, emerging in pairs. Common
+  on many of our shores.
 keywords: spoon, halophila, ovalis, complex, minor, hydrocharitaceae, seagrass, grass,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

@@ -1,6 +1,6 @@
 ---
 title: Common whelk
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common whelk on the shores of Singapore
 keywords: common, whelk, nassarius, livescens, nassariidae, gastropod, mollusc, shell,
   snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

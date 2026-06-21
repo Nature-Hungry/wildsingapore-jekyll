@@ -1,6 +1,6 @@
 ---
 title: Honeycomb grouper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Honeycomb grouper on the shores of Singapore
 keywords: honey, comb, grouper, fish, epinephalus, quoyanus, serranidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

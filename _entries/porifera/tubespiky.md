@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spiky tubular sponge on the shores of Singapore
 keywords: tubular, sponge, gelliodes, niphatidae, porifera, field, guide, seashore,
 layout: entry
 shape: sausage

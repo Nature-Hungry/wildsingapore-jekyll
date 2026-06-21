@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Yellow volcano sponge on the shores of Singapore
 keywords: many, cone, volcano, yellow, sponge, spheciospongia, clionaidae, porifera,
 layout: entry
 shape: ball

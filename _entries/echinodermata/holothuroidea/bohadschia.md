@@ -1,6 +1,6 @@
 ---
 title: Brown sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown sea cucumber on the shores of Singapore
 keywords: brown, cucumber, seacucumber, bohadschia, vitiensis, holothuriidae, holothuroidae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo

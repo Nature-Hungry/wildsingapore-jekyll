@@ -1,6 +1,7 @@
 ---
 title: Snail-hitching  anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 1cm. On living snails. Many long thin tentacles. Body brown with pale
+  stripes. On shells of living snails. Sometimes seen on some of our shores.
 keywords: snail, mollusca, gastropod, anemone, paraiptasia, radiata, aiptasiidae,
   actiniaria, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

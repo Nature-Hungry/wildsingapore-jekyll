@@ -1,6 +1,6 @@
 ---
 title: Big       sea stars
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Big       sea stars on the shores of Singapore
 keywords: worm, tube, tubeworm, fan, fanworm, peacock, anemone, polychaeta, sabellidae,
   ceriantharia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info

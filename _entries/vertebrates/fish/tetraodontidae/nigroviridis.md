@@ -1,6 +1,6 @@
 ---
 title: Spotted green pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted green pufferfish on the shores of Singapore
 keywords: spotted, green, pufferfish, puffer, fish, tetraodon, nigroviridis, tetraodontidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
