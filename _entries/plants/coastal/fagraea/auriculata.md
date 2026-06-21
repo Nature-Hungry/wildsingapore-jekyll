@@ -1,6 +1,6 @@
 ---
 title: 'Pelir musang '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pelir musang  on the shores of Singapore
 keywords: pelir, musang, fagraea, auriculata, gentianaceae, loganiaceae, tree, plant,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,7 +23,7 @@ order: Gentianales
 tribe: Potalieae
 subtribe: Potaliinae
 updated: Feb 11
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
 links_references: "**Acknowledgements** \nWith grateful thanks to Andrew Tay for identifying\
   \ this plant.\n\n**Links**\n- [*Fagraea auriculata*](http://floraofsingapore.wordpress.com/2011/02/20/fagraea-auriculata/)on\
   \ the Total Vascular Plants of Singapore blog: photos and fact sheet.\n\n**References**\n\
@@ -42,21 +42,21 @@ links_references: "**Acknowledgements** \nWith grateful thanks to Andrew Tay for
   \ of Singapore*. Nature Society (Singapore). 285 pp."
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6221m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/110220lazd6221m3a.jpg
     caption: Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6224m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/110220lazd6224m3.jpg
     caption: A pair of 'ears' at the base of the leaf stalk. Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6224m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/110220lazd6224m3a.jpg
     caption: Lazarus Island, Feb 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/100531biod4654m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/100531biod4654m6l.jpg
     caption: Pulau Biola, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/100531biod4665m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/100531biod4665m3a.jpg
     caption: Pulau Biola, May 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/100528tkkd3981m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/100528tkkd3981m6l.jpg
     caption: Pulau Tekukor, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/100528tkkd3986m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/100528tkkd3986m3.jpg
     caption: Pulau Tekukor, May 10
 rdb: CR
 authors:
@@ -79,7 +79,7 @@ According to Burkill the very sticky substance found under the thin skin of the 
 **Status and threats:**
 This plant is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-****![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg)*
+****![](https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg)*
 
 *Lazarus Island, Feb 11*
 *****

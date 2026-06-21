@@ -1,6 +1,6 @@
 ---
 title: 'Turban snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Turban snails  on the shores of Singapore
 keywords: turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,48 +17,47 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg
     caption: Sisters Island, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2100m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2100m3.jpg
     caption: Two different kinds of turban snails. More easily distinguished by their
       operculum.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/120620sntd5829m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/120620sntd5829m3.jpg
     caption: Sometimes, only the operculum is seen on the shore.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg
     caption: Spurred turban snail Cyrene Reef, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
     caption: Dolphin shell snail Tanah Merah, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg
     caption: Ribbed turban snail Labrador, May 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3a.jpg
     caption: Ribbed turban snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg
     caption: Operculum smooth, green centre with white and yellow margins,
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3a.jpg
     caption: Spiral ribs smooth without scales.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3a.jpg
     caption: Dwarf turban snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg
     caption: Operculum bumpy, green centre with white and greyish margins. No yellow.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3b.jpg
     caption: Spiral ribs rough with tiny scales.
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
     caption: Dolphin snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg
     caption: Spurred turban snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
     caption: Tapestry turban snail
 links_references: '**Links**
 
   - [Dwarf Turban Shell (
-
   *Turbo brunneus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/133)
@@ -191,14 +190,10 @@ Turban shells graze the algae that thrive on the rocks, scraping this off with t
 
 ## Human uses
 
-In our region, the larger turban snails are collected for food and their mother-of-pearl shell. The large Giant green turban snail (
-*Turbo mamoratus*
-) is collected for food and its shell carved into ornaments and jewellery. In recent years, heavy commercial exploitation has depleted local populations.
+In our region, the larger turban snails are collected for food and their mother-of-pearl shell. The large Giant green turban snail (*Turbo mamoratus*) is collected for food and its shell carved into ornaments and jewellery. In recent years, heavy commercial exploitation has depleted local populations.
 
 **Status and threats:**
-The Tapestry turban shell (
-*Turbo petholatus*
-) is listed as 'Endangered' on the Red List of the threatened animals of Singapore. It has a smooth, brightly coloured shell in brown, green and yellow fine lines. According to the Singapore Red Data book: "Although never abundant, this species could be found up until the early 1970's but is now extremely rare. It needs to be protected from shell collectors".
+The Tapestry turban shell (*Turbo petholatus*) is listed as 'Endangered' on the Red List of the threatened animals of Singapore. It has a smooth, brightly coloured shell in brown, green and yellow fine lines. According to the Singapore Red Data book: "Although never abundant, this species could be found up until the early 1970's but is now extremely rare. It needs to be protected from shell collectors".
 
 ---
 

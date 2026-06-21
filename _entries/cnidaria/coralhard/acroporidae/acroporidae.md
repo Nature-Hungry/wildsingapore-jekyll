@@ -1,6 +1,6 @@
 ---
 title: 'Acroporid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Acroporid corals  on the shores of Singapore
 keywords: acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -17,28 +17,28 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
     caption: Some acropora coral form table-like colonies. Raffles Lighthouse, Jun
       07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg
     caption: Most members have an axial corallite. Sisters Island, Dec 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
     caption: Some montipora corals are plate-like. Sisters Island, Dec 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monbranch/060415hntd1252m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monbranch/060415hntd1252m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/031224sisd0110m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/031224sisd0110m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monbranch/060415hntg5635m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monbranch/060415hntg5635m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/031224sisd0112m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/031224sisd0112m3a.jpg
     caption: ''
 links_references: '**Links**
 

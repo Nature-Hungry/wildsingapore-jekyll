@@ -1,6 +1,6 @@
 ---
 title: Bluering angelfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bluering angelfish on the shores of Singapore
 keywords: bluering, blue, ring, angel, fish, angelfish, pomacanthus, annularis, pomacanthidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,20 +23,19 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
     caption: In an aquarium at a seafood restaurant. Pulau Ubin, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
     caption: The juvenile looks very different. Tanah Merah, Apr 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/200820ssismn3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/annularis/200820ssismn3.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 
   - [Bluering angelfish (
-
   *Pomacanthus annularis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/332)
@@ -48,7 +47,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Bluering angelfishl (
-
   *Pomacanthus annularis*
 
   )](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?id=7902)
@@ -60,7 +58,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Blue-ringed Angelfish (
-
   *Pomacanthus annularis*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/pannularis)

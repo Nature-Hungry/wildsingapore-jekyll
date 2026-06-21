@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Golf ball sponge on the shores of Singapore
 keywords: golf, ball, sponge, porifera, cinachyrella, australiensis, tetillidae, field,
 layout: entry
 shape: ball
@@ -17,56 +17,56 @@ subclass: Heteroscleromorpha
 order: Tetractinellida
 suborder: Spirophorina
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/120123hntd5473m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/golfball/120123hntd5473m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/090412hntd9690m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/090412hntd9690m3.jpg
     caption: Regular circular indentations makes it resemble a golf ball. Pulau Hantu,
       Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/070101cjd7268m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/070101cjd7268m3.jpg
     caption: Possibly a dead golfball sponge? Chek Jawa, Jan 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/120123hntd5473m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/120123hntd5473m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/070804smkg1884m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/070804smkg1884m3.jpg
     caption: Pulau Semakau, Aug 07 Broken ones reveal the yellow radiating internal
       skeleton.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100908chgd0646m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100908chgd0646m3.jpg
     caption: Changi, Sep 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/121216ubnd2603m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/121216ubnd2603m3.jpg
     caption: 'Pulau Ubin, Dec 12 Tiny blobs at the filament tips: buds that fall off
       to become new sponges?'
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/201117labrk1.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/201117labrk1.jpg
     caption: Labrador, Nov 20 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/210822ssisvc6.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/210822ssisvc6.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100130brkd8709m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100130brkd8709m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100130brkd8709m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100130brkd8709m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100130brkd8709m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100130brkd8709m3b.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/091231biod6937m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/091231biod6937m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/091205pawlks9m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/091205pawlks9m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100130brkd8647m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100130brkd8647m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100131slud8786m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100131slud8786m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100131slud8863m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100131slud8863m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100601slud4815m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100601slud4815m3b.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100530tbkd4301m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100530tbkd4301m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/100601slud4704m3.jpg
+  - url: https://images.naturehungry.sg/porifera/golfball/100601slud4704m3.jpg
     caption: Pulau Salu, Jun 10
 links_references: '**Links**
 
@@ -137,10 +137,10 @@ the
 [Rambutan sponge](ballprickly)
 which has fewer fine spines sometimes with bulbous tips and anchored to the surface with stringy tissues. Golf ball sponges lack these bulbous tips and stringy anchors.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/120123hntd5473m3.jpg)
+![](https://images.naturehungry.sg/porifera/golfball/120123hntd5473m3.jpg)
 
 *Pulau Hantu, Jan 12*
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/golfball/120123hntd5473m3a.jpg)
+![](https://images.naturehungry.sg/porifera/golfball/120123hntd5473m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

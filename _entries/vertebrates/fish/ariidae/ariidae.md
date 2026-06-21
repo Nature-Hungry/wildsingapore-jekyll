@@ -1,6 +1,6 @@
 ---
 title: Sea catfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea catfishes on the shores of Singapore
 keywords: sea, catfish, cat, fish, ariidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,22 +23,21 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
     caption: This large one (about 30cm) was caught by a fisherman. Pulau Sekudu,
       May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ariidae/ariidae/020101bcjd4293m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ariidae/ariidae/020101bcjd4293m3.jpg
     caption: This large one (20cm) was trapped in a rock pool at low tide. Chek Jawa,
       Jan 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ariidae/ariidae/030608cjd0063m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ariidae/ariidae/030608cjd0063m3.jpg
     caption: Small ones (about 6cm) are sometimes seen in large numbers on the shores.
       Chek Jawa, Jun 03
 links_references: '**Links**
 
   - [Yellow Sea Catfish (
-
   *Arius venosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223)

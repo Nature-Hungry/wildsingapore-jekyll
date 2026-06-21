@@ -1,6 +1,6 @@
 ---
 title: Cotton stainer bugs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cotton stainer bugs on the shores of Singapore
 keywords: cotton, stainer, bug, dysdercus, decussatus, pyrrhocoridae, insect, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info
@@ -21,27 +21,27 @@ suborder: Heteroptera
 infraorder: Pentatomomorpha
 superfamily: Pyrrhocoroidea
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/081206smkd2477m3.jpg
+coverimg: https://images.naturehungry.sg/insecta/dysdercus/081206smkd2477m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/081206smkd2477m3.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/081206smkd2477m3.jpg
     caption: An adult Bug. Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/110109ubnd4899m3.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/110109ubnd4899m3.jpg
     caption: Some adults have a black head. Pulau Ubin, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/090425prpd0345m3.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/090425prpd0345m3.jpg
     caption: Adult Bugs are often found in large numbers under Sea hibiscus leaves.
       Pasir Ris, Apr 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/081206smkd2478m3.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/081206smkd2478m3.jpg
     caption: Juvenile feeding on Sea hibiscus seeds. Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/080609ubnod5558m3a.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/080609ubnod5558m3a.jpg
     caption: Juveniles on a Portia tree . Pulau Ubin, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/151010blymn.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/151010blymn.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on flickr.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/151117labmn.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/151117labmn.jpg
     caption: Labrador, Nov 15 Photo shared by Marcus Ng on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/191127lazmn3.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/191127lazmn3.jpg
     caption: A mating pair. Seringat-Kias, Nov 2019 Photo shared by Marcus Ng on facebook.
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: 'Simpoh air '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Simpoh air  on the shores of Singapore
 keywords: simpoh, air, dillenia, suffruticosa, dilleniaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,17 +21,17 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Dilleniales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/031115rmbrad0018m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/dillenia/suffruticosa/031115rmbrad0018m3.jpg
     caption: Opened fruit with red seeds. Sungei Buloh Wetland Reserve, Nov 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/031115rmbrad0082m3a.jpg
+  - url: https://images.naturehungry.sg/plants/others/dillenia/suffruticosa/031115rmbrad0082m3a.jpg
     caption: Yellow flower. Sungei Buloh Wetland Reserve, Nov 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040207ubnd0027m3.jpg
+  - url: https://images.naturehungry.sg/insecta/pycanum/040207ubnd0027m3.jpg
     caption: Nymph of Giant shield bug ( Pycanum sp) . Pulau Ubin, Feb 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040214ubnd0082m3.jpg
+  - url: https://images.naturehungry.sg/insecta/pycanum/040214ubnd0082m3.jpg
     caption: . Adult Giant shield bug ( Pycanum sp.). Pulau Ubin, Feb 04
 links_references: '**Links**
 
@@ -99,23 +99,22 @@ The fruits take exactly five weeks to set and opens at 3am. The pink star-shaped
 ## Role in habitat
 Nymphs and adults of the colourful
 [Giant shield bug](../../../insecta/pycanum)
-(
-*Pycanum*
+(*Pycanum*
 sp.) are often seen on the plant and it appears to feed on the plant, sucking the sap. The large leaves are used by tailorbirds to sew together into a pouch for their tiny nests. Unfortunately, after they fall to the ground, the large leaves also hold shallow pools of rainwater in which mosquitos breed. Thus areas with Simpoh air are often mosquito infested.
 
 ## Human uses
 
 The large leaves of the Simpoh air were used to wrap food such as tempeh (fermented soyabean cakes), or formed into shallow cones to contain traditional "fast food" such as rojak.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg)
+*![](https://images.naturehungry.sg/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg)
 
 Admiralty Park, Dec 10
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/090418admd0201m3.jpg)
+![](https://images.naturehungry.sg/plants/others/dillenia/suffruticosa/090418admd0201m3.jpg)
 
 Admiralty Park, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/dillenia/suffruticosa/101212admd3403m3.jpg)
+![](https://images.naturehungry.sg/plants/others/dillenia/suffruticosa/101212admd3403m3.jpg)
 
 Young leaf.
 

@@ -1,6 +1,6 @@
 ---
 title: Red spindle cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red spindle cowrie on the shores of Singapore
 keywords: red, spindle, ovulid, cowrie, ovulidae, gastropod, mollusc, snail, shell,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,38 +18,38 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Cypraeoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
     caption: East Coast, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/050822cjg2210m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/050822cjg2210m3.jpg
     caption: Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/050822cjg2211m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/050822cjg2211m3.jpg
     caption: Underside. Chek Jawa, Aug 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg
     caption: Changi, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/120605lygd4202m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/120605lygd4202m3.jpg
     caption: Changi, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/120605lygd4202m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/120605lygd4202m3b.jpg
     caption: Changi, Jun 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/220715cjtl1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/220715cjtl1.jpg
     caption: Chek Jawa, Jul 22 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/230606cjky5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/230606cjky5.jpg
     caption: / Chek Jawa, Jun 23 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/251109chgsaflks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/251109chgsaflks1.jpg
     caption: Changi Creek, Nov 25 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/090723ecplks4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/090723ecplks4m3.jpg
     caption: East Coast, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/090723ecplks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/090723ecplks3m3.jpg
     caption: East Coast, Jul 09 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/130527tmlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/130527tmlks.JPG
     caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/130626ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/130626ecplks.JPG
     caption: East Coast, Jun13 Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg

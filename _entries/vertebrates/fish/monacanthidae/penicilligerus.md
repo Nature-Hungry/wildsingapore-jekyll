@@ -1,6 +1,6 @@
 ---
 title: Feathery filefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feathery filefish on the shores of Singapore
 keywords: feathery, filefish, file, fish, chaetodoerma, penicilligera, chaetodermis,
   penicilligerus, leather, jacket, monacanthidae, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -24,44 +24,43 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/050511cftd3265m3.jpg
     caption: Only a little bigger than a seagrass leaf. Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/060809skdd5511.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/060809skdd5511.jpg
     caption: Looks just like seaweed. Pulau Sekudu, Aug 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg
     caption: Three fishes together resembling flotsam. Tanah Merah, Sep 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m6l.jpg
     caption: Tanah Merah, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3a.jpg
     caption: Tassels even on its dorsal spine.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/181125chgmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/181125chgmn.jpg
     caption: Changi, Nov 18 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/170625bblks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/170625bblks5.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/090510sntik2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090510sntik2m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/080816bsistch.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/080816bsistch.jpg
     caption: Big Sisters Island, Aug 08 Photo shared by Toh Chay Hoon on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/090607tmjk1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090607tmjk1m6l.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/090627tmjk2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/090627tmjk2m3.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/110930smkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/110930smkmn.jpg
     caption: Pulau Semakau, Sep 11 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/penicilligerus/100627hntlks5m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/100627hntlks5m6l.jpg
     caption: Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 
   - [Prickly leatherjacket (
-
   *Chaetodermis penicilligerus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7975)

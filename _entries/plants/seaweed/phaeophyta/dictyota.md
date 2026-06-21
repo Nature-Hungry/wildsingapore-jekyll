@@ -1,6 +1,6 @@
 ---
 title: Y-branch brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Y-branch brown seaweed on the shores of Singapore
 keywords: strap,  brown, seaweed, weed, dictyota, dictyotaceae, phaeophyta, algae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,7 +21,7 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Dictyoteae
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
 links_references: '**Links**
 
   - [*Dictyota*](http://www.algaebase.org/search/genus/detail/?genus_id=51)on[AlgaeBase](http://www.algaebase.org/):
@@ -49,21 +49,21 @@ links_references: '**Links**
   Bookmark, Inc., the Philippines. 306 pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
     caption: Labrador, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg
     caption: Pulau Sekudu, Aug 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg
     caption: Changi, Apr 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg
     caption: Berlayar Creek, Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg
     caption: Tuas, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg
     caption: Sentosa, Jun 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg
     caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Vincent Choo on facebook.
 location:
 - prp

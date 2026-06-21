@@ -1,6 +1,6 @@
 ---
 title: Tiny seagrass snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny seagrass snail on the shores of Singapore
 keywords: babylonia, spirata, babyloniidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -10,15 +10,15 @@ genus: Alaba
 species: virgata*
 attributes: []
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
     caption: Changi, Jul 15 .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3a.jpg
     caption: Changi, Jul 15
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/litiopidae/alaba/150704cjtch1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/litiopidae/alaba/150704cjtch1m3.jpg
     caption: Chek Jawa, Jul 15 Photo shared by Toh Chay Hoon on facebook .
 location:
 - chg

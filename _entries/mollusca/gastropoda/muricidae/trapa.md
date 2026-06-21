@@ -1,6 +1,6 @@
 ---
 title: Rare-spined murex
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rare-spined murex on the shores of Singapore
 keywords: rare, spined, spiny, murex, trapa, muricidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,36 +19,35 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg
     caption: Changi, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg
     caption: Long tentacles and muscular foot.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8584m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/080801chgd8584m3.jpg
     caption: This one was clasping a bivalve. Changi, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/050823chgg2294m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/050823chgg2294m3.jpg
     caption: Empty shells are commonly seen. Changi, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/050429cftg5414m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/050429cftg5414m3.jpg
     caption: Shell taken over by a hermit crab . Changi, Apr 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/230704chg1rk2b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/230704chg1rk2b.jpg
     caption: Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/230704chg1rk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/230704chg1rk2.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/090807tmjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/090807tmjk1m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/210530ecpglks8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/210530ecpglks8.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
   - [Rarespined murex (
-
   *Murex trapa*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86982)
@@ -56,7 +55,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Rare-spined murex (
-
   *Murex trapa*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=195)
@@ -64,7 +62,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Rarespined murex (
-
   *Murex trapa*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

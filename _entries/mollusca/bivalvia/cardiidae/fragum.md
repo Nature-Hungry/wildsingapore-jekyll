@@ -1,6 +1,6 @@
 ---
 title: 'Strawberry cockle '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Strawberry cockle  on the shores of Singapore
 keywords: strawberry, cockle, ark, shell, clam, fragum, unedo, carciidae, bivalve,
   mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -22,68 +22,67 @@ order: Cardiida
 superfamily: Cardioidea
 subfamily: Fraginae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/100629pdrd7616m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/100629pdrd7616m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/100629pdrd7616m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/100629pdrd7616m3.jpg
     caption: Terumbu Pempang Darat, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/100629pdrd7617m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/100629pdrd7617m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/200111smkm3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/200111smkm3a.jpg
     caption: Buried with only 'teeth' showing. Pulau Semakau, Jan 20
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/200111smkm3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/200111smkm3b.jpg
     caption: When shell is exposed after sand is removed. Pulau Semakau, Jan 20
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/251008bbbky4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/251008bbbky4.jpg
     caption: Eaten by occupant of burrow? Beting Bemban Besar, Oct 25 Photo shared
       by Kelvin Yong on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/160807smknrl2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/160807smknrl2.jpg
     caption: Body mantle sticking out of the shell. Pulau Semakau North, 16 Photo
       shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/160209cyrhpy1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/160209cyrhpy1.jpg
     caption: Body mantle sticking out of the shell. Cyrene Reef, Feb 16 Photo shared
       by Heng Pei Yan on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/220616chgerk3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/220616chgerk3.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/141109lazlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/141109lazlks.JPG
     caption: Lazarus Island, Nov 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/240113lazlks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/240113lazlks6.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/210625kusjll3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/210625kusjll3.jpg
     caption: Kusu Island, Jun 21 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/220504hntvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/220504hntvc2.jpg
     caption: Pulau Hantu, May 22 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/171104cyrlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/171104cyrlks1.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/171104cyrlks1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/171104cyrlks1a.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/170211cyrlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/170211cyrlks1.jpg
     caption: Cyrene Reef, Feb 17 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/200627cyrky1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/200627cyrky1.jpg
     caption: Cyrene Reef, Jun 20 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/160209cyrhpy2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/160209cyrhpy2.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Heng Pei Yan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/170514bbbrl2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/170514bbbrl2.jpg
     caption: Beting Bemban Besar, May 17 Photo shared by Russel Low on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/150717smksljl3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/150717smksljl3m3.jpg
     caption: Pulau Semakau South, Jul 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/150717smksljl4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/150717smksljl4m3.jpg
     caption: Photo shared by Heng Pei Yan on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/210113smkwvc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/210113smkwvc4.jpg
     caption: Pulau Semakau West, Jan 21 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 
   - [Pacific strawberry cockle (
-
   *Fragum unedo*
 
   )](http://www.sealifebase.org/summary/SpeciesSummary.php?id=84532)
@@ -91,7 +90,6 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
   - Pacific strawberry cockle (
-
   *Fragum unedo*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

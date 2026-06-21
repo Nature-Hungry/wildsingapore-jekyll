@@ -1,6 +1,6 @@
 ---
 title: Sea toad spider crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea toad spider crab on the shores of Singapore
 keywords: toad, spider, crab, spider crab, schizophrys, majidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info,  photo
@@ -30,46 +30,46 @@ zoosubsection: Heterotremata
 superfamily: Majoidea
 subfamily: Majinae
 updated: Dec 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
     caption: Changi, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2397m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/090525chgd2397m3c.jpg
     caption: Eyes wide apart.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2397m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/090525chgd2397m3.jpg
     caption: One pincer bigger than the other.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2397m3f.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/090525chgd2397m3f.jpg
     caption: Close up of pincers
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/120508skdd2346m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/120508skdd2346m3.jpg
     caption: Pulau Sekudu, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/120508skdd2348m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/120508skdd2348m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/120508skdd2348m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/120508skdd2348m3a.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/110617pgllks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/110617pgllks.JPG
     caption: Punggol, Jun 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/120614pgllks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/120614pgllks.JPG
     caption: Punggol, Jun 12 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/121216ubnlks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/121216ubnlks.JPG
     caption: Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/250626ubnccn3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/250626ubnccn3.jpg
     caption: Pulau Ubin, Jun 25 Photo shared by Che Cheng Neo on facebook ..
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/160607bbjt2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/160607bbjt2.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/150617ecpbslks2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/150617ecpbslks2m3.jpg
     caption: East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090818tmjk1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/090818tmjk1m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3d.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3d.jpg
     caption: ''
 links_references: '**Links**
 
@@ -82,7 +82,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Common decorator crab (
-
   *Schizophrys aspera*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=aspera)
@@ -90,7 +89,6 @@ links_references: '**Links**
   and
 
   [Pronghorn decorator crab (
-
   *Schizophrys dama*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=dama)
@@ -173,9 +171,7 @@ This large squat crab is sometimes seen on some of our shores, clinging to coral
 
 Body width 4-5cm. Body teardrop-shaped with large spines on the sides. Large eyes on short stalks with a pair of spines between them. Pincers long cylindrical, tucked downwards under the body, claws with spoon-shaped tips. Body and walking legs usually covered with encrustations, except for the ends of the pincers. Some may have small bits and pieces stuck on their bodies, but they are not as well 'decorated' as the
 [Velcro crabs](retusa)
-(
-*Camposcia retusa*
-).
+(*Camposcia retusa*).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

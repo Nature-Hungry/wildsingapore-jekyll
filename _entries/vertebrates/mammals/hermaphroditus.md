@@ -1,6 +1,6 @@
 ---
 title: Common palm civet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common palm civet on the shores of Singapore
 keywords: toddycat, palm, civet, cat, paradoxurus, hermaphroditus, viverridae, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,10 +21,10 @@ superorder: Laurasiatheria
 order: Carnivora
 subfamily: Paradoxurinae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/hermaphroditus/071028cjd7391m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/hermaphroditus/071028cjd7391m6l.jpg
     caption: Chek Jawa, Oct 07
 links_references: '**Links**
 
@@ -119,11 +119,11 @@ Civet cats are not social and usually live alone. Except for a mother and her yo
 ## Role in habitat
 As a fruit eater, it helps to disperse seeds and contributes to the regeneration of forests.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg)
+*![](https://images.naturehungry.sg/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg)
 
 Chek Jawa, Oct 07*
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/hermaphroditus/090517ubnd1906m3.jpg)
+*![](https://images.naturehungry.sg/vertebrates/mammals/hermaphroditus/090517ubnd1906m3.jpg)
 
 Civet poop?
 
@@ -145,13 +145,7 @@ More details on the
 **Civet cats and SARS:**
 Although widely reported to harbour and transmit SARS, there is no conclusive scientific evidence for this.
 
-The animals implicated in the SARS outbreak were masked palm civets (
-*Paguma larvata*
-) and not our Common palm civet. And there is no evidence of a direct link between these civet cats and the SARS outbreak in China. Besides the civet cat, two other kinds of animals were implicated as possible SARS reservoirs: the Raccoon dog (
-*Nyctereutes procyonoides*
-) and the Chinese ferret badger (
-*Melogale moschata*
-).
+The animals implicated in the SARS outbreak were masked palm civets (*Paguma larvata*) and not our Common palm civet. And there is no evidence of a direct link between these civet cats and the SARS outbreak in China. Besides the civet cat, two other kinds of animals were implicated as possible SARS reservoirs: the Raccoon dog (*Nyctereutes procyonoides*) and the Chinese ferret badger (*Melogale moschata*).
 
 The SARS outbreak, however, does point to the dangers of viruses jumping from wild species due to human consumption of wildlife and closer interaction with wildlife as we encroach on and destroy wild habitats.
 

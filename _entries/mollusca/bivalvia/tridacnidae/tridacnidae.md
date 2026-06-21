@@ -1,6 +1,6 @@
 ---
 title: Giant clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Giant clams on the shores of Singapore
 keywords: giant, clam, tridacninae, tridacnidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,37 +20,37 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
     caption: The Fluted giant clam is usually firmly attached to a hard surface. Sisters
       Island, Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/210823smkevc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/210823smkevc3.jpg
     caption: Shell is anchored by a large byssus mass that emerges from a gap at the
       bottom. Seen here in this dead clam. Pulau Semakau (East), Aug 21 Photo shared
       by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: The Burrowing giant clam are often embedded inside corals. Pulau Hantu,
       Mar 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg
     caption: Burrowing giant clam. Pulau Hantu, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/081113jngd1820m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/081113jngd1820m3.jpg
     caption: Fluted giant clam. Pulau Jong, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/180812cyrm6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/180812cyrm6l.jpg
     caption: Burrowing giant clam. Cyrene, Aug 18
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/130717bsisd0581m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/130717bsisd0581m3.jpg
     caption: Fluted giant clam. Big Sisters Island, Jul 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/130628thntd9014m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/130628thntd9014m3.jpg
     caption: Fluted giant clam. Terumbu Hantu, Jun 13
   gallery4:
   - url: https://live.staticflickr.com/1681/26583361756_e8899b025a_z.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
     caption: Fluted giant clam
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: Burrowing giant clam
 links_references: "**Links**\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
@@ -153,9 +153,7 @@ Giant clams are considered a delicacy and in some places, an aphrodisiac. The la
 **Status and threats:**
 Giant clams have been listed in CITES Appendix II since 1985. The
 [Fluted giant clam](squamosa)
-(
-*Tridacna squamosa*
-) is listed as 'Endangered' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Large specimens have virtually disappeared from our shores. Young specimens are occasionally but infrequently seen". Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.
+(*Tridacna squamosa*) is listed as 'Endangered' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Large specimens have virtually disappeared from our shores. Young specimens are occasionally but infrequently seen". Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.
 
 ---
 
@@ -224,9 +222,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 
 Konda P. Reddy. 10 August 2007.
-[Can giant clam (
-*Tridacna squamosa*
-) populations be restored on Singapore's heavily impacted coral reefs?](http://onlinelibrary.wiley.com/doi/10.1002/aqc.888/full)
+[Can giant clam (*Tridacna squamosa*) populations be restored on Singapore's heavily impacted coral reefs?](http://onlinelibrary.wiley.com/doi/10.1002/aqc.888/full)
 Aquatic Conservation.
 - Tan, K. S. & L. M. Chou, 2000.
 *A Guide to the Common Seashells of Singapore*

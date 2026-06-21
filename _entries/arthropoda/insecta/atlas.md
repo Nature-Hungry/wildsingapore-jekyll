@@ -1,6 +1,6 @@
 ---
 title: Atlas moth
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Atlas moth on the shores of Singapore
 keywords: atlas, moth, atlas attacus, saturniidae, lepidoptera, insect, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info
@@ -21,21 +21,21 @@ superfamily: Bombycoidea
 subfamily: Saturniinae
 tribe: Attacini
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/040207ubnd0003m6l.jpg
+coverimg: https://images.naturehungry.sg/insecta/atlas/040207ubnd0003m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/040207ubnd0003m6l.jpg
+  - url: https://images.naturehungry.sg/insecta/atlas/040207ubnd0003m6l.jpg
     caption: Probably just emerged from the cocoon or awaiting for a female to emerge
       from hers. Pulau Ubin, Feb 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/050422adamg4716m3.jpg
+  - url: https://images.naturehungry.sg/insecta/atlas/050422adamg4716m3.jpg
     caption: The caterpillar is large and whitish. Adam Road, May 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/020116cjcpd4973m3.jpg
+  - url: https://images.naturehungry.sg/insecta/atlas/020116cjcpd4973m3.jpg
     caption: The caterpillar creating its cocoon. Pulau Ubin, Jan 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/091230prpd6472m3.jpg
+  - url: https://images.naturehungry.sg/insecta/atlas/091230prpd6472m3.jpg
     caption: Cocoons in a Berembang tree . Pasir Ris Park, Dec 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/atlas/080601cjwlk.jpg
+  - url: https://images.naturehungry.sg/insecta/atlas/080601cjwlk.jpg
     caption: Chek Jawa, Jun 08 Photo shared by Wong Ley Kun on her blog.
 links_references: '**Links**
 
@@ -91,20 +91,11 @@ The Atlas moth's pupae is encased in a silken cocoon, emerging as an adult moth 
 Adult Atlas moths don't eat at all throughout their adult life which lasts for about two weeks. An adult Atlas moth doesn't even have a mouth and lives off fat reserves built up when it was a caterpillar. The adults quickly mate, lay eggs, and die shortly thereafter.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Uses by humans:**
-While the Silkworm Moth (
-*Bombyx mori*
+While the Silkworm Moth (*Bombyx mori*
 , which belongs to a different family) which makes its cocoon out of one unbroken silk strand, the Atlas Moth caterpillar makes it out of broken strands of silk. Nevertheless, Atlas Moth cocoons are used to make a durable silk called Fagara Silk, in northern India. In Taiwan, their cocoons are made into pocket purses!
 
 **Other mammoth moths:**
-The Giant Silkworm Moth (
-*Coscinocera hercules*
-) has a wing surface area that rivals the Atlas Moth's. The Queen Alexandra Birdwing (
-*Ornithoptera alexandrae*
-) found in Papua New Guinea. Females are larger than males and can reach 28cm across and weigh more than 25g. The Hercules Moth (
-*Cosdinoscera hercules*
-) from Australia and Papua New Guinea is also 28cm. The Owlet Moth (
-*Thysania agrippina*
-) of tropical Americas can reach 30cm.
+The Giant Silkworm Moth (*Coscinocera hercules*) has a wing surface area that rivals the Atlas Moth's. The Queen Alexandra Birdwing (*Ornithoptera alexandrae*) found in Papua New Guinea. Females are larger than males and can reach 28cm across and weigh more than 25g. The Hercules Moth (*Cosdinoscera hercules*) from Australia and Papua New Guinea is also 28cm. The Owlet Moth (*Thysania agrippina*) of tropical Americas can reach 30cm.
 
 ---
 

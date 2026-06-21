@@ -1,6 +1,6 @@
 ---
 title: Horn-eyed ghost crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Horn-eyed ghost crab on the shores of Singapore
 keywords: horn, eyed, ghost, crab, ocypode, ceratophthalmus, ocypodidae, decapod,
   crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -32,49 +32,49 @@ superfamily: Ocypodoidea
 subfamily: Ocypodinae
 complex: Ocypode ceratophthalmus
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
     caption: A slot on the body for the eye stalk to 'fold' away. Tanah Merah, Aug
       09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/110506tmftd0803m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/110506tmftd0803m3.jpg
     caption: Vertical ridge and tiny bumps on the inside of the 'palm'. Tanah Merah,
       May 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/060102sisg3708m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060102sisg3708m3.jpg
     caption: Some have white pincers, one much bigger than the other. Sisters Islands,
       Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/060613ecpd2934m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060613ecpd2934m3.jpg
     caption: 'No ''horns'' on the eyes: young one? East Coast, Jun 06'
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/050426cftd2816m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/050426cftd2816m3.jpg
     caption: Typical burrow near the high water mark. Changi, Apr 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090807tmd8440m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090807tmd8440m3.jpg
     caption: Eating a shrimp. Tanah Merah, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/130426tkks02845.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/130426tkks02845.jpg
     caption: Eating a Moon crab. Pulau Tekukor, Apr 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/031125hntbd0041m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/031125hntbd0041m3.jpg
     caption: Eating crab. Pulau Hantu, Nov 03
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090428chgd0692m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090428chgd0692m3.jpg
     caption: Eating a fireworm . Changi, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/100909tmd0817m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/100909tmd0817m3a.jpg
     caption: Eating a fish, probably a goby. Tanah Merah, Sep 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090527skdlks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090527skdlks.JPG
     caption: Pulau Sekudu, May 09 Photo shared by Loh Kok Sheng on his blog.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090628lazlt5m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090628lazlt5m3.jpg
     caption: Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/091205sudjk5m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/091205sudjk5m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/200311blylks9.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/200311blylks9.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg
     caption: Small SIsters, Aug 21 Photo shared by Jianlin Liu on facebook .
 links_references: "**Links**\n- [Ghost Crab (\n*Ocypoda*\nsp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)\n\
   with brief details on\n*Ocypode ceratophthalmus*\nand\n*Ocypode cordimana*\nTan,\
@@ -154,9 +154,7 @@ Ghost crabs are well adapted for life out of water and are among the few marine 
 **Similar to**
 the
 [Smooth-eyed ghost crab](cordimanus)
-(
-*Ocypode cordimanus*
-) which is rarely encountered.
+(*Ocypode cordimanus*) which is rarely encountered.
 
 **Speedy Ghosts:**
 Ghost crabs can really run fast! As suggested by their scientific name ("Ocy" means swift and "podi" foot in Greek). They literally fly over the sand and their movement has been described as a small leaf blowing over the sand surface. In fact, they may be among the fastest land creatures, moving at 100 bodylengths per second. In comparison, the cockroach does 50 bodylengths while the cheetah does a sluggish 10 bodylengths. Ghost crabs are only beaten by tiger beetles which do 171 body lengths when they are really scared. Being fast moving creatures, Ghost crabs have excellent eyesight to see where they are going.

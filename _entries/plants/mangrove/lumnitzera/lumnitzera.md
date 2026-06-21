@@ -1,6 +1,6 @@
 ---
 title: 'Teruntum '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Teruntum  on the shores of Singapore
 keywords: teruntum, merah, lumnitzera, combretaceae, tree, mangrove, mangroves, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,21 +17,21 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Myrtales
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090124ubnd6072m3.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/lumnitzera/littorea/090124ubnd6072m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg
     caption: Red flowers, stamens much longer than petals.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg
     caption: Developing fruits.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/030809ubnd0005m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/030809ubnd0005m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg
     caption: White flowers, stamens same length as petals.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg
     caption: Developing fruits.
 links_references: '**Links**
 
@@ -54,7 +54,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Teruntum merah (
-
   *Lumnitzera littorea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1065)
@@ -62,7 +61,6 @@ links_references: '**Links**
   and
 
   [Teruntum bunga puteh (
-
   *Lumnitzera racemosa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1066)
@@ -141,9 +139,7 @@ Short shrub to tall tree. Leaves spatula shaped with oval ends thick and fleshy,
 
 **Sometimes mistaken for**
 [Chengam](../scyphiphora/hydrophyllacea)
-(
-*Scyphiphora hydrophyllacea*
-) which has its leaves arranged in a spiral.
+(*Scyphiphora hydrophyllacea*) which has its leaves arranged in a spiral.
 
 According to Giesen, although occurring throughout Malaysia and Indonesia,
 *L. littorea*
@@ -151,10 +147,10 @@ and
 *L. racemosa*
 practically exclude each other in habitat and have never been collected in exactly the same stand. The exact cause of this different ecological behaviour is not yet known.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/littorea/090124ubnd6072m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/lumnitzera/littorea/090124ubnd6072m3.jpg)
 
 *Pulau Ubin, Jan 09*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/091115ubnd4196m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/091115ubnd4196m3.jpg)
 
 *Pulau Ubin,Nov 09*
 

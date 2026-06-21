@@ -1,6 +1,6 @@
 ---
 title: Smooth limpet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth limpet on the shores of Singapore
 keywords: smooth, limpet, cellana, nacellidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -28,24 +28,24 @@ subclass: Patellogastropoda
 order: Nacellida
 superfamily: Nacelloidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
     caption: Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/050502cjg5589m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050502cjg5589m3.jpg
     caption: Underside. Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
     caption: Gills form a frilly edge around the body. Chek Jawa, Jan 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/170626skdmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/170626skdmn1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/240309tkrvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/240309tkrvc2.jpg
     caption: Pulau Tekukor, Mar 24 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/260217bsisky2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/260217bsisky2.jpg
     caption: Big Sisters Island, Feb 26 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/260217bsisky2b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/260217bsisky2b.jpg
     caption: Big Sisters Island, Feb 26 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 

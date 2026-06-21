@@ -1,6 +1,6 @@
 ---
 title: 'Ferocious reef '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ferocious reef  on the shores of Singapore
 keywords: red, eyed, reef, crab, eriphia, smithi, ferox, eriphiidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -29,104 +29,103 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Eriphioidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/060727jngd5268m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/060727jngd5268m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/060727jngd5268m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/060727jngd5268m3.jpg
     caption: Pulau Jong, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/060727jngd5268m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/060727jngd5268m3a.jpg
     caption: One of the pincers enlarged with 'molar' to crush snail shells.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/060727jngd5268m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/060727jngd5268m3b.jpg
     caption: The other pincer has slim 'fingers' to pick out the soft snail.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/100615tmjk2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/100615tmjk2m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/140714ecplks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/140714ecplks.JPG
     caption: East Coast Park, Jul 14 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/171009blycw1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/171009blycw1.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Chris Wong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/110518labmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/110518labmn.jpg
     caption: Labrador, May 11 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/251011tgrlks14.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/251011tgrlks14.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/251106lazky6.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/251106lazky6.jpg
     caption: Lazarus, Nov 25 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/100103tkkjk8m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/100103tkkjk8m3.jpg
     caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/201115tkkmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/201115tkkmn2.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/240624sjiky4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/240624sjiky4.jpg
     caption: St John's Island, Jun 24 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/220202bsisky1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/220202bsisky1.jpg
     caption: Big Sisters Island, Feb 22 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/220812ssisccn3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/220812ssisccn3.jpg
     caption: Small Sisters Island, Aug 22 Photo shared by Che Cheng Neo on facebook
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/101108bkomlks4m3.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/101108bkomlks4m3.JPG
     caption: Terumbu Bukom, Nov 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/101106burd2492m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/101106burd2492m3.jpg
     caption: Terumbu Buran, Nov 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/240624sjiky4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/240624sjiky4.jpg
     caption: St John's Island, Jun 24 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/240528tslvc11.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/240528tslvc11.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/110619tslgjk3m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/110619tslgjk3m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared byJames Koh on his blog .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/250811jngtt1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/250811jngtt1.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Tommy Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/20070724thntdc2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/20070724thntdc2.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/190707thntch2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/190707thntch2.jpg
     caption: Terumbu Hantu, Jul 19 Photo shared by Toh Chay Hoon on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/241116smksal1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/241116smksal1.jpg
     caption: Pulau Semakau, Nov 24 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/151225tsmktch1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/151225tsmktch1m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Toh Chay Hoon on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/210629bbbvc2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/210629bbbvc2.jpg
     caption: Beting Bemban Besar, Jun 21 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/250812tbky1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/250812tbky1.jpg
     caption: Terumbu Bemban Photo shared by Kelvin Yong on facebook .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/140909tptlks2m3.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/140909tptlks2m3.JPG
     caption: Terumbu Pempang Tengah, Sep 14 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/220503tptlks2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/220503tptlks2.jpg
     caption: Terumbu Pempang Tengah, May 22 Photo shared by Loh Koh Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/250712tplrk3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/250712tplrk3.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook
       .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/091231biolks5m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/091231biolks5m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/220102biovc2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/220102biovc2.jpg
     caption: Pulau Biola,Jan 22 Photo shared by Vincent Choo on facebook .
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/100131slud8793m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/100131slud8793m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/100811slud0083m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/100811slud0083m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/100811slud0090m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/100811slud0090m3.jpg
     caption: Pulau Salu, Aug 10
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/100131slud8774m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/100131slud8774m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/eriphiidae/ferox/100130brkd8443m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/100130brkd8443m3.jpg
     caption: Terumbu Berkas, Jan 10
 links_references: '**Links**
 
   - [Red Eyed Reef Crab (
-
   *Eriphia smithi*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/216)

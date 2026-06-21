@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spiky tubular sponge on the shores of Singapore
 keywords: tubular, sponge, gelliodes, niphatidae, porifera, field, guide, seashore,
 layout: entry
 shape: sausage
@@ -16,20 +16,20 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/100614bbd5961m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/tubespiky/100614bbd5961m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/100614bbd5961m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tubespiky/100614bbd5961m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/130723bbd0031m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tubespiky/130723bbd0031m3.jpg
     caption: Beting Bronok, Jul 13 Transparent 'lip' around large opening. Tiny shrimp
       and brittle star on sponge.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/100614bbd6068m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tubespiky/100614bbd6068m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/110518bbd1835m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tubespiky/110518bbd1835m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubespiky/120508skdd1919m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tubespiky/120508skdd1919m3.jpg
     caption: Pulau Sekudu, May 12
 links_references: '**Links**
 
@@ -77,8 +77,7 @@ A neat small bush (about 20cm) with closely packed narrow tubes (about 1-2cm wid
 
 **Sometimes confused with**
 [Tubular sponges](tube)
-(
-*Haliclona*
+(*Haliclona*
 sp.) which may have spikes around their hollow tubes but the spikes are not as regular or neat.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

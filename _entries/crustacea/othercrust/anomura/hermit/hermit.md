@@ -1,6 +1,6 @@
 ---
 title: 'Hermit crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hermit crabs  on the shores of Singapore
 keywords: hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -9,117 +9,116 @@ family: Crepidulidae
 genus: ''
 species: ''
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3.jpg
     caption: Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3a.jpg
     caption: This hermit crab is using a half broken shell.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3b.jpg
     caption: Small 'legs' on the abdomen cling to the shell.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/noid/hermit.gif
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/noid/hermit.gif
     caption: What it looks like inside the shell!
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/070224cjd8511m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/070224cjd8511m3.jpg
     caption: The same kind of hermit crab can live in a wide variety of shells. Chek
       Jawa Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/090606tmftd3303m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/090606tmftd3303m3.jpg
     caption: Even a broken shell can be a hermit home. Tanah Merah, Jun 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/070602sjig9792m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/070602sjig9792m3.jpg
     caption: Land hermit crabs may even live in land snail shells! St. John's Island,
       Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
     caption: Hanging onto the shell of a snail so recently dead that whelks are still
       cleaning it out! Tanah Merah, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/050428cftg5223m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/huddling/050428cftg5223m3.jpg
     caption: Even tiny Button shells are homes to tiny hermit crabs. Changi, Apr 05
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
     caption: Tiny sea anemones may be found on a shell occupied by a hermit crab.
       Changi, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
     caption: Others may have big sea anemones ! Changi, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg
     caption: Slipper snails are often found on the inside of the shell occupied by
       a hermit crab. Changi, Apr 05
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3b.jpg
     caption: Tiny porcelain crabs Changi, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3d.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3d.jpg
     caption: Keelworms may build their tubes on the shell. Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3b.jpg
     caption: Little animals also bore into the shell, possibly boring sponges. Changi,
       Aug 08
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3.jpg
     caption: Scale worms are sometimes seen on the shell. Changi, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3c.jpg
     caption: Unknown animal on the shell. Changi, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3.jpg
     caption: Slipper snails and keelworms Changi, Jun 05
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/veryhairy/241116smksmn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/veryhairy/241116smksmn1.jpg
     caption: With eggs inside the shell. Pulau Semakau (South), Nov 24 Photo shared
       by Marcus Ng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3.jpg
     caption: Moult outside the shell, original hermit crab inside the shell? Changi,
       Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3a.jpg
     caption: Transparent eyes indicates this is a moult.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/noid/040110cjd0043m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/noid/040110cjd0043m3.jpg
     caption: Hermit crab tracks on sand. Chek Jawa, Jan 04
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1282m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1282m3.jpg
     caption: Just moulted. Tuas, Sep 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3.jpg
     caption: Moult with transparent eyes. Tuas, Sep 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3a.jpg
     caption: ''
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
     caption: Huddling hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3a.jpg
     caption: Tidal hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg
     caption: Lavender hermit crab
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/banded/050113sntg2834m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/banded/050113sntg2834m3a.jpg
     caption: Banded hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3454m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3454m3.jpg
     caption: Pink banded hermit crab
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/100712chgd8429m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/blueelbow/100712chgd8429m3.jpg
     caption: Blue-elbow hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
     caption: All-black hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/goldspot/050720sntg9519m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/goldspot/050720sntg9519m3.jpg
     caption: Gold-spotted hermit crab
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg
     caption: Orange-striped hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/030712hntd0016m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/030712hntd0016m3a.jpg
     caption: Blue-striped hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
     caption: Tawny hermit crab
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/orangespot/090606tmftd3116m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/orangespot/090606tmftd3116m3.jpg
     caption: Spotted orange hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/veryhairy/060228labg5303m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/veryhairy/060228labg5303m3.jpg
     caption: Very hairy hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg
     caption: Land hermit crab
   gallery16:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/noid/120806tmfts02122.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/noid/120806tmfts02122.jpg
     caption: Tanah Merah Ferry Terminal, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/noid/240211bigsisky2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/noid/240211bigsisky2.jpg
     caption: Big Sisters Island, Feb 24 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 
   - [Mangrove hermit crab (
-
   *Diogenes*
 
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)
@@ -127,7 +126,6 @@ links_references: '**Links**
   and the
 
   [Land hermit crab (
-
   *Coenobita cavipes*
 
   ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
@@ -339,9 +337,7 @@ Please don't take hermit crabs home. And please don't buy one from a pet store. 
 If you have bought a pet hermit crab and now feel bad about keeping it, please do not release it on our shores. It may not be the same species as those naturally found on our shores. It may have diseases that may be passed on to our marine life. The least worst option would be to return it to the pet shop where you bought it from. If you enjoy looking at hermit crabs, why not visit them on the shore and observe them in their natural surroundings doing what hermit crabs do?
 
 {% include img-wrap-group.html items=page.galleries.gallery10 %}**Special hermits:**
-Land hermit crabs belong to the Family Coenobitidae which includes the largest hermit crab: the Robber or Coconut crab (
-*Birgus latro*
-). The Robber crab is so large that it no longer needs to live in an empty snail shell for protection. The Robber crab is only found in the Indian and Pacific Ocean islands. It is not found in Singapore.
+Land hermit crabs belong to the Family Coenobitidae which includes the largest hermit crab: the Robber or Coconut crab (*Birgus latro*). The Robber crab is so large that it no longer needs to live in an empty snail shell for protection. The Robber crab is only found in the Indian and Pacific Ocean islands. It is not found in Singapore.
 
 **Role in the ecosystem:**
 Hermit crabs are eaten by many animals higher up in the food chain. Bigger crabs and birds can pry them out of their shells to eat them. Many small animals live with hermit crabs (see above). Many hermit crabs are scavengers and help quickly recycle dead matter on the shores.
@@ -349,8 +345,7 @@ Hermit crabs are eaten by many animals higher up in the food chain. Bigger crabs
 **Status and threats:**
 The
 [Land hermit crabs](coenobita)
-(
-*Coenobita*
+(*Coenobita*
 sp.) are listed as 'Vulnerable' on the Red List of threatened animals of Singapore due to loss of our natural beaches. As for our other hermit crabs, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution as well as over-collection for the pet trade and by hobbyists.
 
 ---

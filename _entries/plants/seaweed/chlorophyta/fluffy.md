@@ -1,6 +1,6 @@
 ---
 title: Fluffy green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fluffy green seaweeds on the shores of Singapore
 keywords: fluffy, seaweed, weed, green, caulerpa, verticillata, caulerpaceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,14 +19,14 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/fluffy/100401labd0356m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/fluffy/100401labd0356m3.jpg
     caption: Labrador, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/fluffy/100401labd0356m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/fluffy/100401labd0356m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3a.jpg
     caption: Circlet of short filaments.
 links_references: '**Links**
 
@@ -90,7 +90,7 @@ This small fluffy seaweed is sometimes seen on some of our shores, growing on co
 
 Structures (1-2cm long) comprising a stack of 2-4 circlets of short filaments. Light green to reddish green.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg)
+*![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg)
 
 Chek Jawa, Jul 05*
 

@@ -1,6 +1,8 @@
 ---
 title: Sea mat zoanthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Colony 20-40cm, encrusts rocks and rubble like a rubbery mat. Polyps
+  1-2cm in diameter embedded in this common tissue, short or no body column. Coral
+  rubble, boulders. Commonly seen on our Southern shores.
 keywords: sea, mat, colonial, anemone, zoanthid, palythoa, tuberculosa, zoanthidae,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -23,50 +25,50 @@ summary: Colony 20-40cm, encrusts rocks and rubble like a rubbery mat. Polyps 1-
   in diameter embedded in this common tissue, short or no body column. Coral rubble,
   boulders. Commonly seen on our Southern shores.
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
     caption: Coating a rock in a rubbery mat. Terumbu Pempang Tengah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/060527sjid2197m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/060527sjid2197m3.jpg
     caption: St. John's Island, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/060728sisd5314m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/060728sisd5314m3.jpg
     caption: Sisters Island, Jul 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/240821skdmn1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/240821skdmn1.jpg
     caption: Pulau Sekudu, Aug 24 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/101106tburjk.JPG
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/101106tburjk.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by James Koh on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/091231biod6950m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/091231biod6950m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100130brkd8497m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100130brkd8497m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100811slud0066m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100811slud0066m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100811slud0094m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100811slud0094m3.jpg
     caption: Pulau Salu, Aug 10 Bleaching.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100810sngd9990m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100810sngd9990m3.jpg
     caption: Pulau Senang, Aug 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100131slud8787m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100131slud8787m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/091205sudlks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/091205sudlks2m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100530tbkd4220m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100530tbkd4220m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100130brkd8498m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100130brkd8498m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/101010scyrc7836m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/101010scyrc7836m3.jpg
     caption: South Cyrene, Oct 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/101108bkoms00629m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/101108bkoms00629m3a.jpg
     caption: Terumbu Bukom, Nov 10
 location:
 - skd

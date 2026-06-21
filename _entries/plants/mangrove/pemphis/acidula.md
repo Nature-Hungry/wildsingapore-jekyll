@@ -1,6 +1,6 @@
 ---
 title: Mentigi
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mentigi on the shores of Singapore
 keywords: mentigi, pemphis, acidula, lythraceae, mangrove, mangroves, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,7 +21,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Myrtales
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg
 links_references: '**Links**
 
   - *[Pemphis acidula](http://floraofsingapore.wordpress.com/2010/10/03/pemphis-acidula/)*
@@ -108,19 +108,19 @@ There was a 4m tall Mentigi tree at Changi but it was toppled in a storm in Nov 
 **Status and threats:**
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg)
 
 Pulau Biola, Dec 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/pemphis/acidula/091231biod7113m3b.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/pemphis/acidula/091231biod7113m3b.jpg)
 
 Pulau Biola, Dec 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/pemphis/acidula/091231biod7116m3a.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/pemphis/acidula/091231biod7116m3a.jpg)
 
 Pulau Biola, Dec 09*
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/pemphis/acidula/091231biod6848m6l.jpg)*
+*![](https://images.naturehungry.sg/plants/mangrove/pemphis/acidula/091231biod6848m6l.jpg)*
 
 *Pulau Biola, Dec 09*
 

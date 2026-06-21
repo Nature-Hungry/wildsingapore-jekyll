@@ -7,7 +7,7 @@ layout: default
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../index.html)  
 [wild shores of singapore
@@ -55,7 +55,7 @@ and the [Blue Water
 Volunteers](http://www.bluewatervolunteers.org/).   
   
 The intertidal area of Terumbu Bemban is also regularly surveyed
-by [wildsingapore](http://www.wildsingapore.com/).
+by [wildsingapore](https://images.naturehungry.sg/).
 
 **About
 the name:** *Terumbu*=A reef or rock at

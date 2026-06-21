@@ -1,6 +1,6 @@
 ---
 title: Ridged plate coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ridged plate coral on the shores of Singapore
 keywords: ridged, merulina, merulinidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,44 +17,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/060713rlhd4352m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/060713rlhd4352m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/060713rlhd4352m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/060713rlhd4352m3.jpg
     caption: Raffles Lighthouse, Jul 06 Thick short ridges forming valleys.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/110802smkd8153m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/110802smkd8153m3.jpg
     caption: Pulau Semakau, Aug 11 Polyp mouths in the valleys.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/120505sisd0917m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/120505sisd0917m3.jpg
     caption: Sisters Island, May 12 Tentacles rarely seen
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/090726tmlks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/090726tmlks1m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/090726tmlks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/090726tmlks2m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/150618tmftlks13m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/150618tmftlks13m3a.jpg
     caption: Tanah Merah, Jun 15 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/2007024pcnlks6a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/2007024pcnlks6a.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/2007024pcnlks13.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/2007024pcnlks13.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/120505sisd0900m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/120505sisd0900m3.jpg
     caption: Sisters Island, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/111029smkd2960m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/111029smkd2960m3.jpg
     caption: Pulau Semakau, Oct 11
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/040829kusd5602m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/040829kusd5602m3.jpg
     caption: Kusu Island, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/120124sisd5915m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/120124sisd5915m3.jpg
     caption: Sisters Island,Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/090412hntd9734m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/090412hntd9734m3.jpg
     caption: Pulau Hantu, Apr 09
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/100617tbjk3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/100617tbjk3m3.jpg
     caption: Bleaching. Terumbu Bemban, Jun 10 Photo shared by James Koh on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/merulina/250812tblvo3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/250812tblvo3.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on facebook .
 links_references: '**Links**
 

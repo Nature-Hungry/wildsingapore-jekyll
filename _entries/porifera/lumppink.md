@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lumpy pink sponge on the shores of Singapore
 keywords: pink, lumpy, sponge, haliclona, baeri, chalinidae, porifera, field, guide,
 layout: entry
 shape: blobs
@@ -9,26 +9,26 @@ genus: Haliclona
 species: cf.
 attributes: []
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpypink/100403bbbd0585m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/lumpypink/100403bbbd0585m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpypink/100403bbbd0585m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpypink/100403bbbd0585m3.jpg
     caption: Beting Bemban Besar, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpypink/040804skdd4135m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpypink/040804skdd4135m3.jpg
     caption: Pulau Sekudu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpypink/060812bbd6084m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpypink/060812bbd6084m3.jpg
     caption: Beting Bronok, Aug 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpypink/060611cjd2757m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpypink/060611cjd2757m3.jpg
     caption: Chek Jawa, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpypink/050112smkd9705m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpypink/050112smkd9705m3.jpg
     caption: Pulau Semakau, Jan 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpypink/100130brkd8525m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpypink/100130brkd8525m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpypink/110422tbmd9868m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpypink/110422tbmd9868m3.jpg
     caption: Terumbu Bemban, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpypink/140811tryjll5m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpypink/140811tryjll5m3.jpg
     caption: Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 

@@ -16,7 +16,7 @@ publish_mode: editorial_workflow
 # local_backend: true
 search: false
 media_folder: "assets/uploads" # Where media files will be saved
-public_folder: "https://f003.backblazeb2.com/file/naturehungry/" # Where Jekyll will look for them
+public_folder: "https://images.naturehungry.sg/" # Where Jekyll will look for them
 
 collections:
   - name: "entries"

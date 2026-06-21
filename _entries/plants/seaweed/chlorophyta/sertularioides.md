@@ -1,6 +1,6 @@
 ---
 title: Delicate feathery green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Delicate feathery green seaweed on the shores of Singapore
 keywords: broad, feathery, seaweed, weed, green, caulerpa, sertularioides, caulerpaceae,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,31 +19,31 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Sep 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg
     caption: Pulau Sekudu, Jun 05 Cylindrical 'branches' on a narrow central 'stem'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/040620skdd0693m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/040620skdd0693m3.jpg
     caption: Pulau Sekudu, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/070408sntg8562m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/070408sntg8562m3.jpg
     caption: Sentosa, Apr 07 Turns transparent after releasing spores?
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/201019cnyrk5.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/201019cnyrk5.jpg
     caption: Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/230608tmftvc5.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/230608tmftvc5.jpg
     caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/210429hntvc6.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/210429hntvc6.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/200626tptvc7.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/200626tptvc7.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/100130brkd8660m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/100130brkd8660m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/100130brkd8660m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/100130brkd8660m3a.jpg
     caption: ''
 links_references: '**Links**
 

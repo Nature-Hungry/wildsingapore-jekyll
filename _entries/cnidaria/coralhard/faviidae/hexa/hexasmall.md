@@ -1,6 +1,6 @@
 ---
 title: Small hexagonal  corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Small hexagonal  corals on the shores of Singapore
 keywords: coral, hard, faviidae, scleractinia, cnidaria, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -16,63 +16,63 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2126m3.jpg
     caption: St. John's Island, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2127m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2127m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2127m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2127m3c.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/111127sisd3832m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/111127sisd3832m3.jpg
     caption: Sisters Island, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/050611kusg7704m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/050611kusg7704m3.jpg
     caption: Kusu Island, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/070304hntg8014m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/070304hntg8014m3.jpg
     caption: Pulau Hantu, Mar 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/101106burs00350m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/101106burs00350m3.jpg
     caption: Terumbu Buran, Nov 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/101108bkoms00640m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/101108bkoms00640m3.jpg
     caption: Terumbu Bukom, Nov 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/101010scyrd2039m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/101010scyrd2039m3.jpg
     caption: South Cyrene, Oct 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7123m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7123m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7080m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7080m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7074m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091231biod7074m3.jpg
     caption: Pulau Biola, Dec 09
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5209m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5209m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5359m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5359m3b.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5220m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5220m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5216m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091204pawd5216m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/100810sngd9993m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/100810sngd9993m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/100613sngd5481m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/100613sngd5481m3.jpg
     caption: Pulau Senang, Jun 10
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/100530tbkd4228m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/100530tbkd4228m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/100601slud4754m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/100601slud4754m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/100131slud8812m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/100131slud8812m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5532m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5532m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5489m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5489m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5486m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmall/091205sudd5486m3.jpg
     caption: Pulau Sudong, Dec 09
 location:
 - tus

@@ -1,6 +1,6 @@
 ---
 title: 'Brain corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brain corals  on the shores of Singapore
 keywords: brain, mussidae, lobophylliidae, lobophyllia, symphyllia, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/symphyllia/080816sisd9640m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/symphyllia/080816sisd9640m3.jpg
     caption: ''
 links_references: '**Links**
 

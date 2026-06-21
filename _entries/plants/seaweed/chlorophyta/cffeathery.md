@@ -1,6 +1,6 @@
 ---
 title: Feathery green seaweeds compared
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feathery green seaweeds compared on the shores of Singapore
 keywords: caulerpa, sertularioides, mexicana, taxifolia, seaweed, algae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info
@@ -14,38 +14,38 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/050623cjd4103m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/050623cjd4103m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/seagrass/spinulosa/070716chgd4197m3.jpg
+  - url: https://images.naturehungry.sg/seagrass/spinulosa/070716chgd4197m3.jpg
     caption: Fern seagrass Halophila spinulosa
-  - url: https://f003.backblazeb2.com/file/naturehungry/seagrass/spinulosa/030928cjd0024m3a.jpg
+  - url: https://images.naturehungry.sg/seagrass/spinulosa/030928cjd0024m3a.jpg
     caption: ''
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

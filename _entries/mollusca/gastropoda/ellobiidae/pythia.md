@@ -1,6 +1,6 @@
 ---
 title: Pythia snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pythia snail on the shores of Singapore
 keywords: pythia, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -22,17 +22,17 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
     caption: Sungei Buloh Besar, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
     caption: Pasir Ris Park, Dec 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
     caption: Sungei Buloh Besar, Apr 11
 links_references: '**Links**
 
@@ -46,7 +46,6 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   - [Common pythia (
-
   *Pythia scarabaeus*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=1203)

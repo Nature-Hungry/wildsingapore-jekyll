@@ -1,6 +1,6 @@
 ---
 title: Pizza anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pizza anemone on the shores of Singapore
 keywords: pizza, anemone, cryptodendrum, adhaesivum, thalassianthidae, actiniaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -29,114 +29,114 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/120609tsmkd5075m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/120609tsmkd5075m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/120609tsmkd5075m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/120609tsmkd5075m3.jpg
     caption: Terumbu Semakau, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/120609tsmkd5077m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/120609tsmkd5077m3a.jpg
     caption: Two different kinds of tentacles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/120609tsmkrl.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/120609tsmkrl.jpg
     caption: Tiny verrucae on body column. Terumbu Semakau, Jun 12 Photo shared by
       Russel Low on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/110324tryas07854m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/110324tryas07854m3.jpg
     caption: Terumbu Raya, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/090330smklks02m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/090330smklks02m3.jpg
     caption: Terumbu Raya, Mar 09 Shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/040705sisd2132m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/040705sisd2132m3.jpg
     caption: Sisters Island, Jul 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/100529kuslks1.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/100529kuslks1.JPG
     caption: Kusu Island, May 10 Photo shared by Loh Kok Sheng on flickr
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/110203sjilks1.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/110203sjilks1.JPG
     caption: St John's Island, Feb 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/250201bsislks4a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/250201bsislks4a.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/230831sjiky2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/230831sjiky2.jpg
     caption: St John's Island, Aug 24 Photo shared by Kalvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/241019lazlks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/241019lazlks1.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/110122sisjk2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/110122sisjk2m3.jpg
     caption: Sisters Island, Jan 11 Photo shared by James Koh on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/160608cyrlks4.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/160608cyrlks4.JPG
     caption: Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/080209htnlks02m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/080209htnlks02m3.jpg
     caption: Pulau Hantu, Feb 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/090607htnlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/090607htnlks.JPG
     caption: Pulau Hantu, Jun 09 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/120411thntrl3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/120411thntrl3m3.jpg
     caption: Terumbu Hantu, Apr 12 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/250531thntlks1a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/250531thntlks1a.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/100617tsmklks4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/100617tsmklks4m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/160711tsmklks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/160711tsmklks2.jpg
     caption: Terumbu Semakau, Jul 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/100519tsmklks3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/100519tsmklks3m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/150720smknlks7m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/150720smknlks7m3.jpg
     caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/250401smknrk2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/250401smknrk2.jpg
     caption: Pulau Semakau North, Apr 25 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/180421smkslks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/180421smkslks2.jpg
     caption: Pulau Semakau South, Apr 18 Photo shared by Loh Kok Sheng on facebook
       .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/250629smkelks8.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/250629smkelks8.jpg
     caption: Pulau Semakau East, Jun 25
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/250629smkelks8a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/250629smkelks8a.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/160723smkelks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/160723smkelks5.jpg
     caption: Pulau Semakau East, Jul 16 Photo shared by Loh Kok Sheng on facebook
       .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/180615trylks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/180615trylks1.jpg
     caption: Terumbu Raya, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/240511tryccn2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/240511tryccn2.jpg
     caption: Terumbu Raya, May 24 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/250713tryky1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/250713tryky1.jpg
     caption: Tiny one (3cm) Terumbu Raya, Jul 25 Photo shared by Kelvin Yong on facebook
       .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/250715bbklon1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/250715bbklon1.jpg
     caption: Beting Bemban Kecil, Jul 25 Photo shared by Lon Voon Ong on facebook
       .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/110422tbmlks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/110422tbmlks1m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/170514bbbrl1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/170514bbbrl1.jpg
     caption: Beting Bemban Besar, Apr 17 Photo shared by Russel Low on facebook .
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/220103tplky3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/220103tplky3.jpg
     caption: Terumbu Pempang Laut, Jan 22 Photo shared by Kelvin Yong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/160806tpllks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/160806tpllks2.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
       .
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3c.jpg
     caption: Shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg
     caption: With an anemone shrimp on it.
   gallery16:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/100130brkblks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/100130brkblks1m3.jpg
     caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/100810snglks4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/100810snglks4m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/220201brkvc2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/220201brkvc2.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 
@@ -226,12 +226,9 @@ The Pizza anemone harbours symbiotic algae (called zooxanthellae) that photosynt
 
 Several kinds of animals may live happily and unharmed on the Pizza anemone. These include the
 [Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
-(
-*Periclimenes brevicarpalis*
-). Elsewhere it is said that
+(*Periclimenes brevicarpalis*). Elsewhere it is said that
 [anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
-(
-*Amphiprion*
+(*Amphiprion*
 sp.) live with these anemones such as
 *Amphiprion bicinctus, A. clarkii and A. xanthurus*
 . But none of these have so far been observed on the Pizza anemones we've seen on the intertidal during low tide.

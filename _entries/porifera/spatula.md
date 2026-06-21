@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Silvery blue  sponge on the shores of Singapore
 keywords: blue, spatula, sponge, lamellodysidea, herbacea, thorectidae, porifera,
 layout: entry
 shape: leafy
@@ -16,37 +16,37 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/050311labg3265m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/spatula/050311labg3265m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/050311labg3265m3.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/050311labg3265m3.jpg
     caption: Labrador, Mar 05 Labrador, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/050413labg4698m3.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/050413labg4698m3.jpg
     caption: Labrador, Apr 05 Labrador, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/080425cyrd1755m3.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/080425cyrd1755m3.jpg
     caption: Cyrene Reef, Apr 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/070420sntrg8812m3.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/070420sntrg8812m3.jpg
     caption: Sentosa, Apr 07 A young sponge may look like a cabbage.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/040606kusd0305m3.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/040606kusd0305m3.jpg
     caption: Kusu Island, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/110517tptlks.JPG
+  - url: https://images.naturehungry.sg/porifera/spatula/110517tptlks.JPG
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on flickr
       .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/110220lazro7m3.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/110220lazro7m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/201019sjilks5.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/201019sjilks5.jpg
     caption: St John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/160208smksjt2.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/160208smksjt2.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/091204pawd5217m3.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/091204pawd5217m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/100613sngd5636m3.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/100613sngd5636m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/spatula/100530tbkd4270m3.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/100530tbkd4270m3.jpg
     caption: Terumbu Berkas, May 10
 links_references: '**Links**
 

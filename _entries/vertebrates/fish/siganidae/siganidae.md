@@ -1,6 +1,6 @@
 ---
 title: Rabbitfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rabbitfishes on the shores of Singapore
 keywords: rabbitfish, rabbit, fish, siganidae, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,30 +17,29 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
     caption: Juveniles often seen among Sargassum. There are two here, can you spot
       them? Changi, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
     caption: 'Spines on the dorsal fin raised: these can inject a painful venom. Chek
       Jawa, Aug 02'
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg
     caption: Rabbitfishes are often seen trapped in fishing nets. Terumbu Semakau,
       Jun 11
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg
     caption: White-spotted rabbitfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/guttatus/020811cjd492m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/guttatus/020811cjd492m3.jpg
     caption: Orange-spotted rabbitfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg
     caption: Streaked rabbitfish
 links_references: '**Links**
 
   - [White-spotted Rabbitfish (
-
   *Siganus canaliculatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379)
@@ -48,7 +47,6 @@ links_references: '**Links**
   and
 
   [Double-barred Rabbitfish (
-
   *Siganus virgatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/380)
@@ -238,9 +236,7 @@ Most rabbitfishes are herbivores, grazing on algae that grows on the sea bottom,
 
 The
 [White-spotted rabbitfish](canaliculatus)
-(
-*Siganus canaliculatus*
-) is highly sought after for eating during the Chinese Lunar New Year. At this time, the fishes breed and their roe are particularly relished. Called
+(*Siganus canaliculatus*) is highly sought after for eating during the Chinese Lunar New Year. At this time, the fishes breed and their roe are particularly relished. Called
 *'Pei Tor'*
 , the Chinese believe it eating it brings good luck. Other species are important foodfishes in other parts of the world. Some of the more colourful reef rabbitfishes are also collected for the aquarium trade.
 

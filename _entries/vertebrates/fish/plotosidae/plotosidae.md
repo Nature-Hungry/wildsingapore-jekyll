@@ -1,6 +1,6 @@
 ---
 title: Eeltail catfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eeltail catfishes on the shores of Singapore
 keywords: eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -19,28 +19,27 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
     caption: '''Whiskers'' help it to find food in murky waters. Changi, Aug 05'
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
     caption: Small ones may swim in tight groups. Kusu Island, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/100124cjd7939m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/100124cjd7939m3.jpg
     caption: Great billed heron caught an eeltail catfish! Chek Jawa, Jan 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/050818cftg1436m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
     caption: ''
 links_references: '**Links**
 
   - [Black eeltail catfish (
-
   *Plotosus canius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/236)
@@ -52,7 +51,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [White-lipped Eeltail Catfish (
-
   *Paraplotosus albilabris*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/224)
@@ -60,7 +58,6 @@ links_references: '**Links**
   ,
 
   [Black Eeltail Catfish (
-
   *Plotosus canius*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225)
@@ -68,7 +65,6 @@ links_references: '**Links**
   ,
 
   [Striped Eeltail Catfish (
-
   *Plotosus lineatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226)
@@ -90,7 +86,6 @@ links_references: '**Links**
   and
 
   [Gray eel-catfish (
-
   *Plotosus canius*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=8167)
@@ -98,7 +93,6 @@ links_references: '**Links**
   and
 
   [Striped eel-catfish (
-
   *Plotosus lineatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706)

@@ -1,6 +1,6 @@
 ---
 title: Ox-tongue nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ox-tongue nerite snail on the shores of Singapore
 keywords: ox, tongue, palate, nerita, nerite, albicilla, neritidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,41 +19,40 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg
     caption: Sisters Island, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/060102sisg3624m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/060102sisg3624m3.jpg
     caption: Sisters Islands, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg
     caption: Pulau Semakau, Feb 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/070420sntrd0218m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/070420sntrd0218m3a.jpg
     caption: Sentosa, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/090413blyd0095m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/090413blyd0095m3.jpg
     caption: Berlayar Creek, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/081113jngd1805m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/081113jngd1805m3.jpg
     caption: Pulau Jong, Nov 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/210529epcnvc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/210529epcnvc4.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebcok .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/251208meky4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/251208meky4.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/260104trmyls6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/260104trmyls6.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/260104trmyls6b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/260104trmyls6b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/250714srplvo1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/250714srplvo1.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Lon Voon Ong on facebook ..
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/091231bioik2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/091231bioik2m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**
 
   - [Oxpalate nerite (
-
   *Nerita albicilla*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86830)
@@ -61,7 +60,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Oxpalate nerite (
-
   *Nerita albicilla*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
@@ -134,8 +132,7 @@ This nerite snail with distinctive 'pimples' on the underside is often seen on m
 
 ## Features
 
-2-3cm. Shell thick heavy, a flattened oval narrower at end and wider at front, spire does not stick out at all. The flat underside is much longer that other nerites, smooth white or yellowish and pimpled with large rounded bumps. These bumps resembles the tongue of an ox (
-*Albicilla*
+2-3cm. Shell thick heavy, a flattened oval narrower at end and wider at front, spire does not stick out at all. The flat underside is much longer that other nerites, smooth white or yellowish and pimpled with large rounded bumps. These bumps resembles the tongue of an ox (*Albicilla*
 means 'ox-tongue'). Small ridged 'teeth' on the straight edge at the shell opening. Larger shells with two rounded 'teeth' on both sides of the shell opening. Operculum thick, evenly covered in tiny bumps, pinkish or yellowish sometimes with darkish portion. Body pale with fine black bands on the foot and long thin black tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Many patterns:**

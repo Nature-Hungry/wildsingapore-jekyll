@@ -1,6 +1,6 @@
 ---
 title: Burgundy anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Burgundy anemone on the shores of Singapore
 keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -31,21 +31,21 @@ updated: Jul 2924
 coverimg: https://live.staticflickr.com/7234/7188585879_04af23aa56_c.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/burgundy/110701pgld5000m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/burgundy/110701pgld5000m3.jpg
     caption: Punggol, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/burgundy/120604pgld3628m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/burgundy/120604pgld3628m3.jpg
     caption: Punggol, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/burgundy/080702prpd6501m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/burgundy/080702prpd6501m3.jpg
     caption: Pasir Ris, Jul 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/burgundy/110620pgld4556m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/burgundy/110620pgld4556m3.jpg
     caption: Punggol, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/burgundy/110620pgld4558m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/burgundy/110620pgld4558m3a.jpg
     caption: Punggol, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/burgundy/110620pgld4557m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/burgundy/110620pgld4557m3.jpg
     caption: Punggol, Jul 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/burgundy/121016ubnlks1m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/burgundy/121016ubnlks1m3.JPG
     caption: Pulau Ubin, Oct 12 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

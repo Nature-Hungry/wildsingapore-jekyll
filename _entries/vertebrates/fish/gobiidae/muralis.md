@@ -1,6 +1,6 @@
 ---
 title: Mural glider-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mural glider-goby on the shores of Singapore
 keywords: mural, glider, goby, cryptocentrus, leptocephalus, fish, gobiidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -25,36 +25,35 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
     caption: Tanah Merah, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/110601tmnbd3299m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/110601tmnbd3299m6l.jpg
     caption: Tanah Merah, Jun 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/220104lazky3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/220104lazky3.jpg
     caption: Lazarus, Jan 22 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/190704bbtch2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/190704bbtch2.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Toh Chay Hoon on facebook ..
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/130512sismn2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/130512sismn2.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/130512sismn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/130512sismn.jpg
     caption: Big Sisters Islands, May 13 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/150606trymn1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/150606trymn1m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/150606trymn1m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/150606trymn1m3a.jpg
     caption: ''
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/200624tryrk1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/200624tryrk1.jpg
     caption: Terumbu Raya, Jun 20 Photo shared by Richard Kuah on facebook .
 links_references: '**Links**
 
   - [Mural goby (
-
   *Valenciennea muralis*
 
   )](http://www.fishbase.org/summary/7226)

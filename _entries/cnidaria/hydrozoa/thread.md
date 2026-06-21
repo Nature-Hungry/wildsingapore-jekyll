@@ -1,6 +1,6 @@
 ---
 title: 'Thread-tentacled jellyfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thread-tentacled jellyfish  on the shores of Singapore
 keywords: jellyfish, jelly, fish, jellies, aequora, hydrozoa, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -18,39 +18,39 @@ class: Hydrozoa
 subclass: Hydroidolina
 order: Leptothecata
 updated: Aug 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
     caption: Tuas, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/040409tuscd0019m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/040409tuscd0019m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3c.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/020406cjd8025m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/020406cjd8025m3.jpg
     caption: Washed ashore. Chek Jawa, Apr 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/071027cjd7258m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/071027cjd7258m3.jpg
     caption: Chek Jawa, Oct 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/200115prpky1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/200115prpky1.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/250501skdlks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/250501skdlks5.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/100614bblks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/100614bblks1m3.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/260628pcnal5a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/260628pcnal5a.jpg
     caption: East Ciast PCN, Jun 25 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/191127lazky3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/191127lazky3.jpg
     caption: Lazarus Island, Nov 19 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/250402tsmkjll1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/250402tsmkjll1.jpg
     caption: Terumbu Semakau, Apr 26 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/170402smknhpy.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/170402smknhpy.jpg
     caption: Pulau Semakau North, Apr 17 Photo shared by Heng Pei Yan on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/110422tbmlks10m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/110422tbmlks10m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Mangrove creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove creeper snail on the shores of Singapore
 keywords: pellucid, creeper, trail, cerith, snail, shell, clypeomorus, pellucidus,
   cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -18,17 +18,17 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Cerithiinae
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
     caption: Pulau Semakau, Feb 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg
     caption: Chek Jawa, Dec 2016 Photo shared by Ivan Kwan on facebook .
 links_references: '**Links**
 

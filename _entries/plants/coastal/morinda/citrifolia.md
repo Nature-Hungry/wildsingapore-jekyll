@@ -1,6 +1,6 @@
 ---
 title: 'Noni '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Noni  on the shores of Singapore
 keywords: mengkudu, morinda, citrifolia, rubiaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,7 +22,7 @@ order: Gentianales
 subfamily: Rubioideae
 tribe: Morindeae
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
 links_references: '**Links**
 
   - *[Morinda citrifolia](http://floraofsingapore.wordpress.com/2010/08/01/morinda-citrifolia/)*on
@@ -96,9 +96,7 @@ Flowers small (1cm long) white, tubular emerging from an egg-shaped structure.
 Fruits egg-shaped (8-10cm), described by Burkill as "greyish transparent white, in appearance anything but appetizing, in flavour as of soap and sugar mixed, with a smell like decaying cheese". The ripe fruit rots readily and the smell has been described as a "terrible stench" that resembles vomit. The fruit contains many seeds.
 
 ## Role in habitat
-According to Giesen, it is often infested by Weaver ants (
-*Oecophylla smaragdina*
-) which build their nests out of the large leaves of the plant.
+According to Giesen, it is often infested by Weaver ants (*Oecophylla smaragdina*) which build their nests out of the large leaves of the plant.
 
 ## Human uses
 
@@ -108,14 +106,14 @@ species are cultivated for the dyes produced by the root bark: shades of red, pu
 *M. citrifolia*
 was cultivated for this purpose (to produce yellow to deep orange) but not in the Malay peninsula. Medicinally, the fruit was used for a wide range of ailments including diabetes and coughs. Heated leaves may be applied to the chest for coughs. According to Wee, in Chinese medicine and in Japan it was used to contain fever and as a tonic. According to Giesen, it produces a timber with a fine and even texture. The fruits may be eaten in rojak in Indonesia, and as a staple in some Pacific Islands where they are eaten raw or cooked. The fruits may also be fed to pigs. Young leaves may be eaten as a vegetable and contain high levels of protein. Seeds may also be roasted and eaten.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg)
 
 *Pulau Ubin, Jan 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090328sbwrd8470m3.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/morinda/citrifolia/090328sbwrd8470m3.jpg)*
 *Sungei Buloh Wetland Reserve, Mar 09*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090328sbwrd8470m3a.jpg)*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/citrifolia/090124ubnd5994m3.jpg)*
+*![](https://images.naturehungry.sg/plants/coastal/morinda/citrifolia/090328sbwrd8470m3a.jpg)*
+*![](https://images.naturehungry.sg/plants/coastal/morinda/citrifolia/090124ubnd5994m3.jpg)*
 Ripening fruit.
 *Pulau Ubin, Jan 09*
 

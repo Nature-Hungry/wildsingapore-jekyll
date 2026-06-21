@@ -1,6 +1,6 @@
 ---
 title: Jarum-jarum
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Jarum-jarum on the shores of Singapore
 keywords: ixora, congesta, rubiaceae, plant, bush, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,21 +22,21 @@ order: Gentianales
 subfamily: Ixoroideae
 tribe: Ixoreae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1848m6la.jpg
+coverimg: https://images.naturehungry.sg/plants/others/ixora/congesta/090926cjd1848m6la.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1830m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ixora/congesta/090926cjd1830m3.jpg
     caption: Chek Jawa, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1827m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ixora/congesta/090926cjd1827m3.jpg
     caption: Chek Jawa, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1832m6l.jpg
+  - url: https://images.naturehungry.sg/plants/others/ixora/congesta/090926cjd1832m6l.jpg
     caption: Chek Jawa, Sep 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1846m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ixora/congesta/090926cjd1846m3.jpg
     caption: Chek Jawa, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/091128cjd4614m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ixora/congesta/091128cjd4614m3.jpg
     caption: Chek Jawa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/091128cjd4610m6l.jpg
+  - url: https://images.naturehungry.sg/plants/others/ixora/congesta/091128cjd4610m6l.jpg
     caption: Chek Jawa, Nov 09
 links_references: '**Links**
 
@@ -74,7 +74,7 @@ A shrub to small tree (up to 7m). Leaves large (12-30cm long), dark green. Flowe
 
 Burkill indicates that there are no known uses for this plant.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ixora/congesta/090926cjd1848m6la.jpg)
+![](https://images.naturehungry.sg/plants/others/ixora/congesta/090926cjd1848m6la.jpg)
 
 *Chek Jawa, Sep 09*
 

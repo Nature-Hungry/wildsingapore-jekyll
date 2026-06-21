@@ -1,6 +1,6 @@
 ---
 title: 'Sand dollars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sand dollars  on the shores of Singapore
 keywords: sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -81,53 +81,53 @@ links_references: '**Links**
   Coleman''s World of Water, Australia. 64pp.'
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
     caption: A sand dollar can move quite far under wet sand. Lazarus Island, Jun
       09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
     caption: Living sand dollars, not moving under sand. Lazarus Island, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg
     caption: Cake sand dollars are often found in huge numbers. Chek Jawa, Jan 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg
     caption: A living sand dollar is covered with spines! East Coast, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
     caption: Upperside of test of Ceke sand dollar
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
     caption: Underside of test
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg
     caption: Shape and features of a sand dollar is often more obvious in a dead one.
       Seringat-Kias, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
     caption: The petalloid is made up of holes where tube feet emerge. This is more
       obvious in the skeleton of a dead sand dollar. Changi, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
     caption: The central mouth is on the underside. Changi, Jun 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
     caption: Upperside of living sand dollar Chek Jawa, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
     caption: Slot in a Keyhole sand dollar.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
     caption: A dead sand dollar has no spines. Chek Jawa, Nov 02
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
     caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared
       by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
     caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek
       Jawa Feb 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
     caption: Grey bonnet snail eating a Cake sand dollar. Cyrene, Aug 11
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg
     caption: Cake sand dollar
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
     caption: Keyhole sand dollar
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg
     caption: Pink sand dollar
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg
     caption: Thick-edged sand dollar
 location:
 - chg
@@ -224,7 +224,7 @@ settle down and develop into a more sand dollar-like shape. One species of sand
 dollars ( Dendraster excentricus of the US) is known to settle in response to
 a substance released by adults. This might explain why so many sand dollars
 of the same species may be found in one place. 
-![](https://f003.backblazeb2.com/file/naturehungry/concepts/pix/i020e4.gif)
+![](https://images.naturehungry.sg/concepts/pix/i020e4.gif)
 
 ## Human uses: 
 Sand dollar eggs have been extensively studied to better understand cell division and thus some diseases such as cancer, which is associated with uncontrolled cell growth.

@@ -1,6 +1,6 @@
 ---
 title: Porcelain fiddler crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Porcelain fiddler crab on the shores of Singapore
 keywords: porcelain, fiddler, crab, uca, austruca, annulipes, ocypodidae, decapod,
   crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -28,38 +28,38 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
     caption: Male displaying, waving his legs and enlarged pincer . St John's Island,
       Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
     caption: Smooth on the outer side of the pincer. St John's Island, Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg
     caption: Bumpy ridge on the inside 'palm' of the pincer
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0068m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0068m3.jpg
     caption: Chek Jawa, Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040411hntd0126m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040411hntd0126m3.jpg
     caption: Pulau Hantu, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0084m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0084m3.jpg
     caption: Chek Jawa, Jan 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmn.jpg
     caption: Pulau Ubin Jun, 09 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmna.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmna.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/260103merqo1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/260103merqo1.jpg
     caption: Marina East, Jan 26 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/160208smkshpy3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/160208smkshpy3.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/160806tplmn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/160806tplmn1.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/091204pawjk7m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/091204pawjk7m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
 links_references: '**Links**
 
@@ -72,7 +72,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Porcelain fiddler (
-
   *Uca annulipes*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2053)
@@ -147,9 +146,7 @@ Body width 1.5-2cm. Body squarish. The male fiddler crab's enlarged pincer almos
 **Sometimes mistaken for**
 the
 [Orange fiddler crab](vocans)
-(
-*Uca vocans*
-). More on
+(*Uca vocans*). More on
 [how to tell apart the fiddler crabs commonly seen](cflongeyedcrabs)
 on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

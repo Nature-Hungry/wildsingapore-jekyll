@@ -1,6 +1,6 @@
 ---
 title: Barracudas
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Barracudas on the shores of Singapore
 keywords: barracuda, sphyraenidae, fish, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,31 +23,31 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Centropomoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
     caption: Tanah Merah, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg
     caption: St John's Island, Nov 15 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg
     caption: Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg
     caption: Upper and lower jaws about the same length.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg
     caption: Kusu Island, May 10 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg
     caption: Big Sisters Island, Oct 11 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg
     caption: Pulau Semakau, Apr 08 Photo shared by Marcus Ng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg
     caption: Pulau Semakau (South), Dec 24 Photo shared by Eugene Tan on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
 links_references: "**Links**\n- [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352)\n\
   (\n*Sphyraena jello*\n) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide\

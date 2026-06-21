@@ -1,6 +1,6 @@
 ---
 title: Montipora corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Montipora corals on the shores of Singapore
 keywords: velvet, montipora, acroporidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg
     caption: Branching montipora coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg
     caption: Branching montipora coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg
     caption: Ridged montipora coral
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
     caption: Plate montipora coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monplate/050625labg8578m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monplate/050625labg8578m3.jpg
     caption: Plate montipora coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg
     caption: Ridged montipora coral
 links_references: '**Links**
 
@@ -139,8 +139,7 @@ It's hard to distinguish them without close examination of small features. On th
 ## Role in habitat
 Montipora corals are among the important building blocks of a reef. Together with
 [Acropora coral](acropora)
-(
-*Acropora*
+(*Acropora*
 sp.), another member of the Family Acroporidae, montipora corals account for one-third of reef-building coral species. Those with branching forms provide shelter for all kinds of animals including seahorses, tiny clams and all kinds of crabs.
 
 ## Human uses

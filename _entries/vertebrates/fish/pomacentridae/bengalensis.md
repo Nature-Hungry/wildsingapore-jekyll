@@ -1,6 +1,6 @@
 ---
 title: 'Bengal sergeant '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bengal sergeant  on the shores of Singapore
 keywords: bengal, sergeant, abudefduf, bengalensis, damsel, fish, damselfish, pomacentridae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -27,48 +27,47 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Glyphisodontinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
     caption: Sisters Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m6l.jpg
     caption: Tanah Merah, Jun 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110418tmftd9066m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110418tmftd9066m6l.jpg
     caption: Tanah Merah, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110505tmnbd0705m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110505tmnbd0705m3.jpg
     caption: Tanah Merah, May 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/180911pgldc2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/180911pgldc2.jpg
     caption: Punggol, Sep 18 Photo shared by Dayna Cheah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/171108ecpmblks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/171108ecpmblks2.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/180812nsrtlks12.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/180812nsrtlks12.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/171009blyay11.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/171009blyay11.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110619tslgjp1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110619tslgjp1m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by Jerome Pang on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/250714srpal7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/250714srpal7.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/240820kusmn2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/240820kusmn2.jpg
     caption: Kusu Island, Aug 24 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/250810bsisjk3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/250810bsisjk3.jpg
     caption: Big Sisters, Aug 25 Photo shared by Jayden Kang on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110421jngrl1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110421jngrl1m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/bengalensis/110220lazrl9m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110220lazrl9m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
 links_references: '**Links**
 
   - [Bengal sergeant (
-
   *Abudefduf bengalensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/339)
@@ -80,7 +79,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Bengal sergeant (
-
   *Abudefduf bengalensis*
 
   )](http://www.fishbase.se/Summary/SpeciesSummary.php?id=6517)

@@ -1,6 +1,6 @@
 ---
 title: 'Rock crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rock crab  on the shores of Singapore
 keywords: rock, crab, leptodius, xanthidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -30,30 +30,29 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Xanthinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
     caption: Pincers with bumpy elbows. St. John's Island, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/040919sntd7033m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/040919sntd7033m3.jpg
     caption: Sentosa, Sep 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/040919sntd7033m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/040919sntd7033m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/200706skdmn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/200706skdmn1.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/210822ssisvc2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/210822ssisvc2.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/100612sngmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/100612sngmn.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Common Rock Crab (
-
   *Leptodius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/208)
@@ -129,9 +128,7 @@ Body width 8-10cm. Body oval, rather flat, with 4-5 blunt teeth on the edges of 
 
 **Sometimes confused with**
 [Smooth spooner crab](laevimanus)
-(
-*Etisus laevimanus*
-) which have pincers that are longer, more slender and smooth (without bumps).
+(*Etisus laevimanus*) which have pincers that are longer, more slender and smooth (without bumps).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

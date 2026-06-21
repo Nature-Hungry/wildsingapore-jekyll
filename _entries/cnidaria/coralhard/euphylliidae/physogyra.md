@@ -1,6 +1,6 @@
 ---
 title: 'Pearl bubble coral '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pearl bubble coral  on the shores of Singapore
 keywords: branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae,
   coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -18,17 +18,17 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Oct 15
 rdb: VU
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
     caption: During the day covered in bubbles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg
     caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**
@@ -100,10 +100,10 @@ This coral is not listed amont the threatened animals of Singapore. But it is li
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Although it is widespread and common throughout its range, it is heavily harvested for the aquarium trade and has suffered extensive reduction of coral reef habitat due to a combination of threats.
 
-![](https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg)
+![](https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg)
 
 *Terumbu Bemban, Apr 11*
-![](https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg)
+![](https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg)
 
 Brain-like meandering valleys,
 

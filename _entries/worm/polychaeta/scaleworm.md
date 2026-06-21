@@ -1,6 +1,6 @@
 ---
 title: Scale worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scale worms on the shores of Singapore
 keywords: scaleworm, scale, worm, bristleworm, polynoidae, polychaete, annelid, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,53 +18,53 @@ subclass: Errantia
 order: Phyllodocida
 suborder: Aphroditiformia
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120411thntd9523m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120411thntd9523m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120411thntd9523m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120411thntd9523m3.jpg
     caption: Terumbu Hantu, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120411thntd9523m3b.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120411thntd9523m3b.jpg
     caption: Overlapping scales on the upperside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120411thntd9523m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120411thntd9523m3a.jpg
     caption: Well developed head with tentacles.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120411thntd9537m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120411thntd9537m3.jpg
     caption: Terumbu Hantu, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120411thntd9537m3b.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120411thntd9537m3b.jpg
     caption: Lots of short bristles on the body sides.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120411thntd9523m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120411thntd9523m3a.jpg
     caption: Well developed head with tentacles.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/200820chgvc3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/200820chgvc3.jpg
     caption: Changi, Aug 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/200706skdtch1.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/200706skdtch1.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/091019prplks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/091019prplks.JPG
     caption: Pasir Ris Park, Oct 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/110616ecplks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/110616ecplks.JPG
     caption: East Coast Park, Jun 11 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/141012labjt1.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/141012labjt1.jpg
     caption: Labrador, Oct 14 Photo shared by Jonathan Tan on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/100102sntlks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/100102sntlks.JPG
     caption: Sentosa, Feb 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/191028bsisvc3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/191028bsisvc3.jpg
     caption: Big Sisters Island, Oct 19 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/200918cyrvc2.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/200918cyrvc2.jpg
     caption: Cyrene, Sep 20 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/090707hntlks1.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/090707hntlks1.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/090707hntlks2.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/090707hntlks2.jpg
     caption: Pulau Hantu, Jul 09 Photo shared by Loh Kok Sheng on flickr
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/170129slglks.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/170129slglks.jpg
     caption: Terumbu Selegie, Jan 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120119smklks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120119smklks.JPG
     caption: Pulau Semakau, Jan 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/200626tptvc3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/200626tptvc3.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

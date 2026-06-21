@@ -1,6 +1,6 @@
 ---
 title: Pearly anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pearly anemone on the shores of Singapore
 keywords: pearly, anemone, anthozoa, cnidaria, actiniidae, paracondylactis, sinensis,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -28,47 +28,47 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/091206tmd5757m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/091206tmd5757m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/091206tmd5757m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/091206tmd5757m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/091206tmd5758m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/091206tmd5758m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/121116sjjid1481m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/121116sjjid1481m3.jpg
     caption: This one had a bright red body column . St John's Island, Nov 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/110703cjd5346m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/110703cjd5346m3.jpg
     caption: Chek Jawa, Sep 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/091206tmd5772m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/091206tmd5772m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/251208chgrk4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/251208chgrk4.jpg
     caption: Attempting to eat a sea cucumber? Changi, Dec 25 Photo shared by Richard
       Kuah on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/200822prpvc2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/200822prpvc2.jpg
     caption: Pasir Ris Park, Aug 20 Photo shared by Vincent Koh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/231506chgelks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/231506chgelks1.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/090725tmjk2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/090725tmjk2m3.jpg
     caption: Tanah Merah, Dec 08 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/081216tmlks04m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/081216tmlks04m3.jpg
     caption: East Coast Park, Dec 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/180812nsrtlks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/180812nsrtlks5.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/150617ecpbslks7m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/150617ecpbslks7m3.jpg
     caption: East Coast Park, Jun 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/150617ecpbslks7m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/150617ecpbslks7m3a.jpg
     caption: Photo shared by Loh Kok Sheng on facebok .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/160410blylks4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/160410blylks4.jpg
     caption: Berlayar Creek, Apr 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/090628lazd5993m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/090628lazd5993m3.jpg
     caption: Seringat-Kias, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/091204pawikw1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/pearly/091204pawikw1m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: '**Links**
 

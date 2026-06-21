@@ -1,6 +1,6 @@
 ---
 title: Leathery sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Leathery sea fan on the shores of Singapore
 keywords: seafan, fan, hicksonella, princeps, gorgoniidae, gorgonian, gorgonacea,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -17,106 +17,106 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100517jngd2750m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100517jngd2750m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100517jngd2750m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100517jngd2750m3.jpg
     caption: Pulau Jong, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100517jngd2756m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100517jngd2756m3.jpg
     caption: Wire-like central support.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100517jngd2755m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100517jngd2755m3.jpg
     caption: Polyps.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg
     caption: Terumbu Pempang Laut, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100812tpld0362m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100812tpld0362m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100812tpld0367m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100812tpld0367m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/250530kus1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/250530kus1.jpg
     caption: Kusu Island, May 25
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/250530kus2a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/250530kus2a.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/250726cyrlks5.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/250726cyrlks5.jpg
     caption: With Sea fan winged oyster . Cyrene, Jul 25 Photo shared by Loh Kok Sheng
       on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1a.jpg
     caption: With Nectar spindle cowrie Cyrene, Jul 25 Photo shared by Loh Kok Sheng
       on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100615tmjk3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100615tmjk3m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/220618tmftlks16.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/220618tmftlks16.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/210401sntrk4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/210401sntrk4.jpg
     caption: Sentosa Tg RImau, Apr 21 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/190901lablks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/190901lablks1.jpg
     caption: Labrador, Sep 19 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/141109lazlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/141109lazlks.JPG
     caption: Lazarus Island, Nov 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/251106lazky5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/251106lazky5.jpg
     caption: Lazarus, Nov 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/250201bsisky1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/250201bsisky1.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/240113lazlks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/240113lazlks5.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/241019lazlks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/241019lazlks3.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/160508kusjt12.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/160508kusjt12.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/160625tkklks11.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/160625tkklks11.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/170118tkkrk.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/170118tkkrk.jpg
     caption: Pulau Tekukor, Jan 17 Photo shared by Richard Kuah on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/201019sjivc5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/201019sjivc5.jpg
     caption: St John's Island, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/210429hntvc4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/210429hntvc4.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/190707thnll1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/190707thnll1.jpg
     caption: Terumbu Hantu, Jul 19 Photo shared by Liz Lim on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/250629smkelk18.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/250629smkelk18.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/150718smkelks8m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/150718smkelks8m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/150720smknlks5m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/150720smknlks5m3.jpg
     caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/250629smkelk18.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/250629smkelk18.jpg
     caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/240511tryccn1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/240511tryccn1.jpg
     caption: Terumbu Raya, May 24 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100617tblks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100617tblks2m3.jpg
     caption: Terumbu Bemban, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100617tblks2m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100617tblks2m3a.jpg
     caption: Photo shared by Loh Kok Sheng on flickr.
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/110522bbbjk3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/110522bbbjk3m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/200310bbbay2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/200310bbbay2.jpg
     caption: Beting Bemban Besar, Mar 20 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/160806tpllks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/160806tpllks3.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
       .
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/091231biojk9m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/091231biojk9m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/091231biojk9m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/091231biojk9m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/091231biojk8m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/091231biojk8m3.jpg
     caption: ''
 links_references: '**Links**
 

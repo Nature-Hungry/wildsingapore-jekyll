@@ -1,6 +1,6 @@
 ---
 title: 'Piai lasu '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Piai lasu  on the shores of Singapore
 keywords: fern, acrostichum, speciosum, pteridaceae, mangrove, mangroves, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,15 +23,15 @@ order: Polypodiales
 suborder: Pteridineae
 inat_id: 48437
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/speciosum/090328sbwrd0043m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/acrostichum/speciosum/090328sbwrd0043m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg
     caption: Young fronds are green. Sungei Buloh Wetland Reserve, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg
     caption: Sterile fronds have tapering pointed tips. Sungei Buloh Wetland Reserve,
       Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/speciosum/110307admd6750m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/acrostichum/speciosum/110307admd6750m3.jpg
     caption: Fertile fronds. Admiralty Park, Mar 11
 links_references: '**Links**
 
@@ -40,7 +40,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Piai Raya (
-
   *Acrostichum aureum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1038)
@@ -48,7 +47,6 @@ links_references: '**Links**
   and
 
   [Piai Lasu (
-
   *Acrostichum speciosum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1039)
@@ -102,23 +100,19 @@ The more delicate and elegant of our mangrove ferns, it is often seen in back ma
 [mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 and other higher ground, usually in the shade. Compared to
 [Piai raya](aureum)
-(
-*A. aureum*
-), it is found in areas more frequently inundated by tides.
+(*A. aureum*), it is found in areas more frequently inundated by tides.
 
 ## Features
 
 The leaflets are thinner and shorter (1.5-2m long) than those of
 [Piai raya](aureum)
-(
-*A. aureum*
-) and young fronds are green or brownish-green. Rhizomes covered with scales up to 8mm long. The first few pairs near the tips are fertile leaflets, the underside covered below with dark brown spores (sporangia). Sterile leaflets gradually tapering to a narrow tip.
+(*A. aureum*) and young fronds are green or brownish-green. Rhizomes covered with scales up to 8mm long. The first few pairs near the tips are fertile leaflets, the underside covered below with dark brown spores (sporangia). Sterile leaflets gradually tapering to a narrow tip.
 
 See the
 [main page on mangrove ferns](acrostichum)
 for their human uses.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acrostichum/speciosum/090328sbwrd0043m6l.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/acrostichum/speciosum/090328sbwrd0043m6l.jpg)
 
 Sungei Buloh Wetland Reserve, Mar 09*
 

@@ -1,6 +1,6 @@
 ---
 title: Crucifix swimming crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Crucifix swimming crab on the shores of Singapore
 keywords: crucifix, swimming, crab, charybdis, feriata, feriatus, portunidae, decapod,
   crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -33,20 +33,20 @@ superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/050721cjd5144m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/feriatus/050721cjd5144m3b.jpg
     caption: 5 spines on the body side, white cross pattern on its back
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/111029smkd3158.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/feriatus/111029smkd3158.jpg
     caption: Seen hiding under a Fire anemone . Pulau Semakau, Oct 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/170402smknhpy.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/feriatus/170402smknhpy.jpg
     caption: Possibly a juvenile. Pulau Semakau North, Apr 17 Photo shared by Heng
       Pei Yan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/240723chgerg1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/feriatus/240723chgerg1.jpg
     caption: Hiding under a Pearly anemone . Changi East (Lost Coast), Jul 24 Photo
       shared by Rachael Goh on facebook .
 links_references: '**Links**
@@ -60,7 +60,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Crucifix crab (
-
   *Charybdis feriatus*
 
   )](http://www.sealifebase.org/summary/Charybdis-feriatus.html)
@@ -139,8 +138,7 @@ Some people believe that these crabs were blessed by the missionary, St Francis 
 
 The commercially most important of the
 *Charybdis*
-species, caught by bottom trawls, sometimes by traps and nets. It sells for a premium in East Asia. More delicate than Mud crabs (
-*Scylla*
+species, caught by bottom trawls, sometimes by traps and nets. It sells for a premium in East Asia. More delicate than Mud crabs (*Scylla*
 sp.), it is usually sold frozen.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

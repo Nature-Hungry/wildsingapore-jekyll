@@ -1,6 +1,6 @@
 ---
 title: Plain creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Plain creeper snail on the shores of Singapore
 keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -24,28 +24,28 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
     caption: Labrador, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/070204hntg7553m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/070204hntg7553m3c.jpg
     caption: Pulau Hantu, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/080208hntd9447m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/080208hntd9447m3.jpg
     caption: Pulau Hantu, Feb 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg
     caption: Sisters Island, Feb 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/081113jngcck03m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/081113jngcck03m3.jpg
     caption: Pulau Jong, Nov 08 Photo shared by Chim Chee Kong on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/250812tbrk3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/250812tbrk3.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/250812tbrk3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/250812tbrk3a.jpg
     caption: ''
 location:
 - prp

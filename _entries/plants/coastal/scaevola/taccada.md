@@ -1,6 +1,6 @@
 ---
 title: 'Merambong '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Merambong  on the shores of Singapore
 keywords: merambong, scaevola, taccada, goodeniaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,7 +20,7 @@ class: Magnoliopsida
 order: Asterales
 inat_id: 363481
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg
 links_references: '**Links**
 
   - [*Scaevola taccada*](http://floraofsingapore.wordpress.com/2010/10/03/scaevola-taccada/)on
@@ -67,18 +67,18 @@ links_references: '**Links**
   The Singapore Science Centre. 160pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/090118smkd5713m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/scaevola/taccada/090118smkd5713m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/090118smkd5714m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/scaevola/taccada/090118smkd5714m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/090118smkd5714m3c.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/scaevola/taccada/090118smkd5714m3c.jpg
     caption: Fruit ripens to white.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/110719sntd7397m3c.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/scaevola/taccada/110719sntd7397m3c.jpg
     caption: Sentosa, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/090405smkd9031m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/scaevola/taccada/090405smkd9031m3.jpg
     caption: Sometimes with violet markings.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/110719sntd7397m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/scaevola/taccada/110719sntd7397m3b.jpg
     caption: Sentosa, Jul 11
 size:
 - 300.0
@@ -115,15 +115,15 @@ Fruit globular small (1-1.5cm) fleshy, green ripening white. Each fruit contains
 
 According to Corners, the leaves are bitter and "scarcely edible" but the juice of the fruits are soothing and refreshing for inflamed eyes. The large pith of the young twigs are sometimes used by Malays to cut into fancy flowers and other objects. According to Burkill, medicinal uses including the bitter leaves in indigestion, pith for diarrhoea, poultice of leaves for headaches and on swollen legs, juice of berries for sore eyes. According to Wee, in Indonesia the roots are used as an antidote to eating poisonous fish and crabs. According to Giersen, the wood is resistant to sea water but found in small quantities so it is used for making nails for canoes.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg)
 
 *Pulau Semakau, Jan 09*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/090405smkd9069m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/scaevola/taccada/090405smkd9069m3.jpg)
 
 *Pulau Semakau, Mar 09*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/scaevola/taccada/090405smkd9069m3a.jpg)
+![](https://images.naturehungry.sg/plants/coastal/scaevola/taccada/090405smkd9069m3a.jpg)
 
 Flower is 'split'.
 

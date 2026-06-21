@@ -1,6 +1,6 @@
 ---
 title: Gedabu
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gedabu on the shores of Singapore
 keywords: gedabu, sonneratia, ovata, lythraceae, tree, mangrove, mangroves, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,22 +23,22 @@ class: Magnoliopsida
 order: Myrtales
 inat_id: 425792
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110328mndd8069m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/110328mndd8069m3.jpg
     caption: Calyx sepals pinkish inside. Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110428prpd0243m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/110428prpd0243m3.jpg
     caption: No petals, only fluffy white stamens. Pasir Ris, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110102cjd4650m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/110102cjd4650m3a.jpg
     caption: Unopened flower. Chek Jawa, Jan 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110311prpd7006m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/110311prpd7006m3.jpg
     caption: Young flower buds. Pasir Ris, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110531krjL1000195m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/110531krjL1000195m3.jpg
     caption: Ripe fruit falls and splits open releasing seeds. Kranji Nature Trail,
       Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg
     caption: Calyx lobes clasp the fruit. Pulau Ubin, Apr 09
 links_references: '**Links**
 
@@ -51,7 +51,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Gedabu (
-
   *Sonneratia ovata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1075)
@@ -142,9 +141,7 @@ species. When ripe, the fruit falls and smashes open releasing the seeds.
 
 Similar to
 [Perepat](alba)
-(
-*S. alba*
-) except that it tends to be a shorter tree with shiny, dark green leaves and the flowers have no petals.
+(*S. alba*) except that it tends to be a shorter tree with shiny, dark green leaves and the flowers have no petals.
 
 Gedabu is the preferred local food plant for caterpillars of the moths
 *Eucosma, Taurometopa pyrometalla*
@@ -159,10 +156,10 @@ According to Ng, the fruit is eaten. As a result, the tree is often cultivated i
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg)
 
 *Kranji Nature Trail, Jan 11*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/ovata/090410ubnd9315m3.jpg)*
+*![](https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/090410ubnd9315m3.jpg)*
 Leaves glossy, not narrow at the base.
 *Pulau Ubin, Apr 09*
 

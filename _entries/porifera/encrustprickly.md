@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow prickly branching sponge on the shores of Singapore
 keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: encrusting
@@ -16,35 +16,35 @@ class: Demospongiae
 subclass: Verongimorpha
 order: Verongiida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/110522bbbd2803m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/encrustprickly/110522bbbd2803m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/111001sjid2044m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/111001sjid2044m3.jpg
     caption: St. John's Island, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/111001sjid2044m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/111001sjid2044m3a.jpg
     caption: A Sponge finger oyster embedded in the sponge.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/111001sjid2044m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/111001sjid2044m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/120124sisd5828m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/120124sisd5828m3.jpg
     caption: Sisters Island, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/040901sjid6066m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/040901sjid6066m3.jpg
     caption: St. John's Island, Sep 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/051204sisg3279m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/051204sisg3279m3.jpg
     caption: Sisters Islands, Dec 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/100811slud0122m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/100811slud0122m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/100811slud0122m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/100811slud0122m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/100811slud0122m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/100811slud0122m3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/091204pawd0058m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/091204pawd0058m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/091231biod6926m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/091231biod6926m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/100130brkd8606m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/100130brkd8606m3.jpg
     caption: Terumbu Berkas, Jan 10
 links_references: '**Links**
 
@@ -109,15 +109,13 @@ Extremely variable in shape from knobs, lobes, to slender branching stems (8-12c
 
 **Sometimes confused with**
 [Mustard sponge](dactylospongia)
-(
-*Dactylospongia elegans*
+(*Dactylospongia elegans*
 , Family Thorectidae) can look very similar. The two kinds of sponges are difficult to tell apart in the field.
 
 **Sponging clams:**
 Sometimes, the sponge is inhabited by
 [Sponge finger oysters](../mollusca/bivalvia/pteriidae/vulsella)
-(
-*Vulsella*
+(*Vulsella*
 sp.), a kind of clam that lives only in sponges. These are completely covered by the sponge, with only a slit on the surface of the sponge where the bivalve's shell opening is. Often, these bivalves result in flat blade or leaf-like protrusions in the sponge.
 
 ## Human uses
@@ -126,14 +124,14 @@ This sponge contains the chemical psammaplin A which is reported to be a powerfu
 [More details](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html)
 .
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/110522bbbd2803m3.jpg)
+![](https://images.naturehungry.sg/porifera/encrustprickly/110522bbbd2803m3.jpg)
 
 *Beting Bemban Besar, May 11*
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/110522bbbd2806m3.jpg)
+![](https://images.naturehungry.sg/porifera/encrustprickly/110522bbbd2806m3.jpg)
 
 Usually dark with yellow tips.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/encrustprickly/110522bbbd2805m3a.jpg)
+![](https://images.naturehungry.sg/porifera/encrustprickly/110522bbbd2805m3a.jpg)
 
 Many tiny holes on a bumpy surface.
 

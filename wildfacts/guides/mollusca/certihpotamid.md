@@ -19,27 +19,27 @@ order: Liliales
 subfamily: Lilioideae
 tribe: Lilieae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
 galleries:
   gallery1:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg"
+    - url: "https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg"
+    - url: "https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/090816ubnd9130m3.jpg"
+    - url: "https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/090816ubnd9130m3.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3a.jpg"
+    - url: "https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3a.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3a.jpg"
+    - url: "https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3a.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/quadrata/101226krjd4196m3a.jpg"
+    - url: "https://images.naturehungry.sg/mollusca/gastropoda/potamididae/quadrata/101226krjd4196m3a.jpg"
       caption: ""
   gallery2:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg"
+    - url: "https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg"
       caption: Plain creeper snails
-    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/050720sntg9501m3.jpg"
+    - url: "https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/050720sntg9501m3.jpg"
       caption: Variegated creeper snails
-    - url: "https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg"
+    - url: "https://images.naturehungry.sg/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg"
       caption: Girlded horn snail
 ---
 

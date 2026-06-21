@@ -1,6 +1,6 @@
 ---
 title: Map pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Map pufferfish on the shores of Singapore
 keywords: starry, pufferfish, puffer, fish, arothon, mappa, tetraodontidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -14,25 +14,24 @@ family: Tetraodontidae
 genus: Arothon
 species: mappa
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
     caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore Biodiversity
       Records 2019:54-55
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/170820kusmn3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/mappa/170820kusmn3.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/170514bbbrl1a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/mappa/170514bbbrl1a.jpg
     caption: Beting Bemban Besar, May 17 Photo shared by Russel Low on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/200626tptjt1a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/mappa/200626tptjt1a.jpg
     caption: Found in a large fish trap Terumbu Pempang Tengah, Jun 20 Photo shared
       by Jonathan Tan on facebook .
 links_references: '**Links**
 
   - [Map puffer (
-
   *Arothron mappa*
 
   )](https://www.fishbase.se/summary/7857)

@@ -1,6 +1,6 @@
 ---
 title: Torch anchor coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Torch anchor coral on the shores of Singapore
 keywords: torch, anchor, euphyllia, glabrescens, euphylliidae, caryophyliidae, coral,
   hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,48 +17,48 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
     caption: Pulau Semakau, Dec 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3.jpg
     caption: Terumbu Semakau, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg
     caption: Pulau Hantu, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100617tbjk1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/100617tbjk1m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100519tsmjk7m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/100519tsmjk7m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/210811tryrk1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/210811tryrk1.jpg
     caption: Terumbu Raya, Aug 21 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100403tbbjk2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/100403tbbjk2m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/110522bbblks12m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/110522bbblks12m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3b.jpg
     caption: ''
 links_references: '**Links**
 
@@ -137,9 +137,7 @@ species](euphyllia)
 
 With their tentacles fully extended, torch corals may also resemble
 [Sunflower mushroom corals](../fungiidae/heliofungia)
-(
-*Heliofungia actiniformis*
-). The torch coral, however, has much shorter tentacles and of course an entirely different skeleton structure.
+(*Heliofungia actiniformis*). The torch coral, however, has much shorter tentacles and of course an entirely different skeleton structure.
 
 **Status and threats:**
 This coral is listed as globally Near Threatened

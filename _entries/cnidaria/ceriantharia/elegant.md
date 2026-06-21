@@ -1,6 +1,6 @@
 ---
 title: Elegant cerianthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elegant cerianthid on the shores of Singapore
 keywords: peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -16,30 +16,30 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
     caption: The elegant cerianthid (lower left) compared to a common peacock anemone
       (upper right) Changi, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/070731chgd4705m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/070731chgd4705m3a.jpg
     caption: Changi, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/080801chgd8645m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/080801chgd8645m3.jpg
     caption: Changi, Aug 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/251012chgal6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/251012chgal6.jpg
     caption: Changi, Oct 25 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/160704cjmn.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/160704cjmn.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/100614bblks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/100614bblks1m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/100614bblks1m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/100614bblks1m3a.jpg
     caption: Photo shared by Loh Kok Sheng on his flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/141224tusmn3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/141224tusmn3m3.jpg
     caption: Tuas, Dec 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/250726cyrtl4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/250726cyrtl4.jpg
     caption: Cyrene, Jul 25 Photo shared by Tammy Lim on facebook .
 location:
 - prp

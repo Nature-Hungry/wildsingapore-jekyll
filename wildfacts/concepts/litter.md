@@ -60,7 +60,7 @@ The fact remains that, save those incinerated, every single molecule
 of synthetic plastic ever created is still on this planet and probably
 will be for centuries".   
 from [Breaking
-the cycle of plastics in the ocean](http://www.wildsingapore.com/news/20070910/070916-6) by Andrew Myers *Ocean
+the cycle of plastics in the ocean](https://images.naturehungry.sg/news/20070910/070916-6) by Andrew Myers *Ocean
 Conservancy Magazine Autumn 2007*  
   
 **How much plastic is in the ocean?**  
@@ -69,7 +69,7 @@ estimate there are 300,000 items of plastic per sq km of sea surface,
 and 100,000 per sq km of seabed. So plastic appears to be everywhere
 in our seas."  
 from [Plastics
-'poisoning world's seas'](http://www.wildsingapore.com/news/20061112/061207-5) By Maggie Ayre Producer *BBC 7 Dec
+'poisoning world's seas'](https://images.naturehungry.sg/news/20061112/061207-5) By Maggie Ayre Producer *BBC 7 Dec
 06*  
   
 **Aren't Singapore's beaches clean?**   
@@ -81,7 +81,7 @@ from 7am. The volunteers (from International Coastal Cleanup Singapore)
 took over their job on Saturday and collected 16,819 items weighing
 2,600kg at East Coast Park alone - the highest amount of trash collected
 on any beach open to the public." from [The
-coast is not clear](http://www.wildsingapore.com/news/20070910/070916-2) by Shobana Kesava *Straits Times 20 Sep
+coast is not clear](https://images.naturehungry.sg/news/20070910/070916-2) by Shobana Kesava *Straits Times 20 Sep
 07*.
 
 ![](pix/080406ecpd0467m6l.jpg)  

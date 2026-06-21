@@ -1,6 +1,6 @@
 ---
 title: Honeycomb whipray
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Honeycomb whipray on the shores of Singapore
 keywords: honey, comb, honeycomb, reticulated, whip, whipray, sting, ray, stingray,
   himantura, uarnak, fish, rajiformes, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -23,32 +23,31 @@ infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Urogymninae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
     caption: Tail very long and slender. A large dead one seen on the sand bar. Chek
       Jawa, May 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0114m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0114m3a.jpg
     caption: Granular skin on adult.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3a.jpg
     caption: Broadly triangular snout.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0108m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0108m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/101200cjro1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/101200cjro1m6l.jpg
     caption: Chek Jawa, Dec 10 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/101200cjro2m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/101200cjro2m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/250501skdjt1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/250501skdjt1.jpg
     caption: Pulau Sekudu, May 25
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/250501skdjt1a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/250501skdjt1a.jpg
     caption: Photo shared by Jonathan Tan on facebook
 links_references: '**Links**
 
   - [Honeycomb whipray (
-
   *Himantura uarnak*
 
   )](http://www.fishbase.org/summary/5507)
@@ -60,7 +59,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Honeycomb whipray (
-
   *Himantura undulata*
 
   )](http://www.iucnredlist.org/details/161692/0)

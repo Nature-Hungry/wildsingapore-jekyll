@@ -1,6 +1,6 @@
 ---
 title: Seashore bat lily
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Seashore bat lily on the shores of Singapore
 keywords: batlily, bat, lily, tacca, leontopetaloides, taccaceae, plant, tree, bush,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,7 +21,7 @@ class: Liliopsida
 order: Dioscoreales
 inat_id: 140999
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
 links_references: '**Links**
 
   - [*Tacca leontopetaloides*](http://floraofsingapore.wordpress.com/2011/06/20/tacca-leontopetaloides/)on
@@ -49,11 +49,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/081206smkd2488m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tacca/leontopetaloides/081206smkd2488m3.jpg
     caption: Fruits. Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/081206smkd2489m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tacca/leontopetaloides/081206smkd2489m3.jpg
     caption: Flower cluster with 'whiskers'. Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/051018smkg2756m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tacca/leontopetaloides/051018smkg2756m3.jpg
     caption: Flower cluster with 'whiskers'. Pulau Semakau, May 10
 size:
 - 30.0
@@ -86,11 +86,11 @@ The plant is cultivated in the Pacific, East Asia and East Africa for the starch
 **Status and threats:**
 The plant is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore. It is mainly threatened by the loss of its preferred habitats of undisturbed coastal forest. Even in the past only recorded from Pulau Semakau and Pulau Senang.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg)
+*![](https://images.naturehungry.sg/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg)
 
 Pulau Semakau, Aug 11
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tacca/leontopetaloides/081206smkd2502m3.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/tacca/leontopetaloides/081206smkd2502m3.jpg)*
 Grows in shady spots under
 
 coastal forest trees near the shoreline.

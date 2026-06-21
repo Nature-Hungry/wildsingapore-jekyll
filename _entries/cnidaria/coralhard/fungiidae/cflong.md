@@ -1,6 +1,6 @@
 ---
 title: Long mushroom  corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Long mushroom  corals on the shores of Singapore
 keywords: long, fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,38 +17,38 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg
     caption: Mole mushroom hard coral Polyphyllia talpina
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3a.jpg
     caption: Central groove may not be distinct.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3b.jpg
     caption: Short, petal-shaped walls that form radial patterns, instead of parallel
       lines. Tentacles tiny.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
     caption: Tongue mushroom hard coral Herpolitha limax
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3a.jpg
     caption: Long distinct central groove.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg
     caption: Walls in several short overlapping lines running perpendicular to central
       groove to the edge. Tentacles tiny.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
     caption: Feather mushroom hard coral Ctenactis sp.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg
     caption: Long distinct central furrow.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3b.jpg
     caption: Walls in thin generally unbroken lines running perpendicular to central
       groove to the edge. Tentacles tiny, very sparse.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
     caption: Oval mushroom coral Fungia sp.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg
     caption: Central furrow distinct in various lengths.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg
     caption: Walls in several long overlapping lines running perpendicular to central
       groove to the edge. Wall teeth tiny not obvious when covered by tissue. Tentacles
       tiny.

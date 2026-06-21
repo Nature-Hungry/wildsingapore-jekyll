@@ -1,6 +1,6 @@
 ---
 title: Sharks
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sharks on the shores of Singapore
 keywords: sharks, selachimorpha, selachii, elasmobranchii, fish, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -26,77 +26,77 @@ infraclass: Selachii
 superorder: Galeomorphi
 order: Orectolobiformes
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg
     caption: Bamboo shark spotted diving. Pulau Hantu, Feb 07 Photo shared by Toh
       Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/110626hntdn2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/110626hntdn2m3.jpg
     caption: The Bamboo shark is often seen by divers at Pulau Hantu. Pulau Hantu,
       Jun 2011 Photo shared on the Hantu Blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/100614bbtch8m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/100614bbtch8m3.jpg
     caption: Baby bamboo shark! Beting Bronok, Jun 2010 Photo shared by Toh Chay Hoon
       on her blog
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/110528smks02448m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/110528smks02448m6l.jpg
     caption: This Black-tipped reef shark was found dead . Pulau Semakau, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/120722cyrrl.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/120722cyrrl.jpg
     caption: Sharks rushing in with the incoming tide. Cyrene Reef, Jul 12 Photo shared
       by Russel Low on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/110719sntL1060905.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/110719sntL1060905.jpg
     caption: Shark egg capsule? Washed ashore. Sentosa, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/180717tbll7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/180717tbll7.jpg
     caption: Coral cat-shark sheltering under coral rubble during low tide. Terumbu
       Bemban, Jul 18 Photo shared by Lisa Lim on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/251107tmftlks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/251107tmftlks2.jpg
     caption: Live Remora seen in a lagoon. Tanah Merah Ferry Terminal, Nov 25 Photo
       shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/251107tmftlks2a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/251107tmftlks2a.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/130809smklks.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/130809smklks.jpg
     caption: Three dead sharks in front of fishing net. Pulau Semakau, Aug 13 Photo
       shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/100711cyrd8266m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/100711cyrd8266m3.jpg
     caption: Shark trapped in fishing net. Cyrene, Jul 10
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/140614cjlks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/140614cjlks.JPG
     caption: Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/180616bblks10.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/180616bblks10.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/170625bbll1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/170625bbll1.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Lisa Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/201029sisrk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/201029sisrk.jpg
     caption: Black tipped reef shark outside the seawall. Sisters Island, Oct 20 Photo
       shared by Richard Kuah on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/120805cyrjs1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/120805cyrjs1m3.jpg
     caption: Black tipped reef shark with the incoming tide. Cyrene Reef, Aug 12 Photo
       shared by Jocelyn Sze on her blog
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/210821cyrdc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/210821cyrdc1.jpg
     caption: Cyrene Reef, Aug 21 Photo shared by Dayna Cheah on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/201018smksvc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/201018smksvc1.jpg
     caption: Found dead at low tide. Pulau Semakau South, Oct 20 Photo shared by Vincent
       Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/120805bbbrl.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/120805bbbrl.jpg
     caption: Beting Bemban Besar, Aug 12 Photo shared by Russel Low on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/220420tbtyj1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/220420tbtyj1.jpg
     caption: Terumbu Bemban, Apr 22 Photo shared by Tang Yong Jen on facebook .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/240609tptky1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/240609tptky1.jpg
     caption: Terumbu Pempang Tengah, Jun 24 From video shared by Kelvin Yong on facebook
       .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/220102biolks5a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/220102biolks5a.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/selachii/selachii/220102biolks5b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/220102biolks5b.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
@@ -234,9 +234,7 @@ Among the sharks commonly seen on our shores are:
 (Family Hemiscylliidae): sometimes seen by divers at Pulau Hantu.
 
 **Black tipped reef sharks**
-(
-*Carcharhinus melanopterus*
-): sometimes encountered during surveys of the Southern submerged reefs at low tide. These sharks appear to hunt fish in low water, thus staying in the shallows at moderate tides or coming in with the tide.
+(*Carcharhinus melanopterus*): sometimes encountered during surveys of the Southern submerged reefs at low tide. These sharks appear to hunt fish in low water, thus staying in the shallows at moderate tides or coming in with the tide.
 
 Records (see below) suggest a wide variety of shark species have been seen in Singapore in the past.
 

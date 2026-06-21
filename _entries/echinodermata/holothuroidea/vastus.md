@@ -1,6 +1,6 @@
 ---
 title: Zebrafish sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Zebrafish sea cucumber on the shores of Singapore
 keywords: curryfish, zebrafish, cucumber, seacucumber, stichopus, vastus, holothuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,19 +26,19 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
     caption: Pulau Semakau, Jul 16 Photo by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks4a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/vastus/160723smkelks4a.jpg
     caption: Large conical bumps with dark stripes.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/vastus/160723smkelks2.jpg
     caption: Flat underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/vastus/160723smkelks1.jpg
     caption: Short tube feet in three broad rows.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg
     caption: Short tube feet.
 links_references: '**Links**
 

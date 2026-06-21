@@ -1,6 +1,6 @@
 ---
 title: Obelisk creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Obelisk creeper snail on the shores of Singapore
 keywords: obelisk, vertagus, creeper, cerith, snail, shell, rhinoclavis, sinensis,  cerithiidae,
   gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -18,49 +18,48 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Cerithiinae
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
     caption: Sentosa, Oct 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/070901sjid6524m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/070901sjid6524m3b.jpg
     caption: St. John's Island, Sep 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/070531sisg9643m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/070531sisg9643m3.jpg
     caption: Mating? Sisters Island, May 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/141010lablks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/141010lablks1m3.jpg
     caption: Labrador, Oct 14 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
     caption: St John's Island, Oct 25 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/251011ssisky3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/251011ssisky3.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Kelvin Yong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/260103bsisrqo4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/260103bsisrqo4.jpg
     caption: Big Sisters Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/170129slglks.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/170129slglks.jpg
     caption: Terumbu Selegie, Jan 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/2007024thntjt2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/2007024thntjt2.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/260201cyrccn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/260201cyrccn2.jpg
     caption: Cyrene, Feb 26 Photo shared by Che Cheng Neo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/210428slutch4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/210428slutch4.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 
   - [Obelisk vertagus (
-
   *Rhinoclavis sinensis*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?GenusName=Rhinoclavis&SpeciesName=sinensis)

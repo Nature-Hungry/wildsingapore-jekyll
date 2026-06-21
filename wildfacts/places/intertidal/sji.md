@@ -7,7 +7,7 @@ layout: default
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../index.html)  
 [wild shores of singapore
@@ -77,7 +77,7 @@ conservation activities:** The [Tropical
 Marine Science Institute](http://www.tmsi.nus.edu.sg/) has facilities at St. John's Island
 for marine studies and conducts [public
 outreach activities](http://www.tmsi.nus.edu.sg/outreach) there. The intertidal area is also regularly
-surveyed by [wildsingapore](http://www.wildsingapore.com/).
+surveyed by [wildsingapore](https://images.naturehungry.sg/).
  **History:** Sir Stamford Raffles was
 believed to have first anchored off this island before taking a
 smaller vessel to land on the main island. In the 1930's it became
@@ -119,7 +119,7 @@ posts about St. John's Island** on wild shores of singapore
 **Links**
 
 - [St.
-  John's Island](http://www.wildsingapore.com/places/sji.htm)
+  John's Island](https://images.naturehungry.sg/places/sji.htm)
   on wildsingapore.
 - [The
   Coastal Environmental Profile of Singapore](http://books.google.com.sg/books?id=qSIJ2uKKs88C&printsec=frontcover#v=onepage&q&f=false)

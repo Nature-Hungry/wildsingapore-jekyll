@@ -1,6 +1,6 @@
 ---
 title: 'Tui '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tui  on the shores of Singapore
 keywords: tui, trumpet, dolichandrone, spathacea, bignoniaceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -24,21 +24,21 @@ order: Lamiales
 tribe: Tecomeae
 inat_id: 191683
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7056m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7056m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8451m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8451m3.jpg
     caption: Trumpet shaped flower. Sungei Buloh Wetland Reserve, Mar 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7053m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7053m3a.jpg
     caption: Seeds look like wheat biscuits. Sungei Buloh Wetland Reserve, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6413m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6413m3.jpg
     caption: Opened pods. Pulau Ubin, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7052m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7052m3.jpg
     caption: Unopened pod. Sungei Buloh Wetland Reserve, Feb 09
 links_references: '**Links**
 
@@ -51,7 +51,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Tui (
-
   *Dolichandrone spathacea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1058)
@@ -148,14 +147,14 @@ According to Burkill, the wood is light and thus was prefered by the Javanese fo
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of SIngapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg)*
+*![](https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg)*
 Planted tree near natural mangroves.
 *Pulau Ubin, Jul 09*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3c.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3c.jpg)
 
 Sungei Buloh Wetland Reserve, Mar 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/dolichandrone/dolichandrone/100221sbwrd9570m3.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/100221sbwrd9570m3.jpg)*
 *Sungei Buloh Wetland Reserve, Feb 10*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,6 +1,6 @@
 ---
 title: Milk-spotted pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Milk-spotted pufferfish on the shores of Singapore
 keywords: milk, spotted, pufferfish, puffer, fish, chelonodon, patoca, tetraodontidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,41 +23,40 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
     caption: Labrador, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/100430chgd1951m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/100430chgd1951m6l.jpg
     caption: Changi, Apr 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/241216cjmn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/241216cjmn1.jpg
     caption: Chek Jawa, Dec 2024 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/200917prplks6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/200917prplks6.jpg
     caption: Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/160507cjjll1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/160507cjjll1.jpg
     caption: Chek Jawa, May 16 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/190801chglks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/190801chglks2.jpg
     caption: Changi, Aug 19 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/110615chgjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/110615chgjk.jpg
     caption: Changi, Jun 11 Photo shared by James Koh on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/160705ecplks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/160705ecplks3.jpg
     caption: East Coast Park, Jul 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/180909ecpdc2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/180909ecpdc2.jpg
     caption: East Coast Park, Sep 19 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/200819ecptch4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/200819ecptch4.jpg
     caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/251108ecpblks1a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/251108ecpblks1a.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**
 
   - [Milk-spotted Puffer (
-
   *Chelonodon patoca*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397)
@@ -69,7 +68,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Milkspotted puffer (
-
   *Chelonodon patoca*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6610)

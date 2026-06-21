@@ -1,6 +1,6 @@
 ---
 title: Abalone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Abalone on the shores of Singapore
 keywords: abalone, haliotidae, gastropod, mollusc, snail, shell, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,36 +17,36 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg
     caption: Terumbu Pempang Kecil, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3b.jpg
     caption: A row of holes at the top of the shell.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9145m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9145m3.jpg
     caption: Large foot.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks2.jpg
     caption: Big Sisters Island, Dec 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks3.jpg
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks1.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/140503sislks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/140503sislks1m3.jpg
     caption: Sisters Islands, May 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks4a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks4a.jpg
     caption: Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr ..
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/210228lazjll4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/210228lazjll4.jpg
     caption: Lazarus island, Feb 21 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/180717smkejll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/180717smkejll1.jpg
     caption: Pulau Semakau East, Jul 2018
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/180717smkejll2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/180717smkejll2.jpg
     caption: Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/haliotidae/haliotidae/130628tpklksm6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/130628tpklksm6l.jpg
     caption: Terumbu Pempang Kecil, Jun 13 Photo shared by Loh Kok Sheng on flickr
       .
 links_references: '**Links**

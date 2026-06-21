@@ -1,6 +1,6 @@
 ---
 title: 'Three-spot dascyllus '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Three-spot dascyllus  on the shores of Singapore
 keywords: black, anemonefish, three, spot, dascyllus, trimaculatus, pomacentridae,
   amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -26,18 +26,18 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Chrominae
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
     caption: Often seen together with Peacock anemoneshrimps . Terumbu Selegie, Jun
       11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m6l.jpg
     caption: Terumbu Selegie, Jun 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/140420sismn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/trimaculatus/140420sismn.jpg
     caption: Sisters Island, Apr 14 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/trimaculatus/110508cyrlks2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/trimaculatus/110508cyrlks2m3.jpg
     caption: Juvenile fish in Giant carpet anemone Cyrene Reef, May 11 Photo shared
       by Loh Kok Sheng on his blog .
 links_references: "**Links**\n- [Threespot dascyllus (\n*Dascyllus trimaculatus*\n\

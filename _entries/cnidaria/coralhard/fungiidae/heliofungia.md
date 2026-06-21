@@ -1,6 +1,6 @@
 ---
 title: Sunflower mushroom coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sunflower mushroom coral on the shores of Singapore
 keywords: white, tip, mushroom, heliofungia, actiniformis, fungiidae, coral, hard,
   scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -17,53 +17,53 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
     caption: Pulau Semakau, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3a.jpg
     caption: Large, lobed teeth.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/030619bbd0065m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/030619bbd0065m3.jpg
     caption: The underside is flat (not concave) Beting Bronok, Jun 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/090112smkd5118m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/090112smkd5118m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8966m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8966m3.jpg
     caption: Young ones attached to a hard surface. Pulau Semakau, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/030802hnted0011m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/030802hnted0011m3.jpg
     caption: Pulau Hantu, Aug 03
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/060402ulrd1147m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/060402ulrd1147m3.jpg
     caption: Pulau Hantu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/050310smkd1590m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/050310smkd1590m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/080422smkd1455m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/080422smkd1455m3.jpg
     caption: Pulau Semakau, Apr 08
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/170402smktch1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/170402smktch1.jpg
     caption: Pulau Semakau (North), Apr 17 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/2007025smknlks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/2007025smknlks3.jpg
     caption: Pulau Semakau (North), Jul 20 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/250727smkwlks9.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/250727smkwlks9.jpg
     caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/200111smksll4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/200111smksll4.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/220619tsmtl3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/220619tsmtl3.jpg
     caption: Terumbu Semakau, Jun 22 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/090330trylks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/090330trylks2m3.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/110522bbbjk2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/110522bbbjk2m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by James Koh on his blog .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/100130brkd8644m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/100130brkd8644m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/220201brkjll2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/220201brkjll2.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 
@@ -159,9 +159,7 @@ a sea anemone when its long tentacles obscure the hard skeleton. The hard skelet
 
 The
 [Torch coral](../euphylliidae/glabrescens)
-(
-*Euphyllia glabrescens*
-) has tentacles that look similar to the sunflower mushroom coral. But the torch coral and its tentacles are smaller.
+(*Euphyllia glabrescens*) has tentacles that look similar to the sunflower mushroom coral. But the torch coral and its tentacles are smaller.
 
 When the tentacles are retracted, it resembles
 [Fungia mushroom corals](fungia)

@@ -1,6 +1,6 @@
 ---
 title: 'Under-a-stone jingle clam '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Under-a-stone jingle clam  on the shores of Singapore
 keywords: monia, jingle, shell, anomiidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,22 +22,22 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
     caption: Chek Jawa, Jun 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/060624skdd3259m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/understone/060624skdd3259m3.jpg
     caption: Notch in one of the valves is clearly seen in the shell of this dead
       animal Pulau Sekudu, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/080422smkd1586m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/understone/080422smkd1586m3.jpg
     caption: Pulau Semakau, Apr 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3.jpg
     caption: Stuck on a Window pane shell . Changi, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3a.jpg
     caption: Fringe of tentacles when submerged.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/understone/120703chgd6695m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/understone/120703chgd6695m3a.jpg
     caption: ''
 location:
 - pgl
@@ -59,8 +59,7 @@ zone:
 ## Where seen?
 Like shiny coins, this clam is sometimes seen under stones on our Northern shores. Sometimes also seen stuck to other hard shelled animals like
 [Window pane shells](../placunidae/placuna)
-(
-*Placuna*
+(*Placuna*
 sp.).
 Shells of dead animals are also often washed ashore.
 

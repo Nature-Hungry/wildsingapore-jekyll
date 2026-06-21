@@ -1,6 +1,6 @@
 ---
 title: Lined moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lined moon snail on the shores of Singapore
 keywords: lined, moon, snail, shell, naticidae, tanea, natica, lineata, gastropod,
   mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -26,28 +26,27 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/lineata/081116chgd2193.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/081116chgd2193.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/lineata/081116chgd2193.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/081116chgd2193.jpg
     caption: Changi, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg
     caption: Operculum with a pair of spiralling grooves on the outer margin and a
       yellow smudge. Changi, Nov 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/lineata/111028chgelks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/111028chgelks1m3.jpg
     caption: Changi East, Oct 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/lineata/080603tmlks02m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/080603tmlks02m3.jpg
     caption: Tanah Merah, Jun 08 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/lineata/180812nsrtlks8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/180812nsrtlks8.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/lineata/2007024pcnlks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/2007024pcnlks3.jpg
     caption: East Coast Park PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook
 links_references: '**Links**
 
   - [Lined moon snail (
-
   *Natica lineata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86935)
@@ -55,7 +54,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Lined moon snail (
-
   *Natica lineata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

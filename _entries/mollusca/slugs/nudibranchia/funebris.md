@@ -1,6 +1,6 @@
 ---
 title: 'Polka-dot nudibranch '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Polka-dot nudibranch  on the shores of Singapore
 keywords: polka, dot, nudibranchia, jorunna, funebris, dorid, discodorididae, kentodoridae,
   dorididae,  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -28,112 +28,112 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/050329sntg3856m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/050329sntg3856m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/050329sntg3856m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/050329sntg3856m3.jpg
     caption: Sentosa, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/050329sntg3856m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/050329sntg3856m3a.jpg
     caption: Black edged gills
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/050329sntg3856m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/050329sntg3856m3b.jpg
     caption: The spots are actually arrangements of tiny black bristles.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
     caption: With egg mass near blue jorunna sponge Pulau Sekudu, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3b.jpg
     caption: Chewed up blue jorunna sponge
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/230803skdtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/230803skdtch1.jpg
     caption: Ate up a lot of the blue jorunna sponge Pulau Sekudu, Aug 23 Photo shared
       by Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/240512jnglks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/240512jnglks1.jpg
     caption: Chomping on blue jorunna sponge Pulau Jong, May 24 Photo shared by Loh
       Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/050709skdd4900m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/050709skdd4900m3.jpg
     caption: With egg mass Pulau Sekudu, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/050709skdd4900m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/050709skdd4900m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/050709skdg9320m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/050709skdg9320m3.jpg
     caption: Underside
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/090112smkd5154m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/090112smkd5154m3.jpg
     caption: Chomping on a blue sponge? Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/110217cyrs05409m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/110217cyrs05409m3.jpg
     caption: Chomping on a blue sponge? South Cyrene, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/080321smkd0406m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/080321smkd0406m3.jpg
     caption: Ate something large? Pulau Semakau, Mar 08
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/080220smkd9777m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/080220smkd9777m3.jpg
     caption: Mating Pulau Semakau, Feb 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/110831tmnbd0788m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/110831tmnbd0788m3.jpg
     caption: Mating Tanah Merah, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/060115sntg4001m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/060115sntg4001m3.jpg
     caption: Tiny, about 1cm. Several seen. Sentosa, Jan 06
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/090807tmjk7m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/090807tmjk7m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/151029sntlks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/151029sntlks1m3.jpg
     caption: Sentosa Tg Rimau, Oct 15 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/080208sistch01m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/080208sistch01m3.jpg
     caption: Sisters Island, Feb 08 Photo shared by Toh Chay Hoon on her flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/110619tslgnml1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/110619tslgnml1m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/180301cymn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/180301cymn1.jpg
     caption: Mating? Cyrene Reef, Mar 18 Photo shared by Marcus Ng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/141107smkelks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/141107smkelks1m3.jpg
     caption: Pulau Semakau East, Nov 14 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/260202smkerqo1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/260202smkerqo1.jpg
     caption: Pulau Semakau East, Feb 26 Photo shared by Rui Quan Oh on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/091107smkjk.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/091107smkjk.jpg
     caption: Pulau Semakau, Nov 09 Photo shared by James Koh on flickr .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/180615trygt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/180615trygt1.jpg
     caption: Terumbu Raya, Jun 18 Photo shared by Gina Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/110322tryrl1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/110322tryrl1m3.jpg
     caption: Terumbu Raya, Mar 11 Photo shared by Russel Low on facebook .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/100403tbblks9m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/100403tbblks9m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/100617tbtch5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/100617tbtch5m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/110517tptlt5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/110517tptlt5m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/100629tpdjk5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/100629tpdjk5m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/110423tpllks10m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/110423tpllks10m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/091231biolks8m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/091231biolks8m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/220102biotch7.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/220102biotch7.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/091205sudlks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/091205sudlks5m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/100130brklks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/100130brklks5m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/100131slulks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/100131slulks3m3.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery16:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/210428slutch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/210428slutch2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/100613snglks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/100613snglks3m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery17:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/220201brklks14.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/220201brklks14.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/100530pbklks2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/100530pbklks2m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 
@@ -261,8 +261,7 @@ This distinctive elegantly-spotted nudibranch is regularly encountered on many o
 **What does it eat?**
 It is said to eat a
 [blue sponge](../../../porifera/bluejorunna)
-(
-*Neopetrosia*
+(*Neopetrosia*
 sp.). Indeed, on Pulau Sekudu, we have seen large Polka-dot jorunna nudibranchs near these sponges, sometimes in pairs, and sometimes appearing to have just having laid a ribbon-like egg mass. Elsewhere, we have also seen these nudibranchs near blue sponges.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

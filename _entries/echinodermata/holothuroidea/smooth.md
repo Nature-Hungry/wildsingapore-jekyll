@@ -1,6 +1,6 @@
 ---
 title: Smooth sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth sea cucumber on the shores of Singapore
 keywords: cucumber, seacucumber, acaudina, caudinidae, holothuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -26,38 +26,38 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Molpadida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/070717chgg1617m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/070717chgg1617m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/070717chgg1617m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/070717chgg1617m3.jpg
     caption: Changi, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/070717chgg1617m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/070717chgg1617m3a.jpg
     caption: Feeding tentacles short and stubby
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/120510chgd2808m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/120510chgd2808m3.jpg
     caption: . Buried in the sand. Changi, May 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/210531chg6jt5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/210531chg6jt5.jpg
     caption: Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/251012chgal8.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/251012chgal8.jpg
     caption: Changi, Oct 25 Photo shared by Adriane Lee on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/240625bbtch2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/240625bbtch2.jpg
     caption: Beting Bronok, Jun 24 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/240706ubnrk1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/240706ubnrk1.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/171206ubnlks3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/171206ubnlks3.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/180812nsrtlks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/180812nsrtlks2.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/221226ecpgccn1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/221226ecpgccn1.jpg
     caption: East Coast (G), Dec 2022 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/210115mevc8.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/210115mevc8.jpg
     caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/smooth/110220lazlks8m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/110220lazlks8m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 

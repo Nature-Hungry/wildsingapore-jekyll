@@ -1,6 +1,6 @@
 ---
 title: Ketapang pasir
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ketapang pasir on the shores of Singapore
 keywords: guettarda, speciosa, rubiaceae, plant, tree, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,7 +22,7 @@ order: Gentianales
 subfamily: Cinchonoideae
 tribe: Guettardeae
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg
 links_references: '**Links**
 
   - [*Guettarda speciosa*](http://floraofsingapore.wordpress.com/2010/04/26/guettarda-speciosa/)on
@@ -65,18 +65,18 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9080m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9080m3.jpg
     caption: Pulau Semakau, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9077m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9077m3a.jpg
     caption: Pulau Semakau, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9077m3d.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9077m3d.jpg
     caption: Pulau Semakau, Apr 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9090m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9090m3.jpg
     caption: Pulau Semakau, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9081m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9081m3.jpg
     caption: Pulau Semakau, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090412hntd9865m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090412hntd9865m3.jpg
     caption: Pulau Hantu, Apr 09
 size:
 - 400.0
@@ -101,9 +101,7 @@ A spreading shrub or tall tree (4-22m). Bark is smooth and grey-brown.
 
 Leaves resemble those of the
 [Sea almond](../terminalia/catappa)
-(
-*Terminalia catappa*
-). The leaves are large (10-25cm long) oval with hairs on both sides or only below. The leaves are arranged opposite one another.
+(*Terminalia catappa*). The leaves are large (10-25cm long) oval with hairs on both sides or only below. The leaves are arranged opposite one another.
 
 Flowers small (1-3cm) white tubular appearing in clusters on long stalks (6-9 cm) from leaf axils. Corners describes them as "typical moth flowers" being white, with a long corolla tube and fragrant. They open an hour after sunset and fall off the following morning. The tree flowers throughout the year.
 
@@ -112,9 +110,7 @@ Fruits small and round (2-3cm), green and smooth at first, turning whitish or pi
 **Sometimes mistaken for**
 the
 [Sea almond](../terminalia/catappa)
-or Ketapang (
-*Terminalia catappa*
-). Thus one of its Malay names is 'Ketapang pasir' which means 'Sea almond of the shore'. Here's more on
+or Ketapang (*Terminalia catappa*). Thus one of its Malay names is 'Ketapang pasir' which means 'Sea almond of the shore'. Here's more on
 [how to tell apart Sea almond and other similar trees on the shores](../cfketapang)
 .
 
@@ -125,10 +121,10 @@ According to Giesen, the bark is used to treat dysentery as well as applied to w
 **Status and threats:**
 This tree is listed as 'Endangered' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg)
 
 *Pulau Semakau, Apr 09*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/guettarda/speciosa/090405smkd9085m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9085m3.jpg)
 
 *Pulau Semakau, Apr 09*
 

@@ -1,6 +1,6 @@
 ---
 title: 'Pinang palm '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pinang palm  on the shores of Singapore
 keywords: betel, nut, betelnut, areca, catechu, aracaceae, palmae, palm, plant, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -26,7 +26,7 @@ tribe: Areceae
 subtribe: Arecinae
 inat_id: 83108
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
 links_references: '**Links**
 
   - [*Areca catechu*](http://floraofsingapore.wordpress.com/2010/07/15/areca-catechu/)on
@@ -48,16 +48,16 @@ links_references: '**Links**
   White Lotus. 136 pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg
     caption: Flowers.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2244m3c.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/areca/catechu/091005cjd2244m3c.jpg
     caption: Fruits.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2246m6l.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/areca/catechu/091005cjd2246m6l.jpg
     caption: Chek Jawa, Oct 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2247m3a.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/areca/catechu/091005cjd2247m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg
     caption: Chek Jawa, Oct 09
 size:
 - 1000.0
@@ -78,7 +78,7 @@ A tall elegant palm (to 10m). Leaves rather short with stiff leaflets. Tiny pale
 
 The sliced seeds (endosperm) are chewed, sometimes together with other leaves such as from the pepper plant or gambier as a mild stimulant. Burkill has a long explanation of the palm's history and traditional preparation. All parts of the palm is put to use. The trunks as flooring, the fallen flower spathes as rough buckets, a hat or to line carrying baskets. Besides medicinal uses, various parts of the plant, from fruit to flowers are also used in spiritual ceremonies. According to Wee, the dried ripe seeds are used by the Chinese to expel tapeworms and roundworms, to treat diabetes, indigestion, lumbago and urinary problems. The Malays use the leaves in a treatment for diarrhoea in children.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg)
+![](https://images.naturehungry.sg/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg)
 
 *Chek Jawa, Oct 09*
 

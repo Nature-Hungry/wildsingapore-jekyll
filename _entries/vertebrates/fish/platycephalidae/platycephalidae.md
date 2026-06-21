@@ -1,6 +1,6 @@
 ---
 title: Flatheads
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flatheads on the shores of Singapore
 keywords: flathead, flat, head, fish, platycephalidae, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,31 +18,30 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
     caption: East Coast, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/nematophthalmus/070614chgg0248m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/nematophthalmus/070614chgg0248m6l.jpg
     caption: Changi, Jun 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3e.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3e.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3d.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3d.jpg
     caption: ''
 links_references: '**Links**
 
   - [Bartail Flathead (
-
   *Platycephalus indicus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259)
@@ -50,7 +49,6 @@ links_references: '**Links**
   and
 
   [Fringe-eyed Flathead (
-
   *Cymbacephalus nematophthalmus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/260)
@@ -205,9 +203,7 @@ Flatheads eat small fishes, octopus and cuttlefish, crustaceans and other animal
 
 ## Human uses
 
-Some large species of flatheads are considered good eating. They are caught by seining and trawling. The Bartail flathead (
-*Platycephalus indicus*
-) is commercially cultured in Japan for the table and is also used in Chinese traditional medicine.
+Some large species of flatheads are considered good eating. They are caught by seining and trawling. The Bartail flathead (*Platycephalus indicus*) is commercially cultured in Japan for the table and is also used in Chinese traditional medicine.
 
 ---
 

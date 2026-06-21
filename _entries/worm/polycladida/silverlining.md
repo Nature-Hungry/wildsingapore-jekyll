@@ -1,6 +1,6 @@
 ---
 title: Silver-lining  flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Silver-lining  flatworm on the shores of Singapore
 keywords: flat, worm, flatworm, pseudoceros, prudhoei, polyclad, turbellaria, platyhelminthes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -10,24 +10,24 @@ genus: Pseudoceros
 species: cf.
 attributes: []
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/121215sislks3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/silverlining/121215sislks3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/121215sislks3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/silverlining/121215sislks3.jpg
     caption: Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/100103sislk2m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/silverlining/100103sislk2m3.jpg
     caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on his blog .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/120501sntloks.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/silverlining/120501sntloks.jpg
     caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/070902sjilks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/silverlining/070902sjilks1m3.JPG
     caption: St John's Island , Sep 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/200918cyrjll4.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/silverlining/200918cyrjll4.jpg
     caption: Cyrene, Sep 20 Photo shared by Jianlin Liu on facbook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/181223tplsg1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/silverlining/181223tplsg1.jpg
     caption: Terumbu Pempang Laut, Dec 18 Photo shared by Shawne Goh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/silverlining/181124bbbjll3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/silverlining/181124bbbjll3.jpg
     caption: Beting Bemban Besar, Nov 18 Photo shared by Jianlin Liu on facebook .
 location:
 - snt

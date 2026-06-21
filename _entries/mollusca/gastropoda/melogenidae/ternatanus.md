@@ -1,6 +1,6 @@
 ---
 title: Ternate false fusus
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ternate false fusus on the shores of Singapore
 keywords: hemifusus, ternatanus, melongenidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -26,14 +26,14 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
     caption: Upper side of living snail . Changi, Aug 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3a.jpg
     caption: Fine hairs on the shell of a living snail shell.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3b.jpg
     caption: The animal's body is pale with black speckles..
 location:
 - chg

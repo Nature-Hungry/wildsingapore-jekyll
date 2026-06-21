@@ -1,6 +1,6 @@
 ---
 title: Mactra clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mactra clams on the shores of Singapore
 keywords: surf, clam, mactra, mactridae, mollusc, bivalvia, snail, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,14 +21,14 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Mactroidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
     caption: Changi, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg
     caption: Pulau Sekudu, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mactridae/bigbrown/120508skdd1783m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mactridae/bigbrown/120508skdd1783m3.jpg
     caption: ''
 links_references: '**Links**
 

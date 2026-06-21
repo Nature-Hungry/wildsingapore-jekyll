@@ -1,6 +1,6 @@
 ---
 title: Red reef ribbon worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red reef ribbon worm on the shores of Singapore
 keywords: red, ribbon, worm, ribbonworm, hoplonemertea, nemertine, nemertean, nemertines,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -13,37 +13,37 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/060212sisg4839m3.jpg
+coverimg: https://images.naturehungry.sg/worm/nemertea/redreef/060212sisg4839m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/060212sisg4839m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/060212sisg4839m3.jpg
     caption: Sisters Islands, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/050111labd9614m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/050111labd9614m3.jpg
     caption: Labrador, Jan 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/111126bblks1.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/111126bblks1.jpg
     caption: Beting Bronok, Nov 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/230803skdky4.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/230803skdky4.jpg
     caption: Pulau Sekudu, Aug 23 From video shared by Kelvin Yong on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/200112sjill1.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/200112sjill1.jpg
     caption: St. John's Island, Jan 20 Photo shared by Liz Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/220303tkkvc4.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/220303tkkvc4.jpg
     caption: Pulau Tekukor, Mar 22 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/240528tslvc2.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/240528tslvc2.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/210403cyrvc4.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/210403cyrvc4.jpg
     caption: Cyrene, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/130809smkhpy1m.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/130809smkhpy1m.jpg
     caption: Pulau Semakau, Aug 13 Photo shared by Heng Pei Yan on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/181128tptgt3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/181128tptgt3.jpg
     caption: Terumbu Pempang Tengah, Nov 18 Photo shared by Gina Tan on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/181124bbbjt.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/181124bbbjt.jpg
     caption: Beting Bemban Besar, Nov 18 Photo shared by Juria Toramae on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/251008bbbyls4.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/251008bbbyls4.jpg
     caption: Beting Benban Besar, Oct 25 Photo shared by Yan Le Su on facebook .
 location:
 - skd

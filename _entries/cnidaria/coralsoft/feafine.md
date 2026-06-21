@@ -1,6 +1,6 @@
 ---
 title: Fine feathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fine feathery soft coral on the shores of Singapore
 keywords: alcyonacea, soft, coral, octocoral, cnidaria, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -9,38 +9,38 @@ genus: Briareum
 species: excavatum
 attributes: []
 updated: Aug 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
     caption: Sisters Island, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/120124sisd5839m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/120124sisd5839m3a.jpg
     caption: Polyps emerge from calyces.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/060625bbd3321m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/060625bbd3321m3.jpg
     caption: Beting Bronok, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/070518tkrg9410m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/070518tkrg9410m3.jpg
     caption: Pulau Tekukor, May 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/040919sntd7035m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/040919sntd7035m3.jpg
     caption: Encrusting a discarded bottle. Sentosa, Sep 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/200822jngjc1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/200822jngjc1.jpg
     caption: Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/091204pawd5228m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/091204pawd5228m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/091204pawd5228m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/091204pawd5228m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/100613sngd5427m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/100613sngd5427m3b.jpg
     caption: Pulau Senang. Jun 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/110619tslgd4396m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/110619tslgd4396m3.jpg
     caption: Terumbu Selegie, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/110619tslgd4398m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/110619tslgd4398m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feafine/220201brktch3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/220201brktch3.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Toh Chay Hoon on facebook .
 links_references: '**Links**
 

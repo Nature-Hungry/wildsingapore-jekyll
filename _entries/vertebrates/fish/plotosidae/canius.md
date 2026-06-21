@@ -1,6 +1,6 @@
 ---
 title: Black eeltail catfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black eeltail catfish on the shores of Singapore
 keywords: black, catfish, cat, fish, siluriformes, plotosidae, plotosus, canius, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,57 +24,56 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
     caption: '''Whiskers'' (barbels) at the top of the snout can extend past the eyes
       .'
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/050818cftg1436m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/050818cftg1436m6l.jpg
     caption: Changi, Aug 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/080408chgd0604m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/080408chgd0604m6l.jpg
     caption: Body may not be black, but tip of dorsal fin always black. Changi, Apr
       08
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/180910chg4dc3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/180910chg4dc3.jpg
     caption: Changi, Sep 18 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/090918tmjk3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/090918tmjk3m3.jpg
     caption: Tanah Merah, Sep 09 Photo shared by James Koh on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/251108ecpbky10.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/251108ecpbky10.jpg
     caption: East Coast (B), Nov 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/180812nsrtch6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/180812nsrtch6.jpg
     caption: East Coast Park, Aug 19 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/200819ecptch3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/200819ecptch3.jpg
     caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/170822lablks4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/170822lablks4.jpg
     caption: Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/141109lazlks9m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/141109lazlks9m3.jpg
     caption: Seringat-Kias, Dec 14 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/090921sjinml1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/090921sjinml1m3.jpg
     caption: St. John's Island, Sep 09 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/101224sisjk1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/101224sisjk1m3.jpg
     caption: Sisters Island, Dec 10 Photo shared by James Koh on his blog .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/250713trytl3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/250713trytl3.jpg
     caption: Terumbu Raya, Jul 25 Photo shared by Tammy Lim on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/190608bbbjll6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/190608bbbjll6.jpg
     caption: Beting Bemban Besar, Jun 19 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/110830cyrlks6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/110830cyrlks6m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by Lok Kok Sheng on his blog .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/plotosidae/canius/110517tptlks24m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/110517tptlks24m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
 links_references: '**Links**
 
   - [Black eel-catfish (
-
   *Plotosus canius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/236)
@@ -86,7 +85,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Black eeltail catfish (
-
   *Plotosus canius*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225)
@@ -98,7 +96,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp. online version of
 
   - [Gray eel-catfish (
-
   *Plotosus canius*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=8167)

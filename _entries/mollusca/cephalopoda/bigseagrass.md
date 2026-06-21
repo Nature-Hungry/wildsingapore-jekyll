@@ -1,6 +1,6 @@
 ---
 title: Big-head seagrass octopus
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Big-head seagrass octopus on the shores of Singapore
 keywords: octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,47 +23,47 @@ order: Octopoda
 suborder: Incirrata
 superfamily: Octopodoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080703chgd6684.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080703chgd6684.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080703chgd6684.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080703chgd6684.jpg
     caption: Smooth head large relative to its arms. Changi, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/140812chg4d8546.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/140812chg4d8546.jpg
     caption: Sometimes with small bumps on the head. Changi, Aug 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg
     caption: '''Walking'' with its head above the ground. Changi, May 09'
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg
     caption: Hiding in a dead Noble volute shell. Changi, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/180713chg.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/180713chg.jpg
     caption: Hiding in a dead clam shell Changi, Jul 18
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/120705chgd7104.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/120705chgd7104.jpg
     caption: Hiding in a broken glass bottle Changi, Jun 13
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
     caption: Changi, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
     caption: Carrying eggs?
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
     caption: ''
   gallery4:
   - url: https://live.staticflickr.com/1827/29503362278_03dc6669e4_z.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/150519chg1mn1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/150519chg1mn1m3.jpg
     caption: Changi, May 15 Photo shares by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/150519chg1mn1m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/150519chg1mn1m3a.jpg
     caption: With eggs inside an empty shell.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/220616chgedc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/220616chgedc1.jpg
     caption: With eggs inside an empty shell. Changi Lost Coast, Jun 22 Photo shares
       by Dayna Cheah on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/140615bbmn1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/140615bbmn1m3.jpg
     caption: Beting Bronok, Jun 14 Photo shares by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/210530ecpglks5.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/210530ecpglks5.jpg
     caption: East Coast Park, May 21 Photo shares by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/201116lazvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/201116lazvc2.jpg
     caption: Lazarus Island, Nov 20 Photo shares by Vincent Choo on facebook .
 location:
 - chg

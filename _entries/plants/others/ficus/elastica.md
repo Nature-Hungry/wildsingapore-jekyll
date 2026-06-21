@@ -1,6 +1,6 @@
 ---
 title: 'India-rubber tree '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of India-rubber tree  on the shores of Singapore
 keywords: india, rubber, fig, ficus, elastica, moraceae, tree, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -22,14 +22,14 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Mar 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5067m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/ficus/elastica/091203ubnd5067m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5014m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/elastica/091203ubnd5014m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5012m3a.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/elastica/091203ubnd5012m3a.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5012m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/elastica/091203ubnd5012m3.jpg
     caption: Pulau Ubin, Dec 09
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -72,7 +72,7 @@ According to Corners, before the introduction of
 . The Indians apparently had been using latex from the tree to line their containers, e.g., to contain honey or to bail out water. When the Europeans discovered
 the latex, thousands of India-rubber trees were planted in Malaysia in an effort to produce the latex in commercial quantities.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/elastica/091203ubnd5067m6l.jpg)
+![](https://images.naturehungry.sg/plants/others/ficus/elastica/091203ubnd5067m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

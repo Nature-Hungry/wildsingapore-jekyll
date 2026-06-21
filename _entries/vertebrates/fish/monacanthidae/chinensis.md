@@ -1,6 +1,6 @@
 ---
 title: Fan-bellied filefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fan-bellied filefish on the shores of Singapore
 keywords: fan, bellied, filefish, file, fish, leather, jacket, monacanthus, chinensis,
   monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -24,63 +24,62 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg
     caption: Often with pattern of broad diagonal bars. Chek Jawa, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/110519chgd2112m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/110519chgd2112m3.jpg
     caption: Tiny ones may resemble seagrass blades! Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/070702chgg0933m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/070702chgg0933m3.jpg
     caption: Looks like seagrass! Changi, Jul 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/010918cjcpd0192m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/010918cjcpd0192m3.jpg
     caption: Large adults with filament on upper fin ray of the tail.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/010918cjcpd0192.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/010918cjcpd0192.jpg
     caption: Filament on upper fin ray of the tail. Chek Jawa, Sep 01
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/050526cjg6861m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/050526cjg6861m3.jpg
     caption: Some resemble coral rubble. Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/050721cjd5130m4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/050721cjd5130m4.jpg
     caption: Three filefishes, head down among seaweeds. Chek Jawa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg
     caption: Wrapped closely around a sponge. Chek Jawa, May 04
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/220811pglky1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/220811pglky1.jpg
     caption: Punggol, Aug 22 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/200722lygdc2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/200722lygdc2.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/210528chg7lks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/210528chg7lks5.jpg
     caption: Changi Carpark 7, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/251107tmftlks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/251107tmftlks5.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/240707pcnrk1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/240707pcnrk1.jpg
     caption: East Coast Park (PCN), Jul 24 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/251108ecpblks16.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/251108ecpblks16.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/151001blylks9m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/151001blylks9m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/150706srpjt3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/150706srpjt3m3.jpg
     caption: Sentosa Serapong, Jul 15 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/250909lazlvo1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/250909lazlvo1.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Lon Von Ong on
       facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/160723smkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/160723smkmn.jpg
     caption: Pulau Semakau, Jul 16 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/130428tsmklks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/130428tsmklks.JPG
     caption: Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/chinensis/140811trylks3m3.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/140811trylks3m3.JPG
     caption: Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 
   - [Fan-bellied Filefish (
-
   *Monacanthus chinensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/394)
@@ -102,7 +101,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Fan-bellied leatherjacket (
-
   *Monacanthus chinensis*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7976)

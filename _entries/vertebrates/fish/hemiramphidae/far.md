@@ -1,6 +1,6 @@
 ---
 title: Black-barred     halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-barred     halfbeak on the shores of Singapore
 keywords: black, barred, halfbeak, half, beak, hemiramphus, far, hemiramphidae, fish,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,26 +23,25 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg
     caption: Sultan Shoal, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/091206tmd5674m6la.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/far/091206tmd5674m6la.jpg
     caption: Tanah Merah, Dec 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/241116smkslks3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/far/241116smkslks3a.jpg
     caption: Pulau Semakau (South), Nov 24
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/241116smkslks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/far/241116smkslks3.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/251008bbblvo6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/far/251008bbblvo6.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Lon Voon Ong on facebook
       .
 links_references: '**Links**
 
   - [Black-barred Halfbeak (
-
   *Hemiramphus far*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/238)
@@ -54,7 +53,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Black-barred Halfbeak (
-
   *Hemiramphus far*
 
   )](http://fishbase.org.cn/Summary/SpeciesSummary.php?ID=5404&AT=Talos)

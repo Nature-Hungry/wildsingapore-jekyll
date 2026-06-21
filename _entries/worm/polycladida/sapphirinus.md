@@ -1,6 +1,6 @@
 ---
 title: Sapphire flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sapphire flatworm on the shores of Singapore
 keywords: sapphire, flat, worm, flatworm, pseudoceros, caeruleocinctus, sapphirinus,
   polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -17,14 +17,14 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/sapphirinus/050411tusg4484m3.jpg
     caption: Tuas, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/sapphirinus/050411tusg4482m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/sapphirinus/050411tusg4482m3a.jpg
     caption: Pseudotentacles made up of folded edges of body margin.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/sapphirinus/200310lazvc1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/sapphirinus/200310lazvc1.jpg
     caption: Lazarus, Mar 20 Photo shared by VIncent Choo on facebook .
 links_references: "**Links**\n- [*Pseudoceros sapphirinus*](http://polycladida.lifedesks.org/pages/3132)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\

@@ -1,6 +1,6 @@
 ---
 title: Bazillion snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bazillion snail on the shores of Singapore
 keywords: zoned, horn, snail, shell, batillaria, zonalis, batillariidae, potamididae,
   gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -24,34 +24,33 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg
     caption: Sisters Islands, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3b.jpg
     caption: Upturned siphonal canal near the opening
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3a.jpg
     caption: Circular operculum made of horn-like material.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/091218tmd5967m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/091218tmd5967m6l.jpg
     caption: Sometimes forming bands of many individuals. Tanah Merah, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/110506tmfts01598.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/110506tmfts01598.jpg
     caption: Can cover large areas densely. Tanah Merah, May 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/090606tmftd3319m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/090606tmftd3319m3.jpg
     caption: Seen floating on the water surface. Tanah Merah, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3.jpg
     caption: Tanah Merah, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3a.jpg
     caption: A look at the living animal.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/batillariidae/zonalis/201116lazmn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/201116lazmn2.jpg
     caption: Seringat-Kias, Nov 20 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 
   - [Creeper Shell (
-
   *Batillaria zonalis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/138)

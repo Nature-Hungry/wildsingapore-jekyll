@@ -1,6 +1,6 @@
 ---
 title: Poisonous sea bean
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Poisonous sea bean on the shores of Singapore
 keywords: canavalia, cathartica, fabaceae, leguminosae, creeper, plant, bush, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,14 +23,14 @@ subfamily: Faboideae
 tribe: Diocleae
 inat_id: 159808
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/090124ubnd6076m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/canavalia/cathartica/090124ubnd6076m3.jpg
     caption: Pulau Ubin, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/100109prpd7712m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/canavalia/cathartica/100109prpd7712m3.jpg
     caption: Pasir Ris Park, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg
     caption: Pasir Ris Park, Oct 09
 links_references: '**Links**
 
@@ -76,11 +76,9 @@ A twinning climber. Compound leaf made up of three leaflets eye-shaped (4-9cm) t
 
 According to Butterfly Circle, this plant is one of the host plants for the caterpillar of the
 [Common Sailor](http://butterflycircle.blogspot.sg/2010/07/life-history-of-common-sailor.html)
-(
-*Neptis hylas papaja*
-).
+(*Neptis hylas papaja*).
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg)
 
 *Pulau Ubin, Jan 09*
 

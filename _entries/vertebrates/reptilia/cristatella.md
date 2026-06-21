@@ -1,6 +1,6 @@
 ---
 title: 'Green crested lizard '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Green crested lizard  on the shores of Singapore
 keywords: green, crested, lizard, bronchocela, cristatella, agamidae, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,12 +21,12 @@ infraorder: Iguania
 parvorder: Acrodonta
 subfamily: Draconinae
 updated: Dex 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
     caption: Bukit Timah Nature Reserve, Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/cristatella/031004lptd0049m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/cristatella/031004lptd0049m6l.jpg
     caption: Lower Peirce Trail, Oct 03
 links_references: '**Links**
 
@@ -97,9 +97,7 @@ Mama lizard lays 1-4 large, spindle-shaped eggs which are buried in the soil.
 **Status and threats:**
 It is not listed among our threatened animals. But it is no longer as commonly seen as in the past. It has been displaced by the more aggressive
 [Changeable lizard](versicolor)
-(
-*Calotes versicolor*
-).
+(*Calotes versicolor*).
 
 ---
 

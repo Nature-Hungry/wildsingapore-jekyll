@@ -1,6 +1,6 @@
 ---
 title: Meretrix venus clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Meretrix venus clam on the shores of Singapore
 keywords: venus, shell, clam, meretrix, veneridae, bivalve, mollusc, clam, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -22,10 +22,10 @@ order: Venerida
 superfamily: Veneroidea
 subfamily: Meretricinae
 updated: Nov 11
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/meretrix/050512tmg6406m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/meretrix/050512tmg6406m3.jpg
     caption: ''
 links_references: '**Links**
 
@@ -65,7 +65,7 @@ Elsewhere, they are found on intertidal shores with sand and mud.
 
 About 4-6cm. Shell thick rather smooth.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg)
+*![](https://images.naturehungry.sg/mollusca/bivalvia/veneridae/meretrix/050512tmg6405m3.jpg)
 
 Tanah Merah, May 05*
 

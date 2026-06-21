@@ -1,6 +1,6 @@
 ---
 title: Ringed plate coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ringed plate coral on the shores of Singapore
 keywords: serpent, pachyseris, speciosa, agariciidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,53 +17,53 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
     caption: Tiers of plates. Pulau Semakau, Aug 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg
     caption: Thick ridges form concentric rings
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3b.jpg
     caption: . Fine lines perpendicular to thick ridges.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/2007024pcnlks15.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/2007024pcnlks15.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/100615tmjk1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/100615tmjk1m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/150618tmftlks9m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/150618tmftlks9m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11a.jpg
     caption: Competing with a Disk coral .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/250714srptl6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/250714srptl6.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/160409sjilks6.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/160409sjilks6.JPG
     caption: St Johns Island, Apr 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/120721tptlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/120721tptlks.JPG
     caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/070812sisd5434m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/070812sisd5434m3.jpg
     caption: Sisters Island, Aug 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/100530tbkd4370m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/100530tbkd4370m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/080605hntd4926m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/080605hntd4926m3.jpg
     caption: Pulau Hantu, Jun 08
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/100518tbbc3762m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/100518tbbc3762m3.jpg
     caption: Beting Bemban Besar, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/090625bsrd5253m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/090625bsrd5253m3.jpg
     caption: Beting Bemban Besar, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/090723tryd7860m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/090723tryd7860m3.jpg
     caption: Terumbu Raya, Jul 09
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/210428slulks11.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/210428slulks11.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

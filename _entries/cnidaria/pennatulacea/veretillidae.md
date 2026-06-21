@@ -1,6 +1,6 @@
 ---
 title: Flowery sea pen
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flowery sea pen on the shores of Singapore
 keywords: flowery, pen, seapen, veretilllidae, pennatulacea, anthozoa, cnidaria, pteroides,
   cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,45 +18,45 @@ subclass: Octocorallia
 order: Scleralcyonacea
 superfamily: Pennatuloidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg
     caption: Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3a.jpg
     caption: Autzooids with long columns and eight branched tentacles.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/210621bb.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/210621bb.jpg
     caption: '''Uprooted'' flowery sea pen showing ''foot'' that is usually buried,
       and stiff internal ''bone''. Beting Bronok, Jun 21'
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/201020prp.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/201020prp.jpg
     caption: May look like a 'sausage'. Pasir Ris Park, Oct 20
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m3.jpg
     caption: A nudibranch that eats sea pens is lurking near this one. Changi, Aug
       14
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg
     caption: Commensal shrimp on the sea pen. All that can often be seen are a pair
       of eyes! Changi, May 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/190422cnyrk6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/190422cnyrk6.jpg
     caption: Coney Island, Apr 19 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/201019cnyrk3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/201019cnyrk3.jpg
     caption: Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/090823cjlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/090823cjlks.JPG
     caption: Chek Jawa, Aug 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/091203ubnjk7m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/091203ubnjk7m3.jpg
     caption: An uprooted sea pen with flowery secondary polyps retracted. Pulau Ubin,
       Dec 09 Photo shared by James Koh on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/090526bbd2536m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/090526bbd2536m3.jpg
     caption: Beting Bronok, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3.jpg
     caption: Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/veretillidae/100516skdd2640m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/100516skdd2640m3.jpg
     caption: Pulau Sekudu, May 10
 links_references: '**Links**
 

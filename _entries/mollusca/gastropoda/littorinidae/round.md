@@ -1,6 +1,6 @@
 ---
 title: Round periwinkle snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Round periwinkle snail on the shores of Singapore
 keywords: round, periwinkle, echinolittorina, nodilittorina, littorinidae, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -25,14 +25,14 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
     caption: Sentosa, Oct 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/round/060613ecpd3116m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/round/060613ecpd3116m3.jpg
     caption: East Coast Park, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/round/060613ecpd3115m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/round/060613ecpd3115m3.jpg
     caption: East Coast Park, Jun 06
 location:
 - chg

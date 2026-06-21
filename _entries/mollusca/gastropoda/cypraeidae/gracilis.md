@@ -1,6 +1,6 @@
 ---
 title: 'Graceful cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Graceful cowrie  on the shores of Singapore
 keywords: graceful, cowrie, cypraeidae, purpuradusta, cypraea, gracilis, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -27,27 +27,27 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg
     caption: Pulau Sekudu, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9936m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9936m6l.jpg
     caption: Pulau Sekudu, Aug 13
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/140614cjlks3.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/140614cjlks3.JPG
     caption: Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/091206ubnjk.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/091206ubnjk.JPG
     caption: Pulau Ubin, Dec 09 Photo shared by James Koh on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/140419chglks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/140419chglks2.JPG
     caption: Changi, Jan 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/140812chglks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/140812chglks1.JPG
     caption: Changi, Aug 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/140613skdlks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/140613skdlks1.JPG
     caption: Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/210628ecpBvc6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/210628ecpBvc6.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

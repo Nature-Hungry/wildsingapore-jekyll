@@ -1,6 +1,6 @@
 ---
 title: 'Figs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Figs  on the shores of Singapore
 keywords: fig, ficus, moraceae, tree, plant, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,21 +17,21 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Mar 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091227kntd6471m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/microcarpa/091227kntd6471m3.jpg
     caption: Figs of the Jejawi
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg
     caption: Small opening in a fig.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg
     caption: Flowers inside the hollow of a fig.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9907m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/microcarpa/100314cjd9907m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9925m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/microcarpa/100314cjd9925m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
     caption: Chek Jawa, Mar 10
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -80,16 +80,14 @@ Figs play a critical role in many habitats. While other trees in the forest ofte
 
 ## Human uses
 
-Some figs are important culturally. For example, Buddha is believed to have gained enlightenment under the Bodhi tree (
-*Ficus religiosa*
-). Enormous fig trees in Asia often become stuff of legend and are treated with respect. Figs also provide food and medicine.
+Some figs are important culturally. For example, Buddha is believed to have gained enlightenment under the Bodhi tree (*Ficus religiosa*). Enormous fig trees in Asia often become stuff of legend and are treated with respect. Figs also provide food and medicine.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg)
+![](https://images.naturehungry.sg/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg)
 
 The tall Jejawi fig next to Jejawi Tower.
 *Chek Jawa, Oct 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)*
+![](https://images.naturehungry.sg/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)*
 The rare
 [Collared fig](crassiramea)
 .

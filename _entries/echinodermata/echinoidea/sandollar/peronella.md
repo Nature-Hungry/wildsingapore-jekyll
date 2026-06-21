@@ -1,6 +1,6 @@
 ---
 title: Pink sand dollar
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink sand dollar on the shores of Singapore
 keywords: pink, sand, dollar, peronella, lesueuri, laganidae, echinoidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -28,28 +28,28 @@ order: Echinolampadacea
 suborder: Scutelloida
 infraorder: Laganiformes
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3.jpg
     caption: Upperside Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3.jpg
     caption: Underside. Changi, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/110705chgd5812m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/110705chgd5812m3.jpg
     caption: 'Side view: slightly raised centre on upperside. Changi, Jul 11'
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/110520chgd2399m3a.jpg
     caption: Petalloid.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/110705chgd5814m3b.jpg
     caption: Mouth on the underside
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/120510chgd2904m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/120510chgd2904m3.jpg
     caption: Often half buried in sand. Changi, May 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/090426skdtch05m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/090426skdtch05m3.jpg
     caption: Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/100908chgnml3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/100908chgnml3m3.jpg
     caption: Changi, Sep 10 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/peronella/230605chg7lks1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/230605chg7lks1.jpg
     caption: Changi, Sep 10 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

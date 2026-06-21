@@ -1,6 +1,6 @@
 ---
 title: 'Halymenia red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Halymenia red seaweed  on the shores of Singapore
 keywords: halymenia, red, seaweed, weed, algae, halymeniaceae, halymeniales, rhodophyceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -21,47 +21,47 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Halymeniales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/050311labg3239m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/050311labg3239m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/080422smkd1482m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/080422smkd1482m3.jpg
     caption: Pulau Semakau, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/050311labg3243m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/050311labg3243m3.jpg
     caption: Labrador, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/080510smkd3022m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/080510smkd3022m3.jpg
     caption: Pulau Semakau, May 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/maculata/070415sisg8603m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/maculata/070415sisg8603m3.jpg
     caption: Frilly halymenia
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
     caption: Ruffled halymenia
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/210502tptvc14.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/210502tptvc14.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/091231biod7087m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091231biod7087m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/091231biod7081m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091231biod7081m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/100601slud4713m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100601slud4713m3.jpg
     caption: Pulau Salu, Jun 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/091204pawd0057m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091204pawd0057m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/091204pawd5261m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091204pawd5261m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/091231biod7031m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/091231biod7031m3.jpg
     caption: Pulau Biola, Dec 09
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/100130brkd8616m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100130brkd8616m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/100130brkd8646m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100130brkd8646m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/100530tbkd4275m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100530tbkd4275m3.jpg
     caption: Pulau Berkas, May 10
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/100131slud8871m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100131slud8871m3.jpg
     caption: Terumbu Salu, Jan 10
 links_references: '**Links**
 
@@ -168,13 +168,9 @@ Sometimes mistaken for red plastic bags, these traslucent slippery red seaweeds 
 
 Texture slippery. Some are flat with feathered edges. Others have branching forms with a broad flat central 'stem' from which arise finer branches. Spots and bumps on the seaweed may be reproductive structures.
 [Ruffled halymenia red seaweed](dilatata)
-(
-*Halymenia dilatata*
-) is translucent, slippery flat with ruffled edges.
+(*Halymenia dilatata*) is translucent, slippery flat with ruffled edges.
 [Frilly sheet red seaweed](maculata)
-(
-*Halymenia maculata*
-) is more leathery.
+(*Halymenia maculata*) is more leathery.
 
 Although each clump of Halymenia red seaweed can be large, these seaweeds do not 'bloom' and cover large areas like some other kinds of seaweeds.
 
@@ -192,11 +188,11 @@ and
 *H. durvillaei. H. venusta*
 is used as animal feed.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/050311labg3239m3.jpg)
+*![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/050311labg3239m3.jpg)
 
 Labrador, Mar 05
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/050311labg3239m3a.jpg)*
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/050311labg3239m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

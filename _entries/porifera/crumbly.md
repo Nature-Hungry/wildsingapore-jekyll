@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Crumbly sponge on the shores of Singapore
 keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: encrusting
@@ -16,14 +16,14 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/crumbly/130822pgld2055m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/crumbly/130822pgld2055m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/crumbly/101205blylks4.jpg
+  - url: https://images.naturehungry.sg/porifera/crumbly/101205blylks4.jpg
     caption: Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/crumbly/130822pgld2055m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/crumbly/130822pgld2055m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/crumbly/130822pgld2055m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/crumbly/130822pgld2055m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -76,14 +76,13 @@ zone:
 ## Where seen?
 This colourful sponge with a crumbly-looking texture is sometimes seen on our Northern shores. Often seen near
 [Rainbow sponges](rainbow)
-(
-*Suberites*
+(*Suberites*
 sp.)
 ## Features
 
 Encrusting to irregular boulder-shaped sponge 10-15cm, surface rough and irregular. Holes not obvious out of water. On the outside, greyish-green, blue. Those growing in shade said to be yellowish. Bright yellow on the inside.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/crumbly/130822pgld2055m3.jpg)
+![](https://images.naturehungry.sg/porifera/crumbly/130822pgld2055m3.jpg)
 
 *Punggol, Aug 13*
 

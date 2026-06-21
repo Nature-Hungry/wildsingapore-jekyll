@@ -1,6 +1,6 @@
 ---
 title: Tiny colourful fiddler crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny colourful fiddler crab on the shores of Singapore
 keywords: fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -27,22 +27,22 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg
     caption: Chek Jawa, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
     caption: Chek Jawa, Mar 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
     caption: Chek Jawa, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8668m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8668m3.jpg
     caption: Chek Jawa, Mar 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks1.jpg
     caption: Chek Jawa, Dec 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks2.jpg
     caption: Chek Jawa, Dec 20 Photo shared by Loh Kok Sheng on facebook .
 location:
 - cj

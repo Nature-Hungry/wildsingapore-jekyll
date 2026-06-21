@@ -1,6 +1,6 @@
 ---
 title: Waringin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Waringin on the shores of Singapore
 keywords: waringin, fig, ficus, benjamina, moraceae, tree, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg
 links_references: '**Links**
 
   - [*Ficus benjamina*](http://floraofsingapore.wordpress.com/2010/08/01/ficus-benjamina/)on
@@ -49,14 +49,14 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9518m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/benjamina/100221sbwrd9518m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9516m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/benjamina/100221sbwrd9516m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9522m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/benjamina/100221sbwrd9522m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9520m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/benjamina/100221sbwrd9520m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -68,7 +68,7 @@ zone:
 A commonly seen strangler in our forests, along roads and abandoned kampongs. It also grows on old buildings in cracks and crevices. It is found from India to the Solomon Islands and is commonly planted in Malaya. It is rare in forests and sometimes found on rocky coasts.
 
 **
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg)
+*![](https://images.naturehungry.sg/plants/others/ficus/benjamina/100221sbwrd9519m6l.jpg)
 
 Sungei Buloh Wetland Reserve, Feb 10*
 

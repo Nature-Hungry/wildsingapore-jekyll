@@ -1,6 +1,6 @@
 ---
 title: 'Bakau pasir '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bakau pasir  on the shores of Singapore
 keywords: bakau, rhizophora, stylosa, rhizophoraceae, tree, mangrove, mangroves, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,21 +23,20 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 196666
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg
     caption: Fruit on stalks. Fruit not so large compared to sepals. St John's Island,
       Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/130922hntd3180m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/130922hntd3180m3a.jpg
     caption: Flower with long style, more visible without petals. Pulau Hantu, Sep
       13
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/120219smkd7218m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/120219smkd7218m3b.jpg
     caption: Pulau Semakau, Feb 12
 links_references: '**Links**
 
   - [Bakau pasir (
-
   *Rhizophora stylosa*](http://mangrove.nus.edu.sg/guidebooks/text/1071)
 
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
@@ -94,9 +93,7 @@ and generally shorter (less than 30cm).
 
 **Sometimes mistaken for**
 [Bakau kurap](mucronata)
-(
-*Rhizophora mucronata*
-) which has larger leaves and longer, more pimply propagules. The two species can only be distinguished with certainty by looking at the details of the flowers.
+(*Rhizophora mucronata*) which has larger leaves and longer, more pimply propagules. The two species can only be distinguished with certainty by looking at the details of the flowers.
 *R. stylosa*
 has a longer style.
 
@@ -107,12 +104,12 @@ According to Giesen, it is used as timber, firewood and to produce charcoal. The
 **Status and threats:**
 It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore. It is threatened by habitat destruction and oil spills.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg)
 
 Looping stilt roots extending outward.
 *Pulau Semakau, May 07
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg)*
 Flowers on long branching stalks.
 *Pulau Semakau, Mar 09*
 

@@ -1,6 +1,6 @@
 ---
 title: Elegant acropora coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elegant acropora coral on the shores of Singapore
 keywords: staghorn, table, top, acropora, acroporidae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,58 +17,58 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/120409tptd8827m6l.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/120409tptd8827m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/120409tptd8827m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/120409tptd8827m6l.jpg
     caption: Sisters Island, Jan 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg
     caption: Pulau Jong, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3c.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/120124sisd5895m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/120124sisd5895m3.jpg
     caption: Sisters Island, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/080722cyrd8218m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/080722cyrd8218m3.jpg
     caption: Cyrene Reefs, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3.jpg
     caption: Pulau Semakau, Apr 08
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/090512tmlk23m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/090512tmlk23m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/220618tmftlks22.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/220618tmftlks22.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/210628ecpBlks5a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/210628ecpBlks5a.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/201116lazlks9.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/201116lazlks9.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/100613sngd5565m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/100613sngd5565m6l.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/100613sngd5566m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/100613sngd5566m3.jpg
     caption: Bleaching
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/100601slud4974m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/100601slud4974m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/100601slud4785m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/100601slud4785m3.jpg
     caption: Pulau Salu, Jun 10 Bleaching
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/100530tbkd4298m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/100530tbkd4298m3.jpg
     caption: Pulau Berkas, May 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/091204pawd5273m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/091204pawd5273m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/091231biod7071m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/091231biod7071m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/091205pawlks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/091205pawlks2m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrelegant/100131slulks7m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/100131slulks7m3.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
 location:
 - lab

@@ -1,6 +1,6 @@
 ---
 title: Codium green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Codium green seaweed on the shores of Singapore
 keywords: knobbly, codium, codiaceae, seaweed, weed, green, chlorophyta, algae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -20,46 +20,46 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg
     caption: Pulau Semakau, Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/050412tusd2442m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/050412tusd2442m3.jpg
     caption: Tuas, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/100401labd0296m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/100401labd0296m3.jpg
     caption: Labrador, Apr 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/100130brklks1m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/100130brklks1m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/091231biod7067m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/091231biod7067m3b.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/091231biod7067m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/091231biod7067m3.jpg
     caption: Pulau Biola, Dec 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/200710mevc11.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/200710mevc11.jpg
     caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/210529epcnvc10.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/210529epcnvc10.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/251208melks10.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/251208melks10.jpg
     caption: Marina East, Dec 25 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/200210blyhud2.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/200210blyhud2.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Nurulhuda Abdul Rahim on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/201215bsrpvc10.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/201215bsrpvc10.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/201019sjivc6.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/201019sjivc6.jpg
     caption: St John's Island, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/220518kusrk1.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/220518kusrk1.jpg
     caption: Kusu Island, May 22 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/210429hntvc5.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/210429hntvc5.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/codium/230510tptrk2.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/230510tptrk2.jpg
     caption: Terumbu Pempang Tengah, May 23 Photo shared by Richard Kuah on facebook
       .
 links_references: '**Links**
@@ -158,9 +158,7 @@ species.
 Lumpy blobby Codium green seaweed
 **may be confused with**
 [Puffy brown seaweed](../phaeophyta/colpomenia)
-(
-*Colpomenia sinuosa*
-) which is golden brown.
+(*Colpomenia sinuosa*) which is golden brown.
 
 ## Role in habitat
 Some

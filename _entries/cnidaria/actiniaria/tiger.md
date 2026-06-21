@@ -1,6 +1,6 @@
 ---
 title: Tiger anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiger anemone on the shores of Singapore
 keywords: macrodactyla, fautinae, tiger, anemone, anthozoa, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -28,38 +28,38 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2023
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/040701chgd1362m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/040701chgd1362m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/040701chgd1362m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/040701chgd1362m3.jpg
     caption: Changi, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/040701chgd1362m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/040701chgd1362m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/080703chgd6670m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/080703chgd6670m3.jpg
     caption: Red bumps on the body column. Changi, Jul 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/130626chg1d8518,jpg.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/130626chg1d8518,jpg.jpg
     caption: Looks like a bizarre strawberry! Changi, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/110714chgd6369m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/110714chgd6369m3.jpg
     caption: Eating a crab? Changi, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/040702chgd1517m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/040702chgd1517m6l.jpg
     caption: Attempting to swallow a sea pen! Changi, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/190604chg4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/190604chg4.jpg
     caption: Throat everted into a blob - a trap for large prey? Changi, Jun 19
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/110325cyrs08012m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/110325cyrs08012m3.jpg
     caption: Small one. Cyrene Reef, Mar 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/200627cnyrk1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/200627cnyrk1.jpg
     caption: Coney Island, Jun 20 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/171206ubnlks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/171206ubnlks2.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/240706ubnrk4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/240706ubnrk4.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/171105cjll1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/171105cjll1.jpg
     caption: Chek Jawa, Nov 17 Photo shared by Liz Lim on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/230706bbrk1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/230706bbrk1.jpg
     caption: Beting Bronok, Jul 23 Photo shared by Richard Kuah on facebook .
 location:
 - pgl

@@ -1,6 +1,6 @@
 ---
 title: All-black hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of All-black hermit crab on the shores of Singapore
 keywords: black, hermit, crab, clibanarius, diogenidae, anomura, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,21 +25,21 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
     caption: Sisters Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3d.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/120210tmftd6284m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/black/120210tmftd6284m3a.jpg
     caption: Tanah Merah, Feb 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/241210ecpcnky2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/black/241210ecpcnky2.jpg
     caption: East Coast PCN, Feb 24 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/240212sjiky1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/black/240212sjiky1.jpg
     caption: St John's Island, Feb 24 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/black/251011ssisyls8.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/black/251011ssisyls8.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook .
 location:
 - tm

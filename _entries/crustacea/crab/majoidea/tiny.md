@@ -1,6 +1,6 @@
 ---
 title: Tiny spider crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny spider crab on the shores of Singapore
 keywords: tiny, spider, crab, spider crab, majidae, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info,  photo
@@ -15,21 +15,21 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg
     caption: Beting Bronok, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/030714bbd0009m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/tiny/030714bbd0009m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/071001chgd6704m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/tiny/071001chgd6704m3.jpg
     caption: Changi, Oct 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/081216prpd3536m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/tiny/081216prpd3536m3.jpg
     caption: Pasir Ris, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg
     caption: Cyrene Reef, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/060809skdd5567m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/tiny/060809skdd5567m3.jpg
     caption: Pulau Sekudu, Aug 06
 location:
 - prp

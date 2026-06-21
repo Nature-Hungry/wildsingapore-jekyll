@@ -1,6 +1,6 @@
 ---
 title: Zig zag  oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Zig zag  oyster on the shores of Singapore
 keywords: zig, zag, oyster, osteridae, bivalve, mollusc, clam, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -10,26 +10,26 @@ genus: ''
 species: identification*
 attributes: []
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
     caption: Raffles Lighthouse, Aug 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg
     caption: Kusu Island, Jun 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/201215bsrpvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/201215bsrpvc3.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/201117labvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/201117labvc3.jpg
     caption: Lazarus, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/160625tkkis5.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/160625tkkis5.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Ian Siah on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/210812jngvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/210812jngvc3.jpg
     caption: Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/100531biod4610m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/100531biod4610m3.jpg
     caption: Pulau Biola, May 10
 location:
 - cj

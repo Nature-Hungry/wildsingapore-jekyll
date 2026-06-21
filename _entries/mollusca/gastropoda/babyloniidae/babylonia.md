@@ -1,6 +1,6 @@
 ---
 title: Spiral babylonia snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spiral babylonia snail on the shores of Singapore
 keywords: babylonia, spirata, babyloniidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,34 +17,34 @@ class: Gastropoda
 subclass: Caenogastropoda
 order: Neogastropoda
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg
     caption: Changi, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8043m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8043m3.jpg
     caption: Muscular foot with operculum.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/230704chg1rk3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/230704chg1rk3.jpg
     caption: Scavenging on something dead? Changi Carpark 1, Jul 23 Photo shared by
       Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/160125obsmn5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/160125obsmn5.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8058m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8058m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/200917sbwmn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/200917sbwmn2.jpg
     caption: Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/201020prpalks5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/201020prpalks5.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/200917prplks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/200917prplks2.jpg
     caption: Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/200705chg1mn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/200705chg1mn1.jpg
     caption: Changi, Jul 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/171206ubnlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/171206ubnlks1.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/babyloniidae/babylonia/220616chgerk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/babyloniidae/babylonia/220616chgerk1.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Richard Kuah on facebook .
 location:
 - prp

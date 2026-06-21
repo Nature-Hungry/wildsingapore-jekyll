@@ -1,6 +1,6 @@
 ---
 title: Commensal shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Commensal shrimps on the shores of Singapore
 keywords: commensal, anemone, shrimp, periclimenes, palaemonidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,21 +23,20 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
     caption: Little red-nose shrimps are also found on living hard and soft corals.
       St. John's Island, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, Aug
       05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
     caption: About 1cm, a pair seen on a Flowery sea pen . Changi, May 05
 links_references: '**Links**
 
   - [Glass Shrimp (
-
   *Periclimenes*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/180)
@@ -112,14 +111,14 @@ Unfortunately, these amazing shrimps are popular in the live aquarium trade and 
 **Status and threats:**
 Some of our commensal shrimps are listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Llike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection by hobbyists also have an impact on local populations.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg)*
+*![](https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg)*
 [Five-spot anemone shrimp](brevicarpalis)
 
 seen on carpet anemones in pairs.
 [../../../cnidaria/actiniaria/haddoni.htm](../../../cnidaria/actiniaria/haddoni)
 *Kusu Island, Jul 04*
 
-![](https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg)
+![](https://images.naturehungry.sg/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg)
 
 [Tiny carpet anemone shrimp](carpet)
 

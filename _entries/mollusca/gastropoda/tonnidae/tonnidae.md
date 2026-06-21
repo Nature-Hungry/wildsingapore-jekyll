@@ -1,6 +1,6 @@
 ---
 title: Tun shell snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tun shell snails on the shores of Singapore
 keywords: tun, tonnidae, gastropod, mollusc, snail, shell, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -25,23 +25,23 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
     caption: Possibly the Spotted tun. Changi, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/tonnidae/tonnidae/120605cjlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/120605cjlks.JPG
     caption: Empty shell. Chek Jawa, Jun 12 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/tonnidae/tonnidae/130808cyrlks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/130808cyrlks1m3.jpg
     caption: Empty shell. Cyrene, Aug 13 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/tonnidae/tonnidae/110804cyrL1070318m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/110804cyrL1070318m3.jpg
     caption: Shell occupied by a hemit crab. Cyrene, Aug 11
 links_references: '**Links**
 
@@ -96,13 +96,9 @@ This snail with a large, thin spherical shell is rarely seen. They are usually f
 
 9-10cm. The shell is thin but strong, nearly spherical with a short spiral and very large shell opening. Usually with spiralling ridges on the surface. Adult snails lack an operculum.
 
-The Banded tun (
-*Tonna sulcosa*
-) is about 10cm with a rather thick shell that has flat spiral ribs. It is creamy white with 3-4 broad spiralling brown bands. It is found on fine sand and muddy bottoms.
+The Banded tun (*Tonna sulcosa*) is about 10cm with a rather thick shell that has flat spiral ribs. It is creamy white with 3-4 broad spiralling brown bands. It is found on fine sand and muddy bottoms.
 
-The Spotted tun (
-*Tonna dolium*
-) is about 13cm and found on find sand and muddy bottoms.
+The Spotted tun (*Tonna dolium*) is about 13cm and found on find sand and muddy bottoms.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**
 Mainly echinoderms such as sea cucumbers and crustaceans. The snail first paralyses the prey with a salivary secretion containing sulphuric acid before swallowing it whole! The animal has a large foot and can crawl and burrow rapidly.

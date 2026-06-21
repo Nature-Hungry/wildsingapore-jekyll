@@ -1,6 +1,6 @@
 ---
 title: Senduduk
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Senduduk on the shores of Singapore
 keywords: Senduduk, melastoma, malabathricum, melastomaceae, plant, shrub, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,7 +24,7 @@ subfamily: Melastomatoideae
 tribe: Melastomeae
 updated: Nov 10
 rdb: LC
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg
 links_references: "**Links**\n- *[Melastoma\n  malabathricum](http://floraofsingapore.wordpress.com/2010/08/09/melastoma-malabathricum/)*\
   \ on Total Vascular Flora of Singapore Online:\n  photos and fact sheet.\n- [When\n\
   \  the Melastoma Blooms](http://butterflycircle.blogspot.com/2009/11/when-melastoma-bloomsl)\
@@ -42,18 +42,18 @@ links_references: "**Links**\n- *[Melastoma\n  malabathricum](http://floraofsing
   \ volume 2: 1241-2444.'n"
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9352m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/melastoma/malabathricum/090410ubnd9352m3.jpg
     caption: Pulau Ubin, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9354m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/melastoma/malabathricum/090410ubnd9354m3.jpg
     caption: Pulau Ubin, Apr 09 Some have white flowers.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090410ubnd9361m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/melastoma/malabathricum/090410ubnd9361m3.jpg
     caption: Pulau Ubin, Apr 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090906prpd0481m6l.jpg
+  - url: https://images.naturehungry.sg/plants/others/melastoma/malabathricum/090906prpd0481m6l.jpg
     caption: Pasir Ris, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/090906prpd0482m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/melastoma/malabathricum/090906prpd0482m3.jpg
     caption: Pasir Ris, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/melastoma/malabathricum/091005cjd2174m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/melastoma/malabathricum/091005cjd2174m3.jpg
     caption: Chek Jawa, Oct 09
 size:
 - 100.0

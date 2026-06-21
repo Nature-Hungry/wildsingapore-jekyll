@@ -1,6 +1,6 @@
 ---
 title: Elbow crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elbow crabs on the shores of Singapore
 keywords: elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,17 +24,17 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
     caption: Pincers many times longer than its body. Changi, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgg6293m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/060711chgg6293m3.jpg
     caption: Underside of the Domed elbow crab. Changi, Jul 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg
     caption: Common elbow crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
     caption: Domed elbow crab
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Bumpy finger seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bumpy finger seaweed on the shores of Singapore
 keywords: bumpy, finger, seaweed, weed, algae, eucheuma, kappaphycus, solieriaceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,35 +22,35 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
     caption: Pulau Biola, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/060212sisd6806m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/060212sisd6806m3.jpg
     caption: Sisters Island, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/050309smkg3103m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/050309smkg3103m3.jpg
     caption: Pulau Semakau, Mar 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/080510smkd3062m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/080510smkd3062m3.jpg
     caption: Pulau Semakau, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/080220smkd9752m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/080220smkd9752m3.jpg
     caption: Pulau Semakau, Feb 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/100519tsmc4179m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/100519tsmc4179m3.jpg
     caption: Terumbu Semakau, May10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/200626tptvc6.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/200626tptvc6.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/250712tplrk4.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/250712tplrk4.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/100601slud4971m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/100601slud4971m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/100130brkd8574m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/100130brkd8574m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bumpy/100530tbkd4374m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/100530tbkd4374m3.jpg
     caption: Pulau Berkas, May 10
 links_references: '**Links**
 

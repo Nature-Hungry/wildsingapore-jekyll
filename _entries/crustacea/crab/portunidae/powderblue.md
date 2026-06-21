@@ -1,6 +1,6 @@
 ---
 title: Powder blue-clawed swimming crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Powder blue-clawed swimming crab on the shores of Singapore
 keywords: swimming, crab, thalamita, crenata, portunidae, decapod, crustrace, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -32,62 +32,62 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Thalamitinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg
     caption: Tanah Merah, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/090918tmd0939m3e.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/090918tmd0939m3e.jpg
     caption: 6 small rounded lobes between the eyes.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/090918tmd0939m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/090918tmd0939m3a.jpg
     caption: 5 spines on the body side, edged with small blue and dark spots.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/120604pgld3736m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/120604pgld3736m3.jpg
     caption: A pair about to mate? Punggol, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/200706skdlks2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/200706skdlks2.jpg
     caption: Mating pair Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/260105prpezxh5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/260105prpezxh5.jpg
     caption: Eating a dead fish. Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He
       on facebook
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/200917sbwmn5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/200917sbwmn5.jpg
     caption: Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/250626ubnjd1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/250626ubnjd1.jpg
     caption: Pulau Ubin Jetty, Jun 25 Photo shared by James Dvc on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/200622chgmn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/200622chgmn1.jpg
     caption: Changi, Jun 20 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/100709tmmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/100709tmmn.jpg
     caption: Tanah Merah, Jul 10 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/151031ecpmblks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/151031ecpmblks.JPG
     caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/141223tusjll2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/141223tusjll2m3.jpg
     caption: Mating pair Tuas, Dec 14 Photo shared by Jianlin Liu on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/151001blrmn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/151001blrmn1.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/251010blyll1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/251010blyll1.jpg
     caption: Berlayar Creek, Oct 25 Photo shared by Liz Lim on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/150829lazlks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/150829lazlks.JPG
     caption: Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/250909lazlks6.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/250909lazlks6.jpg
     caption: Seringat Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on
       facebook
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/240211bigsisvc3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/240211bigsisvc3.jpg
     caption: Big Sisters Island, Feb 24 Photo shared by Vincent Choo on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/151129sjimn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/151129sjimn.jpg
     caption: St John's Island, Nov 15 Photo shared by Marcus Ng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/251207hntml5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/251207hntml5.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/220504hnttyj2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/220504hnttyj2.jpg
     caption: Pulau Hantu, May 22 Photo shared by Tang Yong Jen on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/081227smkmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/081227smkmn.jpg
     caption: Mating pair Pulau Semakau, Dec 08 Photo shared by Marcus Ng on flickr
       .
 links_references: '**Links**
@@ -108,7 +108,6 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   - [Crenate swimming crab (
-
   *Thalamita crenata*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=21361)
@@ -120,7 +119,6 @@ links_references: '**Links**
   : technical fact sheet.
 
   - [Mangrove swimming crab (
-
   *Thalamita crenata*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1142)

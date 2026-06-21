@@ -1,6 +1,6 @@
 ---
 title: Drills
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Drills on the shores of Singapore
 keywords: drill, muricidae, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,73 +17,71 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Muricoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg
     caption: Kusu Island, Dec 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Rene Ong on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg
     caption: Most have a strong foot. Changi, Aug 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
     caption: A drill feeding on Little black mussels ? Lim Chu Kang, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/120423tmftd0067m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chicoreus/120423tmftd0067m3.jpg
     caption: A drill clasping a Bazillion snail . Tanah Merah, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/muricidaenoid/070521tusd1356m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/muricidaenoid/070521tusd1356m3.jpg
     caption: A 'gang' of drills stuck onto a clam. Tuas, May 07
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/060129skdg4157m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/060129skdg4157m3a.jpg
     caption: Drills laying eggs on a rock Pulau Sekudu, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg
     caption: Close up of egg capsules Changi, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/muricidaenoid/120604pgld3562m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/muricidaenoid/120604pgld3562m3a.jpg
     caption: Close up of egg capsules Punggol, Jun 12
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260099m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260099m3.jpg
     caption: Egg capsules of the Reef murex . Cyrene Reef, Jul 17
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
     caption: Egg capsules of Mangrove murex Kranji Nature Trail, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/muricidaenoid/210529epcnvc5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/muricidaenoid/210529epcnvc5.jpg
     caption: Drill eating eggs laid by another animal? East Coast (PCN), May 21 Photo
       shared by Vincent Choo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg
     caption: Elegant drills
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg
     caption: Elegant drills
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3.jpg
     caption: Elegant drills
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/070812sisd5384m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/070812sisd5384m3.jpg
     caption: Chunky drills
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/110204sisd5789m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/110204sisd5789m3.jpg
     caption: Chunky drills
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/091203ubnd5004m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/091203ubnd5004m3.jpg
     caption: Chunky drills
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/110204sisd5769m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/110204sisd5769m3.jpg
     caption: Dark drill
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/knobbly/060716sisg6742m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/knobbly/060716sisg6742m3.jpg
     caption: Knobbly drills
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg
     caption: Rare-spined murex
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg
     caption: Mangrove murex
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg
     caption: Reef murex
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg
     caption: Ramose murex
 links_references: '**Links**
 
   - [Drill (
-
   *Thais gradata*
 
   ) and Ketem (
-
   *Chicoreus capucinus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2085)
@@ -95,11 +93,9 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Spiny Murex (
-
   *Murex martineaus*
 
   ), Mangrove Murex (
-
   *Chicoreus capucinus*
 
   ), Thais and Morula](http://mangrove.nus.edu.sg/pub/seashore/text/146)
@@ -115,7 +111,6 @@ links_references: '**Links**
   - Rugose Drupe by Wu Yuwei, 10 Apr 2019 on Taxo4254.
 
   - [Ramose murex (
-
   *Chicoreus ramosus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=200)
@@ -123,7 +118,6 @@ links_references: '**Links**
   and
 
   [Rare-spined murex (
-
   *Murex trapa*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=195)
@@ -277,12 +271,9 @@ You will almost be certain to meet this ferocious predator on our rocky shores! 
 
 ## Features
 
-They range from small shells to some that can be as big as your hand! Among the common drill species on our shores are Rock-shell (
-*Thais*
-sp.), Drupes (
-*Morula*
-sp.) and Murex (
-*Chicoreus*
+They range from small shells to some that can be as big as your hand! Among the common drill species on our shores are Rock-shell (*Thais*
+sp.), Drupes (*Morula*
+sp.) and Murex (*Chicoreus*
 sp.). Drills usually have thick shells and a thick operculum made of a horn-like material. Those with complicated spines on their shells usually move by holding their shells above the surface as they move along the surface.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Bored to Death:**
@@ -322,9 +313,7 @@ The toxins kill drill larvae, or result in deformities in adults.
 *Chicoreus ramosus*
 is listed as 'Endangered' and the
 [Murex snail](trapa)
-(
-*Murex trapa*
-) as 'Vulnerable' in the Red List of threatened animals of Singapore. Our other drills are not on this list. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
+(*Murex trapa*) as 'Vulnerable' in the Red List of threatened animals of Singapore. Our other drills are not on this list. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---
 

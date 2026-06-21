@@ -1,6 +1,6 @@
 ---
 title: 'Miliaris cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Miliaris cowrie  on the shores of Singapore
 keywords: miliaris, cowrie, cypraeidae, erosaria, cypraea, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,7 +19,7 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Erosariinae
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
 links_references: '**Links**
 
   - *[Cypraea milliaris](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=104987)*on
@@ -46,56 +46,56 @@ links_references: '**Links**
   723pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
     caption: Pulau Sekudu, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg
     caption: Tanah Merah, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9297m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9297m3.jpg
     caption: '''Teeth'' are not coloured..'
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/060624skdd3275m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/060624skdd3275m3.jpg
     caption: Miliaris cowries are often seen in a pair. Pulau Sekudu, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/050206cjd9930m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/050206cjd9930m3.jpg
     caption: Mama cowrie guarding her eggs. Chek Jawa, Feb 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/201020prpalks7.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/201020prpalks7.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/251012chgmn5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/251012chgmn5.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/170723ubnay3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/170723ubnay3.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/250626ubnjd2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/250626ubnjd2.jpg
     caption: Pulau Ubin Jetty, Jun 25 Photo shared by James Dvc on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/100614bblks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/100614bblks1m3.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/240723chgett2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/240723chgett2.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Tommy Tan on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/150617ecpbslks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/150617ecpbslks5m3.jpg
     caption: East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/120507srplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/120507srplks.JPG
     caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/080610kustsjm3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/080610kustsjm3a.jpg
     caption: Kusu Island, Jun 08 Photo shared by Tan Sijie on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/240114lazvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/240114lazvc1.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/200919bsislks8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/200919bsislks8.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/220504hntvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/220504hntvc3.jpg
     caption: Pulau Hantu, May 22 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/240526bbbccn5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/240526bbbccn5.jpg
     caption: Beting Bemban Besar, May 24 Photo shared by Che Cheng Neo on facebook
       .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/130525tsmklks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/130525tsmklks.JPG
     caption: Terumbu Semakau, May 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/130525tsmklks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/130525tsmklks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
 location:
 - prp

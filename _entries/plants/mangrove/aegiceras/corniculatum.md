@@ -1,6 +1,6 @@
 ---
 title: 'Kachang-kachang '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Kachang-kachang  on the shores of Singapore
 keywords: aegiceras, corniculatum, primulaceae, myrsinaceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -22,19 +22,19 @@ order: Ericales
 subfamily: Myrsinoideae
 inat_id: 183233
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9216m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/110419krjd9216m6l.jpg
     caption: Alternating leaves in a spiral. Kranji Nature Trail, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9216m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/110419krjd9216m3.jpg
     caption: Kranji Nature Trail, Apr 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9172m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/110419krjd9172m3.jpg
     caption: Kranji Nature Trail, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/111121tkgd3731m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/111121tkgd3731m3.jpg
     caption: Pulau Tekong, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/060905ubnkl1m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/060905ubnkl1m3a.jpg
     caption: Photo shared by Kevin on his blog . Pulau Ubin, Sep 06
 links_references: '**Links**
 
@@ -47,7 +47,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Kacang-kacang (
-
   *Aegiceras corniculatum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1048)
@@ -152,13 +151,13 @@ According to Burkill, the bark is used as a 'fish poison', i.e., to stun fish an
 **Status and threats:**
 This plant is listed as 'Endangered' in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg)
 
 *Kranji Nature Trail, Apr 11*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3.jpg)
 
 *Kranji Nature Trail, May 11*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3a.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

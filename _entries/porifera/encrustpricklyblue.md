@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue encrusting prickly sponge on the shores of Singapore
 keywords: blue, encrusting, prickly, sponge, porifera, field, guide, seashore, sea,
 layout: entry
 shape: encrusting
@@ -9,33 +9,33 @@ genus: ''
 species: identification*
 attributes: []
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/070317sntg8092m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/encrustpricklyblue/070317sntg8092m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/070420sntd0190m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/070420sntd0190m3.jpg
     caption: Sentosa, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/070420sntd0190m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/070420sntd0190m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/070317sntg8092m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/070317sntg8092m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/040817sntd4667m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/040817sntd4667m3.jpg
     caption: Sentosa, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/080208hntd9549m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/080208hntd9549m3.jpg
     caption: Pulau Hantu, Feb 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/100811slud0110m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/100811slud0110m3a.jpg
     caption: Pulau Salu, Aug 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/160313trymn2.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/160313trymn2.jpg
     caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/100130brkd8607m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/100130brkd8607m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/091205sudd5558m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/091205sudd5558m3a.jpg
     caption: Pulau Sudong, Dec 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/091204pawd5218m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/091204pawd5218m3.jpg
     caption: Pulau Pawai, Sep 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/091231biojk11m3.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustpricklyblue/091231biojk11m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Jamed Koh on his flickr .
 location:
 - tm
@@ -69,11 +69,9 @@ Small, covering an area of 10-15cm. Surface texture prickly, the prickles formin
 
 Are these young
 [Silvery blue sponges](spatula)
-(
-*Lamellodysidea herbacea*
-) that have yet to develop protruding portions?
+(*Lamellodysidea herbacea*) that have yet to develop protruding portions?
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/encrustpricklyblue/070317sntg8092m3.jpg)
+![](https://images.naturehungry.sg/porifera/encrustpricklyblue/070317sntg8092m3.jpg)
 
 *Sentosa, Mar 07*
 

@@ -1,6 +1,6 @@
 ---
 title: Silver-lined mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Silver-lined mudskipper on the shores of Singapore
 keywords: silver, lined, mudskipper, mud, skipper, fish, periophthalmus, argentilineatus,
   gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -26,29 +26,29 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg
     caption: St John's Island, Jun 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m6l.jpg
     caption: Pulau Semakau, Mar 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/110109ubnjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/110109ubnjk.jpg
     caption: Pulau Ubin, Jan 11 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/240527srplks4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/240527srplks4.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/100404lazjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/100404lazjk.jpg
     caption: Lazarus Island, Apr 10 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/250909lazio2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/250909lazio2.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Isaac Ong on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/240211bigsisll1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/240211bigsisll1.jpg
     caption: Big Sisters Island, Feb 24 Photo shared by Liz Lim on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/200111smksll2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/200111smksll2.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook .
 links_references: '**Links**
 

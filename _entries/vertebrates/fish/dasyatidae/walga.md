@@ -1,6 +1,6 @@
 ---
 title: Mangrove whipray
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove whipray on the shores of Singapore
 keywords: mangrove, whip, whipray, sting, ray, stingray, himantura, walga, fish, rajiformes,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,36 +23,35 @@ infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Urogymninae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
     caption: This one seems to have a broken tail. Pulau Sekudu, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030517cjd0334.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/030517cjd0334.jpg
     caption: Small one. Chek Jawa, May 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
     caption: Underside. Pulau Sekudu, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg
     caption: Blue-spotted stingrays and Mangrove whiprays in a sandy lagoon. Pulau
       Sekudu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
     caption: Often seen trapped in fishing nets. Changi, Jul 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/201116cnyrk3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/201116cnyrk3.jpg
     caption: Coney Island, Nov 20 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/090626bbmn2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/090626bbmn2m3.jpg
     caption: Beting Bronok, May 09 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/201020prpalks10.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/201020prpalks10.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/150830hntmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/150830hntmn.jpg
     caption: Pulau Hantu, Aug 15 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Mangrove Whipray (
-
   *Himantura walga*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/205)
@@ -64,7 +63,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Dwarf whipray (
-
   *Himantura walga*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=15484)

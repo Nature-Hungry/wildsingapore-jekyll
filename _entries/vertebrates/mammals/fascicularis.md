@@ -1,6 +1,6 @@
 ---
 title: Long-tailed macaque
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Long-tailed macaque on the shores of Singapore
 keywords: long, tailed, crab, eating, macaque, monkey, macaca, fascicularis, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,14 +25,14 @@ parvorder: Catarrhini
 subfamily: Cercopithecinae
 tribe: Papionini
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/110928sisd1427m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/fascicularis/110928sisd1427m3.jpg
     caption: Foraging on the sea shore, turning over rocks. Sisters Island, Sep 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/090613admd4211m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/fascicularis/090613admd4211m3.jpg
     caption: Admiralty Park, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/090613admd4205m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/fascicularis/090613admd4205m6l.jpg
     caption: Admiralty Park, Jun 09
 links_references: '**Links**
 
@@ -48,7 +48,7 @@ links_references: '**Links**
 
   (Primates: Cercopithecidae) Long-tailed Macaque by Tan Qiao Hao Joys, 2014, on taxo4254.
 
-  - [Why we should not feed the monkeys](http://www.wildsingapore.com/places/monkey)
+  - [Why we should not feed the monkeys](https://images.naturehungry.sg/places/monkey)
 
 
   **References**
@@ -107,7 +107,7 @@ Monkeys are social animals just like us. In the wild, they live in groups of 15-
 People often feed monkeys to have a closer look at these fascinating creatures. Some people think the monkeys are starving. Unfortunately, feeding usually leads to these monkeys having to be trapped and killed.
 
 Ironically, our monkeys are not starving. They have lots of natural food available to them. When our monkeys switch to human hand outs, the forest also suffers as the monkeys no longer play their natural role in dispersing seeds and maintaining the natural balance. More details about
-[the effects of feeding monkeys](http://www.wildsingapore.com/places/monkey)
+[the effects of feeding monkeys](https://images.naturehungry.sg/places/monkey)
 .
 
 **How can I save the monkeys?**
@@ -121,19 +121,19 @@ Be a responsible visitor to our wild places:
 - Dispose your litter into the monkey-proof bins provided. Better still, take your litter out of the Reserves with you.
 - If you see people feeding the monkeys, explain gently why this hurts the monkeys. People who feed monkeys usually mean well and will usually eventually understand and stop feeding them.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg)
+*![](https://images.naturehungry.sg/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg)
 
 Sisters Island, Mar 07
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/031004lptd0053m3m6l.jpg)*
+![](https://images.naturehungry.sg/vertebrates/mammals/fascicularis/031004lptd0053m3m6l.jpg)*
 The monkey can't read, but we can.
 *Lower Peirce, Oct 03
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/031004lpted0040m3.jpg)*
+![](https://images.naturehungry.sg/vertebrates/mammals/fascicularis/031004lpted0040m3.jpg)*
 Drive-by feeding kills monkeys as they rush towards cars, associating cars with food.
 *Lower Peirce, Oct 03
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/fascicularis/030907btnrd0011m3.jpg)*
+![](https://images.naturehungry.sg/vertebrates/mammals/fascicularis/030907btnrd0011m3.jpg)*
 Junk food is bad for people AND monkeys.
 *Bukit Timah Nature Reserve, Sep 03*
 

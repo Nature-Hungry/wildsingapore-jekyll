@@ -1,6 +1,6 @@
 ---
 title: Frilly anemones
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Frilly anemones on the shores of Singapore
 keywords: frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -25,48 +25,48 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
     caption: Beting Bemban Besar, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3b.jpg
     caption: Only one side of the tentacle bears 'branches'.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/080422smkd1433m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/plain/080422smkd1433m3.jpg
     caption: Body column pale becoming darker near the top with rows of white spots.
       Pulau Semakau, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/201019sjijll5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/plain/201019sjijll5.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG
     caption: A pair of Peacock-tail anemone shrimps seen in this anemone. Tanah Merah,
       May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/others/100711cyrd8263m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/others/100711cyrd8263m3.jpg
     caption: Bleaching frilly anemone Cyrene Reef, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/100809cyrd9724m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/100809cyrd9724m3.jpg
     caption: Bleaching frilly anemone Cyrene Reef, Aug 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3a.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3a.jpg
     caption: ''
 links_references: '**Links**
 

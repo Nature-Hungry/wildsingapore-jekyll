@@ -57,13 +57,13 @@ the coral rubble, there may be large living soft corals as well as
 smaller living hard corals.   
   
  **Where
-can we explore coral rubble areas in Singapore?** [Labrador](http://www.wildsingapore.com/places/lp) has the last large mainland coral rubble area. Among our northern
+can we explore coral rubble areas in Singapore?** [Labrador](https://images.naturehungry.sg/places/lp) has the last large mainland coral rubble area. Among our northern
 islands, there is a small stretch at [Chek
-Jawa](http://www.wildsingapore.com/places/cj), [Pulau
-Ubin](http://www.wildsingapore.com/ubin/indexl). Also at Pulau Sekudu. Almost all our [Southern
-islands](http://www.wildsingapore.com/places/shoresouth) have coral rubble areas with a vast stretch at [Pulau
-Semakau](http://www.wildsingapore.com/places/semakau), as well as some at [Kusu
-Island](http://www.wildsingapore.com/places/kusu).
+Jawa](https://images.naturehungry.sg/places/cj), [Pulau
+Ubin](https://images.naturehungry.sg/ubin/indexl). Also at Pulau Sekudu. Almost all our [Southern
+islands](https://images.naturehungry.sg/places/shoresouth) have coral rubble areas with a vast stretch at [Pulau
+Semakau](https://images.naturehungry.sg/places/semakau), as well as some at [Kusu
+Island](https://images.naturehungry.sg/places/kusu).
 
 ---
 

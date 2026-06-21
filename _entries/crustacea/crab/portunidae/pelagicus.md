@@ -1,6 +1,6 @@
 ---
 title: Flower crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flower crab on the shores of Singapore
 keywords: flower, crab, crustacea, portunidae, portunus, pelagicus, decapod, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -32,7 +32,7 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Portuninae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
 links_references: '**Links**
 
   - [Flower Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/202.htm)Tan,
@@ -88,36 +88,36 @@ links_references: '**Links**
   of Thomson Learning Inc., 7th Edition. pp. 963.'
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
     caption: Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
     caption: Flower crab (top) next to its moulted shell (bottom) Sentosa, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050621skdg8000m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050621skdg8000m3.jpg
     caption: Mating crabs, male on top. Pulau Sekudu, Jun 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg
+  - url: https://images.naturehungry.sg/othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg
     caption: Those infected with parasitic barnacles tend to be covered with seaweeds
       . Pulau Sekudu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/101008tusd1761m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/101008tusd1761m3.jpg
     caption: Buried in sand. Tuas, Oct 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050428cftd2923m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050428cftd2923m3.jpg
     caption: Tiny ones are also seen. This one is hardly bigger than a Button snail.
       Changi, Apr 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/201020prpalks4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/201020prpalks4.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/100528tkknml5m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/100528tkknml5m3.jpg
     caption: Pulau Tekukor , May 10 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/110423tpllks1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/110423tpllks1m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/151001blylks11m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/151001blylks11m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/100130brkd8464m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/100130brkd8464m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/100810snglks4m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/100810snglks4m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
 location:
 - pgl
@@ -185,8 +185,7 @@ Some flower crabs may have a 'garden' of various living seaweed and
 [barnacles](../../othercrust/ciriipedia/balanus)
 growing on their bodies, pincers and legs. These crabs are usually those infected by a
 [parasitic barnacle](../../othercrust/ciriipedia/thompsonia)
-(
-*Thompsonia*
+(*Thompsonia*
 sp.)
 
 ## Role in habitat

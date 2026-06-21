@@ -1,6 +1,6 @@
 ---
 title: 'Black tailed-slug '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black tailed-slug  on the shores of Singapore
 keywords: black, tailed, slug, chelidonura, aglajidae, cephalaspidea, gastropod, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -20,30 +20,30 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/150219cyrd1284m3a.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/150219cyrd1284m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/150219cyrd1284m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/150219cyrd1284m3a.jpg
     caption: Cyrene Reef, Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/150219cyrd1284m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/150219cyrd1284m6l.jpg
     caption: Cyrene Reef, Feb 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/150219cyrd1306m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/150219cyrd1306m6l.jpg
     caption: Cyrene Reef, Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/150219cyrd1306m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/150219cyrd1306m3.jpg
     caption: ''
   gallery3:
   - url: https://live.staticflickr.com/5687/23632426449_33a491eee3_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/211107pcnlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/211107pcnlks1.jpg
     caption: East Coast (PCN), Nov 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/230606cjky2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/230606cjky2.jpg
     caption: Chek Jawa, Jun 23 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/131203cyrlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/131203cyrlks.JPG
     caption: Cyrene Reef, Dec 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/151226cyrlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/151226cyrlks.JPG
     caption: Cyrene Reef, Dec 12 Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg

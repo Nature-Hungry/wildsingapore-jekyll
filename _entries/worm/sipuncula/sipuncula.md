@@ -1,6 +1,6 @@
 ---
 title: Peanut worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Peanut worms on the shores of Singapore
 keywords: peanut, worm, sipuncula, sipunculida, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,64 +14,64 @@ kingdom: Animalia
 phylum: Annelida
 order: Sipuncula
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
+coverimg: https://images.naturehungry.sg/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg
     caption: Cyrene Reef, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/070421cyrg8928m3a.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/070421cyrg8928m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/090514prpd1761m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/090514prpd1761m3.jpg
     caption: Pasir Ris, May 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/100613snglks3m6l.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100613snglks3m6l.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/100613snglks3m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100613snglks3m3.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/020406cjd8036m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/020406cjd8036m3.jpg
     caption: Chek Jawa, Apr 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/031122cjd0011m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/031122cjd0011m3.jpg
     caption: Chek Jawa, Nov 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/080706chg7364m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/080706chg7364m3.jpg
     caption: Changi, Jul 08
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/150122chgmn.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/150122chgmn.jpg
     caption: Changi, Jan 15 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/150122chgmna.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/150122chgmna.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/090720skdmn8m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/090720skdmn8m3.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/210114chg7vc1.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/210114chg7vc1.jpg
     caption: Changi CP7, Jan 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/120425blys06795m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/120425blys06795m3.jpg
     caption: Berlayar Creek, Apr 12
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/260201cyrlks2.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/260201cyrlks2.jpg
     caption: Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/210429hntvc9.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/210429hntvc9.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facbook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/210113smkwjll6.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/210113smkwjll6.jpg
     caption: Pulau Semakau West, Jan 21 Photo shared by Jianlin Liu on facbook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/150718smkehpy2m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/150718smkehpy2m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Heng Pei Yan on facbook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/100613snglks3m6l.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100613snglks3m6l.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/100613snglks3m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100613snglks3m3.jpg
     caption: ''
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/100527tmd3597m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100527tmd3597m3.jpg
     caption: Tanah Merah, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/100602tmd5151m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100602tmd5151m3.jpg
     caption: Tanah Merah, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/100602tmd5153m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100602tmd5153m3.jpg
     caption: Tanah Merah, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/100728tmd9440m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100728tmd9440m3.jpg
     caption: Tanah Merah, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/sipuncula/sipuncula/100729tmd9578m3.jpg
+  - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100729tmd9578m3.jpg
     caption: Tanah Merah, Jul 10
 links_references: '**Links**
 

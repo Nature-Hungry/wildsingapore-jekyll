@@ -1,6 +1,6 @@
 ---
 title: Saddled shrimp-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Saddled shrimp-goby on the shores of Singapore
 keywords: saddled, prawn, shrimp, goby, cryptocentrus, maudae, fish, gobiidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -30,62 +30,61 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
     caption: Juvenile strikingly black-and-white. Labrador, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/090625cyrd5636m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/090625cyrd5636m6l.jpg
     caption: Adults look very different. Cyrene, Jun 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
     caption: Labrador, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/161214sjimn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/161214sjimn.jpg
     caption: St. John's Island, Dec 16 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg
     caption: Pulau Semakau, Feb 09 Photos shared by Tang Hung Bun.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/081115sntmn01m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/081115sntmn01m3.jpg
     caption: Sentosa, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/081115sntmn03m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/081115sntmn03m3.jpg
     caption: Photos shared by Marcus Ng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/081115sntmn03m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/081115sntmn03m3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/160725sntmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/160725sntmn.jpg
     caption: Sentosa, Jul 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/250714srptl2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/250714srptl2.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/250131tkkvc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/250131tkkvc1.jpg
     caption: Pulau Tekukor, Jan 25 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/201117sjimn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/201117sjimn1.jpg
     caption: St. John's Island, Nov 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/111001sjiro3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/111001sjiro3m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Rene Ong on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/111123cyrnml1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/111123cyrnml1m3.jpg
     caption: Cyrene Reef, Nov 11 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/160625tkklks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/160625tkklks5.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/181124bbbjll.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/181124bbbjll.jpg
     caption: Beting Bemban Besar, Nov 18 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/100518bbbjk1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/100518bbbjk1m3.jpg
     caption: Beting Bemban Besar, May 10 Photo shared by James Koh on his blog .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/110422tbmro5m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/110422tbmro5m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Rene Ong on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/140601tplhpy1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/140601tplhpy1m3.jpg
     caption: Terumbu Pempang Laut, Aug 14 Photo shared by Heng Pei Yan on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/110423tpljk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/110423tpljk.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on flickr .
 links_references: '**Links**
 
   - [Saddled prawn-goby (
-
   *Cryptocentrus maudae*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=13767)

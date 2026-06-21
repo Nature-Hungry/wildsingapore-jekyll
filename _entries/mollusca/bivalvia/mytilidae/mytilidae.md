@@ -1,6 +1,6 @@
 ---
 title: Sea mussels
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea mussels on the shores of Singapore
 keywords: mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,30 +18,29 @@ infraclass: Pteriomorphia
 order: Mytilida
 superfamily: Mytiloidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
     caption: Green mussels growing on a large boulder. Changi, Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
     caption: Nest mussels can form vast mats Chek Jawa, Aug 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg
     caption: Tiny Green mussels growing among tinier Nest mussels . Pulau Sekudu,
       Jul 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
     caption: Green mussels
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
     caption: Horse mussels
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
     caption: Little black mussels
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg
     caption: Nest mussels
 links_references: '**Links**
 
   - [Green Mussel (
-
   *Perna viridis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/158)
@@ -53,7 +52,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Nest mussel (
-
   *Musculista senhausii*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2091)
@@ -61,7 +59,6 @@ links_references: '**Links**
   and
 
   [Black mussel (
-
   *Xenostrobus*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092)
@@ -146,8 +143,7 @@ do, mussels attach themselves with byssus threads.
 
 Sea mussels are often found in colonies of a large number of individuals.
 [Nest mussels](musculista)
-are tiny mussels about 1cm long that live in colonies of thousands. They weave a nest out of byssus threads and mud. Date mussels (
-*Lithophaga*
+are tiny mussels about 1cm long that live in colonies of thousands. They weave a nest out of byssus threads and mud. Date mussels (*Lithophaga*
 sp.) create a safe hiding place for themselves by drilling into dead coral and even concrete by rotating their shells and secreting an acid.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
@@ -157,9 +153,7 @@ Like most other bivalves, sea mussels are filter feeders. At high tide, they ope
 
 Sea mussels are among the favourite seafood of people everywhere. The
 [Green mussel](viridis)
-(
-*Perna viridis*
-) is farmed in many parts of Southeast Asia. In colder seas, they are among key food sources. Like other filter-feeding clams, however, sea mussels may be affected by
+(*Perna viridis*) is farmed in many parts of Southeast Asia. In colder seas, they are among key food sources. Like other filter-feeding clams, however, sea mussels may be affected by
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 

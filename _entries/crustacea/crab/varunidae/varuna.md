@@ -1,6 +1,6 @@
 ---
 title: 'Paddler crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Paddler crab  on the shores of Singapore
 keywords: paddler, crab, varuna, varunidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -29,35 +29,34 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 subfamily: Varuninae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
     caption: Changi Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/070604chgg0129m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/070604chgg0129m3c.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/240526bbb1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/240526bbb1.jpg
     caption: Clinging onto a floating coconut . Beting Bemban Besar, May 24
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/240526bbb1a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/240526bbb1a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/240526bbb2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/240526bbb2.jpg
     caption: Clinging onto floating trash. Beting Bemban Besar, May 24
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/250627bbio5a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/250627bbio5a.jpg
     caption: On floating trash. Beting Bronok, Jun 25 Photo shared by Isaac Ong on
       facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/251009sjiky3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/251009sjiky3.jpg
     caption: On a Nipah palm fruit. St. John's Island, Oct 25 Photo shared by Kelvin
       Yong on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/250503cyrml2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/250503cyrml2.jpg
     caption: On floating trash. Cyrene, May 25 Photo shared by Mathias Luk on facebook
 links_references: '**Links**
 
   - [Paddler crab (
-
   *Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046)
 
   Ng, Peter K. L. & N. Sivasothi, 1999.
@@ -75,7 +74,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Sundaic paddler crab (
-
   *Varuna yui*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Varuna&speciesname=yui)

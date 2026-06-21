@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spiky ball sponge on the shores of Singapore
 keywords: spiky, ball, sponge, porifera, dysidea, dysideidae, field, guide, seashore,
 layout: entry
 shape: ball
@@ -16,21 +16,21 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/ballspiky/120508skdd1884m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/ballspiky/120508skdd1884m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballspiky/060611cjd2765m3e.jpg
+  - url: https://images.naturehungry.sg/porifera/ballspiky/060611cjd2765m3e.jpg
     caption: Brittle star deep in the crevices. Chek Jawa, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/040506cjd0030m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/040506cjd0030m3a.jpg
     caption: Sometimes draped with synaptid sea cucumbers Chek Jawa, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballspiky/120508skdd1884m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/ballspiky/120508skdd1884m3b.jpg
     caption: Spiky with net-like texture.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballspiky/020101cjcpd3741m3.jpg
+  - url: https://images.naturehungry.sg/porifera/ballspiky/020101cjcpd3741m3.jpg
     caption: Chek Jawa, Jan 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballspiky/080704sekd6895m3.jpg
+  - url: https://images.naturehungry.sg/porifera/ballspiky/080704sekd6895m3.jpg
     caption: Pulau Sekudu, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballspiky/110518bbd1887m3.jpg
+  - url: https://images.naturehungry.sg/porifera/ballspiky/110518bbd1887m3.jpg
     caption: Beting Bronok, May 11
 links_references: '**Links**
 
@@ -89,11 +89,11 @@ Sometimes, these sponges are draped with
 [synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge)
 and brittle stars are sometimes glimpsed deep in the crevices of the sponge.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/ballspiky/120508skdd1884m3.jpg)
+![](https://images.naturehungry.sg/porifera/ballspiky/120508skdd1884m3.jpg)
 
 *Pulau Sekudu, May 12*
 **
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/ballspiky/120508skdd1884m3a.jpg)
+![](https://images.naturehungry.sg/porifera/ballspiky/120508skdd1884m3a.jpg)
 
 Thin 'lips' around large opening.
 

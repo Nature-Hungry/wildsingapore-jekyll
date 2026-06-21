@@ -1,6 +1,6 @@
 ---
 title: 'Sea bean '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea bean  on the shores of Singapore
 keywords: canavalia, maritima, fabaceae, leguminosae, creeper, plant, bush, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,14 +23,14 @@ subfamily: Faboideae
 tribe: Diocleae
 inat_id: 131242
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/canavalia/090405smkd9043m3c.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/canavalia/canavalia/090405smkd9043m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/canavalia/090405smkd9041m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/canavalia/canavalia/090405smkd9041m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/canavalia/090405smkd9043m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/canavalia/canavalia/090405smkd9043m3.jpg
     caption: Pulau Semakau, Mar 09
 links_references: '**Links**
 
@@ -84,7 +84,7 @@ The climber (2-10m long) creeps over other coastal plants. The end of the plant 
 
 According to Burkill, the Malays use the flowers as flavouring, the young seeds are said to make a good peas porridge and the pods are edible when young. According to Giesen, young pods and seeds are edible after (prolonged) boiling. Flower used as spice. The plant is considered suitable as ground cover against soil erosion on eroding coastal lands.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg)
 
 *Pulau Semakau, Apr 09*
 

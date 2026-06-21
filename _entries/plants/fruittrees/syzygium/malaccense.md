@@ -1,6 +1,6 @@
 ---
 title: 'Jambu bol '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Jambu bol  on the shores of Singapore
 keywords: jambu, bol, syzygium, malaccense, malaccense, myrtaceae, shrub, plant, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,7 +23,7 @@ order: Myrtales
 subfamily: Myrtoideae
 tribe: Syzygieae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg
 links_references: '**Links**
 
   - *[Szyzigium malaccense](http://floraofsingapore.wordpress.com/2010/04/29/syzygium-malaccense/)*on
@@ -55,16 +55,16 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2130m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/syzygium/malaccense/091005cjd2130m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2120m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/syzygium/malaccense/091005cjd2120m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2129m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/syzygium/malaccense/091005cjd2129m3.jpg
     caption: Pulau Ubin, Oct 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091128cjd4768m3a.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/syzygium/malaccense/091128cjd4768m3a.jpg
     caption: Chek Jawa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091128cjd4768m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/syzygium/malaccense/091128cjd4768m3.jpg
     caption: ''
 size:
 - 600.0
@@ -88,7 +88,7 @@ Tall tree (6-10m). Leaves are large, arranged opposite one another. Young leaves
 
 According to Burkill, the tasteless but juicy fruits are eaten raw or cooked and sometimes combined with tastier fruits to make a jam. the dried and powdered leaves are used to treat tongue ailments, and the bark used as a mouthwash to treat mouth diseases. The roots are used to treat itches. According to Wee, a cooling drink is also made of the seeds and fruits.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg)
+![](https://images.naturehungry.sg/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg)
 
 *Pulau Ubin, Oct 09*
 

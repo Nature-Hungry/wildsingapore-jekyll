@@ -1,6 +1,6 @@
 ---
 title: Orsak's flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orsak's flatworm on the shores of Singapore
 keywords: orsaks, nymphozoon, orsaki, flat, worm, flatworm,  polyclad, turbellaria,
   platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -17,20 +17,20 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orsaki/141109lazlks5m3a.JPG
+coverimg: https://images.naturehungry.sg/worm/polycladida/orsaki/141109lazlks5m3a.JPG
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orsaki/141109lazlks5m3a.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/orsaki/141109lazlks5m3a.JPG
     caption: Pseudotentacles squarish, ruffled on the sides, with white tips.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orsaki/141109lazlks5m3l.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/orsaki/141109lazlks5m3l.jpg
     caption: Lazarus Island, Nov 14 Photo shared by Loh Kok Sheng on flickr .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orsaki/180716tbay2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/orsaki/180716tbay2.jpg
     caption: Terumbu Bemban, Jul 18 Photo shared by Abel Yeo on facebook ..
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orsaki/210812jngvc1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/orsaki/210812jngvc1.jpg
     caption: Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orsaki/230122jngccn1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/orsaki/230122jngccn1.jpg
     caption: Pulau Jong, Jan 23 Photo shared by Che Cheng New on facebook .
 location:
 - laz

@@ -1,6 +1,6 @@
 ---
 title: Gobies
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gobies on the shores of Singapore
 keywords: goby, fish, gobiidae, mudskipper, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,74 +18,74 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Gobioidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
     caption: Gobies can be colourful! Chek Jawa, Aug 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/050607chgg7251m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/050607chgg7251m3.jpg
     caption: But most are well camouflaged. Changi, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
     caption: The Broad barred acropora goby lives only in Acropora corals. Pulau Hantu,
       Feb 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
     caption: Many-banded snapping shrimp with a young Saddled shrimp-goby . Labrador,
       May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg
     caption: Many-banded snapping shrimp with an adult Saddled shrimp-goby . Pulau
       Semakau, Feb 09 Photos shared by Tang Hung Bun.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
     caption: Many-banded snapping shrimp with a Pink-speckled shrimp-goby . Kusu Island,
       Aug 08
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
     caption: Mudskippers are gobies too! Pulau Ubin, Apr 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
     caption: The Bumblebee goby is found in mangroves. Admiralty Park, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
     caption: The Crocodile flathead goby looks different! Changi, Jun 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
     caption: Seen on a sea whip . Chek Jawa, Jun 23 Photo shared by Kelvin Yong on
       facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/100913prpd1556m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/caninus/100913prpd1556m3.jpg
     caption: Green-shouldered goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m3.jpg
     caption: Frill-fin goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m3.jpg
     caption: Shadow goby
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/triangularis/100429prpd1888m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/100429prpd1888m3.jpg
     caption: Brown shore goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m3a.jpg
     caption: Black-spotted lagoon-goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m3.jpg
     caption: Ornate lagoon-goby
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3.jpg
     caption: Crocodile flathead goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m3.jpg
     caption: Head-stripe goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
     caption: Mural glider-goby
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3b.jpg
     caption: Slender-lined shrimp goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
     caption: Saddled shrimp goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/090625cyrd5636m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/090625cyrd5636m3.jpg
     caption: Saddled shrimp goby
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg
     caption: Broad barred acropora goby
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
     caption: Mangrove bumblebee goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3.jpg
     caption: Java fatnose goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg
     caption: Grey knight goby
 links_references: "**Links**\n- [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106)\n\
   Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
@@ -200,8 +200,7 @@ Other tiny gobies found in coral reefs live in close association with other anim
 [Broad barred acropora goby](histrio)
 lives only in Acropora corals.
 
-Some gobies (
-*Gobiosoma*
+Some gobies (*Gobiosoma*
 spp.) perform 'cleaning' functions on larger fishes and other marine creatures. These gobies are usually colourful.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
@@ -233,8 +232,7 @@ for free download
 ---
 
 **Some Gobies on Singapore shores (except
-[mudskippers](mudskipper)
-)**
+[mudskippers](mudskipper))**
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery6 %}
@@ -295,16 +293,14 @@ Amblygobius phaleana
 Amblygobius sphynx*
 *[Amblygobius stethophthalmus](stethophthalmus)*
 (previously
-*A. bynoensis*
-) (Head-stripe goby)
+*A. bynoensis*) (Head-stripe goby)
 *Amoya gracilis*
 (Slender amoya)
 *Amoya moloanus*
 (Bar-cheek goby)
 *Apocyptodon*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Arcygobius baliurus*
 (Isthmus goby)
 *Asterropteryx semipunctatus*
@@ -319,8 +315,7 @@ sp.](bathygobius)
 (Meggitt's frill-fin goby)
 *Boleophthalmus*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Brachyamblyopus brachysoma*
 (Short Eel-goby)
 
@@ -490,8 +485,7 @@ Oxymetopon compressus
 
 Oxuderces*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Oxyurichthys longicauda=Oxyurichthys uronema*
 (Fine-blotched tentacle-goby)
 *Oxyurichthys microlepis*
@@ -508,8 +502,7 @@ Paragobiodon echinocephalus*
 (Spiny-headed goby)
 *Parapocryptes*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Paratrypauchen microcephalus*
 (Small-eyed worm-goby)
 
@@ -517,12 +510,10 @@ Paragobiodon echinocephalus*
 
 *Periophthalmodon*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 *Periophthalmus*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 **
 
 *Priolepis nuchifasciata*
@@ -534,8 +525,7 @@ Paragobiodon echinocephalus*
 
 *Pseudapocryptes*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 
 *Pseudogobiopsis oligactis*
 *=^Eugnathogobius oligactis*
@@ -560,8 +550,7 @@ Paragobiodon echinocephalus*
 
 *Scartelaos*
 (see
-[mudskippers](mudskipper)
-)
+[mudskippers](mudskipper))
 
 *Sicyopterus macrostetholepis*
 

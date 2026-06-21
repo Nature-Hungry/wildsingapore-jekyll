@@ -1,6 +1,6 @@
 ---
 title: Pink flowery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink flowery soft coral on the shores of Singapore
 keywords: pink, flower, dendronephthya, nephtheidae, alcyonacea, soft, coral, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
     caption: Beting Bronok, Jun 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
     caption: False cowrie snail . Chek Jawa, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg
     caption: Tiny colourful brittle star Pulau Sekudu, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg
     caption: Tiny porcelain crab. Beting Bronok, Jun 06
 links_references: '**Links**
 

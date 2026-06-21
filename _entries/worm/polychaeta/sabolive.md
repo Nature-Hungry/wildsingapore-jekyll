@@ -1,6 +1,6 @@
 ---
 title: Olive fanworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Olive fanworm on the shores of Singapore
 keywords: olive, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,17 +18,17 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
     caption: Tanah Merah, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/091009tmd2683m3b.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/olive/091009tmd2683m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/091009tmd2683m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/olive/091009tmd2683m3a.jpg
     caption: Tanah Merah, Oct 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/olive/090722chgd7801m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/olive/090722chgd7801m3.jpg
     caption: Sometimes appears 'untidy'. Changi, Jul 09
 location:
 - chg

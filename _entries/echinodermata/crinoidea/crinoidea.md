@@ -1,6 +1,6 @@
 ---
 title: Feather stars
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feather stars on the shores of Singapore
 keywords: feather, star, featherstar, crinoidea, crinoid, echinoderm, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,7 +23,7 @@ subclass: Articulata
 order: Comatulida
 superfamily: Himerometroidea
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/150706srpd7354.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/red/150706srpd7354.jpg
 links_references: '**Links**
 
   - [Class Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)Tan, Leo
@@ -85,53 +85,53 @@ links_references: '**Links**
   Coleman''s World of Water, Australia. 64pp.'
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/150706srpd7354.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/red/150706srpd7354.jpg
     caption: Many gathered on a hard coral. Sentosa Serapong, Jul 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/080607chgd5324m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/080607chgd5324m3.jpg
     caption: Beautiful shades and colours. Changi, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
     caption: Some can be tiny. Tanah Merah, Oct 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/060528bbd2369m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/060528bbd2369m3.jpg
     caption: Clinging on with the cirri. Beting Bronok, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/120123hntd5777m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/red/120123hntd5777m3a.jpg
     caption: Tiny tube feet on the pinnules. Pulau Hantu, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/crinoid/120820sisd0810m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/crinoid/120820sisd0810m3a.jpg
     caption: Channels along the pinnules and arm. Sisters Island, Aug 12
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/060713rlhd4327m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4327m3a.jpg
     caption: Regenerating arm tips. Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/crinoid/120820sisd0875m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/crinoid/120820sisd0875m3.jpg
     caption: Pink eggs in the pinnules? Sisters Island, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
     caption: Some can be tiny. Tanah Merah, Oct 09
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
     caption: Crab Sisters Island, Feb 15 Photo shared by James Koh on flickr
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg
     caption: Shrimp St John's Island, Apr 12 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg
     caption: Worm Sisters Island, Aug 12
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/060713rlhd4317m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4317m3d.jpg
     caption: Brittle star Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/ophiuroidea/featherstar/130626ecplks.JPG
+  - url: https://images.naturehungry.sg/ophiuroidea/featherstar/130626ecplks.JPG
     caption: Brittle star East Coast Park, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/ophiuroidea/featherstar/130625ecpd8222.jpg
+  - url: https://images.naturehungry.sg/ophiuroidea/featherstar/130625ecpd8222.jpg
     caption: Brittle star East Coast Park, Jun 13
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/091203ubnd5078m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/091203ubnd5078m3.jpg
     caption: Blue feather star
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/red/090822sisd9753m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/red/090822sisd9753m3.jpg
     caption: Red feather star
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/brown/080209htnlks01m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/brown/080209htnlks01m3.jpg
     caption: Brown feather star
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/040604bbg0240m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/040604bbg0240m3.jpg
     caption: Black-and-white feather star
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/080605hntlks02m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/080605hntlks02m3.jpg
     caption: Pale feather star
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
     caption: Purple feather star
 trivia_title: if you learn only 3 things about them ..
 trivia_items:

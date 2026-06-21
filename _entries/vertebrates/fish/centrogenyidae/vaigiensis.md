@@ -1,6 +1,6 @@
 ---
 title: False scorpionfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of False scorpionfish on the shores of Singapore
 keywords: false, scorpionfish, scorpion, fish, centrogenys, vaigiensis, centrogenyidae,
   serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,63 +25,62 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Labroidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
     caption: Sentosa, Oct 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/030616cjd0048m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/030616cjd0048m3.jpg
     caption: Chek Jawa, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/100911sisd1257m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/100911sisd1257m3c.jpg
     caption: Sisters Island, Sep 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/060612cftg6114m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/060612cftg6114m3a.jpg
     caption: It has nose flaps! No spines on the head Dorsal fins start well behind
       the eyes.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/060612cftg6114m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/060612cftg6114m6l.jpg
     caption: Changi, Jun 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/241216cjmn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/241216cjmn1.jpg
     caption: Chek Jawa, Dec 2024 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/250501skdlks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/250501skdlks3.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/180911pgldc3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/180911pgldc3.jpg
     caption: Punggol, Sep 18 Photo shared by Dayna Cheah on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/251011lablks12.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/251011lablks12.jpg
     caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/251011tgrlks25.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/251011tgrlks25.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/200820ssisjll4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/200820ssisjll4.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Jianlin Liu on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/170611bsismn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/170611bsismn.jpg
     caption: Big Sisters Island, Jun 17 Photo shared by Marcus Ng on flickr .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/250810bsisal1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/250810bsisal1.jpg
     caption: Big Sisters, Aug 25 Shared by Adriane Lee on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/150605kusmn1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/150605kusmn1m3.jpg
     caption: Kusu Island, Jun 15 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/251009sjijll4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/251009sjijll4.jpg
     caption: St John's Island, Oct 25 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/100517jngtch2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/100517jngtch2m3.jpg
     caption: Pulau Jong, May 10 Photo shared by Toh Chay Hoon on her blog .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/110422tpljk6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/110422tpljk6m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/150121tpkjt1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/150121tpkjt1m3.jpg
     caption: Terumbu Pempang Kecil, Jan 15 Photo shared by Juria Toramae on facebook
       .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/centrogenyidae/vaigiensis/210428slujll4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/210428slujll4.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 
   - [False scorpionfish (
-
   *Centrogenys vaigiensis)*](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/265)
 
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
@@ -95,7 +94,6 @@ links_references: '**Links**
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
 
   - [Tigerfish (
-
   *Centrogenys vaigiensis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/242)
@@ -113,7 +111,6 @@ links_references: '**Links**
   [False scorpionfish](http://www.fishbase.org/Summary/speciesSummary.php?ID=10339)
 
   [(
-
   *Centrogenys vaigiensis*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=10339)

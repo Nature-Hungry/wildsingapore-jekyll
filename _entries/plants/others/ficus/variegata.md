@@ -1,6 +1,6 @@
 ---
 title: 'Common red stem-fig '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common red stem-fig  on the shores of Singapore
 keywords: common, red, stem-fig, stem, fig, ficus, variegated, moraceae, tree, plant,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -22,7 +22,7 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5873m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/ficus/variegata/091213ubnd5873m6l.jpg
 links_references: '**Links**
 
   - [*Ficus variegata*](http://floraofsingapore.wordpress.com/2010/06/18/ficus-variegata/)on
@@ -50,11 +50,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5877m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/variegata/091213ubnd5877m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5876m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/variegata/091213ubnd5876m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5879m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/variegata/091213ubnd5879m3.jpg
     caption: Pulau Ubin, Dec 09
 rdb: LC
 authors:
@@ -82,7 +82,7 @@ A figging Jejawi attracts a whole range of creatures from fruit eating birds of 
 According to Burkill, the fibrous bark is used by jungle natives to make a felt-like cloth used for loin cloths.
 The sweet bark is chewed or the fruits used instead, to cure dysentery.In the past the latex was used in the batik industry. The fruits are apparently only eaten in times of famine and Burkill said that "no European could stomach them".
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/variegata/091213ubnd5873m6l.jpg)
+![](https://images.naturehungry.sg/plants/others/ficus/variegata/091213ubnd5873m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

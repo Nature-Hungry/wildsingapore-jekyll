@@ -1,6 +1,6 @@
 ---
 title: Short ribbon worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Short ribbon worm on the shores of Singapore
 keywords: ribbon, worm, ribbonworm, nemertine, nemertean, nemertines,  field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -13,25 +13,25 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/100213tmd9299m3a.jpg
+coverimg: https://images.naturehungry.sg/worm/nemertea/short/100213tmd9299m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/100213tmd9299m3a.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/100213tmd9299m3a.jpg
     caption: Tanah Merah, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/060531labd2669m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/060531labd2669m3.jpg
     caption: Wrapped around a drill snail. Labrador, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/070304hntg7898m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/070304hntg7898m3.jpg
     caption: Coiled around a paralysed shrimp. Pulau Hantu, Mar 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/250501skdky1.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/250501skdky1.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/090210lablks02m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/090210lablks02m3.jpg
     caption: Labrador, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/200112sjimn1.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/200112sjimn1.jpg
     caption: St John's Island, Jan 20 Shared by Marcus Ng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/240310tplta2.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/240310tplta2.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Tommy Arden on facebook
       .
 location:

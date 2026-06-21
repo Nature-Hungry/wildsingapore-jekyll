@@ -1,6 +1,6 @@
 ---
 title: Little black mussel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Little black mussel on the shores of Singapore
 keywords: little, black, horse, mussel, clam, xenostrobus, mytilidae, bivalve, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info
@@ -20,27 +20,26 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Xenostrobinae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
     caption: Shiny black ones on a large boulder among oysters. Chek Jawa, Jan 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/050809lckg1048m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/xenostrobus/050809lckg1048m3.jpg
     caption: Greyish ones on mangrove roots Lim Chu Kang, Aug 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
     caption: Pulau Sekudu, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9039m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9039m3a.jpg
     caption: Byssus threads form a kind of nest. Chek Jawa, Jan 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/101207ubnd3208m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/xenostrobus/101207ubnd3208m3b.jpg
     caption: Pulau Ubin, Jan 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/xenostrobus/101216pgllks.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/xenostrobus/101216pgllks.JPG
     caption: Punggol, Dec 10 Shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 
   - [Black mussel (
-
   *Xenostrobus*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092)
@@ -52,7 +51,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Atrate mussel (
-
   *Xenostrobus atratus*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=80195)

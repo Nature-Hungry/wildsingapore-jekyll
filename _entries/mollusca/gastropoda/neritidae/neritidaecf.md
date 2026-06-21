@@ -1,6 +1,6 @@
 ---
 title: Similar nerite snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Similar nerite snails on the shores of Singapore
 keywords: chamaleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,32 +18,32 @@ subclass: Neritimorpha
 order: Cycloneritida
 superfamily: Neritoidea
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/080620chgd5946m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/080620chgd5946m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/071129blyd7704m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/071129blyd7704m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/080519sisd3329m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/080519sisd3329m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/071129blyd7704m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/071129blyd7704m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/080519sisd3330m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/080519sisd3330m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3b.jpg
     caption: ''
 links_references: '**Links**
 

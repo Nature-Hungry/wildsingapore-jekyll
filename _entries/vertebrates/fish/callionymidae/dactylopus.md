@@ -1,6 +1,6 @@
 ---
 title: Kuiter's dragonet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Kuiter's dragonet on the shores of Singapore
 keywords: kuiter, dragonet, fish, callionymidae, dactylopus, kuiteri, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,31 +24,31 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg
     caption: Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m6l.jpg
     caption: Kusu Island, May 14
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/171104cyrtch1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/171104cyrtch1.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/110508crylks1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/110508crylks1m6l.jpg
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/140501kuslks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/140501kuslks.JPG
     caption: Kusu Island, May 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/110508cyrro1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/110508cyrro1m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Rene Ong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/080425cyrmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/080425cyrmn.jpg
     caption: Cyrene Reef, Apr 08 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/170514bbbdc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/170514bbbdc1.jpg
     caption: Beting Bemban Besar, May 17 Photo shared by Dayna Cheah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/dactylopus/170513tpltch2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/170513tpltch2.jpg
     caption: Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on facebook
       .
 links_references: "**Links**\n- [Orange-black dragonet](http://www.fishbase.org/summary/60086)\n\
@@ -90,9 +90,7 @@ Those seen on the intertidal about 2-3cm, grows to 15cm long. A portion of the d
 According to Kelvin Lim, juveniles have proportionally taller dorsal fins with a prominent yellow edged eye-spot on the first dorsal fin. Small juveniles around 2 cm are white with orange bars on the head and nape.
 
 **Sometimes confused**
-with the Fingered dragonet (
-*Dactylopus dactylopus*
-). Both Fingered and Kuiter's dragonets have the first pelvic fin ray separated from the rest of the pelvic fin. The fingered dragonet differs in having long filamentous rays on the first dorsal fin and distinct stripes on the second dorsal fin.
+with the Fingered dragonet (*Dactylopus dactylopus*). Both Fingered and Kuiter's dragonets have the first pelvic fin ray separated from the rest of the pelvic fin. The fingered dragonet differs in having long filamentous rays on the first dorsal fin and distinct stripes on the second dorsal fin.
 
 **Sometimes mistaken**
 for

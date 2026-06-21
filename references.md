@@ -339,7 +339,7 @@ Centre. 160 pp.
 Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore.
 160 pp.  
   
-Tan, Ria and Alan Yeo. 2003. *[Chek Jawa Guidebook](http://www.wildsingapore.com/chekjawa/text/cjguide.htm)*. Simply Green, 213pp.   
+Tan, Ria and Alan Yeo. 2003. *[Chek Jawa Guidebook](https://images.naturehungry.sg/chekjawa/text/cjguide.htm)*. Simply Green, 213pp.   
   
 Tan Siong Kiat and Henrietta P. M. Woo, 2010 [*Preliminary Checklist of The Molluscs of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/preliminary_checklist_molluscs_singapore.pdf) (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.   
   

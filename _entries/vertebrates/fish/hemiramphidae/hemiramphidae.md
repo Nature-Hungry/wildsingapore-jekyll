@@ -1,6 +1,6 @@
 ---
 title: Halfbeaks
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Halfbeaks on the shores of Singapore
 keywords: halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,38 +17,38 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
     caption: The lower jaw is many times longer than the upper jaw. Sungei Buloh,
       Dec 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/broadnose/060130hntg4333m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/broadnose/060130hntg4333m3.jpg
     caption: A young halfbeak? Pulau Hantu, Jan 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876m6l.jpg
     caption: At high tide, often seen under mangrove vegetation. Sungei Buloh, Feb
       11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/twig/100429prpd1877.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/twig/100429prpd1877.jpg
     caption: Shadow cast resembles a twig. Pasir Ris, Apr 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/twig/110630tmftd4796m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/twig/110630tmftd4796m3.jpg
     caption: Twig-like halfbeak
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/broadnose/070812sisg1982m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/broadnose/070812sisg1982m3.jpg
     caption: Broad-nosed halfbeak
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/broadnose/090606tmftd3297m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/broadnose/090606tmftd3297m3.jpg
     caption: Broad-nosed halfbeak
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m3.jpg
     caption: Striped-nosed halfbeak
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/plain/031030sntd0034m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/plain/031030sntd0034m3.jpg
     caption: Plain halfbeak
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/plain/110716kusd6882m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/plain/110716kusd6882m3.jpg
     caption: Plain halfbeak
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m3a.jpg
     caption: Quoy's halfbeak
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/far/091206tmd5674m3d.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/far/091206tmd5674m3d.jpg
     caption: Black-barred halfbeak
 links_references: '**Links**
 
@@ -157,8 +157,7 @@ Most halfbeak lay eggs attached to seaweed in shallow waters. Some, however, may
 ## Human uses
 
 Halfbeaks apparently taste good and large species (like the
-[Black-barred halfbeak](far)
-) are eaten in some places, sold fresh and dried salted. Or they are used as bait fish. They are caught with nets under lights at night. Some freshwater species are popular in the live aquarium trade.
+[Black-barred halfbeak](far)) are eaten in some places, sold fresh and dried salted. Or they are used as bait fish. They are caught with nets under lights at night. Some freshwater species are popular in the live aquarium trade.
 
 **Status and threats:**
 Our halfbeaks are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.

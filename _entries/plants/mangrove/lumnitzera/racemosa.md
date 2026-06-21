@@ -1,6 +1,6 @@
 ---
 title: 'Teruntum putih '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Teruntum putih  on the shores of Singapore
 keywords: teruntum, putih, lumnitzera, racemosa, combretaceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,14 +21,14 @@ class: Magnoliopsida
 order: Myrtales
 inat_id: 164873
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg
     caption: PulauSemakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/081213smkd3022m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/081213smkd3022m3a.jpg
     caption: Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg
     caption: White flowers, stamens same length as petals. Pulau Ubin, Aug 03
 links_references: '**Links**
 
@@ -41,7 +41,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Teruntum bunga puteh (
-
   *Lumnitzera racemosa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1066)
@@ -118,9 +117,7 @@ habitats:
 ## Where seen?
 This pretty plant with plasticky leaves and tiny white flowers is sometimes seen in our mangroves. It is found in the back mangroves, preferring sandy or hard mud areas. Also on shores and waterways with freshwater influence. It can tolerate more saline conditions than
 [Teruntum merah](littorea)
-(
-*Lumnitzera littorea*
-). There are some large old trees at Kranji Nature Trail.
+(*Lumnitzera littorea*). There are some large old trees at Kranji Nature Trail.
 
 ## Features
 
@@ -132,9 +129,7 @@ The small fruits are ribbed, fibrous and float, and dispersed by water. Each fru
 
 **Sometimes mistaken for**
 [Chengam](../scyphiphora/hydrophyllacea)
-(
-*Scyphiphora hydrophyllacea*
-).
+(*Scyphiphora hydrophyllacea*).
 
 According to Giesen, although occurring throughout Malaysia and Indonesia,
 *L. littorea*
@@ -146,18 +141,16 @@ practically exclude each other in habitat and have never been collected in exact
 
 According to Burkill, the timber has similar properties as that of
 [Teruntum merah](littorea)
-(
-*Lumnitzera littorea*
-) but because it is a smaller plant it is less useful.
+(*Lumnitzera littorea*) but because it is a smaller plant it is less useful.
 
 **Status and threats:**
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg)
 
 *Mandai, Mar 11*
 **
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/lumnitzera/racemosa/030809ubnd0005m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/030809ubnd0005m3.jpg)
 
 *Pulau Ubin, Aug 03*
 

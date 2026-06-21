@@ -1,6 +1,6 @@
 ---
 title: Commensal snapping shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Commensal snapping shrimp on the shores of Singapore
 keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -25,14 +25,14 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg
     caption: Changi, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg
     caption: Changi, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg
     caption: Changi, May 08 Under a stone.
 location:
 - pgl

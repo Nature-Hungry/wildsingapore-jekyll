@@ -1,6 +1,6 @@
 ---
 title: Conical slipper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Conical slipper snail on the shores of Singapore
 keywords: conical, slipper, desmaulus, calyptraea, extinctorium, crepidulidae, calyptraeidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -18,23 +18,23 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
     caption: Conical slipper snails on the outside of the shell. Flat slipper snails
       on the inside. Changi, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/100712chgd8426.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/100712chgd8426.jpg
     caption: Conical slipper snail on the outside. Changi, Jul 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1681m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1681m3.jpg
     caption: Chek Jawa, Sep 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
     caption: On a shell occupied by a hermit crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
     caption: On a living scallop . Changi, Aug 18
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/121214chgemn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/121214chgemn.jpg
     caption: Growing on a living Window pane shell clam . Changi East, Dec 12 Photo
       shared by Marcus Ng on flickr .
 location:

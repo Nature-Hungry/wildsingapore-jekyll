@@ -1,6 +1,6 @@
 ---
 title: 'Sea hibiscus '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea hibiscus  on the shores of Singapore
 keywords: talipariti, tiliaceum, hibiscus, tiliaceus, malvaceae, plant, tree, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,7 +23,7 @@ order: Malvales
 subfamily: Malvoideae
 tribe: Hibisceae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg
 links_references: '**Links**
 
   - [*Talipariti tiliaceum*](http://floraofsingapore.wordpress.com/2010/07/11/talipariti-tiliaceum/)on
@@ -75,23 +75,23 @@ links_references: '**Links**
   The Singapore Science Centre. 160pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/081206smkd2478m3.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/081206smkd2478m3.jpg
     caption: Juvenile Cotton stainer bug These bugs feed on its seeds. Pulau Semakau,
       Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/dysdercus/090214sbwrd7160m3a.jpg
+  - url: https://images.naturehungry.sg/insecta/dysdercus/090214sbwrd7160m3a.jpg
     caption: Adult Bugs are often found in large numbers under Sea hibiscus leaves.
       Sungei Buloh Wetland Reserve, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090321krjo3211491m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/090321krjo3211491m3a.jpg
     caption: Kranji Canal, Mar 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3.jpg
     caption: Changi Boardwalk, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090912chgbwd0537m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/090912chgbwd0537m3a.jpg
     caption: Changi Boardwalk, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3.jpg
     caption: Chek Jawa, Oct 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090408wdld9158m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/090408wdld9158m3.jpg
     caption: Woodland Park, Apr 09
 size:
 - 1000.0
@@ -120,13 +120,9 @@ based on DNA studies. But the old name
 A shrub to a tall tree growing to 10-15m. Leaves (10-15cm) heart-shaped, dark green and shiny above, white and finely furry beneath. The leaves have tiny slits on the main veins on the underside of the leaf. Secretions from these slits often attracts ants. Flower a typical hibiscus-shape, yellow with maroon eye fading to dull pink or orange before falling. Stigma column light yellow, stigma deep crimson purple. According to Corners, the flower blooms at about 9am, long after sunrise and close in the afternoon at about 4pm. The petals usually fall off the same evening or the next morning. Usually, every flower sets fruit. Fruit ripens to a tiny dry capsule (2-3cm) surrounded by the calyx. It splits open to reveal the seeds which float and can withstand extended periods of immersion in sea water.
 
 ## Role in habitat
-Each of three veins on the underside of the leaf near the stalk have a small slit. A sweet substance is secreted from these slits, and ants of all sizes can be seen drinking from them. Among these, are the fierce Weaver ants (
-*Oecophylla smaragdina*
-), which may help keep off insect pests. Some insects that feed on the plant include the
+Each of three veins on the underside of the leaf near the stalk have a small slit. A sweet substance is secreted from these slits, and ants of all sizes can be seen drinking from them. Among these, are the fierce Weaver ants (*Oecophylla smaragdina*), which may help keep off insect pests. Some insects that feed on the plant include the
 [Cotton stainer bug](../../../insecta/dysdercus)
-(
-*Dysdercus decussatus*
-) that feeds on its seeds.
+(*Dysdercus decussatus*) that feeds on its seeds.
 
 ## Human uses
 
@@ -136,19 +132,19 @@ The timber has a wide range of uses from building houses, boats, household imple
 
 According to Wee, the leaves are considered cooling in Malaysia and Indonesia and used to control fevers. The leaves are also used to sooth and remove phlegm in respiratory ailments. In the Philippines, fresh bark soaked in water is used to treat dysentery.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg)
 
 *Sungei Buloh Wetland Reserve, Jan 02*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/020415sbwrcpd8160m3.jpg)*
+*![](https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/020415sbwrcpd8160m3.jpg)*
 Slits on the leaf veins.
 *Sungei Buloh Wetland Reserve, Apr 02*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/031120sbwrd0002m3.jpg)*
+*![](https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/031120sbwrd0002m3.jpg)*
 The yellow flower turns orange
 
 before it drops off.
 *Sungei Buloh Wetland Reserve, Nov 03*
 **
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/hibiscus/tiliaceus/090117smkd5536m3.jpg)
+*![](https://images.naturehungry.sg/plants/coastal/hibiscus/tiliaceus/090117smkd5536m3.jpg)
 
 Pulau Semakau, Jan 09*
 

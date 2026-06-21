@@ -1,6 +1,6 @@
 ---
 title: Sargassum seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sargassum seaweed on the shores of Singapore
 keywords: sargassum, brown, seaweed, weed, sargassaceae, phaeophyta, algae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -21,7 +21,7 @@ class: Phaeophyceae
 subclass: Fucophycidae
 order: Fucales
 updated: Oct 2015
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - Sargassum seaweeds are more common on our Southern shores.
@@ -29,65 +29,65 @@ trivia_items:
 - The little bladders are floats not fruits.
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100103sisc0092m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100103sisc0092m3.jpg
     caption: 'Large piles of sargassum washed ashore. Sisters Island, Jan 10  '
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/101106burs00361m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/101106burs00361m3.jpg
     caption: Air bladders keep the seaweed afloat near the water surface and sunlight.
       Terumbu Buran, Nov 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/111128sntd3968m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/111128sntd3968m3.jpg
     caption: Growing from a hard surface . Sentosa, Nov 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/050529sjid3610m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/050529sjid3610m3a.jpg
     caption: Big 'leaves'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/051103sisg2808m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/051103sisg2808m3.jpg
     caption: Medium 'leaves'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/050509hntg5971m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/050509hntg5971m3a.jpg
     caption: Small 'leaves'.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/060212sisg4763m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/060212sisg4763m3.jpg
     caption: Fluffy bits reproductive structures? Sisters Island, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/060227labg5117m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/060227labg5117m3.jpg
     caption: Long bits reproductive structures? Labrador, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/060228labg5226m3d.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/060228labg5226m3d.jpg
     caption: Long bits reproductive structures? Labrador, Feb 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/040703sisd1674m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/040703sisd1674m3.jpg
     caption: Tiny octopus on sargassum . Sentosa, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
     caption: Tiny Red-nose shrimp sheltering in sargassum. Sentosa, Sep 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/040520sntad0020m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/040520sntad0020m3.jpg
     caption: Tiny fish and entangled green seaweed on sargassum . Sentosa, May 04
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/070901sjig2113m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/070901sjig2113m3.jpg
     caption: Dove snail eats tiny algae growing on sargassum. St. John's Island, Sep
       07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
     caption: The Crosslandia nudibranch looks just like sargassum! St. John's Island,
       Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/giant/101010scyrd1984m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/giant/101010scyrd1984m3.jpg
     caption: A Giant reef worm snatches a bunch of sargassum back into its lair. South
       Cyrene, Oct 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100810sngd9913m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100810sngd9913m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100810sngd9905m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100810sngd9905m3.jpg
     caption: Pulau Senang, Aug 10
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100131slud8804m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100131slud8804m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100130brkd8503m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100130brkd8503m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100130brkd8506m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100130brkd8506m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100131slud8819m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100131slud8819m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100811slud0077m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100811slud0077m3.jpg
     caption: Pulau Salu, Aug 10
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/091231biod6972m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/091231biod6972m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/091204pawd0011m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/091204pawd0011m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 
@@ -191,7 +191,7 @@ habitats:
 ## Where seen?
 The largest of our brown seaweeds, this golden leafy seaweed with strange air bladders is commonly encountered on our Southern shores, but rarely on our Northern shores. It grows on the rocky shores as well as on coral rubble.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg)
 Sargassum bloom over a reef.
 *Sisters Island, Sep 10*
 

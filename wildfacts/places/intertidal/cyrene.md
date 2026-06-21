@@ -29,7 +29,7 @@ Earth](http://www.google.com/earth/index.html) and [Earth
 Point](http://www.earthpoint.us/Shapes.aspx))  
   
 [GIS
-map of Cyrene](http://www.wildsingapore.com/gismaps/text/cyrene.htm)   
+map of Cyrene](https://images.naturehungry.sg/gismaps/text/cyrene.htm)   
 courtesy of
 Dr. D. Kumaran Raju
 ![](photos/cyrene.jpg)
@@ -46,7 +46,7 @@ and Waterbodies Plan](http://www.ura.gov.sg/uramaps/?preopen=Special%20and%20Det
   of [NParks](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=120&Itemid=123)
   and the [Blue Water
   Volunteers](http://www.bluewatervolunteers.org/). The intertidal area is also regularly surveyed
-  by [wildsingapore](http://www.wildsingapore.com/).
+  by [wildsingapore](https://images.naturehungry.sg/).
 - 2006-now:
   [TeamSeagrass](http://teamseagrass.blogspot.sg/) with
   [NParks](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=120&Itemid=123)
@@ -92,7 +92,7 @@ posts about Cyrene** on wild shores of singapore
   Reef Exposed](http://cyrenereef.blogspot.sg/) a blog documenting efforts to raise awareness
   about Cyrene.
 - [Cyrene
-  Reef](http://www.wildsingapore.com/places/cyrene.htm) on wildsingapore.
+  Reef](https://images.naturehungry.sg/places/cyrene.htm) on wildsingapore.
 - [TeamSeagrass](http://teamseagrass.blogspot.sg/)
   Volunteer led effort to monitor seagrass meadows in Singapore
   including [Cyrene](http://teamseagrass.blogspot.sg/search/label/cyrene).

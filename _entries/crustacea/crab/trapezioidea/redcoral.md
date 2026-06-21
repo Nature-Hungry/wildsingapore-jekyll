@@ -1,6 +1,6 @@
 ---
 title: Red coral crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red coral crab on the shores of Singapore
 keywords: tiny, red, coral, crab, trapezia. cymodoce, trapeziidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info,  photo
@@ -28,46 +28,45 @@ zoosubsection: Heterotremata
 superfamily: Trapezioidea
 subfamily: Trapeziinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg
     caption: Cyrene Reef, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/201215bsrpvc6.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/201215bsrpvc6.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/120507sntspgd1509m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/120507sntspgd1509m3a.jpg
     caption: Sentosa Serapong, May 12 A pair in the Cauliflower coral.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
     caption: Cyrene Reef, Jul 10 A pair in a bleaching Cauliflower coral.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/100527tmd3504m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/100527tmd3504m3.jpg
     caption: Tanah Merah, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/220618tmftky2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/220618tmftky2.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Kelvin Yong on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/200124sntky1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/200124sntky1.jpg
     caption: Sentosa Tg. Rimau, Jan 20 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/240114lazvc2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/240114lazvc2.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/250810bsistl1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/250810bsistl1.jpg
     caption: Big Sisters, Aug 25 Photo shared by Tammy Lim on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/160209cyrmn3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/160209cyrmn3.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/100627hntlks1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/100627hntlks1m3.jpg
     caption: Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/150717smksnml2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/150717smksnml2m3.jpg
     caption: Pulau Semakau South, Jul 15 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/110423tpllks11m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/110423tpllks11m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
 links_references: '**Links**
 
   - [Lilac coral crab (
-
   *Trapezia cymodoce*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=103072)
@@ -153,8 +152,7 @@ zone:
 ## Where seen?
 This tiny red crab is sometimes seen in
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.) on our Southern shores.
 
 ## Features
@@ -163,8 +161,7 @@ Body width about 1cm, body flat, claws large with pointed pincers usually dark a
 
 This crab lives only in
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.). The crab feeds on the mucus produced by the coral, gathering these with the minute comb-like structures at the tips of their feet. In turn, it protects the coral from predators such as the Crown-of-Thorns sea star and sea snails that eat corals. It discourages the sea star by using its sharp pincers to nip at the sensitive tube feet of the sea star.
 
 **Status and threats:**

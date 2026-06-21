@@ -1,6 +1,6 @@
 ---
 title: Cabbage coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cabbage coral on the shores of Singapore
 keywords: cabbage, banana, trachyphyliidae, siderastretidae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,57 +17,57 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3a.jpg
     caption: Many mouths located in the valleys.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/160605tmlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/160605tmlks.JPG
     caption: Tanah Merah, Jun 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/130527tmlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/130527tmlks.JPG
     caption: Tanah Merah, Mar 13 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/200707hntjt2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/200707hntjt2.jpg
     caption: Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/240623hnttl2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/240623hnttl2.jpg
     caption: Pulau Hantu, Jun 24 Photo shared by Tammy Lim on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/252531thntlks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/252531thntlks2.jpg
     caption: Terumbu Hantu (Cigar Reef), May 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/160609thntro5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/160609thntro5.jpg
     caption: Terumbu Hantu, Jun 16 Photo shared by Rene Ong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/110620smklks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/110620smklks.JPG
     caption: Pulau Semakau, Jun 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/130503smklks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/130503smklks.JPG
     caption: Pulau Semakau, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/200623smkedc1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/200623smkedc1.jpg
     caption: Pulau Semakau East, Jun 20 Photo shared by Dayna Cheah on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/260629smkelks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/260629smkelks3.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/2007025smknjll2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/2007025smknjll2.jpg
     caption: Pulau Semakau North, Jul 20 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/230221trylks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/230221trylks2.jpg
     caption: Terumbu Raya, Feb 23 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/210629bbblks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/210629bbblks1.jpg
     caption: Beting Bemban Besar, Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/071225smkmn01m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/071225smkmn01m3.jpg
     caption: Pulau Semakau, Dec 08 Photo shared by Marcus Ng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/100403tbblks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/100403tbblks1m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/geoffroyi/070618rlhg0722m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/070618rlhg0722m3.jpg
     caption: Raffles Lighthouse, Jun 07
 links_references: '**Links**
 

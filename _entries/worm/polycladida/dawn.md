@@ -1,6 +1,6 @@
 ---
 title: Dawn flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dawn flatworm on the shores of Singapore
 keywords: orange, black, flat, worm, flatworm, pseudobiceros, hancockanus, uniarborensis,
   polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -17,71 +17,71 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/060131sjig4519m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/dawn/060131sjig4519m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/060131sjig4519m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/060131sjig4519m3.jpg
     caption: St. John's Island, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/060131sjig4519m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/060131sjig4519m3a.jpg
     caption: 'Marginal band: orange, grey, white. Pseudotentacles all black with white
       tips. Grey or white stripe on the head.'
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/050528kusg7077m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/050528kusg7077m3a.jpg
     caption: Underside uniformly grey semi-translucent.
   gallery2:
   - url: https://live.staticflickr.com/828/27333526027_54c0f6d7b2_z.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/080920hntd0722m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/080920hntd0722m3.jpg
     caption: Pulau Hantu, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/090806tmd8299m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/090806tmd8299m3.jpg
     caption: Tanah Merah, Aug 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/2007024pcnlks19.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/2007024pcnlks19.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/100102sntlks1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/100102sntlks1m3.jpg
     caption: Sentosa, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/140519sntsrplks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/140519sntsrplks1m3.JPG
     caption: Sentosa Serapong, May 15 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/240528tsllks6.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/240528tsllks6.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/200310lazvc4.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/200310lazvc4.jpg
     caption: Lazarus, Mar 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/201019sjilks1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/201019sjilks1.jpg
     caption: St John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/100528tkknml1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/100528tkknml1m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Neo Mei Lin on her blog .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/210402tmskmn3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/210402tmskmn3.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/140811tryjll1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/140811tryjll1m3.jpg
     caption: Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/200625tbdc6.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/200625tbdc6.jpg
     caption: Terumbu Bemban, Jun 20 Photo shared by Dayna Cheah on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/140909tptlks4m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/140909tptlks4m3.jpg
     caption: Terumbu Pempang Tengah, Sep 14 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/240310tplky3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/240310tplky3.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Kelvin Yong on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/220105rlhvc4.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/220105rlhvc4.jpg
     caption: Raffles Lighthouse, Jan 22 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/220102biovc1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/220102biovc1.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/091205pawlks15m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/091205pawlks15m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/091205sudd5583m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/091205sudd5583m3.jpg
     caption: Pulau Sudong, Dec 09
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/210428slutch1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/210428slutch1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/100810sngd0008m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/100810sngd0008m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/dawn/100130brklks10m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/dawn/100130brklks10m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: "**Links**\n- [*Pseudoceros uniarborensis*](http://polycladida.lifedesks.org/pages/3215)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\

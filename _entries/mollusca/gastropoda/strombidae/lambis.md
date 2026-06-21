@@ -1,6 +1,6 @@
 ---
 title: Spider conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spider conch on the shores of Singapore
 keywords: spider, conch, lambis, lambis, strombidae, gastropod, mollusc,snail, shell,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,7 +23,7 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
 links_references: '**Links**
 
   - [Family Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140.htm)including
@@ -71,105 +71,105 @@ links_references: '**Links**
   pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
     caption: Pulau Jong, Aug 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/091218tmd6017m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/091218tmd6017m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/091218tmd6017m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/091218tmd6017m3a.jpg
     caption: Eyes sticking out from under the shell.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/091218tmd6014m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/091218tmd6014m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/120411thnts06115m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/120411thnts06115m3.jpg
     caption: Laying bright orange egg string. Terumbu Hantu, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/120411thnts06094m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/120411thnts06094m3.jpg
     caption: Orange egg string. Terumbu Hantu, Apr 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/070704jngg1106m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/070704jngg1106m3.jpg
     caption: A young snail that hasn't developed spines on its shell yet. Pulau Jong,
       Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/120222tmnbs03753m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/120222tmnbs03753m3.jpg
     caption: A young snail that hasn't developed spines on its shell yet. Tanah Merah,
       Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/091117smkjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/091117smkjk1m3.jpg
     caption: A young snail Pulau Semakau, Nov 09 Photo shared by James Koh on his
       blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/090824tusjk3m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/090824tusjk3m3a.jpg
     caption: Tuas, Aug 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/210626cjvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/210626cjvc2.jpg
     caption: Chek Jawa, Jun 21 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/090210lablks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/090210lablks.JPG
     caption: Juvenile, Labrador, Feb 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/181126lablks.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/181126lablks.jpg
     caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/201119sntrk4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/201119sntrk4.jpg
     caption: Sentosa Tg Rimau, Nov 20 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/120507sntsrglks2m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/120507sntsrglks2m3.JPG
     caption: A juvenile. Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on
       his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/160509srpik8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/160509srpik8.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/220104tkkrk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/220104tkkrk2.jpg
     caption: Pulau Tekukor, Jan 22 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/251009sjijll2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/251009sjijll2.jpg
     caption: St John's Island, Oct 25 Photo shared by Jianlin Liu on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/251011ssisky2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/251011ssisky2.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Kelvin Yong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/260217bsislks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/260217bsislks3.jpg
     caption: Big Sisters Island, Feb 26 Photo shared by Loh Kok Sheng on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/240528tslrk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/240528tslrk2.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/250531thntrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/250531thntrk1.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/160609thntro6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/160609thntro6.jpg
     caption: Terumbu Hantu, Jun 16 Photo shared by Rene Ong on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/101108bkomlks6m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/101108bkomlks6m3.JPG
     caption: Terumbu Bukom, Nov 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/101010scyrlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/101010scyrlks.JPG
     caption: South Cyrene, Oct 10 Photo shared by Loh Kok Sheng on flickr .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/240526bbbccn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/240526bbbccn1.jpg
     caption: Beting Bemban Besar, May 24 Photo shared by Che Cheng Neo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/210502tptvc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/210502tptvc4.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by VIncent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/110517tptlks11m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/110517tptlks11m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/110423tpllks9m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/110423tpllks9m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/110422tplrl3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/110422tplrl3m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/240310tplta3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/240310tplta3.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Tommy Arden on facebook
       .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/151225tsmklks6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/151225tsmklks6m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/161117rlhhpy1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/161117rlhhpy1.jpg
     caption: A juvenile. Raffles Lighthouse, Nov `6 Photo shared by Heng Pei Yan on
       facebook .
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/100130brklks2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/100130brklks2m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/220201brktch6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/220201brktch6.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/100613snglks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/210428slumn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/210428slumn1.jpg
     caption: Pulau Salu, Aor 21 Photo shared by Marcus Ng on facebook .
   gallery16:
   - url: https://farm3.staticflickr.com/2548/4196519281_7794a4b7d7_z.jpg?zz=1

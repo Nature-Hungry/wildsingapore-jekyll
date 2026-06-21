@@ -1,6 +1,6 @@
 ---
 title: Pleated fan green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pleated fan green seaweed on the shores of Singapore
 keywords: pleated, fan, seaweed, weed, green, rhipidosiphon. udotea, javensis, udoteacea,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,17 +19,17 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jul 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3.jpg
     caption: Labrador, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3.jpg
     caption: Chek Jawa, May 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/rhipidosiphon/250726cyrtl2.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/rhipidosiphon/250726cyrtl2.jpg
     caption: Cyrene, Jul 25 Photo shared by Tammy Lim on facebook .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Lavender hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lavender hermit crab on the shores of Singapore
 keywords: lavender, hermit, crab, anomura, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,37 +14,37 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg
     caption: Tanah Merah, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg
     caption: Tanah Merah, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070218tmd8015m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070218tmd8015m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070218tmd8015m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070218tmd8015m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/050608cftg7343m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/050608cftg7343m3.jpg
     caption: With a sea anemone on its shell. Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
     caption: With a sea anemone on its shell. Changi, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/050426cftg5066m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/050426cftg5066m3.jpg
     caption: With a sea anemone on its shell. Changi, Apr 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/240723chgerk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/240723chgerk1.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
     caption: East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/200705kusvc1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/200705kusvc1.jpg
     caption: Kusu Island, Jul 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg
     caption: With a sea anemone on its shell. Cyrene, Jul 25 Photo shared by Richard
       Kuah on facebook .
 location:

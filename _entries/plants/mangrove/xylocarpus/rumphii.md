@@ -1,6 +1,6 @@
 ---
 title: ' Nyireh laut'
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of  Nyireh laut on the shores of Singapore
 keywords: nyireh, bunga, xylocarpus, rumphii, polygalaceae, meliaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,22 +25,22 @@ subfamily: Cedreloideae
 tribe: Xylocarpeae
 inat_id: 425826
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg
     caption: Fruits small often in pairs. Sentosa, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg
     caption: Leaftlets almost heart-shaped with prominent pale veins. St. John's Island,
       Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg
     caption: Bark with longitudinal fissures. Sentosa, Apr 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/110203sjid5596m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/110203sjid5596m3.jpg
     caption: Fruits small. St. John's Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/100321sntd9691m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/100321sntd9691m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3.jpg
     caption: Sentosa, Mar 10
 links_references: '**Links**
 
@@ -57,7 +57,7 @@ links_references: '**Links**
 
   by Joseph Lai on his eart-h.com website done during the
 
-  [Sentosa Survey of 2006](http://www.wildsingapore.com/projects/survey/sentosa/index.html)
+  [Sentosa Survey of 2006](https://images.naturehungry.sg/projects/survey/sentosa/index.html)
 
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
 
@@ -118,7 +118,7 @@ According to Giesen, among its uses are the wood for handles of traditional kniv
 **Status and threats:**
 The tree is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg)
 
 *St. John's Island, Jul 09*
 

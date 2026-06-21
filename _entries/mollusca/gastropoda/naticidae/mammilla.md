@@ -1,6 +1,6 @@
 ---
 title: Oval moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Oval moon snail on the shores of Singapore
 keywords: oval, moon, snail, naticidae, polinices, mammilla, gastropod, mollusc, sand,
   collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,60 +19,59 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
     caption: Kusu Island, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/050611kusg7838m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/050611kusg7838m3.jpg
     caption: Kusu Island, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/170812cyrmn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/170812cyrmn2.jpg
     caption: Cyrene, Aug 17 Photo shared by Marcus Ng on flickr .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/200726tpl.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/200726tpl.jpg
     caption: Typical trail created when it burrows just beneath the surface. Terumbu
       Pempang Laut, Jul 20
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg
     caption: Tanah Merah, Aug 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/090609sntd3550m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/090609sntd3550m3.jpg
     caption: Sentosa, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg
     caption: Sentosa, Jun 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/100302ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/100302ecplks.JPG
     caption: East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/200311blylks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/200311blylks2.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/201116lazlks5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/201116lazlks5.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/252531thntrk4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/252531thntrk4.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/150718smkelks6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/150718smkelks6m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/190902tryky3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/190902tryky3.jpg
     caption: Terumbu Raya, Sep 19 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/151225tsmkjtm1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/151225tsmkjtm1m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Juria Toramae on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/201018smkslks4a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/201018smkslks4a.jpg
     caption: Pulau Semakau South, Oct 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/201018smksvc3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/201018smksvc3a.jpg
     caption: Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on facebook
       .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/220102biotch8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/220102biotch8.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/091205sudlks7m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/091205sudlks7m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 
   - [Pear-shaped moon snail (
-
   *Polinices mammilla*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86934)
@@ -80,7 +79,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Pear-shaped moon snail (
-
   *Polinices mammilla*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
@@ -91,7 +89,6 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   - [Moon Snail (
-
   *Polinices*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)
@@ -162,8 +159,7 @@ This oval white moon snail is among our most commonly encountered. Usually seen 
 
 ## Features
 
-5-6cm. Shell smooth glossy, thick heavy, oval, the spiral tip smoothly sticking out so the overall shape resembles a teardrop or breast (
-*Mamma*
+5-6cm. Shell smooth glossy, thick heavy, oval, the spiral tip smoothly sticking out so the overall shape resembles a teardrop or breast (*Mamma*
 means 'breast' in Latin). Shell pattern plain white, sometimes with large irregular patches of brown, black, orange or yellow. On the underside, a large bump and shallow depression next to the bump. Operculum smooth, made of a thin horn-like material, amber yellow sometimes with dark blotches. Body plain white. It's hard to get a good look at the entire body as the snail retracts quickly and completely into the shell when it is disturbed.
 
 **Sometimes mistaken for**

@@ -1,6 +1,6 @@
 ---
 title: Smooth sponge green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth sponge green seaweed on the shores of Singapore
 keywords: sponge, seaweed, weed, green, codium, cladophoropsis, vaucheriaeformis,
   siphonocladaceae, chlorophyta, algae, porifera, halichondria, cartilaginea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
@@ -14,33 +14,33 @@ attributes:
 - 44
 - 97
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100131slud8784m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/100131slud8784m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100102tkkd7199m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/100102tkkd7199m3.jpg
     caption: Pulau Tekukor, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/060727jngd5176m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/060727jngd5176m3.jpg
     caption: Pulau Jong, Jul 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/171009blyay5.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/171009blyay5.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/160124smkell3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/160124smkell3.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Lisa Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100130brkd8495m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/100130brkd8495m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/091231biod7097m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/091231biod7097m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3.jpg
     caption: Pulau Biola, Dec 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3.jpg
     caption: Terumbu Semakau, May 10
 links_references: '**Links**
 
@@ -141,24 +141,20 @@ This woolly branching seaweed is often seen on many of our Southern shores, grow
 
 The entire organism can be about 20-30cm across (to 50cm), with 'stems' about 0.5-1cm wide. 'Stems' may be short knobs, long cylindrical or flattened, or even flattened leafy shapes. Tips usually thin and tapering, usually not Y-shaped. Each 'stem' is made up of fine, branched filaments that are packed together to form structures that feel woolly, velvety, spongey or felt-like. The 'stems' are smooth and do not have obvious holes in them, especially when the sponge is out of water. Light to dark green.
 
-This organism is actually a symbiotic combination of an algae (
-*Cladophoropsis vaucheriaeformis*
-) and a sponge (
-*Halichondria cartilaginea,*
+This organism is actually a symbiotic combination of an algae (*Cladophoropsis vaucheriaeformis*) and a sponge (*Halichondria cartilaginea,*
 Family Halichondriidae)! The sponge cells and spicules are intertwined with the algae.
 
 **Sometimes confused with**
 the
 [Holey sponge seaweed](../rhodophyta/spongeholey)
-(
-*Ceratodictyon*
+(*Ceratodictyon*
 sp.) which has more obvious 'holes' along the 'stems'. It is a red seaweed which also has a symbiotic relationship with another kind of sponge. The two organisms are sometimes difficult to tell apart in the field.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg)
 
 *Pulau Hantu, May 05
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/spongesmooth/111225tmskd4855m3a.jpg)*
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/spongesmooth/111225tmskd4855m3a.jpg)*
 No obvious holes.
 *Terumbu Semakau, Dec 11*
 

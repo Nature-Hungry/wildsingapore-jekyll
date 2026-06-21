@@ -1,6 +1,6 @@
 ---
 title: Honeycomb grouper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Honeycomb grouper on the shores of Singapore
 keywords: honey, comb, grouper, fish, epinephalus, quoyanus, serranidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,15 +23,15 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg
     caption: Tanah Merah, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m6l.jpg
     caption: Tanah Merah, Apr 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/180106sntay1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/quoyanus/180106sntay1.jpg
     caption: Sentosa Tg Rimau, Jan 18 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 

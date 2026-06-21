@@ -1,6 +1,6 @@
 ---
 title: Knobbly sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Knobbly sea star on the shores of Singapore
 keywords: knobbly, chocolate, chip, sea star, seastar, star, fish, starfish, protoreaster,
   nodosus, nodulosus, oreasteridae, asteroidea, echinoderm, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -22,112 +22,112 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/040508skdbd0025m3.jpg
     caption: Pulau Sekudu, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/040508skdad0056m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/040508skdad0056m3b.jpg
     caption: Tiny pedicellaria near the mouth. Pink or purple tube feet.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/040508skdad0056m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/040508skdad0056m3a.jpg
     caption: Mouth.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
     caption: Eating a sand dollar? Cyrene Reef, May 11 Photo shared by Marcus Ng on
       flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/110817cyrL1070555m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/110817cyrL1070555m3.jpg
     caption: Spawning posture? Cyrene Reef, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/120311cyrs04691m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/120311cyrs04691m3.jpg
     caption: Spawning posture? Cyrene Reef, Mar 12
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/040604bbg0244m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/040604bbg0244m3.jpg
     caption: On a hot day, may be contorted. It's attempting to cool off. It is not
       dying, there is no need to move it. Beting Bronok, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/080425cyrd1684m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/080425cyrd1684m3.jpg
     caption: Juveniles are common on Cyrene Reef Cyrene Reef, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/080425cyrd1684m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/080425cyrd1684m3a.jpg
     caption: Papulae emerging on the upper surface
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/090109cyrd4603m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/090109cyrd4603m3.jpg
     caption: With six arms . Cyrene Reefs, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/090109cyrd4629m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/090109cyrd4629m3.jpg
     caption: With four arms. Cyrene Reefs, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/030715bbd0001m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/030715bbd0001m3.jpg
     caption: Four-armed Beting Bronok, Jul 03
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/031225skdd0026m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/031225skdd0026m3.jpg
     caption: White and pinkish Pulau Sekudu, Dec 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/050724bbd5310m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/050724bbd5310m3.jpg
     caption: Brown and chocolate Beting Bronok, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/110508cyrd1235m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/110508cyrd1235m3.jpg
     caption: Green Cyrene Reef, May 11
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/080720cjd8047m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/080720cjd8047m3.jpg
     caption: Blue Chek Jawa, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/080706chg7284m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/080706chg7284m3.jpg
     caption: Green Changi, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/081114cyrd1837m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/081114cyrd1837m3.jpg
     caption: Without knobs on the arms! Cyrene Reef, Nov 08
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/100612chgjk1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/100612chgjk1m3.jpg
     caption: Changi, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/100612chgjk3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/100612chgjk3m3.jpg
     caption: Changi, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/100908chgnml1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/100908chgnml1m3.jpg
     caption: Changi, Sep 10 Photo shared by Neo Mei Lin on her blog .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/100612chglks1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/100612chglks1m3.jpg
     caption: Changi, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/080522chglks02m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/080522chglks02m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/201020chgsafmn3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/201020chgsafmn3.jpg
     caption: Changi, Oct 20 Photo shared by Marcus Ng on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/210531chg6jt1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/210531chg6jt1.jpg
     caption: Changi Carpark 6, May 21 Photo shared byJonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/201020chgsafmn2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/201020chgsafmn2.jpg
     caption: Changi, Oct 20 Photo shared by Marcus Ng on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/081019cjtch01m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/081019cjtch01m3.jpg
     caption: Chek Jawa, Oct 08 Photo shared by Toh Chay Hoon on flickr .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/240724tmfttt3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/240724tmfttt3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 24 Photo shared by Tommy Tan on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/160605tmlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/160605tmlks.JPG
     caption: East Coast (PCN), Jun 16 Photo shared by Loh Kok Sheng on flickr .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/160705ecplks5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/160705ecplks5.jpg
     caption: East Coast Park, Jul 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/160210ecplks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/160210ecplks.JPG
     caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/160210ecplks2.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/160210ecplks2.JPG
     caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on flickr .
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/210530ecpglks4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/210530ecpglks4.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/210530epcnvc1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/210530epcnvc1.jpg
     caption: East Coast Park (PCN), May 21 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/210628ecpBlks5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/210628ecpBlks5.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/151001blyjt6m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/151001blyjt6m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/151001blyjt17m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/151001blyjt17m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/200210blylks4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/200210blylks4.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
   gallery16:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/200112sjijll4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/200112sjijll4.jpg
     caption: St John's Island, Jan 20 Photo shared by Jianlin Liu on facebook ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/150829lazlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/150829lazlks.JPG
     caption: Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/150829lazlks1.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/150829lazlks1.JPG
     caption: Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr .
   gallery17:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/protoreaster/160208smkslks5.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/160208smkslks5.JPG
     caption: Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on his blog
       .
 location:
@@ -231,9 +231,7 @@ This huge and colourful sea star is sometimes on some of our undisturbed Norther
 
 Diameter with arms, adults to 30cm, juveniles 8-15cm. Hard, heavy body that is calcified. Arms long tapering to rounded tip, thick and triangular in cross-section. Although their arms appear stiff, these can bend quite extensively. When submerged tiny transparent finger-like structures (papulae) might be seen on the upperside. This species is generally identified by the single row of knobs along the upperside of the arms. The shape, colour and number of knobs may vary. Underneath, from grooves under the arms, emerge tube feet with sucker-shaped tips. These tube feet can be bright red or purple! Knobbly sea stars are mostly red, orange or brown, but sometimes white or pink ones are encountered. Blue or green ones are also sometimes seen.
 
-The Nodulose sea star (
-*Protoreaster nodulosus*
-) can look very similar. They are difficult to tell apart with certainty in the field.
+The Nodulose sea star (*Protoreaster nodulosus*) can look very similar. They are difficult to tell apart with certainty in the field.
 
 Knobbly sea stars are not venomous, although they are often brightly coloured and covered with dangerous-looking knobs, nodules and spines. They are also called the Giant Nodulated sea star, Horned sea star or Chocolate Chip sea star.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -1,6 +1,6 @@
 ---
 title: 'Yellow flame '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow flame  on the shores of Singapore
 keywords: yellow, flame, yellowflame, peltophorum, pterocarpum, fabaceae, leguminosae,
   caesalpiniaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -22,7 +22,7 @@ class: Magnoliopsida
 order: Fabales
 subfamily: Caesalpinioideae
 updated: Aug 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg
 links_references: '**Links**
 
   - *[Peltophorum pterocarpum](http://floraofsingapore.wordpress.com/2010/08/14/peltophorum-pterocarpum/)*on
@@ -58,31 +58,31 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3c.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3c.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/081206smkd2630m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/081206smkd2630m3.jpg
     caption: Growing near the high water mark. Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/090922sjid1567m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/090922sjid1567m3.jpg
     caption: St. John's Island, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/100124cjd8071m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/100124cjd8071m3.jpg
     caption: Chek Jawa, Jan 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/120407lazd8191m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/120407lazd8191m3.jpg
     caption: Lazarus, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/100124cjd8072m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/100124cjd8072m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/120407lazd8184m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/120407lazd8184m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/120407lazd8189m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/120407lazd8189m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/120407lazd8189m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/120407lazd8189m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/120407lazd8188m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/120407lazd8188m3.jpg
     caption: ''
 size:
 - 1500.0
@@ -116,15 +116,15 @@ There are two Yellow-flame trees with
 [Heritage Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=96&Itemid=79)
 ; at the Singapore River bank, opposite 1 Fullerton Hotel with a girth of 3.07m and height 20m; and at Renci Hospital car-park, Bassein Rd with a girth of 5.6m and height 25m.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg)
 
 Growing at the base of
 
 a natural cliff, facing the sea.
 *St. John's Island, Jul 09
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/090711sjid7157m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/090711sjid7157m3.jpg)
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/peltophorum/pterocarpum/090711sjid7157m3a.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/090711sjid7157m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

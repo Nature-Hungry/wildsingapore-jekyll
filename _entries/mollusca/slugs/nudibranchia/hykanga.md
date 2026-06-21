@@ -1,6 +1,6 @@
 ---
 title: Kanga hypselodoris nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Kanga hypselodoris nudibranch on the shores of Singapore
 keywords: hypselodoris, kanga, nudibranch, slug, seaslug, chromodoridae, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -24,58 +24,58 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
     caption: Chek Jawa, Jul 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2515m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2515m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/210528lygjll4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/210528lygjll4.jpg
     caption: Mating? Changi Loyang, May 21 Photo shared by Jianlin Liu on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/200821cjlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/200821cjlks1.jpg
     caption: Chek Jawa, Aug 20 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/210115prpjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/210115prpjll1.jpg
     caption: Pasir Ris Park, Jan 21 Photo by Jianlin LIu on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/251012chgmn3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/251012chgmn3.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/200622chgjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/200622chgjll1.jpg
     caption: Changi, Jun 20 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/251109chgsaflks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/251109chgsaflks2.jpg
     caption: Changi Creek, Nov 25 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/210613ubntch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/210613ubntch2.jpg
     caption: Pulau Ubin, Jun 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/130721sjlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/130721sjlks.JPG
     caption: Chek Jawa, Jul 13 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/090720skdmn6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/090720skdmn6m3.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his blog ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/200706skdlks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/200706skdlks6.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/090526bbtch1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/090526bbtch1m3.jpg
     caption: Beting Bronok, May 09 Photo shared by Toh Chay Hoon on flickr
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/250627bbjjl2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/250627bbjjl2.jpg
     caption: Beting Bronok, Jun 25 Photo by Jianlin Liu on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/180616bblks13.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/180616bblks13.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/140616bblks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/140616bblks2.jpg
     caption: Beting Bronok, Jun 14 Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/170625bbmn6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/170625bbmn6l.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Marcus Ng on flickr .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/130625ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/130625ecplks.JPG
     caption: East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/140714ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/140714ecplks.JPG
     caption: East Coast Park, Jul 14 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

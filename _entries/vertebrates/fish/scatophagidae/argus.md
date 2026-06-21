@@ -1,6 +1,6 @@
 ---
 title: Spotted scat
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted scat on the shores of Singapore
 keywords: spotted, scat, fish, scatophagus, argus, scatophagidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,33 +22,32 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
     caption: Chek Jawa, Oct 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/100602tmd5032.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/100602tmd5032.jpg
     caption: Tanah Merah, May 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/140616bbrl.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/140616bbrl.jpg
     caption: Beting Bronok, Jun 14 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/160706skdlks4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/160706skdlks4.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/091008tmjk2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/091008tmjk2m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/091008tmjk3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/091008tmjk3m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/161017wcpsbr.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/161017wcpsbr.jpg
     caption: Juvenile. West Coast Park, Oct 16 Photo shared on the Singapore Biodiversity
       Records
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scatophagidae/argus/200707hntjt3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/200707hntjt3.jpg
     caption: Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook .
 links_references: '**Links**
 
   - [Spotted Scat (
-
   *Scatophagus argus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/326)
@@ -60,7 +59,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Scat or Butterfish (
-
   *Scatophagus argus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/244)
@@ -72,7 +70,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Spotted scat (
-
   *Scatophagus argus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2110)

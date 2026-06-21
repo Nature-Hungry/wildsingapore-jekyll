@@ -1,6 +1,6 @@
 ---
 title: Sally-light-foot crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sally-light-foot crab on the shores of Singapore
 keywords: sally, light, foot, crab, grapsus, albolineatus, grapsidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -29,58 +29,57 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg
     caption: East Coast, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/060102sisg3704m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/060102sisg3704m3.jpg
     caption: Moult at top left corner, crab in bottom right. Sisters Islands, Jan
       06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/040703sisd1760m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/040703sisd1760m3.jpg
     caption: A moulted crab (blue) with moult (orange). Sisters Islands, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/100912kusd1381m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/100912kusd1381m3.jpg
     caption: Flattened against an encrusted surface. Kusu Island, Sep 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/090609tmjk2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/090609tmjk2m3.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/210529ecpblks8.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/210529ecpblks8.jpg
     caption: Just moulted. East Coast, May 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/240707pcnrg1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/240707pcnrg1.jpg
     caption: East Coast (PCN), Jul 24 Photo shared by Rachael Goh on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/070604ecplks01m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/070604ecplks01m3.jpg
     caption: East Coast, Jun 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/170428ecpcnlks1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/170428ecpcnlks1.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/151031ecpmblks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/151031ecpmblks.JPG
     caption: East Coast, Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/101106burlks6m3.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/101106burlks6m3.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/170809tkkrk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/170809tkkrk1.jpg
     caption: Pulau Tekukor, Aug 17 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/251009sjiky2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/251009sjiky2.jpg
     caption: St. John's Island, Oct 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/090921sjinml2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/090921sjinml2m3.jpg
     caption: St. John's Island, Sep 09 Photo shared by Neo Mei Lin on her blog .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/251011ssislvo1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/251011ssislvo1.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Lon Voon Ong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/250810bsisky5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/250810bsisky5.jpg
     caption: Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/251207hntjll4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/251207hntjll4.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 
   - [Mottled Sally-light-foot (
-
   *Grapsus albolineatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21498)
@@ -157,9 +156,7 @@ Body width 5-6cm. Body circular, flat, dark with a pattern of light spots in ban
 **Sometimes mistaken with**
 the
 [Scaly rock crab](../plagusiidae/plagusia)
-(
-*Plagusia squamosa*
-) which has a more squarish less flat more bumpy body.
+(*Plagusia squamosa*) which has a more squarish less flat more bumpy body.
 
 **What does it eat?**
 It is a scavenger and also eats seaweeds. It has relatively small pincers that work like scissors to snip and scrape off edible titbits.

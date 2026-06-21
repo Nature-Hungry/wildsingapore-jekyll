@@ -1,6 +1,6 @@
 ---
 title: Grey knight-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Grey knight-goby on the shores of Singapore
 keywords: grey, knight, goby, stigmatogobius, sadanundio, fish, gobiidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,17 +24,16 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg
     caption: Admiralty Park, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/sadanundio/110307admd6820m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/sadanundio/110307admd6820m6l.jpg
     caption: Admiralty Park, Mar 11
 links_references: '**Links**
 
   - [Grey knight-goby (
-
   *Stigmatogobius sadanundio*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
@@ -46,7 +45,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Grey knight-goby (
-
   *Stigmatogobius sadanundio*
 
   )](http://www.fishbase.tw/summary/speciessummary.php?id=25119)

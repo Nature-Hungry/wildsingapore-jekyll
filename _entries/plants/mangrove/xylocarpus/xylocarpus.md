@@ -1,6 +1,6 @@
 ---
 title: ' Nyireh'
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of  Nyireh on the shores of Singapore
 keywords: nyireh, bunga, xylocarpus, polygalaceae, meliaceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -19,44 +19,44 @@ order: Sapindales
 subfamily: Cedreloideae
 tribe: Xylocarpeae
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090823cjd9861m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/moluccensis/090823cjd9861m6l.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/090401sntd8897m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090401sntd8897m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -81,7 +81,7 @@ links_references: '**Links**
 
   by Joseph Lai on his eart-h.com website done during the
 
-  [Sentosa Survey of 2006](http://www.wildsingapore.com/projects/survey/sentosa/index.html)
+  [Sentosa Survey of 2006](https://images.naturehungry.sg/projects/survey/sentosa/index.html)
 
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
 
@@ -117,9 +117,7 @@ habitats:
 ## Where seen?
 The handsome
 [Mangrove cannon-ball tree](granatum)
-(
-*Xylocarpus granatum*
-) is still commonly seen in our mangroves. But other
+(*Xylocarpus granatum*) is still commonly seen in our mangroves. But other
 *Xylocarpus*
 species are not as frequently encountered.
 
@@ -133,7 +131,7 @@ is listed as 'Endangered', while
 *Xylocarpus rumphii*
 is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg)
 
 *Pulau Semakau, Jan 09*
 

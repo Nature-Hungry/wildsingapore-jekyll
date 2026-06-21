@@ -1,6 +1,6 @@
 ---
 title: Various kinds of limpets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Various kinds of limpets on the shores of Singapore
 keywords: limpets, mollusca, gastropoda, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -17,27 +17,27 @@ subclass: Patellogastropoda
 order: Nacellida
 superfamily: Nacelloidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/040901sjid6173m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/040901sjid6173m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/polyplacophora/chiton/110803chgd8435m3.jpg
+  - url: https://images.naturehungry.sg/polyplacophora/chiton/110803chgd8435m3.jpg
     caption: ''
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

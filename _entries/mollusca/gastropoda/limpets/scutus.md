@@ -1,6 +1,6 @@
 ---
 title: Hoof-shield limpet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hoof-shield limpet on the shores of Singapore
 keywords: limpet, scutus, hoof, shield, fissurellidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,63 +19,63 @@ order: Lepetellida
 superfamily: Fissurelloidea
 subfamily: Emarginulinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg
     caption: Chek Jawa, Jul 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg
     caption: Chek Jawa, Apr 03 .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
     caption: Tuas, Mar 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/101222chgd3777m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/101222chgd3777m6l.jpg
     caption: A barnacle grew on its shell! Changi, Dec 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/101222chgd3770m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/101222chgd3770m3.jpg
     caption: Underside. Changi, Dec 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/201020swgvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/201020swgvc1.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/201118pglvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/201118pglvc2.jpg
     caption: Punggol, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/131223pgllks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/131223pgllks.JPG
     caption: Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/120604pgllks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/120604pgllks.JPG
     caption: Punggol, Jun 12 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/111030skdlks11m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/111030skdlks11m3.jpg
     caption: Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/160706skdjt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/160706skdjt1.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/100614bblks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/100614bblks1m3.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/250627bbvc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/250627bbvc4.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/250627bbvc4a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/250627bbvc4a.jpg
     caption: ''
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/090725tmjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/090725tmjk1m3.jpg
     caption: Tanah Merah, Dec 08 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/160705ecplks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/160705ecplks6.jpg
     caption: East Coast Park, Jul 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/210628ecpBvc7.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/210628ecpBvc7.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook
       .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/210712srpvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/210712srpvc2.jpg
     caption: Sentosa Serapong, Jul 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/240212sjivc5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/240212sjivc5.jpg
     caption: St John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/240211bigsisvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/240211bigsisvc2.jpg
     caption: Big Sisters Island, Feb 24 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/220812ssisjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/220812ssisjll1.jpg
     caption: Small Sisters Island, Aug 22 Photo shared by Jianlin Liu on facebook
       .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/100810snglks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: 'Tiny orange brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny orange brittle stars  on the shores of Singapore
 keywords: tiny, orange, brittle, star, brittlestar, ophiothela, mirabilis, ophiuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,41 +26,41 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Oct 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg
     caption: Pulau Semakau, Oct 11 In asparagus soft coral .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/200822jng.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/200822jng.jpg
     caption: Pulau Jong, Aug 20 In asparagus soft coral .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/160209cyrlks4.JPG
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/160209cyrlks4.JPG
     caption: On pencil sea urchin spine. Cyrene Reef, Feb 16 Photo shared by Loh Kok
       Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
     caption: Chek Jawa, Oct 16 In Spiky flowery soft coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/200823cyr.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/200823cyr.jpg
     caption: Cyrene Reef, Aug 20 In Leathery sea fan
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/230805thntjt1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/230805thntjt1.jpg
     caption: On Black-and-white leathery soft coral . Terumbu Hantu, Aug 23 Photo
       shared by Johnathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/200919bsisvc3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/200919bsisvc3.jpg
     caption: . On Black-and-white leathery soft coral . Big Sisters Island, Sep 20
       Photo shared by Vincent Choo on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/210822ssislks1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/210822ssislks1.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/250430sjilll5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/250430sjilll5.jpg
     caption: On Leathery sea fan . St John's Island, Apr 25 Photo shared by Low Liong
       Leong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/240113lazky2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/240113lazky2.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/240623hntlks9.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/240623hntlks9.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinyorange/240412tbccn6.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/240412tbccn6.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook .
 links_references: '**Links**
 

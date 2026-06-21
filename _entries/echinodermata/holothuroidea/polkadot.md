@@ -1,6 +1,6 @@
 ---
 title: Polka-dotted sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Polka-dotted sea cucumber on the shores of Singapore
 keywords: cucumber, seacucumber, bohadschia, holothuria, ocellata, holothuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,33 +25,33 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Holothuriida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg
     caption: Changi, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/080731chgd8384m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/080731chgd8384m3a.jpg
     caption: Circles around short conical bumps.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/080731chgd8389m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/080731chgd8389m3.jpg
     caption: Feeding tentacles.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/080731chgd8382m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/080731chgd8382m6l.jpg
     caption: Obvious flat underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/080731chgd8385m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/080731chgd8385m3a.jpg
     caption: Mouth
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/ocellata1.gif
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/ocellata1.gif
     caption: Ossicles of the sea cucumber.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/ocellata2.gif
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/ocellata2.gif
     caption: From the paper by Teo and Ng (PDF).
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/ocellata4.gif
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/ocellata4.gif
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/ocellata3.gif
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/ocellata3.gif
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/251012chgmn8.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/251012chgmn8.jpg
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/polkadot/090628lazlt6m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/090628lazlt6m3.jpg
     caption: Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog .
 links_references: "**Links**\n- [*Holothuria ocellata*](http://www.sealifebase.org/summary/Holothuria-ocellata.html)\n\
   on SeaLife Base: Technical fact sheet.\n- [*Holothuria ocellata*](http://species-identification.org/species.php?species_group=nasc&id=71)\n\

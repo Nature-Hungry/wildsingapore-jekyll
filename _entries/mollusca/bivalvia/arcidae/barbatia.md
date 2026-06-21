@@ -1,6 +1,6 @@
 ---
 title: Barbatia ark clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Barbatia ark clam on the shores of Singapore
 keywords: barbatia, cockle, ark, shell, clam, arcidae,  bivalve, mollusc, clam, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -19,29 +19,29 @@ infraclass: Pteriomorphia
 order: Arcida
 superfamily: Arcoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
     caption: St John's Island, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/110203sjid5721m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/110203sjid5721m3.jpg
     caption: St. John's Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/060326tusd0662m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/060326tusd0662m3.jpg
     caption: Tuas, Mar 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/141010lablks.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/141010lablks.JPG
     caption: Labrador, Oct 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/201215bsrpvc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/201215bsrpvc4.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/210812jngvc6.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/210812jngvc6.jpg
     caption: Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/210501tbvc5.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/210501tbvc5.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/barbatia/200709bbbvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/200709bbbvc3.jpg
     caption: Beting Bemban Besar, Jul 20 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

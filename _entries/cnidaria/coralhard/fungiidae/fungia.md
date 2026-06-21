@@ -1,6 +1,6 @@
 ---
 title: 'Fungia mushroom  corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fungia mushroom  corals  on the shores of Singapore
 keywords: fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg
     caption: Short tentacles
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg
     caption: Underside.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
     caption: Oval mushroom coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg
     caption: Circular mushroom coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
     caption: Circular mushroom coral
 links_references: '**Links**
 
@@ -135,9 +135,7 @@ An unusual property of fungia mushroom corals is the inclusion of large amounts 
 **Sometimes mistaken for**
 the
 [Sunflower mushroom hard coral](heliofungia)
-(
-*Heliofungia actiniformis*
-) especially when
+(*Heliofungia actiniformis*) especially when
 *Heliofungia*
 has its tentacles retracted.
 *Heliofungia*

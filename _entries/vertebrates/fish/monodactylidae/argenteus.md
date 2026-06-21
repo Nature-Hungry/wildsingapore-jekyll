@@ -1,6 +1,6 @@
 ---
 title: Silver moony
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Silver moony on the shores of Singapore
 keywords: silver, moony, monodactylus, argenteus, monodactylidae, fish, scatophagidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,21 +23,20 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg
     caption: Sungei Buloh Wetland Reserve, Oct 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monodactylidae/argenteus/031008sbwrad0039m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monodactylidae/argenteus/031008sbwrad0039m3.jpg
     caption: Seen from the front, it resembles a stick! Sungei Buloh Wetland Reserve,
       Oct 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
 links_references: '**Links**
 
   - [Silver Moony (
-
   *Monodactylus argenteus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/325)
@@ -49,7 +48,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Silver Moony (
-
   *Monodactylus argenteus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2110)
@@ -65,7 +63,6 @@ links_references: '**Links**
   and
 
   [Silver Moony (
-
   *Monodactylus argenteus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=5807)

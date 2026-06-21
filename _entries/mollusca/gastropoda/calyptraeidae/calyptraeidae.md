@@ -1,6 +1,6 @@
 ---
 title: Slipper snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Slipper snails on the shores of Singapore
 keywords: slipper, crepidula, calyptraea, calyptraeidae, crepidulidae, calyptraeidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -18,7 +18,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
 links_references: '**Links**
 
   - [Family Crepidulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Crepidulidae.html)on
@@ -44,22 +44,22 @@ links_references: '**Links**
   and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
     caption: Two different kinds of slipper snails on this shell occupied by a hermit
       crab. Changi, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
     caption: The smaller shell is usually the male. Chek Jawa, Mar 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
     caption: Tanah Merah, Sep 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
     caption: On a horseshoe crab . Changi, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
     caption: On a living scallop . Changi, Aug 18
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
     caption: Conical slipper snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
     caption: Flat slipper snail
 location:
 - chg

@@ -1,6 +1,6 @@
 ---
 title: Broadclub cuttlefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Broadclub cuttlefishes on the shores of Singapore
 keywords: broadclub, cuttlefish, sepia, latimanus, sepiidae, cephalopod, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -20,65 +20,64 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg
     caption: Tanah Merah, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/111226tmftd5031m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/111226tmftd5031m3c.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3.jpg
     caption: Young cuttlefish resembles a floating mangrove leaf with midrib, veins
       and stem. Tanah Merah, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/150802bblks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/150802bblks2.jpg
     caption: Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/121117hntmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/121117hntmn.jpg
     caption: Pulau Hantu, Nov 12 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/091008tmjk5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/091008tmjk5m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/160509srpik7.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/160509srpik7.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/240212sjiky2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/240212sjiky2.jpg
     caption: St John's Island, Feb 24 Photo shared by Kelvin Yong on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/210113smkwvc3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/210113smkwvc3b.jpg
     caption: Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on facebook
       ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/210113smkwvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/210113smkwvc3.jpg
     caption: Pulau Semakau (West), Jan 21 Photo shared by Vincent Choo on facebook
       ..
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/221225smksmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/221225smksmn1.jpg
     caption: Pulau Semakau (South), Dec 22 Photo shared by Marcus Ng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/121115tsmklks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/121115tsmklks2.JPG
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/121115tsmklks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/121115tsmklks1.JPG
     caption: Terumbu Semakau, Nov 12
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/131006smklks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/131006smklks1.JPG
     caption: Pulau Semakau, Oct 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/131006smklks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/131006smklks2.JPG
     caption: The same cuttlefish changi colour. Photo shared by Loh Kok Sheng on his
       blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/111026smklks.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/111026smklks.JPG
     caption: Pulau Semakau, Oct 11 Photo shared by Loh Kok Sheng on flickr .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/170311bbbjt.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/170311bbbjt.jpg
     caption: Beting Bemban Besar, Mar 17 Photo shared by Juria Toramae on facebook
       ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/220521bbbjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/220521bbbjll1.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by Jianlin LIu on facebook ..
 links_references: '**Links**
 
   - [Broadclub cuttlefish (
-
   *Sepia latimanus*
 
   )](http://sealifebase.ca/summary/Sepia-latimanus.html)
@@ -151,8 +150,7 @@ It preys on fishes and crustaceans, apparently mesmerising or distracting them b
 **Broad babies:**
 According to Norman, this cuttlefish lays its egg capsules deep inside branching hard corals, typically
 [Pore hard corals](../../cnidaria/coralhard/poritidae/porbranch)
-(
-*Porites*
+(*Porites*
 sp.). A male cuttlefish establishes a territory over coral colonies suitable for egg laying. The female approaches the male, mates with him, then lays the eggs deep among the coral branches where they harden and are hard to remove. The eggs hatch in 4-6 weeks. Juveniles hide among coral and may mimic brown or yellow mangrove leaves in colour, pattern (complete with stem, ribs and scattered spots) as well as floating movement in the water. More about
 [cephalopod eggs](cepeggs)
 .

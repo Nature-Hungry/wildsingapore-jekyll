@@ -1,6 +1,6 @@
 ---
 title: Zebra coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Zebra coral on the shores of Singapore
 keywords: zebra, oulastrea, crispata, oulastreidae, faviidae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,45 +17,45 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg
     caption: Lazarus, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120123hntd5465m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/120123hntd5465m3.jpg
     caption: Pulau Hantu, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/120123hntd5640m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/120123hntd5640m3.jpg
     caption: Pulau Hantu, Jan 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/110812prpd8599m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/110812prpd8599m3.jpg
     caption: Pasir Ris, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/060516chgd2001m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/060516chgd2001m3.jpg
     caption: Changi, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/080525ubnd4244m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/080525ubnd4244m3.jpg
     caption: Pulau Ubin, Jun 08
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3b.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/160124smkemn2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/160124smkemn2.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/100130brkd8717m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/100130brkd8717m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/091204pawd5282m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/091204pawd5282m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/091231biojk10m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/091231biojk10m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Jamed Koh on his flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/oulastrea/100601slud4934m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/100601slud4934m3.jpg
     caption: Pulau Salu, Jun 10
 links_references: '**Links**
 

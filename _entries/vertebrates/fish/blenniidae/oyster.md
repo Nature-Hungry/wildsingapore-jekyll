@@ -1,6 +1,6 @@
 ---
 title: Oyster blenny
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Oyster blenny on the shores of Singapore
 keywords: blenniidae, blenny, fish, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,16 +14,16 @@ family: Blennidae
 genus: ''
 species: ''
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
     caption: East Coast Park, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/170212bsismn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/oyster/170212bsismn.jpg
     caption: Elongate oyster-blenny (Omobranchus elongatus) Big Sisters Island, Feb
       17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/240212sjivc2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/oyster/240212sjivc2.jpg
     caption: With eggs! St John's Island, Feb 24 Photo shared by Vincent Choo on facebook
       .
 location:

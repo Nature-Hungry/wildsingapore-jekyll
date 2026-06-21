@@ -1,6 +1,6 @@
 ---
 title: Spaghetti worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spaghetti worms on the shores of Singapore
 keywords: spaghetti, worm, bristleworm, polychaete, annelid, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,29 +18,29 @@ infraclass: Canalipalpata
 order: Terebellida
 suborder: Terebelliformia
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
     caption: Family Cirratulidae.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/080801chgd8649m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/080801chgd8649m3a.jpg
     caption: With pointed head. Changi, Jul 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/050819cjg1610m3b.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/050819cjg1610m3b.jpg
     caption: Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/090707prpjk2m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/090707prpjk2m3.jpg
     caption: Pasir Ris, Jul 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/090820prpd7574m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/090820prpd7574m3.jpg
     caption: Pasir Ris, Jul 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/100429prpd1861m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/100429prpd1861m3.jpg
     caption: Pasir Ris Park, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/100430chgd1973m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/100430chgd1973m3.jpg
     caption: Changi Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/100429prpd1929m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/100429prpd1929m3.jpg
     caption: Pasir Ris Park, Apr 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spaghetti/260103prpyls6.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/260103prpyls6.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Yan Le Su on facebook .
 links_references: '**Links**
 

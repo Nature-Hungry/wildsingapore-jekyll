@@ -1,6 +1,6 @@
 ---
 title: Variegated sundial snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Variegated sundial snail on the shores of Singapore
 keywords: sundial, heliacus, variegatus, architectonicidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,21 +17,21 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg
     caption: St John's Island, Feb 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
     caption: Operculum is conical and resembles a drill. St John's Island, Feb 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
     caption: St John's Island, Feb 13
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck1m3.jpg
     caption: Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
     caption: Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3b.jpg
     caption: ''
 links_references: '**Links**
 

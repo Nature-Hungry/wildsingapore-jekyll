@@ -1,6 +1,6 @@
 ---
 title: 'Seashore nutmeg '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Seashore nutmeg  on the shores of Singapore
 keywords: nutmeg, knema, globularia, myristicaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,7 +20,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Magnoliales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/040208cjd0011m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/knema/globularia/040208cjd0011m3.jpg
 links_references: '**Links**
 
   - [*Knema globularia*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2982)on
@@ -53,16 +53,16 @@ links_references: '**Links**
   pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/080412cjd1319m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/knema/globularia/080412cjd1319m3.jpg
     caption: Chek Jawa, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/080412cjd1319m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/knema/globularia/080412cjd1319m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/080412cjd1319m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/knema/globularia/080412cjd1319m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/070623cjd2686m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/knema/globularia/070623cjd2686m6l.jpg
     caption: Chek Jawa, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/090926cjd1856m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/knema/globularia/090926cjd1856m3.jpg
     caption: Chek Jawa, Sep 09
 size:
 - 400.0
@@ -101,10 +101,10 @@ According to Burkill, the wood is not durable but it is sometimes used for rafte
 **Status and threats:**
 Previously thought to be extinct, with the discoveries of some trees in Pulau Ubin and St. John's Island it is now listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/040208cjd0011m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/knema/globularia/040208cjd0011m3.jpg)
 
 *Chek Jawa, Feb 04
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/knema/globularia/040208cjd0013m3.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/knema/globularia/040208cjd0013m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

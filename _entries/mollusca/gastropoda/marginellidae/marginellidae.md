@@ -1,6 +1,6 @@
 ---
 title: Margin snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Margin snails on the shores of Singapore
 keywords: marginellidae, cryptospira, gastropod, mollusc, margin, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -19,17 +19,17 @@ order: Neogastropoda
 superfamily: Volutoidea
 subfamily: Pruninae
 updated: Dec 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1d.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/marginellidae/cryptospira/210529ecppcnch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/marginellidae/cryptospira/210529ecppcnch1.jpg
     caption: East Coast (PCN), May 21 Photo shared by Toh Chay Hoon on facebook .
 location:
 - ecp

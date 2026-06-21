@@ -1,6 +1,6 @@
 ---
 title: Penaeid prawns
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Penaeid prawns on the shores of Singapore
 keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -9,7 +9,7 @@ genus: Family
 species: Penaeidae
 attributes: []
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
 links_references: '**Links**
 
   - [Prawns (*Penaeus*and*Metapenaeus*)](http://mangrove.nus.edu.sg/pub/seashore/text/182.htm)Tan,
@@ -78,23 +78,23 @@ links_references: '**Links**
   vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
     caption: Like other shrimps, it contracts its abdomen to quickly swim backwards.
       Sentosa, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/030716cjd0023m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/030716cjd0023m3.jpg
     caption: Some hide in the sand with only the 'nose' and eyes sticking out. Chek
       Jawa, Jul 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/030716cjd0025m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/030716cjd0025m3.jpg
     caption: Blue-tailed penaeid prawns
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
     caption: Banded penaeid prawns
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
     caption: Slender penaid prawns
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
     caption: Speckled penaeid prawns
 location:
 - chg
@@ -136,13 +136,9 @@ Those of the genus
 *Penaeus*
 have large pointed 'teeth' on the rostrum. These include the popular 'Tiger prawns' probably so-named for the banded patterns on their bodies. But these prawns may also be green or grey.
 
-The Black tiger prawn (
-*Penaeus monodon*
-) has a well-developed rostrum armed with 7 or 8 upper (dorsal) teeth and 3 ventral teeth. Depending on ground, what they eat and how murky the water is, body colours vary from green, brown, red, grey, blue. With bands alternating blue or black and yellow. Pleopods brown to blue pleopods with reddish fringing hairs. Grows to 30cm and weighing 130g, females larger. It is also called the Giant tiger prawn and Asian tiger prawn.
+The Black tiger prawn (*Penaeus monodon*) has a well-developed rostrum armed with 7 or 8 upper (dorsal) teeth and 3 ventral teeth. Depending on ground, what they eat and how murky the water is, body colours vary from green, brown, red, grey, blue. With bands alternating blue or black and yellow. Pleopods brown to blue pleopods with reddish fringing hairs. Grows to 30cm and weighing 130g, females larger. It is also called the Giant tiger prawn and Asian tiger prawn.
 
-The Green tiger prawn (
-*Penaeus semisulcatus*
-) has a more or less straight rostrum armed with 7 or 8 upper (dorsal) teeth and 3 ventral teeth. Antennae with white and red bands. Grows to 18-22cm and weighing 130g, females larger.
+The Green tiger prawn (*Penaeus semisulcatus*) has a more or less straight rostrum armed with 7 or 8 upper (dorsal) teeth and 3 ventral teeth. Antennae with white and red bands. Grows to 18-22cm and weighing 130g, females larger.
 
 *Parapenaeopsis*
 species are 12-17cm long prawns that live in deeper water 10 to 90m.

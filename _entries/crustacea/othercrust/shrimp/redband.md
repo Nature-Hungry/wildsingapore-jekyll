@@ -1,6 +1,6 @@
 ---
 title: Red-banded shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red-banded shrimp on the shores of Singapore
 keywords: red, banded, shrimp, decapod, crustacea, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,39 +14,39 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
     caption: Pulau Hantu, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/060130hntg4350m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/060130hntg4350m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/060130hntg4350m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/060130hntg4350m3c.jpg
     caption: With eggs!
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/080919sntd0644m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/080919sntd0644m3.jpg
     caption: Sentosa, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/080919sntd0644m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/080919sntd0644m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/080919sntd0644m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/080919sntd0644m3c.jpg
     caption: Just moulted?
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/051105sisg2991m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/051105sisg2991m3.jpg
     caption: Sisters Islands, Sep 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/051105sisg2991m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/051105sisg2991m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/051105sisg2991m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/051105sisg2991m3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/110517tptik3m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/110517tptik3m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/161117rlhlks9.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/161117rlhlks9.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/100810snglks5m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/100810snglks5m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/091204pawjk15m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/091204pawjk15m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
 location:
 - prp

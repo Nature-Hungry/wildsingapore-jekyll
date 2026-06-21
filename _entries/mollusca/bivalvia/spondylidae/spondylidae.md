@@ -1,6 +1,6 @@
 ---
 title: Thorny oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thorny oyster on the shores of Singapore
 keywords: thorny, oyster, spondylus, spondylidae, bivalve, mollusc, clam, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -20,20 +20,20 @@ order: Pectinida
 superfamily: Pectinoidea
 subfamily: Spondylinae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8523m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8523m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8523m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8523m3.jpg
     caption: Pulau Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8521m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8521m3.jpg
     caption: Pulau Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/spondylidae/spondylidae/101204tmftd3061m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/spondylidae/spondylidae/101204tmftd3061m3.jpg
     caption: Mantle revealed in this submerged clam. Tanah Merah, Dec 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/spondylidae/spondylidae/210502tptvc10.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/spondylidae/spondylidae/210502tptvc10.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/spondylidae/spondylidae/210629bbbvc6.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/spondylidae/spondylidae/210629bbbvc6.jpg
     caption: Beting Bemban Besar, Jun 21 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

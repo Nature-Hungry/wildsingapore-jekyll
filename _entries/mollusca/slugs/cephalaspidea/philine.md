@@ -1,6 +1,6 @@
 ---
 title: '''Attap-chee'' slug '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of 'Attap-chee' slug  on the shores of Singapore
 keywords: philine, orientalis, philinidae, cephalaspidea, gastropod, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -20,20 +20,20 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
     caption: Changi East, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2713m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/philine/111028chged2713m3.jpg
     caption: Burrowing, with the head in the sand.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2710m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/philine/111028chged2710m3b.jpg
     caption: East Coast, Aug 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/120704chglks1m2.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/philine/120704chglks1m2.JPG
     caption: Changi, Jul 12 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/090207tmlks1m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/philine/090207tmlks1m3.JPG
     caption: East Coast Park, Feb 09 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

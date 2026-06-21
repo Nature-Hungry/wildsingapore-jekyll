@@ -1,6 +1,6 @@
 ---
 title: 'Feather-hitching brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feather-hitching brittle stars  on the shores of Singapore
 keywords: feather, hitching, brittle, star, brittlestar, ophiomaza, cacaotica, ophiuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,35 +26,35 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/060713rlhd4318m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/060713rlhd4318m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/060713rlhd4318m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/060713rlhd4318m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/130625ecpd8222.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/130625ecpd8222.jpg
     caption: East Coast, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/120507srpd1608m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/120507srpd1608m3.jpg
     caption: Sentosa, May 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/060713rlhd4328m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/060713rlhd4328m3.jpg
     caption: Upper side.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/060713rlhd4328m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/060713rlhd4328m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/060713rlhd4320m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/060713rlhd4320m3.jpg
     caption: Underside.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/180910chg4dc2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/180910chg4dc2.jpg
     caption: Changi, Sep 18 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/130626ecplks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/130626ecplks.JPG
     caption: East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/200820ssisjll1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/200820ssisjll1.jpg
     caption: Small Sisters Island, Aug 20 Photo shared byJianlin Liu on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/170429kuslks1a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/170429kuslks1a.jpg
     caption: Kusu Island, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/210625kusjll5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/210625kusjll5.jpg
     caption: Kusu Island, Jun 21 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/featherstar/130921sislks1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/130921sislks1.jpg
     caption: Sisters Island, Sep 13 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

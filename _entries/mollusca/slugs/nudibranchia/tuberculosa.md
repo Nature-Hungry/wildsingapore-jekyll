@@ -1,6 +1,6 @@
 ---
 title: Cauliflower nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cauliflower nudibranch on the shores of Singapore
 keywords: cauliflower, dendrodoris, tuberculosa, dendrodorididae, nudibranch, slug,
   seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -28,42 +28,42 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg
     caption: Pulau Hantu, May 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3b.jpg
     caption: Rhinophore and rosette pattern.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3a.jpg
     caption: Feathery gills.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7870m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7870m6l.jpg
     caption: Pulau Semakau, Jul 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7873m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7873m3.jpg
     caption: Spotted underside.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8110m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8110m3.jpg
     caption: Cyrene Reef, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8114m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8114m3.jpg
     caption: Spotted underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/150621hntmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/150621hntmn.jpg
     caption: Pulau Hantu, Jun 15 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/080608cyrmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/080608cyrmn.jpg
     caption: Diseased? Cyrene Reed, Jun 08 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/110522bbbjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/110522bbbjk1m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by James Koh on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/150621tsmkmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/150621tsmkmn.jpg
     caption: Terumbu Semakau, Jun 15 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/240708smkerk3l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/240708smkerk3l.jpg
     caption: Pulau Semakau (East), Jul 24 Photo shared by Richard Kuah on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/160313trymn10.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/160313trymn10.jpg
     caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/tuberculosa/080108hntlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/080108hntlks.JPG
     caption: Pulau Hantu, Jan 08 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: 'Tiup-tiup '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiup-tiup  on the shores of Singapore
 keywords: adinandra, dumosa, theaceae, plant, tree, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,14 +20,14 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Nov 2010
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090418admd0213m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090418admd0213m3.jpg
     caption: Admiralty Park, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090418admd0215m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090418admd0215m3.jpg
     caption: Admiralty Park, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/091005cjd2144m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/091005cjd2144m3.jpg
     caption: Chek Jawa, Oct 09
 links_references: '**Links**
 
@@ -97,11 +97,11 @@ Corners adds that it is said the flowers are pollinated by bees, but as they do 
 
 According to Burkill, its wood is considered of little use as it is such a small tree. But it is used as firewood.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg)
+*![](https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg)
 
 Sentosa, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adinandra/dumosa/090401sntd8849m3b.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090401sntd8849m3b.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

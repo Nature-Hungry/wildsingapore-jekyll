@@ -1,6 +1,6 @@
 ---
 title: 'Tiger moon snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiger moon snail  on the shores of Singapore
 keywords: tiger, moon, snail, shell, naticidae, tectonatica, natica, notocochlis,
   tigrina, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -26,54 +26,53 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg
     caption: Tuas, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg
     caption: Small depression on underside. Operculum with dark smudge. Tuas, Apr
       05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3c.jpg
     caption: Operculum with a pair of spiralling grooves on the outer margin and finely
       serrated inner margin.
   gallery2:
   - url: https://live.staticflickr.com/7861/32969907028_995156618d_z.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/200113chgmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/200113chgmn1.jpg
     caption: Changi, Jan 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/201020prpark3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/201020prpark3.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/090114cjlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/090114cjlks.JPG
     caption: Eating a clam Chek Jawa, Jan 09 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/080729cjtch01m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/080729cjtch01m3.jpg
     caption: Eating a razor clam! Chek Jawa, Jul 08 Photo shared by Toh Chay Hoon
       on her flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/230220cjky1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/230220cjky1.jpg
     caption: Eating a clam! Chek Jawa, Feb 23 Photo shared by Kelvin Yong on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/171206ubnlks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/171206ubnlks6.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/110420skdnml1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/110420skdnml1m3.jpg
     caption: Pulau Sekudu, Apr 11 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/091010tmjk2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/091010tmjk2m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/150617ecpbsmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/150617ecpbsmn.jpg
     caption: East Coast Park Big Splash, Jun 15 Photo shared by Marcus Ng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/151001blyjt16m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/151001blyjt16m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/091205sudlks14m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/091205sudlks14m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 
   - [Tiger moon snail (
-
   *Natica tigrina*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86530)
@@ -81,7 +80,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Tiger moon snail (
-
   *Natica tigrina*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

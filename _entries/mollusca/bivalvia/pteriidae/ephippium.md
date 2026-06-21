@@ -1,6 +1,6 @@
 ---
 title: Leaf oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Leaf oyster on the shores of Singapore
 keywords: leaf, tree, oyster, isognomon, epipphium, pteriidae, isognominidae, bivalve,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,22 +22,21 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/031128sbwrbd0035m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/ephippium/031128sbwrbd0035m3.jpg
     caption: Growing on a mangrove tree. Sungei Buloh Wetland Reserve, Nov 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2376m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2376m3.jpg
     caption: Growing along a muddy mangrove creek. Changi Creek mangroves, May 17
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook .
 links_references: '**Links**
 
   - [Leaf oyster (
-
   *Isognomon ephippium*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2093)
@@ -49,7 +48,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Saddle tree oyster (
-
   *Isognomon ephippium*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84369)
@@ -57,7 +55,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Saddle tree oyster (
-
   *Isognomon ephippium*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

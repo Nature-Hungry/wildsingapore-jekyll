@@ -1,33 +1,33 @@
 ---
 title: Egg blobs on Singapore shore
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Egg blobs on Singapore shore on the shores of Singapore
 keywords: encrusting, sponge, porifera, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/111030skdd3236m3.jpg
+coverimg: https://images.naturehungry.sg/eggs/eggs/111030skdd3236m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet.gif
+  - url: https://images.naturehungry.sg/photos/bullet.gif
     caption: if you learn only 3 things about them ... Egg blob contain living eggs
       or tiny animals. Don't disturb them. Egg strings are found on mud or sand. Watch
       your step. Please don't bring egg blobs home. Thousands of baby animals may
       die.
-  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet.gif
+  - url: https://images.naturehungry.sg/photos/bullet.gif
     caption: Egg blob contain living eggs or tiny animals. Don't disturb them. Egg
       strings are found on mud or sand. Watch your step. Please don't bring egg blobs
       home. Thousands of baby animals may die.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/111030skdd3236m3.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/111030skdd3236m3.jpg
     caption: Pulau Sekudu, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/110418tmftd8998m3.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/110418tmftd8998m3.jpg
     caption: On sand Tanah Merah, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/120407lazd7990m3.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/120407lazd7990m3.jpg
     caption: Many blobs sometimes seen. Seringat-Kias, Apr 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/120408sjid8277m6l.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/120408sjid8277m6l.jpg
     caption: St. John's Island, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/120408sjid8279m3a.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/120408sjid8279m3a.jpg
     caption: ''
 size:
 - 10.0

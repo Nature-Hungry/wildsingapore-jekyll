@@ -1,6 +1,6 @@
 ---
 title: 'Lined tailed-slug '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lined tailed-slug  on the shores of Singapore
 keywords: tailed, slug, tubulophilinopsis, philinopsis, lineolata, aglajidae, cephalaspidea,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -20,18 +20,18 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
+coverimg: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
     caption: Cyrene Reef, Feb 1 5 Photo shared by Loh Kok Sheng on his blog Identified
       by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/160210cyrmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/lineolata/160210cyrmn.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/111030skdlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/lineolata/111030skdlks.JPG
     caption: Pulau Sekudu, Oct 11 Photo shared by Lim Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/180420chg4ay.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/lineolata/180420chg4ay.jpg
     caption: Changi, Apr 18 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 

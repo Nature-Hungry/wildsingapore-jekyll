@@ -1,6 +1,9 @@
 ---
 title: Tape seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Longest seagrass with ribbon-like leaves. 30cm-1.5m long, 1-2cm wide.
+  Thick rhizomes. Flowering often observed. Large female flowers on coiled stalk.
+  Tiny white male flowers produced from inflorescence at base of the plant. Often
+  seen on most of our undisturbed shores. Largest meadow on Pulau Semakau.
 keywords: tape, enhalus, acoroides, hydrocharitaceae, seagrass, grass, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -27,60 +30,59 @@ updated: Oct 2016
 rdb: CR
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/120219smkd7285m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/120219smkd7285m6l.jpg
     caption: Leaf with smooth rounded tip. Pulau Semakau, Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/111027sntL1080771m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/111027sntL1080771m6l.jpg
     caption: Petals fully open at the water surface at low spring tide. Sentosa, Nov
       11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/111027sntL1080784m6.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/111027sntL1080784m6.jpg
     caption: Sentosa, Nov 11 Petals are water repellant. Male flower in the centre.
       Petals zip up underwater.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/060129skdd6592m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/060129skdd6592m3.jpg
     caption: Inflorescence at the base of the plant that produces the male flowers
       . Pulau Sekudu, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/060129skdg4117m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/060129skdg4117m3.jpg
     caption: Male flower bract with tiny white male flowers. Pulau Sekudu, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/060129skdg4117m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/060129skdg4117m3b.jpg
     caption: The male flowers are tiny. Pulau Sekudu, Jan 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/090207smkd6270m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/090207smkd6270m3.jpg
     caption: Female flower just opened. Pulau Semakau, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/120219smkd7189m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/120219smkd7189m3.jpg
     caption: Tiny balls of pollen transferred? Pulau Semakau, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/070317sntg8070m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/070317sntg8070m3.jpg
     caption: Fruit open with floating seeds. Sentosa, Mar 07
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/060628sntd3825m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/060628sntd3825m3.jpg
     caption: Unopened fruit. Sentosa, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/100602tmd5130m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/100602tmd5130m3.jpg
     caption: Often grows in a ring. Tanah Merah, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/171108ecpmblks14.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/171108ecpmblks14.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/091231biod7104m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/091231biod7104m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/091205sudd5574m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/091205sudd5574m3.jpg
     caption: Pulau Sudong, Dec 09
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/060312hntd0129m3c.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/greengumdrop/060312hntd0129m3c.jpg
     caption: Pulau Hantu, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
+  - url: https://images.naturehungry.sg/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
     caption: Encrusting red algae. Sentosa, Oct 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/100213tmd9338m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/100213tmd9338m3.jpg
     caption: Egg capsules of Dubious nerites . Tanah Merah, Feb 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/090621hntd4484m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/090621hntd4484m3.jpg
     caption: Egg capsules? Pulau Hantu, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/100213tmd9339m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/100213tmd9339m3.jpg
     caption: Egg capsules? Tanah Merah, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/090207smkd6437m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/enhalus/090207smkd6437m3a.jpg
     caption: Unidentified organisms. Pulau Semakau, Feb 09
 links_references: '**Links**
 
   - [Tape seagrass (
-
   *Enhalus acoroides*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/108)
@@ -215,9 +217,7 @@ The female flower is large and held on a long stalk. It has three large ribbed w
 The fruit is round to tear-drop shaped and large (4-6cm in diameter) with dark, ribbed hairy skin. When ripe, the fruit splits open releasing 6-7 white seeds. The opened fruit is sometimes mistaken for a flower because of the petal-shaped split segments. The seeds float for only about 5 hours before they start to sink, thus they don't travel far. Roots develop rapidly and the seeds germinate quickly. Like other seagrasses, tape seagrass spreads mostly by vegetative reproduction.
 
 ## Role in habitat
-Tape seagrass is believed to be among the main food of the Dugong (
-*Dugong dugon*
-). On the seagrass blade grows a wide variety of tiny encrusting animals like
+Tape seagrass is believed to be among the main food of the Dugong (*Dugong dugon*). On the seagrass blade grows a wide variety of tiny encrusting animals like
 [green gum drop ascidians](../../ascidiacea/greengumdrop)
 and
 [seagrass hydroids](../../cnidaria/others/hydrozoa/seagrass)
@@ -233,7 +233,7 @@ The seeds are eaten by traditional people living on the coasts of Australia and 
 **Status and threats:**
 It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/050309smkg3099m3.jpg)
+![](https://images.naturehungry.sg/plants/seagrass/enhalus/050309smkg3099m3.jpg)
 
 Pulau Semakau has a vast meadow
 
@@ -241,17 +241,17 @@ of tape seagrass
 
 *Pulau Semakau, Mar 03*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/110929tmftd1586m3.jpg)
+![](https://images.naturehungry.sg/plants/seagrass/enhalus/110929tmftd1586m3.jpg)
 
 Inrolled leaf edges.
 *Tanah Merah, Sep 11*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/070317sntg8135m3.jpg)
+![](https://images.naturehungry.sg/plants/seagrass/enhalus/070317sntg8135m3.jpg)
 
 Male flowers sometimes form 'rafts'
 
 *Sentosa, Mar 07*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/080623cyrd6197m3a.jpg)
+![](https://images.naturehungry.sg/plants/seagrass/enhalus/080623cyrd6197m3a.jpg)
 
 Pink opened fruit and narrow
 
@@ -259,7 +259,7 @@ female flower on long stalk.
 
 *Cyrene Reef, Jun 08*
 **
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/070324tsd9529m3.jpg)
+![](https://images.naturehungry.sg/plants/seagrass/enhalus/070324tsd9529m3.jpg)
 
 Hairy bristles on rhizomes.
 

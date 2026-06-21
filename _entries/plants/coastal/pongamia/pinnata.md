@@ -1,6 +1,6 @@
 ---
 title: Mempari
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mempari on the shores of Singapore
 keywords: mempari, pongamia, pinnata, plant, tree, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,42 +20,42 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Fabales
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090410ubno067m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubno067m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090410ubnd9430m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9430m3b.jpg
     caption: Changi, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090410ubnd9423m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9423m3b.jpg
     caption: Changi, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090410ubnd9421m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9421m3.jpg
     caption: Changi, Apr 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090410ubnd9423m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9423m3.jpg
     caption: Changi, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090410ubnd9426m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9426m3.jpg
     caption: Changi, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090410ubnd9417m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubnd9417m3.jpg
     caption: Changi, Apr 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090511chgd1450m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090511chgd1450m3.jpg
     caption: Changi, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090511chgf1242m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090511chgf1242m3.jpg
     caption: Changi, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090511chgf1242m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090511chgf1242m6l.jpg
     caption: Wild tree on coastal cliff. Changi, May 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090823cjd9879m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090823cjd9879m3.jpg
     caption: Chek Jawa, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090823cjd9878m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090823cjd9878m3.jpg
     caption: Chek Jawa, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090823cjd9876m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090823cjd9876m6l.jpg
     caption: Possibly planted, not sure. Chek Jawa, Aug 09
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/100701tmd7991m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7991m6l.jpg
     caption: Planted tree. East Coast Park, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/100701tmd7987m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7987m3.jpg
     caption: Flowers.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/100701tmd7990m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7990m3.jpg
     caption: Flowers.
 links_references: '**Links**
 
@@ -139,7 +139,7 @@ The leaves are fed to livestock. The bark is used to make string and rope. Altho
 **Status and threats:**
 This tree is listed as 'Endangered' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pongamia/pinnata/090410ubno067m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubno067m6l.jpg)
 
 Tree planted in a park.
 *Changi, Apr 09*

@@ -1,6 +1,6 @@
 ---
 title: Red chut-chut snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red chut-chut snail on the shores of Singapore
 keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae,
   gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,27 +17,26 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
     caption: Sungei Buloh, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
     caption: Pulau Ubin, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg
     caption: The animal has red eyes! Sungei Pandan, Jun 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 
   - [Mud creepers (
-
   *Cerithidea obtusa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2081)
@@ -49,7 +48,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Obtuse creeper (
-
   *Cerithidae obtusa*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
@@ -61,7 +59,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Obtuse horn snail (
-
   *Cerithidea obtusa*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86855)
@@ -69,7 +66,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Obtuse horn snail (
-
   *Cerithidea obtusa*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

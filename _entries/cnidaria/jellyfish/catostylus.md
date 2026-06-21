@@ -1,6 +1,6 @@
 ---
 title: Fat-armed jellyfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fat-armed jellyfish on the shores of Singapore
 keywords: jellyfish, jelly, fish, jellies, catostylus, catostylidae, scyphozoa, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,19 +18,19 @@ subclass: Discomedusae
 order: Rhizostomeae
 suborder: Dactyliophorae
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
     caption: Changi, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426chgd2778m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/050426chgd2778m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426chgd2778m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/050426chgd2778m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/101208tmlks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/101208tmlks1m3.jpg
     caption: Tanah Merah, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/160314lazjt2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/160314lazjt2.jpg
     caption: Lazarus Island, Mar 16 Photo shared by Jonathan Tan on facebook .
 links_references: '**Links**
 

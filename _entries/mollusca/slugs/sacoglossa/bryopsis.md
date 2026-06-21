@@ -1,6 +1,6 @@
 ---
 title: Bryopsis slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bryopsis slug on the shores of Singapore
 keywords: bryopsis, slug, seaslug, placida, daguilarensis, sacoglossan, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -27,58 +27,58 @@ subfamily: Arctiinae
 tribe: Arctiini
 subtribe: Spilosomina
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
     caption: Sometimes seen in large numbers. Sisters Island, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/031127sntbd0032m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/031127sntbd0032m3.jpg
     caption: Sentosa, Nov 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/120506sisd1163m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/120506sisd1163m3.jpg
     caption: Sometimes seen floating upside down on the water surface. Sisters Island,
       May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/040818sntd4787m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/040818sntd4787m3.jpg
     caption: Tiny white one, perhaps it hasn't eaten enough seaweed yet? Sentosa,
       Aug 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/170527chg4hpy.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/170527chg4hpy.jpg
     caption: Changi, May 17 Photo shared by Heng Pei Yan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/230605chg7ky3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/230605chg7ky3.jpg
     caption: Changi Carpark 7, Jun 23 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/160507cjtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/160507cjtch1.jpg
     caption: Chek Jawa, May 16 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/190704bbtch4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/190704bbtch4.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/180812nsrtch4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/180812nsrtch4.jpg
     caption: East Cost Park, Aug 18 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/251011tgrlks15.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/251011tgrlks15.jpg
     caption: Sentosa Tg Rimau, Oct 25 Shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/120507srplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/120507srplks.JPG
     caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/250201bsisjll3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/250201bsisjll3.jpg
     caption: Big Sisters Island, Feb 25 Photo shared byJianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/170429kustch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/170429kustch1.jpg
     caption: Kusu Island, Apr 17 Photo shared by Toh Chay Hoon on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/190520hnttch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/190520hnttch2.jpg
     caption: Pulau Hantu, May 19 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/150817cyrtch1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/150817cyrtch1m3.jpg
     caption: Cyrene Reef, Aug 15 Photo shared by Toh Chay Hoon on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/110517tbtro6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/110517tbtro6m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/170513tpltch.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/170513tpltch.jpg
     caption: Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/170129tslgtch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/170129tslgtch2.jpg
     caption: Terumbu Selegie, Jan 17 Photo shared by Toh Chay Hoon on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/210428slutch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/210428slutch1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
 links_references: '**Links**
 

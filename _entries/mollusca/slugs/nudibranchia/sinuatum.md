@@ -1,6 +1,6 @@
 ---
 title: '''Jolly Green Giant'' nudibranch '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of 'Jolly Green Giant' nudibranch  on the shores of Singapore
 keywords: miamira, ceratosoma, sinuatum, sinuata, nudibranch, slug, seaslug, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -10,31 +10,31 @@ genus: Miamira
 species: sinuatum
 attributes: []
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
     caption: Large lobe in front of gills. Pulau Semakau, Sep 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3.jpg
     caption: Sisters Island, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3a.jpg
     caption: Small rhinophores.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/090207smkd6350m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/090207smkd6350m3.jpg
     caption: Pulau Semakau, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/070318labg8192m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/070318labg8192m3b.jpg
     caption: Feathery gills with yellow spots. Labrador, Mar 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/100519tsmc4196m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/100519tsmc4196m3.jpg
     caption: Terumbu Semakau, May 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/090412hntmn6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/090412hntmn6l.jpg
     caption: Releasing white fluid when alarmed. Pulau Hantu, Aug 15 Photo shared
       by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/090806tmjk7m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/090806tmjk7m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by James Koh on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/250131tkkll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/250131tkkll1.jpg
     caption: Pulau Tekukor, Jan 25 Photo shared by Liz Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sinuatum/150830hntmn2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/150830hntmn2m3.jpg
     caption: Pulau Hantu, Aug 15 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

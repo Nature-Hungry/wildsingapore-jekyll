@@ -1,6 +1,6 @@
 ---
 title: Boulder pore coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Boulder pore coral on the shores of Singapore
 keywords: goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,59 +17,59 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/110715cyrd6582m6l.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/110715cyrd6582m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/110715cyrd6582m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/110715cyrd6582m6l.jpg
     caption: Pore coral forming a ring-shaped microatoll with another colony in the
       middle. Cyrene Reef, Jul 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg
     caption: St. John's Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg
     caption: Tiny hexagonal corallites.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg
     caption: Tiny polyps.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3d.jpg
     caption: St. John's Island, Aug 08 A burrowing animal?
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/120506sisd1104m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/120506sisd1104m3.jpg
     caption: Sisters Island, May 12 A bristleworm?
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/080816sisd9553m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080816sisd9553m3.jpg
     caption: Sisters Island, Aug 08 Tiny spotted acoel flatworms .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/101010scyrd2074m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/101010scyrd2074m3.jpg
     caption: South Cyrene, Oct 10 Marks made by fishes grazing on the coral.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
     caption: Sisters Island, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/080220smkd9810m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/080220smkd9810m3.jpg
     caption: Pulau Semakau, Feb 08
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/151001blylks8m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/151001blylks8m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/091231biod7118m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/091231biod7118m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/091204pawd0049m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/091204pawd0049m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/100130brkd8590m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100130brkd8590m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/100130brkd8460m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100130brkd8460m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/100810sngd0005m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100810sngd0005m3.jpg
     caption: Pulau Senang, Aug 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/100131slud8899m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100131slud8899m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/100131slud8847m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100131slud8847m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/100811slud0059m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100811slud0059m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/100810sngd9942m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100810sngd9942m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/100530tbkd4255m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100530tbkd4255m3.jpg
     caption: Pulau Berkas, May 10
 location:
 - cj

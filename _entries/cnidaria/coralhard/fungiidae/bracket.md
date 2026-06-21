@@ -1,6 +1,6 @@
 ---
 title: 'Bracket mushroom coral '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bracket mushroom coral  on the shores of Singapore
 keywords: bracket, mushroom, podabacia, fungidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,52 +17,52 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jan 2010
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
     caption: Terumbu Raya, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/110731tryd7886m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/110731tryd7886m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/110731tryd7886m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/110731tryd7886m3b.jpg
     caption: Parallel lines merge at the mouth.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/110731tryd7887m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/110731tryd7887m3b.jpg
     caption: Corallite lines thin with fine 'teeth'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/110731tryd7886m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/110731tryd7886m3c.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/060714rlhg6526m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/060714rlhg6526m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/120721tptd7731m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/120721tptd7731m3.jpg
     caption: Terumbu Pempang Tengah, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/100403tbbd0710m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/100403tbbd0710m3.jpg
     caption: Beting Bemban Besar, Apr 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/090512tmlks19m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/090512tmlks19m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/100615tmlks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/100615tmlks2m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/230608tmftlks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/230608tmftlks2.jpg
     caption: Tanah Merah, Jun 23 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/210628ecpBrk1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/210628ecpBrk1.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/2007024pcnlks9a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/2007024pcnlks9a.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/200112sjilks8.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/200112sjilks8.jpg
     caption: St John's Island, Jan 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/100616tsmmn5m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/100616tsmmn5m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Marcus Ng on his flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/110704srplks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/110704srplks.JPG
     caption: Sentosa Serapong, Jul 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/101224sisro4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/101224sisro4m3.jpg
     caption: Sisters Island, Dec 10 Photo shared by Rene Ong on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/220201brklks12.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/220201brklks12.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

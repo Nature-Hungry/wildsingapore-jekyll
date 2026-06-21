@@ -1,6 +1,6 @@
 ---
 title: 'Nerite snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Nerite snails  on the shores of Singapore
 keywords: nerita, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -18,7 +18,7 @@ subclass: Neritimorpha
 order: Cycloneritida
 superfamily: Neritoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
 links_references: "**Links**\n- [Common nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm)and[Violet\
   \ nerite (*Dostia violacea*)](http://mangrove.nus.edu.sg/guidebooks/text/2079.htm)Ng,\
   \ Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal\
@@ -52,48 +52,48 @@ links_references: "**Links**\n- [Common nerite (*Nerita lineata*)](http://mangro
   \ Ltd, Australia.144pp."
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
     caption: Tough shell with thick operculum. Chek Jawa, Jan 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg
     caption: The same species of Nerites may come in a wide variety of colours and
       patterns. Labrador, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
     caption: The tiniest nerites on our shores are aptly named Dubious nerites .
   gallery3:
   - url: https://live.staticflickr.com/1683/25174359603_fac642f0ce_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/neritidaenoid/090628lazd6229m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/neritidaenoid/090628lazd6229m3.jpg
     caption: Nerites with their white egg capsules. Lazarus Island, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg
     caption: Tiny egg capsules laid by the tiniest nerite. East Coast, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg
     caption: Nerites mating with their white egg capsules. Chek Jawa, Feb 02
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg
     caption: Ox-tongue nerite
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
     caption: Chameleon nerite
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/060102sisg3617m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/060102sisg3617m3.jpg
     caption: Waved nerite
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
     caption: Scaly nerite
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
     caption: Lined nerite
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
     caption: Flat-spire nerite
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg
     caption: Polished nerite
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg
     caption: Dubious nerites
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
     caption: Red-mouth nerite
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg
     caption: Black-mouth nerite
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
     caption: Grey mangrove nerite
 location:
 - tus
@@ -153,9 +153,7 @@ They are gathered as food by coastal dwellers. Some species of nerites are eaten
 **Status and threats:**
 The tiny and beautifully marked
 [Dubious nerite snails](oualaniensis)
-(
-*Clithon oulaniensis*
-) and
+(*Clithon oulaniensis*) and
 [Polished nerite](polita)
 *(Nerita polita)*
 are listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

@@ -1,6 +1,6 @@
 ---
 title: 'Pimply red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pimply red seaweed  on the shores of Singapore
 keywords: pimply, red, seaweed, weed, algae, acrocystis, nana, rhodomelaceae, rhodophyceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,12 +22,12 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Ceramiales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acrocystis/110719sntd7454m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/acrocystis/110719sntd7454m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -94,7 +94,7 @@ According to
 *Acrocystis*
 .
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg)
 
 *Sentosa, Jul 11*
 

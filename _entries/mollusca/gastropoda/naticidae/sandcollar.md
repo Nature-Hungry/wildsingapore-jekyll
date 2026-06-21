@@ -1,6 +1,6 @@
 ---
 title: 'Sand collars of moon snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sand collars of moon snails  on the shores of Singapore
 keywords: moon, snail, naticidae, natica, policines, gastropod, mollusc, sand, collar,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,19 +18,18 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Naticoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
     caption: Pulau Sekudu, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
     caption: Chek Jawa, Nov 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/pink/080704sekd6848m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/080704sekd6848m3.jpg
     caption: Pulau Sekudu, Jul 08
 links_references: '**Links**
 
   - [Moon Snail (
-
   *Polinices*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)

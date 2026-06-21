@@ -1,6 +1,6 @@
 ---
 title: 'Girdled horn snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Girdled horn snail  on the shores of Singapore
 keywords: girdled, horn, cerithidea, cingulata, cerith, snail, shell, potamididae,
   gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -24,19 +24,18 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
     caption: Kusu Island, May 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3b.jpg
     caption: Flared shell opening with spout-like tip.
 links_references: '**Links**
 
   - [Girdled horn snail (
-
   *Cerithidea cingulata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86861)
@@ -44,7 +43,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Girdled horn snail (
-
   *Cerithidea cingulata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

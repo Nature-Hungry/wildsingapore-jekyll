@@ -1,6 +1,6 @@
 ---
 title: Small coin green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Small coin green seaweed on the shores of Singapore
 keywords: small, coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,33 +19,32 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/040718sntd2795m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/040718sntd2795m3.jpg
     caption: Sentosa, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/050706sntg9030m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/050706sntg9030m3.jpg
     caption: Sentosa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/050918smkg2632m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/050918smkg2632m3.jpg
     caption: Pulau Semakau, Sep 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/100601slud4716m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/100601slud4716m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/100613sngd5432m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/100613sngd5432m3a.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/100130brkd8519m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/100130brkd8519m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/110619tslgd4431m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/110619tslgd4431m3.jpg
     caption: Terumbu Selegie, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/100629pdrd7422m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/100629pdrd7422m3b.jpg
     caption: Terumbu Pempang Darat, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/151001blylks5m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/151001blylks5m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
   - [Calcified seaweed (
-
   *Halimeda*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/102)
@@ -145,11 +144,11 @@ Some species of
 *Halimeda*
 are used as fertilizers to recondition acidic soils. They are also used as animal feed and reportedly have anti-bacterial and anti-fungal properties.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg)
 
 *St. John's Island, May 06
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3b.jpg)*
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3b.jpg)*
 
 ---
 

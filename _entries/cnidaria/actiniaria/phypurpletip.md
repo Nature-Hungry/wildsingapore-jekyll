@@ -1,6 +1,6 @@
 ---
 title: Purple-tip frilly anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Purple-tip frilly anemone on the shores of Singapore
 keywords: purple, tip, frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -28,34 +28,34 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
     caption: Sisters Islands, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3a.jpg
     caption: Fine white lines radiating from the mouth.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3b.jpg
     caption: Purple or violet tips.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/110220lazlks1m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/110220lazlks1m3.JPG
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/100516jngmn1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/100516jngmn1m3.jpg
     caption: Pulau Jong, May 10 Photo shared by Marcus Ng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/180715thndc5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/180715thndc5.jpg
     caption: Terumbu Hantu, Jul 18 Photo shared by Dayna Cheah on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/160806tplmn4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/160806tplmn4.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/120721tptlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/120721tptlks.JPG
     caption: Terumbu Pempang Laut, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/100529pbrkmn.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/100529pbrkmn.jpg
     caption: Pulau Berkas, May 10 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/091231biod7020m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/091231biod7020m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/purpletip/091205pawlks18m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/091205pawlks18m3.jpg
     caption: Raffles Lighthouse, Jul 07 Photo shared by Loh Kok Sheng on his flickr
       .
 location:

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of 'Century egg' sponge on the shores of Singapore
 keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: ''
@@ -16,15 +16,15 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/centuryegg/120409tptd8846m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/centuryegg/120409tptd8846m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/centuryegg/120409tptd8846m3.jpg
+  - url: https://images.naturehungry.sg/porifera/centuryegg/120409tptd8846m3.jpg
     caption: Terumbu Pempang Tengah, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/centuryegg/150608tplo6080616.jpg
+  - url: https://images.naturehungry.sg/porifera/centuryegg/150608tplo6080616.jpg
     caption: Terumbu Pempang Laut, Jun 15
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/centuryegg/200725smknjc1.jpg
+  - url: https://images.naturehungry.sg/porifera/centuryegg/200725smknjc1.jpg
     caption: Pulau Semakau (North), Jul 20 Photo shared by Joleen Chang on facebook
       .
 links_references: '**Links**

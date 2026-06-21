@@ -1,6 +1,6 @@
 ---
 title: Scallops
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scallops on the shores of Singapore
 keywords: scallop, clam, shell, pectinidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,28 +18,28 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Pectinoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
     caption: Changi, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg
     caption: When submerged, tentacles and tiny eyes can be seen.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/080621labd6136m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080621labd6136m3.jpg
     caption: '''Swimming'' backwards with clap of valves'
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
     caption: Scallop in a living coral. Tanah Merah, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
     caption: Scallop in a living coral. Pulau Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/placunidae/placuna/080507chd2321.jpg
+  - url: https://images.naturehungry.sg/placunidae/placuna/080507chd2321.jpg
     caption: Scallop stuck on a living Window-pane clam . Changi, May 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/coral/100215sisd9445m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/100215sisd9445m3.jpg
     caption: Coral clam
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg
     caption: Singapore scallop
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
     caption: Large scallop
 links_references: '**Links**
 

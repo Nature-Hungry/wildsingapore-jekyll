@@ -1,6 +1,6 @@
 ---
 title: Tendril slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tendril slug on the shores of Singapore
 keywords: tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, oxynoidae
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -35,7 +35,7 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Oxynooidea
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
 links_references: '**Links**
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: photos and
@@ -90,18 +90,18 @@ links_references: '**Links**
   vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
     caption: Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg
     caption: Tendrils can be suddenly unfurled to deter predators. Pulau Tekukor,
       Apr 13
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg
     caption: Changi East, Dec 12 Photo shared by Marcus Ng on flickr .
 location:
 - chg
@@ -125,9 +125,7 @@ To about 3cm. It has a green shell and four long 'fingers' sticking out of the s
 **What does it eat?**
 Reports find this slug often among
 [Oval sea grape seaweeds](../../../plants/seaweed/chlorophyta/racemosa)
-(
-*Caulerpa racemosa*
-). The tendrils may also help the slug obtain food from photosynthesis. Like other sacoglossans, this slug retains in its body, the chloroplasts obtained from its seaweed food.
+(*Caulerpa racemosa*). The tendrils may also help the slug obtain food from photosynthesis. Like other sacoglossans, this slug retains in its body, the chloroplasts obtained from its seaweed food.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

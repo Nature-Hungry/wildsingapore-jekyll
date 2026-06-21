@@ -1,6 +1,6 @@
 ---
 title: 'Serengan '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Serengan  on the shores of Singapore
 keywords: serengan, flemingia, strobilifera, fabaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,7 +24,7 @@ subfamily: Faboideae
 tribe: Phaseoleae
 subtribe: Cajaninae
 updated: Aug 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
 links_references: '**Links**
 
   - [*Flemingia strobilifera*](http://www.hear.org/pier/species/flemingia_strobilifera.htm)on
@@ -39,18 +39,18 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg
     caption: Chek Jawa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3064m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/090531cjd3064m3b.jpg
     caption: Chek Jawa, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3066m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/090531cjd3066m3a.jpg
     caption: Chek Jawa, May 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/100314cjd0003m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/100314cjd0003m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/100314cjd0009m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/100314cjd0009m6l.jpg
     caption: Chek Jawa, Mar 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/091128cjd4784m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/091128cjd4784m6l.jpg
     caption: Chek Jawa, Nov 09
 size:
 - 100.0
@@ -80,13 +80,13 @@ According to Burkill, the leaves are administered after childbirth and used for 
 
 This plant is considered an invasive in some places where it has been introduced.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg)
 
 Planted specimen
 
 *Chek Jawa, May 09*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flemingia/strobilifera/090531cjd3069m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/090531cjd3069m3.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

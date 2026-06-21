@@ -1,6 +1,6 @@
 ---
 title: Crab-eating water snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Crab-eating water snake on the shores of Singapore
 keywords: crab, eating, water, snake, fordonia, leucobalia, homalopsidae, colubridae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,15 +18,15 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fordonia/120318prpd7786m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/fordonia/120318prpd7786m3.jpg
     caption: Pasir Ris Park, Mar 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fordonia/120318prpd7784m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/fordonia/120318prpd7784m6l.jpg
     caption: Pasir Ris Park, Mar 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fordonia/080607prpik.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/fordonia/080607prpik.jpg
     caption: Pasir Ris Park, Jun 08 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**
 
@@ -109,7 +109,7 @@ Mama snake gives birth to live young in litters of 6-15.
 **Status and threats:**
 The snake is listed as 'Endangered' on the Red List of threatened animals of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg)
+*![](https://images.naturehungry.sg/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg)
 
 Pasir Ris Park, Mar 12*
 

@@ -1,6 +1,6 @@
 ---
 title: Coral ghost shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Coral ghost shrimp on the shores of Singapore
 keywords: coral, ghost, shrimp, glypturus, corallianassa, callianassidae, decapod,
   crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,44 +25,44 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Axiidea
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/040521sntbd0067m3.jpg
     caption: Sentosa, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
     caption: Digging out the burrow? Sentosa, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/080605hntd4893m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/080605hntd4893m3.jpg
     caption: Pulau Hantu, Jun 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/030802hntd3916m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/030802hntd3916m3.jpg
     caption: Burrow is smooth and looks like a PVC pipe by gluing sand grains. Pulau
       Hantu, Aug 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/040703sisd1605m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/040703sisd1605m3.jpg
     caption: This is Axiopsis serratifrons Builds burrows like a brick wall. Sister
       Island, Jul 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/201117labvc6.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/201117labvc6.jpg
     caption: Labrador, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/260104trmrqo1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/260104trmrqo1.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/080831sismn01m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/080831sismn01m3.jpg
     caption: Sisters Island, Aug 08 Photo shared by Marcus Ng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/180519ssisdc3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/180519ssisdc3.jpg
     caption: Small Sisters Island, May 18 Photo shared by Dayna Cheah on facebook
       ..
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/140716cyrrl3m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/140716cyrrl3m3.jpg
     caption: Cyrene Reef, Jul 14 Photo shared by Heng Pei Yan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/240410cyrta1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/240410cyrta1.jpg
     caption: Cyrene Reef, Apr 24 Photo shared by Tommy Arden on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/091205sudd5539m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/091205sudd5539m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/091204pawd5387m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/091204pawd5387m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/100811slud0137m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/100811slud0137m3.jpg
     caption: Pulau Salu, Aug 10
 links_references: '**Links**
 

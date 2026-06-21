@@ -1,6 +1,6 @@
 ---
 title: Lyre sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lyre sea fan on the shores of Singapore
 keywords: lyre, seafan, fan, whip, ctenocella, pectinata, ellisellidae, gorgonian,
   gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,24 +17,24 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
     caption: Beting Bronok, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/060812bbd6033m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/060812bbd6033m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
     caption: Beting Bronok, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/030520bbd0332m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/030520bbd0332m3.jpg
     caption: Beting Bronok, May 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/120704chgd6848m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/120704chgd6848m3.jpg
     caption: Changi, Jul 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/240706ubnlks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/240706ubnlks1.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/240706ubnlks1a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/240706ubnlks1a.jpg
     caption: ''
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: 'Pocilloporid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pocilloporid corals  on the shores of Singapore
 keywords: pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -16,14 +16,14 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
     caption: Labrador, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
     caption: Red coral crab in bleaching Cauliflower coral. Cyrene Reef, Jul 10
 links_references: '**Links**
 
@@ -121,8 +121,7 @@ habitats:
 ## Where seen?
 The
 [Cauliflower coral](pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.) is commonly seen on many of our Southern reefs.
 
 Members of the Family Pocilloporidae are considered the second-largest contributors to reef formations although they have relatively few species. They are most active and found in greatest numbers in shallow waters with strong waves. They reproduce easily by fragmentation, the fragments surviving stress well in nature.

@@ -1,6 +1,6 @@
 ---
 title: Venus clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Venus clams on the shores of Singapore
 keywords: venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,7 +20,7 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Veneroidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
 links_references: "**Acknowledgements** \nWith grateful thanks to Andre Sartori from\
   \ [eBivalvia](http://ebivalvia.lifedesks.org/)\non EOL's Life Desk for identifying\
   \ some of the Venus clams. \n \n**Links**\n- [Clams (*Marcia marmorata*)](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm),[Kepah\
@@ -56,23 +56,23 @@ links_references: "**Acknowledgements** \nWith grateful thanks to Andre Sartori 
   \ Singapore. 343 pp."
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
     caption: Venus clams being harvested. Pulau Sekudu, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg
     caption: Half buried under a stone. Chek Jawa, Sep 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg
     caption: Siphon sticking out. Changi, Feb 02
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
     caption: Forked venus clam
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg
     caption: Script venus clam
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
     caption: Bean-shaped venus clam
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
     caption: Ribbed venus clam
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
     caption: White venus clam
 location:
 - prp

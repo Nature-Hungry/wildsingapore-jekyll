@@ -1,6 +1,6 @@
 ---
 title: Planaxis snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Planaxis snail on the shores of Singapore
 keywords: sulcate, planaxis, sulcatus, planaxidae, gastropod, mollusc, shell, snail,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -26,19 +26,19 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Planaxinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg
     caption: Sisters Islands, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/planaxidae/sulcatus/080510smkd2954m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/planaxidae/sulcatus/080510smkd2954m3a.jpg
     caption: Pulau Semakau, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/planaxidae/sulcatus/120707jngd7462m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/planaxidae/sulcatus/120707jngd7462m3a.jpg
     caption: Pulau Jong, Jul 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck01m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck01m3.jpg
     caption: Pulau Jong, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck02m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck02m3.jpg
     caption: Photo shared by Chim Chee Kong on his flickr .
 links_references: "**Links**\n- [*Planaxis sulcatus*](http://www.sealifebase.org/summary/speciessummary.php?id=4317)\n\
   on SeaLife Base: Technical fact sheet.\n- [Clusterwinks (Family Planaxidae)](http://seashellsofnsw.org.au/Planaxidae/Pages/Planaxidae_intro)\n\
@@ -90,8 +90,7 @@ This large 'groovy' snail is commonly seen, usually in clustered together in lar
 
 ## Features
 
-2-2.5cm. Shell thick with strong squarish spiralling cords (
-*Sulcus*
+2-2.5cm. Shell thick with strong squarish spiralling cords (*Sulcus*
 means 'grooved'). Colour blackish to cream sometimes with white or yellowish spots. Shell opening wide, inner surface white sometimes with dark purple grooves. Operculum thin, horn-like material and dark coloured. Body pale, small foot with a pale underside dark mottled pattern above, long tentacles with dark bands.
 
 **Sometimes confused with**

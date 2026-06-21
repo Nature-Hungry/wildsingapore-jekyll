@@ -1,6 +1,6 @@
 ---
 title: Pink banded hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink banded hermit crab on the shores of Singapore
 keywords: banded, hermit, crab, pagurus, hedleyi, diogenidae, anomura, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,31 +25,31 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3.jpg
     caption: Tanah Merah, Sep 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3a.jpg
     caption: Eye stalks and short antennae pale.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3454m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3454m3.jpg
     caption: Right pincer larger, darker at the base.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/080506chgd2321m3e.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/080506chgd2321m3e.jpg
     caption: Changi, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/130112pgld3426m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/130112pgld3426m3.jpg
     caption: Punggol, Jan 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/091218tmd6050m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/091218tmd6050m3a.jpg
     caption: Tanah Merah, Dec 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/090526bbmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/090526bbmn.jpg
     caption: Beting Bronok, Sep 05 Photo shared by Marcus Ng on flickr ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/090426skdmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/090426skdmn.jpg
     caption: Pulau Sekudu, Apr 04 Photo shared by Marcus Ng on flickr ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/140613skdmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/140613skdmn.jpg
     caption: Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on flickr ..
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/bandedpink/131107pgllks.JPG
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/bandedpink/131107pgllks.JPG
     caption: Punggol, Nov 13 Photo shared by Loh Kok Sheng on his blog .
 location:
 - pgl

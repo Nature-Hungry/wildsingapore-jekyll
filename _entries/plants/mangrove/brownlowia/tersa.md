@@ -1,6 +1,6 @@
 ---
 title: 'Dungun air '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dungun air  on the shores of Singapore
 keywords: brownlowia, tersa, malvaceae, tiliaceae, tree, mangrove, mangroves, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -22,16 +22,16 @@ order: Malvales
 subfamily: Brownlowioideae
 inat_id: 189938
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/090408wdld9187m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/brownlowia/tersa/090408wdld9187m3a.jpg
     caption: Woodlands Park, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/110317mndd7452m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/brownlowia/tersa/110317mndd7452m6l.jpg
     caption: Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/090516wdld1792m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/brownlowia/tersa/090516wdld1792m6l.jpg
     caption: Woodlands Park, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/110317mndd7400m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/brownlowia/tersa/110317mndd7400m3a.jpg
     caption: Mandai, Mar 11
 links_references: '**Links**
 
@@ -101,9 +101,7 @@ habitats:
 ## Where seen?
 A rather drab shrub that is often overlooked. Some can be seen at Sungei Buloh Wetland Reserve, Kranji Nature Trail, Mandai mangroves and at Woodlands Park. Elsewhere, it is also considered rare, although it can be abundant where it is found. It is said to grow in relatively sunny locations in mangrove swamps, and along creeks where mud is accreting. Also found on sandy shores or firm mud, along with
 [Nipah palm](../nypa/nypa)
-(
-*Nypa fruticans*
-).
+(*Nypa fruticans*).
 
 It is also called 'Durian laut' in Malay which means 'Durian of the sea' probably because the green-above-silvery-below leaves resemble those of the Durian tree. Other than that, it doesn't have much resemblance to the true Durian tree.
 
@@ -133,11 +131,11 @@ is considered 'Presumed Nationally Extinct' while
 *Brownlowia tersa*
 is 'Endangered'. on the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg)*
+*![](https://images.naturehungry.sg/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg)*
 Leaves glossy above, hairy below.
 *Mandai, Mar 11
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/brownlowia/tersa/090408wdld9190m3.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/brownlowia/tersa/090408wdld9190m3.jpg)*
 Tiny pink flowers.
 *Woodlands Park, Apr 09*
 

@@ -1,6 +1,7 @@
 ---
 title: 'Serrated ribbon seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Narrow and shorter ribbon-like leaves with rounded tips with fine serrations.
+  Rhizomes thick and smooth. Seen on some of our Southern reefs and shores.
 keywords: serrated, ribbon, grass, cymodocea, serrulata, cymodoceaceae, potamogetonaceae,
   cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -25,21 +26,21 @@ updated: Sep 2017
 rdb: EN
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/110830cyrd0552m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/serrulata/110830cyrd0552m3a.jpg
     caption: Cyrene Reef, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/110830cyrd0552m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/serrulata/110830cyrd0552m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/081212cyrd2974m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/serrulata/081212cyrd2974m3a.jpg
     caption: Flattened leaf sheath. Cyrene Reef, Mar 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/120624cyrs09444m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/serrulata/120624cyrs09444m6l.jpg
     caption: Sometimes seen with reddish bands. Cyrene, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/081212cyrd2969m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/serrulata/081212cyrd2969m3.jpg
     caption: Cyrene Reef, Dec 08
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/170908lazjt1.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/serrulata/170908lazjt1.jpg
     caption: Seringat Kias, Sep 17 Photo shared by Jonathan Tan.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/170908lazjt2.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/serrulata/170908lazjt2.jpg
     caption: ''
 links_references: '**Links**
 
@@ -108,9 +109,7 @@ habitats:
 ## Where seen?
 These seagrasses are common on Pulau Semakau, growing among the more dominant
 [Tape seagrass](enhalus)
-(
-*Enhalus acoroides*
-). They are also commonly seen on Cyrene Reef.
+(*Enhalus acoroides*). They are also commonly seen on Cyrene Reef.
 
 Serrated ribbon seagrass is considered common and widespread throughout tropical Indo-West Pacific usually dominant in muddy reef tops. In reefs, it grow mixed with other seagrasses commonly found in such ecosystems. It quickly grows over
 *Halophila*
@@ -140,13 +139,13 @@ are not available.
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
 **
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/111030skdd3364m3.jpg)
+*![](https://images.naturehungry.sg/plants/seagrass/serrulata/111030skdd3364m3.jpg)
 
 Pulau Sekudu, Oct 11
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/090503sgwwd0997m3.jpg)*
+*![](https://images.naturehungry.sg/plants/seagrass/serrulata/090503sgwwd0997m3.jpg)*
 *Pulau Semakau, May 09*
-**![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/serrulata/090503sgwwd0997m3a.jpg)***
+**![](https://images.naturehungry.sg/plants/seagrass/serrulata/090503sgwwd0997m3a.jpg)***
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

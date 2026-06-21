@@ -1,6 +1,6 @@
 ---
 title: Pink ribbon worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink ribbon worm on the shores of Singapore
 keywords: red, ribbon, worm, ribbonworm, hoplonemertea, nemertine, nemertean, nemertines,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -13,30 +13,30 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Feb 14
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/060726chgd5005m3.jpg
+coverimg: https://images.naturehungry.sg/worm/nemertea/pink/060726chgd5005m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/060726chgd5005m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/060726chgd5005m3.jpg
     caption: Changi, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/060726chgd5005m3c.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/060726chgd5005m3c.jpg
     caption: Dark tail.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/060726chgd5005m3b.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/060726chgd5005m3b.jpg
     caption: Dark or black head.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/120408sjilks8m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/120408sjilks8m3.jpg
     caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/050510tusg6052m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/050510tusg6052m3.jpg
     caption: Sometimes seen swimming in the water. Tuas, May 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/201020prpalks11.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/201020prpalks11.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/251228spgrqo2.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/251228spgrqo2.jpg
     caption: Sg Pang Sua, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/251012chgal4.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/251012chgal4.jpg
     caption: Changi, Oct 25 Photo shared by Adriane Lee on facebbok .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/100810snglks3m6l.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/100810snglks3m6l.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on flickr .
 location:
 - sbw

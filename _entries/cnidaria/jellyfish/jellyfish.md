@@ -1,6 +1,6 @@
 ---
 title: Jellyfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Jellyfish on the shores of Singapore
 keywords: jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,35 +18,35 @@ order: Rhizostomeae
 suborder: Kolpophorae
 infraorder: Kampylomyaria
 updated: Aug 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
     caption: The Ribbon jellyfish has thin tentacles and thick ruffled long arms.
       Terumbu Semakau, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg
     caption: Terumbu Semakau, Mar 11
   gallery3:
   - url: https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/160610jngmn5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/huge/160610jngmn5.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/160610jngmn4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/huge/160610jngmn4.jpg
     caption: Small fishes swimming near the jellyfish.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg
     caption: Mangrove jellyfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
     caption: Fat-armed jellyfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg
     caption: Ribbon jellyfish
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
     caption: Upsidedown jellyfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg
     caption: Huge jellyfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/hydrozoa/thread/040409tusad0160m3.jpg
+  - url: https://images.naturehungry.sg/hydrozoa/thread/040409tusad0160m3.jpg
     caption: Thread-tentacled jellyfish
 links_references: '**Links**
 
@@ -55,7 +55,6 @@ links_references: '**Links**
   and
 
   [Sea Nettle (
-
   *Chrysaora melanaster*
 
   ) Order Semaeostomeae](http://mangrove.nus.edu.sg/pub/seashore/text/249)

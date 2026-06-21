@@ -1,6 +1,6 @@
 ---
 title: See-hum
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of See-hum on the shores of Singapore
 keywords: cockle, ark, shell, clam, anandara, arcidae,  bivalve, mollusc, clam, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -19,21 +19,20 @@ infraclass: Pteriomorphia
 order: Arcida
 superfamily: Arcoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
     caption: Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg
     caption: Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/020612selcpd0171m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/anadara/020612selcpd0171m3.jpg
     caption: Seletar, Jun 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/arcidae/anadara/050427tmg5176m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/anadara/050427tmg5176m3.jpg
     caption: Tanah Merah, Apr 05
 links_references: '**Links**
 
   - [Blood cockle (
-
   *Anandara granosa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1022a)
@@ -45,7 +44,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Blood Cockle (
-
   *Anadara granosa*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/156)
@@ -127,8 +125,7 @@ This robust little clam is still commonly seen on some parts of our Northern sho
 The animal's body is usually orange or reddish. So it is sometimes also called the Blood cockle. This is due to the presence of haemoglobin, the same substance that colours our own blood red too. Haemoglobin assists in transporting oxygen within the body and may help the clams live in the oxygen-poor habitats.
 
 **Living in a clam:**
-The tiny Pea crab (
-*Pinnotheres*
+The tiny Pea crab (*Pinnotheres*
 sp.) is sometimes found living inside these bivalves.
 The crab not only gains shelter but also eats some of the food gathered by the host clam.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

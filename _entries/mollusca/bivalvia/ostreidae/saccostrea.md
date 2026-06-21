@@ -1,6 +1,6 @@
 ---
 title: Spiked rock oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spiked rock oyster on the shores of Singapore
 keywords: spiked, rock, oyster, saccostrea, cuccullata, osteridae, bivalve, mollusc,
   clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -20,19 +20,18 @@ order: Ostreida
 superfamily: Ostreoidea
 subfamily: Saccostreinae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg
     caption: Tanah Merah, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
     caption: Berlayar Creek, Mar 09
 links_references: '**Links**
 
   - [Edible Rock Oyster (
-
   *Saccostrea*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/164)
@@ -46,7 +45,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - Hooded oysters (
-
   *Saccostrea cuccullata*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Yellow horn sponge on the shores of Singapore
 keywords: horn, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,
 layout: entry
 shape: stick
@@ -12,14 +12,14 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/horn/050526cjg6829m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/horn/050526cjg6829m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/horn/050526cjg6829m3.jpg
+  - url: https://images.naturehungry.sg/porifera/horn/050526cjg6829m3.jpg
     caption: Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/horn/050721cjg9758m3.jpg
+  - url: https://images.naturehungry.sg/porifera/horn/050721cjg9758m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/horn/050722cjd5181m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/horn/050722cjd5181m3a.jpg
     caption: With tiny red sea cucumbers and purple synaptid sea cucumbers Chek Jawa,
       Jul 05
 location:

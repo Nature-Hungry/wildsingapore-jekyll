@@ -1,6 +1,6 @@
 ---
 title: Broad-barred acropora goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Broad-barred acropora goby on the shores of Singapore
 keywords: broad, barred, goby, gobiodon, histrio, fish, gobiidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -26,52 +26,51 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
     caption: Pulau Hantu, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/051204sisg3318m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/051204sisg3318m6l.jpg
     caption: Sisters Islands, Dec 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/100615tmjk6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/100615tmjk6m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/220618tmftlks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/220618tmftlks5.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/220618tmftky1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/220618tmftky1.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Kelvin Yong on facebook
       .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/240724tmfttt2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/240724tmfttt2.jpg
     caption: Tanah Merah Ferry Terminal, Jun 24 Photo shared by Tommy Tan on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/100529kusjk2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/100529kusjk2m3.jpg
     caption: Kusu Island, May 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/210625kusjk1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/210625kusjk1.jpg
     caption: Kusu Island, Jun 21 Photo shared by James Koh on facebook.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/100529kuslks2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/100529kuslks2m3.jpg
     caption: Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/240608kustl6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/240608kustl6.jpg
     caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/100201hntmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/100201hntmn.jpg
     caption: Pulau Hantu, Feb 10 Photo shared by Marcus Ng on flickr
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/150717smksmn3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/150717smksmn3m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/150717smksmn2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/150717smksmn2m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/120512tpljk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/120512tpljk.jpg
     caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/histrio/161117rlhhpy3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/161117rlhhpy3.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Heng Pei Yan on facebook ..
 links_references: '**Links**
 
   - [Broad-barred Acropora Goby (
-
   *Gobiodon histrio*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/358)
@@ -83,7 +82,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Broad-barred goby (
-
   *Gobiodon histrio*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7216)

@@ -1,6 +1,6 @@
 ---
 title: Boxfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Boxfishes on the shores of Singapore
 keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,19 +18,18 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
     caption: Longhorned cowfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg
     caption: Shortnosed boxfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
     caption: Yellow boxfish
 links_references: '**Links**
 
   - [Shortnose boxfish (
-
   *Rhynchostracion nasus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399)
@@ -50,7 +49,6 @@ links_references: '**Links**
   : Technical fact sheet on the family
 
   - [Yellow Boxfish (
-
   *Ostracion cubicus*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus)

@@ -1,6 +1,6 @@
 ---
 title: Blob ascidians
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blob ascidians on the shores of Singapore
 keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -15,14 +15,14 @@ attributes:
 - 139
 - 150
 - 129
-coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/blob/091203ubnd4985m3.jpg
+coverimg: https://images.naturehungry.sg/ascidiacea/blob/091203ubnd4985m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/blob/091203ubnd4985m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/blob/091203ubnd4985m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/blob/060516chgd2023m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/blob/060516chgd2023m3.jpg
     caption: Changi, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/blob/120604pgld3538m6l.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/blob/120604pgld3538m6l.jpg
     caption: Punggol, Jun 12
 location:
 - pgl

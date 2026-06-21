@@ -1,6 +1,6 @@
 ---
 title: Four-spot cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Four-spot cowrie on the shores of Singapore
 keywords: four, spot, cowrie, cypraeidae, quadrimaculata, cypraea, eclogavena, gastropod,
   mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -20,36 +20,36 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg
     caption: Beting Bemban Besar, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg
     caption: Raised 'teeth' on the underside.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2227m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2227m3.jpg
     caption: Sisters Island, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2236.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2236.jpg
     caption: Sisters Island, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2234.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2234.jpg
     caption: Sisters Island, Oct 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0628m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0628m3.jpg
     caption: Sentosa, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0639m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0639m3.jpg
     caption: Sentosa, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/080920hntd0734m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/080920hntd0734m3.jpg
     caption: Sentosa, Sep 08
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/220812ssisccn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/220812ssisccn2.jpg
     caption: Small Sisters Island, Aug 22 Photo shared by Che Cheng Neo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/110521smklks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/110521smklks.JPG
     caption: Pulau Semakau, May 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/140811trylks1m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/140811trylks1m3.JPG
     caption: Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

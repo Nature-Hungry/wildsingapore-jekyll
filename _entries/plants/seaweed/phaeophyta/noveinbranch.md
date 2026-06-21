@@ -1,6 +1,6 @@
 ---
 title: Broad strap brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Broad strap brown seaweed on the shores of Singapore
 keywords: no, vein, branch, brown, seaweed, weed, phaeophyta, algae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -20,14 +20,14 @@ class: Phaeophyceae
 subclass: Dictyotophycidae
 order: Dictyotales
 updated: Sep 15
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3.jpg
     caption: Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -78,7 +78,7 @@ This broad strap-like seaweed is sometimes seen on our Southern shores, attached
 
 Clumps of flat blades 2-4cm wide and 10-15cm long. The broad strap-like blades branch irregularly near the ends on the same plane into flat strips. Tips squarish or irregularly ragged. There is no "vein" down the centre of the blade. Colours golden, yellowish to reddish brown.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg)
+*![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg)
 
 Cyrene Reef, Aug 10*
 

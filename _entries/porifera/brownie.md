@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brownie sponge on the shores of Singapore
 keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: blobs
@@ -9,17 +9,17 @@ genus: Hyattella
 species: tubaria
 attributes: []
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/brownie/120708tryd7520m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/brownie/120708tryd7520m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/brownie/130822cjd1818m3.jpg
+  - url: https://images.naturehungry.sg/porifera/brownie/130822cjd1818m3.jpg
     caption: Chek Jawa, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/brownie/130822cjd1819m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/brownie/130822cjd1819m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/brownie/120708tryd7520m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/brownie/120708tryd7520m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/brownie/240708smkeky2.jpg
+  - url: https://images.naturehungry.sg/porifera/brownie/240708smkeky2.jpg
     caption: Pulau Semakau, Jul 24 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 
@@ -61,7 +61,7 @@ This rather untidy sponge is sometimes seen on some of our Nothern and Southern 
 
 Untidy lumpy mass, or thick irregular branches (10-15cm), porous. Surface lumpy and crumbly looking, resembling brownies. Colour greyish brown.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/brownie/120708tryd7520m3.jpg)
+![](https://images.naturehungry.sg/porifera/brownie/120708tryd7520m3.jpg)
 
 *Terumbu Raya, Jul 12*
 

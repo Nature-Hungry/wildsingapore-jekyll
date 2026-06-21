@@ -1,6 +1,6 @@
 ---
 title: Glass anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Glass anemone on the shores of Singapore
 keywords: glass, anemone, dofleinia, actiniidae, anthozoa, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -25,59 +25,59 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/100614bbd5984m3.jpg
+  - url: https://images.naturehungry.sg/dofleinia/100614bbd5984m3.jpg
     caption: Beting Bronok, Jun 10 Rings of long tentacles and short tentacles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/050821bbg1882m3.jpg
+  - url: https://images.naturehungry.sg/dofleinia/050821bbg1882m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/060625bbd3345m3.jpg
+  - url: https://images.naturehungry.sg/dofleinia/060625bbd3345m3.jpg
     caption: Beting Bronok, Jun 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/180518chg1jll.jpg
+  - url: https://images.naturehungry.sg/dofleinia/180518chg1jll.jpg
     caption: Changi, May 18 Photo shared by Jianlin Liu on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/171204chglks4.jpg
+  - url: https://images.naturehungry.sg/dofleinia/171204chglks4.jpg
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/190801chgjll1.jpg
+  - url: https://images.naturehungry.sg/dofleinia/190801chgjll1.jpg
     caption: Caught a small fish! Changi, Aug 19 Photo shared by Jianlin Liu on facebook.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/210531chg6jt2.jpg
+  - url: https://images.naturehungry.sg/dofleinia/210531chg6jt2.jpg
     caption: Changi Carpark 6, May 21 Photo shared by Jonathan Tan on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/230605chg7lks4.jpg
+  - url: https://images.naturehungry.sg/dofleinia/230605chg7lks4.jpg
     caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/121216ubnlks.JPG
+  - url: https://images.naturehungry.sg/dofleinia/121216ubnlks.JPG
     caption: Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on flickr.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/200706skdlks1.jpg
+  - url: https://images.naturehungry.sg/dofleinia/200706skdlks1.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/170626skdtch1.jpg
+  - url: https://images.naturehungry.sg/dofleinia/170626skdtch1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/160706skdrl1.jpg
+  - url: https://images.naturehungry.sg/dofleinia/160706skdrl1.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Russel Low on facebook.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/140613skdlks.JPG
+  - url: https://images.naturehungry.sg/dofleinia/140613skdlks.JPG
     caption: Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/180617skdlks1.jpg
+  - url: https://images.naturehungry.sg/dofleinia/180617skdlks1.jpg
     caption: Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/180616bbtch1.jpg
+  - url: https://images.naturehungry.sg/dofleinia/180616bbtch1.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Toh Chay Hoon on facebook.
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/210529ecpgtch4.jpg
+  - url: https://images.naturehungry.sg/dofleinia/210529ecpgtch4.jpg
     caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/210628ecpBrk2.jpg
+  - url: https://images.naturehungry.sg/dofleinia/210628ecpBrk2.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook.
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/110606cyrlks1.JPG
+  - url: https://images.naturehungry.sg/dofleinia/110606cyrlks1.JPG
     caption: Cyrene Reef, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/110606cyrlks1a.jpg
+  - url: https://images.naturehungry.sg/dofleinia/110606cyrlks1a.jpg
     caption: Photo shared by Loh Kok Sheng on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/110606cyrlks4.JPG
+  - url: https://images.naturehungry.sg/dofleinia/110606cyrlks4.JPG
     caption: ''
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/130810cyrlks.JPG
+  - url: https://images.naturehungry.sg/dofleinia/130810cyrlks.JPG
     caption: Cyrene Reef, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/dofleinia/130810cyrlks2.JPG
+  - url: https://images.naturehungry.sg/dofleinia/130810cyrlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr.
 links_references: '**Links**
 

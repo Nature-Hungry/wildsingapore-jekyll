@@ -1,6 +1,6 @@
 ---
 title: Stripe-nosed   halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stripe-nosed   halfbeak on the shores of Singapore
 keywords: stripe, striped, nose, halfbeak, half, beak, zenarchopterus, buffonis, zenarchopteridae,
   hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -23,17 +23,16 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
     caption: Sungei Buloh, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg
     caption: Pasir Ris, Feb 12
 links_references: '**Links**
 
   - [Striped-nose Halfbeak (
-
   *Zenarchopterus buffonis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/237)
@@ -59,7 +58,6 @@ links_references: '**Links**
   on the Ecology Asia website: fact sheet with photos.
 
   - [Buffon''s river-garfish (
-
   *Zenarchopterus buffonis*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=17041)

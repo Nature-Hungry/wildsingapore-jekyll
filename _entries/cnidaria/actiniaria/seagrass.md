@@ -1,6 +1,7 @@
 ---
 title: Seagrass anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Less than 1cm. Many translucent tentacles with tiny spots, body column
+  short with tiny bumps. Sometimes seen stuck on seagrasses on some of our shores.
 keywords: seagrass, actiniaria, anthozoa, cnidarian, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -26,31 +27,31 @@ stateofmatter: Life
 summary: Less than 1cm. Many translucent tentacles with tiny spots, body column short
   with tiny bumps. Sometimes seen stuck on seagrasses on some of our shores.
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg
     caption: Changi, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/120801chgd8965m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/120801chgd8965m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/120801chgd8969m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/120801chgd8969m3.jpg
     caption: Changi, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/120801chgd8969m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/120801chgd8969m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/170624cjtch1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/170624cjtch1.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/240410cyrtl2a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/240410cyrtl2a.jpg
     caption: Cyrene, Apr 24 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/240410cyrtl2b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/240410cyrtl2b.jpg
     caption: Cyrene, Apr 24 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/seagrass/250726cyrtch4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/seagrass/250726cyrtch4.jpg
     caption: Cyrene, Jul 25 Photo shared by Chay Hoon on facebook .
 location:
 - prp

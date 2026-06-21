@@ -1,6 +1,6 @@
 ---
 title: Plain sand star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Plain sand star on the shores of Singapore
 keywords: sand, star, seastar, sea star, starfish, fish, astropecten, indicus, astropectinidae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -23,47 +23,46 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg
     caption: Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050608chgg7360m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050608chgg7360m3d.jpg
     caption: Stout flat spines on the sides.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050402cjg4016m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050402cjg4016m3a.jpg
     caption: Pointed tube feet
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg
     caption: Tiny parasitic snails sometimes seen.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050402cjg4016m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050402cjg4016m3.jpg
     caption: Chek Jawa, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/080817chgd9707m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080817chgd9707m3.jpg
     caption: Sometimes with only 4 arms. Changi, Aug 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/090310tuslks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/090310tuslks.JPG
     caption: Tuas, Mar 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/201019cnyrk7.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/201019cnyrk7.jpg
     caption: Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/260216cnyrqo3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/260216cnyrqo3.jpg
     caption: Coney Island, Feb 26 Photo shared by Rui Quan Oh on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/260103prpyls4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/260103prpyls4.jpg
     caption: Pasir Ris Park, Jan 26 Photos shared by Yan Le Su on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/160125obsmn4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/160125obsmn4.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/250627bbrk2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/250627bbrk2.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/220616chgelks7.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/220616chgelks7.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/210115mevc7.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/210115mevc7.jpg
     caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**
 
   - [Sand star (
-
   *Astropecten*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221)

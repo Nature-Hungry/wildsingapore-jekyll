@@ -1,6 +1,6 @@
 ---
 title: Passion salmacis urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Passion salmacis urchin on the shores of Singapore
 keywords: white, urchin, salmacis, virgulata, echinoid, echinoderm, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -28,42 +28,42 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
     caption: Changi, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg
     caption: Tip sharp spines at the top, longer flattened spines on the sides. Changi,
       May 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg
     caption: Spines around mouth banded.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/080605chglks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/080605chglks.JPG
     caption: Changi, Jun 08 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/120802chglks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/120802chglks.JPG
     caption: Changi, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/210527chg4lks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/210527chg4lks2.jpg
     caption: Changi Carpark 4, May 21 Photo shared by Loh Kok Sheng on facbook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/071225cjlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/071225cjlks.JPG
     caption: Chek Jawa, Jul 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/160607bbro6.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/160607bbro6.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/210628ecpBlks4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/210628ecpBlks4.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/170528cyrtch2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/170528cyrtch2.jpg
     caption: Cyrene Reef, Jun 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/110830cyrlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/110830cyrlks.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/110830cyrlks2.JPG
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/110830cyrlks2.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on flickr .
 links_references: "**Links**\n- [Banded urchin (\n*Salmacis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*A Guide to Seashore Life*\n. The Singapore\

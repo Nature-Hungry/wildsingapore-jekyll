@@ -1,6 +1,6 @@
 ---
 title: 'Gelang laut '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gelang laut  on the shores of Singapore
 keywords: sesuvium, portulacastrum, aizoaceae, creeper, plant, bush, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,14 +23,14 @@ subfamily: Sesuvioideae
 tribe: Sesuvieae
 inat_id: 130743
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3a.jpg
     caption: Pulau Ubin, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3.jpg
     caption: Pulau Ubin, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/sesuvium/portulacastrum/090405smkd9020m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/sesuvium/portulacastrum/090405smkd9020m3.jpg
     caption: Pulau Semakau, Apr 09
 links_references: '**Links**
 
@@ -92,14 +92,14 @@ Small, pollen-collecting bees and day-flying moths pollinate the flowers.
 
 According to Burkill, the fresh leaves make a very good vegetable, but only after cooking by 2-3 boilings as they contain much salt. According to Geisen, in Thailand, this plant is used widely as forage and feed for sheep, cattle and pigs and even as a vegetable for human consumption.
 
-![](https://f003.backblazeb2.com/file/naturehungry/ipomoea/pescaprae/090118smkd5798m3.jpg)
+![](https://images.naturehungry.sg/ipomoea/pescaprae/090118smkd5798m3.jpg)
 
 Growing with
 [Beach morning glory](../ipomoea/pescaprae)
 .
 *Pulau Semakau, Jan 09*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/sesuvium/portulacastrum/090405smkd9021m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/sesuvium/portulacastrum/090405smkd9021m3.jpg)
 
 *Pulau Semakau, Apr 09*
 

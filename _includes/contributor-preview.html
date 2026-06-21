@@ -7,92 +7,43 @@
     {% include contributor-preview.html contributor=contributor %}
 {% endcomment %}
 
-<div class="contributor-preview">
-  
-  <div class="contributor-preview__header">
-    <h2 class="contributor-preview__title">
-      <a href="{{ contributor.url | relative_url }}">{{ contributor.title }}</a>
-    </h2>
+<div class="contributor-preview" style="width: {{ contributor.width | default: '100'}}% ">
+  <div class="contributor-img">
+    {% if contributor.img %}
+      <img class="" src="">
+    {% else %}
+      <i class="ti ti-user"></i>
+    {% endif %}
+  </div>
+  <div class="contributor-content">
+
+    <div class="contributor-preview__header">
+      <h3 class="contributor-preview__title">
+        <a href="{{ contributor.link | relative_url }}">{{ contributor.title }}</a>
+      </h3>
+      
+      {% if contributor.role %}
+      <div class="contributor-preview__tags">
+        <span class="contributor-role-tag">{{ contributor.role }}</span>
+      </div>
+      {% endif %}
+    </div>
     
-    {% if contributor.role %}
-    <div class="contributor-preview__tags">
-      <span class="contributor-role-tag">{{ contributor.role }}</span>
+    {% if contributor.content %}
+    <div class="contributor-preview__excerpt">
+      {{ contributor.excerpt }}
     </div>
     {% endif %}
   </div>
   
-  {% if contributor.content %}
-  <div class="contributor-preview__excerpt">
-    {{ contributor.content | strip_html | truncatewords: 50 }}
-  </div>
-  {% endif %}
-  
-  {% if contributor.date %}
+  <!-- {% if contributor.date %}
   <div class="contributor-preview__meta">
     <span class="contributor-preview__date">
       Joined {{ contributor.date | date: "%B %d, %Y" }}
     </span>
   </div>
-  {% endif %}
+  {% endif %} -->
 
 </div><!-- .contributor-preview -->
 
-<style>
-  .contributor-preview {
-    padding: 1.5rem;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    margin-bottom: 1.5rem;
-  }
-  
-  .contributor-preview__header {
-    margin-bottom: 1rem;
-  }
-  
-  .contributor-preview__title {
-    margin: 0 0 0.5rem 0;
-    font-size: 1.25rem;
-  }
-  
-  .contributor-preview__title a {
-    text-decoration: none;
-    color: inherit;
-  }
-  
-  .contributor-preview__title a:hover {
-    color: slategray;
-  }
-  
-  .contributor-preview__tags {
-    margin-top: 0.5rem;
-  }
-  
-  .contributor-role-tag {
-    display: inline-block;
-    padding: 0.25rem 0.75rem;
-    background-color: slategray;
-    color: white;
-    border-radius: 3px;
-    font-size: 0.875rem;
-  }
-  
-  .contributor-preview__description {
-    margin: 0.75rem 0;
-    color: #555;
-  }
-  
-  .contributor-preview__excerpt {
-    margin: 1rem 0;
-    padding: 0.75rem;
-    background-color: #f9f9f9;
-    border-left: 3px solid slategray;
-    color: #666;
-    font-size: 0.95rem;
-    line-height: 1.5;
-  }
-  
-  .contributor-preview__meta {
-    font-size: 0.875rem;
-    color: #888;
-  }
-</style>
+

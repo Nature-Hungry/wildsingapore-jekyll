@@ -1,6 +1,6 @@
 ---
 title: 'Soldier crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Soldier crab  on the shores of Singapore
 keywords: soldier, crab, dotilla, myctiroides, dotillidae, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -29,47 +29,46 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Dotillinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
     caption: Chek Jawa, Nov 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/060225cjg4975m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/060225cjg4975m3a.jpg
     caption: Typical burrow with small and big sand balls around the opening. Chek
       Jawa, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/111129tmftd4218m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/111129tmftd4218m3.jpg
     caption: '''Igloo'' built just before the incoming tide. Tanah Merah, Nov 11'
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg
     caption: Chek Jawa, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/070616cjg0404m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/070616cjg0404m3.jpg
     caption: Creating an 'igloo' in wet sand with the incoming tide.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/070616cjg0405m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/070616cjg0405m3.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/171105cjay1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/171105cjay1.jpg
     caption: Chek Jawa, Nov 17 Shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/151001blylks2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/151001blylks2.jpg
     caption: Berlayar Creek, Oct 15 Shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/090109sjilks01m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/090109sjilks01m3.jpg
     caption: St. John's Island, Jan 09 Shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/090224lazlks04m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/090224lazlks04m3.jpg
     caption: Lazarus Island, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/160208smkshpy4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/160208smkshpy4.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/091204pawd5191m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/091204pawd5191m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/091205sudd5475m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/091205sudd5475m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/100810snglks1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 
   - [Soldier crab (
-
   *Dotilla*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192)
@@ -81,7 +80,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Soldier crab (
-
   *Dotilla myctiroides*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2052)
@@ -196,9 +194,7 @@ The soldier crab eats the thin coating of detritus on sand grains. Sand grains a
 The shifted sand is then discarded in a little ball. The bigger untidy balls are sand pellets dug out of the burrow.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Status and threats:**
-One of our soldier crab species (
-*Dotilla myctiroides*
-) is listed among the threatened animals of Singapore due to loss of our natural beaches. While somewhat common on Chek Jawa, they are not commonly seen elsewhere in Singapore.
+One of our soldier crab species (*Dotilla myctiroides*) is listed among the threatened animals of Singapore due to loss of our natural beaches. While somewhat common on Chek Jawa, they are not commonly seen elsewhere in Singapore.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.
 
 ---

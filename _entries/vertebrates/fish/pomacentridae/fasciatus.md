@@ -1,6 +1,6 @@
 ---
 title: Yellow-banded damselfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow-banded damselfish on the shores of Singapore
 keywords: yellow, banded, damsel, damselfish, dischistodus, fasciatus, fish, pomacentridae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -27,72 +27,71 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg
     caption: Juvenile. Lazarus Island, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg
     caption: Juvenile Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg
     caption: Seen in small groups. Raffles Lighthouse, Jul 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m6l.jpg
     caption: Adult. Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/100810sngd9976m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/100810sngd9976m3b.jpg
     caption: Seen in small groups. Pulau Senang, Aug 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg
     caption: Adult. Sisters Island, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m6l.jpg
     caption: Adult. Tanah Merah, Jun 11
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/090923labmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/090923labmn.jpg
     caption: Labrador, Sep 09 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/171009blyay12.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/171009blyay12.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/201119sntrk2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/201119sntrk2.jpg
     caption: Sentosa Tg Rimau, Nov 20 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/110904sntlks9m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/110904sntlks9m3.jpg
     caption: Sentosa, Sep 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/240527sntccn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/240527sntccn1.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Che Cheng Neo on facebook
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/120507srplks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/120507srplks.JPG
     caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/230508srpky5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/230508srpky5.jpg
     caption: Sentosa Serapong, May 23 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/240527sntlks7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/240527sntlks7.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/2007024thntjt3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/2007024thntjt3.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/201019sjilks9.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/201019sjilks9.jpg
     caption: St John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/210429hntvc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/210429hntvc1.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/240410cyrmn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/240410cyrmn1.jpg
     caption: Cyrene, Apr 24 Photo shared by Marcus Ng on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/110522bbbro4m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/110522bbbro4m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/230806tbccn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/230806tbccn1.jpg
     caption: Terumbu Bemban, Aug 23 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/110517tptlks16m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/110517tptlks16m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/100810sngjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/100810sngjk.jpg
     caption: Pulau Senang, Aug 10 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/fasciatus/091205sudikw6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/091205sudikw6m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: '**Links**
 
   - [Yellow-banded damsel (
-
   *Dischistodus fasciatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/341)
@@ -104,7 +103,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Banded damsel (
-
   *Dischistodus fasciatus*
 
   )](http://www.fishbase.se/Summary/SpeciesSummary.php?id=9982)

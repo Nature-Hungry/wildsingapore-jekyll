@@ -1,6 +1,6 @@
 ---
 title: Ornate onch slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ornate onch slug on the shores of Singapore
 keywords: slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info
@@ -21,21 +21,21 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
     caption: Kranji Nature Trail, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3a.jpg
     caption: Eyes on stalks.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6114m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/ornate/090125kntd6114m3.jpg
     caption: Underside
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3.jpg
     caption: Pulau Semakau, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090208smkd6516m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/ornate/090208smkd6516m3.jpg
     caption: ''
 location:
 - sbw

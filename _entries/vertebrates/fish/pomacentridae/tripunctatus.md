@@ -1,6 +1,6 @@
 ---
 title: Threespot damselfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Threespot damselfish on the shores of Singapore
 keywords: three, spot, damsel, fish, damselfish, pomacentrus, tripunctatus, pomacentridae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -29,80 +29,79 @@ subfamily: Pomacentrinae
 updated: Oct 2020
 forms:
 - juvenile:
-    img: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m.jpg
+    img: https://images.naturehungry.sg/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m.jpg
     summary: Juvenile with electric blue stripes on nose and ringed dark spot on dorsal
       fin and base of tail. Living reefs. Sometimes seen on our Northern shores.
     size:
     - 2.0
     - 3.0
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg
     caption: Tiny juvenile. Cyrene, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m6l.jpg
     caption: Juvenile. Tanah Merah, Jun 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m6l.jpg
     caption: Adult. Tuas, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3566m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3566m3.jpg
     caption: Juvenile. Tanah Merah, Jun 11
   gallery3:
   - url: https://live.staticflickr.com/2805/33971040050_e22ae4991b_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/200722lyglks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/200722lyglks5.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/180517skddc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/180517skddc1.jpg
     caption: Pulau Sekudu, May 18 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/120508skdmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/120508skdmn.jpg
     caption: Pulau Sekudu, May 12 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/090818tmjk5m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/090818tmjk5m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/090918tmjk2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/090918tmjk2m3.jpg
     caption: Tanah Merah, Sep 09 Photo shared by James Koh on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/220813pcnccn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/220813pcnccn1.jpg
     caption: East Coast Park (PCN), Aug 22 Photo shared by Che Cheng Neo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/210628ecpBlks7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/210628ecpBlks7.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/240527sntccn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/240527sntccn1.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks4.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks5.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/260104trmlvo3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/260104trmlvo3.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/171009blyay10.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/171009blyay10.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/240820kusmn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/240820kusmn1.jpg
     caption: Kusu Island, Aug 24 Photo shared by Marcus Ng on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/100502trylks1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/100502trylks1m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/140810smkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/140810smkmn.jpg
     caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/180514jngll1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/180514jngll1.jpg
     caption: Pulau Jong, Aug 18 Photo shared by Liz Lim on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/190522tsmll1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/190522tsmll1.jpg
     caption: Terumbu Semakau, May 19 Photo shared by Liz Lim on facebook.
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/110517tptsy1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/110517tptsy1m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Sam Yeo on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/tripunctatus/100530biomn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/100530biomn.jpg
     caption: Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Threespot damsel (
-
   *Pomacentrus tripunctatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/344)
@@ -114,7 +113,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Threespot damsel (
-
   *Pomacentrus tripunctatus*
 
   )](http://www.fishbase.se/Summary/SpeciesSummary.php?id=8277)
@@ -195,8 +193,7 @@ To about 20cm, those seen about 12-15cm long. Adults dull greenish black or dark
 Tiny juveniles 2-3cm long can have electric blue lines (although these little fishes may also be the juveniles of
 *Pomacentrus cuneatus*
 or
-*Pomacentrus cheraphilus*
-). These tiny fishes seem to be territorial and swim in jerky darting movements around their 'turf'.
+*Pomacentrus cheraphilus*). These tiny fishes seem to be territorial and swim in jerky darting movements around their 'turf'.
 
 **What does it eat?**
 It eats mainly algae growing on the sea bottom.

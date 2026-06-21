@@ -1,6 +1,6 @@
 ---
 title: Turf green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Turf green seaweeds on the shores of Singapore
 keywords: seaweed, weed, green, enteromorpha, ulvaceae, chlorophyta, algae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -19,7 +19,7 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Ulvales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg
 links_references: "**Links**\n- [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/seashore/text/103.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [*Enteromorpha*](http://www.mbari.org/staff/conn/botany/greens/Ram/index.htm)by\
@@ -44,11 +44,11 @@ links_references: "**Links**\n- [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/
   \ Bookmark, Inc., the Philippines. 306 pp."
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/100202chgd9210m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/enteromorpha/100202chgd9210m6l.jpg
     caption: Changi, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3.jpg
     caption: Chek Jawa, Mar 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/020328cjd7853m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/enteromorpha/020328cjd7853m3.jpg
     caption: Chek Jawa, Mar 02
 location:
 - chg
@@ -108,13 +108,13 @@ Identification of the species is difficult because the internal and external fea
 Some species are eaten by people, the fine mossy ones used to garnish dishes in Japan and some parts of China. They are also used as animal feed, fertiliser and as medicine for their antibacterial properties.
 
 **
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg)
 
 Coats rocks in a furry carpet.
 *Tanah Merah, Jul 05*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/050711tmftd4991m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/enteromorpha/050711tmftd4991m3.jpg)
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/enteromorpha/070420sntd0150m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/enteromorpha/070420sntd0150m3.jpg)
 
 Sheets of
 *Ulva*

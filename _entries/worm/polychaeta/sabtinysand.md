@@ -1,6 +1,6 @@
 ---
 title: Tiny sand fanworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny sand fanworm on the shores of Singapore
 keywords: fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info
@@ -18,36 +18,36 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Sep 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/100215sisd9459m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/100215sisd9459m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/100215sisd9459m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/100215sisd9459m3.jpg
     caption: Sisters Island, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/100215sisd9459m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/100215sisd9459m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/100215sisd9459m3b.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/100215sisd9459m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/190901labjc1.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/190901labjc1.jpg
     caption: Labrador, Sep 12 Photo shared by Joleen Chan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/251011lablks3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/251011lablks3.jpg
     caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/190123lazjll3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/190123lazjll3.jpg
     caption: Lazarus, Feb 19 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/100528tkknml6m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/100528tkknml6m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/101224sisro1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/101224sisro1m3.jpg
     caption: Sisters Island, Dec 10 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/181125jt.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/181125jt.jpg
     caption: Terumbu Pempang Tengah, Nov 18 Photo shared by Juria Toramae on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/110522bbbro5m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/110522bbbro5m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/180815bbbdc2.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/180815bbbdc2.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/tinysand/110814smkjk1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/tinysand/110814smkjk1m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by James Koh on his blog .
 location:
 - cj

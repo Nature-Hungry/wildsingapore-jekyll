@@ -1,6 +1,6 @@
 ---
 title: Wedge sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Wedge sea hare on the shores of Singapore
 keywords: hairy, seahare, hare, anaspidea, aplysiidae, dolabella, auricularia, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -25,34 +25,34 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: Sep 2023
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg
     caption: Terumbu Reya, Feb 23 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230224trylks1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230224trylks1a.jpg
     caption: Small head and tiny rhinophores.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg
     caption: Doesn't have obvious flaps at the top.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230224trylks1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230224trylks1b.jpg
     caption: Releases purple ink when stressed. Foot is smooth and pale.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230609smklks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230609smklks1.jpg
     caption: Pulau Semakau, Jun 23 Video and photos shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230609smklks1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230609smklks1a.jpg
     caption: Small head and tiny rhinophores.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230902smknccn1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230902smknccn1a.jpg
     caption: Pulau Semakau North, Sep 23 Video shared by Che Cheng Neo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230902smknccn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230902smknccn1.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/230902smknccn1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/230902smknccn1b.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/dolabella/091023smkmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/091023smkmn.jpg
     caption: Pulau Semakau, Oct 09 Video shared by Marcus Ng on flickr .
 links_references: '**Links**
 

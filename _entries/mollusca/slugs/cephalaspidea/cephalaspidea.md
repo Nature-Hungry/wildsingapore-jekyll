@@ -1,6 +1,6 @@
 ---
 title: Headshield snails and slugs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Headshield snails and slugs on the shores of Singapore
 keywords: head, shield, slug, seaslug, bubble, shell, snail, cephalaspidea, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -20,24 +20,24 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
     caption: Batik tailed-slug
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m3.jpg
     caption: Reticulated tailed-slug
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
     caption: Lined tailed-slug
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg
     caption: Black tailed-slug
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg
     caption: Mangrove bubble-shell snail
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
     caption: Paper bubble snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
     caption: '''Attap chee'' slug'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -57,9 +57,7 @@ Headshield slugs belong to
 [Phylum Mollusca](../../mollusca)
 and
 [Class Gastropoda](../../gastropoda)
-. They belong to group of sea slugs (
-[Subclass Opistobranchia](../../slug)
-) but most have retained shells as adults, although the shell may be reduced or internal. There are 31 families of headshield slugs.
+. They belong to group of sea slugs ([Subclass Opistobranchia](../../slug)) but most have retained shells as adults, although the shell may be reduced or internal. There are 31 families of headshield slugs.
 
 ## Features
 

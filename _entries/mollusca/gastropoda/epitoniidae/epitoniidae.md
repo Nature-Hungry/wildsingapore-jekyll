@@ -1,6 +1,6 @@
 ---
 title: Wentletrap
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Wentletrap on the shores of Singapore
 keywords: wentletrap, snail, epitoniidae, , gastropod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -16,14 +16,14 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Epitonioidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg
     caption: Seletar, Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7333m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7333m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7325m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7325m3.jpg
     caption: ''
 links_references: '**Links**
 

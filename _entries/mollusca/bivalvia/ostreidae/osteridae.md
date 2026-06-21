@@ -1,6 +1,6 @@
 ---
 title: True oysters
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of True oysters on the shores of Singapore
 keywords: oyster, ostreidae, bivalvia, clam, bivalve, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,7 +18,7 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Ostreoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
 links_references: "**Links**\n- [Edible Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Family Ostreidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Ostreidae.html)on[The\
@@ -47,21 +47,21 @@ links_references: "**Links**\n- [Edible Rock Oyster (*Saccostrea*)](http://mangr
   \ Society (Singapore), Singapore. 343 pp."
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
     caption: Oysters often form a distint band on hard surfaces near the high water
       mark. Chek Jawa, Jan 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/concepts/pix/080122cjd9042m3.jpg
+  - url: https://images.naturehungry.sg/concepts/pix/080122cjd9042m3.jpg
     caption: All kinds of different animals may settle among the oysters. Chek Jawa,
       Jan 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
     caption: Some oysters have spikes on their shells, perhaps to deter predators.
       Berlayar Creek, Mar 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
     caption: Spiked rock oysters
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/plain/041031cjd7933m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/plain/041031cjd7933m3.jpg
     caption: Plain rock oysters
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg
     caption: Zig-zag rock oysters
 location:
 - pgl

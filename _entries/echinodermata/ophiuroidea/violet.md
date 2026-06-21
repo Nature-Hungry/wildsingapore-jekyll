@@ -1,6 +1,6 @@
 ---
 title: 'Violet brittle star '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Violet brittle star  on the shores of Singapore
 keywords: violet, brittle, star, brittlestar, macrophiothrix, nereidina, ophiotrichidae,
   ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -26,78 +26,78 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/130625ecpd8209m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/130625ecpd8209m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/130625ecpd8209m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/130625ecpd8209m3.jpg
     caption: East Coast Park, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/130625ecpd8206m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/130625ecpd8206m3.jpg
     caption: Underside of arms paler.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/130625ecpd8209m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/130625ecpd8209m3a.jpg
     caption: Thick central disk.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210528lygjll5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210528lygjll5.jpg
     caption: Changi Loyamg, May 21 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210528lygjll5a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210528lygjll5a.jpg
     caption: Changi Loyamg, May 21 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210628ecpBvc1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210628ecpBvc1.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook
       .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/120507srpmn1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/120507srpmn1.jpg
     caption: Sentosa Serapong, May 12 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/220104tkkvc5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/220104tkkvc5.jpg
     caption: Pulau Tekukor, Jan 22 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/160508kusjt3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/160508kusjt3.jpg
     caption: Kusu Island, May 16
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/160508kusjt3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/160508kusjt3a.jpg
     caption: Photo shared by Jonathan Tan on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210822ssisjll1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210822ssisjll1.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Jianlin Liu on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/190205sistvc1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/190205sistvc1.jpg
     caption: Big Sisters Island, Feb 19 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/200919bsisjll2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/200919bsisjll2.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Jianlin Liu on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/190831kusjll1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/190831kusjll1.jpg
     caption: Kusu Island, Sep 12 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210625kusjll4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210625kusjll4.jpg
     caption: Kusu Island, Jun 21 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/220504hnttyj1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/220504hnttyj1.jpg
     caption: Pulau Hantu, May 22 Photo shared by Tang Yong Jen on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/190122cyrjll1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/190122cyrjll1.jpg
     caption: Cyrene Reef, Jan 19 Photo shared by Jianlin Liu on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210402tmskvc1b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210402tmskvc1b.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/120804bblks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/120804bblks.JPG
     caption: Beting Bemban Besar, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210810tplvc2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210810tplvc2.jpg
     caption: Terumbu Pempang Tengah, Aug 21 Photo shared by Vincent Choo on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210402tmskvc1b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210402tmskvc1b.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/230221tryccn1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/230221tryccn1.jpg
     caption: Terumbu Raya, Feb 23 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/120804bblks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/120804bblks.JPG
     caption: Beting Bemban Besar, Aug 12 Photo shared by Loh Kok Sheng on flickr .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210810tplvc2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210810tplvc2.jpg
     caption: Terumbu Pempang Tengah, Aug 21 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/220103tplvc1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/220103tplvc1.jpg
     caption: Terumbu Pempang Laut, Jan 22 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210810tplvc2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210810tplvc2.jpg
     caption: Terumbu Pempang Tengah, Aug 21 Photo shared by Vincent Choo on facebook
       .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/violet/210428slulks1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210428slulks1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

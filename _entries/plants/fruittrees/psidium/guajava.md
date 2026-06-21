@@ -1,6 +1,6 @@
 ---
 title: 'Guava tree '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Guava tree  on the shores of Singapore
 keywords: guava, psidium, guajava, myrtaceae, tree, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,7 +23,7 @@ subfamily: Myrtoideae
 tribe: Myrteae
 subtribe: Pimentinae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg
 links_references: '**Links**
 
   - *[Psidium guajava](http://floraofsingapore.wordpress.com/2010/04/03/psidium-guajava/)*on
@@ -51,11 +51,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5841m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/psidium/guajava/091213ubnd5841m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5842m3a.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/psidium/guajava/091213ubnd5842m3a.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5844m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/psidium/guajava/091213ubnd5844m3.jpg
     caption: Pulau Ubin, Dec 09
 size:
 - 600.0
@@ -76,7 +76,7 @@ An untidy tree with sparse, drooping branches (to about 6m tall). Bark very smoo
 
 According to Burkill, the fruit makes "excellent stews, jams and particularly jelly".The leaves are used to produce a black dye as well as to treat stomach ailments.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg)
+![](https://images.naturehungry.sg/plants/fruittrees/psidium/guajava/091213ubnd5845m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

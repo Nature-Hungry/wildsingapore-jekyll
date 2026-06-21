@@ -1,6 +1,6 @@
 ---
 title: Toadfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Toadfishes on the shores of Singapore
 keywords: three, spined, toadfish, toad, fish, batrachomoeus, trispinosus, batrachoididae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -22,64 +22,63 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Batrachoidiformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
     caption: Huge eyes often the first sign of the fish hidden under stones. Chek
       Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/070812sisd5439m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/070812sisd5439m6l.jpg
     caption: Sisters Island, Aug 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/140713bblks1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/140713bblks1m6l.jpg
     caption: Parent fish looking after its young? Beting Bronok, Jul 14 Photo shared
       by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/140713bblks2m3.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/140713bblks2m3.JPG
     caption: Closer look at the young fishes. Beting Bronok, Jul 14 Photo shared by
       Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/201118pglvc8.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/201118pglvc8.jpg
     caption: Punggol, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/250626ubnccn4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/250626ubnccn4.jpg
     caption: Pulau Ubin, Jun 25 Photo shared by Che Cheng Neo on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/250627bbdc3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/250627bbdc3.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/201117labvc7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/201117labvc7.jpg
     caption: Labrador, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/251011labal3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/251011labal3.jpg
     caption: Labrador, Oct 25 Photo shared by Adriane Lee on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/251011tgrlks27.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/251011tgrlks27.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/100103tkkjk3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/100103tkkjk3m3.jpg
     caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/250810bsisky4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/250810bsisky4.jpg
     caption: Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/250726cyrlks8.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/250726cyrlks8.jpg
     caption: Cyrene, Jul 25 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/180715thndc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/180715thndc1.jpg
     caption: Terumbu Hantu, Jul 18 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/080210smktch05m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/080210smktch05m3.jpg
     caption: Pulau Semakau, Feb 08 Photo shared by Toh Chay Hoon on her flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/210823smkerk2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/210823smkerk2.jpg
     caption: Pulau Semakau (East), Aug 21 Photo shared by Richard Kuah on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/210629bbbvc5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/210629bbbvc5.jpg
     caption: Beting Bemban Besar, Jun 21 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/200624trydc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/200624trydc1.jpg
     caption: Terumbu Raya, Jun 20 Photo shared by Dayna Cheah on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/batrachoididae/trispinosus/210428slulks1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/210428slulks1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
   - [Three-spined Toadfish (
-
   *Batrachomoeus trispinosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/232)
@@ -91,7 +90,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Toadfish (
-
   *Batrachus*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/232)
@@ -226,9 +224,7 @@ is another kind of fish.
 A toadfish is basically an enormous head on a small body! It has a broad, flat head with large eyes near the top of the head.
 
 **Three-spined toadfish**
-(
-*Batrachomoeus trispinosus*
-): Those seen about 10-20cm long, grows to about 30cm. Its super wide mouth circles the broad head and is usually camouflaged with fleshy barbels and flaps around the lips. The first dorsal fin has 2-3 spines. It lacks scales and has a tough, leathery smooth skin with mottled patterns. Distinct greyish-brown bars on the sides, well-contrasted markings on the top of its head. There is a pit behind the upper edge of the pectoral fin base.
+(*Batrachomoeus trispinosus*): Those seen about 10-20cm long, grows to about 30cm. Its super wide mouth circles the broad head and is usually camouflaged with fleshy barbels and flaps around the lips. The first dorsal fin has 2-3 spines. It lacks scales and has a tough, leathery smooth skin with mottled patterns. Distinct greyish-brown bars on the sides, well-contrasted markings on the top of its head. There is a pit behind the upper edge of the pectoral fin base.
 *Allenbatrachus reticulatus*
 looks similar and lacks this pit.
 

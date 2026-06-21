@@ -1,6 +1,6 @@
 ---
 title: 'Xanthid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Xanthid crabs  on the shores of Singapore
 keywords: round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,41 +24,41 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Xanthoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
     caption: The Mosaic reef crab is the most poisonous crab on our shores. Sentosa,
       Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg
     caption: Floral egg crab eating a fish. Sentosa, Sep 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/integerrimus/090606tmftd3138m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/integerrimus/090606tmftd3138m3.jpg
     caption: A Red egg crab eating a sea urchin. Tanah Merah, Jun 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
     caption: Red egg crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg
     caption: Mosaic reef crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
     caption: Saw-edged spooner crab
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
     caption: Floral egg crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg
     caption: Curry puff crab
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/laevimanus/031125hntbd0024m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/laevimanus/031125hntbd0024m3.jpg
     caption: Smooth spooner crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
     caption: Rock crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
     caption: Lumpy rock crab
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
     caption: Pilodius rock crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
     caption: Ruby reef crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg
     caption: Hairy coral crab
 links_references: "**Links**\n- [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)\n\
   ,\n*[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*\n,\n*[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*\n\
@@ -110,8 +110,7 @@ habitats:
 
 ## Where seen?
 This group includes the most colourful large crabs that you might commonly encounter on the shore.
-The Egg crabs (
-*Atergatis*
+The Egg crabs (*Atergatis*
 sp.) are often encountered on many of our shores and can be quite common in coral rubble areas. Others are only sometimes seen. They are more active at night, but nevertheless, usually slow moving and always near some hideaway into which they scuttle at the first sign of danger.
 
 ## Features

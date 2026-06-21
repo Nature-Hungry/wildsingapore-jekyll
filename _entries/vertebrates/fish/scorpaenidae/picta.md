@@ -1,6 +1,6 @@
 ---
 title: Painted scorpionfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Painted scorpionfish on the shores of Singapore
 keywords: painted scorpionfish, scorpion, fish, parascorpaena, picta, scorpaenidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -24,56 +24,55 @@ order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Scorpaeninae
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
     caption: Tanah Merah, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/120506sisd1137m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/120506sisd1137m3.jpg
     caption: Sisters Island, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/030617skdd0066m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/030617skdd0066m3.jpg
     caption: A huge head, obvious when body is slender. Pulau Sekudu, Jun 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/090923labd1778m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/090923labd1778m6l.jpg
     caption: Labrador, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
     caption: Bulbous eyes protruding out of the head.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/180517skddc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/180517skddc1.jpg
     caption: Pulau Sekudu, May 18 Photo shared by Dayna Cheah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/150617ecpbslks4m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/150617ecpbslks4m3.jpg
     caption: East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/090608labjk1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/090608labjk1m3.jpg
     caption: Labrador, Jun 09 Photo shared by James Koh on his flickr
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110704srplks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/110704srplks.JPG
     caption: Sentosa Serapong, Jul 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/240527sntlks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/240527sntlks2.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/240608kustl2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/240608kustl2.jpg
     caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/250810bsistl3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/250810bsistl3.jpg
     caption: Big Sisters, Aug 25 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/240624sjimn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/240624sjimn1.jpg
     caption: St John's Island, Jun 24 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/100528tkkjk9m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/100528tkkjk9m6l.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/090628lazjk1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/090628lazjk1m3.jpg
     caption: Lazarus, Jun 09 Photo shared by James Koh on his blog
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/100613sngd5585m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/100613sngd5585m3.jpg
     caption: Pulau Senang, Jun 10|
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/100810sngd9911m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/100810sngd9911m3.jpg
     caption: Pulau Senang, Aug 10|
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/210428slujll3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/210428slujll3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 
   - [Painted scorpionfish (
-
   *Parascorpaena picta*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/254)
@@ -87,7 +86,6 @@ links_references: '**Links**
   Singapore Science Centre. 163 pp.
 
   - [Northern scorpionfish (
-
   *Parascorpaena picta*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8296)
@@ -152,9 +150,7 @@ a
 [stonefish](../synanceiidae/horrida)
 (Family Synanceiidae) or the
 [False scorpionfish](../centrogenyidae/vaigiensis)
-(
-*Centrogenys vaigiensis*
-), a grouper, which looks very similar. Here's more on
+(*Centrogenys vaigiensis*), a grouper, which looks very similar. Here's more on
 [how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,6 +1,6 @@
 ---
 title: Tongue-soles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tongue-soles on the shores of Singapore
 keywords: tongue, sole, flat, fish, flatfish, cynoglossidae, pleuronectiformes, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,38 +24,38 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
     caption: A tiny one. Changi, Oct 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m6l.jpg
     caption: Changi, Jun 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/110220lazd6353m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/110220lazd6353m6l.jpg
     caption: Seringat-Kias, Feb 11
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/180714prprk1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/180714prprk1.jpg
     caption: Pasir Ris, Jul 18 Shared by Richard Kuah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/210114chg7mn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/210114chg7mn1.jpg
     caption: Changi CP7, Jan 21 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/090428chglks.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/090428chglks.jpg
     caption: Changi, Apr 09 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/220616chgedc3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/220616chgedc3.jpg
     caption: Changi Lost Coast, Jun 22 Shared by Dayna Cheah on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
     caption: East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/081214ecmlks04m6l.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/081214ecmlks04m6l.JPG
     caption: East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
     caption: East Coast, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg
     caption: Tanah Merah, Jan 10 Photo shared by James Koh on flickr .
 links_references: "**Links**\n- [Doublelined Tongue-Sole (\n*Paraplagusia bilineata*\n\
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/390)\nand\n[Speckled\

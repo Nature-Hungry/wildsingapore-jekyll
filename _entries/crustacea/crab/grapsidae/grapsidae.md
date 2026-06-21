@@ -1,6 +1,6 @@
 ---
 title: 'Grapsid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Grapsid crabs  on the shores of Singapore
 keywords: grapsus, crab, grapsidae, decapod, crustacea, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,17 +24,16 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg
     caption: Purple climber crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/albolineatus/050410kusg4263m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/050410kusg4263m3.jpg
     caption: Sally-light-foot crab
 links_references: '**Links**
 
   - [Purple climber crabs (
-
   *Metopograpsus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047)
@@ -127,9 +126,7 @@ Body width 4-6cm. Grapsid crabs are adapted for scrambling over rocks and other 
 
 The
 [Rafting crab](../plagusiidae/plagusia)
-(
-*Plagusia squamosa*
-) is sometimes mistaken for a grapsid crab. But it belongs to another family.
+(*Plagusia squamosa*) is sometimes mistaken for a grapsid crab. But it belongs to another family.
 
 **What do they eat?**
 Grapsid crabs are scavengers and will eat almost anything. They also eat seaweed.

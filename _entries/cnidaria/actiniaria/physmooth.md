@@ -1,6 +1,6 @@
 ---
 title: Smooth frilly anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth frilly anemone on the shores of Singapore
 keywords: smooth, branched, tentacle, anemone, phymanthus, phymantidae, actiniaria,
   cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -28,51 +28,51 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
     caption: Sentosa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/100215sisd9399m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/100215sisd9399m3.jpg
     caption: Sisters Island, Feb 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/240527sntccn2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/240527sntccn2.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Che Cheng Neo on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/100103tkkjk10m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/100103tkkjk10m3.jpg
     caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/250131tkkmn.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/250131tkkmn.jpg
     caption: Pulau Tekukor, Jan 25 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/220812ssistl1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/220812ssistl1.jpg
     caption: Small Sisters Island, Aug 22 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/100528kusmn.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/100528kusmn.jpg
     caption: Kusu Island, May 10 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/080509smklks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/080509smklks2m3.jpg
     caption: Pulau Semakau, May 08 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/220717smknccn1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/220717smknccn1.jpg
     caption: Pulau Semakau (North), Jul 22 Photo shared by Chee Cheng Neo on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/240725smknky2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/240725smknky2.jpg
     caption: Bleaching. Pulau Semakau (North), Jul 24 Photo shared by Kelvin Yong
       on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/240725smknky3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/240725smknky3.jpg
     caption: Bleaching. Pulau Semakau (North), Jul 24 Photo shared by Kelvin Yong
       on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/110422tpljk4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/110422tpljk4m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/100519trylks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/100519trylks.JPG
     caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on flickr ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/120805bbbrl.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/120805bbbrl.jpg
     caption: Beting Bemban Besar, Aug 12 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/240526bbbky1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/240526bbbky1.jpg
     caption: Beting Bemban Besar, May 24 Photo shared by Kelvin Yong on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/smooth/210428sluvc1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/smooth/210428sluvc1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebook .
 location:
 - lab

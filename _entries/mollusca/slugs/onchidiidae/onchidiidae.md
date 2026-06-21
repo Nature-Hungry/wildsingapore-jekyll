@@ -1,6 +1,6 @@
 ---
 title: 'Onch slugs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Onch slugs  on the shores of Singapore
 keywords: pulmonata, pulmonate, slug, seaslug, onch, onchidium, peronium, onchidiidae,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -21,44 +21,44 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
     caption: Pulau Sarimbun, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg
     caption: Eyes on long thin stalks
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
     caption: Broad foot on the underside
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg
     caption: Leaving behind a grazed patch, and a trail of 'processed algae' Raffles
       Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg
     caption: One pair of tentacles and a pair of oral flaps at the mouth on the underside.
       Raffles Lighthouse, Jul 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3a.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/050723labg0069m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/050723labg0069m3.jpg
     caption: Big pimply onch slug
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
     caption: Smooth little onch slug
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/long/050809lckg1053m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/long/050809lckg1053m3.jpg
     caption: Long onch slug
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
     caption: Orange-footed mangrove onch slug
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
     caption: Grey-footed mangrove onch slug
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
     caption: Ornate onch slug
 links_references: '**Links**
 
@@ -203,9 +203,7 @@ Onch slugs graze on film of tiny algae and on lichen that grows on sand, mud and
 Avoid touching an onch slug as it is very slimy and if you try to pick it up, it generally slips out of your hands to bounce away among the rocks. The poor slug might get hurt and it may not be able to climb back up to where it can find food and safety.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Status and threats:**
-One of our mangrove onch slugs (
-*Peronina alta*
-) is listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.
+One of our mangrove onch slugs (*Peronina alta*) is listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.
 
 ---
 

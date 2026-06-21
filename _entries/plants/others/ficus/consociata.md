@@ -1,6 +1,6 @@
 ---
 title: 'Brown-scurfy fig '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown-scurfy fig  on the shores of Singapore
 keywords: brown, scurfy, fig, ficus, consociata, moraceae, tree, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -18,14 +18,14 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Feb 11
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6196m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/ficus/consociata/110220lazd6196m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/090628lazd6098m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/consociata/090628lazd6098m3.jpg
     caption: Lazarus Island, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6195m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/consociata/110220lazd6195m3.jpg
     caption: Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6188m3a.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/consociata/110220lazd6188m3a.jpg
     caption: Lazarus Island, Feb 11
 rdb: CR
 authors:
@@ -67,9 +67,7 @@ A strangling fig that grows as a shrub. According to Corners, it is rarely large
 
 Human uses: According to Burkill, like the
 [India-rubber tree](elastica)
-(
-*Ficus elastica*
-), it also produces a latex that was used as rubber. Unfortunately, the latex of this fig also contains a resin that hardens with time thus making the latex less elastic.
+(*Ficus elastica*), it also produces a latex that was used as rubber. Unfortunately, the latex of this fig also contains a resin that hardens with time thus making the latex less elastic.
 *Ficus consociata*
 var
 *murtoni*
@@ -81,11 +79,11 @@ var
 *murtoni*
 is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6196m6l.jpg)
+![](https://images.naturehungry.sg/plants/others/ficus/consociata/110220lazd6196m6l.jpg)
 
 *Lazarus Island, Feb 11
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/consociata/110220lazd6188m3.jpg)*
+![](https://images.naturehungry.sg/plants/others/ficus/consociata/110220lazd6188m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

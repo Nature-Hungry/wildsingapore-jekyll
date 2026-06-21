@@ -1,6 +1,6 @@
 ---
 title: 'Ascidians  '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ascidians   on the shores of Singapore
 keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -15,7 +15,7 @@ attributes:
 - 150
 - 129
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/050510tusg6134m3.jpg
+coverimg: https://images.naturehungry.sg/ascidiacea/polycarpa/050510tusg6134m3.jpg
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - They are animals and NOT plants.
@@ -23,24 +23,24 @@ trivia_items:
 - Unlike sponges, tunicates are complex animals with internal organs.
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/polycarpa/050510tusg6134m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/polycarpa/050510tusg6134m3.jpg
     caption: Solitary sea squirt growing on hard surfaces. Tuas, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/ascidiaceanoid/solitary.gif
+  - url: https://images.naturehungry.sg/ascidiacea/ascidiaceanoid/solitary.gif
     caption: Cross-section of a solitary ascidian
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/100726chgd9196m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/100726chgd9196m3.jpg
     caption: Solitary sea squirt growing under stones. Changi, Jul 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/greengumdrop/050309smkg3139m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/greengumdrop/050309smkg3139m3.jpg
     caption: Colonial ascidians on seagrasses. Pulau Semakau, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/ascidiaceanoid/colonial.gif
+  - url: https://images.naturehungry.sg/ascidiacea/ascidiaceanoid/colonial.gif
     caption: Colonial ascidian Arrows show the flow of water through the animals.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/beige/090623ecpd4904m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/beige/090623ecpd4904m3.jpg
     caption: Colonial ascidians forming a sheet over hard surfaces. East Coast, Jun
       09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
     caption: Sponge crab using an ascidian disguise. Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/indicus/080619chgd5684m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/indicus/080619chgd5684m3.jpg
     caption: A flatworm eating an ascidian? Changi, Jun 08
 links_references: '**Links** - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. - [*A Guide to Seashore Life*](http://mangrove.nus.edu.sg/pub/seashore/).

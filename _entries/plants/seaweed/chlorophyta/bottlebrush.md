@@ -1,6 +1,6 @@
 ---
 title: Bottlebrush green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bottlebrush green seaweeds on the shores of Singapore
 keywords: seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -16,21 +16,21 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg
     caption: Labrador, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg
     caption: Labrador, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg
     caption: Labrador, May 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg
     caption: Cyrene Reef, Oct 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -72,7 +72,7 @@ This green seaweed is sometimes seen in clumps covering an area of about 20cm, o
 
 Each stem about 4-6cm long with tiny bristles made up of many branched fine filaments, arranged in whorls around the central 'stem' to give the overall appearance of a stiff bottlebrush. Green to olive green.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg)
 
 *Labrador, May 05*
 

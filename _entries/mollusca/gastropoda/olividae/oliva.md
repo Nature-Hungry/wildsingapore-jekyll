@@ -1,6 +1,6 @@
 ---
 title: Common olive snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common olive snail on the shores of Singapore
 keywords: olive, snail, shell, oliva, oliva, olividae, gastropod, mollusc, sand, collar,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,28 +18,27 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
     caption: Tall conical spire.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
     caption: White lip ends at less than half the shell opening length. Shell opening
       pinkish.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/130428chgmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/130428chgmn.jpg
     caption: Changi, Apr 13 Photo shared by Marcus Ng on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/100419chgjk.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/100419chgjk.jpg
     caption: Changi, Apr 10 Photo shared byJames Koh on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/oliva/180812nsrtlks10.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/180812nsrtlks10.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
   - [Common olive (
-
   *Oliva oliva*
 
   )](http://www.sealifebase.org/summary/Oliva-oliva.html)

@@ -1,6 +1,6 @@
 ---
 title: Bedara laut
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bedara laut on the shores of Singapore
 keywords: bedara, laut, ximenia, americana, olacaceae, plant, tree, bush, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Santalales
 inat_id: 83832
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg
 links_references: '**Links**
 
   - *[Ximenia americana](http://floraofsingapore.wordpress.com/2010/06/20/ximenia-americana/)*on
@@ -63,11 +63,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/041214smkd8818m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/ximenia/americana/041214smkd8818m3b.jpg
     caption: Pulau Semakau, Dec 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/041214smkd8818m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/ximenia/americana/041214smkd8818m3.jpg
     caption: Pulau Semakau, Dec 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/090704ubnd6341m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/ximenia/americana/090704ubnd6341m3.jpg
     caption: Fallen fruits on the shore. Pulau Ubin, Jul 09
 size:
 - 200.0
@@ -98,11 +98,11 @@ Fruits oval (2-2.5cm) thin-skinned, green ripening yellow to orange with firm gr
 
 According to Burkill, the sour fruits are eaten fresh or pickled. They are also used as a substitute for lemon with fish. The seed is oily and the oil is used in cooking in southern India. The nuts are eaten but have a strong purgative effect so ony a few can be taken at a time; "many cause deleterious effects". The crushed leaves smell of bitter almonds and are sometimes used as flavouring by the Dutch who lived in the tropics. The pounded roots are used to treat colic, in Africa the pounded bark is used treat sores on animals and used to keep insects away. The hard, heavy timber is pleasantly scented when freshly cut and is thus sometimes powdered and used as a substitute for sandalwood in India.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg)
 
 *Pulau Hantu, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ximenia/americana/041214smkd8821m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/ximenia/americana/041214smkd8821m3.jpg)
 
 *Pulau Semakau, Dec 04**
 

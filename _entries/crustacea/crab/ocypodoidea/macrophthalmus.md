@@ -1,6 +1,6 @@
 ---
 title: Sentinel crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sentinel crab on the shores of Singapore
 keywords: sentinel, crab, macrophthalmus, macrophthalmidae, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -22,48 +22,47 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Owstoniinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
     caption: Pulau Hantu, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3a.jpg
     caption: Pulau Hantu, May 19 Photo shared by Jianlin Liu on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/090113prpd5223m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/090113prpd5223m3.jpg
     caption: Nibbling on a worm. Pasir Ris, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/090621hntd4596m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/090621hntd4596m3.jpg
     caption: Squarish burrow opening. Pulau Hantu, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/081216prpd3404m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/081216prpd3404m3.jpg
     caption: Just moulted! Moult has transparent eyes. Pasir Ris, Dec 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/250627bbrk10.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/250627bbrk10.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/251207hntrqo2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/251207hntrqo2.jpg
     caption: Moult with transparent eyestalks and eye Pulau Hantu, Dec 25 Photo shared
       by Rui Quan Oh on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/210115mevc2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/210115mevc2.jpg
     caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/130111sjilks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/130111sjilks.JPG
     caption: St John's Island, Jan 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/250430sjilll2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/250430sjilll2.jpg
     caption: St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/100912kuslks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/100912kuslks.JPG
     caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on flickr . .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/180815bbbll1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/180815bbbll1.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Liz Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/210810tplvc4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/210810tplvc4.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**
 
   - [Sentinel crabs (
-
   *Macrophthalmus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055)
@@ -95,7 +94,6 @@ links_references: '**Links**
   and
 
   [Latreille''s sentinel crab (
-
   *Macrophthalmus latreillei*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1797)
@@ -160,8 +158,7 @@ This inconspicous little crab with eyes on super long stalks are sometimes seen 
 Body width 0.5-1cm. Body is flattened, squarish or somewhat rectangular. The eye stalks are long and in some species can even extend outside the sides of the body. This feature probably gave them their common name. Both pincers of equal size.
 **Sometimes confused with**
 [fiddler crabs](uca)
-(
-*Uca*
+(*Uca*
 spp.). Sentinel crabs do not have one enlarged pincer like the fiddler crabs. Sentinel crabs are also not colourful, usually drab brown with darker mottling. Here's more on
 [how to tell apart small crabs with long eye stalks](cflongeyedcrabs)
 .

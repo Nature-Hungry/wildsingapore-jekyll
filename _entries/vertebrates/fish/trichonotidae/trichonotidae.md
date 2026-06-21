@@ -1,6 +1,6 @@
 ---
 title: Sand-divers
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sand-divers on the shores of Singapore
 keywords: sand, diver, fish, trichonotidae, trichonotus, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,38 +24,38 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Trichonotoidei
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg
     caption: Sisters Island, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m6l.jpg
     caption: Sisters Island, Jul 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/110507cyrd1170m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/110507cyrd1170m6l.jpg
     caption: Underside of a dead fish. Cyrene Reef, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/101205cyrs01793m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/101205cyrs01793m3.jpg
     caption: Lower jaw slightly longer, Fine gold 'eyelashes'. Cyrene Reef, May 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/220616chgedc4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/220616chgedc4.jpg
     caption: Changi East (Lost Coast), Jun 22 Photo shared by Dayna Cheah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/240723chgerk2a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/240723chgerk2a.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Richard Kuah on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/210529ecpgtch6a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/210529ecpgtch6a.jpg
     caption: East Coast Park Sailing Centre, May 21
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/210529ecpgtch6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/210529ecpgtch6.jpg
     caption: Photo shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/240509ecptt1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/240509ecptt1.jpg
     caption: East Coast Park Sailing Centre, May 24 Photo shared by Tommy Tan on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch1m3.jpg
     caption: Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch2m3.jpg
     caption: East Coast Park, Jul 15
 links_references: '**Links**
 
@@ -109,9 +109,7 @@ These long, beautifully patterned fishes are sometimes seen in sandy areas near 
 **What are sand-divers?**
 Sand-divers belong to Family Trichonotidae. According to
 [FishBase](http://www.fishbase.se/Summary/FamilySummary.cfm?ID=372)
-: the family has one genera (
-*Trichonotus*
-) with 6 species.
+: the family has one genera (*Trichonotus*) with 6 species.
 
 ## Features
 

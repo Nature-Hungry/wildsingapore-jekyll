@@ -1,6 +1,6 @@
 ---
 title: Yellow-eyed pong pong tree
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow-eyed pong pong tree on the shores of Singapore
 keywords: pong, cerbera, odollam, apocynaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,7 +23,7 @@ subfamily: Rauvolfioideae
 tribe: Plumerieae
 subtribe: Thevetiinae
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
 links_references: "\n**Links** \n- Cerbera odollam on Total Vascular Flora of Singapore\
   \ Online: photos and fact sheet. \n- Cerbera odollam on the NParks Flora and Fauna\
   \ website: photos and fact sheet. \n- Giesen, Wim and Stephan Wulffraat, Max Zieren\
@@ -46,18 +46,18 @@ links_references: "\n**Links** \n- Cerbera odollam on Total Vascular Flora of Si
   \ Yeow Chin. 1992. A Guide to Medicinal Plants . The Singapore Science Centre. 160pp.\n"
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090208smkd6467m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090208smkd6467m3.jpg
     caption: Pulau Semakau, Feb 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090906prpd0370m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090906prpd0370m6l.jpg
     caption: Pasir Ris Park, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090906prpd0371m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090906prpd0371m3.jpg
     caption: Pasir Ris Park, Sep 09 Pasir Ris Park, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg
     caption: Gernimating fruit. Sisters Island, Aug 09 Sungei Pandan, Jun 09
 size:
 - 1200.0
@@ -85,9 +85,7 @@ Flowers (5-7cm) white with a yellowish centre, appearing at the tips of the twig
 
 Fruits globular or mango-shaped (5-7cm) glossy hard. Green ripening pink, rosy purple and finally black. Each fruit contains one poisonous seed. The fruits float and are dispersed by water. When they wash up, often only the fibrous husk is left, around a hard stone.
 
-It is the caterpillar host-plant of the King Crow butterfly (
-*Euploea phaenareta castelnaui*
-).
+It is the caterpillar host-plant of the King Crow butterfly (*Euploea phaenareta castelnaui*).
 
 ## Human uses
 
@@ -99,10 +97,10 @@ for more about their uses.
 **Status and threats:**
 This tree is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg)
+*![](https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg)
 
 *Changi, Apr 09*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/odollam/090410ubnd9387m3a.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090410ubnd9387m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

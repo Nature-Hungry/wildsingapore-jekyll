@@ -1,6 +1,6 @@
 ---
 title: Spiky flowery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spiky flowery soft coral on the shores of Singapore
 keywords: spiky, flower, stereonephthya, nephtheidae, alcyonacea, soft, coral, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,42 +17,42 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg
     caption: Pulau Hantu, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/120123hntd5532m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/120123hntd5532m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg
     caption: Spikes next to polyps.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/080819cyrd9898m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/080819cyrd9898m3.jpg
     caption: Cyrene Reef, Aug 08 Spikes next to polyps.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/090807tmd8490m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/090807tmd8490m3.jpg
     caption: Tanah Merah, Aug 09 Spikes next to polyps.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg
     caption: Tuas, Nov 03 Spikes next to polyps.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031223tused0039m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/031223tused0039m3.jpg
     caption: Tuas, Dec 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031124tuscd0018m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/031124tuscd0018m3.jpg
     caption: Tuas, Nov 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031223tused0060m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/031223tused0060m3.jpg
     caption: Tuas, Dec 03
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/070318labg8200m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/070318labg8200m3a.jpg
     caption: With a false cowrie snail . Labrador, Mar 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg
     caption: Tiny colour brittle stars . Tuas, Nov 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
     caption: Tiny red-nose shrimp .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/250714srptccn3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/250714srptccn3a.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/200112sjivt1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/200112sjivt1.jpg
     caption: St John's Island, Jan 20 Photo shared by Victor Toh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepspiky/200820ssisjll2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/200820ssisjll2.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Jianlin Liu on facebook
       .
 links_references: '**Links**

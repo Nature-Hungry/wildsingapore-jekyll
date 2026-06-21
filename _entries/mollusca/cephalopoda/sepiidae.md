@@ -1,6 +1,6 @@
 ---
 title: 'Cuttlefishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cuttlefishes  on the shores of Singapore
 keywords: cuttlefish, spiidae, sepia, cephalopod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -19,24 +19,24 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
     caption: Cuttlefish inking Chek Jawa, May 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg
     caption: Cuttlebone washed ashore. Chek Jawa, Mar 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/030928cjd0029.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/030928cjd0029.jpg
     caption: Only slightly bigger than a blade of seagrass. Chek Jawa, Sep 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
     caption: Glittering cuttlefish
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
     caption: Smooth cuttlefish
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3.jpg
     caption: Broadclub cuttlefish
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/050820bbd5746m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/050820bbd5746m3.jpg
     caption: Curvespine cuttlefish
 links_references: '**Links**
 

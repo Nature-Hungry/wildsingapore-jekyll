@@ -1,6 +1,6 @@
 ---
 title: Bean-shaped venus clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bean-shaped venus clams on the shores of Singapore
 keywords: venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,19 +20,19 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Veneroidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/bean/050511cftg6230m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/bean/050511cftg6230m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/bean/050511cftg6230m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/bean/050511cftg6230m3.jpg
     caption: Paphia textile? Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
     caption: Changi, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/bean/050412tusd2449m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/bean/050412tusd2449m3.jpg
     caption: Tuas, Apr 05 Dead clams.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/bean/190206prpll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/bean/190206prpll1.jpg
     caption: Pasir Ris, Feb 19 Photo shared by Liz Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/veneridae/bean/251107chgmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/bean/251107chgmn1.jpg
     caption: Changi Carpark 1, Nov 25 Photo shared by Marcus Ng on facebook .
 location:
 - prp

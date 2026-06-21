@@ -1,6 +1,6 @@
 ---
 title: Dugong
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dugong on the shores of Singapore
 keywords: dugong, seacow, cow, dugongnidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -20,16 +20,16 @@ superorder: Afrotheria
 order: Sirenia
 subfamily: Dugonginae
 updated: Jan 2021
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
     caption: Dead dugong washed up on Pulau Tekong, Jun 06 Photos from Raffles Museum
       news .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/dugong/070120cjm3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/dugong/070120cjm3.jpg
     caption: Dugong feeding trail. Chek Jawa, Jan 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/dugong/b6m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/dugong/b6m6l.jpg
     caption: Gracie the captive dugong at Underwater World Sentosa on her 12th birthday
       Jan 09, from Channel NewsAsia .
 links_references: '**Links**

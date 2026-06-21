@@ -1,6 +1,6 @@
 ---
 title: 'Black-spot tuskfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-spot tuskfish  on the shores of Singapore
 keywords: black, spot, tuskfish, tusk, fish, choerodon, schoenleinii, labridae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,26 +24,25 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/schoenleinii/050720sntg9598m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/050720sntg9598m6l.jpg
     caption: Sentosa, Jul 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/schoenleinii/230605chg7lks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/230605chg7lks3.jpg
     caption: Changi Carpark 7, Jun 23 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/schoenleinii/230902smkccn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/230902smkccn1.jpg
     caption: Pulau Semakau, Sep 23 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/schoenleinii/170823tsmkjt2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/170823tsmkjt2.jpg
     caption: Juvenile? Terumbu Semakau, Aug 17 Photo shared by Jonathan Tan on facebook
       .
 links_references: '**Links**
 
   - [Black-spot Tuskfish (
-
   *Choerodon schoenleinii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/348)
@@ -61,7 +60,6 @@ links_references: '**Links**
   on the IUCN Red List.
 
   - [Black-spot Tuskfish (
-
   *Choerodon schoenleinii*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=6433)

@@ -1,6 +1,6 @@
 ---
 title: 'Scaly nerite snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scaly nerite snail  on the shores of Singapore
 keywords: scaled, nerita, nerite, histrio, squamulata, neritidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,24 +26,24 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
     caption: Kusu Island, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3a.jpg
     caption: Tiny 'scales' on the shell.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
     caption: Kusu Island, Mar 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/080621labd6143m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/080621labd6143m3.jpg
     caption: Labrador, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060516chgd2048m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060516chgd2048m3.jpg
     caption: Changi, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/060516chgd2050m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060516chgd2050m3.jpg
     caption: Changi, May 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/histrio/260104trmlvo5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/260104trmlvo5.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook ..
 links_references: '**Links**
 

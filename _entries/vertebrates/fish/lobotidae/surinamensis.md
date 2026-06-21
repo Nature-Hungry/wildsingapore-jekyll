@@ -1,6 +1,6 @@
 ---
 title: 'Tripletail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tripletail  on the shores of Singapore
 keywords: triple, tail, tripletail, lobotes, surinamensis, lobotidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,15 +23,15 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
     caption: Tanah Merah, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lobotidae/surinamensis/090606tmftd3242m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lobotidae/surinamensis/090606tmftd3242m6l.jpg
     caption: Tanah Merah, Jun 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lobotidae/surinamensis/110221tmmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lobotidae/surinamensis/110221tmmn.jpg
     caption: Tanah Merah, Feb 11 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
@@ -44,7 +44,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Atlantic Tripletail (
-
   *Lobotes surinamensis*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=1077&genusname=Lobotes&speciesname=surinamensis)

@@ -1,6 +1,6 @@
 ---
 title: Saga tree
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Saga tree on the shores of Singapore
 keywords: saga, adenanthera, pavonina, fabaceae, leguminosae, plant, tree, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,14 +23,14 @@ order: Fabales
 subfamily: Mimosoideae
 tribe: Mimoseae
 updated: Sep 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adenanthera/pavonina/090413blyd0033m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/adenanthera/pavonina/090413blyd0033m3a.jpg
     caption: Wild at Berlayar Creek, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adenanthera/pavonina/090413blyd0040m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/adenanthera/pavonina/090413blyd0040m3.jpg
     caption: Wild at Berlayar Creek, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adenanthera/pavonina/090511chgd1413m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/adenanthera/pavonina/090511chgd1413m3.jpg
     caption: Changi, May 09
 size:
 - 2000.0
@@ -64,14 +64,14 @@ A Saga tree with
 [Heritage Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=96&Itemid=79)
 is found at the Singapore Botanic Gardens, near Lady on a Hammock sculpture. It has a girth of 4.8m and height of 24m.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg)
 
 *Wild at Berlayar Creek, Apr 09
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adenanthera/pavonina/090413blyd0038m3.jpg)
+*![](https://images.naturehungry.sg/plants/coastal/adenanthera/pavonina/090413blyd0038m3.jpg)
 
 Wild at Berlayar Creek, Apr 09*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/adenanthera/pavonina/090413blyd0038m3a.jpg)**
+*![](https://images.naturehungry.sg/plants/coastal/adenanthera/pavonina/090413blyd0038m3a.jpg)**
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

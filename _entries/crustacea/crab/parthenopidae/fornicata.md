@@ -1,6 +1,6 @@
 ---
 title: Domed elbow crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Domed elbow crab on the shores of Singapore
 keywords: domed, elbow, crab, cryptopodia, fornicata, parthenopidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -30,33 +30,33 @@ zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 subfamily: Parthenopinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
     caption: A domed body covers its limbs. Changi, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3b.jpg
     caption: Large, angular pincers
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3a.jpg
     caption: Tiny eyes.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3.jpg
     caption: Beting Bronok, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/090526bbd2661m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/090526bbd2661m3.jpg
     caption: Carrying eggs.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/120605chgmn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/120605chgmn1.jpg
     caption: Changi, Jun 12 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/120605chgmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/120605chgmn2.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/130325tsmklks1.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/130325tsmklks1.JPG
     caption: Terumbu Semakau, Mar 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/111126bblks1.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/111126bblks1.JPG
     caption: Beting Bronok , Nov 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/fornicata/180714cjtch1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/180714cjtch1.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Toh Chay Hoon on facebook ..
 links_references: '**Links**
 

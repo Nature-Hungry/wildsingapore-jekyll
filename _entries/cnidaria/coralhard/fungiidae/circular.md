@@ -1,6 +1,6 @@
 ---
 title: Circular mushroom coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Circular mushroom coral on the shores of Singapore
 keywords: circular, fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,81 +17,81 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3a.jpg
     caption: Single slit-like mouth often with banded 'lips'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg
     caption: Fat short tentacles.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg
     caption: Underside somewhat concave.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/100502tryd2366m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100502tryd2366m3.jpg
     caption: Often found in clusters. Terumbu Raya, May 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/070102sisg7135m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/070102sisg7135m3.jpg
     caption: Young corals still stuck to a rock. Sisters Island, Jan 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
     caption: Young corals on stalks. Tanah Merah, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
     caption: Dead coral with stalk on the underside. Terumbu Pempang Laut, Apr 11
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/051204sisg3297m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/051204sisg3297m3.jpg
     caption: Sisters Island, Dec 05 Splitting up into two?
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/090625bsrd5318m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/090625bsrd5318m3.jpg
     caption: Beting Bemban Besar, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg
     caption: Sisters Island, Feb 06
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/090706tmtch1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/090706tmtch1m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/090726tmlks5m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/090726tmlks5m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/100615tmlks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100615tmlks1m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/220618tmftlks15.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/220618tmftlks15.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/230608tmftlks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/230608tmftlks5.jpg
     caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Loh Kok Sheng on facebook
       .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/2007024pcnlks12.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/2007024pcnlks12.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/170822lablks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/170822lablks3.jpg
     caption: Labrador, Aug 17 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/250714srpal9.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/250714srpal9.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/241019lazlks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/241019lazlks5.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/250629smkelk15.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/250629smkelk15.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/250727smkwlks8.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/250727smkwlks8.jpg
     caption: Pulau Semakau West, Jul 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/100617tsmklks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100617tsmklks1m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110422tpljk3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110422tpljk3m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/120521tptlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/120521tptlks.JPG
     caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/080223smklks12m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/080223smklks12m3.jpg
     caption: Pulau Semakau, Feb 08 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/080509smklks9m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/080509smklks9m3.jpg
     caption: Pulau Semakau, May 08 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/100613snglks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
 location:
 - tm
@@ -147,9 +147,7 @@ species may also be
 **Sometimes confused with**
 the
 [Sunflower mushroom hard coral](heliofungia)
-(
-*Heliofungia actiniformis*
-) especially when the tentacles are retracted. The Sunflower mushroom hard coral also has a flat circular skeleton. However, it has long cylindrical white-tipped tentacles that when full extended, completely obscures the skeleton so that the coral resembles a sea anemone.
+(*Heliofungia actiniformis*) especially when the tentacles are retracted. The Sunflower mushroom hard coral also has a flat circular skeleton. However, it has long cylindrical white-tipped tentacles that when full extended, completely obscures the skeleton so that the coral resembles a sea anemone.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 

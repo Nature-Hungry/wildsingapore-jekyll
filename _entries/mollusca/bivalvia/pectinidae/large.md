@@ -1,6 +1,6 @@
 ---
 title: Large scallop
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Large scallop on the shores of Singapore
 keywords: coral, scallop, clam, shell, pectinidae, bivalve, mollusc, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -22,51 +22,51 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Pectinoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
     caption: Labrador, Jun 08 'Swimming' backwards with clap of shell.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/150618tmftlks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/150618tmftlks5m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 When submerged, tentacles and tiny
       eyes can be seen. Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/250713trytl1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/250713trytl1.jpg
     caption: Terumbu Raya, Jul 25 Photo shared by Tammy Lim on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/160509srpik9.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/160509srpik9.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/160509srpmn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/160509srpmn2.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/230508srpky2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/230508srpky2.jpg
     caption: Sentosa Serapong, May 23 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/240212sjiky4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/240212sjiky4.jpg
     caption: St John's Island, Feb 24 Photo shared by Kelvin Yong on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/240608kusccn3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/240608kusccn3.jpg
     caption: Kusu Island, Jun 24 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/250531thnttl4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/250531thnttl4.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Tammy Lim on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/160608cyrlks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/160608cyrlks1.JPG
     caption: Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on his blog.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/2104hntvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/2104hntvc3.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/100627hntlks4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/100627hntlks4m3.jpg
     caption: Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/150620tblks.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/150620tblks.JPG
     caption: Terumbu Bemban, Jun 15 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/080223smklks03m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080223smklks03m3.jpg
     caption: Pulau Semakau, Feb 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/110731trylks.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/110731trylks.JPG
     caption: Terumbu Raya, Jul 11 Photo shared by Loh Kok Sheng on flickr ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/180520tsmk1lks.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/180520tsmk1lks.jpg
     caption: Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/110517tptsy2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/110517tptsy2m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Sam Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pectinidae/large/220105rlhdc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/220105rlhdc2.jpg
     caption: Raffles Lighthouse, Jan 22 Photo shared by Dayna Cheah on facebook .
 location:
 - tm

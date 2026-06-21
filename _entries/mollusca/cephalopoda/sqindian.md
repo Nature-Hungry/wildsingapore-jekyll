@@ -1,6 +1,6 @@
 ---
 title: Indian squid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Indian squid on the shores of Singapore
 keywords: indian, pencil, squid, uroteuthis, duvaucelii, loliginidae, cephalopod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,26 +18,25 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg
     caption: Pulau Hantu, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/091008tmd2517.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqindian/091008tmd2517.jpg
     caption: Tanah Merah, Oct 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/130624chglks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqindian/130624chglks2.JPG
     caption: Changi, Jun 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/150802bblks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqindian/150802bblks1m3.jpg
     caption: Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/110522bbblks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqindian/110522bbblks5m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
 links_references: '**Links**
 
   - [Indian squid (
-
   *Uroteuthis duvaucelii*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/Uroteuthis-duvaucelii.html)

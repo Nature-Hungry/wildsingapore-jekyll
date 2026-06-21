@@ -1,6 +1,6 @@
 ---
 title: Curvespine cuttlefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Curvespine cuttlefish on the shores of Singapore
 keywords: curve, spine, cuttlefish, sepia, recurvirostra, sepiidae, cephalopod, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -20,39 +20,38 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg
     caption: Changi, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3d.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3d.jpg
     caption: Spine sticking out of the back end.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
     caption: Inking. Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/030928cjd0029.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/030928cjd0029.jpg
     caption: Only slightly bigger than a blade of seagrass. Chek Jawa, Sep 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/050428chgg5294.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/050428chgg5294.jpg
     caption: Changi, Apr 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/130624chglks.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/130624chglks.JPG
     caption: Changi, Jun 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/230605chg7ky2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/230605chg7ky2.jpg
     caption: Changi, Jun 23 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/100711cyrlks10m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/100711cyrlks10m6l.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/210430sjilks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/210430sjilks1.jpg
     caption: St John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutcurvespine/171105cjay3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/171105cjay3.jpg
     caption: Chek Jawa, Nov 17 Photo shared by Abel Yeo on facebook .
 links_references: '**Links**
 
   - [Curvespine cuttlefish (
-
   *Sepia recurvirostra*
 
   )](http://sealifebase.ca/summary/Sepia-recurvirostra.html)

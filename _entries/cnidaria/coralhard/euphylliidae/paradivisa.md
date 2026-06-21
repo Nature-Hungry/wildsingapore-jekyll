@@ -1,6 +1,6 @@
 ---
 title: 'Frog spawn coral '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Frog spawn coral  on the shores of Singapore
 keywords: frog, spawn, euphyllia, paradivisa, euphylliidae, caryophyliidae, coral,
   hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,45 +17,45 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6851m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6851m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3a.jpg
     caption: Photo shared by Loh Kok Sheng on facebook
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/200707hntsg1a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/200707hntsg1a.jpg
     caption: Pulau Hantu, Jul 20 Photo shared by Shawne Goh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/240623hntrg1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/240623hntrg1.jpg
     caption: Pulau Hantu, Jun 24 Photo shared by Rachael Goh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/2007024thntsg1a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/2007024thntsg1a.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Shawne Goh on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/160723smkerl1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/160723smkerl1.jpg
     caption: Pulau Semakau East, Jul 16 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/240725smkntl1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/240725smkntl1.jpg
     caption: Pulau Semakau North, Jul 24 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/040507rlhcd0101m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/040507rlhcd0101m3.jpg
     caption: Raffles Lighthouse, May 04
 links_references: '**Links**
 

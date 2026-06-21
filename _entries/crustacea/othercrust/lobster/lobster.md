@@ -1,6 +1,7 @@
 ---
 title: Lobsters and lobster-like crustaceans
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lobsters and lobster-like crustaceans on the shores of
+  Singapore
 keywords: prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -21,17 +22,17 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Achelata
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
     caption: Lobster
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
     caption: Mud lobster
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
     caption: Coral ghost shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
     caption: Mud shrimp
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

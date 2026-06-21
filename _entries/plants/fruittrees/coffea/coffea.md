@@ -1,6 +1,6 @@
 ---
 title: 'Coffee '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Coffee  on the shores of Singapore
 keywords: coffee, coffea, rubiaceae, tree, plant, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,7 +22,7 @@ order: Gentianales
 subfamily: Rubioideae
 tribe: Palicoureeae
 updated: Dec 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg
 links_references: '**Links**
 
   - [Coffee](http://www.hort.purdue.edu/newcrop/Crops/Coffee.html)and*[Coffea arabica](http://www.hort.purdue.edu/newcrop/duke_energy/Coffea_arabica.html)*New
@@ -50,16 +50,16 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5832m6l.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/coffea/coffea/091213ubnd5832m6l.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5831m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/coffea/coffea/091213ubnd5831m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5830m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/coffea/coffea/091213ubnd5830m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5832m3b.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/coffea/coffea/091213ubnd5832m3b.jpg
     caption: Pulau Ubin, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5839m6l.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/coffea/coffea/091213ubnd5839m6l.jpg
     caption: Pulau Ubin, Dec 09
 size:
 - 500.0
@@ -79,15 +79,13 @@ A tall bush (to about 5m). Leaves large. Flowers small, white or green, and frag
 **Civet-processed coffee:**
 'Kopi Luwak' is a type of expensive gourmet coffee, possibly the most expensive. It is made from coffee beans that have been 'processed' by a
 [Common palm civet](../../../vertebrates/mammals/hermaphroditus)
-(
-*Paradoxurus hermaphroditus*
-). Yes, the civet cat eats the coffee beans, which passes out and are collected to be made into coffee for humans to drink!
+(*Paradoxurus hermaphroditus*). Yes, the civet cat eats the coffee beans, which passes out and are collected to be made into coffee for humans to drink!
 
 ## Human uses
 
 This story of coffee is as rich and interesting as the drink itself. Below are links to some sites with more details.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg)
+![](https://images.naturehungry.sg/plants/fruittrees/coffea/coffea/091213ubnd5838m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

@@ -19,47 +19,47 @@ order: Liliales
 subfamily: Lilioideae
 tribe: Lilieae
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/lineblue/080524sntd4190m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/lineblue/080524sntd4190m3.jpg
 galleries:
   gallery1:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/lineblue/080524sntd4190m3.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/lineblue/080524sntd4190m3.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/lineblue/080524sntd4190m3a.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/lineblue/080524sntd4190m3a.jpg"
       caption: ""
   gallery2:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/lineyellow/031025cjd0042m3.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/lineyellow/031025cjd0042m3.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/lineyellow/031025cjd0042m3a.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/lineyellow/031025cjd0042m3a.jpg"
       caption: ""
   gallery3:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/100528tkklks3m3.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/linebraid/100528tkklks3m3.jpg"
       caption: Photo shared by Loh Kok Sheng on his blog .
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/100528tkklks3m3a.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/linebraid/100528tkklks3m3a.jpg"
       caption: ""
   gallery4:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/031126tusad0089m3.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/bifurcus/031126tusad0089m3.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bifurcus/031126tusad0089m3a.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/bifurcus/031126tusad0089m3a.jpg"
       caption: ""
   gallery5:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/060810rlhd5700m3.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/triplestripe/060810rlhd5700m3.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/060810rlhd5700m3a.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/triplestripe/060810rlhd5700m3a.jpg"
       caption: ""
   gallery6:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/triplestripe/160124smkelks2.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/triplestripe/160124smkelks2.jpg"
       caption: ""
   gallery7:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/060101sisg3571m3.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/060101sisg3571m3.jpg"
       caption: ""
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/060101sisg3571m3a.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/060101sisg3571m3a.jpg"
       caption: ""
   gallery8:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/brownstripe/060305sisg5452m3.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/brownstripe/060305sisg5452m3.jpg"
       caption: Pseudobiceros sp. 2 (Brown-stripe flatworm)
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/orsaki/141109lazlks5m3.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/orsaki/141109lazlks5m3.jpg"
       caption: Nymphozoon orsaki (Orsak's flatworm)
-    - url: "https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/bayeri/060402ulrd1024m3.jpg"
+    - url: "https://images.naturehungry.sg/worm/polycladida/bayeri/060402ulrd1024m3.jpg"
       caption: Nymphozoon bayeri (Bayer's flatworm)
 ---
 

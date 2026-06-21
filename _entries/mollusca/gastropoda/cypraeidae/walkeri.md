@@ -1,6 +1,6 @@
 ---
 title: Walker's cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Walker's cowrie on the shores of Singapore
 keywords: cowrie, contradusta, cypraea, erronea, walkeri, cypraeidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -20,26 +20,26 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg
     caption: Cyrene Reef, Jul 08 Photo shared by Chim Chee Kong on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg
     caption: Cyrene Reef, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8275m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8275m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks1.jpg
     caption: Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks2.jpg
     caption: Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks3.jpg
     caption: Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/080721cyrlks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/080721cyrlks1m3.jpg
     caption: Cyrene Reef, Jul 08 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/150219cyrlks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/150219cyrlks3m3.jpg
     caption: Cyrene Reef, Feb 15 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

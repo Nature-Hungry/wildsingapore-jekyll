@@ -1,6 +1,6 @@
 ---
 title: 'Semaphore crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Semaphore crab  on the shores of Singapore
 keywords: semaphore, crab, ilyoplax, dotillidae, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -29,22 +29,21 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Dotillinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1074m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1074m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
     caption: Lim Chu Kang, Jan 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/111107sbwrlks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ilyoplax/111107sbwrlks.JPG
     caption: Sungei Buloh, Nov 11 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 
   - [Semaphore crabs (
-
   *Ilyoplax*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054)

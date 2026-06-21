@@ -1,6 +1,6 @@
 ---
 title: Petai laut
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Petai laut on the shores of Singapore
 keywords: desmodium, umbellatum, fabaceae, plant, shrub, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,7 +23,7 @@ subfamily: Faboideae
 tribe: Desmodieae
 subtribe: Desmodiinae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg
 links_references: '**Links**
 
   - *[Desmodium umbellatum](http://floraofsingapore.wordpress.com/2010/04/19/desmodium-triflorum/)*on
@@ -51,32 +51,32 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9883m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9883m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9883m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9883m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9891m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9891m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9884m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9884m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9886m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9886m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9887m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9887m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9917m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9917m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9884m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9884m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9888m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9888m3.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090529prpd2914m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090529prpd2914m3.jpg
     caption: Pasir Ris, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090529prpd2914m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090529prpd2914m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090529prpd2915m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090529prpd2915m3.jpg
     caption: ''
 size:
 - 300.0
@@ -101,11 +101,11 @@ A small tree to about 3m, "often prostrate towards the sea". The leaves are made
 
 According to Burkill, in Singapore and the Moluccas, the young leaves were eaten as a vegetable. Which may account for another Malay name for the plant: 'Lemak ketam'. According to Selvam, it is a nitrogen fixing plant and excellent in controlling soil erosion. In the Maldives, straight sticks are used as beams along the length of the roof and also as sides of the traditional timber built houses. Straight branches are also used as handle for scoops used for drawing water from wells. Charcoal produced from the wood is widely used by blacksmiths. Leaves are used as in a tonic for women after childbirth. It is also grown as an ornamental plant.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg)
 
 *Pulau Hantu, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/desmodium/umbellatum/090412hntd9881m3.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hntd9881m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

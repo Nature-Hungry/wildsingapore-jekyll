@@ -1,6 +1,6 @@
 ---
 title: Hermit porcelain crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hermit porcelain crab on the shores of Singapore
 keywords: hermit, porcelain, crab, porcellanidae, anomura, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -25,14 +25,14 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/hermit/stripeorange/050428cftg5276m3.jpg
+  - url: https://images.naturehungry.sg/hermit/stripeorange/050428cftg5276m3.jpg
     caption: In a shell occupied by a Striped hermit crab . Changi, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/hermit/stripeorange/050428cftg5276m3a.jpg
+  - url: https://images.naturehungry.sg/hermit/stripeorange/050428cftg5276m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
     caption: Chek Jawa, Mar 05
 location:
 - chg

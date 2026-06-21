@@ -1,6 +1,6 @@
 ---
 title: Sea fans or Gorgonians
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea fans or Gorgonians on the shores of Singapore
 keywords: fan, whip, coral, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info
@@ -17,49 +17,49 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg
     caption: Tiny sea fans dot the rocks. East Coast Park, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg
     caption: Larger sea fans seen on remote shores. Beting Bronok, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg
     caption: Polyps of a sea fan. Tuas, Dec 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg
     caption: Winged oyster on a sea fan Changi, Jan 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
     caption: Ovulid snails on a sea fan East Coast, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg
     caption: Tiny colourful brittle stars . Changi, Jul 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
     caption: Skinny sea fans
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg
     caption: Asparagus sea fan
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
     caption: Candelabra sea fan
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg
     caption: Flat branch sea fan
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
     caption: Gnarled sea fan
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
     caption: Lyre sea fan
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg
     caption: Maze sea fan
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/tree/030520bbd0241m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/tree/030520bbd0241m3.jpg
     caption: Tree sea fan
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg
     caption: Lemon sea fan
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
     caption: Blue sea fan
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg
     caption: Leathery sea fan
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
     caption: Sea whip
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
@@ -113,8 +113,7 @@ Gorgonians sometimes also reproduce by budding off new polyps to enlarge the col
 All kinds of small animals live on gorgonians including tunicates, barnacles,
 [clams](../../../mollusca/bivalvia/pteriidae/seafan)
 , snails (such as the
-[ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae)
-), tiny shrimps,
+[ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae)), tiny shrimps,
 [brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 and gobies.
 [Hermit crabs](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/banded)

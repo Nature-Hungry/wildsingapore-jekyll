@@ -1,6 +1,6 @@
 ---
 title: 'Nangka '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Nangka  on the shores of Singapore
 keywords: nangka, jack, fruit, jackfruit, artocarpus, heterophyllus, moraceae, tree,
   plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,7 +22,7 @@ class: Magnoliopsida
 order: Rosales
 tribe: Artocarpeae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg
 links_references: '**Links**
 
   - [*Artocarpus heterophyllus*](http://floraofsingapore.wordpress.com/2010/04/02/artocarpus-heterophyllus/)on
@@ -50,11 +50,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2016m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/artocarpus/heterophyllus/091005cjd2016m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2015m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/artocarpus/heterophyllus/091005cjd2015m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6la.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6la.jpg
     caption: Pulau Ubin, Oct 09
 size:
 - 1000.0
@@ -80,7 +80,7 @@ Tall tree (10-20m). Leaves oval with only a blunt tip and very dark shiny green 
 
 According to Burkill, the flesh of the fruits can be eaten fresh, or candied, salted as pickles, or sun dried as chips. The starchy seeds are boiled and eaten. The timber is highly valued for house building especially where teak does not grow and is also used for musical instruments and furniture. Due to the yellow colour of the timber, it was used in the palaces of Bali and Macassar, and in Indochina was reserved for sacred buildings. The robes of Buddhist priests are coloured from dyes obtained by boiling the wood. Livestock and wild deer relish the leaves and various parts of the tree were also used in traditional medicine.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg)
+![](https://images.naturehungry.sg/plants/fruittrees/artocarpus/heterophyllus/091005cjd2013m6l.jpg)
 
 *Pulau Ubin, Oct 09*
 

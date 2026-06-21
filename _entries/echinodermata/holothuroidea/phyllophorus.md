@@ -1,6 +1,6 @@
 ---
 title: Ball sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ball sea cucumber on the shores of Singapore
 keywords: ball, cucumber, seacucumber, phyllophorus, phyllophoridae, holothuridae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,38 +26,38 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg
     caption: Many often buried just beneath the surface. Changi, Aug 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/050428chgg5234m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/050428chgg5234m3.jpg
     caption: Freshly dug up sea cucumber with anus and mouth facing upwards. Changi,
       Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/070731chgd4722m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/070731chgd4722m3.jpg
     caption: Feeding tentacles from a buried sea cucumber.. Changi, Jul 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3.jpg
     caption: Rarely found above ground. Changi, Jul 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3a.jpg
     caption: Feeding tentacles and long thin tube feet..
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/161118chg7d9090m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/161118chg7d9090m3.jpg
     caption: Those found above ground may be inflated into translucent balls and float
       in the water. Changi, Nov 16
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/260105prpezxh8.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/260105prpezxh8.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/210529ecpblks9.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/210529ecpblks9.jpg
     caption: East Coast Park (B), May 21 Photo shared by Loh Kok Sheng on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/151001blyjt14m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/151001blyjt14m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/230424blylks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/230424blylks2.jpg
     caption: Berlayar Creek, Apr 23 Photo shared by Loh Kok Sheng on facebook.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/100912kuslks2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/100912kuslks2m3.jpg
     caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/phyllophorus/110220lazlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/110220lazlks.JPG
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 
@@ -134,9 +134,7 @@ Those found above ground tend to be round, sometimes inflated into translucent w
 It gathers edible bits from the water with mucus-covered feeding tentacles.
 
 **Status and threats:**
-The Tennis-ball sea cucumber (
-*Phyllophorus spiculata*
-) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. In Singapore, the main threat is habitat loss due to reclamation or human activities along the coast that pollute the water.
+The Tennis-ball sea cucumber (*Phyllophorus spiculata*) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. In Singapore, the main threat is habitat loss due to reclamation or human activities along the coast that pollute the water.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Hammer oyster '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hammer oyster  on the shores of Singapore
 keywords: hammer, oyster, malleus, malleidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -21,48 +21,48 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg
     caption: Sometimes seen lying on the ground. Cyrene Reef, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/120510chgd2926m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/120510chgd2926m3.jpg
     caption: Sometimes partially buried. Changi, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/090208smkd6647m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/090208smkd6647m3.jpg
     caption: Spatula-shaped clams seen sticking out from among rubble and rocks. Pulau
       Semakau, Feb 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/111225tmskd4833m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/111225tmskd4833m6l.jpg
     caption: On the inside, a small depression at the hinge and area of mother-of-pearl
       is small relative to the shell length. Terumbu Semakau, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/160208smkso2080010m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/160208smkso2080010m3.jpg
     caption: Stuck under a stone. Pulau Semakau, Feb 16
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/100612chglks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/100612chglks5m3.jpg
     caption: Changi, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/241021ecppcnlll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/241021ecppcnlll1.jpg
     caption: East Coast (Sailing Centre), Oct 24 Photo shared by Low Liong Leong on
       facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/201215bsrpvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/201215bsrpvc2.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent on facebook
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/201116lazlks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/201116lazlks4.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/110203sjilks2m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/110203sjilks2m3.JPG
     caption: St. John's Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/201115tkklks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/201115tkklks1.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/200626tptky4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/200626tptky4.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Kelvin Yong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/121115tsmklks.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/121115tsmklks.JPG
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/100131slud8785m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/100131slud8785m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/210428sluvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/210428sluvc1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebok .
 links_references: '**Links**
 

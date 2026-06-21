@@ -1,6 +1,6 @@
 ---
 title: Frill-fin goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Frill-fin goby on the shores of Singapore
 keywords: frill, fin, goby, bathygobius, fuscus, fish, gobiidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,29 +23,28 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg
     caption: Pulau Hantu, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m6l.jpg
     caption: Tiny white dots regularly spaced on face and in rows on its body. St.
       John's Island, Sep 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/201118nsrcssjk5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/bathygobius/201118nsrcssjk5.jpg
     caption: East Coast NSRCC, Nov 20 Photo shared by James Koh on flickr.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/151001blyjt10m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/bathygobius/151001blyjt10m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/160509srpmn4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/bathygobius/160509srpmn4.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg
     caption: Pulau Jong, Jun 09 Photo shared by Liana Tang on her blog .
 links_references: '**Links**
 
   - [Common frill-fin goby (
-
   *Bathygobius fuscus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/360)
@@ -59,7 +58,6 @@ links_references: '**Links**
   - [Dusky frillgoby](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
 
   [(
-
   *Bathygobius fuscus*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
@@ -67,7 +65,6 @@ links_references: '**Links**
   and
 
   [Meggitt''s goby (
-
   *Bathygobius meggitti*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=46431)
@@ -136,11 +133,7 @@ This pretty spotted goby is commonly seen on many of our shores, in rocky shores
 
 4-7cm long. It has bulging cheeks and a pattern of tiny white spots regularly spaced on its face and in rows down its body. Usually a pair of dark saddles, as well as dark blotches, along the body length.
 
-The most commonly seen frill-fin gobies on our shores are the Common frill-fin goby (
-*Bathygobius fuscus*
-) and Meggitt's frill-fin goby (
-*Bathygobius meggitti*
-) which look very similar.
+The most commonly seen frill-fin gobies on our shores are the Common frill-fin goby (*Bathygobius fuscus*) and Meggitt's frill-fin goby (*Bathygobius meggitti*) which look very similar.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Penaga laut '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Penaga laut  on the shores of Singapore
 keywords: penaga, laut, alexandrine, laurel, calophyllum, inophyllum, calophyllaceae,
   clusiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -21,14 +21,14 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3a.jpg
     caption: Fruit. Sentosa, Oct 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090410ubnd9412m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/calophyllum/inophyllum/090410ubnd9412m3.jpg
     caption: Changi, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090124ubnd5983m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/calophyllum/inophyllum/090124ubnd5983m3.jpg
     caption: Pulau Ubin, Jan 09
 links_references: '**Links**
 
@@ -143,19 +143,16 @@ Fruit (2.5-3cm) smooth, globular with one large seed which is slightly poisonous
 ## Role in habitat
 According to Corners, the fruits of
 *Calophyllum*
-species are dispersed by bats and for those that grow by the river, by fish! In fact, the fruits of the Bintangor tree (
-*Calophyllum lanigerum*
+species are dispersed by bats and for those that grow by the river, by fish! In fact, the fruits of the Bintangor tree (*Calophyllum lanigerum*
 are) are used as fish bait by the Malays.
 
 ## Human uses
 
 According to Burkill, the tree produces "excellent, close-grained timber" and is highly valued in making various parts of boats, as well as other non-coastal uses such as for railway sleepers, in cart-wheels and making furniture. Even though the fruit is poisonous, the endosperm is eaten in some places as a pickle. Oil extracted from the crushed seeds are used for lamps, as well as medications for skin ailments. The resin, leaves and roots also have various medicinal uses. According to Tomlinson, the tree has many local uses as a source of dye, oil, timber and medicine. According to Corners, "the gum, bark, leaves, roots, flowers and oil from the seeds are put to such an astonishing variety of cures in native medicines that we could call the tree All Heal". The oil which sweats from the drying seeds is poisonous.
 
-A relative of this plant, the Bintangor Tree (
-*Calophyllum lanigerum*
+A relative of this plant, the Bintangor Tree (*Calophyllum lanigerum*
 var.
-*austrocoriaceum*
-) produced a new compound, Calanolide A, that was found highly effective in controlling the AIDS virus in the laboratory. The compound was extracted from a twig and fruit of a tree growing in Sarawak, Malaysia. Calanolide A has since been synthesised and is still being tested as an AIDS control.
+*austrocoriaceum*) produced a new compound, Calanolide A, that was found highly effective in controlling the AIDS virus in the laboratory. The compound was extracted from a twig and fruit of a tree growing in Sarawak, Malaysia. Calanolide A has since been synthesised and is still being tested as an AIDS control.
 
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
@@ -175,22 +172,22 @@ Ground with a girth of 5.4m and height of 16m,
 **Canterbury Road**
 , at junction with Berkshire Road with a girth of 4.5m and height of 18m.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg)
 
 Planted in a park.
 *Changi Beach, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090410ubnd9415m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/calophyllum/inophyllum/090410ubnd9415m3.jpg)
 
 Changi, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3.jpg)
 
 Fine parallel veins on leaf.
 
 Sentosa, Oct 03
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/inophyllum/090124ubnd5979m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/calophyllum/inophyllum/090124ubnd5979m3.jpg)
 
 Pulau Ubin, Jan 09*
 

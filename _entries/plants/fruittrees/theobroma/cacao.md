@@ -1,6 +1,6 @@
 ---
 title: 'Chocolate tree '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chocolate tree  on the shores of Singapore
 keywords: chocolate, theobroma, cacao, sterculiaceae, tree, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Malvales
 subfamily: Byttnerioideae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg
 links_references: '**Links**
 
   - *[Theobroma cacao](http://floraofsingapore.wordpress.com/2010/08/23/theobroma-cacao/)*on
@@ -49,11 +49,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091213ubnd5881m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/theobroma/cacao/091213ubnd5881m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091005cjd2004m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/theobroma/cacao/091005cjd2004m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091005cjd2002m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/theobroma/cacao/091005cjd2002m3.jpg
     caption: Pulau Ubin, Oct 09
 size:
 - 400.0
@@ -75,11 +75,11 @@ A tall 'bushy' tree (4-8m), with large leaves. The tiny flowers emerge from the 
 
 This native of South America was long used by the natives. It was 'discovered' by the Spanish from which it eventually spread to other parts of the world, particularly in Africa. According to Corners, it was introduced to Malaya in the 18th century and often seen in villages.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg)
+![](https://images.naturehungry.sg/plants/fruittrees/theobroma/cacao/091005cjd1999m6l.jpg)
 
 *Pulau Ubin, Oct 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/theobroma/cacao/091213ubnd5886m3.jpg)
+![](https://images.naturehungry.sg/plants/fruittrees/theobroma/cacao/091213ubnd5886m3.jpg)
 
 *Pulau Ubin, Dec 09**
 

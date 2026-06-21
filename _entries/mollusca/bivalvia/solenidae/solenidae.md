@@ -1,6 +1,6 @@
 ---
 title: 'Razor clams '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Razor clams  on the shores of Singapore
 keywords: razor, clam, shell, solenidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,19 +20,19 @@ superorder: Imparidentia
 order: Adapedonta
 superfamily: Solenoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
     caption: Razor clam ( Solen brevisiima ) Foot burrowing in (left) and siphon extended
       (right). Chek Jawa, Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg
     caption: Siphon of a large buried razor clam Changi, Jul 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/111227prpd5118m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/111227prpd5118m6l.jpg
     caption: Bulbous tip of the muscular foot. Pasir Ris, Dec 11
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg
     caption: Pasir Ris Park, Dec 09 Photo shared by James Koh on his blog .
 links_references: '**Links**
 

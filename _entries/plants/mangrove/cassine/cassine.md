@@ -1,6 +1,6 @@
 ---
 title: 'Kempudang baran '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Kempudang baran  on the shores of Singapore
 keywords: cassine, viburnifolia, celastraceae, tree, mangrove, mangroves, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -16,22 +16,22 @@ family: Celastraceae
 genus: Cassine
 species: viburnifolia
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/cassine/cassine/090816sbwrd9083m6la.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090816sbwrd9083m6la.jpg
     caption: Sungei Buloh Wetland Reserve, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/cassine/cassine/090905sbwrd0137m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0137m3.jpg
     caption: Leaves with scalloped edges. Sungei Buloh Wetland Reserve, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/cassine/cassine/090816sbwrd9075m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090816sbwrd9075m3.jpg
     caption: Sungei Buloh Wetland Reserve, Aug 09 Sungei Buloh Wetland Reserve, Mar
       11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/cassine/cassine/090905sbwrd0135m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0135m3b.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/cassine/cassine/110301sbwrd6619m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/110301sbwrd6619m3b.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/cassine/cassine/090905sbwrd0171m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0171m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
 links_references: '**Links**
 
@@ -117,7 +117,7 @@ According to Giersen, the husk of the fruit is said to be used to stupefy fish. 
 **Status and threats:**
 This plant is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg)
 
 Sungei Buloh Wetland Reserve, Sep 09*
 

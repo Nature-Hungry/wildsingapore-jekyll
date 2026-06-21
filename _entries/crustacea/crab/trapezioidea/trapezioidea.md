@@ -1,6 +1,6 @@
 ---
 title: 'Coral crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Coral crabs  on the shores of Singapore
 keywords: coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,12 +24,12 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Trapezioidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg
     caption: Bandit coral crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
     caption: Red coral crab
 location:
 - tm
@@ -55,12 +55,10 @@ zone:
 ## Where seen?
 These tiny crabs are only found in living branching hard corals such as
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
-(
-*Acropora*
+(*Acropora*
 sp.) and
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.). They are well hidden and quick, and thus hard to spot and photograph.
 
 ## Features
@@ -71,35 +69,25 @@ Usually a pair of male and female are found in one coral colony. The females are
 
 The
 [Red coral crab](redcoral)
-(
-*Trapezia cymodoce*
-) lives only in
+(*Trapezia cymodoce*) lives only in
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.).
 
 The
 [Bandit coral crab](bandit)
-(
-*Tetralia nigrolineata*
-) lives only in
+(*Tetralia nigrolineata*) lives only in
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
-(
-*Acropora*
+(*Acropora*
 sp.).
 
 **Other tiny crabs that live in corals**
 include the
 [Hairy coral crab](../xanthidae/cymo)
-(
-*Cymo andreossyi*
-)
+(*Cymo andreossyi*)
 
 **Status and threats:**
-The Red coral crab (
-*Trapezia cymodoce*
-) is listed as 'Vulnerable' in our Red List of threatened animals of Singapore. To protect these crabs, we need to protect their hard coral homes.
+The Red coral crab (*Trapezia cymodoce*) is listed as 'Vulnerable' in our Red List of threatened animals of Singapore. To protect these crabs, we need to protect their hard coral homes.
 
 ---
 

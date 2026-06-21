@@ -1,6 +1,6 @@
 ---
 title: 'Periwinkles '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Periwinkles  on the shores of Singapore
 keywords: periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -18,37 +18,36 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Littorinoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
     caption: Several kinds of periwinkles may be found together. Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
     caption: Like other snails, they have a broad foot and tentacles . Chek Jawa,
       May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg
     caption: A thin operculum. Labrador, May 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg
     caption: Kranji, Mar 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg
     caption: Mucus strands used to stick onto a tree.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
     caption: Knobbly periwinkle
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg
     caption: Rock periwinkle
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg
     caption: Round periwinkle
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg
     caption: Mangrove periwinkle
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg
     caption: Black-mouth mangrove periwinkle
 links_references: '**Links**
 
   - [Mangrove periwinkle (
-
   *Littoraria*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080)

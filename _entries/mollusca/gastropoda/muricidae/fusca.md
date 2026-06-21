@@ -1,6 +1,6 @@
 ---
 title: Dark drill
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dark drill on the shores of Singapore
 keywords: drill, morula, semiricinula, fusca, muricidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -10,21 +10,21 @@ genus: Semiricinula
 species: fusca
 attributes: []
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
     caption: Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg
     caption: Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg
     caption: Chek Jawa, May 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg
     caption: Photo shared by Brian Ong.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg
     caption: Photo shared by Brian Ong.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg
     caption: Hole drilled into a false limpet, by the drill. Photo shared by Brian
       Ong.
 links_references: '**Links**

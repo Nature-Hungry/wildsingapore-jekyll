@@ -1,6 +1,6 @@
 ---
 title: Durian
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Durian on the shores of Singapore
 keywords: durian, durio, zibethinus, bombacaceae, tree, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,21 +22,21 @@ order: Malvales
 subfamily: Helicteroideae
 tribe: Durioneae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/080412cjd1335m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/080412cjd1335m3.jpg
     caption: Fallen flowers. Chek Jawa, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/100410ubnd0869m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/100410ubnd0869m3.jpg
     caption: Flowers on a thick branch. Pulau Ubin, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/091005cjd2011m3a.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/091005cjd2011m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/031011ubnd0016m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/031011ubnd0016m3.jpg
     caption: Pulau Ubin, Oct 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/031011ubnd0016m3b.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/031011ubnd0016m3b.jpg
     caption: Pulau Ubin, Oct 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/031011ubnd0019m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/031011ubnd0019m3.jpg
     caption: Pulau Ubin, Oct 03
 links_references: '**Links**
 
@@ -114,10 +114,10 @@ are important sources of food for these bats.
 
 The durian fruit evokes extreme reactions. People either love it or hate it, few are indifferent to it. Burkill declares 'many writers have attempted to describe the taste, and differ in their description, perhaps much more widely than the taste itself.'
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg)
+![](https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/091005cjd2007m6l.jpg)
 
 *Pulau Ubin, Oct 09*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/durio/zibethinus/091005cjd2011m3.jpg)
+*![](https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/091005cjd2011m3.jpg)
 
 Pulau Ubin, Oct 09*
 

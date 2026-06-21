@@ -1,6 +1,6 @@
 ---
 title: '''Gelek'''' anemone shrimp'
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of 'Gelek'' anemone shrimp on the shores of Singapore
 keywords: five, spot, anemone, shrimp, ancylomenes, holthuisi, palaemonidae, decapod,
   crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,15 +25,15 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg
     caption: Seen in a Haddon's carpet anemone . Changi, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
     caption: Seen in a Haddon's carpet anemone. Changi, Aug 13
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/110802smkmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/holthuisi/110802smkmn.jpg
     caption: Seen in a Magnificent anemone . Pulau Semakau, Aug 11 Photo shared by
       Marcus Ng on flickr .
 location:

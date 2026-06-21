@@ -1,6 +1,6 @@
 ---
 title: Blue dragon nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue dragon nudibranch on the shores of Singapore
 keywords: blue, dragon, pteraeolidia, ianthina, glaucidae, aeolid, aeolidina, nudibranchia,
   slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -23,68 +23,68 @@ suborder: Aeolidina
 superfamily: Aeolidioidea
 subfamily: Pteraeolidiinae
 updated: Jun 2023
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3a.jpg
     caption: Purple bands on oral tentacles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3e.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3e.jpg
     caption: Feathery rhinophores.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m6l.jpg
     caption: Pulau Sekudu, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m3.jpg
     caption: Cerata in hand-like clusters
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/221127lazjk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/221127lazjk1.jpg
     caption: Laying egg string on seagrass. Lazarus (Eagle Bay), Nov 22 Photo shared
       by James Koh on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/221127lazjk1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/221127lazjk1a.jpg
     caption: Laying egg string on seagrass. Lazarus (Eagle Bay), Nov 22 Photo shared
       by James Koh on facebook
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/120508skdjk.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120508skdjk.jpg
     caption: Pulau Sekudu, May 12 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/150705skdrom3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/150705skdrom3.jpg
     caption: Pulau Sekudu, Jul 15 Photo shared by Rene Ong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/100614bblks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/100614bblks1m3.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/210628ecpBlks9.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/210628ecpBlks9.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/201215bsrpvc5.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/201215bsrpvc5.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/180519ssisay1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/180519ssisay1.jpg
     caption: Small Sisters Island, May 18 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/200822jnglks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/200822jnglks4.jpg
     caption: Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/081114cyrmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/081114cyrmn.jpg
     caption: Cyrene Reef, Nov 08 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/170528cyrtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/170528cyrtch1.jpg
     caption: Cyrene Reef, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/260629smkeal1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/260629smkeal1.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/080410cyrtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/080410cyrtch1.jpg
     caption: Cyrene Reef, Apr 08 Photo shared by Toh Chay Hoon on flickr .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/160124smkelks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/160124smkelks6.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/080620smklks2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/080620smklks2m3.jpg
     caption: Pulau Semakau, Jun 08 Photo shared by Loh Kok Sheng on his flickr .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/100502trytch2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/100502trytch2m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/120609tmskrl3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/120609tmskrl3m3.jpg
     caption: Terumbu Semakau, Jun 12 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ianthina/210428slujll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/210428slujll1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
 links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: including descriptions and photos of\n*[Pteraeolidia ianthina](http://www.seaslugforum.net/find/pteriant)*\n\

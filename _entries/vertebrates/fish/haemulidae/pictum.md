@@ -1,6 +1,6 @@
 ---
 title: Painted sweetlips
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Painted sweetlips on the shores of Singapore
 keywords: painted, sweetlips, fish, diagramma, pictum, haemulidae,  field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,25 +24,24 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Plectorhinchinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
     caption: Changi, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/120410chgd9038m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/120410chgd9038m6l.jpg
     caption: Juvenile. Changi, Apr 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/161126chgay1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/161126chgay1.jpg
     caption: Changi, Nov 16 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/181027smksmn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/181027smksmn1.jpg
     caption: Pulau Semakau, Oct 18 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/131104smkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/131104smkmn.jpg
     caption: . Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Painted sweetlips (
-
   *Diagramma pictum*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/283)

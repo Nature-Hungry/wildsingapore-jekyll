@@ -1,6 +1,6 @@
 ---
 title: 'Agar-agar red seaweeds '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Agar-agar red seaweeds  on the shores of Singapore
 keywords: agar, gracilaria, red, seaweed, weed, algae, gracilariaceae, rhodophyceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,12 +22,12 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gracilariales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/111030skdd3192m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/gracilaria/111030skdd3192m3.jpg
     caption: Pulau Sekudu, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
     caption: Made up of club-shaped segments. Knobbly agar-agar red seaweed Chek Jawa,
       May 05
 links_references: '**Links**
@@ -152,9 +152,7 @@ According to
 *Gracilaria*
 species. The species are difficult to differentiate based on external features alone. Except for
 [Knobbly agar-agar red seaweed](salicornia)
-(
-*Gracilaria salicornia*
-) with distinctive club-shaped segments.
+(*Gracilaria salicornia*) with distinctive club-shaped segments.
 
 Some other species found on our shore that resemble Gracilaria include
 *Hydropuntia edulis*
@@ -183,18 +181,18 @@ and
 *Pterocladia*
 .
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg)
 
 Many bunches growing on
 
 an abandoned net.
 *Chek Jawa, Jul 02*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/050427tmg5203m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/gracilaria/050427tmg5203m3.jpg)
 
 Loose clusters of long 'stems'.
 *Tanah Merah, Apr 05*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/060613ecpd2949m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/gracilaria/060613ecpd2949m3.jpg)
 
 Denser bunches of short 'stems'.
 *East Coast, Jun 06*

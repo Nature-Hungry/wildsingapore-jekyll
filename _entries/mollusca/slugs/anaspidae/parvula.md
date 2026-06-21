@@ -1,6 +1,6 @@
 ---
 title: Mini sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mini sea hare on the shores of Singapore
 keywords: mini, seahare, hare, aplysia, parvula, anaspidea, aplysiidae, bursatella,
   leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -20,14 +20,14 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
     caption: Sisters Island, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/100215sisd9414m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/parvula/100215sisd9414m3.jpg
     caption: Rhinophore and oral tentacle tips dark. Tiny eyes under the rhinophores.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg
     caption: Large foramen ringed in black.
 links_references: '**Links**
 
@@ -96,16 +96,13 @@ sea hares, and '
 *parvus*
 ' means 'little'. (It isn't the smallest sea hare: the
 [seagrass seahare](seagrass)
-(
-*Phyllaplysia*
+(*Phyllaplysia*
 sp.) is much smaller).
 
 **Sometimes mistaken for**
 the
 [Leaf slug](../sacoglossa/ornata)
-(
-*Elysia ornata*
-) which is not a sea hare but a sap sucking slug. The Leaf slug only has one pair of tentacles and its 'wings' are much longer, extending along most of the body length.
+(*Elysia ornata*) which is not a sea hare but a sap sucking slug. The Leaf slug only has one pair of tentacles and its 'wings' are much longer, extending along most of the body length.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

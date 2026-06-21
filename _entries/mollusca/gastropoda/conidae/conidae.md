@@ -1,6 +1,6 @@
 ---
 title: 'Cone snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cone snails  on the shores of Singapore
 keywords: cone, snail, shell, conus, conidae, gastropod, mollusc, sand, collar, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,86 +18,86 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Conoidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg
     caption: Singed cone snail (Conus consors) Cyrene Reef, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/130808cyrd0874m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/130808cyrd0874m3.jpg
     caption: Underside. Cyrene Reef, Aug 13
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/190123lazay2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/190123lazay2.jpg
     caption: Lazarus, Jan 19 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/180731ecprk.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/180731ecprk.jpg
     caption: Conus caracteristicus East Coast Park, Jul 18 Photo shared by Royston
       Koh Lai Peng on Singapore Biodiverity Records.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/191127lazky4a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/191127lazky4a.jpg
     caption: Lazarus, Nov 19 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/191127lazky4b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/191127lazky4b.jpg
     caption: Lazarus, Nov 19 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/171008srgjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/171008srgjll1.jpg
     caption: Lazarus, Oct 17 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/171008srglks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/171008srglks1.jpg
     caption: Lazarus, Oct 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/220104lazky2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/220104lazky2.jpg
     caption: Lazarus, Jan 22
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/220104lazky2b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/220104lazky2b.jpg
     caption: Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/251009sjirk7.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/251009sjirk7.jpg
     caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/190731kusrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/190731kusrk1.jpg
     caption: Kusu Island, Jul 19 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/190731kusrk1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/190731kusrk1a.jpg
     caption: ''
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/220518kusrk4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/220518kusrk4.jpg
     caption: Kusu Island, May 22 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/200705kusjll4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/200705kusjll4.jpg
     caption: Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/200705kusjll2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/200705kusjll2.jpg
     caption: Conus textile Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/240114kusccn1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/240114kusccn1b.jpg
     caption: Kusu Island, Jan 24 Photo shared by Che Cheng Neo on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/250530kusrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/250530kusrk1.jpg
     caption: Kusu Island, May 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/250530kusrk1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/250530kusrk1b.jpg
     caption: Kusu Island, May 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/240820kusky4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/240820kusky4.jpg
     caption: Kusu Island, Aug 24 Photo shared by Kelvin Yong on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/251011ssisccn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/251011ssisccn1.jpg
     caption: Small Sisters Island, Oct 25
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/251011ssisccn1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/251011ssisccn1a.jpg
     caption: 'Photo shared by Che Cheng Neo on facebook Conus achatinus : ID by Yan
       Le Su .'
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/191028bsisvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/191028bsisvc2.jpg
     caption: Big Sisters Island, Oct 19 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/191028bsisvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/191028bsisvc1.jpg
     caption: Big Sisters Island, Oct 19 Photo shared by Vincent Choo on facebook .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/230705ssisky4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/230705ssisky4.jpg
     caption: Small Sisters Island, Jul 23 Photo shared by Kelvin Yong on facebook
       .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/171104cyrlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/171104cyrlks1.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/160820cyrmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/160820cyrmn.jpg
     caption: Cyrene Reef, Aug 16 Photo shared by Marcus Ng on flickr .
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/220911cyrrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/220911cyrrk1.jpg
     caption: Cyrene, Sep 22 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/210810tpltch4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/210810tpltch4.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/conidae/conidae/250712tplrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/250712tplrk1.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook
       .
   gallery15:
@@ -108,7 +108,6 @@ links_references: '**Links**
   - [Geography Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/251)
 
   (
-
   *Conus geographus*
 
   ) and
@@ -116,7 +115,6 @@ links_references: '**Links**
   [Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/148)
 
   (
-
   *Conus consors*
 
   ) Tan, Leo W. H. & Ng, Peter K. L., 1988.
@@ -126,7 +124,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Textile cone (
-
   *Conus textile*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=203)
@@ -134,7 +131,6 @@ links_references: '**Links**
   and
 
   [Singed cone (
-
   *Conus consors*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=204)
@@ -260,11 +256,7 @@ Cone snails are predators. They feed on worms, other snails and small fishes. Ma
 Cone snails are mainly collected for their attractive shells for the shell trade. Research on their toxins have resulted in some medical applications to help humans cope with pain and diseases.
 
 **Status and threats:**
-The Textile cone (
-*Conus textile*
-) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be found in Singapore coral reef areas up till the 1970s but is now extremely rare. The Singed cone (
-*Conus consor*
-) is also listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be the most common cone species seen in Singapore's rocky shores in the past, but now seldom seen due to degradation or reclamation of natural rocky shores.
+The Textile cone (*Conus textile*) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be found in Singapore coral reef areas up till the 1970s but is now extremely rare. The Singed cone (*Conus consor*) is also listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be the most common cone species seen in Singapore's rocky shores in the past, but now seldom seen due to degradation or reclamation of natural rocky shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Deadly cone!**
 The cone snail is one of the most dangerous animals on Singapore shores. The snail can inject bare hands and bare feet of swimmers and shore explorers in shallow water. Its tiny 'harpoon' is hardly felt so victims are often unaware until they show symptoms of envenomation.
@@ -274,9 +266,7 @@ The best recourse is to bring the victim to hospital
 .
 
 **What is the effect of a cone snail's sting?**
-Although the sting is painless, the effect on humans can be fatal. Here's a description: Local stinging is followed within minutes by numbness, or tingling/burning skin and localised tissue death. Serious stings may result in nausea, headache, loss of coordination, blurred vision, speech and hearing, general paralysis, coma, and respiratory failure within hours. Death is typically due to respiratory failure from paralysis of the diaphragm or heart failure. The Geographic cone (
-*Conus geographus*
-), which produces the most potent conotoxins found to date, may produce rapid brain swelling, coma, respiratory arrest and heart failure. Death has been documented within 5 hours in a
+Although the sting is painless, the effect on humans can be fatal. Here's a description: Local stinging is followed within minutes by numbness, or tingling/burning skin and localised tissue death. Serious stings may result in nausea, headache, loss of coordination, blurred vision, speech and hearing, general paralysis, coma, and respiratory failure within hours. Death is typically due to respiratory failure from paralysis of the diaphragm or heart failure. The Geographic cone (*Conus geographus*), which produces the most potent conotoxins found to date, may produce rapid brain swelling, coma, respiratory arrest and heart failure. Death has been documented within 5 hours in a
 *C. geographus*
 envenomation. No antivenin is available for cone shell envenomation. In significant envenomations, symptoms may take several weeks to resolve.
 *From

@@ -1,6 +1,6 @@
 ---
 title: Kelat nasi nasi
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Kelat nasi nasi on the shores of Singapore
 keywords: sea, apple, syzygium, zeylanicum, myrtaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,7 +24,7 @@ order: Myrtales
 subfamily: Myrtoideae
 tribe: Syzygieae
 updated: Feb 11
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg
 links_references: "**Acknowledgements** \nWith grateful thanks to Teo Siyang and Bian\
   \ Tan for identifying\nthis plant. \n \n**Links**\n- *[Syzygium zeylanicum](http://floraofsingapore.wordpress.com/2010/06/27/syzygium-zeylanicum/)*on\
   \ Total Vascular Flora of Singapore Online: photos and fact sheet.\n\n**References**\n\
@@ -39,21 +39,21 @@ links_references: "**Acknowledgements** \nWith grateful thanks to Teo Siyang and
   \ Volume 1: 1-1240; volume 2: 1241-2444."
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5606m3c.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110203sjid5606m3c.jpg
     caption: St. John's Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5606m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110203sjid5606m3a.jpg
     caption: St. John's Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5609m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110203sjid5609m6l.jpg
     caption: St. John's Island, Feb 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110220lazd6181m6la.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110220lazd6181m6la.jpg
     caption: Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110220lazd6180m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110220lazd6180m3a.jpg
     caption: Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110502prpd0477m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110502prpd0477m3.jpg
     caption: Pasir Ris Park, May 11 Planted in the park.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110502prpd0479m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110502prpd0479m6l.jpg
     caption: Pasir Ris Park, May 11 Planted in the park.
 size:
 - 1000.0
@@ -83,7 +83,7 @@ According to Burkill, the fruit is sweet, aromatic and edible. The reddish or br
 
 ****
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg)
 
 *St. John's Island, Feb 11*
 

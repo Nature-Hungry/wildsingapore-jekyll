@@ -1,6 +1,6 @@
 ---
 title: Tiny red sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny red sea cucumber on the shores of Singapore
 keywords: cucumber, sea, cucumber,  cucumarid, holothuroidea, echinoderm, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -17,29 +17,29 @@ family: Cucumariidae
 genus: awating
 species: identification*
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/050623cjg8359m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/050623cjg8359m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/050623cjg8359m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/050623cjg8359m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/050526cjg6806m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/050526cjg6806m3.jpg
     caption: Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/050526cjg6806m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/050526cjg6806m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/050526cjg6806m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/050526cjg6806m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/150618tmftlks2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/150618tmftlks2m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/081214ecmlks02m3.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/081214ecmlks02m3.JPG
     caption: East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/tinyred/190706skdlks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/tinyred/190706skdlks2.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Loh Kok Sheng on facebook .
 location:
 - chg

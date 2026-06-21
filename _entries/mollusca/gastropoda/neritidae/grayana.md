@@ -1,6 +1,6 @@
 ---
 title: 'Grey mangrove nerite snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Grey mangrove nerite snail  on the shores of Singapore
 keywords: grey, nerita, nerite, grayana, undulata, neritidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,14 +19,14 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
     caption: Kranji, Mar 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3a.jpg
     caption: ''
 location:
 - sbw

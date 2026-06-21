@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink puff ball sponge on the shores of Singapore
 keywords: pink, puff, ball, sponge, oceanapia, sagittaria, phloeodictyidae, porifera,
 layout: entry
 shape: ball
@@ -16,32 +16,32 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/110521smks01955m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/oceanapia/110521smks01955m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/110521smks01955m3.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/110521smks01955m3.jpg
     caption: Pulau Semakau, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/080208hntd9514m3.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/080208hntd9514m3.jpg
     caption: Pulau Hantu, Feb 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/080208hntd9514m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/080208hntd9514m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/250501skdlll1.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/250501skdlll1.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Low Liong Leong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/210401sntmn2.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/210401sntmn2.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/210228lazrk1.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/210228lazrk1.jpg
     caption: Lazarus Island, Feb 21 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/251009sjilvo3.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/251009sjilvo3.jpg
     caption: St John's Island, Oct 25 Photo shared by Lon Voon Ong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/170628jngll2.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/170628jngll2.jpg
     caption: Pulau Jong, Jun 17 Photo shared by Liz Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/151225tsmklks1m3.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/151225tsmklks1m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/oceanapia/210428slumn3.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/210428slumn3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

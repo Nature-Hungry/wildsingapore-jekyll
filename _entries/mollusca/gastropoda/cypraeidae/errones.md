@@ -1,6 +1,6 @@
 ---
 title: Wandering cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Wandering cowrie on the shores of Singapore
 keywords: wandering, cowrie, cypraeidae, erronea, errones, cypraea, gastropod, mollusc,
   snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -27,43 +27,42 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
     caption: Sisters Island, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5314m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/110123sisd5314m3.jpg
     caption: Shell cylindrical with one or two spots. Sisters Island, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
     caption: Teeth' not coloured. Sisters Island, Jan 11 '
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
     caption: Mama cowrie under a rock, protecting her egg mass with her foot. Sentosa,
       Apr 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/181126lablks.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/181126lablks.jpg
     caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/171108ecpmblks11.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/171108ecpmblks11.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/240212sjivc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/240212sjivc4.jpg
     caption: St John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/240309tkccn1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/240309tkccn1a.jpg
     caption: Pulau Tekukor, Mar 24 Photo shared by Chee Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/250712tplrk1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/250712tplrk1b.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/210501tbvc6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/210501tbvc6.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/170514bbbtch3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/170514bbbtch3.jpg
     caption: Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on facebook
       .
 links_references: '**Links**
 
   - [Wandering Cowrie (
-
   *Cypraea errones*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/141)
@@ -158,9 +157,7 @@ There may be one or two brown spots at the front tip of the shell, sometimes no 
 **Sometimes confused with**
 the
 [Ovum cowrie](ovum)
-(
-*Cypraea ovum*
-) which is similar but is pear-shaped, does not have spots at the front end of the shell and has 'teeth' that are tinged yellow or orange. Here's more on
+(*Cypraea ovum*) which is similar but is pear-shaped, does not have spots at the front end of the shell and has 'teeth' that are tinged yellow or orange. Here's more on
 [how to tell apart Wandering and Ovum cowries](cfcypraeidae)
 .
 

@@ -1,6 +1,6 @@
 ---
 title: Spurred turban snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spurred turban snail on the shores of Singapore
 keywords: spur, wheel, turban, turbo, astralium, astraea, calcar, turbinidae, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,44 +19,43 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg
     caption: Berlayar Creek, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg
     caption: Berlayar Creek, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg
     caption: Cyrene Reef, Jul 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/170723ubnjll3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/170723ubnjll3.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/251011labal4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/251011labal4.jpg
     caption: Labrador, Oct 25 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/240528tslvc5a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/240528tslvc5a.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/090512tmlks4m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/090512tmlks4m3a.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/090224lazlks09m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/090224lazlks09m3a.jpg
     caption: Lazarus Island, Dec 08 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/101206cyrlks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/101206cyrlks5m3.jpg
     caption: Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/180419cyjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/180419cyjll1.jpg
     caption: Cyrene Reef, Apr 18 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/241020hntvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/241020hntvc1.jpg
     caption: Pulau Hantu, Oct 24 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/100129smklks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/100129smklks1.JPG
     caption: Pulau Semakau, Jan 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/calcar/240822tsmktt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/240822tsmktt1.jpg
     caption: Terumbu Semakau, Aug 24 Photo shared by Tommy Tan on facebook .
 links_references: '**Links**
 
   - [Spurred turban (
-
   *Astralium calcar*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86822)
@@ -64,7 +63,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Spurred turban (
-
   *Astralium calcar*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

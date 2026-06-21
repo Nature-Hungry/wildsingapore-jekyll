@@ -1,6 +1,6 @@
 ---
 title: Sand sea stars
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sand sea stars on the shores of Singapore
 keywords: sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,7 +18,7 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
 links_references: "**Links**\n- [Sand star (*Astropecten*sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- *[Astropecten bengalensis](http://www.sealifebase.fisheries.ubc.ca/summary/Astropecten-bengalensis.html)*and[*Astropecten\
@@ -46,39 +46,39 @@ links_references: "**Links**\n- [Sand star (*Astropecten*sp.)](http://mangrove.n
   \ Reef Life of Singapore*. Singapore Science Centre. 128 pages."
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
     caption: Pasir Ris Park, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg
     caption: Large flat spines along the side of the arms. Changi, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050402cjg4016m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050402cjg4016m3b.jpg
     caption: Pointed tube feet. Chek Jawa, Apr 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/080702prpd6356m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6356m3.jpg
     caption: Three arms regenerating. Pasir Ris Park, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/080702prpd6348m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6348m3.jpg
     caption: Recently dead sand star disintegrating. Pasir Ris Park, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg
     caption: Tiny white snails sometimes seen on the sea star. Changi, Jun 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg
     caption: Painted sand star 6-8cm in diameter
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandpainted/050622chgg8118m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/050622chgg8118m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandpainted/050622chgg8118m3c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/050622chgg8118m3c.jpg
     caption: Arms flatter with larger marginal plates.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050426chgg5064m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3.jpg
     caption: Plain sand star 4-6cm in diameter
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050426chgg5064m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/050426chgg5064m3c.jpg
     caption: Arms not so flat with smaller marginal plates
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg
     caption: Orange sand star 10-15cm in diameter
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1087m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandorange/130809smkd1087m3a.jpg
     caption: Bright orange underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg
     caption: ''
 location:
 - pgl

@@ -1,6 +1,6 @@
 ---
 title: Feline flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feline flatworm on the shores of Singapore
 keywords: flat, worm, flatworm, pseudoceros, felis, polyclad, turbellaria, platyhelminthes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -10,12 +10,12 @@ genus: Pseudocerotid
 species: 8
 attributes: []
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/felis/091205sudd5623m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/felis/091205sudd5623m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/felis/091205sudlks12m6l.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/felis/091205sudlks12m6l.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/felis/091205sudd5623m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/felis/091205sudd5623m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -57,7 +57,7 @@ Seen once on a remote reef. Although it looks like
 
 8-10cm long. Body mottled cream or yellow with dark tiny blotches on a grey background. Edges with black irregular bars. Narrow orange with thin black margin. Underside uniformly grey with narrow orange and thin black margin. It has a pair of pseudotentacles at the front made up of folded edges of the body.
 
-![](https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/felis/091205sudd5623m3.jpg)
+![](https://images.naturehungry.sg/worm/polycladida/felis/091205sudd5623m3.jpg)
 
 *Pulau Sudong, Dec 09*
 

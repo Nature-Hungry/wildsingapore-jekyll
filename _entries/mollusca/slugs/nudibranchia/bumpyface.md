@@ -1,6 +1,6 @@
 ---
 title: Bumpy-faced armina nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bumpy-faced armina nudibranch on the shores of Singapore
 keywords: bumpy, face, armina, japonica, arminidae, arminacea nudibranchia, slug,
   seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -28,22 +28,22 @@ order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
     caption: Changi, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3a.jpg
     caption: '''Bumps'' on its ''face''.'
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050707cftg9069m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bumpyface/050707cftg9069m3.jpg
     caption: Wiggly lines under the mantle. Changi, Jul 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050818chgg1380m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bumpyface/050818chgg1380m3.jpg
     caption: Jelly-like egg mass next to it? Changi, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
     caption: Next to a sea pencil . Changi, Jun 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bumpyface/190221nsrctsc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bumpyface/190221nsrctsc1.jpg
     caption: On a spiky sea pen. East Coast Park, Feb 19 Photo shared by Teo Say Chong
       on facebook .
 links_references: '**Links**
@@ -93,9 +93,7 @@ This armina nudibranch is sometimes seen on Changi and some of our Northern shor
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken for**
 [Semper's armina nudibranch](semperi)
-(
-*Armina semperi*
-) that has a more colourful oral veil and foot and lacks 'bumps' on its face.
+(*Armina semperi*) that has a more colourful oral veil and foot and lacks 'bumps' on its face.
 
 **What does it eat?**
 As a group, the armina nudibranchs eat soft corals and sea pens. The bumpy-faced armina nudibranch is often seen near

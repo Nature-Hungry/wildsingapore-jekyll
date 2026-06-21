@@ -1,6 +1,6 @@
 ---
 title: Starry pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Starry pufferfish on the shores of Singapore
 keywords: starry, pufferfish, puffer, fish, arothon, stellatus, tetraodontidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -14,26 +14,25 @@ family: Tetraodontidae
 genus: Arothon
 species: stellatus
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
     caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore Biodiversity
       Records 2019:54-55
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro1a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/161214sjiro1a.jpg
     caption: Dead one that washed ashore. St. John's Island, Dec 16 Photo shared by
       Rene Ong on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/230608tmftky2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/230608tmftky2.jpg
     caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Kelvin Yong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
     caption: Dead/dying washed ashore. St. John's Island, Dec 16 Photo shared by Rene
       Ong on facebook .
 links_references: '**Links**
 
   - [Stellate puffer (
-
   *Arothron stellatus*
 
   )](http://www.fishbase.org/summary/6526)
@@ -56,7 +55,6 @@ links_references: '**Links**
   University of Singapore.
 
   - Tan Heok Hui. 29 July 2016. Starry pufferfish (
-
   *Arothon stellatus*
 
   ) with barnacles in its gut sold for food in a market. Singapore Biodiversity Records

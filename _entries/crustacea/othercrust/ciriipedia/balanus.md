@@ -1,6 +1,6 @@
 ---
 title: Acorn barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Acorn barnacle on the shores of Singapore
 keywords: acorn, barnacle, balanus, cirripedia, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,26 +22,26 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Balanoidea
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
     caption: Tuas, May 05 Acorn barnacles on a seawall.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg
     caption: Chek Jawa, Jan 05 On a rock
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg
     caption: Chek Jawa, Jan 16 On mangrove roots.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg
     caption: Changi, Jul 09 On a living flower crab .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg
+  - url: https://images.naturehungry.sg/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg
     caption: East Coast, Aug 09 On a living Purple climber crab .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg
     caption: Changi, Aug 05 Acorn barnacles on a living snail.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg
     caption: Sentosa, Jun 15 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg
     caption: East Coast Park, Jul 16 on a sea fan. Photo shared by Loh Kok Sheng on
       his blog .
 links_references: '**Links**
@@ -59,7 +59,6 @@ links_references: '**Links**
   ,
 
   [barnacles on crabs (
-
   *Balanus, Octolasmis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/269)
@@ -116,8 +115,7 @@ habitats:
 ## Where seen?
 This small rather pointy barnacle is commonly seen on many of our rocky shores and other hard surfaces in the sea such as jetty pilings, sea walls. Usually, many are crowded together in lower portions and shaded crevices where it is wetter. Unlike the hardier
 [star barnacles](euraphia)
-(
-*Euraphia*
+(*Euraphia*
 sp.) which are found higher up where it is drier.
 
 ## Features

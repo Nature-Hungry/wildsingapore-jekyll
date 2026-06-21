@@ -1,6 +1,6 @@
 ---
 title: Orange-spotted grouper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange-spotted grouper on the shores of Singapore
 keywords: orange, spotted, grouper, fish, epinephalus, coioides, serranidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,25 +23,24 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
     caption: Beting Bronok, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/140502chgmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/coioides/140502chgmn.jpg
     caption: Changi, May 14 Photo shared by Marcus Ng on flickr .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/060430skdg5868m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/coioides/060430skdg5868m3.jpg
     caption: Pulau Sekudu, Apr 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/180616bblks18.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/coioides/180616bblks18.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/120609bbrl.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/coioides/120609bbrl.jpg
     caption: Beting Bronok, Jun 12 Photo shared by Russel Low on facebook .
 links_references: '**Links**
 
   - [Orange-spotted Grouper (
-
   *Epinephelus coioides*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/268)
@@ -53,7 +52,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Orange-spotted Grouper (
-
   *Epinephelus coioides*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2103)
@@ -65,7 +63,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Orange-spotted grouper (
-
   *Epinephelus coioides*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6465)
@@ -77,7 +74,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Orange-spotted grouper (
-
   *Epinephelus coioides*
 
   )](http://research.kahaku.go.jp/zoology/Fishes_of_Libong/data/p028_02b.html)
@@ -91,7 +87,6 @@ links_references: '**Links**
   with details on similar families.
 
   - [Orange-spotted grouper (
-
   *Epinephelus coioides*
 
   )](http://research.kahaku.go.jp/zoology/Fishes_of_Bitung/data/p052_02b.html)

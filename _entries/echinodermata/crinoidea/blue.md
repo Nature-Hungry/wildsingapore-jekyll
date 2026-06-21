@@ -1,6 +1,6 @@
 ---
 title: Blue feather star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue feather star on the shores of Singapore
 keywords: feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -16,54 +16,54 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/060810rlhd5667m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/blue/060810rlhd5667m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/060810rlhd5667m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/060810rlhd5667m3.jpg
     caption: Raffles Lighthouse, Aug 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/060810rlhd5667m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/060810rlhd5667m3a.jpg
     caption: Upperside
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/060810rlhd5676m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/060810rlhd5676m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/070714bbg1416m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/070714bbg1416m3.jpg
     caption: Beting Bronok, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/060528bbd2369m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/060528bbd2369m3.jpg
     caption: Beting Bronok, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/030618bbd0057m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/030618bbd0057m3.jpg
     caption: Beting Bronok, Jun 03
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/030618bbd0025m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/030618bbd0025m3.jpg
     caption: Beting Bronok, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/100103sisd7524m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/100103sisd7524m3.jpg
     caption: Sisters Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/080605hntd4908m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/080605hntd4908m3.jpg
     caption: Pulau Hantu, Jun 08
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/251108ecpblks3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/251108ecpblks3.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/090624chglks3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/090624chglks3m3.jpg
     caption: Changi, Jun 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/080704skdlks01m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/080704skdlks01m3.jpg
     caption: Pulau Sekudu, Jul 08 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/090725tmlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/090725tmlks.JPG
     caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/090725tmlks2.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/090725tmlks2.JPG
     caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/200705ecpbslks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/200705ecpbslks2.jpg
     caption: East Coast Park, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/190422srpay2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/190422srpay2.jpg
     caption: Sentosa Serapong, Apr 19 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/210625vc4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/210625vc4.jpg
     caption: Kusu Island, Jun 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/100103sislks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/100103sislks.JPG
     caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on flickr .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/blue/080604hntlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/blue/080604hntlks.JPG
     caption: Pulau Hantu, Jun 08 Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg

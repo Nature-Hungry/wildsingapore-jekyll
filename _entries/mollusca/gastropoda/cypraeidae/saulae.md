@@ -1,6 +1,6 @@
 ---
 title: 'Saul''s cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Saul's cowrie  on the shores of Singapore
 keywords: saulcowrie, cypraeidae, palmadusta, cypraea, saulae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -27,14 +27,14 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Bistolidini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
     caption: Pulau Sekudu, Jul 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/saulae/130722skdd9776m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/saulae/130722skdd9776m3.jpg
     caption: ''
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Pisang-pisang
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pisang-pisang on the shores of Singapore
 keywords: pisang, kandelia, candel, rhizophoraceae, tree, mangrove, mangroves, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -21,14 +21,14 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 186322
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/kandelia/kandelia/090810prpd8958m3.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/kandelia/kandelia/090810prpd8958m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/kandelia/kandelia/090529prpd2985m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/kandelia/kandelia/090529prpd2985m3.jpg
     caption: Pasir Ris, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/kandelia/kandelia/090529prpd2911m3d.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/kandelia/kandelia/090529prpd2911m3d.jpg
     caption: Pinkish leaf stlaks, flattened stipule. Pasir Ris, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/kandelia/kandelia/090529prpd2983m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/kandelia/kandelia/090529prpd2983m3.jpg
     caption: Pasir Ris, May 09
 links_references: '**Links**
 
@@ -43,7 +43,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Pisang pisang (
-
   *Kandelia candel*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1064)
@@ -132,10 +131,10 @@ According to Burkill, the timber is too small for any real value and it only use
 **Status and threats:**
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/kandelia/kandelia/090810prpd8958m3.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/kandelia/kandelia/090810prpd8958m3.jpg)
 
 Pasir Ris, Aug 09*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/kandelia/kandelia/111015cjd2340m6l.jpg)*
+*![](https://images.naturehungry.sg/plants/mangrove/kandelia/kandelia/111015cjd2340m6l.jpg)*
 Propagule washed up on the shore.
 *Changi, Oct 11*
 

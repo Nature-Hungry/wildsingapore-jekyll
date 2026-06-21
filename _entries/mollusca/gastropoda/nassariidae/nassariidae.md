@@ -1,6 +1,6 @@
 ---
 title: Whelks
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Whelks on the shores of Singapore
 keywords: whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,45 +18,44 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
     caption: With a large barnacle on the shell. Changi, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg
     caption: Burrowing just beneath the sand with siphon sticking out. Changi, Aug
       05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg
     caption: With a pair of tiny sea anemone hitch-hikers. Chek Jawa, Apr 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
     caption: Whelks cleaning out a recently dead snail while a hermit crab waits patiently.
       Tanah Merah, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg
     caption: Whelk Joy! Dead fish! Chek Jawa, Sep 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg
     caption: A small fish all to itself. Sisters Island, Jan 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg
     caption: Mud whelk
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
     caption: Common whelk
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg
     caption: Black whelk
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg
     caption: Olive whelk
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg
     caption: Lined whelk
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
     caption: Prickly whelk
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
     caption: Speckled whelk
 links_references: '**Links**
 
   - [Mud whelk (
-
   *Nassarius jacksonianus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2087)

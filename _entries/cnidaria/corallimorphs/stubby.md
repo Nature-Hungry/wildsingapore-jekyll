@@ -1,6 +1,6 @@
 ---
 title: Stubby corallimorph
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stubby corallimorph on the shores of Singapore
 keywords: corallimorph, discosoma, nummiforme, discosomidae, ricordea, yuma, ricordeidae,
   corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -20,26 +20,26 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
     caption: Kusu Island, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/050611kusg7747m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/050611kusg7747m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/050611kusg7747m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/050611kusg7747m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
     caption: Pulau Hantu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/040705sisd2131m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/040705sisd2131m3.jpg
     caption: Sisters Island, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/070506sjig9212m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/070506sjig9212m3.jpg
     caption: St. John's Island, May 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/130528cyrmn.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/130528cyrmn.jpg
     caption: Cyrene Reef, May 13 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/160609thntmn3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/160609thntmn3.jpg
     caption: Terumbu Hantu, Jun 2016 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 
@@ -97,9 +97,7 @@ A study found that Stubby corallimorphs
 **
 can also look like
 [Beaded corallimorphs](beaded)
-(
-*Discosoma nummiforme*
-).
+(*Discosoma nummiforme*).
 
 **Status and threats:**
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

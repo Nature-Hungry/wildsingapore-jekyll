@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Straw sponge on the shores of Singapore
 keywords: straw, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,
 layout: entry
 shape: sausage
@@ -12,21 +12,21 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Sep 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/straw/070604chgg0125m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/straw/070604chgg0125m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/straw/070604chgg0125m3.jpg
+  - url: https://images.naturehungry.sg/porifera/straw/070604chgg0125m3.jpg
     caption: Changi, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/straw/070801kusd4860m3.jpg
+  - url: https://images.naturehungry.sg/porifera/straw/070801kusd4860m3.jpg
     caption: Kusu Island, Aug 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/straw/050526cj6884m3.jpg
+  - url: https://images.naturehungry.sg/porifera/straw/050526cj6884m3.jpg
     caption: Chek Jawa, May 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/straw/020101cjcpd3763m3.jpg
+  - url: https://images.naturehungry.sg/porifera/straw/020101cjcpd3763m3.jpg
     caption: Chek Jawa, Jan 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/straw/071002chgd6865m3.jpg
+  - url: https://images.naturehungry.sg/porifera/straw/071002chgd6865m3.jpg
     caption: Changi, Oct 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/straw/120111chgs01918m3.jpg
+  - url: https://images.naturehungry.sg/porifera/straw/120111chgs01918m3.jpg
     caption: Changi, Jan 12
 location:
 - pgl

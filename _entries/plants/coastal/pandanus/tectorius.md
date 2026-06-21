@@ -1,6 +1,6 @@
 ---
 title: 'Mengkuang '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mengkuang  on the shores of Singapore
 keywords: pandan, pandanus, tectorius, pandanaceae, creeper, plant, bush, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,7 +23,7 @@ class: Liliopsida
 order: Pandanales
 inat_id: 70026
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg
 links_references: '**Links**
 
   - [*Pandanus tectorius*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5242)on
@@ -53,11 +53,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/120407lazd8215m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pandanus/tectorius/120407lazd8215m3.jpg
     caption: Female flower a green gloobular cone. Lazarus, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/090315smkd8276m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pandanus/tectorius/090315smkd8276m3a.jpg
     caption: Male flowers.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/090315smkd8276m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pandanus/tectorius/090315smkd8276m3.jpg
     caption: Male flowers tiny white in a long cone. Pulau Semakau, Mar 09
 size:
 - 200.0
@@ -101,16 +101,16 @@ The leaves are widely used to make matting, bags. To prepare the leaves for weav
 
 The sweet smelling male flowers are used by women in their hair or to prepare scented oils. Medicinal uses include using the young leaves as an antidote for poisoning.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg)*
+*![](https://images.naturehungry.sg/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg)*
 Can grow into a tall tree!
 
 *Pulau Semakau, May 07*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/051018smkg2732m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/pandanus/tectorius/051018smkg2732m3.jpg)
 
 *Pulau Semakau, Oct 05
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pandanus/tectorius/070520smkg9558m3.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/pandanus/tectorius/070520smkg9558m3.jpg)*
 Compound fruit that resembles a pineapple.
 *Pulau Semakau, May 07*
 **

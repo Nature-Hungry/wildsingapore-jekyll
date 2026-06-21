@@ -1,6 +1,6 @@
 ---
 title: Semper's armina nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Semper's armina nudibranch on the shores of Singapore
 keywords: semper, armina, semperi, arminidae, arminacea nudibranchia, slug, seaslug,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -28,39 +28,39 @@ order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
     caption: Changi, May 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/060612chgg6146m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/060612chgg6146m3a.jpg
     caption: Colourful oral veil without bumps. Changi, Jun 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/071001chgd6757m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/071001chgd6757m3.jpg
     caption: Underside. Changi, Oct 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/050623cjg8415m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/050623cjg8415m6l.jpg
     caption: Gills under the mantle skirt. Chek Jawa, Jun 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m6l.jpg
     caption: About to eat this Flowery sea pen ? Changi, Aug 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg
     caption: About to eat this Spiky sea pen ? Beting Bronok, Jun 18
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg
     caption: About to eat this Flowery sea pen ? Changi, Aug 19 Photo shared by Loh
       Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg
     caption: Eating a Sea pencil ? Changi, Jul 20 Photo shared by Toh Chay Hoon on
       facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/201020chgsafmn5.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/201020chgsafmn5.jpg
     caption: Changi, Oct 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/251107chgmn7.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/251107chgmn7.jpg
     caption: Changi Carpark 1, Oct 25 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/120508skdtch1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/120508skdtch1m3.jpg
     caption: Pulau Sekudu, May 12 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/semperi/070714bblks01m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/070714bblks01m3.jpg
     caption: Beting Bronok, Jul 07 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 
@@ -136,8 +136,7 @@ the
 [bumpy-faced armina nudibranch](bumpyface)
 , that has a plain oral veil and foot and has bumps on its 'face'. The
 [Tiny striped nudibranch](dermatobranchus)
-(
-*Dermatobranchus*
+(*Dermatobranchus*
 sp.) is also striped but is much smaller.
 
 **What does it eat?**

@@ -1,6 +1,6 @@
 ---
 title: 'Agaricid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Agaricid corals  on the shores of Singapore
 keywords: agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -16,21 +16,21 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg
     caption: Ringed plate coral. Pulau Semakau, Aug 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/castle/110717tbd7228m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/castle/110717tbd7228m3.jpg
     caption: Castle coral. Terumbu Bemban, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pavona/180715thntm3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pavona/180715thntm3.jpg
     caption: Lettuce coral. Terumbu Hantu, Jul 18
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg
     caption: Ringed plate coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
     caption: Castle coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3.jpg
     caption: Lettuce coral
 links_references: '**Links**
 

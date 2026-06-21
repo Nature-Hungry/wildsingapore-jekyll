@@ -1,6 +1,6 @@
 ---
 title: Leopard triton snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Leopard triton snail on the shores of Singapore
 keywords: cymatium, ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,24 +18,24 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
     caption: Changi, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/120510chgd3022m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/cymatium/120510chgd3022m3.jpg
     caption: Changi, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/120624cyrs09472m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/cymatium/120624cyrs09472m3.jpg
     caption: Cyrene Reef, Jun 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/120704chglks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/cymatium/120704chglks1.JPG
     caption: Changi, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/120704chglks3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/cymatium/120704chglks3a.jpg
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/120704chglks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/cymatium/120704chglks2.JPG
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/090626cyrtch.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/cymatium/090626cyrtch.jpg
     caption: Chek Jawa, Jun 09 Photo shared by Toh Chay Hoon on flickr .
 location:
 - chg

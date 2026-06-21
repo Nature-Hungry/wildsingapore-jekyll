@@ -1,6 +1,6 @@
 ---
 title: Hydroids
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hydroids on the shores of Singapore
 keywords: hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,45 +17,45 @@ subclass: Hydroidolina
 order: Anthoathecata
 suborder: Filifera
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
     caption: Colourful Candy hydroids . Tuas, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/140420sisd4964.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/140420sisd4964.jpg
     caption: Blue button jellyfish (Porpita porpita) Sisters Island, Apr 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
     caption: This jellyfish belongs to Class Hydrozoa. Tuas, Apr 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
     caption: Tiny polyps of the fern hydroid . Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg
     caption: Polyp of fluffy hydroid . Changi, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg
     caption: Capsules of candy hydroids . Pulau Sekudu, May 12
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg
     caption: Grass-like pale stinging hydroids . Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg
     caption: Tiny tentacles of stinging hydroids . Changi, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
     caption: Cuthona nudibranch on Fern hydroid Beting Bronok, Aug 06
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
     caption: Stinging hydroids
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg
     caption: Candy hydroids
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
     caption: Fluffy hydroids
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
     caption: Fern hydroids
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
     caption: Delicate hydroids
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
     caption: Seagrass hydroids grows on seagrasses.
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg
     caption: Giant hydroids
 links_references: '**Links**
 
@@ -162,16 +162,14 @@ The colony may be made up of two different kinds of polyps. Feeding polyps look 
 
 Other polyps function as reproductive organs and often don't have tentacles. Some hydroids have defensive polyps, usually club-shaped and well armed with stingers that can inject toxins or are sticky. These not only protect the colony but may also help to capture tiny prey.
 
-Fire corals (
-*Millepora*
+Fire corals (*Millepora*
 sp.) are hydroids that produce a massive skeleton so they appear to be hard corals. As their name suggests, these animals have powerful stingers.
 
 [Stinging hydroids](stinging)
 inflict powerful stings that can leave painful and hideous scars on the bare skin of careless visitors or divers.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
-The feeding polyps gather food with tiny tentacles armed with stinging cells. The digested nutrients are shared with the rest of the colony. Some hydroids such as Fire corals (
-*Millepora*
+The feeding polyps gather food with tiny tentacles armed with stinging cells. The digested nutrients are shared with the rest of the colony. Some hydroids such as Fire corals (*Millepora*
 sp.) harbour symbiotic algae (zooxanthellae) in their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals.
 
 **Living on a hydroid**

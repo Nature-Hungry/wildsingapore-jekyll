@@ -1,6 +1,6 @@
 ---
 title: Very long ribbon worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Very long ribbon worm on the shores of Singapore
 keywords: ribbon, worm, ribbonworm, baseodiscus, delineatus, nemertine, nemertean,
   nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -16,86 +16,86 @@ phylum: Nemertea
 class: Pilidiophora
 order: Heteronemertea
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091205sudd5587m3.jpg
+coverimg: https://images.naturehungry.sg/worm/nemertea/verylong/091205sudd5587m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091205sudd5587m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/091205sudd5587m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091205sudd5585m6l.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/091205sudd5585m6l.jpg
     caption: Pulau Sudong, Dec 09
   gallery2:
   - url: https://live.staticflickr.com/7840/40198567853_c340839a64_z.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/170529srpay4.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/170529srpay4.jpg
     caption: Sentosa Serapong, May 17 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/210824tkkjll3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/210824tkkjll3.jpg
     caption: Pulau Tekukor, Aug 21 Photo shared by Jianlin Liu on facebook
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/201019sjijll2.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/201019sjijll2.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/190123lazjll1.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/190123lazjll1.jpg
     caption: Lazarus, Feb 19 Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/090509sislks1m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/090509sislks1m3.jpg
     caption: Sisters Island, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/250201bsisrk1.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/250201bsisrk1.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/251011ssisll1.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/251011ssisll1.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Tammy Lim on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/101224sisjk12m6l.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/101224sisjk12m6l.jpg
     caption: Sisters Island, Dec 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/150220lsistch1m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/150220lsistch1m3.jpg
     caption: Little Sisters Island, Feb 15 Photo shared by Toh Chay Hoon on facebook
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/241020hnttl2.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/241020hnttl2.jpg
     caption: Pulau Hantu, Oct 24 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/100725hnttch1m6l.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/100725hnttch1m6l.jpg
     caption: Pulau Hantu, Jul 10 Photo shared by Toh Chay Hoon on her blog .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/100616cyrlks1m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/100616cyrlks1m3.jpg
     caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/250726cyrtl7.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/250726cyrtl7.jpg
     caption: Cyrene, Jul 25 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/260202smkemn2.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/260202smkemn2.jpg
     caption: Pulau Semakau East, Feb 26 Photo shared by Marcus Ng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/160124smkelks3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/160124smkelks3.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/160124smkelks3a.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/160124smkelks3a.jpg
     caption: ''
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091106smkjk1m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/091106smkjk1m3.jpg
     caption: Pulau Semakau, Nov 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/201018smkslks3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/201018smkslks3.jpg
     caption: Pulau Semakau South, Oct 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/230902smkky2.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/230902smkky2.jpg
     caption: Pulau Semakau North, Sep 23 Photo shared by Kelvin Yong on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/170311bbbrk.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/170311bbbrk.jpg
     caption: Beting Bemban Besar, Mar 17 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/200624tryvc1.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/200624tryvc1.jpg
     caption: Terumbu Raya, Jun 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/180717tbll4.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/180717tbll4.jpg
     caption: Terumbu Bemban, Jul 18 Photo shared by Liz Lim on facebook .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/100629pdrd7479m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/100629pdrd7479m3.jpg
     caption: Terumbu Pempang Darat, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/220103tplvc3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/220103tplvc3.jpg
     caption: Terumbu Pempang Laut, Jan 22 Photo shared by Vincent Choo on facebook
       .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/100130brkd8577m6l.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/100130brkd8577m6l.jpg
     caption: Terumbu Berkas, Jan 10
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091205pawlks10m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/091205pawlks10m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091204pawjk8m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/091204pawjk8m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
 links_references: '**Links**
 

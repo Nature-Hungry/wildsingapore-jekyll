@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elegant branching sponge on the shores of Singapore
 keywords: elegant, branching, sponge, haliclona, chalinidae, porifera, field, guide,
 layout: entry
 shape: branching
@@ -16,17 +16,17 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/100727chgd9336m6l.jpg
+coverimg: https://images.naturehungry.sg/porifera/elegantbranch/100727chgd9336m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/060613ecpd3003m3.jpg
+  - url: https://images.naturehungry.sg/porifera/elegantbranch/060613ecpd3003m3.jpg
     caption: East Coast, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/030520bbd0015m3.jpg
+  - url: https://images.naturehungry.sg/porifera/elegantbranch/030520bbd0015m3.jpg
     caption: Beting Bronok, May 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/060516chgd2019m3.jpg
+  - url: https://images.naturehungry.sg/porifera/elegantbranch/060516chgd2019m3.jpg
     caption: Changi, May 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/160125obslks1.jpg
+  - url: https://images.naturehungry.sg/porifera/elegantbranch/160125obslks1.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
@@ -74,15 +74,15 @@ This elegant branching sponge is often seen on our Northern shores, growing on h
 
 The sponge looks like thin roots that spread out over a hard surface. Branches thin (about 2cm wide) tapering to points. Some have recessed holes along the length, others have spikes, knobs with large holes or short hollow tubes along the length. The entire sponge may cover an area of about 30cm. Colours bright light blue, bright purple or olive green. Sometimes bright yellow.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/100727chgd9336m6l.jpg)
+![](https://images.naturehungry.sg/porifera/elegantbranch/100727chgd9336m6l.jpg)
 
 *Changi, Jul 10*
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/050721cjd5123m3.jpg)
+![](https://images.naturehungry.sg/porifera/elegantbranch/050721cjd5123m3.jpg)
 
 *Chek Jawa, Jul 05*
 
-*![](https://f003.backblazeb2.com/file/naturehungry/porifera/elegantbranch/050721cjd5123m3b.jpg)*
+*![](https://images.naturehungry.sg/porifera/elegantbranch/050721cjd5123m3b.jpg)*
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

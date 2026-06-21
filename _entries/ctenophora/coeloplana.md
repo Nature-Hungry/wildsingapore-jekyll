@@ -1,6 +1,6 @@
 ---
 title: Leathery soft coral ctenophores
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Leathery soft coral ctenophores on the shores of Singapore
 keywords: coeloplana, ctenophora, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -15,19 +15,19 @@ phylum: Ctenophora
 class: Tentaculata
 order: Platyctenida
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/111128sntd4108m6la.jpg
+coverimg: https://images.naturehungry.sg/ctenophora/coeloplana/111128sntd4108m6la.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/111128sntd4108m6la.jpg
+  - url: https://images.naturehungry.sg/ctenophora/coeloplana/111128sntd4108m6la.jpg
     caption: Sentosa, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/120819cyrd0493m3.jpg
+  - url: https://images.naturehungry.sg/ctenophora/coeloplana/120819cyrd0493m3.jpg
     caption: Cyrene Reef, Aug 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/100528ttkkd3747m3.jpg
+  - url: https://images.naturehungry.sg/ctenophora/coeloplana/100528ttkkd3747m3.jpg
     caption: Pulau Tekukor, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/120722cyrd8101m3.jpg
+  - url: https://images.naturehungry.sg/ctenophora/coeloplana/120722cyrd8101m3.jpg
     caption: Cyrene Reef, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/120819cyrd0430m3.jpg
+  - url: https://images.naturehungry.sg/ctenophora/coeloplana/120819cyrd0430m3.jpg
     caption: Cyrene Reef, Aug 12
 links_references: '**Links**
 

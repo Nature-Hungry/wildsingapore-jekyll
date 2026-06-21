@@ -1,6 +1,6 @@
 ---
 title: 'Orange signaller crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange signaller crab  on the shores of Singapore
 keywords: orange, signaller, metaplax, elegans, varunidae, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -29,19 +29,18 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 subfamily: Cyclograpsinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
     caption: Mandai, Feb 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg
     caption: Mandai, Feb 13
 links_references: '**Links**
 
   - [Orange signaller crab (
-
   *Metaplax elegans*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2051)
@@ -53,7 +52,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Orange signaller crab (
-
   *Metaplax elegans*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1742)

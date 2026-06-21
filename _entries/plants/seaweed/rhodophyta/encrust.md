@@ -1,6 +1,6 @@
 ---
 title: Encrusting coralline red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Encrusting coralline red seaweed on the shores of Singapore
 keywords: encrusting, coralline, red, seaweed, weed, algae, mesophyllum, hydrolithon,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -23,36 +23,36 @@ subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
 updated: Sep 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
     caption: Encrusting dead coral. Sentosa, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
     caption: Encrusting a rock. Sisters Island, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg
     caption: Encrusting a Hammer oyster . Pulau Semakau. Feb 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/seagrass/thalassia/041019labd7736m3b.jpg
+  - url: https://images.naturehungry.sg/seagrass/thalassia/041019labd7736m3b.jpg
     caption: The whitish stuff that grows on seagrass leaves is probably also coralline
       algae Labrador, Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/081030sntd1456m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/081030sntd1456m3.jpg
     caption: Encrusting seagrasses. Sentosa, Oct 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/110220lazd6287m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/110220lazd6287m3.jpg
     caption: Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100103sisd7479m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/100103sisd7479m3.jpg
     caption: Sisters Islands, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg
     caption: Sisters Islands, Jan 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100810sngd9944m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/100810sngd9944m3a.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/100617tbd6269m3c.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/100617tbd6269m3c.jpg
     caption: Terumbu Bemban, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/091204pawd5392m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/091204pawd5392m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 

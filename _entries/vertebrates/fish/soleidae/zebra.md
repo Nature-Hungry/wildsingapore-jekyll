@@ -1,6 +1,6 @@
 ---
 title: Zebra sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Zebra sole on the shores of Singapore
 keywords: zebra, flat, fish, flatfish, sole, zebrias, soleidae, pleuronectiformes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,17 +24,17 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg
     caption: Changi, Aug 17
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/zebra/100612chgd5283m6l.jpg
     caption: Changi, Jun 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/zebra/100612chgd5283m3a.jpg
     caption: Colourful tail!
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
     caption: Eyes on the right side. Tiny spines sticking out near the gill covers.
   gallery3:
   - url: https://live.staticflickr.com/4341/36704530105_cd62082eba_z.jpg
@@ -42,7 +42,6 @@ galleries:
 links_references: '**Links**
 
   - [Zebra Sole (
-
   *Zebrias zebra*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/388)
@@ -54,7 +53,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp. Family Soleidae .
 
   - [Zebra sole (
-
   *Zebrias zebra*
 
   )](http://www.fishbase.org/summary/8999)

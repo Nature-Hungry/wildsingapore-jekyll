@@ -1,6 +1,6 @@
 ---
 title: Fan clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fan clams on the shores of Singapore
 keywords: fan, pen, shell, fanshell, clam, pinnidae, pinna, bivalve, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -22,61 +22,61 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pinnoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
     caption: Byssus threads on the narrow end of the shell anchor the animal in the
       ground. Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/011021cjd0933m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/011021cjd0933m3.jpg
     caption: The razor-sharp edge can cut barefoot visitors . Chek Jawa, Oct 01
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/060625bbd3447m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/060625bbd3447m3.jpg
     caption: When submerged, the valves of a living clam open slightly and the animal
       filter feeds Beting Bronok, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2921m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2921m3.jpg
     caption: All kinds of animals stuck on a Fan shell. Changi, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
     caption: Keelworms on the portion of the shell above the ground. Pulau Sekudu,
       Jun 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch2.jpg
     caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo
       shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch1.jpg
     caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo
       shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg
     caption: A fang-blenny guarding eggs laid inside a dead Fan shell. Tanah Merah,
       Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2790m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2790m3.jpg
     caption: Crab and Drills hiding in a dead Fan shell. Changi, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/120510chgs07181m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgs07181m3.jpg
     caption: Eggs laid on the inside of a dead Fan shell. Changi, May 12
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/190218cnyrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/190218cnyrk1.jpg
     caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/250909lazlks8.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/250909lazlks8.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on
       facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/160508kusjt13.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/160508kusjt13.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/111001sjiro4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/111001sjiro4m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Rene Ong on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/160208smkshpy2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/160208smkshpy2.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/100617tblks4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/100617tblks4m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/250812tbal4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/250812tbal4.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Adriane Lee on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pinnidae/pinnidae/100130brklks8m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/100130brklks8m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/pinnidae/pinnidae/100601slud4790m3.jpg
+  - url: https://images.naturehungry.sg/pinnidae/pinnidae/100601slud4790m3.jpg
     caption: Pulau Salu, Jun 10
   gallery10:
   - url: https://live.staticflickr.com/7906/32210599507_87b4528e75_z.jpg
@@ -85,7 +85,6 @@ galleries:
 links_references: '**Links**
 
   - [Indo-Pacific fan shell (
-
   *Atrina vexillum*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=210)
@@ -93,7 +92,6 @@ links_references: '**Links**
   and
 
   [Two coloured fan shell (
-
   *Pinna bicolor*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=16)
@@ -122,7 +120,6 @@ links_references: '**Links**
   - [Fan Mussel](http://www.marlin.ac.uk/species/Atrinafragilis)
 
   (
-
   *Atrina fragilis*
 
   ) on the Marine Life Information Network for Britain and Ireland website: fact sheet
@@ -223,8 +220,7 @@ Species are difficult to positively identify without close examination. On this 
 Like other bivalves, fan clams are filter feeders. At high tide, they open their shells a little. They then generate a current of water through the shell and sieve out the food particles with enlarged gills. When the tide goes out, they clamp up their shells tightly to prevent water loss.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Role in the ecosystem:**
-All manner of seaweeds and encrusting animals often settle on the portions of the fan clam that sticks out above the sand, even when the clam is still alive. These provide food and shelter for small animals. The tiny Pea crab (
-*Pinnotheres*
+All manner of seaweeds and encrusting animals often settle on the portions of the fan clam that sticks out above the sand, even when the clam is still alive. These provide food and shelter for small animals. The tiny Pea crab (*Pinnotheres*
 sp.) and small snapping shrimps are sometimes found living inside these clams. The crab not only gains shelter but also eats some of the food gathered by the fan shell host. The space between the valves of a dead fan clam is a safe space for animals to shelter or lay their eggs.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
@@ -236,9 +232,7 @@ Fan clams are edible and were once plentiful in Singapore and collected as food.
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
-It is said that in the past, people collected the long, golden byssus threads of the Noble pen shell (
-*Pinna nobilis*
-), a fan clam found in the Mediterranean. The threads were woven into a delicate and fine 'cloth of gold'. Some suggest that the 'Golden Fleece' of Greek mythology was made out of the byssus threads of this clam.
+It is said that in the past, people collected the long, golden byssus threads of the Noble pen shell (*Pinna nobilis*), a fan clam found in the Mediterranean. The threads were woven into a delicate and fine 'cloth of gold'. Some suggest that the 'Golden Fleece' of Greek mythology was made out of the byssus threads of this clam.
 
 Some other species of fan clams have byssus hairs that are so similar to human hair that people refuse to eat the animals.
 

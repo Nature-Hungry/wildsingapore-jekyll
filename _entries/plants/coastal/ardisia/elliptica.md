@@ -1,6 +1,6 @@
 ---
 title: 'Mata pelandok '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mata pelandok  on the shores of Singapore
 keywords: ardisia, elliptica, primulaceae, myrsinaceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -22,14 +22,14 @@ order: Ericales
 subfamily: Myrsinoideae
 inat_id: 158587
 updated: Nov 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090905sbwrd0268m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090905sbwrd0268m3a.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090425prpd0367m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090425prpd0367m3a.jpg
     caption: Pasir Ris, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090425prpd0367m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090425prpd0367m3.jpg
     caption: Pasir Ris, Apr 09
 links_references: '**Links**
 
@@ -122,12 +122,12 @@ or 'Heartache Leaf'. According to Wee, the Malays use a decoction of the leaves 
 **Status and threats:**
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore. But in other parts of the world outside its natural range, this plant is considered an invasive introduced weed. Its ability to tolerate shade causes it to form dense carpets which exclude native plants.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg)
 
 Planted specimen.
 *Chek Jawa, Mar 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg)
 
 Chek Jawa, Mar 09*
 

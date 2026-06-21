@@ -1,6 +1,6 @@
 ---
 title: Black-spotted lagoon-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-spotted lagoon-goby on the shores of Singapore
 keywords: black, spotted, lagoon, goby, istigobius, goldmanni, fish, gobiidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,35 +24,34 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
     caption: Tanah Merah Ferry Terminal, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m6l.jpg
     caption: Pairs of close-set round black spots along the side of the body. Tanah
       Merah, Jul 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/170624cjmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/170624cjmn.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/141223tusjll3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/141223tusjll3m3.jpg
     caption: Tuas, Dec 14 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/171009blymn3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/171009blymn3.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/110220lazmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/110220lazmn.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/250727smkwrk4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/250727smkwrk4.jpg
     caption: Pulau Semakau (West), Jul 25 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/goldmanni/110517tptik7m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/110517tptik7m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**
 
   - [Goldman''s goby (
-
   *Istigobius goldmanni*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=4327)

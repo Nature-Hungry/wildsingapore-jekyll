@@ -1,6 +1,6 @@
 ---
 title: Crinkled sandpaper coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Crinkled sandpaper coral on the shores of Singapore
 keywords: sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,43 +17,43 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/050625labg8651m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/050625labg8651m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/050625labg8651m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/050625labg8651m3.jpg
     caption: Labrador, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/050625labg8655m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/050625labg8655m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/050625labg8655m3f.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/050625labg8655m3f.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/051105sisg2950m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/051105sisg2950m3.jpg
     caption: Sisters Island, Nov 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/051105sisg2951m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/051105sisg2951m3.jpg
     caption: Short pointy tentacles.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/070102sisd7350m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/070102sisd7350m3.jpg
     caption: Sisters Island, Jan 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/100812tpld0251m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/100812tpld0251m3.jpg
     caption: Terumbu Pempang Laut, Aug 10 A tiny clam .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/070630sisd2871m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/070630sisd2871m3.jpg
     caption: Sisters Island, Jun 07
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3676m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3676m3.jpg
     caption: Sisters Island, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg
     caption: St. John's Island, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/070518tkrd0969m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/070518tkrd0969m3.jpg
     caption: Pulau Tekukor, May 07 A fan worm retracted into its tube.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/100130brkd8638m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/100130brkd8638m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/091204pawd5283m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/091204pawd5283m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/100613sngd5554m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/100613sngd5554m3.jpg
     caption: Pulau Senang, Jun 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/psammocoridae/crinkled/100601slud4987m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/100601slud4987m3.jpg
     caption: Pulau Salu, Jun 10
 location:
 - ecp

@@ -1,6 +1,6 @@
 ---
 title: 'Bubble ascidians  '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bubble ascidians   on the shores of Singapore
 keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -15,27 +15,27 @@ attributes:
 - 139
 - 150
 - 129
-coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/120508skdd1962m3.jpg
+coverimg: https://images.naturehungry.sg/ascidiacea/bubble/120508skdd1962m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/120508skdd1962m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/bubble/120508skdd1962m3.jpg
     caption: Clavelina sp.? Pulau Sekudu, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/120508skdd1967m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/bubble/120508skdd1967m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/120508skdd1969m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/bubble/120508skdd1969m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/120820sisd0781m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/bubble/120820sisd0781m3.jpg
     caption: Ecteinascidia thurstoni? Sisters Island, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/120820sisd0781m3a.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/bubble/120820sisd0781m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/120820sisd0781m3b.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/bubble/120820sisd0781m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/180617skdlks3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/bubble/180617skdlks3.jpg
     caption: Ecteinascidia thurstoni? Pulau Sekudu, Jun 18 Photo shared by Loh Kok
       Sheng on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/bubble/180617skdlks3a.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/bubble/180617skdlks3a.jpg
     caption: ''
 links_references: '**Links**
 

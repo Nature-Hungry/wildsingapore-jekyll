@@ -1,6 +1,6 @@
 ---
 title: Lined       whelk
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lined       whelk on the shores of Singapore
 keywords: whelk, nassarius, teretiusculus, nassariidae, gastropod, mollusc, shell,
   snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info
@@ -10,18 +10,18 @@ genus: Nassarius
 species: teretiusculus*
 attributes: []
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/lined/110829ecpd0140m6la.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/lined/110829ecpd0140m6la.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/lined/110829ecpd0140m6la.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/lined/110829ecpd0140m6la.jpg
     caption: East Coast Park, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/lined/050711tmg9452m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/lined/050711tmg9452m3.jpg
     caption: Tanah Merah, Jul 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
     caption: Whelks cleaning out a recently dead snail while a hermit crab waits patiently.
       Tanah Merah, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/lined/110829ecpd0142m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/lined/110829ecpd0142m3.jpg
     caption: East Coast Park, Aug 11
 location:
 - chg

@@ -1,6 +1,6 @@
 ---
 title: Branching pore coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Branching pore coral on the shores of Singapore
 keywords: goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,45 +17,45 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/060527sjid2124m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/060527sjid2124m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/060527sjid2124m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/060527sjid2124m3.jpg
     caption: St. John's Island, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/060527sjig6062m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/060527sjig6062m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/060527sjig6062m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/060527sjig6062m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/100201hntd9138m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/100201hntd9138m3.jpg
     caption: Pulau Hantu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/050820bbd5737m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/050820bbd5737m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/070701hntd3048m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/070701hntd3048m3.jpg
     caption: Pulau Hantu, Jul 07 With a tiny clam wedged among the branches.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/091204pawd5304m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/091204pawd5304m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/091204pawd5306m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/091204pawd5306m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/091204pawd5241m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/091204pawd5241m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/100130brkd8546m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/100130brkd8546m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/100131slud8833m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/100131slud8833m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/100130brkd8526m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/100130brkd8526m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/100130brkd8546m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/100130brkd8546m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/100131slud8833m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/100131slud8833m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/100613sngd5424m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/100613sngd5424m3.jpg
     caption: Pulau Senang, Jun 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/100811slud0140m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/100811slud0140m3.jpg
     caption: Pulau Salu, Aug 10
 location:
 - skd

@@ -1,6 +1,6 @@
 ---
 title: Mangrove bumblebee goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove bumblebee goby on the shores of Singapore
 keywords: mangrove, bumblebee, bumble, bee, goby, brachygobius, kabiliensis, fish,
   gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -24,20 +24,19 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg
     caption: Mandai mangroves, Feb 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/110822admd9795m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/kabiliensis/110822admd9795m6l.jpg
     caption: Admiralty Park, Aug 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/kabiliensis/251200admrqo3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/kabiliensis/251200admrqo3.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 
   - [Bumblebee goby (
-
   *Brachygobius kabillensis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
@@ -49,7 +48,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Kabili bumblebee goby (
-
   *Brachygobius kabiliensis*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=25067)
@@ -95,9 +93,7 @@ habitats:
 ---
 
 ## Where seen?
-This tiny banded goby is commonly seen in our mangroves, in pools at low tide. This goby is different from the Bumblebee goby (
-*Brachygobius doriae*
-) in the aquarium trade. Elsewhere, it is found in fresh and brackish water including in mangroves.
+This tiny banded goby is commonly seen in our mangroves, in pools at low tide. This goby is different from the Bumblebee goby (*Brachygobius doriae*) in the aquarium trade. Elsewhere, it is found in fresh and brackish water including in mangroves.
 
 ## Features
 

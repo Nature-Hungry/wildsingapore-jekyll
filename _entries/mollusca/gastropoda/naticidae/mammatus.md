@@ -1,6 +1,6 @@
 ---
 title: 'Bosom moon snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bosom moon snail  on the shores of Singapore
 keywords: bosom, breast, shaped, moon, snail, shell, polinices, mammatus, naticidae,
   gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -10,28 +10,28 @@ genus: Polinices
 species: mammatus
 attributes: []
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
     caption: Pulau Hantu, Mar 22
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/220302hnt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/220302hnt1.jpg
     caption: Pulau Hantu, Mar 22
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/220302hnt3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/220302hnt3.jpg
     caption: Pulau Hantu, Mar 22
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/110705chgd5821m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/110705chgd5821m3.jpg
     caption: This one seemed to be dying. Changi, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg
     caption: This one seemed to be dying. Changi, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/130624chg.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/130624chg.jpg
     caption: Living snail, body is huge. Changi, Jun 13
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/200706skdlks8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/200706skdlks8.jpg
     caption: Pulau Sekudu, Jul 20 Photo by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1.jpg
     caption: East Coast (G), Dec 22
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1b.jpg
     caption: Photo by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

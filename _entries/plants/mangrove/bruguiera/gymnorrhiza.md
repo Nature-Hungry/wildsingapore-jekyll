@@ -1,6 +1,6 @@
 ---
 title: Tumu
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tumu on the shores of Singapore
 keywords: tumu, bruguiera, gymnorrhiza, rhizophoraceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -24,26 +24,25 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 1361284
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3a.jpg
     caption: Opened 'pouch' petals.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/110301sbwrd6661m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/110301sbwrd6661m3a.jpg
     caption: '''Pouched'' petals not yet open. Sungei Buloh Wetland Reserve, Mar 11'
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9537m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9537m3.jpg
     caption: Calyx may be yellow. Lim Chu Kang, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg
     caption: Tassels on petal tips. Chek Jawa, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg
     caption: Sepals bend towards the propagule. Pasir Ris Park, Aug 09
 links_references: '**Links**
 
   - [Tumu (
-
   *Bruguiera gymnorrhiza*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1054)
@@ -148,17 +147,17 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 
 According to Burkill, tannin extracted from it is used to treat fishing lines as well as a black dye. The hypocotyls are eaten, after boiling and scraping the outer skin, "but not when there is anything better available". The bark is used to flavour raw fish, but "eating too much is dangerous". Leaves are also served raw as flavouring. Medicinal uses include the bark as an astrigent in diarrhoea and sometimes to treat malaria in Cambodia. According to Giersen, in Indonesia, a sweet meat is made out of the inner hypocotyl flesh plus sugar. The red timber is hard and used for heavy duty purposes such as foundation pilings, mine timbers, house posts. As well as furniture and cabinet work. Also as firewood and for making charcoal.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg)
 
 Erosion reveals buttess and knee roots.
 *Lim Chu Kang, May 11
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9498m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9498m3.jpg)
 
 Buttress roots and knee roots.
 
 Lim Chu Kang, Apr 09*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5887m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5887m3.jpg)
 
 Large flowers, each on one stalk.
 

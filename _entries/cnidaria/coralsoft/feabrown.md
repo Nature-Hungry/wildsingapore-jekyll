@@ -1,6 +1,6 @@
 ---
 title: Brown feathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown feathery soft coral on the shores of Singapore
 keywords: alcyonacea, soft, coral, xeniidae, alcyonacea, octocoral, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,22 +17,22 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg
     caption: Beting Bemban Besar, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg
     caption: Sentosa, Mar 05 Oral disk and main tentacle pale, side branches brown.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabrown/090724cyrd7930m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/090724cyrd7930m3.jpg
     caption: Cyrene Reef, Jul 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabrown/100519tsmc3987m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/100519tsmc3987m3.jpg
     caption: Terumbu Semakau, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabrown/040522kusad0088m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/040522kusad0088m3.jpg
     caption: Kusu Island, May 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabrown/160312tptmn4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabrown/160312tptmn4.jpg
     caption: Terumbu Pempang Tengah, May 16 Photo shared by Marcus Ng on facebook
       .
 location:

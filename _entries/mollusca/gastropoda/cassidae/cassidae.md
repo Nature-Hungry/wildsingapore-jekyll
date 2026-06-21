@@ -1,6 +1,6 @@
 ---
 title: 'Helmet and Bonnet snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Helmet and Bonnet snails  on the shores of Singapore
 keywords: cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,29 +17,29 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
     caption: On top of a Cake sand dollar. Cyrene Reef, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
     caption: Cyrene Reef, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
     caption: Thick strong foot. Cyrene Reef, Aug 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg
     caption: Half buried next to a Cake sand dollar. East Coast Park, Jul 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
     caption: The 'burn' marks on the test of this recently dead sea urchin might have
       been made by a Helmet snail!
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
     caption: Changi, May 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
     caption: Japanese bonnet snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg
     caption: Grey bonnet snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
     caption: Changi, May 08
 links_references: '**Links**
 

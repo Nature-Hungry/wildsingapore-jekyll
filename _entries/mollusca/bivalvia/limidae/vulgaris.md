@@ -1,6 +1,6 @@
 ---
 title: Common file clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common file clam on the shores of Singapore
 keywords: lima, vulgaris, file,  shell,  clam, limidae, shell, bivalve, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -19,49 +19,48 @@ infraclass: Pteriomorphia
 order: Limida
 superfamily: Limoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg
     caption: Sisters Island, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120820sisd0881m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/120820sisd0881m3a.jpg
     caption: Foot extended out of the shell.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120820sisd0881m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/120820sisd0881m3.jpg
     caption: With tentacles open.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210626cjlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/210626cjlks1.jpg
     caption: Chek Jawa, Jun 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/091010tmjk3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/091010tmjk3m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210401sntvc4a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/210401sntvc4a.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210401sntvc4b.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/210401sntvc4b.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/160124smkelks7.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/160124smkelks7.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/240725smkntt5.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/240725smkntt5.jpg
     caption: Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210811tryvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/210811tryvc3.jpg
     caption: Terumbu Raya, Aug 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210501tbvc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/210501tbvc4.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/130628thntlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/120721tptlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/120721tptlks.JPG
     caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/limidae/limidae/210502tptvc9.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/210502tptvc9.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**
 
   - [Common file shell (
-
   *Lima vulgaris*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84401)
@@ -69,7 +68,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [File shells (
-
   *Lima lima*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/162)
@@ -81,7 +79,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - Common file clam (
-
   *Lima vulgaris*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
@@ -142,8 +139,7 @@ This clam is sometimes seen are attached to rocks and underside of stones and co
 4- 6cm. The two-part shell is thick with clear ridges, usually white or yellowish. The valves can close completely, with the tentacles retracted. Tentacles long, usually pale without markings.
 These tentacles are sticky and can break off if the animal is distressed. The animal can swim by 'clapping' its valves, but it is not as active as the
 [Swimming file clam](limaria)
-(
-*Limaria*
+(*Limaria*
 sp.).
 
 ## Human uses

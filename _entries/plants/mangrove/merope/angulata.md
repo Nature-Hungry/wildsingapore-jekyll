@@ -1,6 +1,6 @@
 ---
 title: 'Limau lelang '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Limau lelang  on the shores of Singapore
 keywords: limau, lelang, merope, angulata, rutaceae, mangrove, mangroves, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -22,14 +22,14 @@ class: Magnoliopsida
 order: Sapindales
 subfamily: Aurantioideae
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/merope/angulata/110329mndd8247m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/merope/angulata/110329mndd8247m3.jpg
     caption: Small white flowers. Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/merope/angulata/110329mndd8243m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/merope/angulata/110329mndd8243m3.jpg
     caption: Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/merope/angulata/101226krjd4150m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/merope/angulata/101226krjd4150m3a.jpg
     caption: Kranji Nature Trail, Dec 10
 links_references: '**Links**
 
@@ -42,7 +42,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Limau lelang (
-
   *Merope angulata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1067)
@@ -111,7 +110,7 @@ The plant is valued by the Malays for medicinal purposes. According to Burkill, 
 **Status and threats:**
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg)
 
 *Kranji Nature Trail, Apr 10*
 

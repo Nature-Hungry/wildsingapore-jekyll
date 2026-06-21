@@ -1,6 +1,6 @@
 ---
 title: 'Api-api jambu '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Api-api jambu  on the shores of Singapore
 keywords: api, jambu, avicennia, marina, acanthaceae, avicenniaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -24,33 +24,32 @@ order: Lamiales
 subfamily: Avicennioideae
 inat_id: 75723
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg
     caption: Leaves not so white underneath. Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg
     caption: Large flowers, crowded together.Stem squarish. Pulau Semakau, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg
     caption: Fruits flattened egg-shape, blunt tip. Bluish. Pulau Semakau, Aug 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110809smkd8539m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/110809smkd8539m3.jpg
     caption: Squarish stem to leaf-bearing portion. Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090405smkd9012m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/090405smkd9012m3a.jpg
     caption: Pulau Semakau, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090118smkd5762m3c.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/090118smkd5762m3c.jpg
     caption: Fruit flattened egg-shape. Pulau Semakau, Jan 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090112smkd5020m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/090112smkd5020m3.jpg
     caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/110809smkd8546m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/110809smkd8546m3.jpg
     caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/090112smkd5020m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/090112smkd5020m3a.jpg
     caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Jan 09
 links_references: '**Links**
 
   - [Api-api jambu (
-
   *Avicennia marina*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1050)
@@ -138,7 +137,7 @@ According to Giesen, the fruits are eaten, leaves fed to livestock while the woo
 **Status and threats:**
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg)
 
 *Pulau Semakau, Oct 11*
 

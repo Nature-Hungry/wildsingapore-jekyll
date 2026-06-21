@@ -1,6 +1,6 @@
 ---
 title: Beaded cushion green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Beaded cushion green seaweed on the shores of Singapore
 keywords: valonia, valoniaceae, seaweed, weed, green, chlorophyta, algae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -19,14 +19,14 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/100912kusd1448m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/valonia/100912kusd1448m3.jpg
     caption: Kusu Island, Sep 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/100912kusd1448m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/valonia/100912kusd1448m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/040812labcpd0702m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/valonia/040812labcpd0702m3.jpg
     caption: Labrador, Aug 04
 links_references: '**Links**
 
@@ -102,9 +102,7 @@ The entire cushion about 2-5cm wide made up of tiny, tightly packed beads. Each 
 
 **Sometimes mistaken for**
 [Bubble green seaweed](boergesenia)
-(
-*Boergesenia forbesii*
-) which has much larger and more loosely arranged translucent bubble-like shapes. Here's more on
+(*Boergesenia forbesii*) which has much larger and more loosely arranged translucent bubble-like shapes. Here's more on
 [how to tell apart some green seaweeds](cfgrapes)
 .
 
@@ -118,11 +116,11 @@ species.
 
 Some species are eaten by people.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg)
 
 *Sentosa, Jun 07
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3b.jpg)*
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3b.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

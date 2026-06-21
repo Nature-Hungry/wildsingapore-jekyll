@@ -1,45 +1,45 @@
 ---
 title: Egg strings on Singapore shores
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Egg strings on Singapore shores on the shores of Singapore
 keywords: encrusting, sponge, porifera, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/050917smkg2414m3.jpg
+coverimg: https://images.naturehungry.sg/eggs/eggs/050917smkg2414m3.jpg
 stateofmatter: Life
 kingdom: Animalia
 phylum: Mollusca
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet.gif
+  - url: https://images.naturehungry.sg/photos/bullet.gif
     caption: if you learn only 3 things about them ... Egg strings contain living
       eggs or tiny animals. Don't disturb them. Egg strings are found on stones and
       among seaweeds. Watch your step. Please don't bring egg strings home. Thousands
       of baby animals may die.
-  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet.gif
+  - url: https://images.naturehungry.sg/photos/bullet.gif
     caption: Egg strings contain living eggs or tiny animals. Don't disturb them.
       Egg strings are found on stones and among seaweeds. Watch your step. Please
       don't bring egg strings home. Thousands of baby animals may die.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/050917smkg2414m3.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/050917smkg2414m3.jpg
     caption: Among seaweeds. Pulau Semakau, Sep 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/050917smkg2414m3b.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/050917smkg2414m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/050917smkg2414m3a.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/050917smkg2414m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/080722cyrd8262m3.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/080722cyrd8262m3.jpg
     caption: Laid on seagrass. Cyrene Reef, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/050611kusg7835m3.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/050611kusg7835m3.jpg
     caption: Among seaweeds. Kusu Island, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/050726chgg0399m3.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/050726chgg0399m3.jpg
     caption: Laid on seagrass blade. Changi, Jun 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/101222chgd3867m3c.jpg
+  - url: https://images.naturehungry.sg/eggs/eggs/101222chgd3867m3c.jpg
     caption: Laid on seawall, probably by limpets . Changi, Dec 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg
     caption: Gong gong snail laying fine beige egg string. Tanah Merah, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3b.jpg
     caption: Limpet with its egg capsule. East Coast Park, Aug 11
 size:
 - 0.3

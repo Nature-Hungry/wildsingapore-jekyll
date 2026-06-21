@@ -1,6 +1,6 @@
 ---
 title: Veined branched brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Veined branched brown seaweed on the shores of Singapore
 keywords: veined, branch, brown, seaweed, weed, dictyopteris, dictyotaceae, phaeophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -21,14 +21,14 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/veinedbranch/080606cyrd5144m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/veinedbranch/080606cyrd5144m3.jpg
     caption: Cyrene Reef, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/veinedbranch/060727jngd5055m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/veinedbranch/060727jngd5055m3.jpg
     caption: Pulau Jong, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/veinedbranch/110220lazd6293m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/veinedbranch/110220lazd6293m3.jpg
     caption: Lazarus Island, Feb 11
 links_references: '**Links**
 
@@ -122,10 +122,10 @@ species.
 ****
 It is eaten by people and is believed to have antibacterial and antitumor properties.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3.jpg)
 
 *Cyrene Reef, Apr 08*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3a.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

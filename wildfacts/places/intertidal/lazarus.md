@@ -7,7 +7,7 @@ layout: default
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../index.html)  
 [wild shores of singapore
@@ -78,7 +78,7 @@ and Waterbodies Plan](http://www.ura.gov.sg/uramaps/?preopen=Special%20and%20Det
   
 **Current conservation activities:** The
 intertidal area of Seringat-Kias and Lazarus Island are also regularly
-surveyed by [wildsingapore](http://www.wildsingapore.com/). **History:** In 1974, reclamation at
+surveyed by [wildsingapore](https://images.naturehungry.sg/). **History:** In 1974, reclamation at
 Lazarus Island added 4ha. Lazarus Island was also affected by plans
 in 2000 "to offer visitors a Mediterranean resort-like setting
 only 17 minutes away by ferry, patterned after Italy's renowned vacation

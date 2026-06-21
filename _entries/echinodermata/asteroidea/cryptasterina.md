@@ -1,6 +1,6 @@
 ---
 title: Cryptic sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cryptic sea star on the shores of Singapore
 keywords: sea star, seastar, starfish, star, fish, crypasterina, asterinidae, asteroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -23,43 +23,43 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/080510smkd2969m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/080510smkd2969m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/080510smkd2969m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/080510smkd2969m3.jpg
     caption: Pulau Semakau, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/080510smkd2969m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/080510smkd2969m3b.jpg
     caption: Stubby papulae stick out on the upper surface
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/080510smkd2983m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/080510smkd2983m3.jpg
     caption: Several found under a stone. Pulau Semakau, May 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/080510smkd2972m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/080510smkd2972m3.jpg
     caption: Underside
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/080510smkd2972m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/080510smkd2972m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/151001blyjt4m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/151001blyjt4m3.jpg
     caption: Berlayar Creek, Oct 15 Shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/151001blyjt2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/151001blyjt2m3.jpg
     caption: Berlayar Creek, Oct 15 Shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/171009blylks1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/171009blylks1.jpg
     caption: Berlayar Creek, Oct 17 Shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/200210blylks8.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/200210blylks8.jpg
     caption: Berlayar Creek, Feb 20 Shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/240212sjilks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/240212sjilks2.jpg
     caption: St John's Island, Feb 24 Shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/110702lzrlks5m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/110702lzrlks5m3.jpg
     caption: Lazarus, Jul 11 Shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/110702lzrlks6m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/110702lzrlks6m3.jpg
     caption: Lazarus, Jul 11 Shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/110702lzrlks8m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/110702lzrlks8m3.jpg
     caption: Lazarus, Jul 11 Shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/160208smkslks4.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/160208smkslks4.JPG
     caption: Pulau Semakau South, Feb 16 Shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/cryptasterina/220717smknlks1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/cryptasterina/220717smknlks1.jpg
     caption: Pulau Semakau (North), Jul 22 Shared by Loh Kok Sheng on facebook .
 location:
 - tus

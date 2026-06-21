@@ -1,6 +1,6 @@
 ---
 title: Crinoid crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Crinoid crabs on the shores of Singapore
 keywords: crab, hairy, crustacea, ceratocarcinus, longimanus, harrovia, albolineata,
   pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -27,14 +27,14 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+coverimg: https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
     caption: Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks3.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks3.JPG
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/pilumnidae/featherstar/150220lsislks1.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks1.JPG
     caption: ''
 links_references: '**Links**
 

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mustard sponge on the shores of Singapore
 keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: branching
@@ -17,14 +17,14 @@ subclass: Keratosa
 order: Dictyoceratida
 subfamily: Thorectinae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/100518bbbd3074m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/dactylospongia/100518bbbd3074m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/110323smkd7707m3.jpg
+  - url: https://images.naturehungry.sg/porifera/dactylospongia/110323smkd7707m3.jpg
     caption: Pulau Semakau, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/110323smkd7707m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/dactylospongia/110323smkd7707m3b.jpg
     caption: Submerged.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/100518bbbd3074m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/dactylospongia/100518bbbd3074m3a.jpg
     caption: Out of water.
 links_references: '**Links**
 
@@ -73,11 +73,10 @@ Thin encrustation with short (2-5cm) finger-like upright branches. Surface rubbe
 
 **Sometimes confused with**
 [Yellow prickly branching sponges](encrustprickly)
-(
-*Pseudoceratina purpurea*
+(*Pseudoceratina purpurea*
 , Family Pseudoceratinidae) which looks very similar. The two kinds of sponges are difficult to tell apart in the field.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/dactylospongia/100518bbbd3074m3.jpg)
+![](https://images.naturehungry.sg/porifera/dactylospongia/100518bbbd3074m3.jpg)
 
 *Beting Bemban Besar, May 11*
 .

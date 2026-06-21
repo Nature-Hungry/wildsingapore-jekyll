@@ -1,6 +1,6 @@
 ---
 title: Cardinalfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cardinalfishes on the shores of Singapore
 keywords: cardinalfish, cardinal, fish, apogonidae, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,26 +18,26 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Apogonoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
     caption: Sometimes found in groups. Pulau Hantu, Nov 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg
     caption: Brooding eggs in the mouth. Pulau Semakau, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg
     caption: Brooding young in the mouth. Pulau Semakau, Oct 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg
     caption: Chequered cardinalfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
     caption: Candystripe cardinalfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg
     caption: Candystripe cardinalfish
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
     caption: Orbicular cardinalfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg
     caption: Black cardinalfish
 links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
@@ -137,13 +137,9 @@ As a group they eat a wide variety from small fishes, crabs, prawns and other ti
 
 ## Human uses
 
-Some species of cardinalfish like the Five-lined Cardinalfish (
-*Cheilodipterus quinquelineatus*
-) and
+Some species of cardinalfish like the Five-lined Cardinalfish (*Cheilodipterus quinquelineatus*) and
 [Orbicular cardinalfish](orbicularis)
-(
-*Sphaemaria orbicularis*
-) are popular in the live aquarium trade. Some are being successfuly bred in captivity.
+(*Sphaemaria orbicularis*) are popular in the live aquarium trade. Some are being successfuly bred in captivity.
 
 ---
 

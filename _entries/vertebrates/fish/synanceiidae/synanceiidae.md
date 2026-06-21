@@ -1,6 +1,6 @@
 ---
 title: Stonefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stonefishes on the shores of Singapore
 keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -19,19 +19,18 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
     caption: Hollow-cheeked stonefish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/others/120606chgmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/others/120606chgmn.jpg
     caption: Stargazer waspfish Trachicephalus uranoscopus Changi, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/others/120606chgmn2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/others/120606chgmn2.jpg
     caption: Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Hollow-cheek Stonefish (
-
   *Synanceia horrida*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256)
@@ -43,7 +42,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Stonefish (
-
   *Synanceia horrida*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/231)
@@ -111,7 +109,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Reef Stonefish (
-
   *Synanceia verrucosa*
 
   )](http://www.amonline.net.au/fishes/students/focus/sverruc)
@@ -190,15 +187,11 @@ Stonefishes do look like stones!
 
 The
 **[Hollow-cheek stonefish](horrida)**
-(
-*Synanceia horrida*
-) is commonly encountered on the the intertidal.
+(*Synanceia horrida*) is commonly encountered on the the intertidal.
 
 The
 **Reef stonefish**
-(
-*Synanceia verrucosa*
-) has yet to be encountered during our intertidal surveys. It has a deep depression between the eyes and doesn't have hollow 'cheeks'. It is considered the most widespread stonefish found on sandy or coral rubble areas of reef flats, in shallow lagoons and tide pools during low tide.
+(*Synanceia verrucosa*) has yet to be encountered during our intertidal surveys. It has a deep depression between the eyes and doesn't have hollow 'cheeks'. It is considered the most widespread stonefish found on sandy or coral rubble areas of reef flats, in shallow lagoons and tide pools during low tide.
 
 **Sometimes mistaken for**
 scorpionfishes. Here's more on

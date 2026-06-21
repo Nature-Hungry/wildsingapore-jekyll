@@ -1,6 +1,6 @@
 ---
 title: Nectar spindle cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Nectar spindle cowrie on the shores of Singapore
 keywords: nectar, spindle, ovulid, cowrie, ovulidae, phenacovolva, nectarea, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,103 +19,103 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/050724bbg0121m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/050724bbg0121m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/130626chg1d8809.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/130626chg1d8809.jpg
     caption: Changi, Jun 13
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210529ecpblks13a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210529ecpblks13a.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1c.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1c.jpg
     caption: 'On Leathery sea fan Cyrene, Jul 25 Photo shared by Loh Kok Sheng on
       facebook . Hanging in there: Several of these snails were seen ''hanging'' from
       a string of mucus on sea fans exposed out of water during low tide.'
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1c.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1c.jpg
     caption: On Leathery sea fan Cyrene, Jul 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/250726cyrlks1a.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210528lyg1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg1a.jpg
     caption: Changi, May 21
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210528lyg1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg1b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210528lyg2b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg2b.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/130626ecplks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/130626ecplks2.JPG
     caption: Laying eggs? East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on
       flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/130626ecplks2a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/130626ecplks2a.jpg
     caption: ''
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210528lyg3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg3a.jpg
     caption: With rows of eggs? Changi, May 21
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/170430lyglks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/170430lyglks1.jpg
     caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/170430lyglks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/170430lyglks6.jpg
     caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/170430lyglks7.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/170430lyglks7.jpg
     caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/130526chglks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/130526chglks2.JPG
     caption: Changi, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/130113chglks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/130113chglks.JPG
     caption: Changi, Jan 13 Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/120705chglks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/120705chglks2.JPG
     caption: Changi, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/120705chglks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/120705chglks.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/090624chglks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/090624chglks5m3.jpg
     caption: Changi, Jun 09 Phencovolva cf. rosea Photo shared by Loh Kok Sheng on
       his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/110615chglks1a.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/110615chglks1a.JPG
     caption: Changi, Jun 11 Photo shared by Loh Kok Sheng on flickr .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/110615chglks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/110615chglks2.JPG
     caption: Changi, Jun 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/090624chglks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/090624chglks.JPG
     caption: Phencovolva cf. rosea Changi, Jun 09 Photo shared by Loh Kok Sheng on
       flickr .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/170430lyglks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/170430lyglks1.jpg
     caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/170430lyglks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/170430lyglks6.jpg
     caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/170430lyglks7.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/170430lyglks7.jpg
     caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/170723ubnlks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/170723ubnlks2.jpg
     caption: Pulau Ubin, Jul 17
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/170723ubnlks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/170723ubnlks3.jpg
     caption: Photo shared by Loh Kok Sheng on facebook.
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/240706ubnlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/240706ubnlks1.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/240706ubnlks1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/240706ubnlks1a.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/190706skdlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/190706skdlks1.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Loh Kok Sheng on facebook .
   gallery16:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210626cjvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210626cjvc1.jpg
     caption: Chek Jawa, Jun 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/220716bblks5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/220716bblks5.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Loh Kok Sheng on facebook .
   gallery17:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/130626ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/130626ecplks.JPG
     caption: East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on flickr . East
       Coast Park, May 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210529ecpblks13.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210529ecpblks13.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
 location:
 - chg

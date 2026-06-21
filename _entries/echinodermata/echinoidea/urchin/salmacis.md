@@ -1,6 +1,6 @@
 ---
 title: Salmacis sea urchins
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Salmacis sea urchins on the shores of Singapore
 keywords: white, urchin, salmacis, echinoid, echinoderm, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,49 +20,49 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg
     caption: Sometimes gathered in large numbers. Cyrene Reef, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/060528bbd2322m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/060528bbd2322m3.jpg
     caption: Carrying stuff. Beting Bronok, May 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
     caption: Hole with 'burn' mark suggests the urchin was attacked by a Helmet snail
       . Changi, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
     caption: Worm-like thing seen on the underside. Changi, Oct 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
     caption: Parasitic snails seen on the urchin Cyrene, May 17 Photo shared on Singapore
       Biodiversity Records.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/170625chgsbr.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/170625chgsbr.jpg
     caption: Zebra crab ( Zebrida adamsii ) seen on the urchin. Changi, Jun 17 Photo
       shared on Singpaore Biodiversity Records.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/210530ecpglks3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/210530ecpglks3a.jpg
     caption: Zebra crab ( Zebrida adamsii ) seen on the urchin. East Coast Park, May
       21 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/080506chgd2260m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2260m3.jpg
     caption: White salmacis urchin ( Salmacis sphaeroides )
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/080506chgd2263m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2263m3b.jpg
     caption: Spines shorter, mostly white, banded with green or maroon.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/050524chgg6575m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/050524chgg6575m3a.jpg
     caption: Underside
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
     caption: Passion salmacis urchin ( Salmacis virgulata )
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg
     caption: Spines shorter, all maroon, not banded .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg
     caption: Underside
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
     caption: Two-toned salmacis urchin ( Salmacis bicolor )
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
     caption: Spines longer, banded white and maroon
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
     caption: Underside
 links_references: "**Links**\n- [Banded urchin (\n*Salmacis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*A Guide to Seashore Life*\n. The Singapore\

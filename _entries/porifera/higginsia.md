@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Higgin's sponge on the shores of Singapore
 keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: leafy
@@ -16,12 +16,12 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Axinellida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/higginsia/150802bbd8873m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/higginsia/150802bbd8873m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/higginsia/150802bbd8873m3c.jpg
+  - url: https://images.naturehungry.sg/porifera/higginsia/150802bbd8873m3c.jpg
     caption: Covered with long thin stiff hairs.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/higginsia/150802bbd8873m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/higginsia/150802bbd8873m3a.jpg
     caption: Trapped sediments hides bright orange colour.
 links_references: '**Links**
 
@@ -58,7 +58,7 @@ This bright orange hairy sponge is sometimes seen at Beting Bronok off Pulau Tek
 
 Fat but flattened leaf-like branches or lobes (10-15cm) covered with long thin stiff hairs that traps sediments so the sponge is often obscured. Colour uniform bright orange.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/higginsia/150802bbd8873m3.jpg)
+![](https://images.naturehungry.sg/porifera/higginsia/150802bbd8873m3.jpg)
 
 *Beting Bemban Besar, May 11*
 .

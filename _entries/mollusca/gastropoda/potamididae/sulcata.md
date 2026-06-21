@@ -1,6 +1,6 @@
 ---
 title: Belitong snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Belitong snail on the shores of Singapore
 keywords: belitong, terebralia, sulcata, sulcate, cerith, snail, shell, potamididae,
   gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,28 +17,27 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/090307blyd7455m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/sulcata/090307blyd7455m3.jpg
     caption: Unlike the similarly shaped Chut-chut , the Belitong has a distinctive
       peristome Berlayar Creek, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/090307blyd7454m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/sulcata/090307blyd7454m3.jpg
     caption: Berlayar Creek, Mar 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/250909lazrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/sulcata/250909lazrk1.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Richard Kuah on
       facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/2104hntvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/sulcata/2104hntvc2.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/091205sudikw2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/sulcata/091205sudikw2m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
 links_references: '**Links**
 
   - [Belitong (
-
   *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2082)
@@ -50,7 +49,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Sulcate creeper (
-
   *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
@@ -62,7 +60,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Sulcate swamp cerith (
-
   *Terebralia sulcata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86858)
@@ -70,7 +67,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Sulcate swamp cerith (
-
   *Terebralia sulcata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

@@ -1,6 +1,6 @@
 ---
 title: Mangrove ear snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove ear snail on the shores of Singapore
 keywords: mangrove, ear, cassidula, snail, ellobiidae, gastropod, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -22,12 +22,12 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg
     caption: Berlayar Creek, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
     caption: Berlayar Creek, Mar 09
 links_references: '**Links**
 

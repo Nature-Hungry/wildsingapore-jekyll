@@ -10,10 +10,10 @@ attributes:
 - 143
 - 150
 coverimgs:
-- http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m.jpg
-- http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m.jpg
-- http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m.jpg
-- http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m.jpg
-- http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m.jpg
+- https://images.naturehungry.sg/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m.jpg
+- https://images.naturehungry.sg/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m.jpg
+- https://images.naturehungry.sg/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m.jpg
+- https://images.naturehungry.sg/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m.jpg
+- https://images.naturehungry.sg/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m.jpg
 ---
 

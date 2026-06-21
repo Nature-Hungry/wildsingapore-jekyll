@@ -1,6 +1,6 @@
 ---
 title: Cuthona nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cuthona nudibranch on the shores of Singapore
 keywords: cuthona, sibogae, aeolid, glaucidae, aeolidina, nudibranch, slug, seaslug,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -22,30 +22,30 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Fionoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3a.jpg
     caption: Carrying eggs?
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/110518bbd1853m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/110518bbd1853m3a.jpg
     caption: Beting Bronok, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/110518bbd1884m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/110518bbd1884m6l.jpg
     caption: Mating? Beting Bronok, May 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/190802chgjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/190802chgjll1.jpg
     caption: Changi, Aug 19 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/250627bbvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/250627bbvc1.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/110519bbjk.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/110519bbjk.jpg
     caption: Beting Bronok, May 11 Photo shared by James Koh on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/210430sjijll3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/210430sjijll3.jpg
     caption: St John's Island, Apr 21 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 
@@ -114,8 +114,7 @@ which has purple bands on the oral tentacles.
 **What does it eat?**
 It eats hydroids, including the orange
 [Fern hydroid](../../../cnidaria/others/hydrozoa/sertularella)
-(
-*Sertularella*
+(*Sertularella*
 sp.). According to Bill Rudman, it feeds on
 *Sertularella quadridens*
 .

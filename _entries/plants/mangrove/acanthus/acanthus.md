@@ -1,6 +1,6 @@
 ---
 title: 'Jeruju '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Jeruju  on the shores of Singapore
 keywords: holly, acanthus, acanthaceae, mangrove, mangroves, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,19 +23,18 @@ tribe: Acantheae
 subtribe: Acanthinae
 inat_id: 70046
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090322krjd8344m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/acanthus/acanthus/090322krjd8344m3.jpg
     caption: Kranji Canal, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090125kntd6093m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/acanthus/acanthus/090125kntd6093m3a.jpg
     caption: Kranji Nature Trail, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090816ubind9154m6la.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/acanthus/acanthus/090816ubind9154m6la.jpg
     caption: Sometimes scrambling up trees. Pulau Ubin, Aug 09
 links_references: '**Links**
 
   - [Jeruju (
-
   *Acanthus volubilis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1047)
@@ -43,7 +42,6 @@ links_references: '**Links**
   ,
 
   [Jeruju hitam (
-
   *Acanthus ebracteatus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1045)
@@ -51,7 +49,6 @@ links_references: '**Links**
   and
 
   [Jeruju putih (
-
   *Acanthus ilicifolius*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1046)
@@ -166,21 +163,15 @@ Fruit is a capsule (2-3cm) each with 4 flat, whitish seeds. The ripe capsule exp
 
 According to Tomlinson, "they do not seem to differ in any consistent vegetative feature" and "there is a tendency to treat the mangrove species as one single variable species". Giesen also says that some authors regard the three species below as one highly variable species. But these species are usually differentiated in Singapore guidebooks.
 
-**Jeruju putih (
-*Acanthus ilicifolius*
-)**
+**Jeruju putih (*Acanthus ilicifolius*)**
 
 Open flower 3.5-4cm long, petals light blue or violet (rarely white). Inflorescence usually longer than 10cm. Ripe fruit 2.5-3cm or longer. Low sprawling shrub, not much branching, sometimes like a vine to 2m tall.
 
-**Jeruju hitam (
-*Acanthus ebracteatus*
-)**
+**Jeruju hitam (*Acanthus ebracteatus*)**
 
 Open flower 2-2.5cm long, petals white. Inflorescence variable. Ripe fruit shorter than 2cm. Leaves usually widest below the middle. Usually with thick stems.
 
-**Jeruju (
-*Acanthus volubilis*
-)**
+**Jeruju (*Acanthus volubilis*)**
 
 Open flower 2-2.5cm long, petals white. Inflorescence variable usually shorter and with fewer flowers. Ripe fruit shorter than 2cm, but fruits are rare. Leaves usually wide above the middle. Usually with slender, sprawling stems without spines. It is more of a climber than the other species and in undisturbed forests may be seen even in the canopies.
 
@@ -196,18 +187,18 @@ are listed as 'Vulnerable' in the Red List of threatened plants of Singapore.
 
 **
 **
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg)
 
 Sometimes the same plant may have
 
 spiky as well as smooth leaves.
 *Kranji Nature Trail, Jan 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090322krjd8345m3.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/acanthus/acanthus/090322krjd8345m3.jpg)*
 Exploded fruit capsule.
 *Kranji Canal, Mar 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/130102kntd3007m3.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/acanthus/acanthus/130102kntd3007m3.jpg)*
 Flower structure to allow the flower
 
 to pick up pollen from insect visitors
@@ -215,7 +206,7 @@ to pick up pollen from insect visitors
 before deposting pollen as they depart.
 *Kranji Nature Trail, Jan 13
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/acanthus/acanthus/090913kntd0812m6l.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/acanthus/acanthus/090913kntd0812m6l.jpg)
 
 Kranji Nature Trail, Sep 09*
 

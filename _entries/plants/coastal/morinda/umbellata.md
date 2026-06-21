@@ -1,6 +1,6 @@
 ---
 title: 'Mengkudu akar '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mengkudu akar  on the shores of Singapore
 keywords: mengkudu, morinda, umbellata, rubiaceae, plant, climber, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,7 +22,7 @@ subfamily: Rubioideae
 tribe: Morindeae
 inat_id: 1415440
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg
 links_references: '**Links**
 
   - [*Morinda umbellata*](http://floraofsingapore.wordpress.com/2010/08/08/morinda-umbellata/)on
@@ -41,18 +41,18 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1670m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/morinda/umbellata/090513labd1670m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1668m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/morinda/umbellata/090513labd1668m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1668m3c.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/morinda/umbellata/090513labd1668m3c.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090517ubnd2004m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/morinda/umbellata/090517ubnd2004m3.jpg
     caption: Pulau Ubin, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090517ubnd2003m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/morinda/umbellata/090517ubnd2003m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1668m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/morinda/umbellata/090513labd1668m3b.jpg
     caption: ''
 size:
 - 7.0
@@ -76,7 +76,7 @@ A climbing shrub, it has elegant leaves that are thin, leathery, narrow and 7-12
 
 According to Burkill, the roots are used to produce a yellow dye. Boiled roots and leaves are used in traditional medicine. In India, the fruits may be eaten while green in curries and when raw when ripe. The tough stems are used as ropes in Sri Lanka.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg)
 
 *Labrador, May 09*
 

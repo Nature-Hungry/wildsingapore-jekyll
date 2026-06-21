@@ -1,6 +1,6 @@
 ---
 title: Surf clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Surf clams on the shores of Singapore
 keywords: donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,14 +20,14 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
     caption: Changi, Oct 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg
     caption: ''
 links_references: "**Links**\n- *[Donax cuneatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86593)*\n\
   and\n*[Donax faba](http://www.sealifebase.org/Summary/speciesSummary.php?ID=8660)*\n\

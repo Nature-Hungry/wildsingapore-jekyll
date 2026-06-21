@@ -1,6 +1,6 @@
 ---
 title: Pale scaly sea stars
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pale scaly sea stars on the shores of Singapore
 keywords: red, scaly, sea star, seastar, starfish, star, fish, nepanthia, maculata,
   asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -23,21 +23,21 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepmaculata/050821bbg1978m3a.jpg
     caption: Scales on the upperside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
     caption: Tiny tube feet emerge among the scales.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1983m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepmaculata/050821bbg1983m3.jpg
     caption: Pale underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1983m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepmaculata/050821bbg1983m3a.jpg
     caption: Long tube feet from the grooves on the underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
     caption: Tiny tube feet emerge among the scales.
 location:
 - bb

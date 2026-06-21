@@ -1,6 +1,6 @@
 ---
 title: Dark Diana conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dark Diana conch on the shores of Singapore
 keywords: diana, ear, conch, strombus, euprotomus, aurisdianae, aratrum, atratum,
   strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -25,22 +25,21 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
     caption: Changi, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/aratrum/090428chgd0823m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/aratrum/090428chgd0823m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/aratrum/090529chgjk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/aratrum/090529chgjk1.jpg
     caption: Changi, May 09 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/aratrum/090529chgjk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/aratrum/090529chgjk2.jpg
     caption: ''
 links_references: '**Links**
 
   - [Diana conch (
-
   *Strombus aurisdianae*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86872)
@@ -48,7 +47,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Dark diana conch (
-
   *Strombus aratrum*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=198)
@@ -56,7 +54,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Diana conch (
-
   *Strombus aurisdianae*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

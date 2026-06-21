@@ -1,6 +1,6 @@
 ---
 title: Leopard whipray
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Leopard whipray on the shores of Singapore
 keywords: leopard, whip, whipray, sting, ray, stingray, himantura, undulata, fish,
   rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -20,24 +20,23 @@ infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Urogymninae
 updated: Nov 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/undulata/030525cjd0112m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/undulata/030525cjd0112m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/undulata/030525cjd0108m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/undulata/030525cjd0108m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/undulata/030525cjd0114m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/undulata/030525cjd0114m3a.jpg
     caption: Granular skin on adult.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/undulata/030525cjd0112m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/undulata/030525cjd0112m3a.jpg
     caption: Broadly triangular snout.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/undulata/101200cjro1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/undulata/101200cjro1m6l.jpg
     caption: Chek Jawa, Dec 10 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/undulata/101200cjro2m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/undulata/101200cjro2m3a.jpg
     caption: ''
 links_references: '**Links**
 
   - [Leopard whipray (
-
   *Himantura undulata*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=12584)
@@ -49,7 +48,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Bleeker''s variegated whipray (
-
   *Himantura undulata*
 
   )](http://www.iucnredlist.org/apps/redlist/details/161621/0)
@@ -86,7 +84,7 @@ It is sometimes taken in trawl catches.
 
 Status and threats: It is listed as Vulnerable on the IUCN Red List due to overharvesting, and loss of its preferred shallow water inshore habitats near mangroves.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/undulata/030525cjd0112m6l.jpg)*
+*![](https://images.naturehungry.sg/vertebrates/fish/dasyatidae/undulata/030525cjd0112m6l.jpg)*
 Tail very long and slender.
 **
 A large dead one seen on the sand bar.

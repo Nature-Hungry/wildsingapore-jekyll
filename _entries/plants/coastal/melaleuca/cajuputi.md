@@ -1,6 +1,6 @@
 ---
 title: 'Gelam '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gelam  on the shores of Singapore
 keywords: gelam, glam, melaleuca, cajuputi, myrtaceae, tree, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,21 +24,21 @@ subfamily: Myrtoideae
 tribe: Melaleuceae
 complex: Melaleuca leucadendra
 updated: Aug 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090906prpd0365m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/melaleuca/cajuputi/090906prpd0365m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090906prpd0362m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/melaleuca/cajuputi/090906prpd0362m3.jpg
     caption: Pasir Ris, Sep 09 Fruits are brown capsules.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090906prpd0491m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/melaleuca/cajuputi/090906prpd0491m3b.jpg
     caption: Pasir Ris, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090906prpd0364m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/melaleuca/cajuputi/090906prpd0364m3.jpg
     caption: Pasir Ris, Sep 09 Flaky bark.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090823cjd9984m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/melaleuca/cajuputi/090823cjd9984m3.jpg
     caption: Chek Jawa, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090823cjd9982m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/melaleuca/cajuputi/090823cjd9982m3.jpg
     caption: Chek Jawa, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090823cjd9980m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/melaleuca/cajuputi/090823cjd9980m6l.jpg
     caption: Planted along the visitor trail. Chek Jawa, Aug 09
 size:
 - 1500.0
@@ -96,11 +96,11 @@ The leaves are used to distill 'cajeputi' or 'tea-tree oil' which has medicinal 
 
 According to Corners, the timber is hard and durable and is used as the main firewood where bakau or mangrove wood is unavailable. The papery bark is used to caulk boats as the bark swells in water, thus sealing seams. The dried fruits are sold as a spice.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090906prpd0365m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/melaleuca/cajuputi/090906prpd0365m6l.jpg)
 
 Planted in the Park.
 *Pasir Ris, Sep 09
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/melaleuca/cajuputi/090906prpd0491m3.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/melaleuca/cajuputi/090906prpd0491m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

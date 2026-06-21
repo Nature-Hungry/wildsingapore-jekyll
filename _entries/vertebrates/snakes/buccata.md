@@ -1,6 +1,6 @@
 ---
 title: Puff-faced water snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Puff-faced water snake on the shores of Singapore
 keywords: puff, face, faced, water, snake, homalopsis, buccata, homalopsidae, colubridae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,10 +18,10 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/buccata/060826sbwrd6352m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/buccata/060826sbwrd6352m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Aug 06
 links_references: '**Links**
 
@@ -116,11 +116,11 @@ Human uses: In Cambodia, this snake is heavily exploited and sold as food and fo
 **Status and threats:**
 This snake is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg)
+*![](https://images.naturehungry.sg/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg)
 
 Sungei Buloh Wetland Reserve, Aug 06
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/buccata/060826sbwrd6350m3a.jpg)*
+![](https://images.naturehungry.sg/vertebrates/snakes/buccata/060826sbwrd6350m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

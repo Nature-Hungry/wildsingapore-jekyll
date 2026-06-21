@@ -1,6 +1,6 @@
 ---
 title: Forskal's sidegill slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Forskal's sidegill slug on the shores of Singapore
 keywords: side, gill, sidegill, notaspidea, pleurobranchus, forskalii, slug, seaslug,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -21,23 +21,23 @@ superorder: Nudipleura
 order: Pleurobranchida
 superfamily: Pleurobranchoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
     caption: Tanah Merah, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3a.jpg
     caption: Pair of tubular rhinophores.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6551m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6551m3.jpg
     caption: GIlls on the side. Cyrene Reef, Jul 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6685m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6685m6l.jpg
     caption: Many were seen in areas thick with Green gum drop ascidians . Cyrene
       Reef, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6515m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6515m3.jpg
     caption: Laying egg ribbons. Cyrene Reef, Jul 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/230423cyrlks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/230423cyrlks4.jpg
     caption: Mating?! Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook
   gallery4:
   - url: https://live.staticflickr.com/5810/23358180213_0b69705a41_z.jpg
@@ -46,33 +46,33 @@ galleries:
   - url: https://live.staticflickr.com/1574/23902526511_729a3745ff_z.jpg
     caption: ''
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/171204chglks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/171204chglks1.jpg
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/230608tmftlks7.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/230608tmftlks7.jpg
     caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Loh Kok Sheng on facebook
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/080410cyrtsj1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/080410cyrtsj1m3.jpg
     caption: Cyrene Reef, Oct 08 Photo shared by Tan Sijie on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/071101cyrlks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/071101cyrlks1m3.jpg
     caption: Cyrene Reef, Nov 07 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/110814smklks6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/110814smklks6m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/160124smkelks.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/160124smkelks.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/180421smkslks.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/180421smkslks.jpg
     caption: Pulau Semakau South, Apr 18 Photo shared by Loh Kok Sheng on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/2007025smknlks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/2007025smknlks4.jpg
     caption: Pulau Semakau North, Jul 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/170311bbbrk.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/170311bbbrk.jpg
     caption: Beting Bemban Besar, Mar 17 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/100130brklks18m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/100130brklks18m3.jpg
     caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr
       .
 links_references: '**Links**

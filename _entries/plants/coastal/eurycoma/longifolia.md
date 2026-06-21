@@ -1,6 +1,6 @@
 ---
 title: 'Tongkat Ali '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tongkat Ali  on the shores of Singapore
 keywords: tongkat, ali, eurycoma, longifolia, simaroubaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,14 +21,14 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Sapindales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/eurycoma/longifolia/090331sntd8830m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/eurycoma/longifolia/090331sntd8830m3a.jpg
     caption: Sentosa, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/eurycoma/longifolia/090331sntd8824m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/eurycoma/longifolia/090331sntd8824m3a.jpg
     caption: Sentosa, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/eurycoma/longifolia/100420sntd1561m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/eurycoma/longifolia/100420sntd1561m3.jpg
     caption: Sentosa, Apr 10
 links_references: '**Links**
 
@@ -99,11 +99,11 @@ The tree has many traditional medicinal uses. According to Corners, the bark and
 **Status and threats:**
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore. Elsewhere, the plant is also threatened by over-collection for the traditional herbal trade.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg)
 
 *Sentosa, Mar 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/eurycoma/longifolia/090401sntd8842m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/eurycoma/longifolia/090401sntd8842m3.jpg)
 
 Sentosa, Apr 09*
 

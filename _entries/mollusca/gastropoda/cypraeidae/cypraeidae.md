@@ -1,6 +1,6 @@
 ---
 title: Cowries
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cowries on the shores of Singapore
 keywords: cowrie, cypraeidae, cypraea, gastropod, mollusc, snail, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -18,64 +18,63 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Cypraeoidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
     caption: When covered with the 'hairy' mantle they are often mistaken for slugs
       Pulau Sekudu, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/arabica/050625labg8705m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/arabica/050625labg8705m3.jpg
     caption: The animal with tentacles and broad foot. Labrador, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
     caption: The 'toothed' shell opening is only seen when the animal is completelyretracted.
       Changi, Jul 02
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/noid/090210tmd6904m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/noid/090210tmd6904m3.jpg
     caption: A broken shell shows the internal structure of a typical cowrie.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/noid/240212sjivc6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/noid/240212sjivc6.jpg
     caption: Young cowrie, has not developed 'teeth' at the shell opening yet. St
       John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg
     caption: Eggs turn dark grey as they mature. Chek Jawa, Oct 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
     caption: Mama cowrie under a rock, protecting her egg mass with her foot. Sentosa,
       Apr 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
     caption: Wandering cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg
     caption: Ovum cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
     caption: Four-spot cowrie
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg
     caption: Miliaris cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/080604kusd4848m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/080604kusd4848m3.jpg
     caption: Onyx cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg
     caption: Walker's cowrie
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
     caption: Pear-shaped cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9913m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9913m3.jpg
     caption: Graceful cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3a.jpg
     caption: Saul's cowrie
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/arabica/050625labg8698m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/arabica/050625labg8698m3.jpg
     caption: Arabian cowrie
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
     caption: Money cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/130824smklks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/130824smklks3.jpg
     caption: Tiger cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
     caption: Milk-spotted cowrie
 links_references: '**Links**
 
   - [Wandering Cowrie (
-
   *Cypraea errones*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/141)
@@ -207,17 +206,11 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
 Some cowries are popular in the live aquarium trade. Cowries are among the most harvested snails for the shell trade. In the past, they were traditionally collected for food. Some islanders use cowries to bait traps for octopus.
 
 **Status and threats:**
-Recent estimates suggest that half the cowrie species in Singapore have been lost. The Gold-ringed cowrie (
-*Cypraea annulus*
-) has almost if not completely been wiped out on our shores. This small cowrie was previously found in large groups on our rocky shores and reef flats. It has a narrow yellow band around its greyish-white back. Although considered one of the most common cowries in our region, the
+Recent estimates suggest that half the cowrie species in Singapore have been lost. The Gold-ringed cowrie (*Cypraea annulus*) has almost if not completely been wiped out on our shores. This small cowrie was previously found in large groups on our rocky shores and reef flats. It has a narrow yellow band around its greyish-white back. Although considered one of the most common cowries in our region, the
 [Tiger Cowrie](tigris)
-(
-*Cypraea tigris*
-) is now rarely seen. Both are listed as 'Endangered' while the
+(*Cypraea tigris*) is now rarely seen. Both are listed as 'Endangered' while the
 [Arabian cowrie](arabica)
-(
-*Cypraea arabica*
-) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
+(*Cypraea arabica*) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 

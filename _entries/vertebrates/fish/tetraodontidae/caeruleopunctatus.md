@@ -1,6 +1,6 @@
 ---
 title: Blue-spotted pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-spotted pufferfish on the shores of Singapore
 keywords: starry, pufferfish, puffer, fish, arothon, caeruleopunctatus, tetraodontidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -14,22 +14,21 @@ family: Tetraodontidae
 genus: Arothon
 species: caeruleopunctatus
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
     caption: Live one, seen diving. Photo by Toh Chay Hoon from Singapore Biodiversity
       Records 2019:54-55
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2015-047.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2015-047.jpg
     caption: 'Dead fish washed ashore during mass fish death. Pasir Ris Park, Mar
       15 Photo by Sean Yap from Singapore Biodiversity Records 2015: 47'
 links_references: '**Links**
 
   - [Blue-spotted puffer (
-
   *Arothron caeruleopunctatus*
 
   )](https://www.fishbase.se/summary/13051)

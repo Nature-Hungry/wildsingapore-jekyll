@@ -1,6 +1,6 @@
 ---
 title: Pear-shaped cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pear-shaped cowrie on the shores of Singapore
 keywords: pyriformis, cowrie, cypraea, erronea, cypraeidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -27,31 +27,31 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
     caption: Beting Bronok, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2333m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2333m3.jpg
     caption: Beting Bronok, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2335.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2335.jpg
     caption: '''Teeth'' dark.'
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik3.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Ivan Kwan on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik2.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1a.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Che Cheng New on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks2.JPG
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on flickr
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks1.JPG
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on flickr
 links_references: '**Links**
 

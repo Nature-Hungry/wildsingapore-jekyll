@@ -1,6 +1,6 @@
 ---
 title: 'Pipefishes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pipefishes  on the shores of Singapore
 keywords: pipefish, pipe, fish, horse, seahorse, syngnathidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,23 +18,23 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
     caption: Often seen in a pair. Flexible tail used to hang onto objects. Tanah
       Merah, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
     caption: The Alligator pipefish also has a rehensile tail. Cyrene Reef, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
     caption: Mobile eyes can move while the body remains still. Toothless jaws used
       like a straw. Changi, Jul 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
     caption: Very pregnant seahorse papa. Sisters Island, Mar 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg
     caption: Some seahorses are tiny! Watch your step! Changi, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg
     caption: Very pregnant piepfish papa. Changi, Jun 13
 links_references: '**Links**
 
@@ -43,7 +43,6 @@ links_references: '**Links**
   ,
 
   [Seahorse (
-
   *Hippocampus*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)
@@ -57,7 +56,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Blue-speckled Pipefish (
-
   *Hippichthys cyanospilus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
@@ -65,7 +63,6 @@ links_references: '**Links**
   ,
 
   [Spotted Seahorse (
-
   *Hippocampus kuda*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248)

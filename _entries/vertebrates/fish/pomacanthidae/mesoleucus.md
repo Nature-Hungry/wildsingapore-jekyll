@@ -1,6 +1,6 @@
 ---
 title: 'Yellowtail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellowtail  on the shores of Singapore
 keywords: yellow, tail, yellowtail, vermiculated, angel, fish, angelfish, chaetodontoplus,
   mesoleucus, pomacanthidae, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -23,18 +23,17 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
     caption: An adult caught in a fish trap. Kusu Island, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks6l.jpg
     caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
 links_references: '**Links**
 
   - [Yellowtail or Vermiculated angelfish (
-
   *Chaetodontoplus mesoleucus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/334)

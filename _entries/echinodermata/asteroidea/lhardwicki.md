@@ -1,6 +1,6 @@
 ---
 title: Five-armed Luidia sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Five-armed Luidia sea star on the shores of Singapore
 keywords: sand, sea star, seastar, starfish, star, fish, luidia, hardwicki, luidiidae,
   asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -22,22 +22,22 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
     caption: Changi, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
     caption: Pointed tube feet.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg
     caption: Changi, Jul 17 Photo shared by Abel Yeo on facebook ..
 links_references: '**Links**
 

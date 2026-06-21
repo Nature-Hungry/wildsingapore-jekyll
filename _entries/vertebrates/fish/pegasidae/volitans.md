@@ -1,6 +1,6 @@
 ---
 title: Slender seamoth
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Slender seamoth on the shores of Singapore
 keywords: slender, seamoth, moth, robin, fish, pegasus, volitans, pegasidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -25,69 +25,68 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Dactylopteroidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
     caption: Changi, Aug 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/100429prpd1875m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/100429prpd1875m6l.jpg
     caption: Pasir Ris, Apr 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/080506chgd2165m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/080506chgd2165m6l.jpg
     caption: Changi, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/050524cftg6552m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/050524cftg6552m3.jpg
     caption: Changi, May 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/200125prpAky2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/200125prpAky2.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/141223tushpy1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/141223tushpy1m3.jpg
     caption: Tuas, Dec 14 Photo shared by Heng Pei Yan on her blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/160110cjmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/160110cjmn.jpg
     caption: Chek Jawa, Jan 16 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/120801chgmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/120801chgmn.jpg
     caption: Changi, Aug 12 Photo shared by Marcus Ng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/110519chglks2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/110519chglks2m3.jpg
     caption: Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/080506chgtch.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/080506chgtch.jpg
     caption: Changi, May 08 Photo shared by Toh Chay Hoon on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/110519chglks1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/110519chglks1m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/090807tmjk6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/090807tmjk6m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/180812nsrtch3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/180812nsrtch3.jpg
     caption: East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/240212sjimn2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/240212sjimn2.jpg
     caption: St John's Island, Feb 24 Photo shared by Marcus Ng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/100301hntjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/100301hntjk.jpg
     caption: Pulau Hantu, Mar 10 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/150605kusmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/150605kusmn.jpg
     caption: Kusu Island, Jun 15 Photo shared by Marcus Ng on flickr .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/100912kuslks1m6la.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/100912kuslks1m6la.jpg
     caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his blog .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/110830cyrlks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/110830cyrlks.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/180419cyray1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/180419cyray1.jpg
     caption: Cyrene Reef, Apr 18 Photo shared by Abel Yeo on facebook .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/230423cyrlks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/230423cyrlks2.jpg
     caption: Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/190322smksay1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/190322smksay1.jpg
     caption: Pulau Semakau South, Mar 19 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pegasidae/volitans/160208smkstch4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/160208smkstch4.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Toh Chay Hoon on facebook
       .
 links_references: '**Links**
 
   - [Slender Seamoth (
-
   *Pegasus volitans*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/247)
@@ -197,9 +196,7 @@ Pegasus is the winged horse of Greek mythology. In one version of the myth, Pega
 
 4-6cm. Body hard, enclosed by a bony skeleton of rigid plates. The tail is enclosed in bony rings. It has a long stiff pointed snout that is made up of modified nose bones. The small mouth is found under the snout. The mouth is protrusible, i.e., it can stick out of the body. The snout usually has a white or pale tip. It has large pectoral fins that are held out horizontally and often spread out like wings. The gill openings are small. Adult slender seamoths come in various colours and patterns, usually camouflaging. Young slender seamoths are sometimes all black.
 
-Seamoths are adapted for bottom-dwelling and lack swim-bladders. The Slender seamoth (
-*Pegasus volitans*
-) is reported to "walk" over the bottom using its pelvic fins which are reduced to a pair of slender structures.
+Seamoths are adapted for bottom-dwelling and lack swim-bladders. The Slender seamoth (*Pegasus volitans*) is reported to "walk" over the bottom using its pelvic fins which are reduced to a pair of slender structures.
 
 A study of captive specimens observed the fish to shed its skin in one piece with a rapid jump, to get rid of unwanted parasites or encrusting algae on their skin. One species can bury themselves in the sand and change colours to match their surroundings.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

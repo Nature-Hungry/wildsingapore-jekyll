@@ -1,6 +1,6 @@
 ---
 title: Triple-striped flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Triple-striped flatworm on the shores of Singapore
 keywords: flat, worm, flatworm, pseudoceros, tristriatus, polyclad, turbellaria, platyhelminthes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,39 +17,39 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Sep 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/060810rlhd5700m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/tristriatus/060810rlhd5700m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/060810rlhd5700m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/060810rlhd5700m3.jpg
     caption: Raffles Lighthouse, Aug 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/060810rlhd5700m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/060810rlhd5700m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/120707jnglks4m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/120707jnglks4m3.JPG
     caption: Pulau Jong, Jun 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/060101sisg3571m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/060101sisg3571m3.jpg
     caption: Sisters Island, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/060810rlhd5700m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/060810rlhd5700m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/160625tkklks1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/160625tkklks1.jpg
     caption: Pseudoceros sp. 5 * Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng
       on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/170113tkrrk.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/170113tkrrk.jpg
     caption: Pulau Tekukor, Jan 17 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/090509sislks1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/090509sislks1.jpg
     caption: Sisters Island, May 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/130211sjilks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/130211sjilks1m3.JPG
     caption: St. John's Island, Feb 13 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/150718smketch1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/150718smketch1m3.jpg
     caption: Pulau Semakau East, Jun 15 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/160124smkelks2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/160124smkelks2.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/tristriatus/160124smkelks2a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/tristriatus/160124smkelks2a.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
       .
 size:

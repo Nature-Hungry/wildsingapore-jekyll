@@ -1,6 +1,6 @@
 ---
 title: Banded hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded hermit crab on the shores of Singapore
 keywords: banded, hermit, crab, pseudopaguristes, monoporus, diogenidae, anomura,
   decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -25,24 +25,24 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/banded/030814skdd0062m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/banded/030814skdd0062m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/banded/030814skdd0062m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/banded/030814skdd0062m3.jpg
     caption: Pulau Sekudu, Aug 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/banded/050806skdg0582m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/banded/050806skdg0582m3b.jpg
     caption: Eye stalks banded blue and orange. Pulau Sekudu, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/banded/050113sntg2834m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/banded/050113sntg2834m3.jpg
     caption: Right pincer larger. Sentosa, Jan 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/banded/110120pgllks.JPG
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/banded/110120pgllks.JPG
     caption: Punggol, Jan 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/banded/200113chgmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/banded/200113chgmn2.jpg
     caption: Changi, Jan 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/banded/200921chgwvc3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/banded/200921chgwvc3.jpg
     caption: Changi West, Sep 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/banded/150705skdmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/banded/150705skdmn.jpg
     caption: Pulau Sekudu, Jul 15 Photo shared by Marcus Ng on flickr .
 location:
 - pgl

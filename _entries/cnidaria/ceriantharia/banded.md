@@ -1,6 +1,6 @@
 ---
 title: Banded cerianthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded cerianthid on the shores of Singapore
 keywords: peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -16,31 +16,31 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
     caption: Changi, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/050818chgg1386m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/050818chgg1386m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/050426chgd2803m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/050426chgd2803m3.jpg
     caption: Smooth, sometimes purplish column. Changi, Apr 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/2007024pcnlks4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/2007024pcnlks4.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/201118nsrcssjk2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/201118nsrcssjk2.jpg
     caption: East Coast NSRCC, Nov 20 Photo shared by James Koh on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/210822ssislks4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/210822ssislks4.jpg
     caption: Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/101206cyrlks4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/101206cyrlks4m3.jpg
     caption: Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/110423tpllks6m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/110423tpllks6m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/110517tptlks7m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/110517tptlks7m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
 location:

@@ -1,6 +1,6 @@
 ---
 title: Chameleon nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chameleon nerite snail on the shores of Singapore
 keywords: chameleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,22 +26,21 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
     caption: St John's Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
     caption: St John's Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg
     caption: Changi, May 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebcok .
 links_references: '**Links**
 
   - [Chameleon nerite (
-
   *Nerita chamaleon*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86831)
@@ -49,7 +48,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Chameleon nerite (
-
   *Nerita chamaleon*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

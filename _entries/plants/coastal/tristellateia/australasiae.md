@@ -1,6 +1,6 @@
 ---
 title: Maiden's jealousy
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Maiden's jealousy on the shores of Singapore
 keywords: maiden, jealousy, tristellateia, australasiae, malpighiaceae, plant, tree,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 321819
 updated: Sep 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
 links_references: ' **Links**
 
   - [*Tristellateia australasiae*](http://floraofsingapore.wordpress.com/2010/03/26/tristellateia-australasiae/)
@@ -39,11 +39,11 @@ links_references: ' **Links**
   Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. '
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3.jpg
     caption: Changi, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/090912chgbwd0578m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tristellateia/australasiae/090912chgbwd0578m3.jpg
     caption: Changi, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/090912chgbwd0575m6la.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tristellateia/australasiae/090912chgbwd0575m6la.jpg
     caption: Planted. Changi, Sep 09
 size:
 - 300.0
@@ -71,14 +71,14 @@ zone:
    Sometimes confused with <a href="/entries/plants/coastal/caesalpinia/crista">Kuku tuapi(<i>Caesalpinia crista</i>)</a> when in bloom.
    </p>
    <div class="img-container">
-    <img style="width:auto;" src="https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/091227kntd6389m3.jpg"/>
+    <img style="width:auto;" src="https://images.naturehungry.sg/plants/coastal/tristellateia/australasiae/091227kntd6389m3.jpg"/>
     <p class="caption">
   *Kranji Nature Trail, Dec 09*
   </p>
     </div>
 </div>
 <div>
-  <img src="https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg"/>
+  <img src="https://images.naturehungry.sg/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg"/>
   Growing wild in a mangrove
   *Kranji Nature Trail, Dec 09*
 

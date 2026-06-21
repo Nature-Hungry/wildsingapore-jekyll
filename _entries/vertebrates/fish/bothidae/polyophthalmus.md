@@ -1,6 +1,6 @@
 ---
 title: Three-spot flounder
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Three-spot flounder on the shores of Singapore
 keywords: many, eyed, flat, fish, flatfish, flounder, bothidae, grammatobothus, polyophthalmus,
   soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -24,14 +24,14 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
     caption: Cyrene Reef, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg
     caption: Eyes on the left side.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg
     caption: Tail fin separated from the dorsal and anal fins .
 links_references: "**Links**\n- [Threespot flounder (\n*Grammatobothus polyophthalmus*\n\
   )](http://www.fishbase.org/summary/6638)\nfrom\n[FishBase](http://www.fishbase.org/)\n\

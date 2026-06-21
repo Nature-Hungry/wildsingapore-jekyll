@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rainbow sponge on the shores of Singapore
 keywords: smooth, green, sponge, suberites, suberitidae, porifera, field, guide, seashore,
 layout: entry
 shape: encrusting
@@ -16,24 +16,24 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/120307mmsexs04341m6l.jpg
+coverimg: https://images.naturehungry.sg/porifera/rainbow/120307mmsexs04341m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/120307mmsexs04341m6l.jpg
+  - url: https://images.naturehungry.sg/porifera/rainbow/120307mmsexs04341m6l.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/091203ubnd4949m3.jpg
+  - url: https://images.naturehungry.sg/porifera/rainbow/091203ubnd4949m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/091203ubnd4964m3.jpg
+  - url: https://images.naturehungry.sg/porifera/rainbow/091203ubnd4964m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/091203ubnd4919m3.jpg
+  - url: https://images.naturehungry.sg/porifera/rainbow/091203ubnd4919m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/091217sbglks.JPG
+  - url: https://images.naturehungry.sg/porifera/rainbow/091217sbglks.JPG
     caption: Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/200917sbwmn4.jpg
+  - url: https://images.naturehungry.sg/porifera/rainbow/200917sbwmn4.jpg
     caption: Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rainbow/150705skdlks1m3.jpg
+  - url: https://images.naturehungry.sg/porifera/rainbow/150705skdlks1m3.jpg
     caption: Pulau Sekudu, Jun 15 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
@@ -85,9 +85,7 @@ A thin layer encrusting hard surface covering 10-20cm. Sometimes with with irreg
 **Spongey home:**
 A commensal
 [barnacle](../crustacea/othercrust/ciriipedia/cirripedia)
-(
-*Acasta dofleini*
-) is reportedly sometimes seen living in this sponge.
+(*Acasta dofleini*) is reportedly sometimes seen living in this sponge.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

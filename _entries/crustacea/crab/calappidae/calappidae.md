@@ -1,6 +1,6 @@
 ---
 title: Box crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Box crabs on the shores of Singapore
 keywords: spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,19 +25,19 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
     caption: Pulau Hantu, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
     caption: Underside
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
     caption: Two different kinds of pincers.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
     caption: Reef box crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
     caption: Spotted box crab
 location:
 - tm

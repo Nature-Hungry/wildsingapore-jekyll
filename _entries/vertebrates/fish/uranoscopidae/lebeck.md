@@ -1,6 +1,6 @@
 ---
 title: Longnosed stargazer
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Longnosed stargazer on the shores of Singapore
 keywords: long, nose, star, gazer, stargazer, ichthyscopus, lebeck, uranoscopidae,
   fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -23,25 +23,25 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Uranoscopoidei
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg
     caption: Usually half buried in the sand. Chek Jawa, Oct 01
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgd5828m6la.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/uranoscopidae/lebeck/110705chgd5828m6la.jpg
     caption: Changi, Jul 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgd5830m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/uranoscopidae/lebeck/110705chgd5830m3.jpg
     caption: Changi, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3.jpg
     caption: Protrusible mouth!
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3a.jpg
     caption: Elongated nostrils - wormy-looking things next to the eyes.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/110705chgL1060431m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/uranoscopidae/lebeck/110705chgL1060431m6l.jpg
     caption: Was trapped in a driftnet and released alive. Changi, Jul 11
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

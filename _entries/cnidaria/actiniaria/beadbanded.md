@@ -1,6 +1,8 @@
 ---
 title: Banded bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 1-2cm. One row of tapered tentacles with a banded pattern. Large oral
+  relative to tentacles. Usually brownish. On rocky shores, in sand or in cracks in
+  large boulders and sea walls. Commonly seen on our shores.
 keywords: banded, bead, anemone, anthopleura, actiniidae, anthozoa, cnidarian, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -38,41 +40,40 @@ trivia_items:
 - They tuck their tentacles into their bodies at low tide
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
     caption: Chek Jawa, Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/050315cjd1785m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/050315cjd1785m3.jpg
     caption: Chek Jawa, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/050315cjd1790m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/050315cjd1790m3.jpg
     caption: Chek Jawa, Mar 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/120604pgld3895m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/120604pgld3895m3.jpg
     caption: Anthopleura dixoniana Punggol, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/120604pgld3898m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/120604pgld3898m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/120604pgld3891m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/120604pgld3891m3.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
     caption: Anthopleura buddemeieri St. John's Island, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/091021chgd3030m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/091021chgd3030m6l.jpg
     caption: Changi, Oct 09 Often found in crevices on large rocks.
     row_span: 2
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/090809sjid8699m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/090809sjid8699m3.jpg
     caption: Anthopleura dixoniana St. John's Island
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/091217sbglks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/091217sbglks.JPG
     caption: Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/160125obsll2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/160125obsll2.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Lisa Lim on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/251208meky8.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/251208meky8.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/100103tkkjk9m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/100103tkkjk9m3.jpg
     caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
 links_references: '**Links**
 
   - [Banded bead anemone (
-
   *Epiactis*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/119)
@@ -172,9 +173,7 @@ As at 2024,
 *A. handi, A. dixoniana, A. nigrescens*
 are assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-Another bead anemone sometimes seen on our shores is the Pink-spotted bead anemone (
-[*Anthopleura buddemeieri*](buddemeieri)
-). It looks very different. Pale body column with red spots along the entire length, tentacles grey with a reddish cast.
+Another bead anemone sometimes seen on our shores is the Pink-spotted bead anemone ([*Anthopleura buddemeieri*](buddemeieri)). It looks very different. Pale body column with red spots along the entire length, tentacles grey with a reddish cast.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 
 ---

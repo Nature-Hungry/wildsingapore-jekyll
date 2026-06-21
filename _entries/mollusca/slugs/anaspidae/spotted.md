@@ -1,6 +1,6 @@
 ---
 title: Spotted sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted sea hare on the shores of Singapore
 keywords: spotted, seahare, hare, aplysia, oculifera, anaspidea, opisthobranch, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -20,66 +20,66 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/110520chgd2579m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/110520chgd2579m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/110520chgd2579m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/110520chgd2579m6l.jpg
     caption: Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/090706tmftd6575m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/090706tmftd6575m3.jpg
     caption: Tanah Merah, Jun 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/191214cj.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/191214cj.jpg
     caption: Egg strings laid by the sea hare. Chek Jawa, Dec 19
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/060301kusd6934.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/060301kusd6934.jpg
     caption: Releasing purple ink. Kusu Island, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/080525ubnd4283.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/080525ubnd4283.jpg
     caption: Half buried in soft sediments. Pulau Ubin, May 08
   gallery3:
   - url: https://live.staticflickr.com/4469/36918423263_0b6f2873ed_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/190218cnyrk3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/190218cnyrk3.jpg
     caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/110520chgjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/110520chgjk1m3.jpg
     caption: Changi, May 11 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/150421chg4mn1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/150421chg4mn1m3.jpg
     caption: Changi, Apr 15 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/200622chgmn3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/200622chgmn3.jpg
     caption: Changi, Jun 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/220616chgevc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/220616chgevc1.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/100614bblks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/100614bblks1m3.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Loh Koh Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/040509skdbd0100m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/040509skdbd0100m3.jpg
     caption: Pulau Sekudu, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/121017tuslks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/121017tuslks.JPG
     caption: Tuas, Oct 12 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/220517sntmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/220517sntmn1.jpg
     caption: Sentosa Tg Rimau, May 22 Photo shared by Marcus Ng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/060301kusd6928m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/060301kusd6928m3.jpg
     caption: Releasing purple dye. Kusu Island, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/060301kusd6936m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/060301kusd6936m3.jpg
     caption: Half buried in sediments Kusu Island, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/150829lazlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/150829lazlks.JPG
     caption: Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/120621cyrrl1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/120621cyrrl1m3.jpg
     caption: Cyrene Reef, Jun 12 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/140503hntro1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/140503hntro1m3.jpg
     caption: Pulau Hantu, May 14 Photo shared by Rene Ong on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/140202tryrl.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/140202tryrl.jpg
     caption: Terumbu Raya, Feb 14 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/170612smkedc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/170612smkedc1.jpg
     caption: Pulau Semakau East, Jun 17 Photo shared by Dayna Cheah on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/220420tbjt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/220420tbjt1.jpg
     caption: Terumbu Bemban, Apr 22 Photo shared by Juria Toramae on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/spotted/220521bbbjk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/220521bbbjk1.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by James Koh on facebook .
 links_references: '**Links**
 

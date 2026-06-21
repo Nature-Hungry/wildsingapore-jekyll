@@ -1,6 +1,6 @@
 ---
 title: Winged oysters
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Winged oysters on the shores of Singapore
 keywords: winged, oyster, clam, pteria, pteriidae, bivalve, mollusc, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -19,25 +19,25 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
     caption: Several sea fan oysters on one sea fan. Changi, Jan 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/121215sislks2a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/121215sislks2a.jpg
     caption: Electroma physoides Sisters Island, Dec 12 Photo shared by Loh Kok Sheng
       on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/vulsella/200113chgsaf.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/vulsella/200113chgsaf.jpg
     caption: Sponge finger oyster in a sponge. Changi, Jan 20
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/170624cjd3250m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/170624cjd3250m3.jpg
     caption: Sea fan winged oyster
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
     caption: Sponge finger oyster
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg
     caption: Leaf oyster
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
     caption: Elongated toothed oyster
 links_references: '**Links**
 

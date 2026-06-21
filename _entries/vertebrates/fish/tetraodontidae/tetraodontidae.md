@@ -1,6 +1,6 @@
 ---
 title: Pufferfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pufferfishes on the shores of Singapore
 keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,39 +18,38 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
     caption: And inflated fish that was dead/dying and washed ashore. St. John's Island,
       Dec 16 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/081101chgik2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/081101chgik2.jpg
     caption: Fused teeth, on a dead pufferfish. Changi, Nov 08 Photo shared by Ivan
       Kwan on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/081101chgik2a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/081101chgik2a.jpg
     caption: Fine prickly skin, on a dead pufferfish. Changi, Nov 08 Photo shared
       by Ivan Kwan on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
     caption: Milk-spotted pufferfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
     caption: Spotted green pufferfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
     caption: Yelloweye pufferfish
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg
     caption: Blue-spotted pufferfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg
     caption: Starry pufferfish
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
     caption: Reticulated pufferfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
     caption: Map pufferfish
 links_references: '**Links**
 
   - [Yelloweye Puffer (
-
   *Arothron immaculatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395)
@@ -58,7 +57,6 @@ links_references: '**Links**
   ,
 
   [Rough Golden Toadfish (
-
   *Lagocephalus lunaris*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/396)
@@ -66,7 +64,6 @@ links_references: '**Links**
   ,
 
   [Milk-spotted Puffer (
-
   *Chelonodon patoca*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/397)
@@ -74,7 +71,6 @@ links_references: '**Links**
   and
 
   [Spotted Green Puffer (
-
   *Tetraodon nigroviridis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398)

@@ -1,6 +1,6 @@
 ---
 title: 'Dolphin snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dolphin snail  on the shores of Singapore
 keywords: dolphin, angaria, delphinus, trochidae, angariinae, angariidae, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -18,26 +18,26 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
     caption: Upper side usuallyunder a thick layer of encrusting organisms. Tanah
       Merah, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
     caption: Tanah Merah, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
     caption: Tanah Merah, Oct 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG
     caption: Sentosa Serapong, May 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg
     caption: Shell of a dead snail. Lazarus Island, Feb 11 Photo shared by Marcus
       Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg
     caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo on facebook
       .
 links_references: "**Links**\n- *[Angaria delphinus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90083)*\n\

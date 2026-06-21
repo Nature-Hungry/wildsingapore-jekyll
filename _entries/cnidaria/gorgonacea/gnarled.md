@@ -1,6 +1,6 @@
 ---
 title: Gnarled sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gnarled sea fan on the shores of Singapore
 keywords: seafan, fan, echinomuricea, pulchra, plexauridae, gorgonian, gorgonacea,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -10,26 +10,26 @@ genus: Echinomuricea
 species: pulchra*
 attributes: []
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3a.jpg
     caption: Stems look gnarled with polyps retracted.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/150616chgfpd5415m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/150616chgfpd5415m3.jpg
     caption: Closer look at the stem with polyps retracted.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/050820bbg1706m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/050820bbg1706m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3.jpg
     caption: Changi, Sep 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/gnarled/030714bbd0045m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/030714bbd0045m3.jpg
     caption: Beting Bronok, Jul 03
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/030618bbd0161m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/030618bbd0161m3.jpg
     caption: Squid egg capsules attached to the sea fan. Beting Bronok, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/120704chgd6895m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/120704chgd6895m3.jpg
     caption: Winged oyster on the sea fan. Changi, Jul 12
 links_references: '**Links**
 

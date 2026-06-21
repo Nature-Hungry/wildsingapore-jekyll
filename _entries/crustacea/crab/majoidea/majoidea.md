@@ -1,6 +1,6 @@
 ---
 title: 'Spider crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spider crabs  on the shores of Singapore
 keywords: spider, crab, spider crab, majidae, majoidea, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info,  photo
@@ -25,24 +25,24 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Majoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
     caption: Decorated upperside
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg
     caption: Underside, only the pincers are 'undecorated'. Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg
     caption: Almost impossible to spot until it moves. Cyrene Reef, Jul 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg
     caption: Velcro crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
     caption: Sea toad spider crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/tiny/060225cjg4983m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/tiny/060225cjg4983m3.jpg
     caption: Tiny spider crabs
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
     caption: Arrow-headed spider crab
 links_references: '**Links**
 
@@ -136,22 +136,14 @@ Spider crabs are encountered on all our shores. But they're hard to spot. In add
 Body width 0.5-3cm. These crabs are well disguised. They have long, skinny legs that give them their common name. Some have legs and bodies that resemble roots or other bits of debris so they blend perfectly with their surroundings. Body usually triangular, tapering to a point at the head with the small eyes on the sides of the tip. The body is often covered with spines, knobs and hooked hairs. Some decorate themselves with living seaweeds, sponge, other animals or bits of coral and rubbish.They are also slow-moving, so it's hard to penetrate their disguise.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Special Spider:**
-Our tiny spider crabs are cousins of the biggest crab in the world! The Japanese spider crab (
-*Macrocheira kaempferi*
-), with a leg span of 4m, belongs to the same family.
+Our tiny spider crabs are cousins of the biggest crab in the world! The Japanese spider crab (*Macrocheira kaempferi*), with a leg span of 4m, belongs to the same family.
 
 ## Human uses
 
 Unfortunately, the
 [Velcro crab](retusa)
-(
-*Camposcia retusa*
-) is among those sold in the live aquarium trade.
-Some large spider crabs in temperate seas are important commercially as seafood. They are harvested by the ton. These include the Canadian snow crab (
-*Chionoecetes opilio*
-) which can have a body width of about 16cm, leg span of 90cm, and weigh more than 1kg; and the European spiny spider crab (
-*Maja squinado*
-) which can have a body width of 8.5-20cm and pincers up to 1m long!
+(*Camposcia retusa*) is among those sold in the live aquarium trade.
+Some large spider crabs in temperate seas are important commercially as seafood. They are harvested by the ton. These include the Canadian snow crab (*Chionoecetes opilio*) which can have a body width of about 16cm, leg span of 90cm, and weigh more than 1kg; and the European spiny spider crab (*Maja squinado*) which can have a body width of 8.5-20cm and pincers up to 1m long!
 **Status and threats:**
 One of our spider crabs are listed among the threatened animals in Singapore.
 However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.

@@ -1,6 +1,6 @@
 ---
 title: Gold-spotted mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gold-spotted mudskipper on the shores of Singapore
 keywords: gold, spotted, mudskipper, mud, skipper, fish, periophthalmus, chrysospilos,
   gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -26,54 +26,53 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/150314cjnhcd2653m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/150314cjnhcd2653m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/150314cjnhcd2653m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/150314cjnhcd2653m3.jpg
     caption: Male has elongated first and second spines on the first dorsal fin. Chek
       Jawa, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/110220lazd6337m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/110220lazd6337m6l.jpg
     caption: Lazarus Island, Feb 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/100111cjjk1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/100111cjjk1m3.jpg
     caption: Spitting out mudballs as it digs a burrow. Chek Jawa, Jan 10 Photo shared
       by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/041214smkd8794m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/041214smkd8794m3.jpg
     caption: Sometimes seen moving in a group . Pulau Semakau, Dec 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/110611cjlks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/110611cjlks.JPG
     caption: Mudskipper eating a tubeworm . Chek Jawa, Jun 11 Photo shared by Loh
       Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/160306labmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/160306labmn.jpg
     caption: Berlayar Creek, Mar 16 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/230617lyglks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/230617lyglks2.jpg
     caption: Changi Loyang, Jun 23 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/170714prpay1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/170714prpay1.jpg
     caption: Pasir Ris Park, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/260103prpezxh1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/260103prpezxh1.jpg
     caption: Pasir Ris Park (E), Jan 26 Photo shared by Zen Xuan He on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/090609tmjk1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/090609tmjk1m3.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/160210nsrccjt.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/160210nsrccjt.jpg
     caption: East Coast Park, Feb 16 Photo shared by Jonathan Tan on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/250909lazlks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/250909lazlks5.jpg
     caption: Juvenile/Night colouration? Seringat-Kias mangrove lagoon, Sep 25 Photo
       shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/260104trmrqo7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/260104trmrqo7.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/251207hntml3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/251207hntml3.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/chrysospilos/091205sudtch7m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/091205sudtch7m3.jpg
     caption: . Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
 links_references: '**Links**
 
   - [Gold-spotted mudskipper (
-
   *Periophthalmus chrysospilos*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/371)

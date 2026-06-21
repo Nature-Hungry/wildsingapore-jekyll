@@ -1,6 +1,6 @@
 ---
 title: 'Creeper snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Creeper snails  on the shores of Singapore
 keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,36 +17,35 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg
     caption: Sentosa, Oct 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg
     caption: Shell opening.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg
     caption: Operculum with only a few whorls.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg
     caption: Plain creeper snails sometimes seen in large numbers. Pasir Ris Park,
       Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg
     caption: Empty shells may be taken over by tiny huddling hermit crabs . St John's
       Island, Jan 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
     caption: Plain creeper snails
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg
     caption: Obelisk creeper snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
     caption: Variegated creeper snail
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg
     caption: Mangrove creeper snail
 links_references: '**Links**
 
   - [Traill''s cerith (
-
   *Cerithium trailli*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=189)
@@ -157,9 +156,7 @@ Should the tiny snail die, the empty shell is often taken over by
 Some of the prettier species are collected for the shell trade.
 
 **Status and threats:**
-Traill's creeper (
-*Cerithium trailli*
-) is listed as 'Endangered' on the Red List of the threatened animals of Singapore, as shores where it was originally found have been lost to reclamation. Like other creatures of the intertidal zone, Creeper snails are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
+Traill's creeper (*Cerithium trailli*) is listed as 'Endangered' on the Red List of the threatened animals of Singapore, as shores where it was originally found have been lost to reclamation. Like other creatures of the intertidal zone, Creeper snails are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---
 

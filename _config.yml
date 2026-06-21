@@ -13,7 +13,7 @@ highlighter:      rouge    # Pygments is largely deprecated; Rouge is the Jekyll
 version:          2.1.0
 
 # Backblaze Assets Directly
-b2_url: "https://f003.backblazeb2.com/file/naturehungry/"
+b2_url: "https://images.naturehungry.sg/"
 
 github:
   repo:           https://github.com/Nature-Hungry/nature-hungry.github.io

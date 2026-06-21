@@ -1,6 +1,6 @@
 ---
 title: Coin green seaweeds
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Coin green seaweeds on the shores of Singapore
 keywords: coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, algae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,23 +17,22 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 12
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg
     caption: Big and small coin green seaweed next to one another. <br>Kusu Island,
       May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg
     caption: A pair of <a href="/entries/mollusca/slugs/sacoglossa/pusilla">Halimeda
       slugs</a> on the seaweed. <br>Labrador, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg
     caption: Small coin green seaweed
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
     caption: Big coin green seaweed
 links_references: '**Links**
 
   - [Calcified seaweed (
-
   *Halimeda*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/102)
@@ -156,9 +155,7 @@ These seaweeds can relocate their chlorophyll (the green pigment used in photosy
 
 In addition to calcium carbonate, they also have chemicals that protect them from herbivores. Despite this, some slugs like the
 [Halimeda slug](../../../mollusca/slugs/sacoglossa/pusilla)
-(
-*Elysiella pusilla*
-) actually eat the seaweed and incorporates these chemicals into their tissues to protect themselves!
+(*Elysiella pusilla*) actually eat the seaweed and incorporates these chemicals into their tissues to protect themselves!
 
 The calcium carbonate released from dead
 *Halimeda*

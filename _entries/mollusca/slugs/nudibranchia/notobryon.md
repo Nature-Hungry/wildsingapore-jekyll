@@ -1,6 +1,6 @@
 ---
 title: Notobryon nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Notobryon nudibranch on the shores of Singapore
 keywords: notobryon, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -27,19 +27,19 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg
     caption: Sisters Island, Nov 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/notobryon/051105sisg3053m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/notobryon/051105sisg3053m3.jpg
     caption: Sisters Island, Nov 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/notobryon/110519bbjk.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/notobryon/110519bbjk.jpg
     caption: Beting Bronok, May 11 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/notobryon/110518bblks6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/notobryon/110518bblks6m3.jpg
     caption: Beting Bronok, May 11 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

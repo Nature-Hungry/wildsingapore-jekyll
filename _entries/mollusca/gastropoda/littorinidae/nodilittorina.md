@@ -1,6 +1,6 @@
 ---
 title: Knobbly periwinkle snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Knobbly periwinkle snail on the shores of Singapore
 keywords: knobbly, periwinkle, echinolittorina, malaccana, nodilittorina, trochoides,
   littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -25,19 +25,19 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg
     caption: St. John's Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
     caption: Lazarus Island, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5611m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5611m3.jpg
     caption: Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
     caption: Chek Jawa, May 05
 links_references: '**Links**
 

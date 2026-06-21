@@ -1,6 +1,6 @@
 ---
 title: Elongated toothed oyster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elongated toothed oyster on the shores of Singapore
 keywords: wader, tree, oyster, isognomon, isognomum, pteriidae, isognominidae, bivalve,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,28 +22,27 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
     caption: A large area of mother-of-pearl relative to shell length. Tanah Merah,
       Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3a.jpg
     caption: A long row of notches at the hinge.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/121115tsmkd1126m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/121115tsmkd1126m3.jpg
     caption: Terumbu Semakau, Nov 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9826m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9826m6l.jpg
     caption: Beting Bemban Besar, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9825m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9825m3.jpg
     caption: A long row of notches at the hinge.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/isognomum/210811tryvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/210811tryvc2.jpg
     caption: Terumbu Raya, Aug 21 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 
   - [Wader tree oyster (
-
   *Isognomon isognomum*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84370&genusname=Isognomon&speciesname=isognomum)
@@ -51,7 +50,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Wader tree oyster (
-
   *Isognomon isgonomum*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

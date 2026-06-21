@@ -1,6 +1,6 @@
 ---
 title: 'Cotton candy red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cotton candy red seaweed  on the shores of Singapore
 keywords: fluffy, cotton, candy, red, seaweed, weed, algae, asparagopsis, bonnemaisoniaceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,14 +22,14 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Ceramiales
 updated: Oct 15
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
     caption: Raffles Lighthouse, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/fluffy/101106burd2507m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/fluffy/101106burd2507m3.jpg
     caption: Terumbu Buran, Nov 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/fluffy/251205cj1.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/fluffy/251205cj1.jpg
     caption: Bloom on seagrasses Chek Jawa, Dec 25
 location:
 - lab

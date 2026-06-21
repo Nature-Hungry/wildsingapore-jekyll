@@ -1,6 +1,6 @@
 ---
 title: Rock periwinkle snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rock periwinkle snail on the shores of Singapore
 keywords: rock, periwinkle, littorinidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,17 +24,17 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Littorinoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
     caption: Sentosa, Aug 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/101207ubnd3209m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/101207ubnd3209m3.jpg
     caption: Pulau Ubin, Dec 10 East Coast Park, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/120817nsrccd9858m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/120817nsrccd9858m6l.jpg
     caption: East Coast Park, Aug 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/littorinidae/rock/160125obsmn10.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/160125obsmn10.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

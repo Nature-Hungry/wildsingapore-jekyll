@@ -1,6 +1,6 @@
 ---
 title: 'Mushroom  corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mushroom  corals  on the shores of Singapore
 keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -17,34 +17,34 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
     caption: Young mushroom corals start life attached to a hard surface on stalks.
       Tanah Merah, Jul 2011
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
     caption: '''Stalk'' on underside of dead mushroom coral. Sisters Island, Aug 08'
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060131sjig4475m3e.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060131sjig4475m3e.jpg
     caption: Underside of a mushroom coral. St. John's Island, Jan 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
     caption: Circular mushroom coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
     caption: Oval mushroom coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg
     caption: Sunflower mushroom coral often mistaken for a sea anemone.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/polyphyllia/100502tryd2301m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/polyphyllia/100502tryd2301m3.jpg
     caption: Mole mushroom coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
     caption: Tongue mushroom coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
     caption: Feather mushroom coral
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
     caption: Bracket mushroom coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
     caption: Lithophyllon mushroom coral
 links_references: '**Links**
 
@@ -172,9 +172,7 @@ Most members of the Family Fungiidae are solitary corals that are free-living (i
 
 Unlike most other hard corals which are colonies of small polyps, most mushroom corals are a single giant polyp. Some species have a circular disk-like skeleton, others are long and tongue-like. Most have short tentacles, except for the
 [Sunflower mushroom coral](heliofungia)
-(
-*Heliofungia actiniformis*
-) that has such long tentacles that it is often
+(*Heliofungia actiniformis*) that has such long tentacles that it is often
 [mistaken for a sea anemone](../../cflargecnidarians)
 .
 
@@ -194,9 +192,7 @@ A mushroom coral is often home to different kinds of small animals from shrimps 
 Some species of mushroom corals can reproduce by special asexual reproduction. A daughter colony (anthocauli) is formed when a part of the parent's skeleton loses its calcium (decalcification) resulting in clones that develop on the parent's body and become self-sufficient before detaching from the parent.
 
 **Status and threats:**
-The Sunflower mushroom coral (
-*Heliofungia actiniformis*
-) and some other mushroom corals are listed as threatened on the
+The Sunflower mushroom coral (*Heliofungia actiniformis*) and some other mushroom corals are listed as threatened on the
 [IUCN global listing](http://www.iucnredlist.org/)
 . Like other creatures of the intertidal zone, all mushroom corals are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection by hobbyists also have an impact on local populations.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

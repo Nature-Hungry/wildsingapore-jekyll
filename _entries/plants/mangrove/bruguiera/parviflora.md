@@ -1,6 +1,6 @@
 ---
 title: 'Lenggadai '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lenggadai  on the shores of Singapore
 keywords: bakau, bruguiera, parviflora, rhizophoraceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,19 +23,18 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 189948
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/parviflora/110311prpd7074m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/110311prpd7074m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/parviflora/100411prpd1035m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/100411prpd1035m3a.jpg
     caption: Visited by ants. Pasir Ris, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg
     caption: Tassels on petal tips. Pasir Ris, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg
     caption: Sepals clasp the propagule. Pasir Ris Park, Aug 09
 links_references: '**Links**
 
   - [Lenggadai (
-
   *Bruguiera parviflora*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1055)
@@ -137,11 +136,11 @@ According to Giersen, the heavy to very heavy timber is hard and strong, and eas
 **Status and threats:**
 This plant is listed as 'Endangered' on the Red List of threatened plants of Singapore. It is threatened by habitat degradation.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/parviflora/110311prpd7074m6l.jpg)*
+*![](https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/110311prpd7074m6l.jpg)*
 Neat conical canopy.
 *Pasir Ris, Mar 11
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/parviflora/100411prpd1040m3.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/100411prpd1040m3.jpg)*
 Long narrow flowers, several on one stalk.
 *Pasir Ris Park, Apr 10*
 

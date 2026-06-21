@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Colourful chimney sponge on the shores of Singapore
 keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: ball
@@ -16,22 +16,22 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/120508skdd1842m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/chimney/120508skdd1842m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/100518tbbd3081m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chimney/100518tbbd3081m3.jpg
     caption: Beting Bemban Besar, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/100518tbbd3081m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/chimney/100518tbbd3081m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/120508skdd1842m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/chimney/120508skdd1842m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/230424blylks3.jpg
+  - url: https://images.naturehungry.sg/porifera/chimney/230424blylks3.jpg
     caption: Berlayar Creek, Apr 23 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/230424blylks3a.jpg
+  - url: https://images.naturehungry.sg/porifera/chimney/230424blylks3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/170401tptrl.jpg
+  - url: https://images.naturehungry.sg/porifera/chimney/170401tptrl.jpg
     caption: Terumbu Pempang Tengah, Apr 17 Photo shared by Russel Low on facebook
       .
 links_references: '**Links**
@@ -78,7 +78,7 @@ This colourful sponge with short tubular chimneys is sometimes seen on some of o
 
 Ball shaped sponge 10-15cm, with regularly shaped chimneys about 1cm in diameter, 1-2cm tall. Orange, olive-yellow, brown.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/chimney/120508skdd1842m3.jpg)
+![](https://images.naturehungry.sg/porifera/chimney/120508skdd1842m3.jpg)
 
 *Pulau Sekudu, May 12*
 

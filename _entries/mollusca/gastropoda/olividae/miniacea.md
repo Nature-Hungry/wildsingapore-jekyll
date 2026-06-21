@@ -1,6 +1,6 @@
 ---
 title: Orange-mouth olive snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange-mouth olive snail on the shores of Singapore
 keywords: olive, snail, shell, oliva, miniacea, olividae, gastropod, mollusc, sand,
   collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,39 +18,38 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
     caption: Cyrene Reef, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
     caption: Spire flattened with short pointed tip.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3.jpg
     caption: Shell opening often orange or orangey.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/110830cyrd0488m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/110830cyrd0488m3.jpg
     caption: Cyrene Reef, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
     caption: Cyrene Reef, Aug 11
   gallery3:
   - url: https://live.staticflickr.com/4583/38793224572_99b6c0b452_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/220616chgeccn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/220616chgeccn1.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/2007024pcnlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/2007024pcnlks1.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/081017cyrtch02m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/081017cyrtch02m3.jpg
     caption: Cyrene Reef, Oct 08 Photo shared by Toh Chay Hoon on her flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/251011tgrlks12a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/251011tgrlks12a.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/miniacea/260104trmyls3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/260104trmyls3a.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
 links_references: '**Links**
 
   - [Redmouth olive (
-
   *Oliva miniacea*
 
   )](http://www.sealifebase.org/summary/SpeciesSummary.php?id=87039)
@@ -58,7 +57,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet and photo.
 
   - [Orange-mouth olive snail (
-
   *Olivia sericea*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=202)

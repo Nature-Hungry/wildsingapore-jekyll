@@ -1,6 +1,6 @@
 ---
 title: Limpets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Limpets on the shores of Singapore
 keywords: limpet, lottiidae, nacellidae, siphonariidae, fissurellidae, gastropod,
   mollusc, scutus, true, false, shield, snail, shell, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -19,58 +19,58 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Ostreoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
     caption: A limpet is a snail with an umbrella shaped shell. Pulau Tekukor, Apr
       13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg
     caption: East Coast Park, Aug 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/limpets/040502cjd0134m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/limpets/040502cjd0134m3.jpg
     caption: Limpets in the middle of a well-grazed portion of a boulder. Chek Jawa,
       May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/limpets/050412tusd2391m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/limpets/050412tusd2391m3.jpg
     caption: Home scar of recently demised limpet. Tuas, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg
     caption: Drill snail drilled a hole in the limpet shell. St. John's Island, Sep
       07 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
     caption: A True limpet, this Smooth limpet breathes through gills. Chek Jawa,
       Jan 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
     caption: A False limpet, this Guam false limpet , breathes through lungs. Sisters
       Island, Nov 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg
     caption: Often mistaken for a slug, the Hoof-shield limpet has a body much bigger
       than its shell! Chek Jawa, Jul 02
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg
     caption: With egg masses? East Coast Park, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg
     caption: East Coast Park, Aug 11
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
     caption: Smooth limpet
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/070602sjig9881m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/070602sjig9881m3.jpg
     caption: Key-hole limpet
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
     caption: Star limpets
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg
     caption: Guam false limpet
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg
     caption: Javan false limpet
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
     caption: Flat false limpet
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg
     caption: Hoof-shied limpet
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg
     caption: Hoof-shied limpet
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
     caption: Hoof-shied limpet
 links_references: '**Links**
 
@@ -292,8 +292,7 @@ which have a hole at the tip of their conical shells. Water is sucked in from un
 
 Another member of the Family Fissurellidae are the
 [Shield-limpets](scutus)
-(
-*Scutus*
+(*Scutus*
 sp.). Their bodies are a lot larger than their shell. In fact, the shell might be completely covered by their mantle, making them appear to be
 [slugs](../../slug)
 . A Shield-limpet's body usually folds up around the edges of the shell and may cover most of the shell. They come in various colours. Their body may be black or beige, and shell white or brown. These limpets are commonly found under rocks on our shores.

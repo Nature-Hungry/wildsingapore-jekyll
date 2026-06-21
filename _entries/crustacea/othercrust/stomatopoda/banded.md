@@ -1,6 +1,6 @@
 ---
 title: Banded mantis shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded mantis shrimp on the shores of Singapore
 keywords: mantis, shrimp, lysiosquilla, stomatopod, stomatopoda, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,34 +24,34 @@ order: Stomatopoda
 suborder: Unipeltata
 superfamily: Lysiosquilloidea
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/100527tmd3635m6a.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/100527tmd3635m6a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/100527tmd3635m6a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/100527tmd3635m6a.jpg
     caption: Tanah Merah, May 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/100527tmd3633m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/100527tmd3633m3a.jpg
     caption: Tanah Merah, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/100527tmd3640m6la.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/100527tmd3640m6la.jpg
     caption: Tanah Merah, May 10
   gallery3:
   - url: https://live.staticflickr.com/4518/24972145928_e6a1cc37da_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/090529chgjkm6.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/090529chgjkm6.jpg
     caption: Changi, May 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/090529chgjkm3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/090529chgjkm3.jpg
     caption: Changi, May 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/120722cyrlks.JPG
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/120722cyrlks.JPG
     caption: Cyrene, Jul 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/240410cyrky2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/240410cyrky2.jpg
     caption: Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/220101smksky1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/220101smksky1.jpg
     caption: Pulau Semakau (South), Jan 22 Photo shared by Kelvin Yong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/220104tkkvc1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/220104tkkvc1.jpg
     caption: Pulau Tekukor, Jan 22 Photo shared by Vincent Choo on facebook .
 location:
 - chg

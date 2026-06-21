@@ -1,6 +1,6 @@
 ---
 title: 'Flower moon crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flower moon crab  on the shores of Singapore
 keywords: reticulated, moon, crab, matuta, planipes, matutidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -29,19 +29,18 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
     caption: Changi, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/planipes/050511cftd3257m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/planipes/050511cftd3257m3.jpg
     caption: Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/planipes/080706chg7404m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/planipes/080706chg7404m3.jpg
     caption: Changi, Jul 08
 links_references: '**Links**
 
   - [Flower moon crab (
-
   *Matuta planipes*
 
   )](http://sealifebase.org/Summary/SpeciesSummary.php?id=83540)

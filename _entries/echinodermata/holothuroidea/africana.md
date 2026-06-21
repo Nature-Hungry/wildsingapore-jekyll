@@ -1,6 +1,6 @@
 ---
 title: Little African sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Little African sea cucumber on the shores of Singapore
 keywords: cucumber, seacucumber, afrocucumis, africana, holothuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,44 +25,44 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/110719sntd7415m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/110719sntd7415m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/110719sntd7415m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/110719sntd7415m3.jpg
     caption: Several seen together under one stone. Sentosa, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/050325sjig3642m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/050325sjig3642m3.jpg
     caption: Tube feet In water . St. John's Island, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/120618tmnbd5454m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/120618tmnbd5454m3.jpg
     caption: Feeding tentacles . Tanah Merah, Jun 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/afrocucumis2a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/afrocucumis2a.jpg
     caption: Ossicles, from Teo Siyang's paper .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/afrocucumis1a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/afrocucumis1a.jpg
     caption: Feeding tentacles, from Teo Siyang's paper .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/140509prplks1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/140509prplks1m3.jpg
     caption: Pasir Ris Park, May 14 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/101010tmik1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/101010tmik1m3.jpg
     caption: East Coast Park, Oct 10 Photo shared by Ivan Kwan on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/251208melks11.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/251208melks11.jpg
     caption: Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/120407lazlks3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/120407lazlks3m3.jpg
     caption: Lazarus, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/240528tslvc8.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/240528tslvc8.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/090711sjigl4m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/090711sjigl4m3.jpg
     caption: St. John's Island, Jul 09 Photo shared by Geraldine Lee on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/240212sjilks3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/240212sjilks3.jpg
     caption: St John's Island, Feb 24 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/100528tkklks.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/100528tkklks.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/240309tkrrk3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/240309tkrrk3.jpg
     caption: Pulau Tekukor, Mar 24 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/africana/121113smklks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/121113smklks.JPG
     caption: Pulau Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

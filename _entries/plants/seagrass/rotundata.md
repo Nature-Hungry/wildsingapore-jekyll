@@ -1,6 +1,8 @@
 ---
 title: 'Smooth ribbon seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Narrow and shorter ribbon-like leaves with rounded or squarish tips without
+  serrations. Rhizomes thick and smooth. Seen on Chek Jawa, Tanah Merah and Cyrene
+  Reef.
 keywords: ribbon, grass, cymodocea, rotundata, cymodoceaceae, potamogetonaceae, cymodoceaceae,
   seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -26,16 +28,16 @@ updated: Mar 14
 rdb: CR
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/rotundata/060114cjg3880m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/rotundata/060114cjg3880m3.jpg
     caption: Thick rhizomes with 2-7 leaves. Chek Jawa, Nov 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/rotundata/100605tmc4731m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/rotundata/100605tmc4731m6l.jpg
     caption: After the oil spill in May 10. Tanah Merah, Jun 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/rotundata/120806tmfts02206m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/rotundata/120806tmfts02206m6l.jpg
     caption: Tanah Merah, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/rotundata/110929tmftd1579m6la.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/rotundata/110929tmftd1579m6la.jpg
     caption: Tanah Merah, Sep 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/rotundata/110929tmftd1579m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/rotundata/110929tmftd1579m6l.jpg
     caption: Tanah Merah, Sep 11
 links_references: '**Links**
 
@@ -109,9 +111,7 @@ There is a small patch of this seagrass on Chek Jawa and they have also been see
 
 Smooth ribbon seagrass is found throughout tropical Indo-West Pacific usually in clear water reefs, growing where it is exposed for only a short time during low spring tide. It is fast growing and believed to play a role in habitat recovery. It is not as well studied as
 [Serrated ribbon seagrass](cymodoceaceae/serrulata)
-(
-*Cymodocea serrulata*
-).
+(*Cymodocea serrulata*).
 
 ## Features
 
@@ -136,13 +136,13 @@ are not available.
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/rotundata/090627cjd5679m6l.jpg)*
+*![](https://images.naturehungry.sg/plants/seagrass/rotundata/090627cjd5679m6l.jpg)*
 This seagrass grows quite near
 
 the Chek Jawa boardwalk.
 *Chek Jawa, Jun 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/rotundata/100602tmd5158m3.jpg)*
+![](https://images.naturehungry.sg/plants/seagrass/rotundata/100602tmd5158m3.jpg)*
 Patches growing on an artificial beach
 *Tanah Merah, Jun 10*
 **

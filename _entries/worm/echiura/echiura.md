@@ -1,6 +1,6 @@
 ---
 title: Spoon worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spoon worms on the shores of Singapore
 keywords: spoon, worm, spoonworm, echiura, echiuran, annelid, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -9,7 +9,7 @@ genus: Class
 species: Echiura
 attributes: []
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/080801chgd8555m3.jpg
+coverimg: https://images.naturehungry.sg/worm/echiura/echiura/080801chgd8555m3.jpg
 links_references: '**Links**
 
   - [Introduction to the Echiura: Spoon Worms and Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiura.html)on
@@ -24,33 +24,33 @@ links_references: '**Links**
   of Thomson Learning Inc., 7th Edition. pp. 963'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/080801chgd8555m3.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/080801chgd8555m3.jpg
     caption: Changi, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/080801chgd8555m3b.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/080801chgd8555m3b.jpg
     caption: Spoon-shaped prostomium.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/070224cjd8556m3.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/070224cjd8556m3.jpg
     caption: Chek Jawa, Feb 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/2007024chgtch3.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/2007024chgtch3.jpg
     caption: Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/220615prpccn1.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/220615prpccn1.jpg
     caption: Pasir Ris Park, Jun 22 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/260105prpezxh6.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/260105prpezxh6.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/240722lygrk2.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/240722lygrk2.jpg
     caption: Changi (Fairy Point), Jul 24 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/120703chgmn.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/120703chgmn.jpg
     caption: Changi, Jul 12 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/160511chg7mn1.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/160511chg7mn1.jpg
     caption: Changi, May 16
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/160511chg7mn1a.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/160511chg7mn1a.jpg
     caption: Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/echiura/echiura/250628pcnky1.jpg
+  - url: https://images.naturehungry.sg/worm/echiura/echiura/250628pcnky1.jpg
     caption: East Coast PCN, Jun 25 Photo shared by Kelvin Yong on facebook .
 location:
 - prp

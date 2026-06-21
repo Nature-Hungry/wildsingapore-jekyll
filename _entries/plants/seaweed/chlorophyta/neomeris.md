@@ -1,6 +1,6 @@
 ---
 title: Taugeh seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Taugeh seaweed on the shores of Singapore
 keywords: white, stem, sausage, seaweed, weed, green, neomeris, dasycladaceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,32 +19,32 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3.jpg
     caption: Sentosa, Dec 10 Sentosa, Dec 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/101223sntd3942m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/101223sntd3942m6l.jpg
     caption: Sentosa, Dec 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/070408sntg8568m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/070408sntg8568m3.jpg
     caption: Sentosa, Apr 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/111224labd4775m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/111224labd4775m6l.jpg
     caption: Labrador, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/111224labd4775m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/111224labd4775m3.jpg
     caption: Labrador, Dec 11 The tiny spheres exposed produce spores (sporangium).
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/160124smkell4.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/160124smkell4.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Lisa Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/200626tptvc1.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/200626tptvc1.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/100601slud4706m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/100601slud4706m3b.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/100130brkd8474m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/100130brkd8474m3b.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/neomeris/091204pawd5388m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/neomeris/091204pawd5388m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 
@@ -156,8 +156,7 @@ species. The species are hard to tell apart in the field.
 
 **Sometimes confused with**
 [green sea sausage seaweeds](bornetella)
-(
-*Bornetella*
+(*Bornetella*
 sp.) but these are completely green and don't have white stems.
 
 Neomeris is the name of one of the 50 Greek nymphs or sea goddesses collectively called the Nereides.

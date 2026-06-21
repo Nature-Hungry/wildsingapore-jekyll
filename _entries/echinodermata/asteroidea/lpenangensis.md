@@ -1,6 +1,6 @@
 ---
 title: Six-armed Luidia sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Six-armed Luidia sea star on the shores of Singapore
 keywords: sand, sea star, seastar, starfish, star, fish, luidia, penangensis, luidiidae,
   asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -18,24 +18,24 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
     caption: Chek Jawa, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/090110cjd4808m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/090110cjd4808m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/090110cjd4787m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/090110cjd4787m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg
     caption: Pointed tube feet.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/210100chgsafmn1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/210100chgsafmn1.jpg
     caption: Changi Creek, Jan 21
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/210100chgsafmn1a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/210100chgsafmn1a.jpg
     caption: Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

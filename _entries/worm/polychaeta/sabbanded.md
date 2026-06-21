@@ -1,6 +1,6 @@
 ---
 title: Banded fanworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded fanworm on the shores of Singapore
 keywords: banded, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,53 +18,53 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/060611cjd2781m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/060611cjd2781m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/060611cjd2781m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/060611cjd2781m3.jpg
     caption: Chek Jawa, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/060611cjd2781m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/060611cjd2781m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/080425cyrd1685m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/080425cyrd1685m3.jpg
     caption: Growing among seagrasses, also two-toned. Cyrene Reef, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/070406hntg8511m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/070406hntg8511m3.jpg
     caption: Growing in living hard coral. Pulau Hantu, Apr 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/220616chgevc4.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/220616chgevc4.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/150706srplks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/150706srplks.JPG
     caption: Sentosa Serapong, Jul 11 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/251106lazky1.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/251106lazky1.jpg
     caption: Lazarus Island, Nov 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/110220lazro3m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/110220lazro3m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/250909lazlks9.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/250909lazlks9.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on
       facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/orange/130628thntlks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/orange/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/100502trylks3m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/100502trylks3m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/110423tpllks5m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/110423tpllks5m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/100530tbkd4378m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/100530tbkd4378m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/100131slud8754m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/100131slud8754m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/100601slud4817m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/100601slud4817m3.jpg
     caption: Pulau Salu, Jun 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/091205sudlks3m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/091205sudlks3m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/091205pawlks17m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/091205pawlks17m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/100613sngd5516m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/100613sngd5516m3a.jpg
     caption: Pulau Senang, Jun 10
 location:
 - chg

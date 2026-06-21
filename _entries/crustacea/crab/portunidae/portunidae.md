@@ -1,6 +1,6 @@
 ---
 title: 'Swimming crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Swimming crabs  on the shores of Singapore
 keywords: swimming, crab, portunidae, thalamita, decapod, crustrace, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info
@@ -25,69 +25,69 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Portunoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
     caption: Mating swimming crabs Pulau Sekudu, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/110517tptd1379m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/110517tptd1379m3.jpg
     caption: Brown crab mating with a red one. Both are Red swimming crabs . Terumbu
       Pempang Tengah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/250812tbmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/250812tbmn2.jpg
     caption: With eggs on the belly. Terumbu Bemban, Aug 25 Photo shared by Marcus
       Ng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
     caption: Flower crab (top) next to its moulted shell (bottom) Sentosa, Jul 04
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/090112smkd5112m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/090112smkd5112m3.jpg
     caption: Threat posture. Pulau Semakau, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/110517tptd1536m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/110517tptd1536m3b.jpg
     caption: Eating a heart urchin. Terumbu Pempang Tengah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/041214smkd8903m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/041214smkd8903m3.jpg
     caption: Eating a jellyfish Pulau Semakau, Dec 04
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg
     caption: Eating a bristleworm Pulau Semakau (West), Jul 25 Photo shared by Jayden
       Kang on facebok .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/260101cryyls4a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/260101cryyls4a.jpg
     caption: Caught an amphipod? Cyrene, Feb 26 Photo by Yan Le Su on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/purpleleg/090511chgd1344m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/090511chgd1344m3.jpg
     caption: Eating another swimming crab. Changi, Aug 08
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/111128sntd4168m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/111128sntd4168m3.jpg
     caption: Mud crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
     caption: Flower crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg
     caption: Tiny flower crabs
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
     caption: Purple legged swimming crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg
     caption: Red swimming crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/050623cjd4115m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/050623cjd4115m3.jpg
     caption: Red swimming crab
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/anisodon/130726chgsafd0475m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/anisodon/130726chgsafd0475m3.jpg
     caption: Orange-clawed swimming crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
     caption: Blue-spined swimming crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg
     caption: Mottled swimming crab
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg
     caption: Banded-leg swimming crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg
     caption: Powder blue-clawed swimming crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/110730tmftd7804m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/blue/110730tmftd7804m3.jpg
     caption: Blue swimming crab
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/natator/120124sisd6045m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/natator/120124sisd6045m3.jpg
     caption: Ridged swimming crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg
     caption: Blood-spotted swimming crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
     caption: Crucifix swimming crab
 links_references: '**Links**
 
@@ -100,7 +100,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mud Crabs (
-
   *Scylla*
 
   sp)](http://mangrove.nus.edu.sg/guidebooks/text/2045)
@@ -108,7 +107,6 @@ links_references: '**Links**
   and
 
   [Flower Crab (
-
   *Portunus pelagicus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2045)
@@ -247,9 +245,7 @@ In Greek Mythology, Scylla is a female sea monster, who lives along a narrow cha
 
 Swimming crabs are edible and enjoyed by people everywhere. In our part of the world, from Asia to Australia., the
 [Flower crab](pelagicus)
-(
-*Portunus pelagicus*
-) is one of the commonly eaten members of this family.
+(*Portunus pelagicus*) is one of the commonly eaten members of this family.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ribbon worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ribbon worms on the shores of Singapore
 keywords: ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -10,29 +10,29 @@ genus: Phylum
 species: Nemertea
 attributes: []
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/050510tusg6052m3.jpg
+coverimg: https://images.naturehungry.sg/worm/nemertea/pink/050510tusg6052m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/050510tusg6052m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/050510tusg6052m3.jpg
     caption: Sometimes seen swimming in the water. Tuas, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091205sudd5585m6l.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/091205sudd5585m6l.jpg
     caption: This one can be more than 1m long. Pulau Sudong, Dec 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/060531labd2669m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/060531labd2669m3.jpg
     caption: Wrapped around a drill snail. Labrador, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/070304hntg7898m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/070304hntg7898m3.jpg
     caption: Coiled around a paralysed shrimp. Pulau Hantu, Mar 07
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/short/100213tmd9299m3a.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/short/100213tmd9299m3a.jpg
     caption: Short ribbon worm
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/redreef/050111labd9614m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/redreef/050111labd9614m3.jpg
     caption: Red reef ribbon worm
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/pink/060726chgd5005m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/pink/060726chgd5005m3.jpg
     caption: Pink ribbon worm
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/twotone/080603prpd4699m3b.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/twotone/080603prpd4699m3b.jpg
     caption: Two-toned ribbon worm
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/nemertea/verylong/091205sudd5587m3.jpg
+  - url: https://images.naturehungry.sg/worm/nemertea/verylong/091205sudd5587m3.jpg
     caption: Very long ribbon worm
 links_references: '**Links**
 
@@ -45,7 +45,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mangrove ribbon worm (
-
   *Pantinonemertes*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2003)

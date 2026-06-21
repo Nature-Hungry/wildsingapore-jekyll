@@ -1,6 +1,6 @@
 ---
 title: Platydoris nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Platydoris nudibranch on the shores of Singapore
 keywords: platydoris, scabra, dorididae, nudibranchia, slug, seaslug, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -28,59 +28,59 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg
     caption: Pulau Hantu, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3d.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3d.jpg
     caption: Orange edge to side of the body.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3b.jpg
     caption: Orange edge to opening where feathery gills emerge.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3c.jpg
     caption: Orange edge to opening where rhinophore emerges.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/080920hntd0772m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/080920hntd0772m3.jpg
     caption: White underside with narrow foot.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/080920hntd0772m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/080920hntd0772m3a.jpg
     caption: Tiny oral tentacles tipped orange, and foot also edged orange.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/100710tmnml1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/100710tmnml1m3.jpg
     caption: Tanah Merah, Jul 10 Photo shared by Neo Mei Lin on her blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/210625vc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/210625vc1.jpg
     caption: Kusu Island, Jun 21 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/130211sjilks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/130211sjilks1.JPG
     caption: St John's Island, Feb 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/130211sjilks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/130211sjilks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/130211sjilks3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/130211sjilks3.JPG
     caption: ''
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/090809sjijk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/090809sjijk1m3.jpg
     caption: St. John's Island, Aug 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/220419sjijt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/220419sjijt1.jpg
     caption: St. John's Island, Apr 22 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/240212sjitjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/240212sjitjll1.jpg
     caption: St. John's Island, Feb 24 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/160625tkklks10.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/160625tkklks10.jpg
     caption: Pulau Tekukor, Jun 16
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/160625tkklks10b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/160625tkklks10b.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/210824tkktch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/210824tkktch2.jpg
     caption: Pulau Tekukor, Aug 21 Photo shared by Toh Chay Hoon on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/080620smklks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/080620smklks1m3.jpg
     caption: Pulau Semakau, Jun 08 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/210823smkelks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/210823smkelks2.jpg
     caption: Pulau Semakau (East), Aug 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/090723tmrjk3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/090723tmrjk3m3.jpg
     caption: Terumbu Raya, Jul 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/platydoris/230221tryky3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/230221tryky3.jpg
     caption: Terumbu Raya, Feb 23 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 

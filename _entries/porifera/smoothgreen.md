@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth green sponge on the shores of Singapore
 keywords: smooth, green, sponge, porifera, field, guide, seashore, sea, shore, marine,
 layout: entry
 shape: encrusting
@@ -12,24 +12,24 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothgreen/100811slud0120m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/smoothgreen/100811slud0120m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothgreen/100811slud0120m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothgreen/100811slud0120m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothgreen/111225tsmkd4836m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothgreen/111225tsmkd4836m3.jpg
     caption: Terumbu Semakau, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothgreen/100401labd0327m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothgreen/100401labd0327m3.jpg
     caption: Labrador, Apr 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothgreen/160313trymn3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothgreen/160313trymn3.jpg
     caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothgreen/100601slud4720m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothgreen/100601slud4720m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothgreen/100131slud8887m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothgreen/100131slud8887m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothgreen/100530tbkd4278m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothgreen/100530tbkd4278m3.jpg
     caption: Pulau Berkas, May 10
 location:
 - lab
@@ -64,15 +64,11 @@ A thin layer encrusting coral rubble 10-20cm. Generally a smooth layer but also 
 
 **May be confused with**
 [Blue icing sponge](smoothblue)
-(
-*Lendenfeldia*
+(*Lendenfeldia*
 cf.
-*chondrodes*
-) which may also be green, but is very smooth and doesn't have tiny bumps on the surface. Also similar to the
+*chondrodes*) which may also be green, but is very smooth and doesn't have tiny bumps on the surface. Also similar to the
 [Smooth brown sponges](smoothbrown)
-(
-*Neopetrosia exigua*
-) which are brown.
+(*Neopetrosia exigua*) which are brown.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 **Species are difficult to positively identify without close examination.

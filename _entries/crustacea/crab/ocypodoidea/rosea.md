@@ -1,6 +1,6 @@
 ---
 title: Rosy fiddler crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rosy fiddler crab on the shores of Singapore
 keywords: rosy, fiddler, crab, uca, tubuca, rosea, ocypodidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -30,26 +30,26 @@ superfamily: Ocypodoidea
 subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg
     caption: Sungei Buloh, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3a.jpg
     caption: Sungei Buloh, Sep 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1064m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1064m3.jpg
     caption: Pasir Ris Park, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/120317prpnhcd7762m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/120317prpnhcd7762m3.jpg
     caption: Pasir Ris Park, Mar 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/091226cjd6256m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/091226cjd6256m3.jpg
     caption: Chek Jawa, Dec 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1058m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1058m3.jpg
     caption: Pasir Ris Park, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1060m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1060m3.jpg
     caption: Pasir Ris Park, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
     caption: Chek Jawa, Oct 02
 location:
 - sbw

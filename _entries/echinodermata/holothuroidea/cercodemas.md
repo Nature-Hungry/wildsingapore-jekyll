@@ -1,6 +1,6 @@
 ---
 title: Pink warty sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink warty sea cucumber on the shores of Singapore
 keywords: pink, warty, cucumber, seacucumber, cercodemas, anceps, cucumariidae, holothuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,7 +25,7 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
 links_references: "**Links**\n- [*Cercodemas\n  anceps*](http://www.sealifebase.org/summary/Cercodemas-ancepsl)\n\
   \  on SeaLife Base: Technical fact sheet.\n- [*Pentacta\n  anceps*](http://species-identification.org/species.php?species_group=nasc&id=89&menuentry=soorten)\
   \ in North Australian Sea Cucumbers on the Marine\n  Species Identification Portal:\
@@ -34,22 +34,22 @@ links_references: "**Links**\n- [*Cercodemas\n  anceps*](http://www.sealifebase.
   \ Science Centre. 187pp.\n"
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
     caption: Changi, May 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3a.jpg
     caption: Colourful feeding tentacles.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/cercodemas/120705chgd7120m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/cercodemas/120705chgd7120m3.jpg
     caption: Changi, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/cercodemas/120705chgd7120m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/cercodemas/120705chgd7120m3b.jpg
     caption: Underside with three rows of tube feet.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3b.jpg
     caption: Anus surrounding by five tiny 'teeth'.
   gallery3:
   - url: https://live.staticflickr.com/636/20865881730_b8e98a7370_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/cercodemas/220616chgelks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/cercodemas/220616chgelks2.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
 location:
 - prp

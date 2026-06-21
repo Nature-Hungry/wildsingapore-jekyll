@@ -1,6 +1,6 @@
 ---
 title: 'Sea lettuce '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea lettuce  on the shores of Singapore
 keywords: ulva, lettuce, seaweed, weed, green, ulvaceae, enteromorpha, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,19 +19,18 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Ulvales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
     caption: Some form sheets.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/040620skdd0716m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/ulva/040620skdd0716m3.jpg
     caption: Others are ribbon-like or net-like.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/070614chgg0190m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/ulva/070614chgg0190m3.jpg
     caption: Tiny shrimp on sea lettuce. Changi, Jun 07
 links_references: '**Links**
 
   - [Sea Lettuce (
-
   *Ulva*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/103)
@@ -165,9 +164,7 @@ When the shores are covered with sea lettuce, you can smell the distinctive arom
 Sometimes, you might come across a sea lettuce blade that is white or transparent. This could be because the sea lettuce has become fertile and converted some of its cells into reproductive cells and released these cells. Often, this happens along the edge of the blade.
 
 ## Role in habitat
-Sea lettuce is one of the seaweeds eaten by the Green turtle (
-*Chelonia mydas*
-), as well as other creatures. The dense tangle of seaweed also provides plenty of hiding places for the small animals that live in the seagrass lagoon.
+Sea lettuce is one of the seaweeds eaten by the Green turtle (*Chelonia mydas*), as well as other creatures. The dense tangle of seaweed also provides plenty of hiding places for the small animals that live in the seagrass lagoon.
 
 ## Human uses
 
@@ -184,7 +181,7 @@ It is also reported to have antibacterial properties, and to be used to treat go
 seaweeds](caulerpa)
 during shipping and transport, or to cover fish for sale. As sea lettuce tends to grow well in polluted waters, it is also used as an indicator of water quality.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/090110cjd4696m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/ulva/090110cjd4696m3.jpg)
 **
 May sometimes form a thick
 
@@ -192,22 +189,22 @@ green carpet on shores.
 
 *Chek Jawa, Jan 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050311labd1637m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/ulva/050311labd1637m3.jpg)
 
 Labrador, Mar 05
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/ulva/050513labg6446m3.jpg)*
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/ulva/050513labg6446m3.jpg)*
 Transparent blade: reproducing?
 
 *Labrador, May 05*
 
-*![](http://www.wildsingapore.com/echinodermata/echinoidea/urchin/temnopleurus/080703chgd6690m3.jpg)*
+*![](https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/080703chgd6690m3.jpg)*
 Tiny
 [black sea urchin](../../../echinodermata/echinoidea/urchin/temnopleurus)
 in sea lettuce.
 *Changi, Jul 08
 
-![](http://www.wildsingapore.com/vertebrates/fish/syngnathidae/seagrass/050426cftg5087m3d.jpg)*
+![](https://images.naturehungry.sg/vertebrates/fish/syngnathidae/seagrass/050426cftg5087m3d.jpg)*
 [Pipefish](../../../vertebrates/fish/syngnathidae/seagrass)
 camouflaged on sea lettuce.
 *Changi, Apr 05*

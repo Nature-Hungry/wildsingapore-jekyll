@@ -1,6 +1,6 @@
 ---
 title: Geographic sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Geographic sea hare on the shores of Singapore
 keywords: geographic, seahare, hare, syphonota, paraplysia, geographica, aplysiidae,
   anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -20,7 +20,7 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
 links_references: '**Links**
 
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome.htm)by Dr Bill Rudman: all
@@ -53,28 +53,28 @@ links_references: '**Links**
   vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
     caption: Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
     caption: Tiny rhinophores near one another, held between parapodia.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
     caption: Thin internal shell. Changi, Jun 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
     caption: Laying egg string Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
     caption: Half buried in soft sediment. Changi, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
     caption: Swimming sea hare! Cyrene Reef, Nov 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg
     caption: East Coast Park, May 16 Photo shared by Ywee Chieh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG
     caption: Tuas, Mar 15 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg
     caption: Cyrene, Jun 20 Photo shared by Loh Kok Sheng on facebook .
 location:
 - prp
@@ -123,8 +123,7 @@ It lays long tangles of pink egg strings among seaweeds and seagrasses.
 **What does it eat?**
 It is believed to feed on brown seaweeds, but in our observations, these animals seem more abundant during blooms of the green
 [sea lettuce seaweed](../../../plants/seaweed/chlorophyta/ulva)
-(
-*Ulva*
+(*Ulva*
 sp.).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

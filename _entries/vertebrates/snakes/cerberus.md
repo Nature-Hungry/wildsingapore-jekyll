@@ -1,6 +1,6 @@
 ---
 title: Dog-faced water snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dog-faced water snake on the shores of Singapore
 keywords: schneider, bockadam, dog, faced, water, snake, watersnake, cerberus, schneiderii,
   rynchops, homalopsidae, colubridae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -18,33 +18,33 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/070222prpd8325m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/070222prpd8325m3.jpg
     caption: The fish is lifted out of water. Pasir Ris Park, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/070306prpd8802m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/070306prpd8802m3.jpg
     caption: Attempted theft of prey. Pasir Ris Park, Mar 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/070306prpd8785m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/070306prpd8785m3.jpg
     caption: Attempting to eat a dead rotten fish head. Pasir Ris Park, Mar 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/110129mndik.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/110129mndik.jpg
     caption: Mandai Mangroves, Jan 11 Photo shared by Ivan Kwan on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/070306prpd8792m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/070306prpd8792m3.jpg
     caption: Swallowing a fish bigger than its head! Pasir Ris Park, Mar 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/070306prpd8806m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/070306prpd8806m3.jpg
     caption: Swallowed head first...slowly...slowly.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/070306prpd8816m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/070306prpd8816m3.jpg
     caption: Gulp!
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/131007smkjk.JPG
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/131007smkjk.JPG
     caption: Eating a Pink-speckled shrimp-goby . Pulau Semakau, Oct 13 Photo shared
       by James Koh on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/160208smksjll4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/160208smksjll4.jpg
     caption: Pulau Semakau, Feb 16 Photo shared by Jianling Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/160208smksrl1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/160208smksrl1.jpg
     caption: Pulau Semakau, Feb 16 Photo shared by Russel Low on facebook .
 links_references: '**Links**
 
@@ -156,13 +156,13 @@ Mainly fishes. As soon as the sun sets, these snakes come out to hunt. The snake
 **Dog-faced babies:**
 Mama snake does not lay eggs and instead, gives birth to live young in litters of 8-26. The babies look just like their parents. Sometimes, tiny baby watersnakes might be seen.
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg)
+![](https://images.naturehungry.sg/vertebrates/snakes/cerberus/031128sbwrad0089m3.jpg)
 
 *Sungei Buloh Wetland Reserve, Nov 03
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/031128sbwrad0089m3b.jpg)*
+![](https://images.naturehungry.sg/vertebrates/snakes/cerberus/031128sbwrad0089m3b.jpg)*
 Protruding eyes give it its common name.
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/cerberus/031128sbwrbd0021m3a.jpg)
+*![](https://images.naturehungry.sg/vertebrates/snakes/cerberus/031128sbwrbd0021m3a.jpg)
 
 Sungei Buloh Wetland Reserve, Nov 03*
 

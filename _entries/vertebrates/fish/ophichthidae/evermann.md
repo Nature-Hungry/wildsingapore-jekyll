@@ -1,6 +1,6 @@
 ---
 title: Evermann's snake-eel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Evermann's snake-eel on the shores of Singapore
 keywords: evermann, snake-eel, snake, eel, fish, ophichthus, lithinus, evermanni,
   ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info
@@ -25,74 +25,74 @@ order: Anguilliformes
 suborder: Congroidei
 subfamily: Ophichthinae
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3.jpg
     caption: Tubular nostrils. two yellowish rings, pectoral fins. Sisters Island,
       Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3a.jpg
     caption: Body flatter only towards the sharp tail. Sisters Island, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/070219sisd8160m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/070219sisd8160m3a.jpg
     caption: This one ate an octopus within minutes! Sisters Island, Feb 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/120820sisd0679m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/120820sisd0679m6l.jpg
     caption: Sisters Island, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/201117bly.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/201117bly.jpg
     caption: Peeping out of a burrow on a sandbar Berlayar Creek, Nov 20
   gallery3:
   - url: https://live.staticflickr.com/563/22411067773_7084637640_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/210528chg7lks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/210528chg7lks3.jpg
     caption: Changi Carpark 7, May 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/230605chg7ky1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/230605chg7ky1.jpg
     caption: Changi Carpark 7, Jun 23 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/220616chgemn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/220616chgemn1.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/210401sntmn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/210401sntmn1.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/120408sjilks1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/120408sjilks1m3.jpg
     caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/100725hntjk1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/100725hntjk1m6l.jpg
     caption: Pulau Hantu, Sep 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/110517tbtro1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/110517tbtro1m6l.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Rene Ong on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/251207hntlks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/251207hntlks5.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/240623hntlks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/240623hntlks5.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/141011hntlks.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/141011hntlks.jpg
     caption: Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/180812cyrjt4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/180812cyrjt4.jpg
     caption: Cyrene Reef, Aug 18 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/200918cyrlks4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/200918cyrlks4.jpg
     caption: Cyrene, Sep 20 Photo shared by Loh Kok Sheng on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/240822tsmktl1a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/240822tsmktl1a.jpg
     caption: Terumbu Semakau, Aug 24
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/240822tsmktl1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/240822tsmktl1.jpg
     caption: Photo shared by Tammy Lim on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/110324tryas07664m6la.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/110324tryas07664m6la.jpg
     caption: Terumbu Raya, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/100518tbbd2972m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/100518tbbd2972m6l.jpg
     caption: Beting Bemban Besar, May 10
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/150607bbbtch2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/150607bbbtch2m3.jpg
     caption: Beting Bemban Besar, Jun 15 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/150607bbbtch1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/150607bbbtch1m3.jpg
     caption: Beting Bemban Besar, Jun 15 Photo shared by Toh Chay Hoon on facebook
       .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/140713tsmkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/140713tsmkmn.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Electric rays
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Electric rays on the shores of Singapore
 keywords: electric, sting, ray, stingray, numbfish, narcine, torpedinidae, narcinidae,
   fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,18 +19,18 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Torpediniformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
     caption: Gill openings behind the eyes.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg
     caption: Narcine maculata Short fat tail with round dorsal and tail fins. Changi,
       Jun 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/040704cjlcp.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/narcinidae/narcine/040704cjlcp.jpg
     caption: Narcine maculata Chek Jawa, Jul 04 Photo shared by Lim Cheng Puay.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/narcinidae/narcine/120605chgmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/narcinidae/narcine/120605chgmn.jpg
     caption: Narcine maculata Changi, Jun 12 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Ornate lagoon-goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ornate lagoon-goby on the shores of Singapore
 keywords: orante, lagoon, goby, istigobius, ornatus, fish, gobiidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,46 +24,45 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/030630chgd0099m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/030630chgd0099m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/030630chgd0099m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/030630chgd0099m3.jpg
     caption: Changi, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m6l.jpg
     caption: Two rows of dark or black dashes along the side of the body. Tanah Merah,
       Aug 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/070506sjig9218m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/070506sjig9218m6l.jpg
     caption: Sometimes, a group of many small ones are seen in a pool at low tide.
       St. John's Island, May 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/251208chgrk2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/251208chgrk2.jpg
     caption: Changi, Dec 25 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/250628pcnal2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/250628pcnal2.jpg
     caption: East Coast PCN, Jun 25 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/151001blymn1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/151001blymn1m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/170129tslgtch4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/170129tslgtch4.jpg
     caption: Terumbu Selegie, Jan 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/101107tburrl.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/101107tburrl.jpg
     caption: Terumbu Buran, Nov 10 Photo shared by Russel Low on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/250909lazlks4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/250909lazlks4.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on
       facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/201019sjilks10.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/201019sjilks10.jpg
     caption: St John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/250810bsismn2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/250810bsismn2.jpg
     caption: Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/ornatus/250811jngal5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/250811jngal5.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Adriane Lee on facebook .
 links_references: '**Links**
 
   - [Ornate goby (
-
   *Istigobius ornatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/361)
@@ -159,9 +158,7 @@ Large for a goby, it grows to about 10cm. Those seen usually about 8cm. Bulbous 
 **Sometimes confused with**
 the
 [Black-spotted lagoon-goby](goldmanni)
-(
-*Istigobius goldmanni*
-) which has pairs of close-set round black spots along the side of the body.
+(*Istigobius goldmanni*) which has pairs of close-set round black spots along the side of the body.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**

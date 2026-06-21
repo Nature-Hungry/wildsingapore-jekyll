@@ -1,6 +1,6 @@
 ---
 title: Gregarious tubeworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gregarious tubeworm on the shores of Singapore
 keywords: gregarious, tube, worm, tubeworm, polychaete, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -12,14 +12,14 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/gregarious/120111chgs01917m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/gregarious/120111chgs01917m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/gregarious/120111chgs01917m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/gregarious/120111chgs01917m3.jpg
     caption: Cyrene Reef, Mar 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/gregarious/080608cyrd5403m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/gregarious/080608cyrd5403m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/gregarious/060114cjg3823m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/gregarious/060114cjg3823m3a.jpg
     caption: Chek Jawa, Jan 06
 location:
 - chg

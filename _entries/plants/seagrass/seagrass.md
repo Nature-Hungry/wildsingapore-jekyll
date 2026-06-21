@@ -1,6 +1,6 @@
 ---
 title: Seagrasses
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Seagrasses on the shores of Singapore
 keywords: seagrass, hydrocharitaceae, potamogetonaceae, cymodoceaceae, grass, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info
@@ -21,83 +21,83 @@ suborder: ''
 updated: Dec 2019
 coverimg: https://live.staticflickr.com/1236/605886912_becabd5880_c.jpg
 page_images1:
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/020714cjd3111m3a.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/ovalis/020714cjd3111m3a.jpg
   caption: '<p>Seagrass leaves have veins.</p>
 
     <p>Chek Jawa, Jul 02</p>
 
     '
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050822cjg2120m3c.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/halodule/050822cjg2120m3c.jpg
   caption: '<p>Seagrass have underground stems with roots</p><p>Chek Jawa, Aug 05</p>
 
     '
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/050623cjd4106m3.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/spinulosa/050623cjd4106m3.jpg
   caption: "<p><a href=\"spinulosa\">Fern seagrass</a>\_has a leaf made up of little\
     \ leaflets</p><p> Chek Jawa, Jun 05</p>\n"
 page_images2:
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/050428cftg5289m3.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/ovalis/050428cftg5289m3.jpg
   caption: '<p>Flowering <a href="ovalis">Spoon seagrass</a>?</p>
 
     <p>Changi, Apr 05</p>
 
     '
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/050310smkg3174m3.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/enhalus/050310smkg3174m3.jpg
   caption: '<p>Female flower of <a href="enhalus">Tape seagrass</a> with tiny male
     flowers in the centre.</p>
 
     <p>Pulau Semakau, Mar 05</p>
 
     '
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/thalassia/060228labg5266m3.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/thalassia/060228labg5266m3.jpg
   caption: '<p>Flowers of the <a href="thalassia">Sickle seagrass</a> Labrador, Mar
     06</p>
 
     '
 page_images3:
-- url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg
+- url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg
   caption: '<p>The tiny <a href="../../mollusca/slugs/anaspidae/seagrass">seagrass
     sea hare</a> is sometimes seen on <a href="enhalus">Tape seagrass</a>.</p>
 
     <p>Cyrene Reef, Jul 10</p>
 
     '
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/enhalus/080208hntd9427m3a.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/enhalus/080208hntd9427m3a.jpg
   caption: '<p>Small animals settle on <a href="enhalus">Tape seagrass</a>.</p>
 
     <p>Pulau Hantu, Feb 08</p>
 
     '
-- url: https://f003.backblazeb2.com/file/naturehungry/eggs/eggs/080722cyrd8262m3.jpg
+- url: https://images.naturehungry.sg/eggs/eggs/080722cyrd8262m3.jpg
   caption: '<p>Eggs laid on <a href="enhalus">Tape seagrass</a>.</p>
 
     <p>Cyrene Reef, Jul 08</p>
 
     '
 page_images4:
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/others/070120cjd7618m3.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/others/070120cjd7618m3.jpg
   caption: '<p>A fresh dugong feeding trail!</p>
 
     <p>Chek Jawa, Jan 07</p>
 
     '
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/others/190523cyrm6l.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/others/190523cyrm6l.jpg
   caption: '<p>Dugong feeding trails Cyrene Reef, May 19 </p>
 
     '
 page_images5:
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/1000619cjd6799m3.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/ovalis/1000619cjd6799m3.jpg
   caption: '<p>Bleaching following oil spill in May 10.</p>
 
     <p>Chek Jawa, Jun 10</p>
 
     '
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/110509sntd1329m3.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/ovalis/110509sntd1329m3.jpg
   caption: '<p>Bleaching, cause unknown.</p>
 
     <p>Sentosa, Apr 11</p>
 
     '
-- url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/ovalis/110509sntd1334m3.jpg
+- url: https://images.naturehungry.sg/plants/seagrass/ovalis/110509sntd1334m3.jpg
   caption: '<p>Burnt, cause unknown.</p>
 
     <p>Sentosa, Apr 11</p>
@@ -118,7 +118,7 @@ links_references: "**Links**\n- [TeamSeagrass\n  blog](http://teamseagrass.blogs
   \ preliminary findings\n- [Fan\n  Seagrass (*Halophila*) and Tape Seagrass (*Enhalus*)](http://mangrove.nus.edu.sg/pub/seashore/text/108)\n\
   \  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Sentosa\n  Seagrass Transect\
-  \ 2006](http://www.wildsingapore.com/projects/survey/sentosa/indexl) on wildsingapore.\n\
+  \ 2006](https://images.naturehungry.sg/projects/survey/sentosa/indexl) on wildsingapore.\n\
   - From the\n  wild shores of singapore blog\n  - [Mangroves,\n    seagrasses 'lock\
   \ up' carbon: IUCN report](http://wildshores.blogspot.com/2011/04/mangroves-seagrasses-lock-up-carbonl)\n\
   \  - [Bird\n    poop helps heal seagrass damage](http://wildshores.blogspot.com/2010/12/bird-poop-helps-heal-seagrass-damagel)\n\
@@ -126,7 +126,7 @@ links_references: "**Links**\n- [TeamSeagrass\n  blog](http://teamseagrass.blogs
   \  - [How\n    much is seagrass worth?](http://wildshores.blogspot.com/2008/10/how-much-is-seagrass-worthl)\n\
   \  - [Destruction\n    of seagrasses on par with loss of rainforests and coral reefs](http://wildshores.blogspot.com/2009/06/destruction-of-seagrass-on-par-withl)\n\
   \  - [Animals\n    help pollinate and disperse seagrasses](http://wildshores.blogspot.sg/2012/12/animals-help-pollinate-and-dispersel)\n\
-  - Seagrass\n  media articles on [wildsingapore](http://www.wildsingapore.com/news/topics/seagrass)\n\
+  - Seagrass\n  media articles on [wildsingapore](https://images.naturehungry.sg/news/topics/seagrass)\n\
   \  and on the [wildsingapore\n  news blog](http://wildsingaporenews.blogspot.com/search/label/seagrasses)\
   \ and on the [teamseagrass\n  blog](http://teamseagrass.blogspot.com/search/label/seagrass%20news).\n\
   \n**References**\n- L. J. McKenzie, S. M. Yaakub, R. Tan, J. Seymour & R. L. Yoshida\
@@ -319,13 +319,13 @@ Many are well camouflaged or hide in burrows. Some are tiny. Look
 carefully and avoid stepping on lush patches of seagrasses.  
   
 ## Where can we explore seagrass meadows in Singapore?
-[Labrador](http://www.wildsingapore.com/places/lp) has the last large mainland seagrass meadows. There are also narrow
+[Labrador](https://images.naturehungry.sg/places/lp) has the last large mainland seagrass meadows. There are also narrow
 and patchy seagrass areas at Changi. Among our northern islands, there
 are vast seagrass meadows at [Chek
-Jawa](http://www.wildsingapore.com/places/cj) on [Pulau
-Ubin](http://www.wildsingapore.com/ubin/indexl). While on our Southern islands, there are extensive seagrass
+Jawa](https://images.naturehungry.sg/places/cj) on [Pulau
+Ubin](https://images.naturehungry.sg/ubin/indexl). While on our Southern islands, there are extensive seagrass
 meadows at [Pulau
-Semakau](http://www.wildsingapore.com/places/semakau) and some at [Sentosa](http://www.wildsingapore.com/places/sentosa).
+Semakau](https://images.naturehungry.sg/places/semakau) and some at [Sentosa](https://images.naturehungry.sg/places/sentosa).
 
 ---
 

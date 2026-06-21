@@ -1,6 +1,6 @@
 ---
 title: Yelloweye pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yelloweye pufferfish on the shores of Singapore
 keywords: yelloweye, yellow, eye, pufferfish, puffer, arothron, immaculatus, fish,
   tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -23,32 +23,31 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
     caption: SIsters Island, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/120407lazd8057m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/120407lazd8057m6l.jpg
     caption: Seringat-Kias, Apr 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/180811chglks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/180811chglks2.jpg
     caption: Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/140713bblks1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/140713bblks1m3.jpg
     caption: Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/070701hntmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/070701hntmn.jpg
     caption: Pulau Hantu, Jul 07 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/110517tptlks20m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/110517tptlks20m3c.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/immaculatus/080510smktsj02m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/080510smktsj02m3.jpg
     caption: Pulau Semakau, May 08 Photo shared by Tan Sijie on his blog .
 links_references: '**Links**
 
   - [Yelloweye Puffer (
-
   *Arothron immaculatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/395)
@@ -60,7 +59,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Puffer or Globe fish (
-
   *Arothron*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/253)
@@ -72,7 +70,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Immaculate puffer (
-
   *Arothron immaculatus*
 
   )](http://www.fishbase.org/summary/7188)

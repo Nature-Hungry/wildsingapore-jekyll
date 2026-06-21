@@ -7,7 +7,7 @@ layout: default
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../index.html)  
 [wild shores of singapore
@@ -56,12 +56,12 @@ and Waterbodies Plan](http://www.ura.gov.sg/uramaps/?preopen=Special%20and%20Det
 with [NParks](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=120&Itemid=123)
 has been monitoring seagrasses at Sentosa. Some school and scientific
 work is also done ocassionally on these shores.The intertidal
-area is also regularly surveyed by [wildsingapore](http://www.wildsingapore.com/). **History:** 
+area is also regularly surveyed by [wildsingapore](https://images.naturehungry.sg/). **History:** 
 Sentosa Cove was built by reclaiming Buran Darat and nearby reefs in 1991. The reclamation increased the size of Sentosa island by nearly 25%. Photo below from [Vision of Sentosa Cove](http://www.sentosacove.com/cos/o.x?c=/wbn/pagetree&func=view&rid=1111342) on the Sentosa Cove website.  
 ![](photos/tn.cove.JPG.mid.jpg.pagespeed.ce.IpxtGX4H_G.jpg)  
   
 Northern reefs were [reclaimed
-in 2007 for Resorts World Sentosa](http://www.wildsingapore.com/places/cityreefs2a.htm).  
+in 2007 for Resorts World Sentosa](https://images.naturehungry.sg/places/cityreefs2a.htm).  
   
 In [2012](http://wildshores.blogspot.sg/2012/06/floating-barriers-installed-along.html), a 'security barrier' of floating blue drums was installed on the natural shores of Tanjung Rimau Sentosa. In [Jun 2013](http://wildshores.blogspot.sg/2013/06/sentosa-battered-by-blue-drums.html), the drums were observed battering the rocky shore and reefs there. In [Aug 2013](http://wildshores.blogspot.sg/2013/08/blue-drums-that-batter-sentosa-shores.html), the blue drums started to disintegrate.
 **About
@@ -93,7 +93,7 @@ posts about Sentosa** on wild shores of singapore
 
 **Links**
 
-- [Sentosa](http://www.wildsingapore.com/places/sentosa.htm)
+- [Sentosa](https://images.naturehungry.sg/places/sentosa.htm)
   on wildsingapore.
 - [TeamSeagrass](http://teamseagrass.blogspot.sg/)
   Volunteer led effort to monitor seagrass meadows in Singapore

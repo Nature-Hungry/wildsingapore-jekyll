@@ -1,6 +1,6 @@
 ---
 title: Moon crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Moon crabs on the shores of Singapore
 keywords: moon, crab, matuta, matutidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,40 +24,39 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/050511cftg6303m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/050511cftg6303m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/matutidae/lunaris/050511cftg6303m3.jpg
+  - url: https://images.naturehungry.sg/matutidae/lunaris/050511cftg6303m3.jpg
     caption: All the legs of the Moon crab are flattened into paddles. Changi May,
       05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/070603sntrd1730m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/070603sntrd1730m3.jpg
     caption: About to mate?
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/240212sjimn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/240212sjimn1.jpg
     caption: With eggs. St. John's Island, Feb 24 Photos shared by Marcus Ng on facebook
       .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/110730tmftd7795m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/110730tmftd7795m3.jpg
     caption: Tanah Merah, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/110730tmftd7798m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/110730tmftd7798m3.jpg
     caption: Buries itself in an eye blink.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/110730tmftd7800m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/110730tmftd7800m3.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/100701tmd7968m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/100701tmd7968m3.jpg
     caption: Swarming over a recently dead fish. Tanah Merah, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/081019chgd1372m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/081019chgd1372m3.jpg
     caption: A huge dead crab, bliss! Changi, Oct 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/020209cjd6343m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/020209cjd6343m3.jpg
     caption: Tiny one eating an injured worm. Chek Jawa, Feb 02
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/lunaris/050429cftg5330m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/050429cftg5330m3.jpg
     caption: Spotted moon crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
     caption: Flower moon crab
 links_references: '**Links**
 
   - [Moon Crab (
-
   *Matuta lunaris*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/205)

@@ -1,6 +1,6 @@
 ---
 title: 'Smooth hexagonal corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth hexagonal corals  on the shores of Singapore
 keywords: coral, hard, scleractinia, cnidaria, merulinidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -16,28 +16,28 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
     caption: Sentosa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/060712tusd4117m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/060712tusd4117m3.jpg
     caption: Tuas, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/050113sntd9751m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/050113sntd9751m3.jpg
     caption: Sentosa, Nov 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/110731tryd8051m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/110731tryd8051m3.jpg
     caption: Terumbu Raya, Jul 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/120507srplks2.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/120507srplks2.JPG
     caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/160806tplmn1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/160806tplmn1.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/faviidae/hexa/hexasmooth/100131slud8879m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexasmooth/100131slud8879m3.jpg
     caption: Terumbu Salu, Jan 10
 location:
 - tm
@@ -76,9 +76,7 @@ Some species of corals recorded for Singapore that have these patterns include:
 
 **Sometimes confused with**
 [Neat hexa corals](../../siderastreidae/hexaneat)
-(
-*Pseudosiderastrea tayamai*
-) which belong to Family Siderastreidae.
+(*Pseudosiderastrea tayamai*) which belong to Family Siderastreidae.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

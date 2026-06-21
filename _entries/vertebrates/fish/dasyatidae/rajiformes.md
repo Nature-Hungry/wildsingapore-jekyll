@@ -1,6 +1,6 @@
 ---
 title: Skates, rays and stingrays
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Skates, rays and stingrays on the shores of Singapore
 keywords: skate, sting, ray, stingray, fish, rajiformes, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,38 +18,38 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
     caption: Swimming with undulations of the enlarged pectoral fins. Pulau Sekudu,
       May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
     caption: Underside. Pulau Sekudu, May 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/narcinidae/narcine/090622cftd4655m6l.jpg
+  - url: https://images.naturehungry.sg/narcinidae/narcine/090622cftd4655m6l.jpg
     caption: 'Cute but shocking: the Electric ray. Changi, Jun 05'
-  - url: https://f003.backblazeb2.com/file/naturehungry/narcinidae/narcine/090622cftd4655m3a.jpg
+  - url: https://images.naturehungry.sg/narcinidae/narcine/090622cftd4655m3a.jpg
     caption: Gill openings behind the eyes.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
     caption: A commonly encountered stingray. St. John's Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
     caption: Spine near the end of the tail.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
     caption: Blue-spotted fantail ray
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
     caption: Mangrove whipray
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
     caption: Blue-spotted stingray
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
     caption: Honeycomb whipray
-  - url: https://f003.backblazeb2.com/file/naturehungry/narcinidae/narcine/090622cftd4655m3.jpg
+  - url: https://images.naturehungry.sg/narcinidae/narcine/090622cftd4655m3.jpg
     caption: Numbfish
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/myliobatidae/narinari/110506tmftd0849m6l.jpg
+  - url: https://images.naturehungry.sg/myliobatidae/narinari/110506tmftd0849m6l.jpg
     caption: Spotted eagle ray
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: 'Singapore   tuskfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Singapore   tuskfish  on the shores of Singapore
 keywords: anchor, tuskfish, tusk, fish, choerodon,  oligacanthus, labridae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,18 +24,17 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg
     caption: Cyrene Reef, Oct 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg
     caption: Changi Carpark 7, May 21 Photo shared by Toh Chay Hoon on facebook .
 links_references: '**Links**
 
   - [White-patch tuskfish (
-
   *Choerodon oligacanthus*
 
   )](http://www.fishbase.org/summary/8406)
@@ -43,7 +42,6 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
   - [White-patch tuskfish (
-
   *Choerodon oligacanthus*
 
   )](http://www.iucnredlist.org/details/187568/0)

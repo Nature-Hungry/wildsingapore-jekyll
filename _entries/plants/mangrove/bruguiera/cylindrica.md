@@ -1,6 +1,6 @@
 ---
 title: 'Bakau putih '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bakau putih  on the shores of Singapore
 keywords: bakau, putih, puteh, bruguiera, cylindrica, rhizophoraceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -24,20 +24,19 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 189944
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/110406sbbd8669m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/110406sbbd8669m3.jpg
     caption: Small flowers, several in a cluster on one stalk. Calyx usually pale.
       Sungei Buloh Besar, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg
     caption: Tassels on petal tips. Sungei Buloh Besar, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg
     caption: Sepals on propagules bend towards stalk. Sungei Buloh, Apr 02
 links_references: '**Links**
 
   - [Bakau putih (
-
   *Bruguiera cylindrica*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1053)
@@ -137,10 +136,10 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 
 According to Burkill, the propagules are occasionally eaten after boiling, and according to Giersen eaten with sugar and coconut. Fishermen do not like to use the wood for fish-traps as they say it has a peculiar smell that frightens fishes away. According to Giersen, the timber is heavy and reddish.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg)
 
 Pulau Ubin, Dec 09
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg)
 
 Pulau Ubin, Dec 09*
 

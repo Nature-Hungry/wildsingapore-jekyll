@@ -1,6 +1,6 @@
 ---
 title: Seagrass hydroid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Seagrass hydroid on the shores of Singapore
 keywords: hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,14 +14,14 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
     caption: Pulau Semakau, Dec 08 On Tape seagrass .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
     caption: Pulau Hantu, Feb 08 On Tape seagrass .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/seagrass/101011chgd2154m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/seagrass/101011chgd2154m3.jpg
     caption: Changi, Oct 10 On Spoon seagrass .
 location:
 - chg

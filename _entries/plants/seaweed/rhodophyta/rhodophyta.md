@@ -1,6 +1,6 @@
 ---
 title: 'Red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red seaweed  on the shores of Singapore
 keywords: red, seaweed, weed, algae, rhodophyceae, rhodophyta, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -13,28 +13,28 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 11
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/salicornia/050526cjg6877m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/salicornia/050526cjg6877m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/gracilaria/050609cftg7426m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/gracilaria/050609cftg7426m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/acanthophora/050326cjg3729m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/acanthophora/050326cjg3729m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/050610sntg7603m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/catstail/050329sntg3861ma.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/catstail/050329sntg3861ma.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/040719sntd2843m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/040719sntd2843m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/050311labg3239m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/050311labg3239m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/050918smkg2673m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomflat/050918smkg2673m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/050720sntg9570m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomslender/050720sntg9570m.jpg
     caption: ''
 links_references: '**Links**
 
@@ -179,7 +179,7 @@ Carrageenans are also extract from red seaweeds, especially
 *[Eucheuma](prickly)*
 which is cultivated in the Philippines and tropical Pacific areas. The Philippines is the leading producer of carrageenans which are used throughout the world as an emulsifier and stabiliser in food and pharmaceutical products. Agar, on the other hand is used as a solidifying agent.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/halymenia/050210kusd0090m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/050210kusd0090m3.jpg)
 *Kusu Island, Feb 05*
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

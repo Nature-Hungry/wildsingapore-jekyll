@@ -1,6 +1,6 @@
 ---
 title: Seahorses
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Seahorses on the shores of Singapore
 keywords: seahorse, horse, hippocampus, syngnathidae, kuda, fish, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -19,7 +19,7 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 links_references: "**Links**\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)\
   \ Tan, Leo W. H. & Ng, Peter K. L.,\n  1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Spotted\n  Seahorse (*Hippocampus\
@@ -63,26 +63,26 @@ links_references: "**Links**\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrov
   \ World BBC Worldwide, London. 224 pp.\n"
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
     caption: Often seen in a pair. Tanah Merah, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3d.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3d.jpg
     caption: Flexible tail used to hang onto objects. Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
     caption: Mobile eyes can move while the body remains still. Toothless jaws used
       like a straw. Changi, Jul 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg
     caption: Pregnant papa Pasir Ris Park, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg
     caption: Very pregnant papa . Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
     caption: Very pregnant papa. Sisters Island, Mar 12
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg
     caption: Estuarine seahorses body and tail the same colour
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/kuda/031226chgd0026m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/031226chgd0026m3.jpg
     caption: Estuarine seahorses 'hairy' and usually small
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
     caption: Tiger-tailed seahorses tail is banded yellow and black
 size:
 - 30.0

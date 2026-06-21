@@ -1,6 +1,6 @@
 ---
 title: Big pimply onch slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Big pimply onch slug on the shores of Singapore
 keywords: slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info
@@ -21,77 +21,77 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/101222chgd3855m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/101222chgd3855m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/101222chgd3855m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/101222chgd3855m3.jpg
     caption: Changi, Dec 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/101222chgd3856m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/101222chgd3856m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/101222chgd3856m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/101222chgd3856m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3.jpg
     caption: On the underside, a broad foot. Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg
     caption: One pair of eyes on stalks. The mouth is on the underside. Raffles Lighthouse,
       Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/101204tmftd3049m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/101204tmftd3049m3a.jpg
     caption: Pooping from the other end. Tanah Merah, Dec 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3a.jpg
     caption: A pair of tentacles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg
     caption: Leaving behind a grazed patch, and a trail of 'processed algae'.
   gallery5:
   - url: https://live.staticflickr.com/4267/34163250884_b98c6138f0_z.jpg
     caption: ''
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/150619tuslks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/150619tuslks3m3.jpg
     caption: Tuas, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/251208meky1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/251208meky1.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/160725sntmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/160725sntmn1.jpg
     caption: Sentosa, Jul 16 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/260104trmrqo10.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/260104trmrqo10.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/250713tryccn1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/250713tryccn1a.jpg
     caption: Terumbu Raya, Jul 25 Photo shared by Che Cheng Neo on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100103tkkjk5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/100103tkkjk5m3.jpg
     caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/160124smkelks.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/160124smkelks.jpg
     caption: Pulau Semakau East, Jan 16 Photo shared by Loh Kok Sheng on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/250515tptky1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/250515tptky1.jpg
     caption: Terumbu Pempang Tengah, May 25 Photo shared by Kelvin Yong on facebook
       ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100629tpdjk9m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/100629tpdjk9m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/130427tptlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/210629bbbvc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/210629bbbvc4.jpg
     caption: Beting Bemban Besar, Jun 21 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/091204pawd0002m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/091204pawd0002m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/091205sudd5450m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/091205sudd5450m3.jpg
     caption: Pulau Sudong, Dec 09
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/091231bioik1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/091231bioik1m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Ivan Kwan on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100130brkd8691m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/100130brkd8691m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100613sngd5779m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/100613sngd5779m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/bigpimply/100811slud0123m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/100811slud0123m3.jpg
     caption: Pulau Salu, Aug 10
 location:
 - pgl

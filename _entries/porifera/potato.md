@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Potato sponge on the shores of Singapore
 keywords: potato, sponge, biemna, porifera, field, guide, seashore, sea, shore, marine,
 layout: entry
 shape: sausage
@@ -16,19 +16,19 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Biemnida
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/100715tbtd8931m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/potato/100715tbtd8931m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/100715tbtd8931m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potato/100715tbtd8931m3.jpg
     caption: Terumbu Pempang Tengah, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/120411thnts06123m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potato/120411thnts06123m3.jpg
     caption: Terumbu Hantu, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/120606bbd4277m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/potato/120606bbd4277m3a.jpg
     caption: Beting Bronok, Jun 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/200705ecpbslks1.jpg
+  - url: https://images.naturehungry.sg/porifera/potato/200705ecpbslks1.jpg
     caption: East Coast Park, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potato/160313trymn9.jpg
+  - url: https://images.naturehungry.sg/porifera/potato/160313trymn9.jpg
     caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

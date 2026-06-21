@@ -1,6 +1,6 @@
 ---
 title: 'Euphyllid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Euphyllid corals  on the shores of Singapore
 keywords: euphyllia, euphyllidae, caryophyliidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,19 +17,19 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg
     caption: Galaxy coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
     caption: Branching anchor coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
     caption: Anchor coral
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
     caption: Torch coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
     caption: Frog spawn coral
 links_references: '**Links**
 

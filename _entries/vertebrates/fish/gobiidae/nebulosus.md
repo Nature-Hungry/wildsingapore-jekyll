@@ -1,6 +1,6 @@
 ---
 title: Shadow goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Shadow goby on the shores of Singapore
 keywords: shadow, goby, yongeichthys, acentrogobius, nebulosus, fish, gobiidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,40 +24,39 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg
     caption: Sometimes several seen together. Changi, Jul 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m6l.jpg
     caption: Changi, Jul 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/170723ubnay5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/170723ubnay5.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/150619tusmn1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/150619tusmn1m3.jpg
     caption: Tuas, Jun 15 Photo shared by Marcus Ng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/201116lazmn4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/201116lazmn4.jpg
     caption: Lazarus Island, Nov 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/250909laztt7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/250909laztt7.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Tommy Tan on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/250810bsismn7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/250810bsismn7.jpg
     caption: Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/130112smkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/130112smkmn.jpg
     caption: Pulau Semakau, Jan 13 Photo shared by Marcus Ng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/110522bbbrl7m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/110522bbbrl7m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/nebulosus/110517tptlks9m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/110517tptlks9m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
 links_references: '**Links**
 
   - [Shadow goby (
-
   *Yongeichthys nebulosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/365)
@@ -69,7 +68,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Shadow goby (
-
   *Acentrogobius nebulosus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7228)
@@ -156,8 +154,7 @@ Up to about 18cm, those seen from 4-6cm. It has large eyes and three large dark 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Tough little goby:**
 It seems to be able to withstand heat and several are commonly seen in shallow pools left behind at low tide. It is poisonous to eat as it contains tetrodotoxin (the same toxin found in
-[pufferfishes](../tetraodontidae/tetraodontidae)
-) in its flesh and internal organs. In some places, it is called the Poisonous goby.
+[pufferfishes](../tetraodontidae/tetraodontidae)) in its flesh and internal organs. In some places, it is called the Poisonous goby.
 
 ---
 

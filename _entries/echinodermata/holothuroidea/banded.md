@@ -1,6 +1,6 @@
 ---
 title: Bottleneck sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bottleneck sea cucumber on the shores of Singapore
 keywords: bottleneck, cucumber, seacucumber, holothuria, impatiens, holothuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -27,36 +27,36 @@ subclass: Actinopoda
 order: Holothuriida
 subgenus: Thymiosycia
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
     caption: Narrow end with the mouth sticking out from hiding. Pulau Sekudu, Jun
       14
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/140613skdd6167m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/140613skdd6167m6l.jpg
     caption: Pulau Sekudu, Jun 14
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/140613skdlks1.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/140613skdlks1.JPG
     caption: Pulau Sekudu, Jun 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/140613skdlks2.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/140613skdlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/160706skdnml2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/160706skdnml2.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/160706skdnml2l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/160706skdnml2l.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Neo Mei Lin on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/100527tmtch6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/100527tmtch6l.jpg
     caption: Tanah Merah, May 10 Photo shared by Toh Chay Hoon on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/220618tmftjll1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/220618tmftjll1.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Jianlin Liu on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/130531tkkmn.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/130531tkkmn.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/230901kusky1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/230901kusky1.jpg
     caption: Kusu Island, Sep 23 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/banded/250201bsislks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/banded/250201bsislks2.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**

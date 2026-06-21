@@ -1,6 +1,6 @@
 ---
 title: Thorny sea urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thorny sea urchin on the shores of Singapore
 keywords: thorny, pencil, urchin, prinocidaris, bispinosa, echinoid, echinoderm, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -27,32 +27,32 @@ order: Cidaroida
 superfamily: Cidaroidea
 subfamily: Stylocidarinae
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg
     caption: Pulau Sekudu, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3a.jpg
     caption: Upperside with five short sharp spines.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/030619bbd0219m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/030619bbd0219m3.jpg
     caption: Beting Bronok, Jun 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3b.jpg
     caption: Mouth surrounded by flattened spines.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/231214cjvc1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/231214cjvc1.jpg
     caption: Chek Jawa, Dec 23 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3.jpg
     caption: Cyrene Reef, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3a.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/100809cyrjk2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/100809cyrjk2m3.jpg
     caption: Cyrene Reef, Sep 10 Photo shared by James Koh on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/prionocidaris/171104cyrlks5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/171104cyrlks5.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

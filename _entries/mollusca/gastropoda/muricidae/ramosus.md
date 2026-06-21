@@ -1,6 +1,6 @@
 ---
 title: Ramose murex
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ramose murex on the shores of Singapore
 keywords: ram, ramose, spiny, chicoreus, ramosus, muricidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,48 +19,47 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg
     caption: Cyrene Reef, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2a.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/120704chglks1m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/120704chglks1m3.JPG
     caption: Changi, Jul 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/170528chg7lks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/170528chg7lks4.jpg
     caption: Changi, May 17 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/250528chgsafal1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/250528chgsafal1.jpg
     caption: Changi SAF Chalet, May 25 Photo shared by Adriane Lee on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/251109chgsaflks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/251109chgsaflks4.jpg
     caption: Changi SAF Chalet, Nov 25 Photo shared by Loh Kok Sheng on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Rene Ong on facebook
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/210628ecpBrk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/210628ecpBrk2.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Richard Kuah on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/251108ecpblks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/251108ecpblks4.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/220421smkejt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/220421smkejt1.jpg
     caption: Pulau Semakau (East), Apr 22 Photo shared by Juria Toramae on facebook
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/161215cyris.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/161215cyris.jpg
     caption: Cyrene Reef, Dec 16 Photo shared by Ian Siah on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/200209cyrtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/200209cyrtch1.jpg
     caption: Cyrene Reef, Feb 20 Photo shared by Toh Chay Hoon on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/ramosus/210502tptlks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/210502tptlks3.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on facebook
 links_references: '**Links**
 
   - [Ramose murex (
-
   *Murex ramosus*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/Chicoreus-ramosus.html)
@@ -68,7 +67,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Ramose murex (
-
   *Murex ramosus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=200)
@@ -76,7 +74,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Ramose murex (
-
   *Murex ramosus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

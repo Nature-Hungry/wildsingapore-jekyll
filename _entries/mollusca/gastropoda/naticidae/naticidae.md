@@ -1,6 +1,6 @@
 ---
 title: 'Moon snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Moon snails  on the shores of Singapore
 keywords: moon, snail, shell, naticidae, natica, policines, gastropod, mollusc, sand,
   collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,103 +18,102 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Naticoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
     caption: The Ball moon snail, like most moon snails, can deflate the huge body
       and retract completely into the shell. Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
     caption: Siphon (upper left) and tentcles
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/060614ecpd3194m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/060614ecpd3194m3.jpg
     caption: Tiny button snails leaping away from a hunting moon snail. East Coast,
       Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg
     caption: A moon snail with a bivalve enveloped in its foot. Changi, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/noid/101011chgd2129m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/101011chgd2129m3c.jpg
     caption: Clam shell with hole neatly drilled, possibly by a moon snail? Changi,
       Oct 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/noid/110705chgd5864m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/110705chgd5864m3.jpg
     caption: Bivalve escaping a moon snail! Changi, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/noid/110705chgd5869m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/110705chgd5869m6l.jpg
     caption: Using its long foot, the bivalve 'leaps' away to safety.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/onca/110830cyrd0383m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/110830cyrd0383m3.jpg
     caption: China moon snail dragging a small shell. Cyrene Reef, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg
     caption: Zebra moon snail dragging a small shell. Sisters Island, May 08
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/080916tusd0464.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/080916tusd0464.jpg
     caption: Two snails, mating? or trying to eat the same thing? Tuas, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
     caption: 'Sand collar: egg mass of a moon snail. more photos of sand collars.
       Pulau Sekudu, Jul 03'
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
     caption: 'Sand collar: egg mass of a moon snail. more photos of sand collars.
       Chek Jawa, Nov 04'
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/050511cftg6255m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/050511cftg6255m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/120512cyrd3342m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120512cyrd3342m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/050524cftg6597m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/050524cftg6597m3.jpg
     caption: Ball moon snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg
     caption: Oval moon snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/120512cyrd3341m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120512cyrd3341m3.jpg
     caption: Eggwhite moon snail
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/pink/080704sekd6844m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/080704sekd6844m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/zebra/050807sjig0646m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/050807sjig0646m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/onca/111127sisd3940m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/111127sisd3940m3.jpg
     caption: China moon snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg
     caption: Pink moon snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg
     caption: Zebra moon snail
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/lineata/081116chgd2193m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/081116chgd2193m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg
     caption: Tiger moon snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg
     caption: Lined moon snail
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/100711cyrd8186m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100711cyrd8186m3.jpg
     caption: Spotted moon snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/vitellus/110518bbd1899m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/vitellus/110518bbd1899m3.jpg
     caption: Calf moon snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg
     caption: Eggwhite moon snail
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/130401chg.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/130401chg.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/111028chged2720m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/111028chged2720m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg
     caption: Shell of a dead snail Bosom moon snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg
     caption: Naked moon snail
 links_references: '**Links**
 
   - [Moon Snail (
-
   *Polinices*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)

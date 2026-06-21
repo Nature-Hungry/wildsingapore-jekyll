@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rambutan sponge on the shores of Singapore
 keywords: prickly, ball, sponge, tethya, robusta, tethyidae, porifera, field, guide,
 layout: entry
 shape: ball
@@ -16,24 +16,24 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Tethyida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/040409tusbd0078m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/ballprickly/040409tusbd0078m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/090113prpd5187m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/ballprickly/090113prpd5187m3a.jpg
     caption: Sometimes with raised polygonal bumps.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/090113prpd5187m3.jpg
+  - url: https://images.naturehungry.sg/porifera/ballprickly/090113prpd5187m3.jpg
     caption: Pasir Ris, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/120125chgd6067m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/ballprickly/120125chgd6067m3a.jpg
     caption: Filaments anchor or root the sponge to a hard surface.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/081211smkd2810m3.jpg
+  - url: https://images.naturehungry.sg/porifera/ballprickly/081211smkd2810m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/081211smkd2810m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/ballprickly/081211smkd2810m3b.jpg
     caption: Buds on ends of stalks may develop into new sponges.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/120125chgd6062m3.jpg
+  - url: https://images.naturehungry.sg/porifera/ballprickly/120125chgd6062m3.jpg
     caption: Inside of the sponge. Changi, Jan 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/120112smbs02077m3.jpg
+  - url: https://images.naturehungry.sg/porifera/ballprickly/120112smbs02077m3.jpg
     caption: Sembawang, Jan 12
 links_references: '**Links**
 
@@ -100,10 +100,10 @@ the
 [Golf ball sponge](golfball)
 which has a denser coat of finer spines without bulbous tips and which never have stringy tissues to anchor the sponge to the surface.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/040409tusbd0078m3.jpg)
+![](https://images.naturehungry.sg/porifera/ballprickly/040409tusbd0078m3.jpg)
 
 *Tuas, Apr 04*
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/ballprickly/120125chgd6067m3.jpg)
+![](https://images.naturehungry.sg/porifera/ballprickly/120125chgd6067m3.jpg)
 
 *Changi, Jan 12*
 

@@ -1,6 +1,6 @@
 ---
 title: 'Clown anemonefish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Clown anemonefish  on the shores of Singapore
 keywords: false, clown, anemonefish, anemone, fish, ocellaris, pomacentridae, amphiprion,  amphiprioninae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -27,118 +27,117 @@ order: Blenniiformes
 subfamily: Pomacentrinae
 complex: Amphiprion percula
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
     caption: In a Giant carpet anemone . Kusu Island, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m6l.jpg
     caption: In a Giant carpet anemone . Sisters Island, Aug 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
     caption: 'Stranded at low tide: best to leave it alone. Kusu Island, Aug 19'
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
     caption: In a Merten's carpet anemone . Terumbu Hantu, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: In a Magnificent anemone . Terumbu Semakau, Jul 14
   gallery4:
   - url: https://live.staticflickr.com/31337/51368805976_a982090d14_z.jpg
     caption: An anemonefish seen swimming away from its home anemone as the tide falls.
       Terumbu Pempang Laut, Aug 2021
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/070728sisd4491m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/070728sisd4491m3.jpg
     caption: Smaller anemonefishes are NOT the babies of larger fishes in the same
       anemone! Sisters Island, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg
     caption: Fishes of several different sizes in one Magnificent anemone. Pulau Pawai,
       Dec 09 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg
     caption: Eggs laid near the sea anemone. Pulau Sudong, Dec 09 Photo shared by
       Ivan Kwan g on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg
     caption: ''
   gallery7:
   - url: https://live.staticflickr.com/7682/27559698565_9175509a7f_z.jpg
     caption: Many Clown anemonefishes of various sizes!
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/220618tmftlks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/220618tmftlks3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/240724tmfttt1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/240724tmfttt1.jpg
     caption: Tanah Merah Ferry Terminal, Jun 24 Photo shared by Tommy Tan on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/250714srpttt1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/250714srpttt1.jpg
     caption: In Magnificent anemone Sentosa Serapong, Jul 25 Photo shared by Tommy
       Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/magnifica/120407lazlks1m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/magnifica/120407lazlks1m3a.jpg
     caption: Seringat Kias, Apr 12 Photo shared by James Koh on his blog .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/240528tslrk1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/240528tslrk1.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Richard Kuah on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/251009sjilks.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/251009sjilks.jpg
     caption: In a Magnificent anemone. St John's Island, Oct 25 Photo shared by Loh
       Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/240624sjimn2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/240624sjimn2.jpg
     caption: St John's Island, Jun 24 Photo shared by Marcus Ng on facebook .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/120506ssisjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/120506ssisjk.jpg
     caption: Small Sisters Island, Nov 12 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/070725sismn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/070725sismn.jpg
     caption: Sisters Island, Jul 07 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/100517jngjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/100517jngjk.jpg
     caption: Pulau Jong, May 10 Photo shared by James Koh on flickr .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/200918cyrlks7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/200918cyrlks7.jpg
     caption: Cyrene, Sep 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/250726cyrjt5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/250726cyrjt5.jpg
     caption: Cyrene, Jul 25 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/260201cyrmn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/260201cyrmn1.jpg
     caption: Cyrene, Jul 26 Photo shared by Marcus Ng on facebook .
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/121117hntmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/121117hntmn.jpg
     caption: Pulau Hantu, Nov 12 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/210429hntvc2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/210429hntvc2.jpg
     caption: In Magnificaent anemone Pulau Hantu, Apr 21 Photo shared by Vincent Choo
       on facebook .
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/250531thntccn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/250531thntccn1.jpg
     caption: Terumbu Hantu, May 25 Photo shared by Che Cheng Neo on facebook .
   gallery16:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/080210smktch10m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/080210smktch10m3.jpg
     caption: Pulau Semakau, Feb 08 Photo shared by Toh Chay Hoon on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/100502trygl3m3.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/100502trygl3m3.JPG
     caption: Terumbu Raya, May 10 Photo shared byGeraldine Lee on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/100617tsmklks6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/100617tsmklks6m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his blog .
   gallery17:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/100617tbtch6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/100617tbtch6m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoom on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/251008bbbky11.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/251008bbbky11.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/100530pbklks1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/100530pbklks1m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on flickr .
   gallery18:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/091205sdgik.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/091205sdgik.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan g on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg
     caption: Eggs laid near the sea anemone. Pulau Sudong, Dec 09 Photo shared by
       Ivan Kwan g on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg
     caption: ''
   gallery19:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/100613snglks2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/100613snglks2m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/100612sngmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/100612sngmn.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Clown Anemonefish (
-
   *Amphiprion ocellaris*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/337)
@@ -155,7 +154,6 @@ links_references: '**Links**
   on taxo4254.
 
   - [Clown Anemonefish (
-
   *Amphiprion ocellaris*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=6509)
@@ -167,7 +165,6 @@ links_references: '**Links**
   : Technical fact sheet on the family, including fact sheet on
 
   - [False-Clown Anemonefish (
-
   *Amphiprion ocellaris*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/aocellaris)
@@ -254,13 +251,8 @@ This delightful fish is commonly seen in large sea anemones on some of our South
 2-9cm. Red to reddish-brown with three broad white bars (the middle bar widening at the middle of the side of the body towards the head) and black bands on the edges of all the fins including the top of the dorsal fin.
 
 **False Clown?**
-Our clown anemonefish (
-*Amphiprion ocellaris*
-) is sometimes called the False clown anemonefish, to distinguish it from another closely related fish called the Orange anemonefish (
-*Amphiprion percula*
-) which has black bands on the white body bars (see
-[SeaLife Base fact sheet](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=9209&genusname=Amphiprion&speciesname=percula)
-). The natural distribution of these two species of anemonefishes do NOT overlap.
+Our clown anemonefish (*Amphiprion ocellaris*) is sometimes called the False clown anemonefish, to distinguish it from another closely related fish called the Orange anemonefish (*Amphiprion percula*) which has black bands on the white body bars (see
+[SeaLife Base fact sheet](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=9209&genusname=Amphiprion&speciesname=percula)). The natural distribution of these two species of anemonefishes do NOT overlap.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Home Sweet Anemone Home:**
 On our intertidal, the fish is often seen in

@@ -1,6 +1,6 @@
 ---
 title: Galloping sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Galloping sea star on the shores of Singapore
 keywords: galloping, sea star, seastar, starfish, star, fish, stellaster, childreni,
   equestris, goniasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -23,31 +23,31 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/110814smkd9084m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/110814smkd9084m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/110814smkd9084m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/110814smkd9084m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/100420sntd1471m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/100420sntd1471m3.jpg
     caption: Sentosa, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/100420sntd1471m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/100420sntd1471m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/100420sntd1475m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/100420sntd1475m3.jpg
     caption: Pale underside with colourful markings
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/100420sntd1475m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/100420sntd1475m3a.jpg
     caption: Tube feet with sucker tips.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/20251010blytl4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/20251010blytl4.jpg
     caption: Berlayar Creek, Oct 25 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/20251010blytl4c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/20251010blytl4c.jpg
     caption: Tiny conical points on upperside
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/equestris/20251010blytl4b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/20251010blytl4b.jpg
     caption: Underside
 links_references: '**Links**
 

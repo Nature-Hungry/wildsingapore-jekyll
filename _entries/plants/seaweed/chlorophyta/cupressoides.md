@@ -1,6 +1,6 @@
 ---
 title: Zipper green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Zipper green seaweed on the shores of Singapore
 keywords: zipper, feathery, seaweed, weed, green, caulerpa, cupressoides, caulerpaceae,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,17 +19,17 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3.jpg
     caption: Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3.jpg
     caption: Pulau Sekudu, Sep 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3.jpg
     caption: Sentosa, Jun 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 
@@ -132,12 +132,12 @@ species produce toxins to protect themselves from browsing fish. This also makes
 
 Its scientific name 'cupressoides' means 'cypress-like' or 'resembling cypress'.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg)
 
 *Pulau Sekudu, Jun 05*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg)
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/cupressoides/100519tsmc4168m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/100519tsmc4168m3.jpg)
 
 *Terumbu Semakau, May 10*
 

@@ -1,6 +1,6 @@
 ---
 title: 'Fishtail palm '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fishtail palm  on the shores of Singapore
 keywords: fishtail, caryota, mitis, aracaceae, palmae, palm, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -25,21 +25,21 @@ subfamily: Coryphoideae
 tribe: Caryoteae
 inat_id: 160169
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caryota/mitis/091227kntd6421m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/caryota/mitis/091227kntd6421m3.jpg
     caption: Flowers
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caryota/mitis/091227kntd6420m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/caryota/mitis/091227kntd6420m6l.jpg
     caption: Kranji Nature Trail, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caryota/mitis/091227kntd6467m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/caryota/mitis/091227kntd6467m6l.jpg
     caption: Kranji Nature Trail, Dec 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caryota/mitis/091227kntd6439m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/caryota/mitis/091227kntd6439m3.jpg
     caption: Fruits
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caryota/mitis/100116cjc0340m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/caryota/mitis/100116cjc0340m3.jpg
     caption: Fruits
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caryota/mitis/091227kntd6434m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/caryota/mitis/091227kntd6434m6l.jpg
     caption: Kranji Nature Trail, Dec 09
 links_references: '**Links**
 
@@ -86,7 +86,7 @@ A short palm (to about 6m), often forming clumps of several stems. Leaves long (
 
 The fluff scraped off leaves and sheaths are used as tinder. Whitmore describes how in Kelantan, a 'gobek api' is used to start a fire. A piece of buffalo horn has a small hole drilled in it and a tight fitting piston of the same material. A little Fishtail palm fluff is dropped into the hole. 'The piston is driven sharply home, and if it is then removed quickly enough, the fluffy material will be found to be smouldering and can be fanned into a flame'. According to Burkill and Whitmore, the inflorescence is tapped for toddy and the pith of the trunk extracted for a kind of sago flour. The fruit wall and sap contains irritant needle-like crystals.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg)
+![](https://images.naturehungry.sg/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg)
 
 *Sungei Cina, Apr 10*
 

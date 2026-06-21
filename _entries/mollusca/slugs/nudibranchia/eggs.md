@@ -1,6 +1,6 @@
 ---
 title: Nudibranch eggs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Nudibranch eggs on the shores of Singapore
 keywords: nudibranch, egg, mass,  slug, seaslug, opisthobranch, gastropod, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -20,21 +20,21 @@ subterclass: Ringipleura
 superorder: Nudipleura
 order: Nudibranchia
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/eggs/050309smkg3146m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/eggs/050309smkg3146m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/eggs/050309smkg3146m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/eggs/050309smkg3146m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/eggs/130511hntd6613m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/eggs/130511hntd6613m3.jpg
     caption: Closer look at the eggs embedded in mucus. Pulau Hantu, May 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/eggs/090808tmd8505m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/eggs/090808tmd8505m3.jpg
     caption: Tanah Merah, Aug 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/lilacina/050709skdg9223m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/lilacina/050709skdg9223m3.jpg
     caption: Discodoris lilacina Pulau Sekudu, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3.jpg
     caption: Ategema spongiosa Chek Jawa, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/050709skdd4900m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/050709skdd4900m3.jpg
     caption: Polka-dot nudibranch and eggs. Pulau Sekudu, Jul 05
   gallery4:
   - url: https://live.staticflickr.com/896/41946456675_da8161e914_z.jpg

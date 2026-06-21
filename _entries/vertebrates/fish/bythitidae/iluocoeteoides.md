@@ -1,6 +1,6 @@
 ---
 title: 'Yellow cuskeel '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow cuskeel  on the shores of Singapore
 keywords: yellow, cusk, eel, cuskeel, dinematichthys, iluocoeteoides, bythitidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,44 +23,43 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Ophidiiformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
     caption: Labrador, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/070728sisd4531m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/070728sisd4531m6l.jpg
     caption: Sisters Island, Jul 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3d.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3d.jpg
     caption: Tiny tail fin separated from long dorsal and anal fins.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks1.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks1.JPG
     caption: Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks2.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks2.JPG
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/200706skdlks4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/200706skdlks4.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/230705ssismn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/230705ssismn1.jpg
     caption: Small Sisters Island, Jul 23 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24a.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/200918cyrjll1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/200918cyrjll1.jpg
     caption: Cyrene, Sep 20 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/210501tbrl1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/210501tbrl1.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Russel Low on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/bythitidae/iluocoeteoides/210428slulks5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/210428slulks5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
   - [Yellow cuskeel (
-
   *Dinematichthys iluocoeteoides*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/229)
@@ -80,7 +79,6 @@ links_references: '**Links**
   and
 
   [Yellow pigmy brotula (
-
   *Dinematichthys iluocoeteoides*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7300)
@@ -140,9 +138,7 @@ habitats:
 ---
 
 ## Where seen?
-This odd little eel-like fish is sometimes seen on some of our shores, usually near reefs at night. It was previously listed under Family Brotulidae and thus sometimes still referred to as brotulids. Another species, the Riau viviparous brotula (
-*Ungusurculus riauensis*
-) looks very similar.
+This odd little eel-like fish is sometimes seen on some of our shores, usually near reefs at night. It was previously listed under Family Brotulidae and thus sometimes still referred to as brotulids. Another species, the Riau viviparous brotula (*Ungusurculus riauensis*) looks very similar.
 
 ## Features
 

@@ -1,6 +1,6 @@
 ---
 title: 'Rotan tikus '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rotan tikus  on the shores of Singapore
 keywords: rotan, tikus, flagellaria, indica, flagellariaceae, plant, tree, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -21,7 +21,7 @@ class: Liliopsida
 order: Poales
 inat_id: 360343
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
 links_references: '**Links**
 
   - [*Flagellaria indica*](http://floraofsingapore.wordpress.com/2010/06/20/flagellaria-indica/)on
@@ -46,18 +46,18 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090328sbwrd8597m3c.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flagellaria/indica/090328sbwrd8597m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090328sbwrd8597m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flagellaria/indica/090328sbwrd8597m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090328sbwrd8594m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flagellaria/indica/090328sbwrd8594m3a.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090802ubind8222m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flagellaria/indica/090802ubind8222m3.jpg
     caption: Pulau Ubin, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090802ubind8225m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flagellaria/indica/090802ubind8225m3.jpg
     caption: Pulau Ubin, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/100321sgcd0246m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/flagellaria/indica/100321sgcd0246m3.jpg
     caption: Sungei Cina, Apr 10
 size:
 - 200.0
@@ -83,11 +83,11 @@ A climber with a thin long stem (2-15m long), woody at the base but generally gr
 
 According to Burkill, its tough stems are used for basket-making and for stitching attaps. The young leaves are used in hair-washing. Various other parts of the plants are also used for other traditional medicinal uses. According to Giesen, it is considered inferior to true rattan. The leaves may be used as a plaster on wounds.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg)
 
 *Pulau Semakau, Jan 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/flagellaria/indica/090111smkd4873m3b.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/flagellaria/indica/090111smkd4873m3b.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

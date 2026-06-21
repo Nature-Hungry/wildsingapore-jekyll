@@ -1,6 +1,6 @@
 ---
 title: Pimply leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pimply leathery soft coral on the shores of Singapore
 keywords: lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,50 +17,50 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg
     caption: Pulau Semakau, Sep 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/050917smkg2447m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/050917smkg2447m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/050917smkg2447m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/050917smkg2447m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/060415hntd1291m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/060415hntd1291m3.jpg
     caption: Pulau Hantu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/060415hntg5647m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/060415hntg5647m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/060415hntg5647m3e.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/060415hntg5647m3e.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/200310bbbmn1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/200310bbbmn1.jpg
     caption: Beting Bemban Besar, Mar 20 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/091231biod6954m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/091231biod6954m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/091231biod6951m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/091231biod6951m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/091231biod6953m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/091231biod6953m3a.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/100131slud8892m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100131slud8892m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/100131slud8895m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100131slud8895m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/100131slud8895m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100131slud8895m3.jpg
     caption: ''
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/100130brkd8651m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100130brkd8651m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/091204pawd5246m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/091204pawd5246m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/100613sngd5520m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100613sngd5520m3.jpg
     caption: Pulau Senang, Jun 10
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/100601slud4738m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100601slud4738m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpimply/100601slud4739m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100601slud4739m3.jpg
     caption: ''
 links_references: '**Links**
 
@@ -131,8 +131,7 @@ The colony has both feeding polyps (autozooids) and water pumping polyps (siphon
 
 **Sometimes confused with**
 [Smooth leathery soft coral](letsmooth)
-(
-*Sinularia*
+(*Sinularia*
 sp.) which does not have siphonozooids and thus has a smooth common tissue.
 
 **Status and threats:**

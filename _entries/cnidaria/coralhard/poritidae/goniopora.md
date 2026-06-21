@@ -1,6 +1,6 @@
 ---
 title: Goniopora corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Goniopora corals on the shores of Singapore
 keywords: goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,35 +17,35 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg
     caption: Larger polyps of Anemone coral compared with smaller Small goniopora
       coral.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3b.jpg
     caption: Circular corallites.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonsmall/031223tused0053m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonsmall/031223tused0053m3b.jpg
     caption: With tiny acoel flatworms .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/060130hntg4247m3e.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/060130hntg4247m3e.jpg
     caption: With acoel flatworm .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/100201hntd8971m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/100201hntd8971m3.jpg
     caption: Anemone corals
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
     caption: Anemone corals
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonsmall/080510smkd3101m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonsmall/080510smkd3101m3.jpg
     caption: Small goniopora corals
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/100201hntd8968m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/100201hntd8968m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/051204sisg3282m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/051204sisg3282m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonsmall/080510smkd3101m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonsmall/080510smkd3101m3a.jpg
     caption: ''
 links_references: '**Links**
 

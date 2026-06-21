@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange sprawling sponge on the shores of Singapore
 keywords: orange, sprawling, sponge, clathria, reinwardti, microcionidae, porifera,
 layout: entry
 shape: branching
@@ -17,36 +17,36 @@ subclass: Heteroscleromorpha
 order: Poecilosclerida
 subfamily: Microcioninae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/050309smkd1535m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/sprawlorange/050309smkd1535m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/050309smkd1535m3.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/050309smkd1535m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/090510hntd1160m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/090510hntd1160m3a.jpg
     caption: Cone with holes at the tip.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/090510hntd1160m3e.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/090510hntd1160m3e.jpg
     caption: Hole with membranous lips and water channels radiating out from the hole.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/070520smkg9497m3.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/070520smkg9497m3.jpg
     caption: Pulau Semakau, May 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/080608cyrd5375m3.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/080608cyrd5375m3.jpg
     caption: Cyrene Reef, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/090625bsrd5220m3.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/090625bsrd5220m3.jpg
     caption: Beting Bemban Besar, Jun 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/100519tsmc3990m3.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/100519tsmc3990m3.jpg
     caption: Terumbu Semakau, May 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/091204pawd0023m3.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/091204pawd0023m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/100130brkd8505m3.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/100130brkd8505m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/100530tbkd4380m3.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/100530tbkd4380m3.jpg
     caption: Pulau Berkas, May 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/100613sngd5432m6l.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/100613sngd5432m6l.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/100131slud8867m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/100131slud8867m3b.jpg
     caption: Terumbu Salu, Jan 10
 links_references: '**Links**
 

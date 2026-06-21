@@ -1,6 +1,6 @@
 ---
 title: Skinny sea fans
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Skinny sea fans on the shores of Singapore
 keywords: seafan, fan, astrogorgia, plexauridae, gorgonian, gorgonacea, anthozoa,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,31 +17,31 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
     caption: East Coast, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/100727chgd9283m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/100727chgd9283m3.jpg
     caption: Changi, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/050722cjg9842m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/050722cjg9842m3b.jpg
     caption: Chek Jawa, Jul 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg
     caption: Tiny colourful brittle stars . Changi, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/081214ecmd3212m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/081214ecmd3212m3.jpg
     caption: Red flatworm ? East Coast, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
     caption: Ovulid snails East Coast, Jun 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/091218tmlks2m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/091218tmlks2m3.JPG
     caption: Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/150618tmftlks7m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/150618tmftlks7m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/090723ecplks5m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/090723ecplks5m3.jpg
     caption: East Coast Park, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/skinny/170428ecpcnlks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/170428ecpcnlks5.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

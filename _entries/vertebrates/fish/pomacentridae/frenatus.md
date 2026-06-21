@@ -1,6 +1,6 @@
 ---
 title: 'Tomato anemonefish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tomato anemonefish  on the shores of Singapore
 keywords: tomato, anemonefish, anemone, fish, frenatus, pomacentridae, amphiprion,  amphiprioninae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -26,71 +26,71 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/100617tbd6333m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/100617tbd6333m6l.jpg
     caption: Terumbu Bemban, Jun 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/180520tsmk5lks.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/180520tsmk5lks.jpg
     caption: Females larger and more blackish, males smaller and usually all red.
       Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on facebook
     col_span: 2
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
   - url: https://live.staticflickr.com/3684/32960802914_ca75da216a_z.jpg
     caption: Pulau Semakau, Apr 17
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/090726tmlks6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/090726tmlks6m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/220618tmftlks1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/220618tmftlks1.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/210712srpjll1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/210712srpjll1.jpg
     caption: Sentosa Serapong, Jul 21 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/250714srpal1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/250714srpal1.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/160409sjilks4.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/160409sjilks4.JPG
     caption: St John's Island, Apr 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/070701hntlks02m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/070701hntlks02m3.jpg
     caption: Pulau Hantu, Jul 07 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/120411thntrl1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/120411thntrl1m3.jpg
     caption: Terumbu Hantu, Apr 12 Photo shared by Russel Low on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/160516jngtyc.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/160516jngtyc.jpg
     caption: Pulau Jong, May 16 (seen diving) Photo shared by Tay Ywee Chieh on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3a.jpg
     caption: Eggs laid near the host sea anemone.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Toh Chay Hoon on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/210823smkelks1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/210823smkelks1.jpg
     caption: Pulau Semakau (East), Aug 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/100519tsmlks1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/100519tsmlks1m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/180615trylks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/180615trylks2.jpg
     caption: Terumbu Raya, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/090723tmrjk5m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/090723tmrjk5m3.jpg
     caption: Terumbu Raya, Jul 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/150607bbbtch6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/150607bbbtch6m3.jpg
     caption: Beting Bemban Besar, Jun 15 Photo shared by Russel Low on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/160806tpllks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/160806tpllks5.jpg
     caption: Teumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/100810snglks1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/100613snglks3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/100613snglks3m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/210428slulks10.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/210428slulks10.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery12: null
 links_references: '**Links**

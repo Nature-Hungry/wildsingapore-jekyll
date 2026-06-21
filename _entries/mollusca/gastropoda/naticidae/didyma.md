@@ -1,6 +1,6 @@
 ---
 title: Ball moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ball moon snail on the shores of Singapore
 keywords: ball, moon, snail, naticidae, natica, polinices, neverita, didyma, gastropod,
   mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,22 +19,21 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
     caption: Tanah Merah, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg
     caption: Tanah Merah, Feb 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
     caption: Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
     caption: Siphon (upper left) and tentcles
 links_references: '**Links**
 
   - [Bladder moon snail (
-
   *Polinices didyma*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86933)
@@ -42,7 +41,6 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
   - Bladder moon snail (
-
   *Polinices didyma*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
@@ -100,8 +98,7 @@ This almost spherical moon snail is commonly seen on a few of our sandy Northern
 
 ## Features
 
-3-5cm. Shell smooth glossy, thick heavy, spherical, the spiral tip not sticking out so that the overall shape resembles a ball (
-*Didyma*
+3-5cm. Shell smooth glossy, thick heavy, spherical, the spiral tip not sticking out so that the overall shape resembles a ball (*Didyma*
 means 'testicles'). Shell pattern usually plain white sometimes with pearly pastel shades, with narrow white spiral at the spire, sometimes with irregular blotches of darker colours. On the underside, a brown blotch and a small depression. Operculum smooth, made of a thin horn-like material, yellow. Body huge, plain white. Tentacles with more opaque white bands.
 
 **Sometimes mistaken for**

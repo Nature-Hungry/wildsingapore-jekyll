@@ -1,6 +1,6 @@
 ---
 title: 'Noodle seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Leaves cylindrical (like plastic tubing). Common on on Pulau Semakau.
 keywords: noodle, grass, syringodium, isoetifolium, potamogetonaceae, cymodoceaceae,
   seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -24,14 +24,14 @@ updated: Mar 14
 rdb: EN
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/100519tsmc4069m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/syringodium/100519tsmc4069m3.jpg
     caption: Terumbu Semakau, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/081016cyrd0933m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/syringodium/081016cyrd0933m3.jpg
     caption: Cyrene Reef, Oct 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/110830cyrd0547m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/syringodium/110830cyrd0547m3.jpg
     caption: Cyrene Reef, Aug 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/220618tmftvc4.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/syringodium/220618tmftvc4.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**
@@ -105,9 +105,7 @@ habitats:
 ## Where seen?
 This seagrass is abundant on Pulau Semakau, growing among the more dominant
 [Tape seagrass](enhalus)
-(
-*Enhalus acoroides*
-), and on Cyrene Reef.
+(*Enhalus acoroides*), and on Cyrene Reef.
 
 Noodle seagrass is found throughout the tropical Indo-West Pacific region. Elsewhere, it can form thick tall stands without any other seagrass species. It can also grow among other seagrasses species, where it is then smaller. It is rarely found in shallow intertidal areas. It appears to respond rapidly to increased nutrient availability.
 
@@ -118,8 +116,7 @@ Leaves of those seen were 5-10cm long, but elsewhere, they can grow to 50cm long
 
 **Sometimes confused with**
 [Needle seagrass](halodule)
-(
-*Halodule*
+(*Halodule*
 sp.). While both are long and narrow, noodle seagrass, however, is cylindrical like plastic tubing or noodles, while needle seagrass is flat like a ribbon.
 
 **Flowers and fruits:**
@@ -135,13 +132,13 @@ seagrasses available. So it is also sometimes called Dugong grass.
 **Status and threats:**
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/050309smkd1462m3.jpg)*
+*![](https://images.naturehungry.sg/plants/seagrass/syringodium/050309smkd1462m3.jpg)*
 
 *Pulau Semakau, Mar 05*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/050626smkg8824m3.jpg)*
+*![](https://images.naturehungry.sg/plants/seagrass/syringodium/050626smkg8824m3.jpg)*
 
 *Pulau Semakau, Jun 05*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/syringodium/050626smkg8824m3a.jpg)*
+*![](https://images.naturehungry.sg/plants/seagrass/syringodium/050626smkg8824m3a.jpg)*
 
 *Pulau Semakau, Jun 05*
 

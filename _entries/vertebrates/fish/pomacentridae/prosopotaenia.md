@@ -1,6 +1,6 @@
 ---
 title: 'Honey-head damsel '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Honey-head damsel  on the shores of Singapore
 keywords: honey, head, damsel, dischistodus, prosopotaenia, pomacentridae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,27 +23,26 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/140531sjid5883m.jpg
     caption: Juvenile. St John's Island, May 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/111029smkd3142m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/111029smkd3142m6l.jpg
     caption: Juvenile. Pulau Semakau, Oct 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/110605tsmkd3956m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/110605tsmkd3956m6l.jpg
     caption: Adult caught in a fishing net. Terumbu Semakau, Jun 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/251207hntml4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/251207hntml4.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/230805thnttl2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/230805thnttl2.jpg
     caption: Terumbu Hantu, Aug 23 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/prosopotaenia/190707thnll2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/190707thnll2.jpg
     caption: Terumbu Hantu, Jul 19 Photo shared by Liz Lim on facebook .
 links_references: '**Links**
 
   - [Honey-head damsel (
-
   *Dischistodus prosopotaenia*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/343)

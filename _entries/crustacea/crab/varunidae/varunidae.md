@@ -1,6 +1,6 @@
 ---
 title: 'Varunid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Varunid crabs  on the shores of Singapore
 keywords: paddler, crab, varunidae, decapod, crustacea, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,12 +24,12 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
     caption: Orange signaller crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
     caption: Paddler crab
 links_references: "**Links**\n- [Paddler crab (\n*Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046)\n\
   ,\n[Orange signaller crab (\n*Metaplax elegans*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2051)\n\

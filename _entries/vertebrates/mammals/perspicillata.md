@@ -1,6 +1,6 @@
 ---
 title: Smooth-coated otter
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth-coated otter on the shores of Singapore
 keywords: smooth, coated, otter, lutrogale, perspicillata, mustelidae, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,19 +21,19 @@ superorder: Laurasiatheria
 order: Carnivora
 subfamily: Lutrinae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/perspicillata/090511chgd1421m6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/perspicillata/090511chgd1421m6.jpg
     caption: Changi, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/perspicillata/100316sbwrd0105m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/perspicillata/100316sbwrd0105m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/perspicillata/110703cjd5376m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/perspicillata/110703cjd5376m6l.jpg
     caption: Otter prints on mud. Chek Jawa, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/perspicillata/110820smkd9592m6la.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/perspicillata/110820smkd9592m6la.jpg
     caption: Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/perspicillata/110820smkd9596m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/mammals/perspicillata/110820smkd9596m6l.jpg
     caption: Pulau Semakau, Aug 11
 links_references: '**Links**
 
@@ -50,7 +50,6 @@ links_references: '**Links**
   (Carnivora: Mustelidae) Smooth-coated Otter by Tan Jia Xiu, 2015, on taxo4254.
 
   - [Group of ten smooth-coated otters (
-
   *Lutrogale perspicillata*
 
   ) at Pulau Ubin](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-064.pdf)
@@ -165,11 +164,11 @@ Babies are born in a litter of 1-2, in a den dun in the river bank. The young st
 **Status and threats:**
 The Smooth-coated otter is listed as 'Critically Endangered' in the Red List of threatened animals of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg)
+*![](https://images.naturehungry.sg/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg)
 
 Woodlands Park, Dec 10*
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/perspicillata/100316sbwrd0105m3.jpg)
+*![](https://images.naturehungry.sg/vertebrates/mammals/perspicillata/100316sbwrd0105m3.jpg)
 
 Sungei Buloh Wetland Reserve,
 Mar 10*

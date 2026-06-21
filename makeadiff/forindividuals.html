@@ -1,0 +1,391 @@
+---
+title: "You can make a difference"
+permalink: "/makeadiff/forindividuals"
+---
+
+{% include global/header.html %}
+  
+<style>
+  section{
+    min-height:80vh;
+  }
+  /* ── Hero ── */
+    .hero {
+      width: 100%;
+      margin: 0 auto;
+      /* height: 80vh; */
+      max-height: 800px;
+    }
+
+    .hero__inner {
+      display: flex;
+      gap: 1rem;
+      height: 100%;
+      align-items: center;
+    }
+
+    /* ── Left column ── */
+    .hero__left{
+      flex: 2;
+      
+    }
+    .hero__heading {
+      
+      color: #2a6b1a;
+      line-height: 1.1;
+      margin-bottom: 1rem;
+    }
+
+    .hero__heading .you {
+      color: #d4681e;
+    }
+
+    .hero__subhead {
+      font-size: 15px;
+      color: #555;
+      line-height: 1.75;
+      margin-bottom: 1.75rem;
+    }
+
+    /* ── Steps ── */
+    .hero__steps {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      margin-bottom: 2rem;
+    }
+
+    .hero__step {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+    }
+
+    .hero__step-icon {
+      width: 38px;
+      height: 38px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      font-size: 18px;
+    }
+
+    .hero__step-icon--green {
+      background: #e8f4e3;
+      color: #2a6b1a;
+    }
+
+    .hero__step-icon--orange {
+      background: #fdf0e7;
+      color: #d4681e;
+    }
+
+    .hero__step-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: #222;
+      margin-bottom: 2px;
+    }
+
+    .hero__step-desc {
+      font-size: 13px;
+      color: #777;
+      line-height: 1.55;
+    }
+
+    /* ── CTAs ── */
+    .hero__ctas {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .hero__cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 10px 22px;
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      text-decoration: none;
+      transition: opacity 0.15s ease;
+      border: none;
+      font-family: inherit;
+    }
+
+    .hero__cta:hover {
+      opacity: 0.85;
+    }
+
+    .hero__cta--primary {
+      background: #d4681e;
+      color: #fff;
+    }
+
+    .hero__cta--secondary {
+      background: transparent;
+      color: #2a6b1a;
+      border: 1.5px solid #2a6b1a;
+    }
+
+    /* ── Right column ── */
+    .hero__photo-col {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+      flex: 3;
+      
+    }
+
+    .hero__photo {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 12px;
+      display: block;
+      max-height: 60vh;
+
+    }
+
+    /* Placeholder shown when no real photo is provided — remove this when adding your image */
+    .hero__photo-placeholder {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      background: #c8dfc0;
+      border-radius: 12px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      color: rgba(42, 107, 26, 0.4);
+      font-size: 13px;
+    }
+
+    .hero__photo-placeholder i {
+      font-size: 30px;
+    }
+
+    .hero__photo-credit {
+      font-size: 0.8rem;
+      color: #7a7a7a;
+      font-style: italic;
+      margin-top: 8px;
+      line-height: 1.55;
+    }
+
+    .hero__pull-quote {
+      border-left: 3px solid #d4681e;
+      padding-left: 12px;
+      margin-top: 1.25rem;
+    }
+
+    .hero__pull-quote p {
+      font-size: 13px;
+      color: #777;
+      font-style: italic;
+      line-height: 1.65;
+    }
+
+
+    .how-flex{
+      display:flex;
+      gap:1rem;
+      justify-content: center;
+      align-items: center;
+      height: fit-content;
+      margin-top:4rem;
+      flex-wrap: wrap;
+    }
+    .how-card{
+      display:flex;
+      flex-direction: column;
+      align-items: start;
+      justify-content: space-between;
+      gap:2rem;
+      text-align: left;
+      width: 240px;
+      height: stretch;
+      border:1px solid var(--color-text-muted);
+      border-radius: var(--border-radius);
+      padding:1rem;
+      font-weight: normal;
+      text-decoration: none;
+      color:#222;
+    }
+    .how-card:visited{
+      color: #222;
+    }
+
+    
+    .how-icon{
+      font-size: 2rem;
+    }
+
+    /* ── Tablet (≤900px): stack photo below text, go single column ── */
+    @media (max-width: 800px) {
+      .hero{
+        height: auto;
+    max-height: none;
+      }
+      .hero__inner {
+        flex-direction: column;
+        gap:0rem;
+      }
+      .hero__photo-col{
+        order:-1;
+      }
+      .hero__photo{
+        height:40vh;
+      }
+    }
+
+    /* ── Mobile (≤560px) ── */
+    @media (max-width: 560px) {
+      .hero {
+      }
+
+      .hero__heading {
+        font-size: 32px;
+      }
+
+      .hero__subhead {
+        font-size: 14px;
+      }
+
+      .hero__photo,
+      .hero__photo-placeholder {
+        aspect-ratio: 4 / 3;
+        border-radius: 8px;
+      }
+
+      .hero__ctas {
+        flex-direction: column;
+      }
+
+      .hero__cta {
+        justify-content: center;
+        text-align: center;
+      }
+    }
+  </style>
+<main class="page-content page-content-full-width" id="main-content">
+
+
+<section class="hero" aria-label="Make a Difference hero">
+    <div class="hero__inner">
+
+      <!-- Left: text -->
+      <div class="hero__left">
+        <h1 class="hero__heading">
+          <span class="you">You</span> can make<br>a difference.
+        </h1>
+
+        <p class="hero__subhead">
+          Join a community of people who are on a mission to help Singaporeans discover their natural heritage. And make informed decisions about our choices for the future.
+        </p>
+
+        
+
+        <div class="hero__ctas">
+          <!-- <a href="#how-to-help" class="hero__cta hero__cta--primary">
+            Find out how <i class="ti ti-arrow-right" aria-hidden="true"></i>
+          </a>
+           -->
+        </div>
+      </div>
+
+      <!-- Right: photo -->
+      <div class="hero__photo-col">
+        
+          <img
+            src="https://live.staticflickr.com/1154/600726045_1830fa69dc_b.jpg"
+            alt="Volunteers, researchers and ordinary visitors gathered at Chek Jawa on New Year's Eve 2002, just after reclamation was deferred"
+            class="hero__photo"
+          />
+
+          
+       
+        
+        <!-- <div class="hero__photo-placeholder" role="img" aria-label="Chek Jawa photo — add your image here">
+          <i class="ti ti-photo" aria-hidden="true"></i>
+          <span>Your Chek Jawa photo</span>
+        </div> -->
+
+        <p class="hero__photo-credit">
+          Chek Jawa on the Eve of the New Year 2002,
+just after reclamation was deferred. Those in the photo include volunteers,
+researchers and ordinary visitors just who happened to be there.
+        </p>
+
+      
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <h2 style="text-align: center;">How do I help?</h2>
+    <div class="how-flex">
+      <a href="/makeadiff/ourwildplaces" class="how-card">
+        <div class="how-content">
+          <div class="how-icon">
+            <i class="ti ti-map-2"></i>
+          </div>
+          <h3>Explore</h3>
+          <p>Explore our wild places, bring a friend along for a trip or an event</p>
+        </div>
+        <p>Where to go? <i class="ti ti-arrow-narrow-right"></i></p>
+      </a>
+      <a href="/makeadiff/express" class="how-card">
+        <div class="how-content">
+          <div class="how-icon">
+            <i class="ti ti-share"></i>
+          </div>
+          <h3>Express</h3>
+          <p>Share what you discovered. Social media is a great way to raise awareness among your friends!</p>
+        </div>
+        <p>Get inspired <i class="ti ti-arrow-narrow-right"></i></p>
+      </a>
+      <a href="/makeadiff/act" class="how-card">
+        <div class="how-content">
+          <div class="how-icon">
+           <i class="ti ti-hand-stop"></i>
+          </div>
+          <h3>Act</h3>
+          <p>Volunteer any effort or time you can spare. Whatever you do, if you are dependable, you can make a huge difference!</p>
+        </div>
+        <p>Get involved <i class="ti ti-arrow-narrow-right"></i></p>
+      </a>
+    </div>
+  </section>
+  <section>
+    <h2 style="text-align: center;">Why should I care?</h2>
+  </section>
+  <section>
+    <h2 style="text-align: center;">Success stories</h2>
+  </section>
+
+  <div class="closing"
+    style="
+      background-color: #f6ffe5;
+      text-align: center;
+      padding:4rem;
+      color: var(--color-accent-green);
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+      gap:1rem;
+    "
+  >
+    <p style="color: var(--color-accent-green);margin:0">Every effort counts</p>
+    <h2 style="color: var(--color-accent-green);margin:0;font-weight: normal;">Start with me, my impact, my habits.</h2>
+    <p style="">If I can't change myself, how can I expect others to change?</p>
+  </div>
+
+</main>
+{% include global/footer.html %}

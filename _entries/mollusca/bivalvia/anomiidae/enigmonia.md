@@ -1,6 +1,6 @@
 ---
 title: Mangrove jingle clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove jingle clam on the shores of Singapore
 keywords: mangrove, jingle, shell, enigmonia, aenigmatica, anomiidae,  bivalve, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,19 +23,18 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
     caption: Lim Chu Kang, Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg
     caption: Seletar, Jun 02
 links_references: '**Links**
 
   - [Enigma oyster (
-
   *Enigmoia aenigmatica*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2094)
@@ -47,7 +46,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Crust Shell (
-
   *Enignomia rosea*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/161)

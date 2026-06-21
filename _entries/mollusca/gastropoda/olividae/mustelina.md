@@ -1,6 +1,6 @@
 ---
 title: Weasel olive snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Weasel olive snail on the shores of Singapore
 keywords: olive, snail, shell, oliva, mustelina, olividae, gastropod, mollusc, sand,
   collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,17 +18,17 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
     caption: Changi, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg
     caption: Shell opening violet. East Coast Park, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg
     caption: Short conical spire.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/mustelina/080720cjd8009.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/080720cjd8009.jpg
     caption: Typical trail of a burrowing olive snail in wet sand. Chek Jawa, Jul
       08
   gallery3:

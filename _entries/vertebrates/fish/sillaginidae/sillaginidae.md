@@ -1,6 +1,6 @@
 ---
 title: 'Whitings '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Whitings  on the shores of Singapore
 keywords: sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,47 +23,46 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
     caption: East Coast, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/040425cjd0109m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/040425cjd0109m6l.jpg
     caption: Chek Jawa, Apr 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/121117hntd1524m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/121117hntd1524m6l.jpg
     caption: Pulau Hantu, Nov 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/100912kusd1441m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/100912kusd1441m3.jpg
     caption: Kusu Island, Sep 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/220616chgedc5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/220616chgedc5.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/090512tmjk5m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/090512tmjk5m3.jpg
     caption: Tanah Merah, May 09 Photo shared by James Koh on his flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/170822labjll5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/170822labjll5.jpg
     caption: Labrador, Aug 17 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/151001blymn2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/151001blymn2m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/201019sjijll11.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/201019sjijll11.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/251011ssistl3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/251011ssistl3.jpg
     caption: St John's Island, Oct 25 Photo shared by Tammy Lim on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/090628lazlt3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/090628lazlt3m3.jpg
     caption: Seringat-Kias, Jun 09 Photo shared by Liana Tan on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/250810bsisrk1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/250810bsisrk1.jpg
     caption: Big Sisters, Aug 25 Photo shared by Richard Kuah on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/140810smkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/140810smkmn.jpg
     caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/sillaginidae/sillaginidae/110830cyrlks3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/110830cyrlks3m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by Lok Kok Sheng on his blog .
 links_references: '**Links**
 
   - [Pasir or Silver Sand Whiting (
-
   *Sillago sihama*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281)
@@ -174,26 +173,19 @@ appear very similar in the field.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 The
 **Silver sillago**
-(
-*Sillago sihama*
-) is commonly seen in coastal areas and even recorded in freshwater. It can grow to about 30cm. Body silvery often without any obvious markings. May have dusky tips on the dorsal fins and tail fins. No dark blotch at the base of the pectoral fins. Tail fins may have a whitish margin. These fishes form schools. Adults bury themselves in sand when disturbed. The young fish live out in the open sea, feeding on plankton. In Singapore, this fish is also called 'pasir', which means 'sand' in Malay.
+(*Sillago sihama*) is commonly seen in coastal areas and even recorded in freshwater. It can grow to about 30cm. Body silvery often without any obvious markings. May have dusky tips on the dorsal fins and tail fins. No dark blotch at the base of the pectoral fins. Tail fins may have a whitish margin. These fishes form schools. Adults bury themselves in sand when disturbed. The young fish live out in the open sea, feeding on plankton. In Singapore, this fish is also called 'pasir', which means 'sand' in Malay.
 
 The
 **Trumpeter sillago**
-(
-*Sillago maculata*
-) is found in deeper coastal waters but also in river mouths and mangrove creeks. It can grow about 30cm. There is a black spot at the base of the pectoral fin, the back and sides of the body with dark blotches. The upper and lower blotches are often joined, the upper blotches generally larger. They are found in deeper coastal waters but also in river mouths and mangrove creeks. Juveniles are found in shallow waters, moving into deeper waters as they mature.
+(*Sillago maculata*) is found in deeper coastal waters but also in river mouths and mangrove creeks. It can grow about 30cm. There is a black spot at the base of the pectoral fin, the back and sides of the body with dark blotches. The upper and lower blotches are often joined, the upper blotches generally larger. They are found in deeper coastal waters but also in river mouths and mangrove creeks. Juveniles are found in shallow waters, moving into deeper waters as they mature.
 
 The
 **Large-scale sillago**
-(
-*Sillago macrolepsis*
-) can grow to about 20cm. Body yellowish, darker above, without any markings, dorsal fin dusky with a narrow blackish margin. Juveniles have a series of small brown spots along each side at the base of the dorsal fins.
+(*Sillago macrolepsis*) can grow to about 20cm. Body yellowish, darker above, without any markings, dorsal fin dusky with a narrow blackish margin. Juveniles have a series of small brown spots along each side at the base of the dorsal fins.
 
 The
 **Spotted sillago**
-(
-*Sillago burru*
+(*Sillago burru*
 s) is found in silty and muddy areas. It can grow to about 36cm. Body silvery with irregular dark blotches on the sides that may appear to be oblique bars. The upper blotches are small, an indistinct black spot at the base of the pectoral fin. It is found in silty and muddy areas.
 
 **Sometimes confused with**

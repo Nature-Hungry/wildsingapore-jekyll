@@ -1,6 +1,6 @@
 ---
 title: Marbled sea snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Marbled sea snake on the shores of Singapore
 keywords: snake, marbled, aipysurus, eydouxii, elapidae, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -19,30 +19,30 @@ suborder: Serpentes
 subfamily: Hydrophiinae
 tribe: Hydrophiini
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg
     caption: Chek Jawa, Aug 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/020810cjcpd01091m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/020810cjcpd01091m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/020810cjcpd01091m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/020810cjcpd01091m3a.jpg
     caption: Chek Jawa, Aug 02
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/020810cjd00711m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/020810cjd00711m3.jpg
     caption: Writhing and turning upside down.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/250528ch7ky1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/250528ch7ky1.jpg
     caption: A piece of one on the intertidal. Changi Carpark 7, May 2025 Photo shared
       by Kelvin Yong on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/100614bbtch9m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/100614bbtch9m6l.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/150802bblks2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/150802bblks2m3.jpg
     caption: Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/140616bbmn1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/140616bbmn1m3.jpg
     caption: Beting Bronok, Jun 14 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/eydouxii/130526chglks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/130526chglks.JPG
     caption: Changi, May 13 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 
@@ -70,7 +70,6 @@ links_references: '**Links**
   - Noel Thomas & Francis L. K. Lim. 7 February 2014.
 
   [Beaded sea-snake (
-
   *Aipysurus eydouxii*
 
   ) at Pulau Ubin](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Singapore%20Biodiversity/2014/sbr2014-038-039.pdf)
@@ -80,7 +79,6 @@ links_references: '**Links**
   - Ron K. H. Yeo. 21 February 2014.
 
   [Beaded sea-snake (
-
   *Aipysurus eydouxii*
 
   ) at Changi Beach](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-050.pdf)

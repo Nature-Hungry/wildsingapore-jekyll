@@ -1,6 +1,6 @@
 ---
 title: 'Hairy coral crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hairy coral crab  on the shores of Singapore
 keywords: hairy, coral, crab, cymo, andreossyi, xanthidae, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -28,31 +28,30 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Cymoinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg
     caption: Sisters Island, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/070531sisg9708m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/070531sisg9708m3.jpg
     caption: Sisters Island, May 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/100615tmjk7m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/100615tmjk7m3.jpg
     caption: Tanah Merah, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/120507srpmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/120507srpmn.jpg
     caption: Sentosa Serapong, May 12 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/100529kusjk3m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/100529kusjk3m3.jpg
     caption: Kusu Island, May 10 Photo shared by James Koh on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/160209cyrmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/160209cyrmn2.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/160209cyrmn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/160209cyrmn1.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/cymo/160608cyrmn4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/160608cyrmn4.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 
   - [Hairy coral crab (
-
   *Cymo andreossyi*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=106153&genusname=Cymo&speciesname=andreossyi)
@@ -95,12 +94,10 @@ zone:
 ## Where seen?
 This tiny hairy crab with big blue eyes is sometimes seen on our some of our shores living in branching corals such as
 [Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
-(
-*Acropora*
+(*Acropora*
 sp.) and
 [Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
-(
-*Pocillopora*
+(*Pocillopora*
 sp.).They are small and well-camouflaged.
 
 ## Features
@@ -110,13 +107,9 @@ Body width about 1cm. Body, legs and pincers hairy, a drab beige or grey. It usu
 **Other tiny crabs that live in corals**
 include the
 [Red coral crab](../trapezioidea/redcoral)
-(
-*Trapezia cymodoce*
-) and the
+(*Trapezia cymodoce*) and the
 [Bandit coral crab](../trapezioidea/bandit)
-(
-*Tetralia nigrolineata*
-).
+(*Tetralia nigrolineata*).
 
 **Status and threats:**
 *Cymo andreossyi*

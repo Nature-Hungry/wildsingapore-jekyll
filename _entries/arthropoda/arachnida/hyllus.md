@@ -1,6 +1,6 @@
 ---
 title: Heavy jumper spider
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Heavy jumper spider on the shores of Singapore
 keywords: heavy, jumper, spider, hyllus, diardi, salticidae, arachnid, arthropod,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info
@@ -23,17 +23,17 @@ subfamily: Salticinae
 tribe: Plexippini
 subtribe: Plexippina
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/090704ubnd6404m3.jpg
+coverimg: https://images.naturehungry.sg/arachnida/hyllus/090704ubnd6404m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/090704ubnd6404m3.jpg
+  - url: https://images.naturehungry.sg/arachnida/hyllus/090704ubnd6404m3.jpg
     caption: Pulau Ubin, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/090704ubnd6405m3.jpg
+  - url: https://images.naturehungry.sg/arachnida/hyllus/090704ubnd6405m3.jpg
     caption: Pulau Ubin, Jul 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/110809smkmn.jpg
+  - url: https://images.naturehungry.sg/arachnida/hyllus/110809smkmn.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/hyllus/251213prprqo4.jpg
+  - url: https://images.naturehungry.sg/arachnida/hyllus/251213prprqo4.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

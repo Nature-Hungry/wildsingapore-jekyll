@@ -1,6 +1,6 @@
 ---
 title: 'Scissortail sergeant '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scissortail sergeant  on the shores of Singapore
 keywords: scissor, tail, sergeant, abudefduf, sexfasciatus, damsel, fish, damselfish,
   pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -25,17 +25,16 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Glyphisodontinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
     caption: Tanah Merah, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m6l.jpg
     caption: Sisters Island, Jan 10
 links_references: '**Links**
 
   - [Scissortail sergeant (
-
   *Abudefduf sexfasciatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/340)
@@ -47,7 +46,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Scissortail sergeant (
-
   *Abudefduf sexfasciatus*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=5688)

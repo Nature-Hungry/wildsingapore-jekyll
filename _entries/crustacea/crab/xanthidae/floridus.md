@@ -1,6 +1,6 @@
 ---
 title: Floral egg crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Floral egg crab on the shores of Singapore
 keywords: floral, egg, xanthid, crab, atergatis, floridus, xanthidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -31,76 +31,76 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Zosiminae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
     caption: Sentosa, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/040521sntad0102m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/040521sntad0102m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/100711cyrjk2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/100711cyrjk2m3.jpg
     caption: A pair of mating egg crabs. Cyrene Reef, Jul 10 Photo shared by James
       Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg
     caption: Eating a Brown-stripe wrasse . Sentosa, Sep 04
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/2007024pcnlks2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/2007024pcnlks2.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/251108ecpblks5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/251108ecpblks5.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/251011lablks14.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/251011lablks14.jpg
     caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/251011tgrlks10.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/251011tgrlks10.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/251009sjial2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/251009sjial2.jpg
     caption: St John's Island, Oct 25 Photo shared by Adriane Lee on facebook
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/251009sjial2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/251009sjial2.jpg
     caption: St John's Island, Oct 25 Photo shared by Adriane Lee on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/191127lazmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/191127lazmn2.jpg
     caption: Seringat-Kias, Nov 19 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/260217bsisch1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/260217bsisch1.jpg
     caption: Big Sister's Island, Feb 26 Photo shared by Chay Hoon on facebook
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/260201cyrjll4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/260201cyrjll4.jpg
     caption: Cyrene, Feb 26 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/250811jngmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/250811jngmn2.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Marcus Ng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/251207hntjll5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/251207hntjll5.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/240511tryccn3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/240511tryccn3.jpg
     caption: Terumbu Raya, May 24 Photo shared by Che Cheng Neo on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/100518bbbjk6m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/100518bbbjk6m3.jpg
     caption: Beting Bemban Besar, May 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/100617tbtch2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/100617tbtch2m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoom on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/240412tbtl3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/240412tbtl3.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Tammy Lim on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/110517tptlks25m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/110517tptlks25m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/210810tplvc1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/210810tplvc1.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Vincent Choo on facebook
       .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/091205pawlks6m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/091205pawlks6m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/091231biojk7m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/091231biojk7m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/150422jngmn2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/150422jngmn2m3.jpg
     caption: Pulau Jong, Apr 15 Photo shared by Marcus Ng on facebook .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/100613sngd5633m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/100613sngd5633m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/100810sngd9960m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/100810sngd9960m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/floridus/100811slud0060m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/100811slud0060m3.jpg
     caption: Pulau Salu, Aug 10
 links_references: '**Links**
 

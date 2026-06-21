@@ -1,6 +1,6 @@
 ---
 title: Flatfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flatfishes on the shores of Singapore
 keywords: flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,54 +18,54 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet2.gif
+  - url: https://images.naturehungry.sg/photos/bullet2.gif
     caption: if you learn only 3 things about them ... They are 'one-sided' fishes
       as adults, but start life looking like other 'normal' fishes. Their transformation
       is fascinating. They can crawl slowly using the fins that border the body edge.
       They are well camouflaged and some are tiny. Don't step on them!
-  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet2.gif
+  - url: https://images.naturehungry.sg/photos/bullet2.gif
     caption: They are 'one-sided' fishes as adults, but start life looking like other
       'normal' fishes. Their transformation is fascinating. They can crawl slowly
       using the fins that border the body edge. They are well camouflaged and some
       are tiny. Don't step on them!
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/commersonnii/040120cjd0035m3.jpg
+  - url: https://images.naturehungry.sg/soleidae/commersonnii/040120cjd0035m3.jpg
     caption: All that can be seen of the huge buried fish are its eyes! Chek Jawa,
       Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg
     caption: The underside is usually pale and unmarked.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg
     caption: The pectoral fin on the underside is usually reduced. The mouth on the
       underside may bristle with tentacles and teeth!
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg
     caption: Juvenile flatfish. St John's Island, Oct 20 Photo shared by Vincent Choo
       on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/110505tmnbd0602.jpg
+  - url: https://images.naturehungry.sg/soleidae/110505tmnbd0602.jpg
     caption: Unidentified juvenile Sole? Tanah Merah, May 11
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/commersonnii/050818cftg1401m3.jpg
+  - url: https://images.naturehungry.sg/soleidae/commersonnii/050818cftg1401m3.jpg
     caption: Commerson's sole
-  - url: https://f003.backblazeb2.com/file/naturehungry/cynoglossidae/cynoglossidae/050429cftg5340m3.jpg
+  - url: https://images.naturehungry.sg/cynoglossidae/cynoglossidae/050429cftg5340m3.jpg
     caption: Tongue-sole
-  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/pavoninus/050722cjg9806m3.jpg
+  - url: https://images.naturehungry.sg/soleidae/pavoninus/050722cjg9806m3.jpg
     caption: Peacock sole
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg
+  - url: https://images.naturehungry.sg/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg
     caption: Large-tooth flounder
-  - url: https://f003.backblazeb2.com/file/naturehungry/bothidae/polyophthalmus/080509cyrd2745m3.jpg
+  - url: https://images.naturehungry.sg/bothidae/polyophthalmus/080509cyrd2745m3.jpg
     caption: Three-spot flounder
-  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/orientalis/090623ecpd4978m3.jpg
+  - url: https://images.naturehungry.sg/soleidae/orientalis/090623ecpd4978m3.jpg
     caption: Oriental sole
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/ovata/050511cftg6220m3.jpg
+  - url: https://images.naturehungry.sg/soleidae/ovata/050511cftg6220m3.jpg
     caption: Ovate sole
-  - url: https://f003.backblazeb2.com/file/naturehungry/psettodidae/erumei/090622chgd4715m3.jpg
+  - url: https://images.naturehungry.sg/psettodidae/erumei/090622chgd4715m3.jpg
     caption: Indian halibut
-  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/zebra/100612chgd5283m3.jpg
+  - url: https://images.naturehungry.sg/soleidae/zebra/100612chgd5283m3.jpg
     caption: Zebra sole
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: 'Worm-eels '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Worm-eels  on the shores of Singapore
 keywords: worm, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -18,19 +18,18 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Congroidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
     caption: Worm-eels
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/evermann/081231sisd4444m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/081231sisd4444m3.jpg
     caption: Evermann's snake-eel
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg
     caption: Mangrove snake-eel
 links_references: '**Links**
 
   - [Green worm-eel (
-
   *Muraenichthys*
 
   sp.)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213)
@@ -38,7 +37,6 @@ links_references: '**Links**
   and
 
   [Burrowing Snake-eel (
-
   *Pisodonophis crancrivorus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/214)

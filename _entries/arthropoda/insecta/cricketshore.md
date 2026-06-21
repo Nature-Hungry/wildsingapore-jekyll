@@ -1,6 +1,6 @@
 ---
 title: 'Shore cricket '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Shore cricket  on the shores of Singapore
 keywords: cricket, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info
 layout: entry
@@ -20,15 +20,15 @@ suborder: Ensifera
 infraorder: Gryllidea
 superfamily: Grylloidea
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/cricket/090820ecpd9469m3a.jpg
+coverimg: https://images.naturehungry.sg/insecta/cricket/090820ecpd9469m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/cricket/090820ecpd9469m3a.jpg
+  - url: https://images.naturehungry.sg/insecta/cricket/090820ecpd9469m3a.jpg
     caption: East Coast, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/cricket/111001sjid1841.jpg
+  - url: https://images.naturehungry.sg/insecta/cricket/111001sjid1841.jpg
     caption: St John's Island, Oct 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/arachnida/desis/040829kusd5626m3.jpg
+  - url: https://images.naturehungry.sg/arachnida/desis/040829kusd5626m3.jpg
     caption: Caught by a Marine spider. Kusu Island, Apr 08
 links_references: '**Links**
 
@@ -65,9 +65,7 @@ This tiny cricket is sometimes seen on some of our shores. On rocky shores near 
 
 Body about 1cm long. A fat bodied insect with long back legs and very long antennae. Usually crawls slowly and only hops to escape predators. The
 [Marine spider](../arachnida/desis)
-(
-*Desis martensi*
-) has been seen preying on these crickets.
+(*Desis martensi*) has been seen preying on these crickets.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

@@ -1,6 +1,6 @@
 ---
 title: 'Porcelain crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Porcelain crabs  on the shores of Singapore
 keywords: porcelain, crab, porcellanidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,40 +22,39 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
     caption: Huge flat pincers.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3a.jpg
     caption: Long antennae emerging from outside instead of between the eyes. Changi,
       Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/050607chgg7319m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/050607chgg7319m3a.jpg
     caption: Last pair of legs folded on the sides of the body. Changi, Jun 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg
     caption: Feathery mouthparts.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg
     caption: Lazarus, Aug 12
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg
     caption: Big porcelain crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg
     caption: Tiny brown porcelain crab
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
     caption: Hermit porcelain crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
     caption: Painted porcelain crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
     caption: Commensal porcelain crabs
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/porcellanidae/others/200705kusjll5.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/others/200705kusjll5.jpg
     caption: Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook .
 links_references: '**Links**
 
   - [Porcelain Crab (
-
   *Petrolisthes*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/184)
@@ -67,7 +66,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mangrove porcelain crab (
-
   *Petrolisthes kranjiensis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2066)

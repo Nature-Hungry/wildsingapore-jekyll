@@ -1,6 +1,6 @@
 ---
 title: 'Mussel shrimps '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mussel shrimps  on the shores of Singapore
 keywords: mussel, shrimp, ostracod, crustacea, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -12,12 +12,12 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
     caption: Eating or being eaten by a worm? Pulau Sekudu, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ostracoda/ostracoda/050722cjg9869m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ostracoda/ostracoda/050722cjg9869m3.jpg
     caption: Again seen with a worm. Chek Jawa, Jul 05
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Glass shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Glass shrimp on the shores of Singapore
 keywords: glass, palaemon, shrimp, palaemonidae, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -25,41 +25,40 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
     caption: St. John's Island, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/031128sbwrbd0036m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/031128sbwrbd0036m3.jpg
     caption: Sungei Buloh Wetland Reserve, Nov 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/110812prpd8673m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/110812prpd8673m3.jpg
     caption: Pasir Ris, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/081231sisd4427m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/081231sisd4427m3.jpg
     caption: Sisters Island, Dec 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/151127cnylks2.JPG
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/151127cnylks2.JPG
     caption: Coney Island, Nov 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/171009blymn4.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/171009blymn4.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/200820ssismn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/200820ssismn1.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/201019sjilks8.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/201019sjilks8.jpg
     caption: Several with eggs. St John's Island, Oct 20 Photo shared by Loh Kok Sheng
       on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/070701hntmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/070701hntmn.jpg
     caption: Pulau Hantu, Jul 07 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Glass Shrimp (
-
   *Palaemon*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/180)
@@ -71,7 +70,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Estuarine prawn (
-
   *Macrobrachium equidens*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2037)

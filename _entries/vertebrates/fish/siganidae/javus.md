@@ -1,6 +1,6 @@
 ---
 title: Streaked rabbitfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Streaked rabbitfish on the shores of Singapore
 keywords: streaked, rabbitfish, rabbit, fish, siganus, javus, siganidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -22,7 +22,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
 links_references: '**Links**
 
   - [Streaked spinefoot (*Siganus javus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4618)from[FishBase](http://www.fishbase.org/):
@@ -40,17 +40,17 @@ links_references: '**Links**
   for Divers & Fishermen*New Holland Publishers. 434pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
     caption: Chek Jawa, Aug 02
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/080603tmlks05m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/080603tmlks05m3.jpg
     caption: East Coast Park, Jun 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/091010tmlks4m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/091010tmlks4m6l.jpg
     caption: Tanah Merah, Oct 09 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/siganidae/javus/090512tmjk1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/090512tmjk1m6l.jpg
     caption: Tanah Merah, May 09 Photo shared by James Koh on his flickr .
 location:
 - chg

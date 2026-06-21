@@ -1,6 +1,6 @@
 ---
 title: Tigerish olive snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tigerish olive snail on the shores of Singapore
 keywords: olive, snail, shell, oliva, tigridella, olividae, gastropod, mollusc, sand,
   collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,29 +18,29 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
     caption: Changi, Apr 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
     caption: . Tall conical spire.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
     caption: Shell opening purplish brown
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg
     caption: Changi, Apr 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg
     caption: Changi, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg
     caption: East Coast Park, Jun 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Tammy Lim on facebook
       ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg
     caption: ''
 links_references: '**Links**
 

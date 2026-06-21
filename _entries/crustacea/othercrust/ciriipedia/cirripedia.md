@@ -1,6 +1,6 @@
 ---
 title: Barnacles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Barnacles on the shores of Singapore
 keywords: barnacle, cirripedia, sessilia, crustacea, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -9,57 +9,57 @@ family: Archaeobalanidae
 genus: ''
 species: ''
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
     caption: A variety of barnacles. Tuas, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg
     caption: The large Volcano barnacle has a honey-combed internal structure Chek
       Jawa, Apr 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3d.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3d.jpg
     caption: A pair of plates form the operculum that seals the shell opening. Tuas,
       May 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/080718wdld7698m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/080718wdld7698m3.jpg
     caption: Feathery feet of a barnacle. Woodlands, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
     caption: Feathery feet of barnacles in a living sponge. Pulau Hantu, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg
     caption: Feathery feet of a barnacle on a living crab. Changi, Jul 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/others/120223sltd7372m6la.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/others/120223sltd7372m6la.jpg
     caption: Like other crustaceans, barnacles also moult! Is the long structure its
       penis?! Seletar, Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/others/120223sltd7366m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/others/120223sltd7366m3.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/others/050512tmg6400.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/others/050512tmg6400.jpg
     caption: Periwinkles sheltering next to barnacles, with a small one inside shell
       of a dead barnacle. Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3b.jpg
     caption: Barnacles on a living snail. Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3a.jpg
     caption: Tiny egg sacs of a parasitic barnacle emerging through the joints of
       the crab that it infested. Changi, Apr 05
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg
     caption: Acorn barnacle
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/040502cjd0146m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/040502cjd0146m3.jpg
     caption: Star barnacle
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3c.jpg
     caption: Volcano barnacle
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
     caption: Goose barnacle
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/050622cftg8139m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050622cftg8139m3b.jpg
     caption: Acorn barnacles on a living crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/050206cjd0034m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050206cjd0034m3.jpg
     caption: Some barnacles are internal parasites !
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3a.jpg
     caption: Coral barnacles
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
     caption: Barnacles in a sponge
 links_references: '**Links**
 
@@ -68,7 +68,6 @@ links_references: '**Links**
   ,
 
   [barnacles on crabs (
-
   *Balanus, Octolasmis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/269)
@@ -76,7 +75,6 @@ links_references: '**Links**
   ,
 
   [Parasitic barnacles (
-
   *Thompsonia, Sacculina*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/270)

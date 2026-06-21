@@ -1,6 +1,6 @@
 ---
 title: Pilodius rock crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pilodius rock crab on the shores of Singapore
 keywords: rock, crab, pilodius, xanthidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -27,19 +27,18 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Chlorodiellinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
     caption: St. John's Island, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pilodius/111001sjid1827m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/pilodius/111001sjid1827m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg
     caption: ''
 links_references: '**Links**
 
   - [Pilodius Crab (
-
   *Pilodius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/207)

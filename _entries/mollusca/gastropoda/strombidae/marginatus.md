@@ -1,6 +1,6 @@
 ---
 title: Margined conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Margined conch on the shores of Singapore
 keywords: margined, conch, strombus,  marginatus, robustus, sowerbyorum, strombidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -25,46 +25,45 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg
     caption: St. John's Island, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/110814smkd9072m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/110814smkd9072m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3b.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Che Cheng Neo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/251206chgelks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/251206chgelks3.jpg
     caption: Changi East (Lost Coast), Dec 25 Photo shared by Loh Kok Sheng on facebook
       ..
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/100911ecpnml1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/100911ecpnml1m3.jpg
     caption: East Coast Park, Sep 10 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/090207ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/090207ecplks.JPG
     caption: East Coast Park, Feb 09 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/090514prplks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/090514prplks1.JPG
     caption: Pasir Ris, May 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/141108bbblks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/141108bbblks1.JPG
     caption: Beting Bemban Besar, Nov 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/110830cyrlks4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/110830cyrlks4m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/100518bbbnml2m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/100518bbbnml2m6l.jpg
     caption: Beting Bemban Besar, May 10 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/141108bbbmn5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/141108bbbmn5m3.jpg
     caption: Beting Bemban Besar, Nov 14 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 
   - [Marginate conch (
-
   *Strombus marginatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86887)
@@ -72,7 +71,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Marginate conch (
-
   *Strombus marginatus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

@@ -1,6 +1,6 @@
 ---
 title: Sicklefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sicklefish on the shores of Singapore
 keywords: sickle, fish, sicklefish, drepane, drepaneidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,24 +20,23 @@ phylum: Bryophyta
 class: Bryopsida
 order: Hypnales
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg
     caption: Juvenile. Tanah Merah, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/150306sbwrd1953.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/drepaneidae/drepane/150306sbwrd1953.jpg
     caption: Spotted sicklefish ( Drepane punctata ) Adults were among those seen
       during a mass fish death event. Sungei Buloh Wetland Reserve, Mar 15
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg
     caption: Spotted sicklefish ( Drepane punctata ) Adults removed from fish net
       Chek Jawa, May 16 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**
 
   - [Spotted Sicklefish (
-
   *Drepane punctata*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/327)
@@ -49,7 +48,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Spotted Sicklefish (
-
   *Drepane punctata*
 
   )](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?id=454)

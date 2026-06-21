@@ -1,6 +1,6 @@
 ---
 title: Red scaly sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red scaly sea star on the shores of Singapore
 keywords: red, scaly, sea star, seastar, starfish, star, fish, nepanthia, belcheri,
   asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -23,51 +23,51 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/080509cyrd2820m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/080509cyrd2820m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/080509cyrd2820m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/080509cyrd2820m3.jpg
     caption: Cyrene Reef, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/080509cyrd2820m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/080509cyrd2820m3b.jpg
     caption: Upperside with 'scales' and papulae.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/080509cyrd2815m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/080509cyrd2815m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/080509cyrd2815m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/080509cyrd2815m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/080509cyrd2815m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/080509cyrd2815m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/050821bbg1999m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/050821bbg1999m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/080722cyrd8286m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/080722cyrd8286m3.jpg
     caption: Cyrene Reef, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/050821bbg1884m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/050821bbg1884m3.jpg
     caption: Beting Bronok, Aug 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/250529cjlks1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/250529cjlks1.jpg
     caption: Chek Jawa, May 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/200821cjjll1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/200821cjjll1.jpg
     caption: Chek Jawa, Aug 20 Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/090426skdtch01m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/090426skdtch01m3.jpg
     caption: Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/090426skdtch02m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/090426skdtch02m3.jpg
     caption: Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on her blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/100614bbtch3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/100614bbtch3m3.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/170625bbmn1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/170625bbmn1.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/230706bbccn2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/230706bbccn2.jpg
     caption: Beting Bronok, Jul 23 Photo shared by Che Cheng Neo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/250627bbvc6.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/250627bbvc6.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/220716bblks3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/220716bblks3a.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/nepred/170812cyrtch2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/nepred/170812cyrtch2.jpg
     caption: Cyrene, Aug 17 Photo shared by Toh Chay Hoon on facebook .
 location:
 - chg

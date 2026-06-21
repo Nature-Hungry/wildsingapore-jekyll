@@ -1,6 +1,6 @@
 ---
 title: Moon-headed sidegill slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Moon-headed sidegill slug on the shores of Singapore
 keywords: moon, head, side, gill, notaspidea, euselenops, luniceps, slug, seaslug,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -21,31 +21,31 @@ superorder: Nudipleura
 order: Pleurobranchida
 superfamily: Pleurobranchoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
     caption: Changi East, Dec 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/090428chgd0868m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/090428chgd0868m3.jpg
     caption: Underside. Changi, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/090428chgd0868m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/090428chgd0868m3a.jpg
     caption: Showing the gill on one side. Changi, Apr 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/081231sisd4502m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/081231sisd4502m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/081231sisd4502m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/081231sisd4502m3b.jpg
     caption: Closer look at oral veil and mouth.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/170528chg7lks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/170528chg7lks1.jpg
     caption: Changi, May 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/170528chg6mn6.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/170528chg6mn6.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/110123sislks4m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/110123sislks4m3.JPG
     caption: Sisters Island, Jan 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/090510hntnml1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/090510hntnml1m3.jpg
     caption: Pulau Hantu, May 09 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/091205sudd5467m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/091205sudd5467m3.jpg
     caption: Pulau Sudong, Dec 09
 links_references: '**Links**
 

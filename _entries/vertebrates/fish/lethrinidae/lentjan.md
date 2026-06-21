@@ -1,6 +1,6 @@
 ---
 title: 'Pink ear emperor '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink ear emperor  on the shores of Singapore
 keywords: pink, ear, emperor, fish, lethrinus, lentjan, lethrinidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,30 +23,30 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Lethrininae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg
     caption: Changi, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m6l.jpg
     caption: Changi, Jun 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/201020chgsafmn4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/201020chgsafmn4.jpg
     caption: Changi, Oct 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/220616chgelks20.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/220616chgelks20.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/180812nsrtlks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/180812nsrtlks3.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/240707pcntt1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/240707pcntt1.jpg
     caption: East Coast Park (PCN), Jul 24 Photo shared by Tommy Tan on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/250714srptccn8.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/250714srptccn8.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/181126labrk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/181126labrk.jpg
     caption: Labrador, Nov 18 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/lethrinidae/lentjan/160409sjilks2.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/160409sjilks2.JPG
     caption: St John's Island, Apr 16 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 
@@ -59,7 +59,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Pink ear emperor (
-
   *Lethrinus lentjan*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=1863)

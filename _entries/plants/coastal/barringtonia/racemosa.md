@@ -1,6 +1,6 @@
 ---
 title: 'Putat sungei '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Putat sungei  on the shores of Singapore
 keywords: barringtonia, racemosa, lecythidaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,18 +20,18 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg
     caption: Leaf edge finely toothed.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/080720cjd8101m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/racemosa/080720cjd8101m3.jpg
     caption: Blooming flowers on a long hanging spike.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/090329cjo3291633m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/racemosa/090329cjo3291633m6l.jpg
     caption: Planted tree. Chek Jawa, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/080720cjd8100m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/racemosa/080720cjd8100m3.jpg
     caption: After the stamens have fallen.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/racemosa/090329cjd8703m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/racemosa/090329cjd8703m3.jpg
     caption: Fruits egg- or pear-shaped with angles.
 links_references: '**Links**
 
@@ -118,9 +118,7 @@ Fruit (3-8cm long) egg- or pear-shaped, sometimes weakly angled or with four fai
 
 It is the food plant for caterpillars of the moths
 [Attacus atlas](../../../insecta/atlas)
-(
-*Atlas Moth*
-),
+(*Atlas Moth*),
 *Gnathmocerodes tonsoria*
 , and
 *Thosea andamanica*

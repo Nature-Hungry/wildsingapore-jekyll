@@ -1,6 +1,6 @@
 ---
 title: Variegated creeper snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Variegated creeper snail on the shores of Singapore
 keywords: variegated, creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc,
   mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -24,29 +24,29 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg
     caption: Sisters Island, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3a.jpg
     caption: Closeup of shell opening and operculum.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/050706sntg8955m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/050706sntg8955m3.jpg
     caption: Sentosa, Jul 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/110121tmfts03807m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/110121tmfts03807m6l.jpg
     caption: Tanah Merah, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/080920hntd0782m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/080920hntd0782m3.jpg
     caption: Pulau Hantu, Sep 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/250727smkwrk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/250727smkwrk2.jpg
     caption: Pulau Semakau (West), Jul 25 Photo shared by Richard Kuah on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/200709bbbvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/200709bbbvc2.jpg
     caption: Beting Bemban Besar, Jul 20 Photo shared by VIncent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cerithiidae/variegated/250712tplrk5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/variegated/250712tplrk5.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook
       .
 location:

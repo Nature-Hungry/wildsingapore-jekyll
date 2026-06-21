@@ -1,6 +1,6 @@
 ---
 title: Mangrove leaf slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove leaf slug on the shores of Singapore
 keywords: mangrove, leaf, slug, seaslug, sap, sucking, sacoglossan, elysia, bangtawaensis,
   plakobranchidae, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -20,17 +20,17 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg
     caption: Kranji Nature Trail, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bangtawaensis/120320mndmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bangtawaensis/120320mndmn.jpg
     caption: Mandai, Mar 12 Photo shared by Marcus Ng on flickr .
 links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: photos and fact sheet on\n*[Elysia bangtawaensis](http://www.seaslugforum.net/find/elysbang)*\n\

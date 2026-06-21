@@ -1,6 +1,6 @@
 ---
 title: Pygmy squid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pygmy squid on the shores of Singapore
 keywords: pygmy, squid, idiosepius, ideosepiidae, cephalopod, mollusc, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -19,90 +19,90 @@ superorder: Decapodiformes
 order: Idiosepida
 superfamily: Idiosepioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
     caption: Caught a shrimp. Tanah Merah, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/110831tmnbd0631m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/110831tmnbd0631m3c.jpg
     caption: Tiny circular fins at the end of the body.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/110831tmnbd0631m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/110831tmnbd0631m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/100713cyrd8610m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/100713cyrd8610m6l.jpg
     caption: Longer tentacles extended beyond the shorter arms. Cyrene Reef, Jul 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/100502trylks2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/100502trylks2m3.jpg
     caption: Mating tussle? Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on
       his flickr
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/110815chgd9199m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/110815chgd9199m3.jpg
     caption: Caught a shrimp. Changi, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/040803tusd4099m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/040803tusd4099m3.jpg
     caption: With black spots, this squid quickly changed... ...to a pale yellow with
       small black spots. Tuas, Aug 04
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/071002chgtch02m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/071002chgtch02m3.jpg
     caption: Changi, Oct 07 Photo shared by Toh Chay Hoon on her flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/210527chg1tch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/210527chg1tch2.jpg
     caption: Caught a shrimp. Changi Carpark 1, May 21 Photo shared by Toh Chay Hoon
       on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/251107tmftlks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/251107tmftlks6.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/140613skdmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/140613skdmn1.jpg
     caption: Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/180617skdlks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/180617skdlks4.jpg
     caption: Pulau Sekudu, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/160110cjlks.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/160110cjlks.jpg
     caption: Chek Jawa, Jul 03 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/100614bbjk.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/100614bbjk.JPG
     caption: Beting Bronok, Jun 10 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/220716bblks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/220716bblks1.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/180812nsrtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/180812nsrtch1.jpg
     caption: East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/211009blylks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/211009blylks3.jpg
     caption: Berlayar Creek, Oct 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/160509srpmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/160509srpmn1.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/120818lazlks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/120818lazlks1.JPG
     caption: Seringat-Kias, Aug 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/250909lazio3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/250909lazio3.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Isaac Ong on facebook
       .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/070505kuslks.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/070505kuslks.JPG
     caption: Kusu Island, May 07 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/201019sjilks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/201019sjilks2.jpg
     caption: St. John's Island, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/241020hntjk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/241020hntjk2.jpg
     caption: Pulau Hantu, Oct 24 Photo shared by James Koh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/180715thnlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/180715thnlks1.jpg
     caption: Terumbu Hantu, Jul 18 Photo shared by Loh Kok Sheng on facebook ..
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/100502trygl4m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/100502trygl4m3.JPG
     caption: A pair quarrelling over a shrimp! Terumbu Raya, May 10 Photo shared by
       Geraldine Lee on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/090723tmrjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/090723tmrjk1m3.jpg
     caption: Terumbu Raya, Jul 09 Photo shared by James Koh on his blog .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/251008bbbmn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/251008bbbmn2.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Marcus Ng on facebook ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/150620tbmn1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/150620tbmn1m3.jpg
     caption: Caught a shrimp. Terumbu Bemban, Jun 15 Photo shared by Marcus Ng on
       facebook .
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/161117rlhjll2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/161117rlhjll2.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/091205sudd5617m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/091205sudd5617m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/091204pawjk16m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/091204pawjk16m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
 links_references: '**Links**
 
@@ -112,7 +112,6 @@ links_references: '**Links**
   on its body, egg laying and more.
 
   - [Southern Pygmy Squid (
-
   *Idiosepius notoides*](http://australianmuseum.net.au/Southern-Pygmy-Squid-Idiosepius-notoides-Berry-1921)
 
   ) on the Australian Museum website: fact sheet.

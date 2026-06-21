@@ -1,6 +1,6 @@
 ---
 title: Stumpy acropora coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stumpy acropora coral on the shores of Singapore
 keywords: staghorn, table, top, acropora, acroporidae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,47 +17,47 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0584m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0584m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0584m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0584m3.jpg
     caption: Terumbu Semakau, Dec 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0581m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0581m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0582m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/151225tsmkd0582m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3315m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3315m3.jpg
     caption: Sisters Island, Dec 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3318m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3318m3c.jpg
     caption: Acropora goby
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3315m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3315m3c.jpg
     caption: Coral clams
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg
     caption: Sisters Island, Dec 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg
     caption: Pulau Hantu, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/100629pdrd7576m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/100629pdrd7576m3.jpg
     caption: Terumbu Pempang Darat, Jun 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/220618tmftlks21.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/220618tmftlks21.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/251108ecpblks7a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/251108ecpblks7a.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2.jpg
     caption: Big Sisters, Aug 25
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2a.jpg
     caption: Photo shared by Lon Voon Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg
     caption: With Machine gun shrimp
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/210502tptlks4a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/210502tptlks4a.jpg
     caption: Terumbu Pempang Tengah, May 21
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/acrstumpy/210502tptlks4b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/210502tptlks4b.jpg
     caption: Photo shared by Loh Kok Sheng on faceook .
 location:
 - tm
@@ -90,9 +90,7 @@ Colonies 10-25cm. Short, thick stumpy branches forming a squat bush-like shape. 
 
 The coral often has various animals hidden among the branches. These include the
 [Broad-barred acropora goby](../../../vertebrates/fish/gobiidae/histrio)
-(
-*Gobiodon histrio*
-), shrimps and clams.
+(*Gobiodon histrio*), shrimps and clams.
 
 There are probably several different species on this page. It's hard to distinguish them without close examination of small features and they are grouped by large external features for convenience of display.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

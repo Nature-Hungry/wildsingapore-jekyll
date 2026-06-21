@@ -1,6 +1,6 @@
 ---
 title: Smooth flowery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth flowery soft coral on the shores of Singapore
 keywords: smooth, litophyton, nephtheidae, alcyonacea, soft, coral, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
     caption: Tuas, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/050510tusg6107m3e.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepsmooth/050510tusg6107m3e.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/050510tusg6107m3f.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepsmooth/050510tusg6107m3f.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/070304hntg8008m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepsmooth/070304hntg8008m3.jpg
     caption: Pulau Hantu, Mar 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/070304hntg8008m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepsmooth/070304hntg8008m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/nepsmooth/070304hntg8008m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepsmooth/070304hntg8008m3b.jpg
     caption: ''
 links_references: '**Links**
 

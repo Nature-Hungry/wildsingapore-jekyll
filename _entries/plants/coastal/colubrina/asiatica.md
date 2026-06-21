@@ -1,6 +1,6 @@
 ---
 title: Peria laut
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Peria laut on the shores of Singapore
 keywords: peria, laut, colubrina, asiatica, rhamnaceae, creeper, plant, bush, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -22,7 +22,7 @@ class: Magnoliopsida
 order: Rosales
 inat_id: 51593
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg
 links_references: '**Links**
 
   - [*Colubrina asiatica*](http://floraofsingapore.wordpress.com/2010/06/04/colubrina-asiatica/)on
@@ -51,25 +51,25 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9854m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/090412hntd9854m6l.jpg
     caption: Pulau Hanu, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9847m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/090412hntd9847m3.jpg
     caption: Pulau Hantu, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9856m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/090412hntd9856m6l.jpg
     caption: Pulau Hanu, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9853m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/090412hntd9853m3.jpg
     caption: Pulau Hantu, Apr 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/081206smkd2670m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/081206smkd2670m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9857m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/090412hntd9857m3.jpg
     caption: Pulau Hantu, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9858m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/090412hntd9858m3.jpg
     caption: Pulau Hantu, Apr 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/110220lazd6241m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/110220lazd6241m3.jpg
     caption: Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/110220lazd6241m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/110220lazd6241m3a.jpg
     caption: Lazarus Island, Feb 11
 size:
 - 400.0
@@ -95,14 +95,14 @@ The seeds are dispersed by water as well as birds. The plant germinates rapidly 
 
 According to Burkill, the bark contains saponins that lather in the water and is used as a soap. In Samoa it is used for bleaching and cleaning mats. The young leaves are "eaten with relish" in Ambon. According to Giesen, the leaves have the ability to produce foam in water and thus, have long been used as a substitute for soap in the rural areas in some countries. Leaves and fruits are used as fish poison. In the Maldives, leaves are used to alleviate inflammations and boils. In order to alleviate painful swellings, leaves are crushed and juice is rubbed on the affected body. Young stems are cut into pieces and boiled in water, which is drunk to alleviate stomach disorders. Medicinal oil is prepared from seeds along with other ingredients, which is used to treat rheumatism and numbness in adults and also in treating weak legs in children.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg)
+*![](https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg)
 
 *Pulau Semakau, Dec 08*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9855m3b.jpg)
+![](https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/090412hntd9855m3b.jpg)
 
 *Pulau Hantu, Apr 09*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/colubrina/asiatica/090412hntd9855m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/colubrina/asiatica/090412hntd9855m3.jpg)
 
 *Pulau Hantu, Apr 09**
 

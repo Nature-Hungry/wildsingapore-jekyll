@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thorny stem sponge on the shores of Singapore
 keywords: orange, sprawling, sponge, gelliodes, fibulata, niphatidae, porifera, field,
 layout: entry
 shape: branching
@@ -16,21 +16,21 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/120507sntspgd1360m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/thornystem/120507sntspgd1360m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/120507sntspgd1360m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thornystem/120507sntspgd1360m3.jpg
     caption: Sentosa Serapong, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/120607kusd4886m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thornystem/120607kusd4886m3.jpg
     caption: Kusu Island, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/090625bbbd5261m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thornystem/090625bbbd5261m3.jpg
     caption: Beting Bemban Besar, Jun 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/090310tuslks1.JPG
+  - url: https://images.naturehungry.sg/porifera/thornystem/090310tuslks1.JPG
     caption: Tuas, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/090310tuslks2.JPG
+  - url: https://images.naturehungry.sg/porifera/thornystem/090310tuslks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thornystem/080609hnttsj.JPG
+  - url: https://images.naturehungry.sg/porifera/thornystem/080609hnttsj.JPG
     caption: Pulau Hantu, Jun 08 Photo shared by Tan Sijjie on flickr .
 links_references: '**Links**
 

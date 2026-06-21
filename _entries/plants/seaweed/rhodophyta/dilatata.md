@@ -1,6 +1,6 @@
 ---
 title: Ruffled halymenia red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ruffled halymenia red seaweed on the shores of Singapore
 keywords: halymenia, dilatata, red, seaweed, weed, algae, halymeniaceae, halymeniales,
   rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -13,31 +13,31 @@ attributes:
 - 97
 - 98
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/040507rflbd0071m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/040507rflbd0071m3.jpg
     caption: Raffles Lighthouse, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100403tbbd0648m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/100403tbbd0648m3.jpg
     caption: Beting Bemban Besar, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/041018sntd7551m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/041018sntd7551m3.jpg
     caption: Sentosa, Oct 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/091204pawd5402m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/091204pawd5402m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100613sngd5620m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/100613sngd5620m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100530tbkd4300m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/100530tbkd4300m3.jpg
     caption: Pulau Berkas, May 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100601slud4815m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/100601slud4815m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/100601slud4815m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/100601slud4815m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -113,7 +113,7 @@ Like a little petticoat, this large prettily ruffled seaweed is commonly seen ou
 
 Clumps of several sheets up to 10-20cm across, translucent flexible (not stiff) slippery and slimy. Edges smooth (not feathery) often in regular ruffles. Each clump can be quite large but the clumps are scattered. Surface may be plain or have large paler blotches or mottles. Colours red, maroon, brownish-orange.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg)
+*![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg)
 
 St. John's Island, May 07*
 

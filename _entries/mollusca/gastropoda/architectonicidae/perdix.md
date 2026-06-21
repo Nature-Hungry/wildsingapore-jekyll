@@ -1,6 +1,6 @@
 ---
 title: Patridge sundial snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Patridge sundial snail on the shores of Singapore
 keywords: partridge, sundial, architectonica, perdix, architectonicidae, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -17,7 +17,7 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
 links_references: '**Links**
 
   - [Family Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)on
@@ -53,21 +53,21 @@ links_references: '**Links**
   vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
     caption: Dead specimen. Terumbu Pempang Tengah, Apr 17
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010157.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010157.jpg
     caption: Underside. Terumbu Pempang Tengah, Apr 17
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/200723nrsccrk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perdix/200723nrsccrk2.jpg
     caption: East Coast Park, Jul 20 Photo shared by Richard Kuah on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/130427tptlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perdix/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/130427tptlks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perdix/130427tptlks2.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/120330cjtch1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perdix/120330cjtch1m3.jpg
     caption: Photo shared by Toh Chay Hoon on facebook . Chek Jawa, Mar 13
 location:
 - cj

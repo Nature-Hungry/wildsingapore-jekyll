@@ -1,6 +1,6 @@
 ---
 title: Blue-spot nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-spot nudibranch on the shores of Singapore
 keywords: denison, dendrodoris, denisoni, dendrodorididae, nudibranch, slug, seaslug,
   opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -28,69 +28,69 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3.jpg
     caption: Pulau Sekudu, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/050430skdg5542m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/050430skdg5542m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/090524tmd2119m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/090524tmd2119m6l.jpg
     caption: Tanah Merah, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/090524tmd2120m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/090524tmd2120m3.jpg
     caption: Underside.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/070714bbd3947m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/070714bbd3947m3.jpg
     caption: Beting Bronok, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/080606cyrtch.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/080606cyrtch.jpg
     caption: Tiny one, hardly wider than a seagrass blade. Cyrene Reef, Jun 08 Shared
       by Toh Chay Hoon on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/140420sisd4936m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/140420sisd4936m3.jpg
     caption: Laying eggs. Sisters Island, Apr 14
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/200818pglrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/200818pglrk1.jpg
     caption: Punggol, Aug 20 Photo by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/200917prplks5.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/200917prplks5.jpg
     caption: Pasir Ris Park, Sep 20 Photos shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/210501chglks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/210501chglks1.jpg
     caption: Changi, May 21 Photos shared by Loh Kok Sheng on facebook ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/250627bbvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/250627bbvc3.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/080407skdlks01m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/080407skdlks01m3.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/080407skdlks02m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/080407skdlks02m3.jpg
     caption: Mating and laying eggs. Photos shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/190705cjmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/190705cjmn.jpg
     caption: Chek Jawa, Jul 19 Photo shared by Marcus Ng on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/111212tmjk.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/111212tmjk.jpg
     caption: Diseased? Tanah Merah, Dec 11 Photo shared by James Koh on flickr
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/171009blymn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/171009blymn.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/090526bbjk.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/090526bbjk.jpg
     caption: A pair mating? Tanah Merah, May 09 Photos shared by James Koh on flickr
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/091218tmjk3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/091218tmjk3m3.jpg
     caption: Tanah Merah, Dec 09 Photo shared by James Koh on his blog .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/071125smktch01m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/071125smktch01m3.jpg
     caption: Pulau Semakau, Nov 07 Photo shared by Toh Chay Hoon on her flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/220101smksjk.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/220101smksjk.jpg
     caption: Pulau Semakau (South), Jan 22 Photo shared by James Koh on facebook .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/080605hntlks03m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/080605hntlks03m3.jpg
     caption: Pulau Hantu, Jun 08 Photo shared by Loh Koh Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/100912kuslks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/100912kuslks.JPG
     caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on flickr .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/denisoni/161215cyrmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/161215cyrmn.jpg
     caption: Cyrene Reef, Dec 16 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

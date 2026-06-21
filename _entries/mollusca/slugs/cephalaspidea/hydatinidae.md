@@ -1,6 +1,6 @@
 ---
 title: 'Paper bubble snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Paper bubble snail  on the shores of Singapore
 keywords: bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -34,14 +34,14 @@ infraclass: Euthyneura
 subterclass: Acteonimorpha
 superfamily: Acteonoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
     caption: Chek Jawa, Apr 08 Photo shared by Toh Chay Hoon on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg
     caption: Pasir Ris Park, Dec 18 Photo shared by Carol Phillips on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
     caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook .
 links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: including descriptions and photos of various bubble snails.\n\

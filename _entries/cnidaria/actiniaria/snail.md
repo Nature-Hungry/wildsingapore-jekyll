@@ -1,6 +1,7 @@
 ---
 title: Snail-hitching  anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 1cm. On living snails. Many long thin tentacles. Body brown with pale
+  stripes. On shells of living snails. Sometimes seen on some of our shores.
 keywords: snail, mollusca, gastropod, anemone, paraiptasia, radiata, aiptasiidae,
   actiniaria, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -29,32 +30,32 @@ superfamily: Metridioidea
 summary: 1cm. On living snails. Many long thin tentacles. Body brown with pale stripes.
   On shells of living snails. Sometimes seen on some of our shores.
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
     caption: Pulau Sekudu, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/110703cjd5386m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/snail/110703cjd5386m3.jpg
     caption: Chek Jawa, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/110703cjd5384m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/snail/110703cjd5384m3.jpg
     caption: Anemones stick out when snail is buried. Chek Jawa, Jul 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/080718wdld7630m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/snail/080718wdld7630m3.jpg
     caption: Woodlands, Jul 08 Woodlands, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/090705krjd6458m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/snail/090705krjd6458m3.jpg
     caption: Kranji, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/090705krjd6492m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/snail/090705krjd6492m6l.jpg
     caption: Not attached to snails. Kranji, Jul 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg
     caption: Punggol, Sep 18 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/251208chgrk6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/snail/251208chgrk6.jpg
     caption: Changi, Dec 25 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/260216cnyrqo1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/snail/260216cnyrqo1.jpg
     caption: Coney Island, Oct 26 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/snail/090822sislks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/snail/090822sislks.JPG
     caption: Sisters Island, Aug 09 Photo shared by Loh Kok Sheng on flickr
   gallery6:
   - url: https://live.staticflickr.com/2921/32974945200_26a7c5d455_z.jpg

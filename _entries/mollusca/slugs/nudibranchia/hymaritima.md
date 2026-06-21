@@ -1,6 +1,6 @@
 ---
 title: Maritima hypselodoris nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Maritima hypselodoris nudibranch on the shores of Singapore
 keywords: hypselodoris, maritima, nudibranch, slug, seaslug, chromodoridae, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -24,42 +24,42 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg
     caption: Tuas, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/210501chgjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/210501chgjll1.jpg
     caption: Changi, May 21 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/240706ubntch1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/240706ubntch1a.jpg
     caption: Pulau Ubin, Jul 24 Photo by Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/240706ubntch1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/240706ubntch1b.jpg
     caption: Pulau Ubin, Jul 24 Photo by Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/230803skdjk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/230803skdjk1.jpg
     caption: Pulau Sekudu, Aug 23 Photo shared by James Koh on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/120508skdjk4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/120508skdjk4m3.jpg
     caption: Pulau Sekudu, May 12 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/190706skdmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/190706skdmn1.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/190706skdro3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/190706skdro3.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Rene Ong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/140616bblks1m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/140616bblks1m3.JPG
     caption: Beting Bronok, Jun 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/210627bbjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/210627bbjll1.jpg
     caption: Beting Bronok, Jun 21 Photo shared by Jianlin Liu on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/240212sjijll2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/240212sjijll2.jpg
     caption: St John's Island, Feb 24 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/150320tusmn2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/150320tusmn2m3.jpg
     caption: Tuas, Mar 15 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

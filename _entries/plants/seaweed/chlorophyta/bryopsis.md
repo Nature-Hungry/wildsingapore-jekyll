@@ -1,6 +1,6 @@
 ---
 title: Hairy green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hairy green seaweed on the shores of Singapore
 keywords: hairy, seaweed, weed, green, bryopsis, bryopsidaceae, chlorophyta, algae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,34 +25,34 @@ superfamily: Noctuoidea
 subfamily: Noctuinae
 tribe: Bryophilini
 updated: Oct 2016
-coverimg: http://www.wildsingapore.com/worm/polychaeta/giant/040410sisbd0011m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/giant/040410sisbd0011m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/giant/040410sisbd0011m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/giant/040410sisbd0011m3.jpg
     caption: A Giant reef worm snatching a mouthful of seaweed back into its lair.
       Sisters Island, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/091104sntd3635m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/091104sntd3635m3.jpg
     caption: '` Lots of tiny creatures are often seen on this seaweed. Sentosa, Nov
       09'
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg
     caption: Tiny Bryopsis slugs are often abundant on this seaweed. Sentosa, Sep
       08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/080720cjd7926m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/080720cjd7926m3.jpg
     caption: Sometimes parts may be orange. Chek Jawa, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/060115sntg3898m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/060115sntg3898m3.jpg
     caption: Sentosa, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/050608cftg7418m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/050608cftg7418m3.jpg
     caption: Changi, Jun 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/100131slud8789m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/100131slud8789m3a.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/100811slud0104m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/100811slud0104m3.jpg
     caption: Pulau Salu, Aug 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/091204pawd5236m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/091204pawd5236m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/100810sngd9940m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/100810sngd9940m3.jpg
     caption: Pulau Senang, Aug 10
 links_references: '**Links**
 
@@ -175,36 +175,29 @@ species.
 **Sometimes confused with**
 similar green seaweeds such as
 [Turf green seaweeds](enteromorpha)
-(
-*Enteromorpha*
+(*Enteromorpha*
 sp.) and small turfing species of
 *Cladophoropsis*
 .
 ## Role in habitat
 Although some Bryopsis species produces chemicals to defend against herbivores, when hairy green seaweeds are abundant on the shores, there is also an abundance of some sea slugs such as the
 [Leaf slug](../../../mollusca/slugs/sacoglossa/ornata)
-(
-*Elysia ornata*
-) and tiny
+(*Elysia ornata*) and tiny
 [Bryopsis slugs](../../../mollusca/slugs/sacoglossa/bryopsis)
-(
-*Placida dendritica*
-).These sap-sucking slugs probably eat the seaweed. Sometimes, the seaweed is thick with tiny little
+(*Placida dendritica*).These sap-sucking slugs probably eat the seaweed. Sometimes, the seaweed is thick with tiny little
 [beachfleas](..//wildfacts/guides/crustacea/crustacea/othercrust/amphipoda/amphipoda)
 (Order Amphipoda). We have also seen the
 [Giant reef worm](../../../worm/polychaeta/giant)
-(
-*Eunice aphroditois*
-) snatching this seaweed back to its lair.
+(*Eunice aphroditois*) snatching this seaweed back to its lair.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/081017sntd0996m6l.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/081017sntd0996m6l.jpg)
 
 Seasonally may bloom, covering the shore
 
 in a thick furry blanket.
 *Sentosa, Nov 10*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bryopsis/101109sntd2697m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/101109sntd2697m3.jpg)
 
 Hairy green seaweeds of different structures
 

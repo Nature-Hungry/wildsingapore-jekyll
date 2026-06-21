@@ -1,6 +1,6 @@
 ---
 title: Ipil
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ipil on the shores of Singapore
 keywords: intsia, bijuga, fabaceae, mangrove, mangroves, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,14 +22,14 @@ order: Fabales
 subfamily: Detarioideae
 tribe: Afzelieae
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/intsia/bijuga/110307admd6727m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/intsia/bijuga/110307admd6727m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/intsia/bijuga/110307admd6729m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/intsia/bijuga/110307admd6729m3.jpg
     caption: Admiralty Park, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/intsia/bijuga/110307admd6728m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/intsia/bijuga/110307admd6728m3.jpg
     caption: Admiralty Park, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/intsia/bijuga/110307admd6733m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/intsia/bijuga/110307admd6733m3.jpg
     caption: Admiralty Park, Mar 11
 links_references: '**Links**
 
@@ -113,11 +113,11 @@ According to Giesen, it produces very hard, good quality timber which does not s
 **Status and threats:**
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/intsia/bijuga/110307admd6727m6l.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/intsia/bijuga/110307admd6727m6l.jpg)
 
 Admiralty Park, Mar 11
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/intsia/bijuga/110307admd6731m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/intsia/bijuga/110307admd6731m3.jpg)
 
 Admiralty Park, Mar 11*
 

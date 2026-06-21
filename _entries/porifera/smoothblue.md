@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue icing sponge on the shores of Singapore
 keywords: smooth, blue, sponge, lendenfeldia, chondrodes, thorectidae, porifera, field,
 layout: entry
 shape: encrusting
@@ -9,24 +9,24 @@ genus: Lendenfeldia
 species: cf.
 attributes: []
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/040706lazd2411m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/smoothblue/040706lazd2411m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/040706lazd2411m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothblue/040706lazd2411m3.jpg
     caption: Lazarus, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/060102sisd6510m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothblue/060102sisd6510m3.jpg
     caption: Sisters Islands, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/040423sntd0038m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothblue/040423sntd0038m3.jpg
     caption: Sentosa, Apr 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/060628sntd3795m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothblue/060628sntd3795m3.jpg
     caption: Sentosa, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/040703sisd1665m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothblue/040703sisd1665m3.jpg
     caption: Sisters Island, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/091231biod6934m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothblue/091231biod6934m3.jpg
     caption: Pulau Biola, Dec 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/100531biod4472m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothblue/100531biod4472m3.jpg
     caption: Pulau Biola, May 10
 links_references: '**Links**
 
@@ -76,9 +76,7 @@ The layer encrusts coral rubble and may cover an area of 20cm wide or more. Some
 [Smooth green sponge](smoothgreen)
 which is not as smooth has has a texture of tiny bumps. Also similar to the
 [Smooth brown sponges](smoothbrown)
-(
-*Neopetrosia exigua*
-) which are brown.
+(*Neopetrosia exigua*) which are brown.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.
 

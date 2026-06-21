@@ -1,6 +1,6 @@
 ---
 title: 'Curry puff crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Curry puff crab  on the shores of Singapore
 keywords: ruby, reef, crab, liomera, venosa, xanthidae, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -31,42 +31,42 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Zosiminae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg
     caption: Terumbu Raya, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/110731tryd8022m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/110731tryd8022m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/110731tryd8018m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/110731tryd8018m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/110731tryd8018m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/110731tryd8018m3.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/250131tkkrk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/250131tkkrk1.jpg
     caption: Pulau Tekukor, Jan 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/240608kustl5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/240608kustl5.jpg
     caption: Kusu Island, Jun 24 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/190520hntlks2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/190520hntlks2.jpg
     caption: Pulau Hantu, Mau 19 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/240725smkntt4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/240725smkntt4.jpg
     caption: Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/250629smkeal2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/250629smkeal2.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/250727smkwml1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/250727smkwml1.jpg
     caption: Pulau Semakau (West), Jul 25 Photo shared by Mathias Luk on fcebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/230221trylks3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/230221trylks3.jpg
     caption: Terumbu Raya, Feb 23 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/240310tplvc3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/240310tplvc3.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/platypodia/240609tptccn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/240609tptccn1.jpg
     caption: Terumbu Pempang Tengah, Jun 24 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**
@@ -141,9 +141,7 @@ Body width 4-6cm. Body and claws chocolate brown and covered with large rounded 
 **Sometimes mistaken for**
 the more commonly seen
 [Floral egg crab](floridus)
-(
-*Atergatis floridus*
-).
+(*Atergatis floridus*).
 
 **Status and threats:**
 This crab is listed as 'Endangered' in our Red List of threatened animals of Singapore.

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Lumpy orange sponge on the shores of Singapore
 keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: encrusting
@@ -12,14 +12,14 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpyorange/150802bbd8779m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/lumpyorange/150802bbd8779m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpyorange/150802bbd8779m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpyorange/150802bbd8779m3.jpg
     caption: Beting Bronok, Aug 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpyorange/150802bbd8779m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpyorange/150802bbd8779m3b.jpg
     caption: Tiny hole, submerged.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpyorange/150802bbd8779m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpyorange/150802bbd8779m3a.jpg
     caption: Surface grainy but smooth, glossy.
 location:
 - pgl

@@ -1,6 +1,6 @@
 ---
 title: Reef bristleworms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Reef bristleworms on the shores of Singapore
 keywords: bristleworm, eurythoe, complanata, amphinomidae, polychaete, annelid, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,60 +18,60 @@ subclass: Errantia
 order: Amphinomida
 subfamily: Amphinominae
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/050720sntg9511m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/reef/050720sntg9511m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/050720sntg9511m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/050720sntg9511m3.jpg
     caption: Sentosa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/050720sntg9513m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/050720sntg9513m3a.jpg
     caption: Front of the worm.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/050720sntg9513m3c.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/050720sntg9513m3c.jpg
     caption: Rows of bristle 'bunches' with tufts.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/050513labg6497m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/050513labg6497m3.jpg
     caption: Labrador, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/050513labg6499m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/050513labg6499m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg
     caption: Swimming crab eating a Reef bristleworm Pulau Semakau (West), Jul 25
       Photo shared by Jayden Kang on facebok .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/081017cyrtch.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/081017cyrtch.jpg
     caption: Common hairy crab eating a Reef bristleworm. Cyrene Reef, Oct 08 Photo
       shared by Toh Chay Hoon on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/120604pglmn.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/120604pglmn.jpg
     caption: Punggol, Jun 12 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/111030skdlks9m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/111030skdlks9m3.jpg
     caption: Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/251011labjt3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/251011labjt3.jpg
     caption: Labrador, Oct 25 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/201215bsrpvc9.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/201215bsrpvc9.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/260104trmrqo6.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/260104trmrqo6.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/110220lazjk5m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/110220lazjk5m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by James Koh on his blog
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/250811jngjk2.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/250811jngjk2.jpg
     caption: Pulau Jong, May 25 Photo shared byJayden Kang on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/250726cyrjt2.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/250726cyrjt2.jpg
     caption: Cyrene, Jul 25 Photo shared by Jonathan Tan on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/091106smkgl1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/091106smkgl1m3.jpg
     caption: Pulau Semakau, Nov 09 Photo shared by Geraldine Lee on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/160208smksjll5.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/160208smksjll5.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Jianlin Liu on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/251008bbbky8.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/251008bbbky8.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/181128tptgt2.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/181128tptgt2.jpg
     caption: Terumbu Pempang Tengah, Nov 18 Photo shared by Gina Tan on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/090330trylks3m6l.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/090330trylks3m6l.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/250812tbal3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/250812tbal3.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Adriane Lee on facebook .
 links_references: '**Links**
 

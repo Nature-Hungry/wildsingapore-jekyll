@@ -1,6 +1,6 @@
 ---
 title: Polished nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Polished nerite snail on the shores of Singapore
 keywords: polished, nerita, nerite, polita, neritidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,29 +26,28 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
     caption: Labrador, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg
     caption: Labrador, Jan 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/080511sntd3192m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/080511sntd3192m3.jpg
     caption: Not all have glossy shells. Sentosa, May 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg
     caption: Labrador, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/101223sntd3896m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/101223sntd3896m3.jpg
     caption: Sentosa, Dec 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/260104trmyls2a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/260104trmyls2a.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/polita/260104trmyls2b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/260104trmyls2b.jpg
     caption: ''
 links_references: '**Links**
 
   - [Polished nerite (
-
   *Nerita polita*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86832)
@@ -56,7 +55,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Polished nerite (
-
   *Nerita polita*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

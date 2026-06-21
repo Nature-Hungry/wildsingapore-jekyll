@@ -1,6 +1,6 @@
 ---
 title: Pouched tomb bat
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pouched tomb bat on the shores of Singapore
 keywords: pouched, bearing, tomb, bat, saccolaimus, emballonuridae, vertebrate, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,7 +23,7 @@ suborder: Yangochiroptera
 superfamily: Emballonuroidea
 subfamily: Taphozoinae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg
 links_references: '**Links**
 
   - [Pouched Tomb Bat](http://www.ecologyasia.com/verts/bats/pouched-tomb-bat)
@@ -79,7 +79,7 @@ This bat is social and roosts in colonies with as many as 300 individuals. They 
 **What does it eat?**
 It eats insects, foraging for these high above the canopy of trees.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg)*
+*![](https://images.naturehungry.sg/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg)*
 *Pulau Sekudu,*
 *Jul 03*
 

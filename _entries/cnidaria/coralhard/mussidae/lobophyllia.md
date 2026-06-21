@@ -1,6 +1,6 @@
 ---
 title: Lobed brain coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lobed brain coral on the shores of Singapore
 keywords: lobed, brain, mussidae, lobophylliidae, lobophyllia, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,44 +17,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
     caption: Pulau Semakau, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/050528kusd3539m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/050528kusd3539m3.jpg
     caption: Kusu Island, May 05 Those with smaller circular corallites sometimes
       mistaken for Trumpet corals .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/050528kusg7047m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/050528kusg7047m3b.jpg
     caption: Lobed brain corals have bigger 'teeth' than Trumpet corals .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
     caption: Pulau Hantu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3.jpg
     caption: Sisters Island, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
     caption: Raffles Lighthouse, Jul 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/150706srplks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/150706srplks.JPG
     caption: Sentosa Serapong, Jul 15 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4263m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4263m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4396m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4396m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/091204pawd5317m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/091204pawd5317m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 
@@ -143,8 +143,7 @@ has such long tentacles (5cm) that when extended, the coral may be mistaken for 
 **Mistaken identity**
 Some ring-shaped Brain corals may resemble some species of
 [Trumpet corals](../merulinidae/caulastraea)
-(
-*Caulastraea*
+(*Caulastraea*
 sp.) as both have branching corallites with circular openings. More on how to tell apart
 [hard corals with big rings and fleshy tissue](../cfbigring)
 .

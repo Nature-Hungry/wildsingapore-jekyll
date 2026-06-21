@@ -1,6 +1,6 @@
 ---
 title: Big coin green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Big coin green seaweed on the shores of Singapore
 keywords: coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, algae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -26,40 +26,39 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg
     caption: Large stretch of shore covered with this seaweed. Tuas, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/060101sisg3531m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/060101sisg3531m3.jpg
     caption: Sisters Islands, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg
     caption: St. John's Island, May 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/050330labg3921m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/050330labg3921m3.jpg
     caption: Labrador, Mar 05 A pair of slugs on the seaweed.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/040603sntg0132m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/040603sntg0132m3.jpg
     caption: Sentosa, Jun 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/200626tptdc3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/200626tptdc3.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/060714rlhg6593m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/060714rlhg6593m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/091204pawd5268m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/091204pawd5268m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/100613sngd5622m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/100613sngd5622m3.jpg
     caption: Pulau Senang, Jun 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/100130brkd8517m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/100130brkd8517m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/halbig/040605kusbd0026m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/040605kusbd0026m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 
   - [Calcified seaweed (
-
   *Halimeda*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/102)
@@ -152,9 +151,7 @@ An upright chain (5-10cm long) of joined up coin-like flattened segments. Each c
 **Living on halimeda:**
 The keen-eyed observer may spot the tiny
 [Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla)
-(
-*Elysiella pusilla*
-) found on this seaweed. The slugs are difficult to spot as they usually the same colour as the seaweed or somewhat translucent.
+(*Elysiella pusilla*) found on this seaweed. The slugs are difficult to spot as they usually the same colour as the seaweed or somewhat translucent.
 
 During one
 [visit to Tuas in Sep 08](http://wildshores.blogspot.com/2008/09/tuas-with-teamseagrass-of-schering.html)

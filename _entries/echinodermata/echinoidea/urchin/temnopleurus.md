@@ -1,6 +1,6 @@
 ---
 title: Black sea urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black sea urchin on the shores of Singapore
 keywords: black, urchin, temnoplerus, toreumaticus, temnopleuridae, echinoid, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -28,36 +28,36 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3.jpg
     caption: Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3b.jpg
     caption: Zig-zag lines on the upperside. With long tube feet.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/040702chgd1470m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/040702chgd1470m3.jpg
     caption: Sometimes found in large groups. Changi, Jul 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6613m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6613m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/050607chgg7287m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/050607chgg7287m3.jpg
     caption: Worm-like animal often seen around the mouth. Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/190811chgm3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/190811chgm3.jpg
     caption: Carrying a shell. Changi, Aug 19
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/220616chgelks5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/220616chgelks5.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/251205cjky1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/251205cjky1.jpg
     caption: Chek Jawa, Dec 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/240723chgeky1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/240723chgeky1.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Kelvin Yong on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3a.jpg
     caption: Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/080507ecplks04m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/080507ecplks04m3.jpg
     caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 
@@ -131,8 +131,7 @@ Body diameter 4-5cm, sometimes tiny ones about 1cm in diameter are seen among se
 **May be confused with**
 the
 [Long-spined black sea urchin](diadema)
-(
-*Diadema*
+(*Diadema*
 sp.) which has much longer spines and is not often seen on the Northern shores.
 
 **Prickly Home:**

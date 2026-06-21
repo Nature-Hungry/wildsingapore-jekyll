@@ -1,6 +1,6 @@
 ---
 title: 'Sesarmid crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sesarmid crabs  on the shores of Singapore
 keywords: sesarmid, crab, sesarmidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,22 +24,22 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
     caption: About to munch on flowers? Sungei Buloh Wetland Reserve, Sep 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/brockii/060627krjd3636m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/brockii/060627krjd3636m3.jpg
     caption: This mama crab was carrying lots of eggs! Kranji, Jun 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
     caption: Mangrove tree-dwelling crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
     caption: Tree climbing crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3a.jpg
     caption: Face-banded sesarmine crab
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
     caption: Mound crab
 links_references: '**Links**
 
@@ -48,7 +48,6 @@ links_references: '**Links**
   ,
 
   [Tree-climbing/Vinegar crabs (
-
   *Episesarma*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049)
@@ -56,7 +55,6 @@ links_references: '**Links**
   ,
 
   [Mangrove tree-dwelling crab (
-
   *Selatium brockii*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2050)
@@ -241,15 +239,11 @@ Perisesarma bidens
 Perisesarma dussumieri
 
 Perisesarma/Chiromantes eumolpe=^Perisesarma eumolpe*
-(
-[Face-banded sesarmine crabs](perisesarma)
-)
+([Face-banded sesarmine crabs](perisesarma))
 *+Perisesarma fasciatum
 
 Perisesarma indiarum*
-(
-[Face-banded sesarmine crabs](perisesarma)
-)
+([Face-banded sesarmine crabs](perisesarma))
 *+Perisesarma cf. lenzii
 
 Perisesarma onychophorum

@@ -1,6 +1,6 @@
 ---
 title: Nyireh bunga
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Nyireh bunga on the shores of Singapore
 keywords: nyireh, bunga, xylocarpus, granatum, polygalaceae, meliaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,21 +25,21 @@ subfamily: Cedreloideae
 tribe: Xylocarpeae
 inat_id: 196657
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/110109ubnd4812m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/110109ubnd4812m3a.jpg
     caption: Seeds fit like a puzzle within the fruit. Pulau Ubin, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg
     caption: Large globular fruit. Pulau Semakau, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg
     caption: Well-developed ribbon-like buttresses. Pulau Ubin, Jan 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090411lckd9438m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090411lckd9438m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090411lckd9438m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090411lckd9438m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg
     caption: Lim Chu Kang, Apr 09
 links_references: '**Links**
 
@@ -52,7 +52,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Nyireh bunga (
-
   *Xylocarpus granatum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1077)
@@ -148,14 +147,14 @@ When ripe, the fruit splits open and/or drops off the tree and shatters, releasi
 
 According to Burkill, it is produces a timber valued in making boats, houses and furniture. It is also valued as firewood. The bark is so popular in tanning and tougening fishing nets that "in one part of Java, it is rare to find a tree which has not been peeled." The bark is dark outside and bright red within, and so thin that a tree yields very little of it. Medicinal uses include the bark for dysentery, roots in a secret recipe against cholera, and the seeds for various ailments.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg)
 
 *Pulau Semakau, Jan 09
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg)*
 Leaflets spoon-shaped, with rounded tips.
 *Pulau Ubin, Jan 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg)
 
 Bark smooth flaking off in patches.
 

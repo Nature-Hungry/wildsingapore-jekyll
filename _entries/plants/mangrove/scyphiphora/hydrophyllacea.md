@@ -1,6 +1,6 @@
 ---
 title: 'Chengam '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chengam  on the shores of Singapore
 keywords: chengam, scyphiphora, hydrophyllacea, rubiaceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,14 +23,14 @@ subfamily: Ixoroideae
 tribe: Scyphiphoreae
 inat_id: 426640
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/090126ubnd6180m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/scyphiphora/hydrophyllacea/090126ubnd6180m3.jpg
     caption: Small ridged fruits. Pulau Ubin, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/090517ubnd1888m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/scyphiphora/hydrophyllacea/090517ubnd1888m3a.jpg
     caption: Small pinkish flowers. Pulau Ubin, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3b.jpg
     caption: St. John's Island, Jul 09
 links_references: '**Links**
 
@@ -43,7 +43,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Chengam (
-
   *Scyphiphora hydrophyllacea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1072)
@@ -116,17 +115,16 @@ Fruit tiny (0.5cm) oblong with 6-8 ridges, first green then white. The outer lay
 
 **Sometimes mistaken for**
 [Teruntum](../lumnitzera/lumnitzera)
-(
-*Lumnitzera*
+(*Lumnitzera*
 sp.), which has its leaves arranged in a spiral.
 ## Human uses
 
 According to Giesen, the wood may be used to make household objects such as spoons, while larger pieces are used for fence posts and firewood. The leaves are used to treat stomach problems.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg)
 
 Pulau Ubin, Nov 09
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3.jpg)
 
 St. John's Island, Jul 09*
 

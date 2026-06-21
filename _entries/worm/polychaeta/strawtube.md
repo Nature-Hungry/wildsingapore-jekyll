@@ -1,6 +1,6 @@
 ---
 title: Straw tubeworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Straw tubeworm on the shores of Singapore
 keywords: straw, tube, worm, chaetopteridae, tubeworm, polychaete, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -15,23 +15,23 @@ phylum: Annelida
 class: Polychaeta
 subclass: Sedentaria
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/080122cjd9082m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/strawtube/080122cjd9082m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/080122cjd9082m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/strawtube/080122cjd9082m3.jpg
     caption: Regularly separated, not tightly clustered. Chek Jawa, Jan 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/080801chglks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/strawtube/080801chglks.JPG
     caption: Peeking out of its tube. Changi, Aug 08 Photo shared by Loh Kok Sheng
       on flickr .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/120410chgd9214m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/strawtube/120410chgd9214m3.jpg
     caption: Changi, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/120410chgd9214m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/strawtube/120410chgd9214m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/120410chgd9214m3b.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/strawtube/120410chgd9214m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/strawtube/171206ubnlks4.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/strawtube/171206ubnlks4.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

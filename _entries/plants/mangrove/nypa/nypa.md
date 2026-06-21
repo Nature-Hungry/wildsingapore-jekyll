@@ -1,6 +1,6 @@
 ---
 title: 'Nipah     palm '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Nipah     palm  on the shores of Singapore
 keywords: nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,26 +23,26 @@ order: Arecales
 subfamily: Nypoideae
 inat_id: 83106
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/100110cjd7870m6lb.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/100110cjd7870m6lb.jpg
     caption: Underground stem. Pulau Ubin, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/070422cjg8991m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/070422cjg8991m3.jpg
     caption: Fruits, most have fallen off. Chek Jawa, Apr 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/030719cjad0005m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/030719cjad0005m3.jpg
     caption: Female flowering cone. Chek Jawa, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/020224cjcpd6961m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/020224cjcpd6961m3.jpg
     caption: Attap chee. Chek Jawa, Feb 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/020116cjcpd5051m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/020116cjcpd5051m3.jpg
     caption: Growing fruit. Chek Jawa, Nov 02
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090418admd0239m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090418admd0239m3.jpg
     caption: Male flowers with pollinators. Admiralty Park, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090418admd0234m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090418admd0234m3.jpg
     caption: Male flowers with pollinators. Admiralty Park, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090418admd0277m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090418admd0277m3.jpg
     caption: Male flowers with pollinators. Admiralty Park, Apr 09
 links_references: '**Links**
 
@@ -59,7 +59,6 @@ links_references: '**Links**
   (Arecales: Arecaceae) Nipah Palm by Erika I. Halim, 2013 on taxo4254.
 
   - [Nipah (
-
   *Nypa fruticans*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1068)
@@ -73,7 +72,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Nipah or Attap Palm (
-
   *Nypa fruticans*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/109)
@@ -158,9 +156,7 @@ Fruits are chestnut brown, in cluster forming a globular shape (20-25cm). Each f
 
 The Nipah palm is among the more commercially valuable plants of the mangroves. The leaves are used as thatch for 'attap' huts, the immature seed (endosperm) is harvested as a jellylike sweetmeat called 'attap-chee' and is a favourite in local desserts. The sap is extracted from the inflorescence and when fermented, is called 'toddy', a local alcoholic drink. The
 [Common palm civet](../../../vertebrates/mammals/hermaphroditus)
-(
-*Paradoxurus hermaphroditus*
-) is known to 'steal' a drink of the sap. This civet is thus also known as the Toddycat.
+(*Paradoxurus hermaphroditus*) is known to 'steal' a drink of the sap. This civet is thus also known as the Toddycat.
 
 According to Burkill, the leaves are used for roofing as is, or "a more skilful use of the leaves" is to produce attap: drying the leaves, folding them over a rod and stitching them in place to form shingles called 'attap'. These shingles are used for roofing as well as the sides of houses and can last for 5 years or more. The leaves are also used to make umbrellas, sunhats, raincoats, baskets, mats and bags. Young leaves are made into cigarette-wrappers.
 
@@ -169,17 +165,17 @@ Burkill describes the tapping process: A palm is fit to tap at 5 years of age or
 **Status and threats:**
 It is listed as 'Vulnerable' in the Red List of threatened plants of Singapore. According to Davison, most of the localities where this palm is found is not in protected areas, so there is the danger of development wiping out populations. Only populations at Sungei Buloh, Pulau Ubin and Pulau Tekong are protected.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg)
 
 *Pulau Ubin, Jan 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090418admd0248m6la.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090418admd0248m6la.jpg)*
 Ball-shaped female flower with
 
 long yellow spikes of male flowers.
 *Admiralty Park, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/nypa/nypa/090124ubnd5971m3.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090124ubnd5971m3.jpg)*
 Growing fruit.
 *Chek Jawa, Feb 09*
 

@@ -1,6 +1,6 @@
 ---
 title: Mud whelk
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mud whelk on the shores of Singapore
 keywords: mud, whelk, nassarius, jacksonianus, nassariidae, gastropod, mollusc, shell,
   snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,17 +25,17 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg
     caption: Tuas, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6347m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6347m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/070104chgd7435m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/jackonianus/070104chgd7435m3a.jpg
     caption: Large numbers cluster on a dead fish. Changi, Jan 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/jackonianus/160125obsmn6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/jackonianus/160125obsmn6.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 
@@ -44,7 +44,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Mud whelk (
-
   *Nassarius jacksonianus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2087)

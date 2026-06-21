@@ -1,6 +1,6 @@
 ---
 title: Giant carpet anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Giant carpet anemone on the shores of Singapore
 keywords: giant, carpet, anemone, stichodactyla, gigantea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -44,62 +44,62 @@ trivia_items:
   hide deeper in the anemone.
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg
     caption: Terumbu Semakau , Jul 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg
     caption: Rows of colourful verrucae on upper portion of the underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg
     caption: Tentacles not tightly packed.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/121115tsmkd1073m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/121115tsmkd1073m3.jpg
     caption: Tentacles may stick to finger and break off. Terumbu Semakau, Nov 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg
     caption: The Peacock-tail anemone shrimp and small False clown anemonefish in
       a Giant carpet anemone. Pulau Hantu, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg
     caption: Clown anemonefish in a Giant carpet anemone. Sisters Island, Aug 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/250501skddc2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/250501skddc2.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Dayna Cheah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140518tmlks4m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140518tmlks4m3.JPG
     caption: Tanah Merah, May 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/151001blylks10m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/151001blylks10m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/170822labjt1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/170822labjt1.jpg
     caption: Labrador, Aug 17 Photo shared by Jonathan Tan on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/260104trmrqo11.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/260104trmrqo11.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/241019lazccn1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/241019lazccn1.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Che Cheng Neo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/101108bkoms00610m4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/101108bkoms00610m4.jpg
     caption: Terumbu Bukom, Nov 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/091204pawd0076m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/091204pawd0076m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100530tbkd4269m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100530tbkd4269m3.jpg
     caption: Pulau Berkas, May 10 Bleaching.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100613sngd5664m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100613sngd5664m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100613sngd5632m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100613sngd5632m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100130brkd8696m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100130brkd8696m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100131slud8882m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100131slud8882m3a.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/091205sudjk7m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/091205sudjk7m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100531biod4500m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100531biod4500m3.jpg
     caption: Pulau Biola, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/091231biod6992m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/091231biod6992m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg
     caption: Pulau Berkas, May 10
 links_references: '**Links**
 
@@ -197,14 +197,12 @@ and
 Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals. The zooxanthellae are believed to give tentacles their brown or greenish tinge. Carpet anemones may also feed on fine particles that are trapped on their bodies. These anemones have not been observed to eat large animals.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Giant friends:**
-Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with giant carpet anemones. These include anemone shrimps (
-*Periclimenes*
+Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with giant carpet anemones. These include anemone shrimps (*Periclimenes*
 sp.), and fishes such as
 [Three-spot dascyllus](../../vertebrates/fish/pomacentridae/trimaculatus)
 and
 [anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
-(
-*Amphiprion*
+(*Amphiprion*
 sp.) including
 *A. akindynos, A. bicinctus, A. clarkii, A. ocellaris*
 ,

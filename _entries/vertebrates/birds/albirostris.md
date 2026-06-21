@@ -1,6 +1,6 @@
 ---
 title: Oriental pied-hornbill
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Oriental pied-hornbill on the shores of Singapore
 keywords: oriental, pied, hornbill, anthracoceros, albirostris, bucerotidae, birds,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info
@@ -17,22 +17,22 @@ subphylum: Vertebrata
 class: Aves
 order: Bucerotiformes
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/050126cjd9843m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/birds/albirostris/050126cjd9843m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/050126cjd9848m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/birds/albirostris/050126cjd9848m3.jpg
     caption: Pulau Ubin, Jan 05 Pulau Ubin, Feb 04 Chek Jawa, Mar 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9940m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/microcarpa/100314cjd9940m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
     caption: Chek Jawa, Mar 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/100314cjd0014m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/birds/albirostris/100314cjd0014m3.jpg
     caption: Chek Jawa, Mar 10 Nesting box in use?
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/091121cjd4573m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/birds/albirostris/091121cjd4573m6l.jpg
     caption: Artificial nesting box. Chek Jawa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/091203ubnd4894m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/birds/albirostris/091203ubnd4894m3.jpg
     caption: Pulau Ubin, Dec 09
 links_references: '**Links**
 
@@ -124,7 +124,7 @@ zone:
 ## Where seen?
 Oriental pied-hornbills are commonly seen on Pulau Ubin and sometimes also at Changi. They are the only truly wild hornbills found on Singapore. Unlike most other hornbills, Oriental pied-hornbills can be found outside primary rainforests and may visit inhabited areas to feed on fruit. But they still depend on large living trees for nesting sites.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/albirostris/050126cjd9843m6l.jpg)
+*![](https://images.naturehungry.sg/vertebrates/birds/albirostris/050126cjd9843m6l.jpg)
 
 Pulau Ubin, Jan 05*
 

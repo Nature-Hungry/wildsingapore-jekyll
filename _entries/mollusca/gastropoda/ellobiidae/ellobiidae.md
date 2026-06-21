@@ -1,6 +1,6 @@
 ---
 title: Belongkeng or Mangrove ear snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Belongkeng or Mangrove ear snails on the shores of Singapore
 keywords: belongkeng, snail, ellobiidae, melampidae, gastropod, mollusc, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,23 +21,23 @@ superorder: Eupulmonata
 order: Ellobiida
 superfamily: Ellobioidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
     caption: Two different kinds of Belongkeng snails Pasir Ris, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
     caption: Sometimes seen in small groups on mangrove tree trunks. Sungei Buloh
       Besar, Apr 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
     caption: Banded mangrove ear snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
     caption: Mangrove ear snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg
     caption: Belongkeng snail
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
     caption: Pythia snail
 links_references: '**Links**
 
@@ -58,7 +58,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mangrove land snail (
-
   *Ellobium aurismidae*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=208)
@@ -158,9 +157,7 @@ They graze on algae and lichen growing on mangrove trees and debris.
 The larger snails are eaten as traditional and subsistence food in some coastal communities.
 
 **Status and threats:**
-The Mangrove land snail (
-*Ellobium scheepmakeri*
-) is listed as 'Critically Endangered' on the list of threatened animals of Singapore due to habitat loss. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Overcollection can also have an impact on local populations.
+The Mangrove land snail (*Ellobium scheepmakeri*) is listed as 'Critically Endangered' on the list of threatened animals of Singapore due to habitat loss. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Overcollection can also have an impact on local populations.
 
 ---
 

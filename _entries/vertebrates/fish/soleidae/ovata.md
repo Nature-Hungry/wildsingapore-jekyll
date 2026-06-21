@@ -1,6 +1,6 @@
 ---
 title: Ovate sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ovate sole on the shores of Singapore
 keywords: ovate, flat, fish, flatfish, sole, solea, ovata, soleidae, pleuronectiformes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,27 +24,26 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
     caption: Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050818cftg1318m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/050818cftg1318m6l.jpg
     caption: Changi, Aug 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg
     caption: Eyes on the right side.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg
     caption: Tail fin separate from the dorsal and anal fins.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/240114kusrk1b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/240114kusrk1b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/240114kusrk1a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/240114kusrk1a.jpg
     caption: Kusu Island, Jan 24 Photo shared by Richard Kuah on facebook .
 links_references: '**Links**
 
   - [Ovate Sole (
-
   *Solea ovata*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/386)
@@ -56,7 +55,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Ovate sole (
-
   *Solea ovata*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=14391)

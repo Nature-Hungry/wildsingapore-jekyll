@@ -1,6 +1,6 @@
 ---
 title: 'Stalk-eyed crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stalk-eyed crabs  on the shores of Singapore
 keywords: stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -25,49 +25,48 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
     caption: The eye stalks of a ghost crab 'fold' away into grooves at the side of
       its body. Tanah Merah, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg
     caption: The Sentinel crab has super long eye stalks. Pulau Hantu, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
     caption: Some fiddler crabs have brightly coloured eye stalks. Chek Jawa, Mar
       09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
     caption: Horn-eyed ghost crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
     caption: Smooth-eyed ghost crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg
     caption: Sentinel crab
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg
     caption: Sand bubbler crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
     caption: Soldier crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg
     caption: Semaphore crab
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
     caption: Porcelain fiddler crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
     caption: Orange fiddler crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
     caption: Rosy fiddler crab
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
     caption: Stout pincered fiddler crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
     caption: Tiny colourful fiddler crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
     caption: Other unidentified fiddler crabs
 links_references: '**Links**
 
   - [Soldier crab (
-
   *Dotilla myctiroides*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2052)
@@ -75,7 +74,6 @@ links_references: '**Links**
   ,
 
   [Fiddler crabs (
-
   *Uca*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053)
@@ -83,7 +81,6 @@ links_references: '**Links**
   ,
 
   [Semaphore crabs (
-
   *Ilyoplax*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2054)
@@ -91,7 +88,6 @@ links_references: '**Links**
   ,
 
   [Sentinel crabs (
-
   *Macrophthalmus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055)
@@ -99,7 +95,6 @@ links_references: '**Links**
   ,
 
   [Shen crab (
-
   *Shenius anomalum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2056)
@@ -111,7 +106,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Ghost Crab (
-
   *Ocypoda*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)
@@ -119,7 +113,6 @@ links_references: '**Links**
   and
 
   [Fiddler crabs (
-
   *Uca*
 
   spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190)
@@ -196,22 +189,17 @@ zone:
 ## Where seen?
 Crabs belonging to this family include some of the most commonly encountered on our shores during the day:
 [fiddler crabs](uca)
-(
-*Uca*
+(*Uca*
 sp.),
 [sand bubbler crabs](scopimera)
-(
-*Scopimera*
+(*Scopimera*
 and
 *Dotilla*
 spp.) and
 [soldier crabs](dotilla)
-(
-*Dotilla myctiroides*
-). Others like the
+(*Dotilla myctiroides*). Others like the
 [ghost crabs](ceratophthalmus)
-(
-*Ocypode*
+(*Ocypode*
 sp.) are only active at night.
 
 ## Features
@@ -272,9 +260,7 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 sp.**
 
 *Dotilla myctiroides*
-(VU: Vulnerable) (
-[Soldier crab](dotilla)
-)
+(VU: Vulnerable) ([Soldier crab](dotilla))
 
 *Dotilla wichmanni*
 

@@ -375,7 +375,7 @@ function renderResults() {
     
     return `
     <div class="entry-wrapper">
-    <a href="${item.url}" class="entry" ${item.external ? "external="+item.external : ""}>
+    <a href="${item.url}" class="entry" ${item.external ? "rel='nofollow' external="+item.external : ""}>
         <div class="img-container">
             <img src="${item.coverimg ?? 'https://placehold.co/600x400/png'}" alt="">
         </div>

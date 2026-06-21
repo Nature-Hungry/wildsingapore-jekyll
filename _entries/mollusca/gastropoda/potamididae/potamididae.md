@@ -1,6 +1,6 @@
 ---
 title: 'Horn snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Horn snails  on the shores of Singapore
 keywords: horn, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc,
   mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,31 +17,30 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
     caption: Rodong snails mating? Sungei Buloh Wetland Reserve, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/110101krjd4469m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/110101krjd4469m3.jpg
     caption: The Red Chut-chut snail on a mangrove tree trunk. Kranji, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/090210nsrccd6965.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/090210nsrccd6965.jpg
     caption: Shell structure East Coast Park, Feb 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
     caption: Rodong
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
     caption: Belitong
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
     caption: Girdled horn snail
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
     caption: Red Chut-chut
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
     caption: Black Chut-chut
 links_references: '**Links**
 
   - [Mud creepers (
-
   *Cerithidea obtusa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2081)
@@ -49,7 +48,6 @@ links_references: '**Links**
   ,
 
   [Belitong (
-
   *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2082)
@@ -57,7 +55,6 @@ links_references: '**Links**
   ,
 
   [Rodong/Berongan (
-
   *Telescopium telescopium*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2084)
@@ -69,21 +66,17 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Telescope Creeper Shell (
-
   *Telescopium telescopium*
 
   ), Obtuse creeper (
-
   *Cerithidae obtusa*
 
   ), Sulcate creeper (
-
   *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
 
   [Creeper Shell (
-
   *Batillaria zonalis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/138)

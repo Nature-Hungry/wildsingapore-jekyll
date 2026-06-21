@@ -1,6 +1,6 @@
 ---
 title: 'Estuarine crocodile '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Estuarine crocodile  on the shores of Singapore
 keywords: estuarine, crocodile, crocodylus, porosus, crocodylidae, vertebrate, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,10 +17,10 @@ subphylum: Vertebrata
 class: Reptilia
 order: Crocodylia
 updated: Apr 2018
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on
       his flickr .
 links_references: '**Links**
@@ -54,11 +54,9 @@ links_references: '**Links**
   - Marcus Ng and Robert W. Mendyk. 2012.
 
   [Predation of an Adult Malaysian Water monitor (
-
   *Varanus salvator macromaculatus*
 
   ) by an Estuarine Crocodile (
-
   *Crocodylus porosus*
 
   )](https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list)
@@ -144,18 +142,18 @@ Here's NParks's advice on what you should do to stay safe
 - If a crocodile is spotted on the path, stay calm and back away slowly.
 - Do not approach, provoke or feed the crocodile.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg)
+*![](https://images.naturehungry.sg/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg)
 
 Sungei Buloh Wetland Reserve, Feb 10
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/090913sbwrtsy1m3a.jpg)*
+![](https://images.naturehungry.sg/vertebrates/reptilia/porosus/090913sbwrtsy1m3a.jpg)*
 *Sungei Buloh Wetland Reserve, Sep 09*
 
 Photo shared by Teo Siyang on
 [his blog](http://uforest.blogspot.com/2009/09/crocodile.html)
 .
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/porosus/091010sbwrbc3m6l.jpg)
+*![](https://images.naturehungry.sg/vertebrates/reptilia/porosus/091010sbwrbc3m6l.jpg)
 
 Sungei Buloh Wetland Reserve, Oct 09*
 Photo shared by Brandon Chia on

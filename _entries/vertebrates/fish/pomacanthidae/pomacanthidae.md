@@ -1,6 +1,6 @@
 ---
 title: Angelfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Angelfishes on the shores of Singapore
 keywords: angelfish, angel,  fish, pomacanthidae, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,18 +17,18 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
     caption: Yellowtail or Vermiculated anglefish caught in a fish trap. Kusu Island,
       Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
     caption: The juvenile looks very different. Tanah Merah, Apr 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks.JPG
     caption: Yellowtail or Vermiculated anglefish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
     caption: Blue-ring angelfish
 links_references: '**Links**
 
@@ -148,9 +148,7 @@ zone:
 These fishes are rarely seen naturally on the shore at low tide. They are more often encountered by divers in deeper waters. Those we've seen were sadly captured in fish traps or already in a fish tank.
 
 **What are angelfishes?**
-They belong to Family Pomacanthidae which has 9 genera and 74 species. They are found in the Atlantic, Indian and Pacific oceans. They are closely related to the butterflyfishes (
-[Family Chaetodontidae](../chaetodontidae/chaetodontidae)
-) and were previously placed in the butterflyfish family.
+They belong to Family Pomacanthidae which has 9 genera and 74 species. They are found in the Atlantic, Indian and Pacific oceans. They are closely related to the butterflyfishes ([Family Chaetodontidae](../chaetodontidae/chaetodontidae)) and were previously placed in the butterflyfish family.
 
 ## Features
 

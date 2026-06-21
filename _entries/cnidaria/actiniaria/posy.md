@@ -1,6 +1,6 @@
 ---
 title: Posy anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Posy anemone on the shores of Singapore
 keywords: anemone, anthozoa, actiniidae, isactinia, citrina, mesactinia, ganensis,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -29,34 +29,34 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/060429skdd1426m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/posy/060429skdd1426m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/060429skdd1426m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/060429skdd1426m3.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/060429skdd1426m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/060429skdd1426m3b.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/040730skdd3320m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/040730skdd3320m3.jpg
     caption: Pulau Sekudu, Jul 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/150605kusmn3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/150605kusmn3m3.jpg
     caption: Kusu Island, Jun 15 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/070901sjilks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/070901sjilks.JPG
     caption: St John's Island, Jul 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/240410cyrky4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/240410cyrky4.jpg
     caption: Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/240410cyrky4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/240410cyrky4.jpg
     caption: Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/250430sjiml5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/250430sjiml5.jpg
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/251008bbbtl7.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/251008bbbtl7.jpg
     caption: Beting Bemban Be sar, Oct 25 Photo shared by Tammy Lim on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/110517tptlks27m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/110517tptlks27m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/posy/110517tpttch2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/posy/110517tpttch2m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Toh Chay Hoon on her blog
       .
 location:

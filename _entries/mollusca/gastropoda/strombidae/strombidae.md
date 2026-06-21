@@ -1,6 +1,6 @@
 ---
 title: 'Conch snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Conch snails  on the shores of Singapore
 keywords: gong, pearl, spider, conch, strombus, canarium, lambis, lambis, strombidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -18,52 +18,50 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
     caption: Hopping along Tanah Merah, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
     caption: Claw-like operculum on a strong narrow foot. Pulau Jong, Aug 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/150519chgcp1d4533.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/150519chgcp1d4533.jpg
     caption: The shell is a coiled beneath the flared lip.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/120411thnts06115m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/120411thnts06115m3.jpg
     caption: Laying bright orange egg string. Terumbu Hantu, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg
     caption: Laying fine beige egg string. Tanah Merah, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/070704jngg1106m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/070704jngg1106m3.jpg
     caption: A young Spider conch that hasn't developed spines on its shell yet. Pulau
       Jong, Jul 07
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/140812chg4d8590.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/140812chg4d8590.jpg
     caption: Harvesting Gong-gong, dragging box behind. Changi, Aug 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/140812chg4d8600.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/140812chg4d8600.jpg
     caption: Gong-gong in the box dragged behind. Changi, Aug 14
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
     caption: Gong-gong or Pearl conch
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg
     caption: Black-lipped conch
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/vittatus/160708sjio7080261m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/vittatus/160708sjio7080261m3.jpg
     caption: Vitate conch
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg
     caption: Margined conch
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m3.jpg
     caption: Dark Diana conch
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
     caption: Spider conch
 links_references: '**Links**
 
   - [Family Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140)
 
   including the Spider conch (
-
   *Lambis lambis*
 
   ) and the Black-lipped Conch (
-
   *Strombus urceus*
 
   ). Tan, Leo W. H. & Ng, Peter K. L., 1988,
@@ -206,9 +204,7 @@ and
 [Spider conch](lambis)
 are listed as 'Vulnerable' on the Red List of threatened animals of Singapore, while the
 [Dark Diana conch](aratrum)
-is listed as 'Critically endangered'. The Spider conch and Black-lipped conch are no longer as common as in the past. They are threatened by habitat degradation, over-collection for food and as souvenirs. Hopefully, our Conch snails don't suffer the same fate as the Queen Conch (
-*Strombus gigas*
-) of the Americas which is now listed on CITES II due to over-harvesting.
+is listed as 'Critically endangered'. The Spider conch and Black-lipped conch are no longer as common as in the past. They are threatened by habitat degradation, over-collection for food and as souvenirs. Hopefully, our Conch snails don't suffer the same fate as the Queen Conch (*Strombus gigas*) of the Americas which is now listed on CITES II due to over-harvesting.
 
 ---
 

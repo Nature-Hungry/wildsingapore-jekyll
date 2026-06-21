@@ -1,6 +1,6 @@
 ---
 title: Lined nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lined nerite snail on the shores of Singapore
 keywords: lined, common, nerita, nerite, articulata, lineata, balteata, neritidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -26,32 +26,31 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg
     caption: Berlayar, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg
     caption: Tuas, May 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/050527srbd3462m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/050527srbd3462m3.jpg
     caption: Pulau Sarimbun, Mar 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/090411lckd9558m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/090411lckd9558m3.jpg
     caption: Lim Chu Kang, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/050327sbwrg3808m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/050327sbwrg3808m3.jpg
     caption: Sungei Buloh, Mar 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/201020swgvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/201020swgvc3.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/260103prpezxh2a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/260103prpezxh2a.jpg
     caption: Pasir Ris Park (E), Jan 26 Photo shared by Zen Xuan He on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/articulata/260103prpezxh2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/260103prpezxh2.jpg
     caption: ''
 links_references: '**Links**
 
   - [Common nerite (
-
   *Nerita lineata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2078)

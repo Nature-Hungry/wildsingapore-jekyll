@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Daisy sponge on the shores of Singapore
 keywords: daisy, sponge, coelocarteria, singaporensis, isodictyidae, coelosphoeridae,
 layout: entry
 shape: branching
@@ -16,33 +16,33 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Poecilosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/080621labd6086m3e.jpg
+coverimg: https://images.naturehungry.sg/porifera/coelocarteria/080621labd6086m3e.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/060227labg5102m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/060227labg5102m3.jpg
     caption: Labrador, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/050112smkd9696m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/050112smkd9696m3.jpg
     caption: Pulau Semakau, Jan 05 Sometimes covered with tiny Spinoid worms .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/110814smkd9042m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/110814smkd9042m3.jpg
     caption: Pulau Semakau, Aug 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/050725labg0266m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/050725labg0266m3.jpg
     caption: Labrador, Jul 05 This is possibly Oceanapia sp. and NOT a Daisy sponge
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/060716sisd4719m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/060716sisd4719m3.jpg
     caption: Sisters Island, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/100629pdrd7600m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/100629pdrd7600m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Fingers sticking up from horizontal stem.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/100530tbkd4340m6l.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/100530tbkd4340m6l.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/100601slud4719m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/100601slud4719m3.jpg
     caption: Pulau Salu, Jun 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/091231biod7121m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/091231biod7121m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/100130brkd8524m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/100130brkd8524m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/100131slud8828m3.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/100131slud8828m3.jpg
     caption: Terumbu Salu, Jan 10
 links_references: '**Links**
 
@@ -116,17 +116,16 @@ This strange sponge is sometimes seen on many of our shores, growing on and amon
 
 15-20cm in diameter. There is usually one or two large hollow cones (to 2cm in diameter), encircled by upright long 'fingers' (up to 15cm tall). These fingers are generally unbranched with flattened or rounded tips, and they don't have any large holes. With some imagination, it does resemble a daisy, doesn't it? There may be creeping buried 'rhizomes' extending along the ground from the sponge with fingers sticking up from these horizontal stems. Colours include bright yellow, brownish, maroon, greenish and black.
 
-Another sponge species of a different family (
-*Oceanapia*
+Another sponge species of a different family (*Oceanapia*
 sp., Family Phloeodictyidae) can look very similar and the two kinds of sponges are difficult to tell apart in the field.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/080621labd6086m3e.jpg)
+![](https://images.naturehungry.sg/porifera/coelocarteria/080621labd6086m3e.jpg)
 
 Creeping 'rhizomes' sometimes
 
 extending from the sponge.
 *Labrador, Jun 08*
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/coelocarteria/080621labd6086m3b.jpg)
+![](https://images.naturehungry.sg/porifera/coelocarteria/080621labd6086m3b.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

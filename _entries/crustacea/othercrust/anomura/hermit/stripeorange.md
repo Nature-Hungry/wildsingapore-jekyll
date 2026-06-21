@@ -1,6 +1,6 @@
 ---
 title: Orange-striped hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange-striped hermit crab on the shores of Singapore
 keywords: orange, striped, hermit, crab, clibanarius, infraspinatus, diogenidae, anomura,
   decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -25,35 +25,35 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
     caption: East Coast Park, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg
     caption: East Coast Park, May 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/201020prpalks2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/201020prpalks2.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/170723ubnjll2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/170723ubnjll2.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/190218cnyrk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/190218cnyrk1.jpg
     caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/251208melks6.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/251208melks6.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/120407lazlks.JPG
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/120407lazlks.JPG
     caption: Seringat-Kias, Apr 12 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/200707hntjt1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/200707hntjt1.jpg
     caption: Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/160208smksjt1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/160208smksjt1.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Juria Toramae on facbook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeorange/110522bbbro1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/110522bbbro1m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
   gallery7:
   - url: https://farm5.staticflickr.com/4152/4982626659_680dc1bac4_z.jpg
@@ -61,7 +61,6 @@ galleries:
 links_references: '**Links**
 
   - [Mangrove hermit crab (
-
   *Clibanarius*
 
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)

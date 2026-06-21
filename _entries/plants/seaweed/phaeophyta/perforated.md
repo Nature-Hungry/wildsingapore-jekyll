@@ -1,6 +1,6 @@
 ---
 title: Perforated brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Perforated brown seaweed on the shores of Singapore
 keywords: perforated, brown, seaweed, weed, hydroclathrus, scytosiphonaceae, phaeophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -21,14 +21,14 @@ class: Phaeophyceae
 subclass: Fucophycidae
 order: Ectocarpales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/120123hntd5401m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/perforated/120123hntd5401m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/120123hntd5401m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/perforated/120123hntd5401m3.jpg
     caption: Pulau Hantu, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -110,7 +110,7 @@ Each clump about 6-10cm. The seaweed is made up of fleshy but narrow strips perf
 
 It is eaten by people as a salad mixed with vegetables or as a spice. It is also used as animal feed, fertiliser and medicine.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg)
 *Pulau Hantu, Mar 10*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

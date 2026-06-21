@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Yellow volcano sponge on the shores of Singapore
 keywords: many, cone, volcano, yellow, sponge, spheciospongia, clionaidae, porifera,
 layout: entry
 shape: ball
@@ -16,40 +16,40 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Clionaida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/120411thntd9374m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/manyconed/120411thntd9374m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/120411thntd9374m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/120411thntd9374m3.jpg
     caption: Terumbu Hantu, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/120411thntd9374m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/120411thntd9374m3a.jpg
     caption: When submerged, produces an 'eruption' of water flow.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/120411thntd9374m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/120411thntd9374m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/110323tsmkd7626m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/110323tsmkd7626m3.jpg
     caption: Terumbu Semakau, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/100518tbbc3811m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/100518tbbc3811m3.jpg
     caption: Beting Bemban Besar, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/101106burs00338m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/101106burs00338m3.jpg
     caption: Terumbu Buran, Nov 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/091205sudd5596m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/091205sudd5596m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/091205pawlks5m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/091205pawlks5m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/091231biod7041m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/091231biod7041m3.jpg
     caption: Pulau Biola, Dec 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/100131slud8829m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/100131slud8829m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/100601slud4728m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/100601slud4728m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/100130brkd8528m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/100130brkd8528m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/100530tbkd4223m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/100530tbkd4223m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/manyconed/100613sngd5516m3.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/100613sngd5516m3.jpg
     caption: Pulau Senang, Jun 10
 links_references: '**Links**
 

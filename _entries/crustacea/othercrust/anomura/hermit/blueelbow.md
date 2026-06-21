@@ -1,6 +1,6 @@
 ---
 title: Blue-elbowed hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-elbowed hermit crab on the shores of Singapore
 keywords: blue, elbow, hermit, crab, paguristes, longirostris, diogenidae, anomura,
   decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -25,24 +25,24 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/blueelbow/090626bblks1m3.JPG
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/100614bbtch1m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/blueelbow/100614bbtch1m3a.jpg
     caption: Beting Bronok, Jun 10 Photo shared by Toh Chay Hoon on her blog .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn1m3.jpg
     caption: Changi, Jul 12 Photo shared by Marcus Ng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn1m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn1m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn2m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/blueelbow/120703chgcp1mn2m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/090526chmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/blueelbow/090526chmn.jpg
     caption: Changi, May 09 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/blueelbow/160607bbik2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/blueelbow/160607bbik2.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Ivan Kwan on facebook .
   gallery4:
   - url: http://farm9.staticflickr.com/8378/8453465066_cc5b5b069d_z.jpg

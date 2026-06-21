@@ -1,6 +1,6 @@
 ---
 title: Black whelk
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black whelk on the shores of Singapore
 keywords: black, whelk, nassarius, pullus, nassariidae, gastropod, mollusc, shell,
   snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info
@@ -25,20 +25,20 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/pullus/060212sisg4813m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/pullus/060212sisg4813m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/pullus/060212sisg4813m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/pullus/060212sisg4813m3.jpg
     caption: Sisters Islands, Feb 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/pullus/060212sisg4808m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/pullus/060212sisg4808m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/pullus/251206chgerk2a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/pullus/251206chgerk2a.jpg
     caption: Changi East (Lost Coast). Dec 25 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/nassariidae/pullus/170820kusmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/pullus/170820kusmn.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

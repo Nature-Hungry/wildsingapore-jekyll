@@ -1,6 +1,6 @@
 ---
 title: Vermilion flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Vermilion flatworm on the shores of Singapore
 keywords: little, ruby, red, flat, worm, flatworm, phrikoceros baibaiye, polyclad,
   turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,44 +17,44 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/100626cyrd7024m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/baibaiye/100626cyrd7024m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/100626cyrd7024m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/100626cyrd7024m3.jpg
     caption: Cyrene Reef, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/050709skdg9312m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/050709skdg9312m3.jpg
     caption: Pulau Sekudu, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/050709skdg9312m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/050709skdg9312m3a.jpg
     caption: Pseudotentacles are squarish, ruffled on the sides, with white tips.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/251107chgmn2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/251107chgmn2.jpg
     caption: Changi Point, Nov 25 Shared by Marcus Ng on facebook.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/101009cjnml1m3b.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/101009cjnml1m3b.jpg
     caption: Chek Jawa, Oct 10 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/140104cjlks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/140104cjlks1m3.JPG
     caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/160209cyrlks3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/160209cyrlks3.JPG
     caption: Cyrene Reef, Feb 16 Photo shared by Lok Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/120819cyrlks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/120819cyrlks1m3.JPG
     caption: Cyrene Reef, Aug 12 Photo shared by Lok Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/180812cyrjt2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/180812cyrjt2.jpg
     caption: Cyrene Reef, Aug 18* Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/180812cyrmn3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/180812cyrmn3.jpg
     caption: Cyrene Reef, Aug 18 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/180812cyray1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/180812cyray1.jpg
     caption: Cyrene Reef, Aug 18 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/200627cyrlks8.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/200627cyrlks8.jpg
     caption: Cyrene Reef, Jun 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/200918cyrjll3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/200918cyrjll3.jpg
     caption: Cyrene Reef, Sep 20 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/110814smklks8m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/110814smklks8m3.jpg
     caption: Pulau Semakau, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/baibaiye/100813smknml1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/100813smknml1m3.jpg
     caption: Pulau Semakau, Aug 10 Photo shared by Neo Mei Lin on her blog .
   gallery8:
   - url: https://farm5.staticflickr.com/4117/4889540764_a091ca0882.jpg

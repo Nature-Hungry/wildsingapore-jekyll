@@ -1,6 +1,6 @@
 ---
 title: Birds' nest fern
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Birds' nest fern on the shores of Singapore
 keywords: birds, nest, fern, asplenium, nidus, aspleniaceae, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,14 +24,14 @@ suborder: Aspleniinae
 section: Thamnopteris
 inat_id: 84356
 updated: Aug 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/090613admd4177m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/asplenium/nidus/090613admd4177m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/090905sbwrd0142m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/asplenium/nidus/090905sbwrd0142m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/090613admd4178m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/asplenium/nidus/090613admd4178m3.jpg
     caption: Admiralty Park, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/091213ubnd5814m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/asplenium/nidus/091213ubnd5814m3.jpg
     caption: Pulau Ubin, Dec 09
 size:
 - 50.0
@@ -61,7 +61,7 @@ may roost under the fern, chewing off some of the inner portions of the 'skirt' 
 
 According to Wee, the leaves are used to ease labour pains by a tribe in Malaysia. The Malays use the leaves for a lotion to treat fever.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/asplenium/nidus/090613admd4177m6l.jpg)
+![](https://images.naturehungry.sg/plants/others/asplenium/nidus/090613admd4177m6l.jpg)
 
 Growing on a mangrove tree.
 

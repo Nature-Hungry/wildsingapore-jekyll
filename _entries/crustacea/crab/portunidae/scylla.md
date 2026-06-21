@@ -1,6 +1,6 @@
 ---
 title: Mud crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mud crab on the shores of Singapore
 keywords: mud, crab, scylla, crustacea, portunidae, decapod, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -31,43 +31,42 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Necronectinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/090110cjd4818m3.jpg
     caption: Chek Jawa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/090110cjd4818m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/090110cjd4818m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/090110cjd4836m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/090110cjd4836m3.jpg
     caption: It is better known as Chilli crab!
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg
     caption: Changi, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/101013tmftd2410m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/101013tmftd2410m3.jpg
     caption: Tanah Merah, Oct 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/111128sntd4168m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/111128sntd4168m3.jpg
     caption: Sentosa, Nov 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/201020swgvc7.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/201020swgvc7.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/120604pgllks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/120604pgllks.JPG
     caption: Punggol, Jun 12 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/081107prplks01m3.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/081107prplks01m3.JPG
     caption: Pasir Ris Park, Nov 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/140613skdmn1m6l.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/140613skdmn1m6l.jpg
     caption: Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/100528tkkgl1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/100528tkkgl1m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared byGeraldin Lee on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/081227smkmc01m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/081227smkmc01m3.jpg
     caption: Pulau Semakau, Dec 08 Photo shared by Marcus Ng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/091204pawd0064m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/091204pawd0064m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 
   - [Mud Crab (
-
   *Scylla serrata*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/203)
@@ -86,7 +85,6 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
   - [Mud Crabs (
-
   *Scylla*
 
   sp)](http://mangrove.nus.edu.sg/guidebooks/text/2044)
@@ -98,7 +96,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Orange mud crab (
-
   *Scylla olivacea*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1082&menuentry=soorten)
@@ -110,7 +107,6 @@ links_references: '**Links**
   and
 
   [Mangrove crab (
-
   *Scylla serrata*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1084&menuentry=soorten)
@@ -187,22 +183,14 @@ Body width to about 20cm. Body somewhat fan-shaped with 9 spines on the sides bu
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 There are three species of mud crabs found in Singapore.
 
-The Green mud crab (
-*S. paramamosain*
-): body width to about 15cm with orange and green pincers and very sharp teeth between the eyes.
+The Green mud crab (*S. paramamosain*): body width to about 15cm with orange and green pincers and very sharp teeth between the eyes.
 
 The
-Orange mud crab (
-*S. olivacea*
-): body width to about 18cm with orange pincers.
+Orange mud crab (*S. olivacea*): body width to about 18cm with orange pincers.
 
-The Purple mud crab (
-*S. tanquebarica*
-): body width to about 20cm with distinct purple pincers.
+The Purple mud crab (*S. tanquebarica*): body width to about 20cm with distinct purple pincers.
 
-The Mud crab we often eat at restaurants are actually from the Giant mud crab (
-*Scylla serrata*
-) which can grow to about 28cm. These come from Sri Lanka (thus sometimes also called the Sri Lankan crab). This crab is not found in Singapore.
+The Mud crab we often eat at restaurants are actually from the Giant mud crab (*Scylla serrata*) which can grow to about 28cm. These come from Sri Lanka (thus sometimes also called the Sri Lankan crab). This crab is not found in Singapore.
 
 **What does it eat?**
 This crab is a predator and will eat any animal that it can catch. It appears to prefer snails and clams.

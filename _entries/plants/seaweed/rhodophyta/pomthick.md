@@ -1,6 +1,6 @@
 ---
 title: 'Thick   crunchy pom-pom red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Thick   crunchy pom-pom red seaweed  on the shores of Singapore
 keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,26 +23,26 @@ subclass: Nemaliophycidae
 order: Nemaliales
 suborder: Galaxaurineae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
     caption: Cyrene Reef, Oct 07 Rings around the 'stem', tips rounded with dark spot.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/080608cyrd5365m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/080608cyrd5365m3.jpg
     caption: Cyrene Reef, Jun 07 Darker pink dot the tips of the 'stems'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/110220lazd6301m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/110220lazd6301m3.jpg
     caption: Lazarus Island, Feb 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/100810sngd9933m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/100810sngd9933m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/091231biod7036m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/091231biod7036m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/100130brkd8504m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/100130brkd8504m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/210501tbvc9.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/210501tbvc9.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/091204pawd5391m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/091204pawd5391m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 

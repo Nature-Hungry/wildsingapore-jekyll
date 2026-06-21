@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black bath sponge on the shores of Singapore
 keywords: black, bath, sponge, spongia, hippospongia, spongiidae, porifera, field,
 layout: entry
 shape: ball
@@ -16,21 +16,21 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100812tpld0275m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/blackbath/100812tpld0275m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/120123hntd5371m3.jpg
+  - url: https://images.naturehungry.sg/porifera/blackbath/120123hntd5371m3.jpg
     caption: Pulau Hantu, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/120123hntd5373m3.jpg
+  - url: https://images.naturehungry.sg/porifera/blackbath/120123hntd5373m3.jpg
     caption: Sponge finger oysters embedded in the sponge.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100502tryd2247m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/blackbath/100502tryd2247m3a.jpg
     caption: Spionid sponge worms on the surface.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/091204pawd5212m3.jpg
+  - url: https://images.naturehungry.sg/porifera/blackbath/091204pawd5212m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/091205sudd5487m3.jpg
+  - url: https://images.naturehungry.sg/porifera/blackbath/091205sudd5487m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/091205sudd5487m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/blackbath/091205sudd5487m3a.jpg
     caption: Sponge finger oysters embedded in the sponge.
 links_references: '**Links**
 
@@ -97,8 +97,7 @@ The
 **Sponging clams:**
 Some Spongia species are inhabited by
 [Sponge finger oysters](../mollusca/bivalvia/pteriidae/vulsella)
-(
-*Vulsella*
+(*Vulsella*
 sp.), a kind of clam that lives only in sponges. These are completely and deeply embedded in the sponge, with only a slit on the surface of the sponge where the bivalve's shell opening is.
 
 Members of the Family Spongiidaes have a skeleton made up of tough, elastic fibres made of a protein called spongin. They lack the framework of spicules (tiny, hard, sharp spikes) throughout their body.
@@ -106,9 +105,7 @@ Members of the Family Spongiidaes have a skeleton made up of tough, elastic fibr
 **Sometimes confused with**
 the
 [Black prickly sponge](blackprickly)
-(
-*Echinodictyum conulosum*
-) which has a very prickly surface.
+(*Echinodictyum conulosum*) which has a very prickly surface.
 
 ## Human uses
 
@@ -116,12 +113,12 @@ Today, the sponges you use at home are synthetic and not made from living sponge
 *Spongia officinalis*
 that is found in the Mediterranean Sea. Other species of the Family Spongiidae may also be used for this purpose as these sponges produce only spongin skeletons and do not have lots of sharp, poky spicules like most other sponges. To make a bath sponge, the living sponge is harvested, killed and processed to remove all the soft portions, leaving behind the skeleton. The spongin itself cannot absorb water, it is the structure of the skeleton that can absorb a huge amount of water, which can be easily released when the skeleton is squeezed.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100812tpld0275m3.jpg)
+![](https://images.naturehungry.sg/porifera/blackbath/100812tpld0275m3.jpg)
 
 *Terumbu Pempang Laut, Aug 10*
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100812tpld0275m3a.jpg)
+![](https://images.naturehungry.sg/porifera/blackbath/100812tpld0275m3a.jpg)
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/blackbath/100502tryd2247m3.jpg)
+![](https://images.naturehungry.sg/porifera/blackbath/100502tryd2247m3.jpg)
 
 *Terumbu Raya, May 10*
 

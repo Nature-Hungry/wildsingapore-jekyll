@@ -1,6 +1,6 @@
 ---
 title: Stingrays
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stingrays on the shores of Singapore
 keywords: sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,42 +18,42 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
     caption: Swimming. Pulau Sekudu, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
     caption: Underside. Pulau Sekudu, May 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
     caption: St. John's Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
     caption: Spine near the end of the tail.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg
     caption: Hard to spot under rippling water. Terumbu Raya, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg
     caption: May be half buried in sand. Sisters Island, Jul 07
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg
     caption: '''Craters'' left behind by feeding stingrays? Chek Jawa, May 02'
-  - url: https://f003.backblazeb2.com/file/naturehungry/selachii/selachii/080524sntd4108m3.jpg
+  - url: https://images.naturehungry.sg/selachii/selachii/080524sntd4108m3.jpg
     caption: An egg case laid by a shark or a ray. Sentosa, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
     caption: Often seen trapped in fishing nets. Changi, Jul 11
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
     caption: Blue-spotted fantail ray
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
     caption: Mangrove whipray
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
     caption: Blue-spotted stingray
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
     caption: Honeycomb whipray
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/dasyatidae/220618tmftlks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/220618tmftlks2.jpg
     caption: Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry Terminal,
       Jun 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
@@ -256,9 +256,7 @@ Stingrays practice internal fertilisation. Males have a pair of claspers near th
 ****
 Stingrays are a popular seafood dish in Singapore. The large pectoral fins are barbequed and served with chilli, often on a banana leaf. You can see their cartilageous bones as you eat the flesh. The
 [Blue-spotted fantail ray](lymma)
-(
-*Taeniura lymma*
-) is also popular in the live aquarium trade although it does not do well in captivity. Stingrays are often seen among the fishes trapped in abandoned fishing nets and traps on our shores.
+(*Taeniura lymma*) is also popular in the live aquarium trade although it does not do well in captivity. Stingrays are often seen among the fishes trapped in abandoned fishing nets and traps on our shores.
 
 ---
 

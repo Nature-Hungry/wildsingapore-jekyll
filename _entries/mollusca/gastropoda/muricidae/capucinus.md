@@ -1,6 +1,6 @@
 ---
 title: Mangrove murex
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove murex on the shores of Singapore
 keywords: mangrove, drill, chicoreus, capucinus, muricidae, gastropod, mollusc, snail,
   shell,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,30 +19,28 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
     caption: Pasir Ris Park, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg
     caption: Pasir Ris Park, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg
     caption: Sungei Buloh, Mar 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
     caption: Kranji Nature Trail, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg
     caption: Egg capsules?
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
     caption: Feeding on Little black mussels ? Lim Chu Kang, Aug 05
 links_references: '**Links**
 
   - [Drill (
-
   *Thais gradata*
 
   ) and Ketem (
-
   *Chicoreus capucinus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2085)
@@ -54,7 +52,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Mangrove Murex (
-
   *Chicoreus capucinus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/146)

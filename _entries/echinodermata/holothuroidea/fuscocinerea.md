@@ -1,6 +1,6 @@
 ---
 title: Ashy pink sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ashy pink sea cucumber on the shores of Singapore
 keywords: cucumber, seacucumber, holothuria, fuscocinerea, holothuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -27,61 +27,61 @@ subclass: Actinopoda
 order: Holothuriida
 subgenus: Stauropora
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg
     caption: When disturbed, releases Cuvierian tubules. Beting Bemban Besar, Jun
       09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3d.jpg
     caption: Tiny spikes on white circles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3e.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3e.jpg
     caption: Dark blotchy bars on upperside.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3f.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3f.jpg
     caption: Anus ringed with dark brown.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/090625bsrd5376m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/090625bsrd5376m3.jpg
     caption: Underside flat and pale.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/090625bsrd5376m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/090625bsrd5376m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/091010tmjk8m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/091010tmjk8m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/091010tmjk9m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/091010tmjk9m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/150618tmftlks17m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/150618tmftlks17m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/200311blylks8.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/200311blylks8.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/100517jngjk3m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/100517jngjk3m6l.jpg
     caption: Pulau Jong, May 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/100911lsismn.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/100911lsismn.jpg
     caption: Small Sisters Island, Sep 10 Photo shared by Marcus Ng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/140809hntlks1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/140809hntlks1m3.jpg
     caption: Pulau Hantu, Aug 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/140809hntlks2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/140809hntlks2m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/210429hntjll2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/210429hntjll2.jpg
     caption: Pulau Hantu, Apr 21 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/240310tplvc4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/240310tplvc4.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/150718smkelks1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/150718smkelks1m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by James Koh on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/200625tbdc3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/200625tbdc3.jpg
     caption: Terumbu Bemban, Jun 20 Photo shared by Dayna Cheah on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/251008bbbyls5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/251008bbbyls5.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Yan Le Su on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/100615snglks1m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/100615snglks1m6l.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/fuscocinerea/091204pawjk4m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/091204pawjk4m6l.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
 links_references: '**Links**
 

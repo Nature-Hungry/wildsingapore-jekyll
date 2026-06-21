@@ -1,6 +1,6 @@
 ---
 title: 'Reticulated tailed-slug '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Reticulated tailed-slug  on the shores of Singapore
 keywords: tailed, slug, philinopsis, reticulata, aglajidae, cephalaspidea, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -20,16 +20,16 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
     caption: Cyrene Reef, Mar 11
   gallery2:
   - url: https://live.staticflickr.com/1691/24291371114_e18ab08f2a_z.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/cephalaspidea/reticulata/160209cyrlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/reticulata/160209cyrlks.JPG
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

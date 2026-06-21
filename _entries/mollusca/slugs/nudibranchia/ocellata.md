@@ -1,6 +1,6 @@
 ---
 title: Eyed phyllid nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eyed phyllid nudibranch on the shores of Singapore
 keywords: eyed, phyllid, phyllidiella, phyllidia, ocellata, phyllidiidae, nudibranch,
   slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -28,20 +28,20 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
     caption: Pulau Jong, Aug 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/060813jngd6240m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ocellata/060813jngd6240m3.jpg
     caption: Pulau Jong, Aug 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1.jpg
     caption: Beting Bemban Besar, Mar 2020 Photo shared by Jesselyn Chua on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg
     caption: ''
 links_references: '**Links**
 

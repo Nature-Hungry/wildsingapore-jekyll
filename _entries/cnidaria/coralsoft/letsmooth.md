@@ -1,6 +1,6 @@
 ---
 title: Smooth leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth leathery soft coral on the shores of Singapore
 keywords: sinularia, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,28 +17,28 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg
     caption: Pulau Semakau, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg
     caption: Sentosa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/110802smkd8307m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/110802smkd8307m3.jpg
     caption: Pulau Semakau, Aug 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/100130brkd8597m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/100130brkd8597m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/100130brkd8598m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/100130brkd8598m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/100130brkd8600m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/100130brkd8600m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/091205sudd5575m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/091205sudd5575m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/091205sudd5578m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/091205sudd5578m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letsmooth/100601slud4730m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/100601slud4730m3.jpg
     caption: Pulau Salu, Jun 10
 links_references: '**Links**
 
@@ -130,8 +130,7 @@ The surface of the common leathery tissue is usually smooth as there are only au
 
 **Sometimes confused with**
 [Pimply leathery soft coral](letpimply)
-(
-*Lobophytum*
+(*Lobophytum*
 sp.) which have siphonozooids and thus has a pimply common tissue.
 
 **Status and threats:**

@@ -1,6 +1,6 @@
 ---
 title: Small parasol green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Small parasol green seaweed on the shores of Singapore
 keywords: small, parasol, seaweed, weed, green, caulerpa, racemosa, peltata, caulerpaceae,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -20,17 +20,17 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3.jpg
     caption: Pulau Jong, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3.jpg
     caption: Sentosa, Jun 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/160806tplmn5.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/160806tplmn5.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 
@@ -119,19 +119,17 @@ This green seaweed with tiny fleshy 'umbrellas' is sometimes seen on our Souther
 
 Forms structures that look like tiny fleshy umbrellas; with a thick circular portion (about 0.5-1cm across) on a little stalk. These little umbrellas emerge along the length of a 'horizontal root' that creeps over the surface. Various shades of green to bluish-green. This is probably a variety of
 [Oval sea grapes](racemosa)
-(
-*Caulerpa racemosa*
-).
+(*Caulerpa racemosa*).
 
 **Sometimes confused with**
 similar green seaweeds. Here's more on
 [how to tell apart some green seaweeds](cfgrapes)
 .
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg)
 
 *Sisters Island, Aug 07*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3a.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

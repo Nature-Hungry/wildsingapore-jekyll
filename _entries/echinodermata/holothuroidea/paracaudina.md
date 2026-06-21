@@ -1,6 +1,6 @@
 ---
 title: See-through sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of See-through sea cucumber on the shores of Singapore
 keywords: transparent, sea-through, cucumber, seacucumber, paracaudina, australis,
   caudinidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -26,25 +26,25 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Molpadida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg
     caption: Chek Jawa, Sep 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/paracaudina/030928cjd0009m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/paracaudina/030928cjd0009m3a.jpg
     caption: Short stubby feeding tentacles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/paracaudina/030928cjd0009m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/paracaudina/030928cjd0009m3b.jpg
     caption: Internal organs sometimes can be seen.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/paracaudina/090113prplks1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/paracaudina/090113prplks1m3.jpg
     caption: Pasir Ris Park, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/paracaudina/090113prplks2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/paracaudina/090113prplks2m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/paracaudina/251107chgmn4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/paracaudina/251107chgmn4.jpg
     caption: Changi Point, Nov 25 Shared by Marcus Ng on facebook.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/paracaudina/221226ecpgky1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/paracaudina/221226ecpgky1.jpg
     caption: East Coast (G), Dec 2022 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 

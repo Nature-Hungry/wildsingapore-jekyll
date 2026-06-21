@@ -1,6 +1,6 @@
 ---
 title: Brain anchor coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brain anchor coral on the shores of Singapore
 keywords: brain, anchor, euphyllia, ancora, euphylliidae, caryophyliidae, coral, hard,
   scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -17,40 +17,40 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
     caption: Terumbu Raya, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3b.jpg
     caption: Tentacles with U-shaped tips
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
     caption: Brain-like meandering valleys. Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3a.jpg
     caption: Wide, deep gaps between corallite walls.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/150606tryo6060262m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/150606tryo6060262m3.jpg
     caption: Fanworms in a living colony. Terumbu Raya, Jun 15
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3.jpg
     caption: Kusu Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3.jpg
     caption: Terumbu Raya, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7819m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7819m3.jpg
     caption: Terumbu Semakau, Mar 11
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3.jpg
     caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3.jpg
     caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his blog
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/120721tptlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/120721tptlks.JPG
     caption: Terumbu Pempang Laut, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/ancora/120411thntsy3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/120411thntsy3m3.jpg
     caption: Terumbu Hantu, Apr 12 Photo shared by Sam Yeo on facebook
 links_references: '**Links**
 

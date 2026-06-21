@@ -1,11 +1,11 @@
 ---
 title: 'Painted sand stars (Astropecten) '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Painted sand stars (Astropecten)  on the shores of Singapore
 keywords: sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
@@ -18,7 +18,7 @@ zone:
   
 galleries:
   gallery1:
-    - url: "https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg"
+    - url: "https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg"
       caption: "East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog ."
 ---
 

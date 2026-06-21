@@ -1,6 +1,6 @@
 ---
 title: Blue-striped hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-striped hermit crab on the shores of Singapore
 keywords: blue, striped, hermit, crab, clibanarius, longitarsus, diogenidae, anomura,
   decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -25,67 +25,67 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3.jpg
     caption: Tanah Merah, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8889m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8889m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/110418tmftd8891m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/090114labd5313m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/090114labd5313m3.jpg
     caption: Berlayar Creek, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/190321sjimn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/190321sjimn1.jpg
     caption: St John's Island, Mar 19 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/121213chglks.JPG
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/121213chglks.JPG
     caption: Changi, Dec 12 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/090808prplks.JPG
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/090808prplks.JPG
     caption: Pasir Ris, Aug 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/190206prpvc2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/190206prpvc2.jpg
     caption: Pasir Ris, Feb 19 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/251229prprqo5.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/251229prprqo5.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/241216cjmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/241216cjmn2.jpg
     caption: Chek Jawa, Dec 2024 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/190219cnyrk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/190219cnyrk1.jpg
     caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/160507cjjt1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/160507cjjt1.jpg
     caption: Chek Jawa, May 16 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/160110cjmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/160110cjmn.jpg
     caption: Chek Jawa, Jan 16 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/191214cjjt2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/191214cjjt2.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Juria Toramae on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/160125obsmn13.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/160125obsmn13.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/160125obsmn3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/160125obsmn3.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/260103merqo2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/260103merqo2.jpg
     caption: Marina East, Jan 26 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/260218merqo1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/260218merqo1.jpg
     caption: Marina East, Feb 26 Photo shared by Rui Quan Oh on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/251010blytl3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/251010blytl3.jpg
     caption: Berlayar Creek, Oct 25 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/260104trmyls5.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/260104trmyls5.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/260104trmyls5a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/260104trmyls5a.jpg
     caption: ''
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/100404lazjk.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/100404lazjk.jpg
     caption: Seringat-Kias, Apr 10 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/240212sjivc7.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/240212sjivc7.jpg
     caption: St John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/251009sjial3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/251009sjial3.jpg
     caption: St John's Island, Oct 25 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/stripeblue/251009sjial4.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/251009sjial4.jpg
     caption: St John's Island, Oct 25 Photo shared by Adriane Lee on facebook .
 links_references: '**Links**
 

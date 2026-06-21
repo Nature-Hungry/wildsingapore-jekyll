@@ -1,6 +1,6 @@
 ---
 title: Lemon sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lemon sea fan on the shores of Singapore
 keywords: seafan, fan, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -12,31 +12,31 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/130722skdd9718m6l.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/130722skdd9718m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/130722skdd9718m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/130722skdd9718m6l.jpg
     caption: Pulau Sekudu, Jul 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/130722skdd9727m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/130722skdd9727m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/150802bbd8862.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/150802bbd8862.jpg
     caption: Beting Bronok, Aug 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/150802bbd8863m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/150802bbd8863m3.jpg
     caption: Polyps fully retracted into the stem.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/150802bbd8863m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/150802bbd8863m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg
     caption: Changi- Loyang, Aug 16
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/160804lygd6866m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/160804lygd6866m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/160804lygd6871m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/160804lygd6871m3a.jpg
     caption: Some polyps fully retracted into the stem.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/200722lyglks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/200722lyglks1.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/lemon/240706ubnlks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/240706ubnlks5.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
 location:
 - ubn

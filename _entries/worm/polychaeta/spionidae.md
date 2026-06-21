@@ -1,6 +1,6 @@
 ---
 title: Spinoid worms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spinoid worms on the shores of Singapore
 keywords: tube, worm, spionid, spionidae, polychaete, annelid, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,24 +18,24 @@ infraclass: Canalipalpata
 order: Spionida
 suborder: Spioniformia
 updated: Sep 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/110731tryd8033m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/spionidae/110731tryd8033m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/110731tryd8033m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spionidae/110731tryd8033m3.jpg
     caption: On Chocolate sponge . Terumbu Raya, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/110731tryd8034m3b.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spionidae/110731tryd8034m3b.jpg
     caption: Tiny short pale tentacles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/120124sisd5948m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spionidae/120124sisd5948m3a.jpg
     caption: On Daisy sponges . Sisters Island, Jan 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/sprawlorange/081212cyrd2927m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/081212cyrd2927m3a.jpg
     caption: On Orange sprawling sponge . Cyrene Reef, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/100530tbkd4320m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spionidae/100530tbkd4320m3a.jpg
     caption: On Smooth brown sponge . Terumbu Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/xestospongia/040803tusd3969m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/xestospongia/040803tusd3969m3a.jpg
     caption: On Barrel sponges . Tuas, Aug 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/190706skdro2.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spionidae/190706skdro2.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Rene Ong on facebook ..
 links_references: '**Links**
 
@@ -81,8 +81,7 @@ Tiny ones that form tubes are sometimes seen encrusting sponges and other immobi
 Spionids are generally small slender active worms. They have tentacles (palps) on the head that are used for feeding. Some may feed by gathering particles that deposit on the surface using a pair of long feeding palps that is grooved with tiny hairs (cilia) that transport the particles along the palps to the mouth. The palps may also be used to gather plankton and particles suspended in the water. Other spionid worms burrow in the sand. Spionoid worms may live in tubes made of sand or wander freely.
 
 **Spionid sponge worms**
-(
-*Polydorella*
+(*Polydorella*
 sp.)* can be common but are often overlooked. About 0.5cm long. Tiny short beige tubes.
 Often found in large numbers, encrusting a surface spacing themselves out regularly, at a distance equalling the length of their tentacles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

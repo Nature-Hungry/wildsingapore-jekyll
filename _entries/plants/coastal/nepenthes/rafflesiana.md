@@ -1,6 +1,6 @@
 ---
 title: Raffles' pitcher plant
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Raffles' pitcher plant on the shores of Singapore
 keywords: pitcher, pitcherplant, nepenthes, rafflesiana, nepenthaceae, climber, plant,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,7 +21,7 @@ class: Magnoliopsida
 order: Caryophyllales
 inat_id: 123555
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg
 links_references: '**Links**
 
   - [*Nepenthes rafflesiana*](http://uforest.org/Species/N/Nepenthes_rafflesiana.html)on
@@ -61,11 +61,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3e.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3e.jpg
     caption: Female flowers. Sentosa, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/101223sntd3927m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/nepenthes/rafflesiana/101223sntd3927m6l.jpg
     caption: Male flowers. Sentosa, Dec 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3.jpg
     caption: Ripe capsules split, releasing thread-like seeds.. St John's Island,
       Aug 09
 size:
@@ -96,13 +96,9 @@ Fruits reddish capsules which split open explosively releasing thread-like seeds
 The pitchers are modified leaves, each with a tiny lid. Nectar is secreted by glands under the lid or at the lip of the pitcher, which are colourful too. These attract insects. The pitcher's lip is smooth and inner surface covered with loose scales of wax that clog up the feet of insects. Thus a small misstep causes the hapless insect to slide into the fluid in the pitcher, where it eventually drowns. The resulting nutrients in the fluid are absorbed by the plant.
 
 **Pit of Life:**
-Despite the treacherous nature of the pitcher, the Nepenthes Crab Spider (
-*Misumenops nepenthicola*
-) lays its eggs on the inside of the pitcher walls, and ambushes insect prey that approach the pitchers. According to Butterfly Circle, the tiny butterfly
+Despite the treacherous nature of the pitcher, the Nepenthes Crab Spider (*Misumenops nepenthicola*) lays its eggs on the inside of the pitcher walls, and ambushes insect prey that approach the pitchers. According to Butterfly Circle, the tiny butterfly
 [Pitcher Blue](http://butterflycircle.blogspot.sg/2010/03/life-history-of-pitcher-blue.html)
-(
-*Virachola kessuma deliochus*
-) lays its eggs on a maturing seedpod and the developing caterpillars bore into the pod and devour the developing seeds, moving onto another pod as it grows, finally pupating in yet another pod or even inside a pitcher.
+(*Virachola kessuma deliochus*) lays its eggs on a maturing seedpod and the developing caterpillars bore into the pod and devour the developing seeds, moving onto another pod as it grows, finally pupating in yet another pod or even inside a pitcher.
 
 ## Human uses
 
@@ -111,10 +107,10 @@ According to Burkill, the tough stems of pitcher plants (species not specified) 
 **Status and threats:**
 The plant is listed as 'Vulnerable' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg)
 
 *Sentosa, Jun 09*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/nepenthes/rafflesiana/090809sjid8810m6l.jpg)*
+*![](https://images.naturehungry.sg/plants/coastal/nepenthes/rafflesiana/090809sjid8810m6l.jpg)*
 Leaf modified into a pitcher.
 *Sentosa, Aug 09*
 **

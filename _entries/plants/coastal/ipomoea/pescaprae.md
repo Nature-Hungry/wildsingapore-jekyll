@@ -1,6 +1,6 @@
 ---
 title: Beach morning glory
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Beach morning glory on the shores of Singapore
 keywords: morning, glory, ipomoea, pescaprae, convolvulaceae, creeper, plant, bush,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,7 +23,7 @@ subfamily: Convolvuloideae
 tribe: Ipomoeeae
 inat_id: 60879
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
 links_references: '**Links**
 
   - *[Ipomoea pescaprae](http://floraofsingapore.wordpress.com/2010/08/22/ipomoea-pes-caprae/)*on
@@ -69,11 +69,11 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090405smkd8945m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/ipomoea/pescaprae/090405smkd8945m3b.jpg
     caption: Lobed leaf may resemble a hoof print. Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/100117chgec0527m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/ipomoea/pescaprae/100117chgec0527m3.jpg
     caption: Opened fruit capsules. Changi, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5717m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/ipomoea/pescaprae/090118smkd5717m3.jpg
     caption: Fruit capsule. Pulau Semakau, Jan 09
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -84,11 +84,7 @@ habitats:
 ---
 
 ## Where seen?
-With fresh green leaves and bright purple flowers, this creeper is sometimes seen growing wild on our sandy beaches, at the highest water mark. This plant is found on tropical shores everywhere including throughout Southeast Asia. It belongs to the Family Convolvulaceae which includes the more commonly seen terrestrial morning glory, as well as our favourite vegetable Kang kong (
-*Ipomoea reptans*
-) and sweet potato or Keladi (
-*Ipomoea batatas*
-).
+With fresh green leaves and bright purple flowers, this creeper is sometimes seen growing wild on our sandy beaches, at the highest water mark. This plant is found on tropical shores everywhere including throughout Southeast Asia. It belongs to the Family Convolvulaceae which includes the more commonly seen terrestrial morning glory, as well as our favourite vegetable Kang kong (*Ipomoea reptans*) and sweet potato or Keladi (*Ipomoea batatas*).
 
 ## Features
 
@@ -109,15 +105,15 @@ According to Polunin, is the most important coloniser of many tropical beaches a
 
 According to Wee, the juice squeezed from the plant is used in Malaysia to treat fish stings. The leaves are used in Indonesia to hasten the bursting of boils; sap from the young leaves are boiled in coconut juice and used to treat sores and ulcers; and the seeds chewed with areca nut, soothe abdominal pains and cramps. In the Philippines, the boiled leaves are used to treat rheumatism. While Polunin records its use as a purgative in Malay medicine. Burkill includes the use of boiled tubers to relieve bladder problems as they have a diuretic effect. According to Burkill, animals will eat the leaves but they will taint the milk of cows. The leaves are also fed to pigs.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg)
 
 *Pulau Semakau, Jan 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090405smkd8943m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/ipomoea/pescaprae/090405smkd8943m3.jpg)
 
 Pulau Semakau, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/ipomoea/pescaprae/090405smkd8945m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/ipomoea/pescaprae/090405smkd8945m3.jpg)
 
 Pulau Semakau, Apr 09*
 

@@ -1,6 +1,6 @@
 ---
 title: Banded archerfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Banded archerfish on the shores of Singapore
 keywords: banded, acherfish, archer, fish, toxotidae, toxotes, jaculatrix, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,25 +24,24 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/090510sntik4m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/090510sntik4m3.jpg
     caption: Sentosa Siloso, May 09 Photo shared by Ivan Kwan on his blog
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg
     caption: Juvenile. Kusu Island, Aug 17 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/jaculatrix/251207hntlks7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/251207hntlks7.jpg
     caption: Juvenile. Pulau Hantu, Dec 25 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**
 
   - [Banded Archerfish (
-
   *Toxotes jaculatrix*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324)
@@ -54,7 +53,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Archerfish (
-
   *Toxotes jaculatrix*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2105)
@@ -72,7 +70,6 @@ links_references: '**Links**
   from EcologyAsia .
 
   - [Banded Archerfish (
-
   *Toxotes jaculatrix*
 
   )](http://fishbase.org/summary/8229)
@@ -84,7 +81,6 @@ links_references: '**Links**
   : Technical fact sheet.
 
   - [Banded Archerfish (
-
   *Toxotes jaculatrix*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/tjaculat)

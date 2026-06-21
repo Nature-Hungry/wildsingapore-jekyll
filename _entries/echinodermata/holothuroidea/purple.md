@@ -1,6 +1,6 @@
 ---
 title: Purple sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Purple sea cucumber on the shores of Singapore
 keywords: cucumber, seacucumber,  cucumarid, holothuroidea, echinoderm, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -25,49 +25,49 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg
     caption: Changi, Dec 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/031226chgd0061m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/031226chgd0061m3.jpg
     caption: Tube feet long, thin.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/050820bbg1695m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/050820bbg1695m3a.jpg
     caption: Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/030105cjd7001m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/030105cjd7001m3.jpg
     caption: Chek Jawa, Jan 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/050624tusd4210m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/050624tusd4210m3.jpg
     caption: Tuas, Jun 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/091203ubnjk5m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/091203ubnjk5m3.jpg
     caption: Pulau Ubin, Dec 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/200723bblks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/200723bblks2.jpg
     caption: Beting Bronok, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/251208melks4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/251208melks4.jpg
     caption: Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/080507ecplks05m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/080507ecplks05m3.jpg
     caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/200210blylks3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/200210blylks3.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/110704srplks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/110704srplks.JPG
     caption: Sentosa Serapong, Jul 11 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/090510sntik10m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/090510sntik10m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/130531tkkmn.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/130531tkkmn.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Marcus Ng on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/100626cyrlks3m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/100626cyrlks3m6l.jpg
     caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/110508cyrlks12m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/110508cyrlks12m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/131006smklks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/131006smklks.JPG
     caption: Pulau Semakau, Oct 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/purple/100502trylks11m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/purple/100502trylks11m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr .
 location:
 - pgl

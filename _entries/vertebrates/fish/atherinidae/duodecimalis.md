@@ -1,6 +1,6 @@
 ---
 title: Silversides
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Silversides on the shores of Singapore
 keywords: tropical, silverside, atherinomorus, duodecimalis, atherinidae, fish, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -22,38 +22,37 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Atheriniformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
     caption: Pulau Semakau, Aug 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/111213tmftd4612m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/111213tmftd4612m6l.jpg
     caption: Tanah Merah, Dec 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/100124cjd7926m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/100124cjd7926m6l.jpg
     caption: Sometimes large schools are seen. Chek Jawa, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/100124cjd7927m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/100124cjd7927m3.jpg
     caption: The school, seen from the boardwalk. Chek Jawa, Jan 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/090822sisd9645m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/090822sisd9645m3a.jpg
     caption: Other fishes prey on them. Sisters Island, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/120607kusd4706.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/120607kusd4706.jpg
     caption: Carpet anemones are among their predators. Kusu Island, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/100912kusjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/100912kusjk.jpg
     caption: Swimming crabs also eat them. Kusu Island, Sep 10 Photo shared by James
       Koh on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/200706skdmn2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/200706skdmn2.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/140713tsmkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/140713tsmkmn.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
   - [Tropical Silverside (
-
   *Atherinomorus duodecimalis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/234)
@@ -65,7 +64,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Tropical Silverside (
-
   *Atherinomorus duodecimalis)*](http://mangrove.nus.edu.sg/guidebooks/text/2103)
 
   Ng, Peter K. L. & N. Sivasothi, 1999.
@@ -79,7 +77,6 @@ links_references: '**Links**
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
 
   - [Tropical Silverside (
-
   *Atherinomorus duodecimalis*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=1302)
@@ -200,9 +197,7 @@ Silversides belong to Family Atherinidae. According to
 3-10cm long. These indeed silvery fishes are small, slender and streamlined, with large eyes and relatively large scales. They have small mouths that are upturned toward the water surface. They have two widely separated dorsal fins. They usually have a distinct darker band along the middle of the body from head to tail. Often seen in groups, sometimes in large schools. They are also called hardyheads.
 
 **Tropical silversides**
-(
-*Atherinomorus duodecimalis*
-): Those seen 3-6cm long, grows to about 10cm. Streamlined torpedo-shaped with large eyes. Colours silvery grey, bluish to bright blue. Usually with a narrow silvery line along the length of the side of the body.
+(*Atherinomorus duodecimalis*): Those seen 3-6cm long, grows to about 10cm. Streamlined torpedo-shaped with large eyes. Colours silvery grey, bluish to bright blue. Usually with a narrow silvery line along the length of the side of the body.
 
 **Sometimes confused with**
 other small silvery fishes. More on

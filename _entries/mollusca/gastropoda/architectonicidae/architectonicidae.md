@@ -1,6 +1,6 @@
 ---
 title: 'Sundial snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sundial snails  on the shores of Singapore
 keywords: sundial, architectonicidae, gastropod, mollusc, snail, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -17,23 +17,23 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
     caption: Laying egg string. St. John's Island, May 09 Photo shared by Loh Kok
       Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
     caption: Laying egg string. Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong
       on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
     caption: St John's Island, Feb 13
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
     caption: Clear sundial snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
     caption: Dead specimen. Partridge sundial snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
     caption: Variegated sundial snail
 links_references: '**Links**
 

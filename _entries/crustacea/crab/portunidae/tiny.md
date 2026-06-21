@@ -1,6 +1,6 @@
 ---
 title: Tiny Flower crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny Flower crab on the shores of Singapore
 keywords: tiny, swimming, crab, portunus, pelagicus, portunidae, decapod, crustrace,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -16,26 +16,26 @@ family: Portunidae
 genus: Portunus
 species: pelacigus
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg
     caption: Changi, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/050426cftg5050m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/050426cftg5050m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/070728sisd4545m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/070728sisd4545m3.jpg
     caption: Sisters Island, Jul 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/070603sntrg9950m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/070603sntrg9950m3.jpg
     caption: Sentosa, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/090413blyd9992m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/090413blyd9992m3.jpg
     caption: Berlayar Creek, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/060225cjg5012m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/060225cjg5012m3.jpg
     caption: Chek Jawa, Feb 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/251208melks5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/251208melks5.jpg
     caption: Marina East, Dec 2025 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/110220lazro5m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/110220lazro5m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
 size:
 - 2.0
@@ -52,9 +52,7 @@ habitats:
 ## Where seen?
 Tiny swimming crabs are commonly seen on our Northern shores, especially in areas with seaweeds and seagrasses. They particularly active at night. They are probably juvenile
 [Flower crabs](pelagicus)
-(
-*Portunus pelagicus*
-).
+(*Portunus pelagicus*).
 
 ## Features
 

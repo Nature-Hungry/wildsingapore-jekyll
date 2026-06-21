@@ -12,54 +12,54 @@ species: ''
 attributes: []
 updated: Apr 2020
 coverimg: 
-  https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/050724bbd5311m3.jpg
+  https://images.naturehungry.sg/cnidaria/actiniaria/haddoni/050724bbd5311m3.jpg
 galleries:
   gallery1:
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/050724bbd5311m3.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/haddoni/050724bbd5311m3.jpg
     caption: ''
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/050724bbd5311m3a.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/haddoni/050724bbd5311m3a.jpg
     caption: ''
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg
     caption: ''
   gallery2:
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
     caption: ''
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/080720cjd7934m3c.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/tapetum/080720cjd7934m3c.jpg
     caption: ''
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/080720cjd7934m3b.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/tapetum/080720cjd7934m3b.jpg
     caption: ''
   gallery3:
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg
     caption: ''
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg
     caption: ''
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg
     caption: ''
   gallery4:
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mertensii/120411thntd9385m3.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/mertensii/120411thntd9385m3.jpg
     caption: ''
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mertensii/120411thntd9387m3d.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/mertensii/120411thntd9387m3d.jpg
     caption: ''
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mertensii/120411thntd9387m3b.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/mertensii/120411thntd9387m3b.jpg
     caption: ''
   gallery5:
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddoni/120621cyrd6085m3.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/haddoni/120621cyrd6085m3.jpg
     caption: ''
   - url: 
-      https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg
+      https://images.naturehungry.sg/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg
     caption: ''
 location:
 - pgl

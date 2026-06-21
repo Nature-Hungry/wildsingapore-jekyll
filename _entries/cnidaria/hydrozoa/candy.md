@@ -1,6 +1,6 @@
 ---
 title: Candy hydroid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Candy hydroid on the shores of Singapore
 keywords: candy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,31 +14,31 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/090511chgd1389m6l.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/090511chgd1389m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/090511chgd1389m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/090511chgd1389m6l.jpg
     caption: Changi, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg
     caption: Pulau Sekudu, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
     caption: Tuas, Apr 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/240706ubntch2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/240706ubntch2.jpg
     caption: A nudibranch (Kabeiro rubroreticulata). Pulau Ubin, Jul 24 Photo by Chay
       Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/250627bbjjl1a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/250627bbjjl1a.jpg
     caption: A nudibranch (Doto sp. ) laying eggs. Beting Bronok, Jun 25 Photo by
       Jianlin Liu on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/251009sjitl2a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/251009sjitl2a.jpg
     caption: St John's Island, Oct 25 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/251009sjitl2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/251009sjitl2.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/240511tryjt2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/240511tryjt2.jpg
     caption: Terumbu Raya, May 24 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/candy/200310lazvc3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/200310lazvc3.jpg
     caption: Beting Bemban Besar, Mar 20 Photo shared by Vincent Choo on facebook
       .
 location:

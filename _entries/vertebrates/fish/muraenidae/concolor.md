@@ -1,6 +1,6 @@
 ---
 title: Brown       moray eel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown       moray eel on the shores of Singapore
 keywords: brown, unicolor, unicolour, snake, moray, eel, fish, uropterygius, concolor,
   muraenidae , field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,28 +26,27 @@ suborder: Muraenoidei
 subfamily: Uropterygiinae
 complex: Uropterygius concolor
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
     caption: No pelvic fins
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/040409tusad0048m6la.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/concolor/040409tusad0048m6la.jpg
     caption: Tuas, Apr 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/120409tptd8719m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/concolor/120409tptd8719m6l.jpg
     caption: Terumbu Pempang Tengah, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/120409tptd8719m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/concolor/120409tptd8719m3b.jpg
     caption: Fins mostly towards the tail.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/120508skdsy1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/concolor/120508skdsy1m6l.jpg
     caption: Pulau Sekudu, May 12 Photo shared by Sam Yeo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/080819cymn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/concolor/080819cymn.jpg
     caption: Cyrene, Aug 08 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Unicolor snake moray (
-
   *Uropterygius concolor*
 
   )](http://www.fishbase.se/summary/SpeciesSummary.php?id=7283)

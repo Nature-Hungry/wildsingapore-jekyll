@@ -1,6 +1,6 @@
 ---
 title: Zoanthids
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Zoanthids on the shores of Singapore
 keywords: colonial, anemone, zoanthid, zoanthidae, anthozoa, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -18,38 +18,38 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg
     caption: Two kinds of zoanthids Pulau Hantu, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/various/070518tkrg9365m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/various/070518tkrg9365m3.jpg
     caption: Two kinds of zoanthids Pulau Tekukor, May 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/100711cyrd8239m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100711cyrd8239m3a.jpg
     caption: Body column with oral disk edged with short tentacles. Cyrene Reef, Jul
       10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg
     caption: Sometimes packed so tightly that they are mistaken for hard corals .
       Chek Jawa, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg
     caption: At low tide with their tentacles retracted they look like a clump of
       sausages. Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg
     caption: Sea mat zoanthids have polyps too, embedded in a shared tissue. Kusu
       Island, Oct 04
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg
     caption: Sea mat zoanthids ( Palythoa tuberculosa ) Polyps embedded in a shared
       mat of tissue.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
     caption: Broad zoanthids ( Palythoa mutuki ) Polyps with broad oral disk and long
       body column.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg
     caption: Button zoanthids ( Zoanthus sp.) Polyps with small oral disk and long
       body column.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/100130brkd8486m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/100130brkd8486m3a.jpg
     caption: Pink button zoanthids ( Zoanthus vietnamensis ) Polyps with pink edges
       at the top of the body column, more obvious in retracted polyp.
 links_references: '**Links**

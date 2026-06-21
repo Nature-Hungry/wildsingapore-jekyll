@@ -1,6 +1,6 @@
 ---
 title: Brown shore goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown shore goby on the shores of Singapore
 keywords: brown, shore, goby, drombus, triangularis, fish, gobiidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,28 +24,27 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg
     caption: Sometimes in a group of individuals of different sizes. Punggol, Jun
       12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/triangularis/100429prpd1888m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/100429prpd1888m6l.jpg
     caption: Pasir Ris Park, Apr 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/triangularis/131107pglmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/131107pglmn.jpg
     caption: Punggol, Nov 13 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/triangularis/080603prpd4695m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/080603prpd4695m3.jpg
     caption: Pasir Ris Park, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3.jpg
     caption: Changi, Jun 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/triangularis/090512tmjk2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/090512tmjk2m3.jpg
     caption: Tanah Merah, May 09 Photo shared by James Koh on flickr .
 links_references: '**Links**
 
   - [Brown shore goby (
-
   *Drombus triangularis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/364)

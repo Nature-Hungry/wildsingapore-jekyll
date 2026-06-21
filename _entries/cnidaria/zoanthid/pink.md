@@ -1,6 +1,7 @@
 ---
 title: Pink button zoanthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Colony10-15cm, encrusting small stones and rubble. Polyps about 1cm with
+  long body column tipped in bright pink. Sometimes seen on our shores.
 keywords: pink, button, colonial, anemone, zoanthid, zoanthus, vietnamensis, zoanthidae,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -22,21 +23,21 @@ suborder: Brachycnemina
 updated: Dec 2019
 summary: Colony10-15cm, encrusting small stones and rubble. Polyps about 1cm with
   long body column tipped in bright pink. Sometimes seen on our shores.
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/080607chgd5260m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/080607chgd5260m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/080607chgd5260m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/080607chgd5260m3.jpg
     caption: Changi, Jun 08 .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/070324cyrd9317m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/070324cyrd9317m3.jpg
     caption: Cyrene Reef, Mar 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/040804skdd4116m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/040804skdd4116m3.jpg
     caption: Pulau Sekudu, Aug 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/251009sjilvo1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/251009sjilvo1.jpg
     caption: St John's Island, Oct 25 Photo shared by Lon Voon Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/101108bkoms00627m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/101108bkoms00627m3.jpg
     caption: Terumbu Bukom, Nov 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/pink/100130brkd8486m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/100130brkd8486m3.jpg
     caption: Terumbu Berkas, Jan 10
 location:
 - chg

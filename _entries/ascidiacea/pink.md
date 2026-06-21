@@ -1,6 +1,6 @@
 ---
 title: Pink ascidians
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink ascidians on the shores of Singapore
 keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,26 +18,26 @@ attributes:
 family: Polycitoridae
 genus: Eudistoma
 species: sp.
-coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/081114cyrd1908m3.jpg
+coverimg: https://images.naturehungry.sg/ascidiacea/pink/081114cyrd1908m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/081114cyrd1908m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/pink/081114cyrd1908m3.jpg
     caption: Cyrene Reef, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/070531sisg9641m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/pink/070531sisg9641m3.jpg
     caption: Sisters Island, May 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/070531sisg9641m3a.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/pink/070531sisg9641m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/260104trmrqo8.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/pink/260104trmrqo8.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Rui Quan Oh on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/170809tkktsc1.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/pink/170809tkktsc1.jpg
     caption: Pulau Tekukor, Aug 17 Photo shared by Teo Say Chong on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/181225kusll1.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/pink/181225kusll1.jpg
     caption: Kusu Island, Dec 18 Photo shared by Liz Lim on facebook.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/181027smkscsm1.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/pink/181027smkscsm1.jpg
     caption: Pulau Semakau South, Oct 18 Photo shared by Chong SiewMin on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/pink/100601slud4718m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/pink/100601slud4718m3.jpg
     caption: Pulau Salu, Jun 10
 links_references: '**Links**
 

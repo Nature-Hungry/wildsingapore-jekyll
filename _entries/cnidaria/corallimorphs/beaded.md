@@ -1,6 +1,6 @@
 ---
 title: Beaded corallimorph
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Beaded corallimorph on the shores of Singapore
 keywords: corallimorph, discosoma, nummiforme, discosomidae, corallimorpharia, anthozoa,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -20,34 +20,34 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3.jpg
     caption: St. John's Island, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
     caption: Upturned mouth.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjid2177m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjid2177m3.jpg
     caption: St. John's Island, May 06 Smooth underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/100710sisd8097m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/100710sisd8097m3.jpg
     caption: Sisters Island, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/090822sisd9743m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/090822sisd9743m3.jpg
     caption: Sisters Island, Aug 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/100103jngjk.JPG
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/100103jngjk.JPG
     caption: Pulau Jong, Jan 10 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/130628thntlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/210402tmskjk2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/210402tmskjk2.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/200626tptdc2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/200626tptdc2.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/100629tpdjk1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/100629tpdjk1m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
 links_references: '**Links**
 

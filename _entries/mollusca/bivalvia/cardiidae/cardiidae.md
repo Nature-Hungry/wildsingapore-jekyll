@@ -1,6 +1,6 @@
 ---
 title: True cockles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of True cockles on the shores of Singapore
 keywords: true, cockle, shell, clam, cardiidae bivalve, mollusc, clam, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,19 +21,19 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
     caption: Heart cockle
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg
     caption: Large cockle
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg
     caption: Strawberry cockle
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/tridacnidae/squamosa/040123sisd0129m3.jpg
+  - url: https://images.naturehungry.sg/tridacnidae/squamosa/040123sisd0129m3.jpg
     caption: Fluted giant clam
-  - url: https://f003.backblazeb2.com/file/naturehungry/tridacnidae/crocea/050312hntg3342m3.jpg
+  - url: https://images.naturehungry.sg/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: Burrowing giant clam
 links_references: '**Links**
 

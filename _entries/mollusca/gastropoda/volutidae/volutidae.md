@@ -1,6 +1,6 @@
 ---
 title: 'Volutes '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Volutes  on the shores of Singapore
 keywords: noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,7 +18,7 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Volutoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - They are among the large snails you might see on our shores.
@@ -26,53 +26,74 @@ trivia_items:
 - Many volutes are threatened by over-collection as food and for their shells.
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
-    caption: Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by Toh Chay Hoon on her blog.
-  - url: https://f003.backblazeb2.com/file/naturehungry/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
-    caption: Noble volute hunting down a Big brown mactra clam that eventually escaped. Pulau Semakau, Mar 08
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg
+    caption: Baler snail eating a Noble volute ! Chek Jawa, Jun 10 Photo shared by
+      Toh Chay Hoon on her blog.
+  - url: https://images.naturehungry.sg/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg
+    caption: Noble volute hunting down a Big brown mactra clam that eventually escaped.
+      Pulau Semakau, Mar 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/100614bbd5995m3.jpg
-    caption: A smaller Baler volute riding on the back of a bigger one. Prelude to mating? Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/100614bbd5995m3.jpg
+    caption: A smaller Baler volute riding on the back of a bigger one. Prelude to
+      mating? Beting Bronok, Jun 10
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg
     caption: Noble volute laying egg capsules Pulau Semakau, Mar 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg
-    caption: Baby Noble volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon on her flickr.
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg
+    caption: Baby Noble volute! Pulau Semakau, Mar 08 Photo shared by Toh Chay Hoon
+      on her flickr.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cephalopoda/bigseagrass/130624chg7d7811.jpg
+  - url: https://images.naturehungry.sg/cephalopoda/bigseagrass/130624chg7d7811.jpg
     caption: Octopus hiding inside an empty Noble volute shell. Changi, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/090514prpd1730.jpg
-    caption: Hermit crab and Slipper snails living in an empty Baler volute shell. Pasir Ris, May 09
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/090514prpd1730.jpg
+    caption: Hermit crab and Slipper snails living in an empty Baler volute shell.
+      Pasir Ris, May 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/060612cftd2873m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/060612cftd2873m3.jpg
     caption: Noble volute
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/nobilis/011114cjd841m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/011114cjd841m3.jpg
     caption: Noble volute
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/volutidae/melo/050820bbg1813m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/050820bbg1813m3.jpg
     caption: Baler volute
 links_references: '**Links**
 
-  - [Melon or Baler Shell (*Cymbium melo*)](http://mangrove.nus.edu.sg/pub/seashore/text/144) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
+  - [Melon or Baler Shell (*Cymbium melo*)](http://mangrove.nus.edu.sg/pub/seashore/text/144)
+  Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
+  The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Volutidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Volutidae.html) on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on volutes with photos.
+  - [Volutidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Volutidae.html)
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
+  Natural History Museum website: brief fact sheet on volutes with photos.
 
-  - [Family Volutidae (Volutes)](http://seashellsofnsw.org.au/Volutidae/Pages/volutidae_intro) on the [The Seashells of New South Wales](http://seashellsofnsw.org.au/index) website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
+  - [Family Volutidae (Volutes)](http://seashellsofnsw.org.au/Volutidae/Pages/volutidae_intro)
+  on the [The Seashells of New South Wales](http://seashellsofnsw.org.au/index) website
+  by Des Beechey Research Associate, Australian Museum: family introductions with
+  photos of shells and detailed fact sheets for many species.
 
   - Family Volutidae in the Gastropods section by J.M. Poutiers in the FAO Species
   Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00) on the Food and Agriculture Organization of the United Nations (FAO) website.
+  Central Pacific [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+  on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
   **References**
 
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist of The Molluscs of Singapore* (pdf), Raffles Museum of Biodiversity Research, National University of Singapore.
+  - Tan Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist of The Molluscs
+  of Singapore* (pdf), Raffles Museum of Biodiversity Research, National University
+  of Singapore.
 
-  - Tan, K. S. & L. M. Chou, 2000. *A Guide to the Common Seashells of Singapore*. Singapore Science Centre. 160 pp.
+  - Tan, K. S. & L. M. Chou, 2000. *A Guide to the Common Seashells of Singapore*.
+  Singapore Science Centre. 160 pp.
 
-  - Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*. National Council on the Environment. 163pp.
+  - Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+  National Council on the Environment. 163pp.
 
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
 
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
 
   '
 location:

@@ -1,6 +1,6 @@
 ---
 title: Candelabra sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Candelabra sea fan on the shores of Singapore
 keywords: seafan, fan, euplexaura, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,21 +17,21 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
     caption: Beting Bronok, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg
     caption: Tuas, Dec 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg
     caption: Squid egg capsules attached to the sea fan. Changi, Jul 17
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg
     caption: Winged oyster on the sea fan. Beting Bronok, Aug 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg
     caption: Tiny colourful brittle stars on the sea fan. Chek Jawa, Jul 15
 links_references: '**Links**
 

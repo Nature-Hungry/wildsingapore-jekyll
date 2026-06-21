@@ -1,6 +1,6 @@
 ---
 title: Squids and cuttlefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Squids and cuttlefish on the shores of Singapore
 keywords: squid, cuttlefish, cephalopod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,37 +17,37 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
     caption: A cuttlefish has fins all around its body. Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/080422smkd1422m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/080422smkd1422m3.jpg
     caption: Other squid have broad fins that extend the length of the body. Pulau
       Semakau, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
     caption: The bobtail or bottletail squids are not streamlined at all! Changi,
       Jun 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg
     caption: Squids have a pair of onger tentacles that extend beyond the shorter
       arms. Pulau Hantu, Aug 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
     caption: The tiny Pgymy squid can catch shrimps almost as big as itself. Tanah
       Merah, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg
     caption: Cuttlebone Chek Jawa, Mar 03
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg
     caption: Squids taking on different colours. Tanah Merah, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
     caption: Ink squirted out retains its shape. Sister Island, May 12
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg
     caption: Some egg capsules commonly seen. Pulau Hantu, Feb 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
     caption: String of black egg capsoules Changi, Jul 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg
     caption: Developing babies Changi, Jul 03
 links_references: '**Links**
 

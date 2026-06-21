@@ -83,10 +83,10 @@ from a hunting [moon snail](../mollusca/gastropoda/naticidae/naticidae).
 in Singapore?** There are few natural sandy shores left in
 Singapore as most of these [have been reclaimed](loss).
 Among our northern islands, there are natural sandy shores on [Pulau
-Ubin](http://www.wildsingapore.com/ubin/indexl), the most famous being the one at [Chek
-Jawa](http://www.wildsingapore.com/places/cj). Also at Pulau Sekudu. Natural sandy shores can also still
-be found on [Sentosa](http://www.wildsingapore.com/places/sentosa), [Pulau Semakau](http://www.wildsingapore.com/places/semakau) and [Cyrene
-Reefs](http://www.wildsingapore.com/places/cyrene). The sandy shores of Pasir Panjang (meaning 'long sandy
+Ubin](https://images.naturehungry.sg/ubin/indexl), the most famous being the one at [Chek
+Jawa](https://images.naturehungry.sg/places/cj). Also at Pulau Sekudu. Natural sandy shores can also still
+be found on [Sentosa](https://images.naturehungry.sg/places/sentosa), [Pulau Semakau](https://images.naturehungry.sg/places/semakau) and [Cyrene
+Reefs](https://images.naturehungry.sg/places/cyrene). The sandy shores of Pasir Panjang (meaning 'long sandy
 beach' in Malay) have been reclaimed and our container port is now
 located there.  
   
@@ -95,7 +95,7 @@ many years, life has returned and these shores now have quite an interesting
 variety of marine life. In the North, these include Pasir Ris (which
 means 'narrow sandy beach' in Malay), Changi with a long stretch of
 reclaimed land on the East Coast. Many of our [Southern
-islands](http://www.wildsingapore.com/places/shoresouth) also have sandy reclaimed shores.
+islands](https://images.naturehungry.sg/places/shoresouth) also have sandy reclaimed shores.
 
 ---
 

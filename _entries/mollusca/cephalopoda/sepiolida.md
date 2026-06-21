@@ -1,6 +1,6 @@
 ---
 title: 'Bobtail squids '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bobtail squids  on the shores of Singapore
 keywords: bobtail, bob, tail, bottletail, bottle, squid, sepiolidae, sepiadariidae,
   cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,55 +19,55 @@ superorder: Decapodiformes
 order: Sepiolida
 superfamily: Sepioloidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
     caption: Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/050622cftd4092m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/050622cftd4092m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/050622cftd4090m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/050622cftd4090m3a.jpg
     caption: Pair of rounded fins.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/071126chgd7631m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/071126chgd7631m3.jpg
     caption: Changi, Nov 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/071126chgd7634m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/071126chgd7634m3.jpg
     caption: Changi, Nov 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/071126chgd7635m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/071126chgd7635m3.jpg
     caption: Changi, Nov 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/081107prplck02m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/081107prplck02m3.jpg
     caption: Pasir Ris Park, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/081107prplck03m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/081107prplck03m3.jpg
     caption: Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/030608cjd0095m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/030608cjd0095m3.jpg
     caption: Chek Jawa, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/170530chg1mn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/170530chg1mn1.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/050622chgg8185m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/050622chgg8185m3.jpg
     caption: Changi, Jun 05
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/170625bbtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/170625bbtch1.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/180616bblks7.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/180616bblks7.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/170626skdtch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/170626skdtch2.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/200819ecptch6.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/200819ecptch6.jpg
     caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/180812nsrtlks11.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/180812nsrtlks11.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/180812nsrtlks11a.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/180812nsrtlks11a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/180812nsrtlks11b.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/180812nsrtlks11b.jpg
     caption: ''
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/090818tmjk2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/090818tmjk2m3.jpg
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sepiolida/090806tmjk11m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/090806tmjk11m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by James Koh on his blog .
 links_references: '**Links**
 
@@ -76,7 +76,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets for
 
   [Mimika bobtail squid (
-
   *Euprymna morsei*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57886)
@@ -84,7 +83,6 @@ links_references: '**Links**
   ,
 
   [Butterfly bobtail (
-
   *Sepiola birostrata*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57725)

@@ -1,6 +1,6 @@
 ---
 title: Java fat-nose goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Java fat-nose goby on the shores of Singapore
 keywords: java, fat, nose, goby, pseudogobius, javanicus, fish, gobiidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,21 +24,20 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060627krjd3690m6la.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/javanicus/060627krjd3690m6la.jpg
     caption: Kranji, Jun 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3c.jpg
     caption: First dorsal fin with black blotch at the rear portion, black bar under
       the first dorsal fin.
 links_references: '**Links**
 
   - [Javanese fatnose goby (
-
   *Pseudogobius javanicus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
@@ -50,7 +49,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Javanese fatnose goby (
-
   *Pseudogobius javanicus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/376)

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lumpy green sponge on the shores of Singapore
 keywords: green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: encrusting
@@ -16,19 +16,19 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060611cjd2766m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/lumpygreen/060611cjd2766m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060611cjd2766m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpygreen/060611cjd2766m3.jpg
     caption: Chek Jawa, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060429skdd1401m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpygreen/060429skdd1401m3.jpg
     caption: Pulau Sekudu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060723skdg6764m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpygreen/060723skdg6764m3.jpg
     caption: Pulau Sekudu, Jul 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/060712tusd4053m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpygreen/060712tusd4053m3.jpg
     caption: Tuas, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/lumpygreen/031124tuscd0048m3.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpygreen/031124tuscd0048m3.jpg
     caption: Tuas, Nov 03
 links_references: '**Links**
 

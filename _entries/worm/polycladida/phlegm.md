@@ -1,6 +1,6 @@
 ---
 title: Phlegm flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Phlegm flatworm on the shores of Singapore
 keywords: flat, worm, flatworm, acotylea, polyclad, turbellaria, platyhelminthes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -10,54 +10,54 @@ genus: ''
 species: identification*
 attributes: []
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/060515labd1920m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/phlegm/060515labd1920m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/060515labd1920m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/060515labd1920m3.jpg
     caption: With large lump in its body. Labrador, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/090610sntd3692m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/090610sntd3692m3.jpg
     caption: Sentosa, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/060201sntg4545m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/060201sntg4545m3.jpg
     caption: Sentosa, Jan 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/260216cnyrqo4.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/260216cnyrqo4.jpg
     caption: Coney Island, Feb 26 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/210115prpjll2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/210115prpjll2.jpg
     caption: Pasir Ris Park, Jan 21 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/091010tmjk5m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/091010tmjk5m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by James Koh on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/090210lablks01m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/090210lablks01m3.jpg
     caption: Labrador, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/240309tkrvc1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/240309tkrvc1.jpg
     caption: Pulau Tekukor, Mar 24 Shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/220202bsistch2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/220202bsistch2.jpg
     caption: Big SIsters Island, Feb 22 Photo shared by Toh Chay Hoon on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/120407lazlks5m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/120407lazlks5m3.jpg
     caption: Lazarus, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/120407lazlks4m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/120407lazlks4m3.jpg
     caption: Lazarus, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/241019lazvc2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/241019lazvc2.jpg
     caption: Lazarus, Oct 24 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/110830cyrjk4m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/110830cyrjk4m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared byJames Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/120123hntlks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/120123hntlks1m3.JPG
     caption: Pulau Hantu , Jan 12 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/081206smktch13m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/081206smktch13m3.jpg
     caption: Pulau Semakau, Dec 08 Photo shared byToh Chay Hoon on her flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/110423tplro1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/110423tplro1m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Rene Ong on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/080804rlhlksm3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/080804rlhlksm3.jpg
     caption: Raffles Lighthouse, Aug 08 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/091205sudjk1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/091205sudjk1m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/phlegm/100811slud0125m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/phlegm/100811slud0125m3.jpg
     caption: Pulau Salu, Aug 10
 location:
 - prp

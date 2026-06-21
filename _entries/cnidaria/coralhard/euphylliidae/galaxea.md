@@ -1,6 +1,6 @@
 ---
 title: 'Galaxy corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Galaxy corals  on the shores of Singapore
 keywords: galaxy, galaxea, oculinidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,65 +17,65 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8940m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8940m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8940m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8940m3.jpg
     caption: Some species may form fields of small colonies. Pulau Hantu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/050528kusg7062m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/050528kusg7062m3a.jpg
     caption: Corallite with distinctive star- or crown-shaped pattern at the top.
       Kusu Island, May 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/250530kus1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/250530kus1.jpg
     caption: Made of up long corallites, joined near the top. Kusu Island, May 25
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/090625bsrd5328m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/090625bsrd5328m3a.jpg
     caption: Joined near the top with a smooth common skeleton. Beting Bemban Besar,
       Jun 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/050917smkg2405m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/050917smkg2405m3b.jpg
     caption: Long sweeper tentacles Pulau Semakau, Sep 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/040410sisbd0062m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/040410sisbd0062m3a.jpg
     caption: Polyps tentacles short slender with white tips. Sisters Island, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8977m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8977m3a.jpg
     caption: Mouth in the middle of the tentacles. Pulau Hantu, Jan 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100615tmlks3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/100615tmlks3m3.jpg
     caption: Tanah Merah, Jun 10 . Photo shared by Loh Kok Sheng on his flickr
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/220618tmftlks12.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/220618tmftlks12.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/2007024pcnlks10a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/2007024pcnlks10a.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/210628ecpBlks6a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/210628ecpBlks6a.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/210430sjilks4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/210430sjilks4.jpg
     caption: St. John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/090512tmlks16m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/090512tmlks16m3.JPG
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3c.jpg
     caption: ''
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0246m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0246m3.jpg
     caption: Pulau Hantu, Aug 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0245m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0245m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0245m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0245m3a.jpg
     caption: ''
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100613sngd5557m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/100613sngd5557m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/100530tbkd4279m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/100530tbkd4279m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/galaxea/150618tmftlks11m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/150618tmftlks11m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**

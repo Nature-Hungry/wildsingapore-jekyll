@@ -1,6 +1,6 @@
 ---
 title: Milk-spotted cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Milk-spotted cowrie on the shores of Singapore
 keywords: milk, spotted, cowrie, cypraea, lyncina, vitellus, cypraeidae, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -20,19 +20,18 @@ superfamily: Cypraeoidea
 subfamily: Luriinae
 tribe: Austrocypraeini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
     caption: Kusu Island, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5649m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5649m3.jpg
     caption: Underside.
 links_references: '**Links**
 
   - [Pacific deer cowrie (
-
   *Cypraea vitellus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86907)
@@ -40,7 +39,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Pacific deer cowrie (
-
   *Cypraea vitellus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

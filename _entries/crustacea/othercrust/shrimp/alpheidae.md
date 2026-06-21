@@ -1,6 +1,6 @@
 ---
 title: Snapping shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Snapping shrimps on the shores of Singapore
 keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -33,40 +33,39 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
     caption: One pincer greatly enlarged. Pulau Sekudu, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/060527sjid2315m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphsmooth/060527sjid2315m3.jpg
     caption: Sideview of the shrimp St. John's Island, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg
     caption: Using the small pincer to carry things. Labrador, May 02
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphmanyband/050722cjg9923m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphmanyband/050722cjg9923m3.jpg
     caption: This shrimp shares its burrow with a brittle star. Chek Jawa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
     caption: A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby
       . Kusu Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
     caption: A Many-band snapping shrimp sharing a burrow with a Saddled shrimp-goby
       . Labrador, May 05 .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
     caption: Ornamented snapping shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
     caption: Smooth snapping shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg
     caption: Many-band snapping shrimp
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphcommensal/020710chgcpd1738m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphcommensal/020710chgcpd1738m3.jpg
     caption: Commensal snapping shrimp in sponges and under stones
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: White soft coral snapping shrimp in ball flowery soft corals
 links_references: '**Links**
 
   - [Mangrove snapping prawns (
-
   *Alpheus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2040)
@@ -188,14 +187,10 @@ Some species live in symbiosis with corals, sponges, sea fans and other animals.
 . The shrimp goby lives in the same burrow with a snapping shrimp. With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home. The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby. When the goby darts into the burrow, the shrimp is right behind it!
 
 **Colonial shrimps?**
-A kind of snapping shrimp (
-*Synalpheaus regalis*
-) that lives in sponges in the coral reefs of Belize were found to form colonies much like termites do. One 'queen' prawn produces all the members of the colony, which attack members of other colonies but are peaceful towards members of their own colony.
+A kind of snapping shrimp (*Synalpheaus regalis*) that lives in sponges in the coral reefs of Belize were found to form colonies much like termites do. One 'queen' prawn produces all the members of the colony, which attack members of other colonies but are peaceful towards members of their own colony.
 
 **Status and threats:**
-Most of our snapping shrimps are not listed among the endangered animals of Singapore, except for the Crinoid snapping shrimp (
-*Synalpheus stimpsoni*
-).
+Most of our snapping shrimps are not listed among the endangered animals of Singapore, except for the Crinoid snapping shrimp (*Synalpheus stimpsoni*).
 This tiny shrimp (about 1cm) lives in pairs on
 [feather stars](../../../echinodermata/crinoidea/crinoidea)
 (crinoids), feeding off the mucus of its host. It is threatened by reef destruction and siltation.

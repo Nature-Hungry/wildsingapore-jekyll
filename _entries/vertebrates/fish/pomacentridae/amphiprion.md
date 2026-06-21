@@ -1,6 +1,6 @@
 ---
 title: Anemonefishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Anemonefishes on the shores of Singapore
 keywords: anemonefish, anemone, fish, pomacentridae, amphiprion, amphiprioninae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -19,29 +19,29 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg
     caption: In a Magnificent anemone . Terumbu Semakau, Jul 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg
     caption: In a Merten's carpet anemone . Terumbu Hantu, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg
     caption: 'Stranded at low tide: best to leave it alone. Kusu Island, Aug 19'
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg
     caption: Fishes of several different sizes in one anemone. Pulau Pawai, Dec 09
       Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg
     caption: Eggs laid near the host sea anemone. Terumbu Raya, Jun 15 Photo shared
       by Toh Chay Hoon on facebook .
   gallery4:
   - url: https://live.staticflickr.com/3684/32960802914_ca75da216a_z.jpg
     caption: Pulau Semakau, Apr 17
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
     caption: Clown anemonefish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
     caption: Tomato anemonefish
 links_references: "**Links**\n- [Field Guide to Anemone Fishes and their host Sea\
   \ Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)\nby Dr Daphne G. Fautin\

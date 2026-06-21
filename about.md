@@ -26,4 +26,4 @@ Free use is permitted for educators using the material in a classroom setting or
 
 The Wild Fact Sheets would not have been possible without the kind and generous support of many people. I gratefully [acknowledge](thanks) them, but all errors and omissions are entirely mine.
 
-For [more about wildsingapore.com](http://www.wildsingapore.com/about) and my [other projects](http://www.wildsingapore.com/projects/index), and more [about Ria](http://www.wildsingapore.com/riablog/people/ria).  
+For [more about wildsingapore.com](https://images.naturehungry.sg/about) and my [other projects](https://images.naturehungry.sg/projects/index), and more [about Ria](https://images.naturehungry.sg/riablog/people/ria).  

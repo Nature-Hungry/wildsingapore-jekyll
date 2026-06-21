@@ -1,6 +1,6 @@
 ---
 title: Tree climbing crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tree climbing crab on the shores of Singapore
 keywords: tree, climbing, crab, episesarma, sesarmidae, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -12,7 +12,7 @@ attributes:
 - 112
 family: Sesarmidae
 genus: Episesarma
-species: ''
+species: 'sp.'
 inat_id: 143092
 stateofmatter: Life
 kingdom: Animalia
@@ -29,30 +29,30 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
     caption: About to munch on flowers? Sungei Buloh Wetland Reserve, Sep 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/101226krjd4185m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/101226krjd4185m3.jpg
     caption: Kranji Nature Trail, Dec 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
     caption: Sungei Buloh Wetland Reserve, Dec 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/031204prpd0094m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/031204prpd0094m3.jpg
     caption: Singapore tree climbing crab ( Episesarma singaporense ) has all red
       pincers.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/101226krjd4307m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/101226krjd4307m3a.jpg
     caption: Violet tree climbing crab ( Episesarma versicolor ) has purple-white
       pincers.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/110419krjd9186m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/110419krjd9186m3.jpg
     caption: Pink tree climbing crab ( Episesarma chentongense ) has red-white pincers.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/110910cjlks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/110910cjlks.JPG
     caption: Chek Jawa, Sep 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/120908cjlks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/120908cjlks.JPG
     caption: Chek Jawa, Sep 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG
     caption: Pasir Ris Park, Dec 14 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 
@@ -61,7 +61,6 @@ links_references: '**Links**
   ,
 
   [Tree-climbing/Vinegar crabs (
-
   *Episesarma*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049)
@@ -73,7 +72,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Sesarmine crabs (
-
   *Episesarma*
 
   and

@@ -1,6 +1,6 @@
 ---
 title: Green mussel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Green mussel on the shores of Singapore
 keywords: green, mussel, clam, perna, viridis, mytilidae, bivalve, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info
@@ -24,29 +24,29 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
     caption: Growing on a large boulder. Changi, Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg
     caption: Growing on a large boulder. Changi, Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg
     caption: Growing in cracks of boulder. Punggol, Jun 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
     caption: Chek Jawa, Dec 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg
     caption: When submerged, filter feeds. Punggol, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg
     caption: It has a large mobile foot. From the Lee Kong Chian Natural History Museum
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg
     caption: Coney Island, Nov 20 Photo shared by Richard Kuah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG
     caption: Tuas, Mar 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook.
 links_references: "**Links**\n- [Green Mussel (\n*Perna viridis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/158)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

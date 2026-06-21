@@ -1,6 +1,6 @@
 ---
 title: Sidegill slugs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sidegill slugs on the shores of Singapore
 keywords: side, gill, notaspidea, slug, seaslug, opisthobranch, gastropod, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,18 +21,18 @@ superorder: Nudipleura
 order: Pleurobranchida
 superfamily: Pleurobranchoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
     caption: Forskal's sidegill slug
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
     caption: Moon-headed sidegill slug
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/others/170528chglks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/others/170528chglks3.jpg
     caption: Pleurobranchea brockii Changi, May 17 Photo shared by Loh Kok Sheng on
       facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/notaspidae/others/170528chgjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/others/170528chgjll1.jpg
     caption: Pleurobranchea brockii Changi, May 17 Photo shared by Jianlin Liu on
       facebook .
 authors:

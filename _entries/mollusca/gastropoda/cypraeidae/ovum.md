@@ -1,6 +1,6 @@
 ---
 title: Ovum cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ovum cowrie on the shores of Singapore
 keywords: cowrie, cypraeidae, ovum, cypraea, erronea, gastropod, mollusc, snail, shell,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,76 +25,76 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg
     caption: St. John's Island, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg
     caption: '''Teeth'' are coloured.'
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg
     caption: Mama cowrie with her egg mass. Chek Jawa, Oct 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/120605lygd3994m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/120605lygd3994m3.jpg
     caption: Mama cowrie protecting her egg mass with her foot. Changi, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/160509srpik5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/160509srpik5.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/201020prpalks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/201020prpalks6.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/160210nsrcclks4.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/160210nsrcclks4.JPG
     caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/171009blyay2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/171009blyay2.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/110702lazlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/110702lazlks.JPG
     caption: Lazarus Island, Jul 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/250909laztt1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/250909laztt1a.jpg
     caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Tommy Tan on facebook
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/251009sjiky1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/251009sjiky1a.jpg
     caption: St John's Island, Oct 25 / Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/240528tslrk6a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/240528tslrk6a.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Richard Kuah on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/250811jngrk1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/250811jngrk1a.jpg
     caption: Pulau Jong, Aug 25
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/250811jngrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/250811jngrk1.jpg
     caption: Photo shared by Richard Kuah on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/251207hntky6a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/251207hntky6a.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/250727smkwrk6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/250727smkwrk6.jpg
     caption: Pulau Semakau (West), Jul 25 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/250812tbtt2a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/250812tbtt2a.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Tommy Tan on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/240310tplvc5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/240310tplvc5.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/110517tptlks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/110517tptlks1m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/110522bbblks2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/110522bbblks2m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/100502trytch5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/100502trytch5m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/161117rlhlks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/161117rlhlks6.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/091204pawjk2m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/091204pawjk2m3a.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/091205sudlks13m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/091205sudlks13m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/ovum/100130brklks15m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/100130brklks15m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 
@@ -171,9 +171,7 @@ pear-shaped
 **Sometimes confused with**
 the
 [Wandering cowrie](errones)
-(
-*Cypraea errones*
-) which is similar but is cylindrical in shape. It does not have coloured 'teeth' and has a brown spot or spots at the front end of the shell.
+(*Cypraea errones*) which is similar but is cylindrical in shape. It does not have coloured 'teeth' and has a brown spot or spots at the front end of the shell.
 Here's more on how to tell apart
 [Wandering and Ovum cowries](cfcypraeidae)
 .

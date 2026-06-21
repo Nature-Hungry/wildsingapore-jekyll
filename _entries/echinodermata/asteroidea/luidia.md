@@ -1,6 +1,6 @@
 ---
 title: Luidia sea stars
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Luidia sea stars on the shores of Singapore
 keywords: sand, star, seastar, sea star, starfish, fish, luidia, luidiidae, asteroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,35 +18,35 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
     caption: Long, narrow arms. Changi, Aug 08.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/081214ecmd3201m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/081214ecmd3201m3.jpg
     caption: In spawning position? East Coast, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/190620chgm3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/190620chgm3.jpg
     caption: Sometimes, many are seen together. Changi, Jun 2019
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
     caption: Five-armed Luidia sea star 5-8cm in diameter Usually 5 arms.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
     caption: 'Pointed tube feet: transparent.'
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lhardwicki/080801chgd8657m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/080801chgd8657m3d.jpg
     caption: Flat-topped, pillar-like structures called paxillae.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg
     caption: Six-armed Luidia sea star 8-10cm in diameter 5-6 arms, usually 6.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg
     caption: 'Pointed tube feet: yellow or orange.'
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg
     caption: Flat-topped, pillar-like structures called paxillae.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
     caption: Eight-armed Luidia sea star 12-20cm in diameter 6-9 arms, usually 8.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080507skdd2491m3f.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080507skdd2491m3f.jpg
     caption: 'Pointed tube feet: transparent.'
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg
     caption: Flat-topped, pillar-like structures called paxillae.
 links_references: '**Links**
 

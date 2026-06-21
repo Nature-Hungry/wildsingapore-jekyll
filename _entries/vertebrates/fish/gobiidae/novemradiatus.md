@@ -1,6 +1,6 @@
 ---
 title: Pearse's mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pearse's mudskipper on the shores of Singapore
 keywords: pearse, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus,
   novemradiatus, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -26,11 +26,10 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg
 links_references: '**Links**
 
   - [Dusky-gilled mudskipper (
-
   *Periophthalmus novemradiatus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2106)
@@ -42,7 +41,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Dusky-gilled mudskipper (
-
   *Periophthalmus novemradiatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/372)
@@ -62,7 +60,6 @@ links_references: '**Links**
   by Gianluca Polgar: Technical fact sheets with lots of photos.
 
   - [Pearse''s mudskipper (
-
   *Periophthalmus novemradiatus*
 
   )](http://www.fishbase.us/summary/SpeciesSummary.php?id=7486)
@@ -114,11 +111,11 @@ A small, well camouflaged mudskipper that is commonly seen near mangroves and ot
 [how to tell apart small mudskippers](cfmudsmall)
 commonly found on our shores.
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg)
+![](https://images.naturehungry.sg/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg)
 
 *Berlayar Creek, Nov 07
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3a.jpg)*
+![](https://images.naturehungry.sg/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3a.jpg)*
 Pectoral fins reddish near the body.
 
 **Species are difficult to positively identify without close examination.

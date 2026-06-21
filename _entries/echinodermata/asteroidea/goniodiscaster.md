@@ -1,6 +1,6 @@
 ---
 title: Biscuit sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Biscuit sea star on the shores of Singapore
 keywords: biscuit, sea star, seastar, starfish, star, fish, goniodiscater, scaber,
   oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -22,29 +22,29 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg
     caption: Tuas, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3b.jpg
     caption: Upperside.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3c.jpg
     caption: Does not have large bivalved pedicellaria.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3d.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/050623cjg8410m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/050623cjg8410m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/030702cjd0113m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/030702cjd0113m3.jpg
     caption: Chek Jawa, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/101011chgd2150m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/101011chgd2150m3.jpg
     caption: Changi, Oct 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/goniodiscaster/081114cyrlks01m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/081114cyrlks01m3.jpg
     caption: Cyrene Reef, Nov 08 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 
@@ -112,13 +112,9 @@ These sea stars have been observed clasping coral rubble coated with encrusting 
 **Sometimes confused with**
 the
 [Spiny sea star](gymnanthenea)
-(
-*Gymnanthenea laevis*
-) and the
+(*Gymnanthenea laevis*) and the
 [Cake sea star](anthenea)
-(
-*Anthenea aspera*
-). Here's more on
+(*Anthenea aspera*). Here's more on
 [how to tell apart large sea stars](cfbigstars)
 seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

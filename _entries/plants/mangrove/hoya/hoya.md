@@ -1,6 +1,6 @@
 ---
 title: 'Mangrove wax plant '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove wax plant  on the shores of Singapore
 keywords: wax, hoya, apocynaceae, asclepiadaceae, creeper, plant, bush, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,14 +23,14 @@ subfamily: Asclepiadoideae
 tribe: Marsdenieae
 inat_id: 804837
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/diversifolia/110822admd9843m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/hoya/diversifolia/110822admd9843m3.jpg
     caption: Admiralty Park, Aug 11 Hoya diversifolia
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/verticillata/011215cjcpd2329m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/hoya/verticillata/011215cjcpd2329m3.jpg
     caption: Chek Jawa, Dec 01 Hoya verticillata
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/verticillata/030517cjad0042m6.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/hoya/verticillata/030517cjad0042m6.jpg
     caption: Fruits. Chek Jawa, May 03
 links_references: '**Links**
 
@@ -98,8 +98,7 @@ These climbers with tough succulent leaves and beautiful wax-like flowers are so
 (previously known as
 *H. parasitica*
 or
-*H. ridleyi*
-) "often near the sea" at Changi, Chua Chu Kang, Tuas, Krani and Pulau Tekong. With the loss of our mangroves, however, these plants are now less commonly seen.
+*H. ridleyi*) "often near the sea" at Changi, Chua Chu Kang, Tuas, Krani and Pulau Tekong. With the loss of our mangroves, however, these plants are now less commonly seen.
 
 ## Features
 
@@ -116,7 +115,7 @@ Many of our hoyas are listed in the Red List of threatened plants of Singapore. 
 *Hoya diversifolia*
 is listed as 'Critically Endangered'.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg)
 
 Lim Chu Kang, Apr 09*
 

@@ -1,6 +1,6 @@
 ---
 title: Bearded filefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bearded filefish on the shores of Singapore
 keywords: beareded, filefish, file, fish, leather, jacket, anacanthus, barbatus, monacanthidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -24,25 +24,24 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
     caption: Tanah Merah, Sep 11 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6l.jpg
     caption: Cyrene Reef, May 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6la.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6la.jpg
     caption: Tiny uptuned mouth. Barbel under the chin that can be straightened out.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3971m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3971m3b.jpg
     caption: Like other filefishes, it has a flap under the body.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/monacanthidae/anacanthus/110221tmmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/anacanthus/110221tmmn.jpg
     caption: Tanah Merah, Feb 11 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Bearded leatherjacket (
-
   *Anacanthus barbatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8178)

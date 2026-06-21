@@ -1,6 +1,6 @@
 ---
 title: Green chromide
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Green chromide on the shores of Singapore
 keywords: green, chromide, fish, etroplus, suratensis, cichlidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,19 +22,18 @@ superorder: Acanthomorpha
 order: Cichliformes
 subfamily: Etroplinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg
     caption: Pasir Ris Park, Feb 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/cichlidae/suratensis/251108ecpblks17.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/cichlidae/suratensis/251108ecpblks17.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**
 
   - [Green chromide (
-
   *Etroplus suratensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/335)
@@ -46,7 +45,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Pearlspot (
-
   *Etroplus suratensis*
 
   )](http://www.fishbase.org/summary/Etroplus-suratensis.html)

@@ -1,6 +1,6 @@
 ---
 title: Starry-mouthed nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Starry-mouthed nudibranch on the shores of Singapore
 keywords: bornella, nudibranchia, slug, seaslug, stellifer, opisthobranch, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -27,65 +27,65 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3.jpg
     caption: Sisters Islands, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3a.jpg
     caption: White feathery gills, protected by the white and orange appendages.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3b.jpg
     caption: Conical orange rhinophores
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/090623ecpd4842m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/090623ecpd4842m3.jpg
     caption: East Coast, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/080705bbd7134m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/080705bbd7134m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3c.jpg
     caption: Star-shaped oral tentacles.
   gallery3:
   - url: https://live.staticflickr.com/7848/40198623943_cc0307fca2_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/200722lygjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/200722lygjll1.jpg
     caption: Changi, Jul 20 Photo shared by Jialin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/200921chgwvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/200921chgwvc1.jpg
     caption: Changi West, Sep 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/220716bbky1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/220716bbky1.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/211009blylks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/211009blylks1.jpg
     caption: Berlayar Creek, Oct 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/251106lazky7.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/251106lazky7.jpg
     caption: Seringat-Kias, Nov 25 Photo shared by Kelvin Yong on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/220103sntlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/220103sntlks1.jpg
     caption: Sentosa Tg Rimau, Jan 22 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/090509sisjk2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/090509sisjk2m3.jpg
     caption: Sisters Island, May 09 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/120710jngtch.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/120710jngtch.jpg
     caption: Pulau Jong, Jul 12 Photo shared by Toh Chay Hoon on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/170429kustch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/170429kustch2.jpg
     caption: Kusu Island, Apr 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/100528tkkjk14m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/100528tkkjk14m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/100626cyrlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/100626cyrlks.JPG
     caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/170129slglks.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/170129slglks.jpg
     caption: Terumbu Selegie, Jan 17 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/140908hntlks1m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/140908hntlks1m3.JPG
     caption: Pulau Hantu, Sep 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/140811trylks2m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/140811trylks2m3.JPG
     caption: Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/250713tryjk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/250713tryjk2.jpg
     caption: Terumbu Raya, Jul 25 Photo shared by Jayden Kang on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/100518bbbjk4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/100518bbbjk4m3.jpg
     caption: Beting Bemban Besar, May 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/bornella/100629tpdjk6m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/100629tpdjk6m6l.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
 links_references: '**Links**
 

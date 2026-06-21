@@ -1,6 +1,6 @@
 ---
 title: 'Hypselodoris nudibranchs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hypselodoris nudibranchs  on the shores of Singapore
 keywords: hypselodoris, kanga, nudibranch, slug, seaslug, chromodoridae, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -24,14 +24,14 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
     caption: Pink-gilled hypselodoris
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg
     caption: Hypselodoris maritima
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
     caption: Hypselodoris kanga
 size:
 - 2.0

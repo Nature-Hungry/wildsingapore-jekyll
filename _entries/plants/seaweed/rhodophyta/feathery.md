@@ -1,6 +1,6 @@
 ---
 title: Feathery red seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feathery red seaweed on the shores of Singapore
 keywords: feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, rhodophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -24,21 +24,21 @@ order: Ceramiales
 subfamily: Spyridioideae
 tribe: Spyridieae
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/feathery/091218tmd5943m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/feathery/091218tmd5943m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/feathery/091218tmd5943m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/feathery/091218tmd5943m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/feathery/050525hntd3357m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/feathery/050525hntd3357m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/feathery/091205sudd5482m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/feathery/091205sudd5482m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/feathery/050918smkg2684m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/feathery/050918smkg2684m3.jpg
     caption: Pulau Semakau, Sep 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/feathery/080802sjid8693m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/feathery/080802sjid8693m3.jpg
     caption: St. John's Island, Aug 08
 links_references: '**Links**
 
@@ -110,7 +110,7 @@ This fine feathery red seaweed is sometimes seen on our Southern shores, attache
 
 Clusters of short feathery 'stems' (2-4cm long). Each 'stem' has side branches covered in fine filaments that result in a feathery appearance. Usually reddish-brown, maroon sometimes with greenish tinge.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg)
+*![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg)
 
 Pulau Hantu, May 05*
 

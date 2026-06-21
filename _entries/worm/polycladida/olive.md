@@ -1,6 +1,6 @@
 ---
 title: Olive flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Olive flatworm on the shores of Singapore
 keywords: flat, worm, flatworm, tytthosoceros, lizardensis, polyclad, polycladida,
   turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,42 +17,42 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/180616bblks1.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/olive/180616bblks1.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/180616bblks1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/180616bblks1.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/180616bblks1a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/180616bblks1a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/090706tmftd6588m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/090706tmftd6588m3.jpg
     caption: Tanah Merah, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/090706tmftd6586m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/090706tmftd6586m3.jpg
     caption: Underside.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/170331chg7mn.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/170331chg7mn.jpg
     caption: Changi, Mar 17 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/200821cjjll2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/200821cjjll2.jpg
     caption: Chek Jawa, Aug 20 Photo shared by Jianlin Liu on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/090526bblks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/090526bblks1m3.JPG
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/110518bblks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/110518bblks1m3.JPG
     caption: Beting Bronok, May 11 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/111126bblks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/111126bblks1m3.JPG
     caption: Beting Bronok, Nov 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/160607bbro1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/160607bbro1.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/160607bbro2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/160607bbro2.jpg
     caption: Beting Bronok, Jun 16 Photo shared by Rene Ong on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/181225kuslks8.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/181225kuslks8.jpg
     caption: Kusu Island, Dec 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/240211bigsisrk1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/240211bigsisrk1.jpg
     caption: Big Sisters' Island, Feb 2024 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/olive/241116smkslks4.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/olive/241116smkslks4.jpg
     caption: Pulau Semakau (South), Nov 24 Photo shared by Loh Kok Sheng on facebook
       .
   gallery7:

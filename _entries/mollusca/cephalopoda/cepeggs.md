@@ -1,6 +1,6 @@
 ---
 title: Cephalapod eggs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cephalapod eggs on the shores of Singapore
 keywords: squid, cuttlefish, octopus, cephalopod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,7 +14,7 @@ kingdom: Animalia
 phylum: Mollusca
 class: Cephalopoda
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - Egg capsules contain living eggs or tiny animals. Don't disturb them.
@@ -22,53 +22,53 @@ trivia_items:
 - Please don't bring egg capsules home. Thousands of baby animals may die.
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
     caption: String of black egg capsules Changi, Jul 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg
     caption: Developing babies Changi, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg
     caption: Another kind of egg capsule commonly seen. Pulau Hantu, Feb 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
     caption: Changi, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
     caption: Carrying eggs?
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/160125obsjt4.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/160125obsjt4.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/171206ubnlks5.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/171206ubnlks5.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook ..
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/171206ubnlks7.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/171206ubnlks7.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/210529ecpblks12.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/210529ecpblks12.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/100302tmlks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/100302tmlks3m3.jpg
     caption: East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/090528ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/090528ecplks.JPG
     caption: East Coast Park, May 09 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/200919bsisvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/200919bsisvc2.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Vincent Choo on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/100502trylks2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/100502trylks2m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his flickr ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/080509smklks.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/080509smklks.JPG
     caption: Pulau Semakau, May 08 Photo shared by Loh Kok Sheng on flickr .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/160312tptjtm2.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/160312tptjtm2.jpg
     caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Juria Toramae on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/170311bbbjt.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/170311bbbjt.jpg
     caption: Beting Bemban Besar, Mar 17 Photo shared by Juria Toramae on facebook
       .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/091204pawd5287m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/091204pawd5287m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cepeggs/091205sudjk8m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/091205sudjk8m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
 size:
 - 1.5

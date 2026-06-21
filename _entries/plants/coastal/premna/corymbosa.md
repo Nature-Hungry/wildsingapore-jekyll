@@ -1,6 +1,6 @@
 ---
 title: Buas buas
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Buas buas on the shores of Singapore
 keywords: premna, corymbosa, verbenacea, plant, tree, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -21,33 +21,33 @@ class: Magnoliopsida
 order: Lamiales
 subfamily: Premnoideae
 updated: Apr 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090412hntd9874m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090412hntd9874m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090428chgd0934m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090428chgd0934m3.jpg
     caption: Changi Beach, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090428chgd0935m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090428chgd0935m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090428chgd0937m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090428chgd0937m3.jpg
     caption: '''Stout, stocky trunk'''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/081206smkd2469m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/081206smkd2469m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/081206smkd2473m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/081206smkd2473m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/081206smkd2473m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/081206smkd2473m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090328sbwrd8580m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090328sbwrd8580m3.jpg
     caption: Sungei Buloh, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090328sbwrd8580m3c.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090328sbwrd8580m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090328sbwrd8583m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090328sbwrd8583m3.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090822sisd9802m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090822sisd9802m3.jpg
     caption: Sisters Island, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090822sisd9802m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090822sisd9802m3a.jpg
     caption: ''
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -87,11 +87,11 @@ The tiny white flowers appear on a many branched cluster that resembles a little
 
 According to Burkill, the leaves are eaten as a vegetable and sometimes cooked with fish of "an objectionable flavour to mask their taste". The timber is not considered of high value, although small household items are sometimes made of it. Various parts of the plant are used in traditional medicine and one of the common names for this plant is 'Headache tree'. I'm not sure whether this means the plant gives us a headache or cures the headache.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090412hntd9874m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090412hntd9874m6l.jpg)
 
 *Pulau Hantu, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/premna/corymbosa/090412hntd9875m3.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/premna/corymbosa/090412hntd9875m3.jpg)*
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -1,6 +1,6 @@
 ---
 title: Star-fruit
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Star-fruit on the shores of Singapore
 keywords: star, fruit, starfruit, belimbing, averrhoa, carambola, oxalidaceae, tree,
   plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -21,7 +21,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Oxalidales
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg
 links_references: '**Links**
 
   - [*Averrhoa carambola*](http://floraofsingapore.wordpress.com/2010/03/26/averrhoa-carambola/)on
@@ -49,23 +49,23 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2047m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091005cjd2047m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2046m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091005cjd2046m3.jpg
     caption: Pulau Ubin, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2047m6l.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091005cjd2047m6l.jpg
     caption: Pulau Ubin, Oct 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4764m3b.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091128cjd4764m3b.jpg
     caption: Chek Jawa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4764m3.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091128cjd4764m3.jpg
     caption: Chek Jawa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4764m3a.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091128cjd4764m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4766m3a.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091128cjd4766m3a.jpg
     caption: Chek Jawa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091128cjd4766m3b.jpg
+  - url: https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091128cjd4766m3b.jpg
     caption: ''
 size:
 - 1000.0
@@ -86,7 +86,7 @@ A small tree (to about 10m), profusely branched. Compound leaves made up of (3-5
 
 The fruit is considered 'cooling'. According to Burkill, those with sweet fruits are eaten fresh or made into jams and tarts, while sour ones are cooked. The crushed leaves and shoots are used by the Malays to treat chicken pox, ringworm and headaches. The fruits are also used to treat a hangover from too much drinking as well as stomach ailments. The acid in the juices may be used to clean metal.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg)
+![](https://images.naturehungry.sg/plants/fruittrees/averrhoa/carambola/091005cjd2039m6l.jpg)
 
 *Pulau Ubin, Oct 09*
 

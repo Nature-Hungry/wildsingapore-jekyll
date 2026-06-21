@@ -1,6 +1,6 @@
 ---
 title: Mantis shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mantis shrimps on the shores of Singapore
 keywords: mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,29 +20,29 @@ order: Stomatopoda
 suborder: Unipeltata
 superfamily: Gonodactyloidea
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
     caption: Changi, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9092m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/050707cftg9092m3a.jpg
     caption: Amazing eyes!
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3b.jpg
     caption: Powerful tail
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg
     caption: Deadly pincers of a spearer mantis shrimp .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg
     caption: Changi, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg
     caption: This is all that is usually seen of a mantis shrimp in hiding. Changi,
       Jul 04
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg
     caption: Spearer mantis shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg
     caption: Smasher mantis shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/stomatopoda/banded/100527tmd3635m3e.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/banded/100527tmd3635m3e.jpg
     caption: Banded mantis shrimp
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Green-shouldered goby
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Green-shouldered goby on the shores of Singapore
 keywords: green, shoulder, goby, acentrogobius, caninus, fish, gobiidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,15 +24,15 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
     caption: Changi, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/100913prpd1556m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/caninus/100913prpd1556m6l.jpg
     caption: Large dark spot on its 'shoulder'. Pasir Ris, Sep 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/caninus/251009sjiccn2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/caninus/251009sjiccn2.jpg
     caption: St John's Island, Oct 25 Photo shared by Che Cheng Neo on facebook .
 links_references: '**Links**
 

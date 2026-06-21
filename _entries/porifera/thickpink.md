@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Champagne  sponge on the shores of Singapore
 keywords: thick, pink, branching, sponge, callyspongia, diffusa, callyspongiidae,
 layout: entry
 shape: branching
@@ -16,36 +16,36 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/100627hntd7322m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/thickpink/100627hntd7322m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/100627hntd7322m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/100627hntd7322m3.jpg
     caption: Pulau Hantu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/111225tmskd4881m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/111225tmskd4881m3.jpg
     caption: Terumbu Semakau, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/080220smkd9826m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/080220smkd9826m3.jpg
     caption: Pulau Semakau, Feb 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/070615sntrd2202m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/070615sntrd2202m3.jpg
     caption: Sentosa, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/070701hntd3029m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/070701hntd3029m3.jpg
     caption: Pulau Hantu, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/100131slud8873m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/100131slud8873m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/151001blylks7m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/151001blylks7m3.jpg
     caption: Berlayar Creek, )ct 15 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/100130brkd8544m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/100130brkd8544m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/091205sudlks8m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/091205sudlks8m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/100601slud4950m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/100601slud4950m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/100530tbkd4277m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/100530tbkd4277m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/thickpink/100130brkd8487m3.jpg
+  - url: https://images.naturehungry.sg/porifera/thickpink/100130brkd8487m3.jpg
     caption: Terumbu Berkas, Jan 10
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Weedy wrasse
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Weedy wrasse on the shores of Singapore
 keywords: weedy, wrasse, fish, pteragogus, labridae, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,30 +23,30 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Cirrhilabrinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
     caption: Cyrene, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/120408sjimn1m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/120408sjimn1m6l.jpg
     caption: St. John's Island, Apr 12 Photo shared by Marcus Ng on facebook
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/100614bbd5958m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/100614bbd5958m6l.jpg
     caption: Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
     caption: Tuas, Apr 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/230606cjlks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/230606cjlks3.jpg
     caption: Chek Jawa, Jun 23 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/240623hntrk1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/240623hntrk1.jpg
     caption: Pulau Hantu, Jun 24 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/240527snttl1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/240527snttl1.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Tammy Lim on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/140713tsmkmn1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/140713tsmkmn1m3.jpg
     caption: Flagfin wrasse Pteragogus flagellifer Terumbu Semakau, Jul 14 Photo shared
       by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/230509tsmkky3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/230509tsmkky3.jpg
     caption: Terumbu Semakau, May 23 Photo shared by Kevlin Yong on facebook .
 links_references: '**Links**
 

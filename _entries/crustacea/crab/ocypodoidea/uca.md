@@ -1,6 +1,6 @@
 ---
 title: 'Fiddler crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fiddler crabs  on the shores of Singapore
 keywords: fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -26,7 +26,7 @@ superfamily: Ocypodoidea
 subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
 links_references: "**Links**\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053.htm)with\
@@ -59,42 +59,42 @@ links_references: "**Links**\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.
   \ Kong University Press. 350 pp."
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
     caption: Female (top) and male (bottom). Pasir Ris, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7966m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7966m3a.jpg
     caption: Males can't feed with the enlarged pincer and have only one small pincer
       to feed with. Chek Jawa, Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/040108ubnd0080m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/040108ubnd0080m3.jpg
     caption: Females have two small pincers and so can feed faster. Pulau Ubin Jan
       04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/040108ubnd0113m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/040108ubnd0113m3.jpg
     caption: Males may be 'right' or 'left' handed. Pulau Ubin, Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
     caption: Male displaying, waving his legs and enlarged pincer . St John's Island,
       Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/070505kusg9113m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/070505kusg9113m3.jpg
     caption: Mating usually happens inside the burrow, but this shameless pair was
       outside! Kusu Island, May 07
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
     caption: Porcelain fiddler crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
     caption: Orange fiddler crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
     caption: Rosy fiddler crab
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
     caption: Stout pincered fiddler crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
     caption: Tiny colourful fiddler crab
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/200111smksll1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/noid/200111smksll1.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
     caption: Chek Jawa, Mar 11
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/noid/130923tmftd3476m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/noid/130923tmftd3476m3.jpg
     caption: Tanah Merah, Sep 13
 location:
 - prp
@@ -156,9 +156,7 @@ When a male Fiddler crab succeeds in persuading a female to mate with him, they 
 Fiddler crabs are eaten by many animals higher up in the food chain. The Kingfisher is among the birds that might snack on them.
 
 **Status and threats:**
-The Rosy fiddler crab (
-*Uca rosea*
-) is listed among the threatened animals of Singapore. While the other species of Fiddler crabs are not listed as endangered
+The Rosy fiddler crab (*Uca rosea*) is listed among the threatened animals of Singapore. While the other species of Fiddler crabs are not listed as endangered
 , like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mexican  green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mexican  green seaweed on the shores of Singapore
 keywords: mexican, feathery, seaweed, weed, green, caulerpa, mexicana, caulerpaceae,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,23 +19,23 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
     caption: In small clumps on rocky areas. St John's Island, Sep 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg
     caption: Mid-rib width wider or the same as the length of side 'branches'. Chek
       Jawa, Aug 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/mexicana/100130brkd8613m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/100130brkd8613m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3c.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3c.jpg
     caption: Side branches with rounded or bluntly pointed tips.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3b.jpg
     caption: Terumbu Pempang Laut, Aug 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/mexicana/100810sngd9926m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/100810sngd9926m3.jpg
     caption: Pulau Senang, Aug 10
 links_references: '**Links**
 

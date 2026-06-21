@@ -1,6 +1,6 @@
 ---
 title: 'Mottled swimming crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mottled swimming crab  on the shores of Singapore
 keywords: mottled, swimming, crab, thalamita, portunidae, decapod, crustrace, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -32,49 +32,49 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Thalamitinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/091106smkd3749m3.jpg
     caption: Pulau Semakau, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/091106smkd3749m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/091106smkd3749m3b.jpg
     caption: 4 lobes between the eyes. Fine banded pattern on body edge and body upper
       surface.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/091106smkd3749m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/091106smkd3749m3a.jpg
     caption: 5 spines on the side of the body. Fourth spine smaller than other spines.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/100613sngd5595m3d.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/100613sngd5595m3d.jpg
     caption: Sometimes 6 lobes betweeen the eyes.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/100613sngd5595m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/100613sngd5595m3a.jpg
     caption: Fourth spine smaller than other spines.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/100613sngd5595m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/100613sngd5595m3.jpg
     caption: Pulau Senang, Jun 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/100812tpld0284m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/100812tpld0284m3.jpg
     caption: About to mate? Terumbu Pempang Laut, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/260101cryyls4a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/260101cryyls4a.jpg
     caption: Caught an amphipod? Cyrene, Feb 26 Photo by Yan Le Su on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/180911pgldc6.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/180911pgldc6.jpg
     caption: Punggol, Sep 18 Photo by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/230704chgsafmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/230704chgsafmn2.jpg
     caption: Changi Creek, Jul 23 Photo by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/250627bbal3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/250627bbal3.jpg
     caption: Betint Bronok, Jun 25 Photo shared by Adriane Lee on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/120507srpmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/120507srpmn.jpg
     caption: Sentosa Serapong, May 12 Photo shared by Marcus Ng on flickr ..
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/171009blymn12.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/171009blymn12.jpg
     caption: Berlayar Creek, Oct 17 Photo by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/250811jngal4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/250811jngal4.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/260202smkemn7.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/260202smkemn7.jpg
     caption: / Pulau Semakau East, Feb 26 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/200626tptjt2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/200626tptjt2.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/070531sismn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/070531sismn.jpg
     caption: Sisters Islands, May 07 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

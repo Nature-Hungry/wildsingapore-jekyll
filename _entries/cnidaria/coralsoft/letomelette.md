@@ -1,6 +1,6 @@
 ---
 title: Omelette leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Omelette leathery soft coral on the shores of Singapore
 keywords: sarcophyton, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,45 +17,45 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
     caption: St. John's Island, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/110802smkd8147m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/110802smkd8147m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/120621cyrd5934m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/120621cyrd5934m3.jpg
     caption: Cyrene Reef, Jun 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/100812tpld0375m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/100812tpld0375m3.jpg
     caption: Colony usually mushroom shaped. Terumbu Pempang Laut, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/160724tpto7240179m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/160724tpto7240179m3.jpg
     caption: Bleaching and 'melting' colony during mass coral bleaching. Terumbu Pempang
       Tengah, Jul 16
-  - url: https://f003.backblazeb2.com/file/naturehungry/ctenophora/coeloplana/120722cyrd8101m3.jpg
+  - url: https://images.naturehungry.sg/ctenophora/coeloplana/120722cyrd8101m3.jpg
     caption: Tiny ctenophores sometimes seen. Cyrene Reef, Jul 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/140518tmlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/140518tmlks.JPG
     caption: Tanah Merah, May 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/220618tmftlks20.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/220618tmftlks20.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/100130brkd8474m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/100130brkd8474m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/091204pawd5270m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/091204pawd5270m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/100810sngd9982m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/100810sngd9982m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/100613sngd5501m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/100613sngd5501m3.jpg
     caption: Pulau Senang, Jun 10 Bleaching.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/100811slud0054m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/100811slud0054m3.jpg
     caption: Pulau Salu, Aug 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/091205sudd5501m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/091205sudd5501m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letomelette/100131slud8803m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/100131slud8803m3.jpg
     caption: Terumbu Salu, Jan 10
 links_references: '**Links**
 

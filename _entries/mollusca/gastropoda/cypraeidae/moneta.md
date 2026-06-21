@@ -1,6 +1,6 @@
 ---
 title: 'Money cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Money cowrie  on the shores of Singapore
 keywords: money, cowrie, cypraeidae, cypraea, monetaria, moneta, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -20,31 +20,31 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Sep 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
     caption: Cyene Reef, Jun 19 Photo shared by Victor Toh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/190621cyrrl1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/190621cyrrl1.jpg
     caption: Cyene Reef, Jun 19 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/190621cyrm3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/190621cyrm3.jpg
     caption: Cyene Reef, Jun 19
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/190621cyrm3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/190621cyrm3a.jpg
     caption: Cyene Reef, Jun 19
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/190621cyrm3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/190621cyrm3b.jpg
     caption: Cyene Reef, Jun 19
   gallery3:
   - url: https://live.staticflickr.com/31337/48105665873_396f96f416_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks1.jpg
     caption: Cyene Reef, Apr 21 Photos shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks2.jpg
     caption: Foot
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks3.jpg
     caption: Underside of shell with 'teeth'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks4.jpg
     caption: ''
 links_references: '**Links**
 

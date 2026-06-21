@@ -1,6 +1,6 @@
 ---
 title: 'Misi '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Misi  on the shores of Singapore
 keywords: misi, gutta, pouteria, obovata, sapotaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,7 +20,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg
 links_references: '**Links**
 
   - *[Pouteria obovata](http://floraofsingapore.wordpress.com/2010/04/16/planchonella-obovata/)*on
@@ -48,37 +48,37 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/090912chgbwd0597m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/090912chgbwd0597m3.jpg
     caption: Changi, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/090912chgbwd0597m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/090912chgbwd0597m3b.jpg
     caption: Changi, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/090912chgbwd0597m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/090912chgbwd0597m6l.jpg
     caption: Changi, Sep 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/091213ubnd5820m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/091213ubnd5820m6l.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/091213ubnd5820m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/091213ubnd5820m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/091213ubnd5816m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/091213ubnd5816m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/090822sisd9794m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/090822sisd9794m6l.jpg
     caption: Sisters Island, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/090822sisd9797m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/090822sisd9797m3.jpg
     caption: Sisters Island, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/100420sntd1511m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/100420sntd1511m3.jpg
     caption: Sentosa, Apr 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/091005cjd2350m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/091005cjd2350m6l.jpg
     caption: Chek Jawa, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/091005cjd2353m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/091005cjd2353m3.jpg
     caption: Chek Jawa, Oct 09
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/110316labd7238m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/110316labd7238m6l.jpg
     caption: Labrador, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/110316labd7246m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/110316labd7246m3.jpg
     caption: Labrador, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/110316labd7238m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/110316labd7238m3.jpg
     caption: Labrador, Mar 11
 size:
 - 1800.0
@@ -104,7 +104,7 @@ Small to medium-sized tree, to about 18m. Crown is conical and appears coppery. 
 **Status and threats:**
 According to Burkill, the timber is heavy, pinkish brown and used for cabinet making and carving. The leaves are used in treatment for stomach ache, chest pains and poultices for lumbago.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg)
 
 *Changi, Sep 09*
 

@@ -1,6 +1,6 @@
 ---
 title: Eye-spotted sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eye-spotted sea cucumber on the shores of Singapore
 keywords: eye, spot, cucumber, seacucumber, stichopus, ocellatus, stichopodidae, holothuroidae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,22 +26,22 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg
     caption: Pulau Semakau, Mar 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/ocellatus/080321smkd0385m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/ocellatus/080321smkd0385m3.jpg
     caption: White bump with dark tip
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/ocellatus/080321smkd0385m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/ocellatus/080321smkd0385m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/ocellatus/080321smkd0383m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/ocellatus/080321smkd0383m3.jpg
     caption: Tube feet in three rows on the flat underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/ocellatus/080321smkd0383m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/ocellatus/080321smkd0383m3b.jpg
     caption: Slender tube feet.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/ocellatus/220201brktch1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/ocellatus/220201brktch1.jpg
     caption: Pulau Berkas, Feb 21 Photo shared by Toh Chay Hoon on facebook .
 links_references: '**Links**
 

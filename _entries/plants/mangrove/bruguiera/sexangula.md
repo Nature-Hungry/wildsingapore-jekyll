@@ -1,6 +1,6 @@
 ---
 title: Tumu berau
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tumu berau on the shores of Singapore
 keywords: bakau, berau, bruguiera, sexangula, rhizophoraceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,15 +23,15 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 189949
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg
     caption: Large flowers, each on one stalk. Calyx usually yellow. Pulau Ubin, Dec
       09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg
     caption: No tassels on petal tips. Pasir Ris, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg
     caption: Sepals extend away from the propagule. Pasir Ris, Jan 10
 links_references: '**Links**
 
@@ -112,9 +112,7 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 
 **Sometimes mistaken for**
 [Tumu](gymnorrhiza)
-(
-*Bruguiera gymnorrhiza*
-) but differs in smaller, thinner leaves and the flower petal tips are blunt without hairy tassels.
+(*Bruguiera gymnorrhiza*) but differs in smaller, thinner leaves and the flower petal tips are blunt without hairy tassels.
 
 ## Human uses
 
@@ -123,15 +121,15 @@ According to Burkill, the developing embryo is cooked, soaked overnight and then
 **Status and threats:**
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg)
 
 Pasir Ris, Jan 10
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/090329cjd8650m3a.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/090329cjd8650m3a.jpg)
 
 Chek Jawa, Mar 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/bruguiera/sexangula/091213ubnd5857m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091213ubnd5857m3.jpg)
 
 Pulau Ubin, Dec 09*
 

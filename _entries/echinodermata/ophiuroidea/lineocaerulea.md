@@ -1,6 +1,6 @@
 ---
 title: Blue-lined brittle star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-lined brittle star on the shores of Singapore
 keywords: blue, lined, brittle, star, brittlestar, macrophiothrix, ophiothrix, lineocaerulea,
   ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -26,32 +26,32 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/100614bbd6084m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/100614bbd6084m3.jpg
     caption: Underside.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3.jpg
     caption: Pulau Sekudu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3c.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3.jpg
     caption: Pulau Sekudu, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3a.jpg
     caption: Releasing eggs?
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/110517tptlks4m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/110517tptlks4m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/lineocaerulea/130526chglks1.JPG
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/130526chglks1.JPG
     caption: Changi, May 13 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 
@@ -105,9 +105,7 @@ Disk diameter about 1cm, arms 10-20cm long. Central disk thick and somewhat pent
 **Sometimes confused with**
 the
 [Very long armed brittle star](longipeda)
-(
-*Macrophiothrix longipeda*
-) which also has very long arms but lacks the blue lines and has flatter spines.
+(*Macrophiothrix longipeda*) which also has very long arms but lacks the blue lines and has flatter spines.
 
 **Status and threats:**
 The Blue-lined brittle star is listed among the threatened animals of Singapore.

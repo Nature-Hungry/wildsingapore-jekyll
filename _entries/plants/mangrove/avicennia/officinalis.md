@@ -1,6 +1,6 @@
 ---
 title: 'Api-api ludat '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Api-api ludat  on the shores of Singapore
 keywords: api, ludat, avicennia, officinalis, acanthaceae, avicenniaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -24,27 +24,26 @@ order: Lamiales
 subfamily: Avicennioideae
 inat_id: 189587
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/090413blyd9961m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090413blyd9961m3.jpg
     caption: Seedling starting to grow. Berlayar Creek, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg
     caption: Large flowers, crowded together. Pulau Ubin, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg
     caption: Fruits rounded with pointed tip. Chek Jawa, Aug 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/090214sbwrd7157m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090214sbwrd7157m3.jpg
     caption: Salt crystals on upper surface in hot weather. Sungei Buloh Wetland Reserve,
       Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/030817cjd0012m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/030817cjd0012m3.jpg
     caption: Pollinated by flies? Chek Jawa, Aug 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/090614ubnd4319m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090614ubnd4319m3a.jpg
     caption: Pulau Ubin, Jun 09
 links_references: '**Links**
 
   - [Api-api ludat (
-
   *Avicennia officinalis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1051)
@@ -127,11 +126,11 @@ Fruit oval slightly beaked (2-3cm long) smooth velvety.
 
 According to Giesen, the fruits are eaten, and timber used as fuel while the bark resin is used in traditional medicine as a contraceptive.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg)
 
 *Pulau Ubin, Jun 09*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/officinalis/020727cjcpd4363m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/020727cjcpd4363m3.jpg)
 
 Leaves glossy and smooth.
 

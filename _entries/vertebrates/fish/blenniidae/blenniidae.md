@@ -1,6 +1,6 @@
 ---
 title: Blennies
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blennies on the shores of Singapore
 keywords: blenny, fish, blenniidae, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,29 +18,28 @@ superorder: Acanthomorpha
 order: Blenniiformes
 suborder: Blennioidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg
     caption: Pulau Semakau, Dec 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/090819ecpd9415m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/oyster/090819ecpd9415m6l.jpg
     caption: East Coast, Aug 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/090918tmd0989m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/090918tmd0989m6l.jpg
     caption: Guarding eggs laid inside a Fan shell . Tanah Merah, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg
     caption: Guarding eggs laid inside a snail shell. Pulau Pawai, Dec 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/variabilis/091009tmd2618m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/091009tmd2618m3.jpg
     caption: Variable fang-blenny
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg
     caption: Oyster-blenny
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
     caption: Rockskipper blenny
 links_references: '**Links**
 
   - [Striped Fang-blenny (
-
   *Meiacanthus grammistes*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356)
@@ -48,7 +47,6 @@ links_references: '**Links**
   ,
 
   [Whitebar Oyster-blenny (
-
   *Omobranchus ferox*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355)
@@ -56,7 +54,6 @@ links_references: '**Links**
   ,
 
   [Variable Fang-blenny (
-
   *Petroscirtes variabilis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357)

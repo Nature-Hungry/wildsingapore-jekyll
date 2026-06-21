@@ -1,6 +1,6 @@
 ---
 title: White-rumped sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of White-rumped sea cucumber on the shores of Singapore
 keywords: blotchy, cucumber, seacucumber, actinopyga, lecanora, holothuriidae, holothuroidae,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,7 +26,7 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Holothuriida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
 links_references: '**Links**
 
   - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222.htm)Tan, Leo
@@ -62,55 +62,55 @@ links_references: '**Links**
   vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/070701hntg0858m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/070701hntg0858m3.jpg
     caption: Pulau Hantu, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/070701hntg0857m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/070701hntg0857m3a.jpg
     caption: White ringed backside guarded by five 'teeth'. Pulau Hantu, Jul 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/240527srplks8.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/240527srplks8.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/110220lazjk3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/110220lazjk3m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by James Koh on his blog
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/251009sjitl3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/251009sjitl3.jpg
     caption: St John's Island, Oct 25 Photo shared by Tammy Lim on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/130628thntlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/201018smkslks5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/201018smkslks5.jpg
     caption: Pulau Semakau South, Oct 20 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/160609tpkmn1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/160609tpkmn1.jpg
     caption: Terumbu Pempang Kecil, Jun 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/100629tpdjk15m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/100629tpdjk15m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/150524tplhpy3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/150524tplhpy3m3.jpg
     caption: Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/100617tbtch3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/100617tbtch3m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh CHay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/110422tbmjk2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/110422tbmjk2m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/151225tsmklks8m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/151225tsmklks8m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/210428slulks9.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/210428slulks9.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/100131slulks2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/100131slulks2m3.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/100130brkd8661m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/100130brkd8661m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/100613snglks1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/100531bioc4530m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/100531bioc4530m3.jpg
     caption: Pulau Biola, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/091231biolks1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/091231biolks1m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/lecanora/220201brklks3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/220201brklks3.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
 location:
 - snt

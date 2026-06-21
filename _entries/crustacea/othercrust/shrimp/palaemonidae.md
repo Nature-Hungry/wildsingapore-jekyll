@@ -1,6 +1,6 @@
 ---
 title: Palaemonid shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Palaemonid shrimps on the shores of Singapore
 keywords: commensal, anemone, shrimp, periclimenes, palaemonid, palaemonidae, decapod,
   crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,27 +25,27 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
-coverimg: http://www.wildsingapore.com/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: About 1cm, several seen on a Thorny sea cucumber . Beting Bronok, Aug
       05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
     caption: About 1cm, a pair seen on a Flowery sea pen . Changi, May 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: Peacock-tail anemone shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
     caption: Tiny carpet anemone shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
     caption: Gelek anemone shrimp
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
     caption: Little red nose shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
     caption: Machine gun coral shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
     caption: Glass shrimp
 links_references: "**Links**\n- [Glass Shrimp (\n*Periclimenes*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/180)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

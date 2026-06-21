@@ -1,6 +1,6 @@
 ---
 title: Pebble coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pebble coral on the shores of Singapore
 keywords: pebble, astreopora, acroporidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,56 +17,56 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg
     caption: Terumbu Pempang Tengah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/110517tptd1553m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/110517tptd1553m3a.jpg
     caption: Polyps with 24 flat, petal-like tentacles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/070520smkg9486m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/070520smkg9486m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/080605hntd4924m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/080605hntd4924m3.jpg
     caption: Pulau Hantu, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/060401ulrd0807m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/060401ulrd0807m3.jpg
     caption: Pulau Hantu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/110517tptd1582m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/110517tptd1582m3.jpg
     caption: Terumbu Pempang Tengah, May 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/220618tmftlks10.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/220618tmftlks10.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/200805sntlks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/200805sntlks5.jpg
     caption: Sentosa Tg Rimau, Aug 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/240527srplks7.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/240527srplks7.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/100515sjilks4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100515sjilks4m3.jpg
     caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/210430sjilks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/210430sjilks5.jpg
     caption: St. John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/100616tsmlks3m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100616tsmlks3m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4316m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4316m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4310m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4310m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4333m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4333m3.jpg
     caption: Pulau Berkas, May 10
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/100531biod4492m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100531biod4492m3.jpg
     caption: Pulau Biola, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/091204pawd5257m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/091204pawd5257m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/100131slud8875m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100131slud8875m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/100601slud4768m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100601slud4768m3.jpg
     caption: Pulau Salu, Jun 10 Bleaching.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/astreopora/100810snglks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 

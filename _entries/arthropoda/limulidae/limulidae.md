@@ -1,6 +1,6 @@
 ---
 title: 'Horseshoe crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Horseshoe crabs  on the shores of Singapore
 keywords: horseshoe, king, crab, limulidae,  xiphosura, merostomata, chelicerate,
   arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -23,7 +23,7 @@ subphylum: Chelicerata
 class: Merostomata
 order: Xiphosurida
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
+coverimg: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - They are NOT crabs. They are more closely related to spiders than crabs.
@@ -33,43 +33,43 @@ trivia_items:
   breakthroughs in cloning this substance.
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
     caption: Often seen in a pair, the smaller male on top and behind the larger female.
       Pulau Sarimbun, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg
     caption: Using its tail to flip over to the right side. Note the white slipper
       snails stuck on the underside. Chek Jawa, Aug 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg
     caption: Often entangled in abandoned drift nets. Changi, Oct 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg
     caption: Males have modified front legs to hold on to the female. Chek Jawa, Mar
       11
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg
     caption: Females don't have modified front legs. Chek Jawa, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
     caption: Juvenile horseshoe crab. Kranji, Jun 08 Horseshoe crab eggs seen in sand.
       Mandai, Apr 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg
+  - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg
     caption: ''
 links_references: '**Links**
 

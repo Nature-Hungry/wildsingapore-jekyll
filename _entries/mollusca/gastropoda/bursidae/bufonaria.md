@@ -1,6 +1,6 @@
 ---
 title: 'Frog snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Frog snail  on the shores of Singapore
 keywords: frog, bufonaria, bursidae, gastropod, mollusc, snail, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -18,26 +18,26 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg
     caption: East Coast, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2290m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2290m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3a.jpg
     caption: Muscular foot with operculum.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg
     caption: East Coast, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/180616bblks17a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/180616bblks17a.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/bursidae/bufonaria/180616bblks17.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/180616bblks17.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
@@ -60,7 +60,6 @@ links_references: '**Links**
   with photos of shells and detailed fact sheets for many species.
 
   - [Common frog snail (
-
   *Bufonaria rana*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86964)
@@ -68,7 +67,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Common frog snail (
-
   *Bufonaria rana*
 
   ) in Family Bursidae in the Gastropods section by J.M. Poutiers in the FAO Species
@@ -130,9 +128,7 @@ Although the shells are often seen (usually occupied by hermit crabs), living sn
 
 4-6cm. Shell thick, conical with spirals of many regular bumps and blunt spines. There is a short tubular tip on the shell for the siphon. Ooperculum thin and flexible, made of a horn-like material. Body pale, with a long muscular foot, short tentacles with a black band at the tips.
 
-The Common frog snail (
-*Bufonaria rana*
-) is about 7.5cm long, up to 9cm and found on mud or muddy-sand bottoms.
+The Common frog snail (*Bufonaria rana*) is about 7.5cm long, up to 9cm and found on mud or muddy-sand bottoms.
 
 **What does it eat?**
 Some species appear appear to feed on tube worms. These have an extendible proboscis and large salivary glands, that are probably used to anaesthetize the worms in their tubes; the worms are then sucked out and swallowed whole.

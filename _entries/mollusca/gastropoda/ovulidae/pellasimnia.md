@@ -1,6 +1,6 @@
 ---
 title: Rose spindle cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rose spindle cowrie on the shores of Singapore
 keywords: rose, spindle, ovulid, cowrie, ovulidae, pellasimnia, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,19 +19,19 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
     caption: Pulau Hantu, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks.JPG
     caption: East Coast Park, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
 location:
 - ecp

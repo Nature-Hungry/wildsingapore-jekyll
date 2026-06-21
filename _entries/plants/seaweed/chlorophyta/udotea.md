@@ -1,6 +1,6 @@
 ---
 title: Ruffled fan green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ruffled fan green seaweed on the shores of Singapore
 keywords: frilly, fan, seaweed, weed, green, udotea, udoteacea, chlorophyta, algae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -19,14 +19,14 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/050411tusd2298m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/udotea/050411tusd2298m3.jpg
     caption: Tuas, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/080916tusd0495m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/udotea/080916tusd0495m3.jpg
     caption: Tuas, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/080409tusd0008m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/udotea/080409tusd0008m3.jpg
     caption: Tuas, Apr 08
 links_references: '**Links**
 
@@ -112,10 +112,10 @@ other fan-shaped green seaweeds. Here's more on
 
 Some species have anti-bacterial and anti-tumor properties.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg)
 
 *Tuas, Oct 10*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/udotea/101008tusd1766m3a.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/udotea/101008tusd1766m3a.jpg)
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

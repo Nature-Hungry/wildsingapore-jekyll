@@ -1,6 +1,6 @@
 ---
 title: 'Asam tree '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Asam tree  on the shores of Singapore
 keywords: asam, tamarind, tamarindus, indica, fabaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,7 +23,7 @@ order: Fabales
 subfamily: Detarioideae
 tribe: Amherstieae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg
 links_references: '**Links**
 
   - [*Tamarindus indica*](http://floraofsingapore.wordpress.com/2010/03/27/tamarindus-indica/)on
@@ -51,23 +51,23 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0292m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrkd0292m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0296m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrkd0296m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0302m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrkd0302m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0295m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrkd0295m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0287m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrkd0287m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0287m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrkd0287m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/091213ubnd5782m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tamarindus/indica/091213ubnd5782m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/091213ubnd5782m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/tamarindus/indica/091213ubnd5782m3a.jpg
     caption: ''
 size:
 - 2000.0
@@ -105,13 +105,13 @@ There is one Asam tree with
 . It is at Surin Ave Park with a girth of 3.5m and height 22m.
 ****
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg)
 
 *Changi, Apr 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0298m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrkd0298m3.jpg)
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/tamarindus/indica/090419chgcrkd0298m3a.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/tamarindus/indica/090419chgcrkd0298m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

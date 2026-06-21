@@ -1,6 +1,6 @@
 ---
 title: Slender penaeid prawn
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Slender penaeid prawn on the shores of Singapore
 keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,21 +24,21 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
     caption: Labrador, Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penslender/041019labd7633m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penslender/041019labd7633m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penslender/041019labd7633m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penslender/041019labd7633m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3.jpg
     caption: East Coast, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3b.jpg
     caption: ''
 location:
 - prp

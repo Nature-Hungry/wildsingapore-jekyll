@@ -1,6 +1,6 @@
 ---
 title: Singapore bivalve slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Singapore bivalve slug on the shores of Singapore
 keywords: bivalve, slug, berthelinia, singaporensis, juliidae, sacoglossa, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -36,42 +36,42 @@ superorder: Sacoglossa
 superfamily: Oxynooidea
 subfamily: Bertheliniinae
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
     caption: From the side. Pulau Hantu, May 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/130511hntd6673m6.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/130511hntd6673m6.jpg
     caption: From above.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/130511hntd6691m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/130511hntd6691m3.jpg
     caption: Several of various sizes often seen close to one another. Pulau Hantu,
       May 13
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/210527chgsaftch3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/210527chgsaftch3.jpg
     caption: Changi Creek, May 21 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/210613ubntch3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/210613ubntch3.jpg
     caption: Pulau Ubin, Jun 21 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/170624cjtch4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/170624cjtch4.jpg
     caption: Chek Jawa, Jun 16 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/160705cjlks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/160705cjlks2.jpg
     caption: Chek Jawa, Jul 16 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/240821skdch7.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/240821skdch7.jpg
     caption: Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/160706skdtch2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/160706skdtch2.jpg
     caption: Pulau Sekudu, Jul 16 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/170626skdlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/170626skdlks1.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg
     caption: Beting Bronok, Aug 15 Photo shared by Toh Chay Hoon on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/170812cyrtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/170812cyrtch1.jpg
     caption: Cyrene, Aug 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1a.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1.jpg
     caption: ''
 links_references: '**Links**
 
@@ -132,11 +132,11 @@ zone:
 
 ## Where seen?
 This tiny slug is sometimes seen on
-[Caulerpa seaweeds](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/caulerpa)
+[Caulerpa seaweeds](https://images.naturehungry.sg/plants/seaweed/chlorophyta/caulerpa)
 such as
 [Bell sea grape seaweeds](../../../plants/seaweed/chlorophyta/bell)
 and
-[Delicate feathery green seaweed](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/sertularioides)
+[Delicate feathery green seaweed](https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides)
 on some of our shores. Several slugs may be seen on one clump of seaweed. It was first described as a new species in July 2015 and named after Singapore.
 
 ## Features

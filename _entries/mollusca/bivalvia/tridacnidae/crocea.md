@@ -1,6 +1,6 @@
 ---
 title: Burrowing giant clam
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Burrowing giant clam on the shores of Singapore
 keywords: burrowing, giant, clam, tridacna, crocea, tridacnidae, bivalve, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -22,56 +22,55 @@ order: Cardiida
 superfamily: Cardioidea
 subfamily: Tridacninae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/100502trylks6m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/100502trylks6m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/100502trylks6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/100502trylks6m3.jpg
     caption: Thick fleshy 'lips' when submerged. Terumbu Raya , May 10 Photo shared
       by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: Short fluted scuplturing on shell. Pulau Hantu, Mar 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/160314lazlks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/160314lazlks1.JPG
     caption: Lazarus Island, Mar 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg
     caption: Pulau Hantu, Feb 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/250503cyrky1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/250503cyrky1.jpg
     caption: Tiny one about 3cm long Cyrene, May 25 Photo by Kelvin Yong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/210823smkejll2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/210823smkejll2.jpg
     caption: Tiny one about 3cm long Pulau Semakau (East). Aug 21 Photo by Jianlin
       LIu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/091105smknml1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/091105smknml1m3.jpg
     caption: Pulau Semakau, Nov 09 Photo shared by Neo Mei Lin on her blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/100519tsmklks4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/100519tsmklks4m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/100519tsmjk11m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/100519tsmjk11m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/091105smknml1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/091105smknml1m3.jpg
     caption: Pulau Semakau, Nov 09 Photo shared by Neo Mei Lin on her blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/150620tblks6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/150620tblks6m3.jpg
     caption: Terumbu Bemban, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/100629tpdjk11m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/100629tpdjk11m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/091231biojk2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/091231biojk2m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/100131slulks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/100131slulks3m3.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/100130brkd8701m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/100130brkd8701m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/100810sngd9891m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/100810sngd9891m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tridacnidae/crocea/210428slulks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/210428slulks6.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
   - [Crocus giant clam (
-
   *Tridacna crocea*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84545)
@@ -79,7 +78,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Crocus giant clam (
-
   *Tridacna crocea*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide

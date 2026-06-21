@@ -1,6 +1,6 @@
 ---
 title: 'Brown seaweeds '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Brown seaweeds  on the shores of Singapore
 keywords: brown, seaweed, weed, algae, phaeophyceae, phaeophyta, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -13,24 +13,24 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 08
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/sargassum/040423snted0054m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/040423snted0054m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/ybranched/040818sntd4759m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/ybranched/040818sntd4759m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/veinedbranch/040919sntd7025m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/veinedbranch/040919sntd7025m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg
     caption: ''
 links_references: '**Links**
 
@@ -138,8 +138,7 @@ Brown seaweeds are only found in the sea and are not found in freshwater.
 ## Role in habitat
 Brown seaweeds provide shelter and food for small animals. The large sargassum seaweeds in particular may shelter tiny octopuses, shrimps and fishes. The
 [Crosslandia slug](../../../mollusca/slugs/nudibranchia/crosslandia)
-(
-*Crosslandia*
+(*Crosslandia*
 sp.) looks exactly like a sargassum blade!
 ## Human uses
 
@@ -165,12 +164,12 @@ For example, alginates make smoother ice cream, dripless paint and cosmetics. Th
 
 Alginates are extracted from larger brown seaweeds which are more numerous in colder waters thus the major producers are in countries bordering colder waters such as the US, France, Norway, UK and Japan. Kelp is an important source of this product. Annual world production of alginates is estimated at 27,000 tonnes from 500,000 tonnes of raw material, valued at around US$230million (as at 2000).
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/others/040423snted0087m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/others/040423snted0087m3.jpg)
 **
 Various brown seaweeds
 *Sentosa, Apr 04*
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}![](http://www.wildsingapore.com/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg)
+{% include img-wrap-group.html items=page.galleries.gallery2 %}![](https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg)
 **
 The
 [Crosslandia nudibranch](../../../mollusca/slugs/nudibranchia/crosslandia)

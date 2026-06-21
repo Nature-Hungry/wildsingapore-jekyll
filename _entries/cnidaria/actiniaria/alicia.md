@@ -1,6 +1,6 @@
 ---
 title: Alicia anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Alicia anemone on the shores of Singapore
 keywords: alicia, anemone, aliciidae, anthozoa, cnidarian, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -31,50 +31,50 @@ superfamily: ''
 subfamily: ''
 tribe: ''
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg
     caption: Terumbu Semakau, Nov 12 Terumbu Semakau, Nov 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/121115tsmkd1212m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/121115tsmkd1212m6l.jpg
     caption: Terumbu Semakau, Nov 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/121115tsmkd1281m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/121115tsmkd1281m3a.jpg
     caption: Terumbu Semakau, Nov 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/120704chglks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/120704chglks.JPG
     caption: Changi, Jul 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/210613chg4vc1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/210613chg4vc1.jpg
     caption: Changi (4), Jun 21 Photos shared by Vincent Choo on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/090622chgjk1m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/090622chgjk1m6l.jpg
     caption: Changi, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/090622chgjk2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/090622chgjk2m3.jpg
     caption: Changi, Jun 09 Photos shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/100403tbbjk5m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/100403tbbjk5m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by James Koh on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/1405019srplks1.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/1405019srplks1.JPG
     caption: Sentosa Serapong, May 12 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/121115tsmklks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/121115tsmklks.JPG
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/130428tsmklks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/130428tsmklks.JPG
     caption: Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/140811trylks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/140811trylks.JPG
     caption: Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/080509cyrd2930m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/080509cyrd2930m3.jpg
     caption: This is what it looked like when we first saw it. Cyrene Reef, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/080509cyrtsj1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/080509cyrtsj1m3.jpg
     caption: What it looked like after it relaxed in a tank. Cyrene Reef, May 08 Photo
       shared by Tan Sijie on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/190520hntjll2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/190520hntjll2.jpg
     caption: Pulau Hantu, May 19 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/110517tptlt1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/110517tptlt1m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/alicia/110517tptlt2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/alicia/110517tptlt2m3.jpg
     caption: ''
 links_references: '**Links**
 

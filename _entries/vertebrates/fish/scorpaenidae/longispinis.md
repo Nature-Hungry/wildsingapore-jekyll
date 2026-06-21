@@ -1,6 +1,6 @@
 ---
 title: 'Longspined waspfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Longspined waspfish  on the shores of Singapore
 keywords: longspined, long, spine, waspfish, wasp, scorpionfish, scorpion, fish, paracentropogon,
   longispinus, tetrarogidae, scorpaenidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -24,53 +24,52 @@ order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Tetraroginae
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/060429skdd1404m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/060429skdd1404m6l.jpg
     caption: Prominent tube-like scales along the lateral line. Deeply incised membranes
       between dorsal fin spines Pulau Sekudu, Apr 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3a.jpg
     caption: Backward facing spines next to the mouth, First dorsal fin almost between
       the eyes.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/101109sntd2715m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/101109sntd2715m6l.jpg
     caption: Sentosa, Nov 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/250627bbky3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/250627bbky3.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/251011labjt2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/251011labjt2.jpg
     caption: Labrador, Oct 25 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/151001blyjt9m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/151001blyjt9m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/251011tgrlks26.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/251011tgrlks26.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/100528tkkjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/100528tkkjk.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/141109lazlks6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/141109lazlks6m3.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/090822sislt1m3.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/090822sislt1m3.JPG
     caption: Sisters Island, Aug 09 Photo shared by Liana Tang on her blog .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/180715thnjll1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/180715thnjll1.jpg
     caption: Terumbu Hantu, Jul 18 Photo shared by Jianlin Liau on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/180615trydc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/180615trydc1.jpg
     caption: Terumbu Raya, Jun 18 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/140909tptjll2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/140909tptjll2m3.jpg
     caption: Terumbu Pempang Tengah, Sep 14 Photo shared by Jianlin Liau on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/210428slujll2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/210428slujll2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liau on facebook .
 links_references: '**Links**
 
   - [Long-spine scorpionfish (
-
   *Paracentropogon longispinis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/255)
@@ -88,7 +87,6 @@ links_references: '**Links**
   and
 
   [Wispy waspfish (
-
   *Paracentropogon longispinus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=12043)
@@ -169,9 +167,7 @@ a
 [stonefish](../synanceiidae/horrida)
 (Family Synanceiidae) or the
 [False scorpionfish](../centrogenyidae/vaigiensis)
-(
-*Centrogenys vaigiensis*
-), a grouper, which looks very similar. Here's more on
+(*Centrogenys vaigiensis*), a grouper, which looks very similar. Here's more on
 [how to tell apart fishes that look like stones](../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

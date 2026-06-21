@@ -1,6 +1,6 @@
 ---
 title: 'Berembang '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Berembang  on the shores of Singapore
 keywords: beremban, sonneratia, caseolaris, lythraceae, sonneratiaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -23,31 +23,31 @@ class: Magnoliopsida
 order: Myrtales
 inat_id: 196662
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg
     caption: Calyx lobes flat, spreading out horizontally. Pasir Ris Park, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg
     caption: Calyx sepals greenish on the inside. Pasir Ris Park, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg
     caption: Petals red, stamens pinkish at the base. Woodland Park, Dec 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091220wdld6131m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091220wdld6131m6l.jpg
     caption: Wild tree. Woodland Park, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091220wdld6135m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091220wdld6135m3.jpg
     caption: Woodland Park, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/121227prpd2726m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/121227prpd2726m6l.jpg
     caption: Young branches hang down like those of the weeping willow. Pasir Ris
       Park, Dec 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091220wdld6136m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091220wdld6136m3.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6475m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091230prpd6475m3.jpg
     caption: Mating Atlas moths on the tree.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
     caption: Atlas moth cocoon on the tree. Pasir Ris Park, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
     caption: Sunbird nesting in Berembang. Pasir Ris Park, Jan 10
 links_references: '**Links**
 
@@ -56,7 +56,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Berembang (
-
   *Sonneratia caseolaris*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1074)
@@ -143,17 +142,11 @@ species.
 
 ## Features
 
-Tall tree 5-15m tall. The young branches hang down like those of the weeping willow (
-*Salix babylonica*
-) or angsana (
-*Pterocarpus indicus*
-). Bark slightly fissued, young stems and branches smooth waxy brown. Conical pneumatophores at first greenish grey with flaky bark that may grow to 1.5-2m tall at maturity. Many narrow roots may grow horizontally into the substrate at the base of the pneumatophore.
+Tall tree 5-15m tall. The young branches hang down like those of the weeping willow (*Salix babylonica*) or angsana (*Pterocarpus indicus*). Bark slightly fissued, young stems and branches smooth waxy brown. Conical pneumatophores at first greenish grey with flaky bark that may grow to 1.5-2m tall at maturity. Many narrow roots may grow horizontally into the substrate at the base of the pneumatophore.
 
 Leaves nearly circular, oval or eye-shaped (5-13cm) narrow at the base, leathery, arranged opposite one another. The leaves have a 'tidy' appearance compared to those of
 [Perepat](alba)
-(
-*Sonneratia alba*
-).
+(*Sonneratia alba*).
 
 Flowers large (10cm diameter) with petals narrow and dark red, and many long white stamens that are pink at the base, forming a powder-puff shape. Stiff cup-shaped calyx with sepals broadly triangular and yellowish greenish on the inside. The flowers open late in the evening and lasts for one night only. They smell of butter or sour milk. According to Giesen, the night-blooming flowers contain abundant nectar and are pollinated by bats and moths. At dawn, bees and nectar-feeding birds may visit.
 
@@ -168,9 +161,7 @@ According to the NParks Flora and Fauna website, Berembang is the preferred loca
 in general).
 The
 [Atlas moth](../../../insecta/atlas)
-(
-*Attacus atlas*
-) has been seen feeding on the tree.
+(*Attacus atlas*) has been seen feeding on the tree.
 
 ## Human uses
 
@@ -179,11 +170,11 @@ According to Burkill, the young fruit is sour and used to flavour curries and ch
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg)*
+*![](https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg)*
 Planted in the Park
 *Pasir Ris Park, Apr 10
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/sonneratia/caseolaris/091230prpd6485m3.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091230prpd6485m3.jpg)*
 Red petals on unopened flower.
 *Pasir Ris Park, Jan 10*
 

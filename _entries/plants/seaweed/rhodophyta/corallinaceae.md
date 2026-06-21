@@ -1,6 +1,6 @@
 ---
 title: 'Coralline red algae '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Coralline red algae  on the shores of Singapore
 keywords: encrusting, coralline, red, seaweed, weed, algae, rhodophyta, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -20,7 +20,7 @@ subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
 updated: Aug 08
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
 links_references: '**Links**
 
   - [Red Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106.htm)Tan,
@@ -78,11 +78,11 @@ These red seaweeds are hard because they incorporate calcium carbonate. Being ha
 ## Role in habitat
 Many coralline algae produce chemicals that promote the settlement of larvae of sea creatures. These sea creatures may help the coralline algae by grazing at competing, faster growing algae. Some of these sea creatures are commercially important, e.g., abalones. By cementing small things together, encrusting red seaweeds help to maintain and build up the reef. The algae also provide hiding places for tiny creatures and larvae.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg)
 
 [Encrusting coralline algae](encrust)
 *Sentosa, Jun 05
-*![](http://www.wildsingapore.com/mollusca/gastropoda/trochidae/maculatus/040817sntd4622m3.jpg)**
+*![](https://images.naturehungry.sg/mollusca/gastropoda/trochidae/maculatus/040817sntd4622m3.jpg)**
 Growing on a shell of a living snail
 **Sentosa, Aug 04**
 

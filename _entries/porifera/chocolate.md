@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chocolate sponge on the shores of Singapore
 keywords: chocolate, sponge, spheciospongia, vagabunda, clionaidae, porifera, field,
 layout: entry
 shape: blobs
@@ -9,38 +9,38 @@ genus: Spheciospongia
 species: cf.
 attributes: []
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/100629tpdd7404m6l.jpg
+coverimg: https://images.naturehungry.sg/porifera/chocolate/100629tpdd7404m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/050808sntg0806m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/050808sntg0806m3.jpg
     caption: Sentosa, Aug 05 Low irregular mass with lumps growing on the sponge.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/060211hntd6778m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/060211hntd6778m3.jpg
     caption: Pulau Hantu, Feb 06 Stout cones on an irregular mass.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/051203smkg3180m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/051203smkg3180m3.jpg
     caption: Pulau Semakau, Dec 05 Large globular lump on a stalk.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3.jpg
     caption: Pulau Sekudu, Jul 04 Various kinds of brittle stars .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/spionidae/110731tryd8033m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/spionidae/110731tryd8033m3.jpg
     caption: Terumbu Raya, Jul 11 Spionid sponge worms .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/040521sntad0105m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/040521sntad0105m3.jpg
     caption: Sentosa, May 04 Tiny brittle stars and sponge barnacles .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/091205sudd5557m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/091205sudd5557m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/100130brkd8445m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/100130brkd8445m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/100130brkd8638m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/100130brkd8638m3b.jpg
     caption: Terumbu Berkas, Jan 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/100131slud8755m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/100131slud8755m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/091204pawd5290m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/091204pawd5290m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/100811slud0094m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/100811slud0094m3b.jpg
     caption: Pulau Salu, Aug 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/100810sngd9991m3.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/100810sngd9991m3.jpg
     caption: Pulau Senang, Aug 10
 links_references: '**Links**
 
@@ -106,13 +106,11 @@ The small smooth holes of the sponge is usually inhabited by
 [tiny brittle stars](../echinodermata/ophiuroidea/tinysponge)
 . All you can see of them are their little arms. When submerged, a brittle star infested sponge appears furry.
 [Sponge barnacles](../crustacea/othercrust/ciriipedia/sponge)
-(
-*Membranobalanus longirostrum*
-) may also be found in this sponge. Possibly, the tiny spotted fans often seen on this sponge are the feeding 'feet' of these barnacles.Tiny
+(*Membranobalanus longirostrum*) may also be found in this sponge. Possibly, the tiny spotted fans often seen on this sponge are the feeding 'feet' of these barnacles.Tiny
 [spinoid worms](../worm/polychaeta/spionidae)
 may encrust the outer surface of the sponge, spacing themselves out regularly, at a distance equalling the length of their tentacles.
 
-![](https://f003.backblazeb2.com/file/naturehungry/porifera/chocolate/100629tpdd7404m6l.jpg)
+![](https://images.naturehungry.sg/porifera/chocolate/100629tpdd7404m6l.jpg)
 
 The sponge can be found over a large area.
 *Terumbu Pempang Darat, Jun 10*

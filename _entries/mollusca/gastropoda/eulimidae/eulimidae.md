@@ -1,6 +1,6 @@
 ---
 title: 'Ulimid snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ulimid snails  on the shores of Singapore
 keywords: ulimid, shell, snail, eulimidae, gastropod, mollusc, mangrove, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -10,40 +10,40 @@ genus: Family
 species: Eulimidae
 attributes: []
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
     caption: Cyrene Reef, Jul 12 On Common sea star .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8482m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8482m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8481m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8481m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3.jpg
     caption: On a plain sand star . Changi, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/050608chgg7360m3a.jpg
     caption: Laying eggs too?
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
     caption: Possibly Eulima adamsii. Cyrene Reef, Aug 11 On a Cake sand dollar .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00771m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00771m3a.jpg
     caption: Cyrene Reef, Jul 12 On Common sea star .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00773m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/120722cyrs00773m3.jpg
     caption: Cyrene Reef, Jul 12 On Common sea star .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0423m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0423m3b.jpg
     caption: Cyrene Reef, Aug 11 On Common sea star .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/150123chg7mn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/150123chg7mn.jpg
     caption: Changi, Jan 15 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG
     caption: East Coast Park, Feb 16 On a Painted sand star . Photo shared by Loh
       Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg
     caption: East Coast, Jun 09 On a sea cucumber . Photo shared by James Koh on flickr
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
     caption: Cyrene, May 17 On White Salmacis urchin . Photo shared on Singapore Biodiversity
       Records.
 location:

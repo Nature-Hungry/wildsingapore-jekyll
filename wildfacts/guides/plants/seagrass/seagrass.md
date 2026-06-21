@@ -7,7 +7,7 @@ layout: default
 [![](../../../wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../../indexl)  
 [wild shores of singapore
@@ -206,13 +206,13 @@ well.
 carefully and avoid stepping on lush patches of seagrasses.  
   
 **Where can we explore seagrass meadows in
-Singapore?** [Labrador](http://www.wildsingapore.com/places/lp) has the last large mainland seagrass meadows. There are also narrow
+Singapore?** [Labrador](https://images.naturehungry.sg/places/lp) has the last large mainland seagrass meadows. There are also narrow
 and patchy seagrass areas at Changi. Among our northern islands, there
 are vast seagrass meadows at [Chek
-Jawa](http://www.wildsingapore.com/places/cj) on [Pulau
-Ubin](http://www.wildsingapore.com/ubin/indexl). While on our Southern islands, there are extensive seagrass
+Jawa](https://images.naturehungry.sg/places/cj) on [Pulau
+Ubin](https://images.naturehungry.sg/ubin/indexl). While on our Southern islands, there are extensive seagrass
 meadows at [Pulau
-Semakau](http://www.wildsingapore.com/places/semakau) and some at [Sentosa](http://www.wildsingapore.com/places/sentosa).
+Semakau](https://images.naturehungry.sg/places/semakau) and some at [Sentosa](https://images.naturehungry.sg/places/sentosa).
 
 ---
 
@@ -287,7 +287,7 @@ Endangered)
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
 - [Sentosa
-  Seagrass Transect 2006](http://www.wildsingapore.com/projects/survey/sentosa/indexl) on wildsingapore.
+  Seagrass Transect 2006](https://images.naturehungry.sg/projects/survey/sentosa/indexl) on wildsingapore.
 - From the
   wild shores of singapore blog
   - [Mangroves,
@@ -303,7 +303,7 @@ Endangered)
   - [Animals
     help pollinate and disperse seagrasses](http://wildshores.blogspot.sg/2012/12/animals-help-pollinate-and-dispersel)
 - Seagrass
-  media articles on [wildsingapore](http://www.wildsingapore.com/news/topics/seagrass)
+  media articles on [wildsingapore](https://images.naturehungry.sg/news/topics/seagrass)
   and on the [wildsingapore
   news blog](http://wildsingaporenews.blogspot.com/search/label/seagrasses) and on the [teamseagrass
   blog](http://teamseagrass.blogspot.com/search/label/seagrass%20news).

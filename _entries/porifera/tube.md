@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tubular sponge on the shores of Singapore
 keywords: tubular, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: sausage
@@ -16,24 +16,24 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/050626smkd4449m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/tube/050626smkd4449m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/050626smkd4449m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tube/050626smkd4449m3.jpg
     caption: Pulau Semakau, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/030418cjd0097m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tube/030418cjd0097m3.jpg
     caption: Chek Jawa, Apr 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/050820bbd5730m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tube/050820bbd5730m3.jpg
     caption: Beting Bronok, Aug 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/110518bbd1866m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tube/110518bbd1866m3.jpg
     caption: Beting Bronok, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tubeyellow/110518bbd1994m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/tubeyellow/110518bbd1994m3b.jpg
     caption: Beting Bronok, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/060528bbd2371m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tube/060528bbd2371m3.jpg
     caption: Beting Bronok, May 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tube/161116ecpbslks.jpg
+  - url: https://images.naturehungry.sg/porifera/tube/161116ecpbslks.jpg
     caption: East Coast Park, Nov 16 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
@@ -92,8 +92,7 @@ The entire sponge 10-15cm wide with closely packed narrow hollow tubes (4-6cm ta
 
 **Sometimes confused with**
 [Spiky tubular sponges](tubespiky)
-(
-*Gelliodes*
+(*Gelliodes*
 sp.) which have neat spikes regularly arranged around their hollow tubes forming a star-like shape around the large hole at the tibe of the tube.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

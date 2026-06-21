@@ -11,10 +11,10 @@ to introduce the shores to ordinary visitors with tips on keeping your visitors 
 ---
 
 Thinking of organising a walk to the shore?   
-Read [this FAQ on shore walks](http://www.wildsingapore.com/places/shorefaq).  
+Read [this FAQ on shore walks](https://images.naturehungry.sg/places/shorefaq).  
   
 **Safety First!**
-Read about [proper preparations for a safe shore walk](http://www.wildsingapore.com/places/shoretips).  
+Read about [proper preparations for a safe shore walk](https://images.naturehungry.sg/places/shoretips).  
   
 [Why do a guided shore walk?](general1) and other general tips on guiding  
   

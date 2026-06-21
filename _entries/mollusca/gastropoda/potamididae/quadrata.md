@@ -1,6 +1,6 @@
 ---
 title: Black chut-chut snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black chut-chut snail on the shores of Singapore
 keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae,
   gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,19 +17,19 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg
     caption: Pulau Semakau, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
     caption: Pulau Semakau, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/quadrata/090228smkd7231m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/quadrata/090228smkd7231m3a.jpg
     caption: Pulau Semakau, Mar 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/quadrata/251231prprqo3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/quadrata/251231prprqo3a.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/quadrata/090411lckd9518m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/quadrata/090411lckd9518m3.jpg
     caption: Lim Chu Kang, Apr 09
 location:
 - sbw

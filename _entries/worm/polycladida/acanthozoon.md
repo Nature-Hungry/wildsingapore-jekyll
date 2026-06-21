@@ -1,6 +1,6 @@
 ---
 title: Spangled flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spangled flatworm on the shores of Singapore
 keywords: spotted, flat, worm, flatworm, acanthozoon, polyclad, turbellaria, platyhelminthes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,104 +17,104 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/050112smkd9730m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/acanthozoon/050112smkd9730m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/050112smkd9730m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/050112smkd9730m3.jpg
     caption: Swimming actively from one seagrass blade to another. Pulau Semakau,
       Jan 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/050112smkd9730m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/050112smkd9730m3a.jpg
     caption: Pseduotentacles; body with little bumps with yellow tips, some with a
       white base.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/170625bbd3587m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/170625bbd3587m3.jpg
     caption: Two worms 'penis fencing'. Beting Bronok, Jun 17
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/181226chgay2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/181226chgay2.jpg
     caption: Changi, Dec 19 Photo shared Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/220616chgevc2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/220616chgevc2.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on faebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/240706ubnrk3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/240706ubnrk3.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/240706ubnky1a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/240706ubnky1a.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/090806tmjk8m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/090806tmjk8m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by James Koh on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/220813pcnlks1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/220813pcnlks1.jpg
     caption: East Coast Park PCN, Aug 22 Photo shared by Loh Kok Sheng on facebook
       . k .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/170527ecpjll1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/170527ecpjll1.jpg
     caption: East Coast Park, May 17 Photo shared by Jianlin Liu on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/220519ecpbrk1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/220519ecpbrk1.jpg
     caption: East Coast Park-Marina East, May 22 Photo shared by Richard Kuah on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/250714srpky4.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/250714srpky4.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/191127lazjll3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/191127lazjll3.jpg
     caption: Lazarus Island, Nov 19 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/180715thnlks2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/180715thnlks2.jpg
     caption: Terumbu Hantu, Jul 18 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/150422jngnml1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/150422jngnml1m3.jpg
     caption: Pulau Jong, Apr 15 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/170812cyray1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/170812cyray1.jpg
     caption: Cyrene Reef, Aug 17 Photo shared by Abel Yeo on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/260202smkemn4.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/260202smkemn4.jpg
     caption: Pulau Semakau East, Feb 26 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/140713tryjt1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/140713tryjt1m3.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Jurian Toramae on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/250713trylvo1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/250713trylvo1.jpg
     caption: Terumbu Raya, Jul 25 Photo shared by Lon Voon Ong on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/151225tsmkmn2m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/151225tsmkmn2m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/151225tsmkmn3m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/151225tsmkmn3m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/151225tsmkmn3m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/151225tsmkmn3m3a.jpg
     caption: ''
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/100617tblks4m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/100617tblks4m3.JPG
     caption: '''Penis fencing'' Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng
       on his blog .'
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/110422tbmtch4m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/110422tbmtch4m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Toh Chay Hoon on her blog .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/181223tpljll2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/181223tpljll2.jpg
     caption: Terumbu Pempang Laut, Dec 18 Photo shared by Jianlin Liu on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/150524tplhpy1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/150524tplhpy1m3.jpg
     caption: Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on facebook
       .
   gallery13:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/100629tpdjk4m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/100629tpdjk4m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/140909tptlks4m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/140909tptlks4m3a.jpg
     caption: Terumbu Pempang Tengah, Sep 14 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/091204pawd5224m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/091204pawd5224m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery14:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/091205sudjk2m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/091205sudjk2m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flick .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/100131slulks2m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/100131slulks2m3.jpg
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flick .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/100130brklks6m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/100130brklks6m3.jpg
     caption: '''Penis fencing'' Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng
       on his flickr .'
   gallery15:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/210428slujll2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/210428slujll2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin LIu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/100613snglks1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/100613snglks1m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by James Koh on his flick .
   gallery16:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/100530tbkd4356m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/100530tbkd4356m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/acanthozoon/220201brkjll1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/220201brkjll1.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Jianlin Liu on facebook .
 location:
 - chg

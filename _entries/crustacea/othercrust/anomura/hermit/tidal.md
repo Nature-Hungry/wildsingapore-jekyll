@@ -1,6 +1,6 @@
 ---
 title: Tidal hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tidal hermit crab on the shores of Singapore
 keywords: tidal, hermit, crab, diogenes, diogenidae, anomura, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,32 +25,31 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg
     caption: Pulau Semakau, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/050823chgg2362m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/050823chgg2362m3.jpg
     caption: Changi, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3.jpg
     caption: Changi, Jun 05
   gallery3:
   - url: https://live.staticflickr.com/4514/37595095762_23ab8b6cd7_z.jpg
     caption: East Coast Park, Oct 2017
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/210213bsisjc1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/210213bsisjc1.jpg
     caption: Big Sisters Island, Feb 21 Photo shared by Joleen Chan on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/201115tkkmn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/201115tkkmn1.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/tidal/160209cyrhpy4.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/160209cyrhpy4.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Heng Pei Yan on facebook .
 links_references: '**Links**
 
   - [Mangrove hermit crab (
-
   *Diogenes*
 
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)

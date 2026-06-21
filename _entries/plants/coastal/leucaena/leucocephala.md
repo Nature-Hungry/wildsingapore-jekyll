@@ -1,6 +1,6 @@
 ---
 title: Petai jawa
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Petai jawa on the shores of Singapore
 keywords: leucaena, leucocephala, fabaceae, plant, tree, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,7 +22,7 @@ order: Fabales
 subfamily: Mimosoideae
 tribe: Mimoseae
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg
 links_references: '**Links**
 
   - [*Leucaena leucocephala*](http://floraofsingapore.wordpress.com/2010/04/14/leucaena-leucocephala/)on
@@ -50,16 +50,16 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9059m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/leucaena/leucocephala/090405smkd9059m3a.jpg
     caption: Pulau Semakau, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9063m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/leucaena/leucocephala/090405smkd9063m3.jpg
     caption: Pulau Semakau, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9067m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/leucaena/leucocephala/090405smkd9067m3.jpg
     caption: Pulau Semakau, Apr 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090809sjid8862m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/leucaena/leucocephala/090809sjid8862m3.jpg
     caption: St. John's Island, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090809sjid8862m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/leucaena/leucocephala/090809sjid8862m3b.jpg
     caption: ''
 size:
 - 1000.0
@@ -84,7 +84,7 @@ A shrub to small tree (to about 10m). Feathery compound leaves made up of leafle
 
 Originally from tropical America, the fast-growing tree is often planted for firewood, as a shade tree and for its fruits. Young pods are eaten as a vegetable by Malays and the raw seeds are said to be tasty. It is also used in reforestation in parts of Southeast Asia. Traditional cures include the leaves to treat poisonous bites and stings, the seeds to treat intestinal worms and in a remedy for diabetes. According to Corners, it is 'peculiarly poisonous' to horses, causing them to lose their mane, tail and ultimately if the horse 'persistently eats' it, its hooves as well! According to Burkill, cattle and goats can eat it without harm. The wood is strong but can only be used for small objects, such as fish-traps.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg)
 
 *Pulau Semakau, Apr 09*
 

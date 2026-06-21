@@ -1,6 +1,6 @@
 ---
 title: Arrow-head spider crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Arrow-head spider crab on the shores of Singapore
 keywords: arrow, head, spider, crab, spider crab, menatheius, majidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info,  photo
@@ -12,27 +12,27 @@ family: Epialtidae
 genus: Menatheius
 species: ''
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
     caption: Labrador, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/020127cjcpd5423m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/020127cjcpd5423m3.jpg
     caption: Chek Jawa, Jan 02
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/090429chglks1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/090429chglks1.jpg
     caption: Changi, Apr 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/200821cjvc1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/200821cjvc1.jpg
     caption: Chek Jawa, Aug 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/090706tmtch5m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/090706tmtch5m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/110619tslgjk2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/110619tslgjk2m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by James Koh on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/240211bigsisvc4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/240211bigsisvc4.jpg
     caption: Big Sister Island, Feb 24 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/majoidea/menatheius/150816cyrlks1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/150816cyrlks1.jpg
     caption: Cyrene, Aug 15 Photo shared by Loh Kok Sheng on his blog .
 location:
 - chg
@@ -60,9 +60,7 @@ This tiny crab is sometimes seen on some of our shores, among seagrasses and sea
 
 Body width 0.5-1cm. Body rather flat and quite triangular with a sharp pointed tip between the eyes. Walking legs and pincers long. May be brown or green. Slow moving.
 
-According to the Singapore Red Data Book, the One-horned spider crab (
-*Menaethius monoceros*
-) is found among seaweeds such as Sargassum, and among seagrasses on rocky or sandy/muddy shores. It also covers itself with debris to blend into the surroundings.
+According to the Singapore Red Data Book, the One-horned spider crab (*Menaethius monoceros*) is found among seaweeds such as Sargassum, and among seagrasses on rocky or sandy/muddy shores. It also covers itself with debris to blend into the surroundings.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 **Species are difficult to positively identify without close examination.

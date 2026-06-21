@@ -1,6 +1,6 @@
 ---
 title: 'Ruby reef crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ruby reef crab  on the shores of Singapore
 keywords: ruby, reef, crab, actaea, xanthidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -26,17 +26,17 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Xanthoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
     caption: Labrador, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/venosa/050723labg0037m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/venosa/050723labg0037m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/venosa/050723labg0032m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/venosa/050723labg0032m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/venosa/050723labg0032m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/venosa/050723labg0032m3a.jpg
     caption: ''
 size:
 - 1.0

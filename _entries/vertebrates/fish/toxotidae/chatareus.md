@@ -1,6 +1,6 @@
 ---
 title: Spotted archerfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted archerfish on the shores of Singapore
 keywords: spotted, acherfish, archer, fish, toxotidae, toxotes, chatareus, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,12 +24,12 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg
     caption: Changi Jetty, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 05
 links_references: '**Links**
 
@@ -38,7 +38,6 @@ links_references: '**Links**
   on NParks Flora and Fauna website.
 
   - [Spotted archerfish (
-
   *Toxotes chatareus*
 
   )](http://fishbase.org/summary/8079)
@@ -50,7 +49,6 @@ links_references: '**Links**
   : Technical fact sheet
 
   - [Seven-spot archerfish (
-
   *Toxotes chatareus*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar)

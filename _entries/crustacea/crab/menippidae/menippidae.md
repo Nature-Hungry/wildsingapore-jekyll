@@ -1,6 +1,6 @@
 ---
 title: Stone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stone on the shores of Singapore
 keywords: stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,21 +25,21 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Eriphioidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
     caption: With eggs Pulau Sekudu, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/060528bbd2348m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/060528bbd2348m3.jpg
     caption: Eating a jellyfish Beting Bronok, May 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
     caption: Stone crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3.jpg
     caption: Maroon stone crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050110skdd9348m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/050110skdd9348m3b.jpg
     caption: Green eyes ringed with red.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3a.jpg
     caption: Eyes not green.
 location:
 - ''
@@ -64,23 +64,18 @@ Body width 10-12cm, smaller ones also often seen. Large rounded body with large 
 
 The common
 [Stone crab](hardwickii)
-(
-*Myomenippe hardwicki*
+(*Myomenippe hardwicki*
 i) is identified by
 bright green eyes circled with red. The
 [Maroon stone crab](rumphii)
-(
-*Menippe rumphii*
-) lacks such eyes and is usually plain maroon or red.
+(*Menippe rumphii*) lacks such eyes and is usually plain maroon or red.
 
 **Steady crab:**
 When a stone is overturned, other crabs usually madly dash out helter skelter. The stone crab merely tucks its limbs under its body and remains motionless. In this way, predators overlook it as they focus instead on the more nervous crabs.
 
 **Sometimes mistaken for**
 [Red egg crabs](../xanthidae/integerrimus)
-(
-*Atergatis integerrimus*
-), especially Stone crabs that are rather reddish.
+(*Atergatis integerrimus*), especially Stone crabs that are rather reddish.
 Here's more on how to tell apart
 [big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.

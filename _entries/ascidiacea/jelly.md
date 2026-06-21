@@ -1,6 +1,6 @@
 ---
 title: Jelly sea squirt
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Jelly sea squirt on the shores of Singapore
 keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidia gemmata, ascidiidae,
   ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -18,46 +18,46 @@ attributes:
 family: Ascidiidae
 genus: Ascidia
 species: gemmata
-coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/100726chgd9196m3.jpg
+coverimg: https://images.naturehungry.sg/ascidiacea/jelly/100726chgd9196m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/100726chgd9196m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/100726chgd9196m3.jpg
     caption: Changi, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/100726chgd9196m3b.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/100726chgd9196m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/100726chgd9196m3a.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/100726chgd9196m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/201118pglvc9.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/201118pglvc9.jpg
     caption: Punggol, Nov 20 Photo by Vincent Choo on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/091019prplks.JPG
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/091019prplks.JPG
     caption: Pasir Ris Park, Oct 09 Photo by Loh Kok Sheng on flickr.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/200820chgvc4.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/200820chgvc4.jpg
     caption: Changi, Aug 20
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/200820chgvc4b.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/200820chgvc4b.jpg
     caption: Photo by Vincent Choo on facebook.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/220715cjrk1.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/220715cjrk1.jpg
     caption: Chek Jawa, Jun 22 Photo by Richard Kuah on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/140613skdro1m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/140613skdro1m3.jpg
     caption: Pulau Sekudu, Jun 14 Photo by Rene Ong on facebook.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/200723bbvc4.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/200723bbvc4.jpg
     caption: Beting Bronok, Jul 20 Photo by Vincent Choo on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/210628ecpBvc1.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/210628ecpBvc1.jpg
     caption: East Coast Park (B), Jun 21 Photo by Vincent Choo on facebook.
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/210401sntvc6.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/210401sntvc6.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo by Vincent Choo on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/240528tslvc9.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/240528tslvc9.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/240211bigsisvc6.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/240211bigsisvc6.jpg
     caption: Big Sisters Island, Feb 24 Photo by Vincent Choo on facebook.
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/241117cyrccn2.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/241117cyrccn2.jpg
     caption: Cyrene, Nov 24 Photo shared by Che Cheng Neo on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/jelly/210501tbvc8.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/210501tbvc8.jpg
     caption: Terumbu Bemban, May 21 Photo by Vincent Choo on facebook.
 links_references: '**Links**
 

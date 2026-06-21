@@ -1,6 +1,6 @@
 ---
 title: 'Crunchy   pom-pom red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Crunchy   pom-pom red seaweed  on the shores of Singapore
 keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -20,28 +20,28 @@ subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/080919sntd0623m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomflat/080919sntd0623m3.jpg
     caption: Growing among sponges on rocks. Sentosa, Sep 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg
     caption: Growing on an abandoned rope in seagrass meadows. Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg
     caption: Loose tangles growing among seagrasses forming a crunchy carpet. Cyrene
       Reef, Apr 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg
     caption: Slender crunchy pom pom seaweed
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg
     caption: Thick crunchy pom pom seaweed
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
     caption: Flat crunchy pom pom red seaweed
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
     caption: ''
 links_references: '**Links**
 
@@ -123,11 +123,11 @@ There are many pinkish seaweeds with a pom pom shape that belong to Family Coral
 **Cosy home:**
 All kinds of tiny creatures are sometimes seen among the 'branches'. From small snails to tiny seahorses. Seastars, especially juveniles, are often abundant on 'meadows' of these crunchy seaweed.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg)*
+*![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg)*
 Growing in clumps on coral rubble near reefs.
 *Sisters Island, Feb 08
 
-![](http://www.wildsingapore.com/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg)*
+![](https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg)*
 Tiny
 [seahorse](../../../vertebrates/fish/syngnathidae/hippocampus)
 among the branches!

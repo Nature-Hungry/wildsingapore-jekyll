@@ -1,6 +1,6 @@
 ---
 title: 'Collared fig '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Collared fig  on the shores of Singapore
 keywords: collared, fig, ficus, crassiramea, moraceae, tree, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -22,21 +22,21 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Dec 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5795m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/crassiramea/091213ubnd5795m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5785m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/crassiramea/091213ubnd5785m3.jpg
     caption: Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5788m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/crassiramea/091213ubnd5788m3.jpg
     caption: Pulau Ubin, Dec 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/100410ubnd0897m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/crassiramea/100410ubnd0897m3.jpg
     caption: Pulau Ubin, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/100410ubnd0897m3b.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/crassiramea/100410ubnd0897m3b.jpg
     caption: Pulau Ubin, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/100410ubnd0897m3d.jpg
+  - url: https://images.naturehungry.sg/plants/others/ficus/crassiramea/100410ubnd0897m3d.jpg
     caption: Pulau Ubin, Apr 10
 rdb: CR
 authors:
@@ -76,7 +76,7 @@ It is considered a strangling fig that can grow large. Leaves elliptical, stiff 
 **Status and threats:**
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)
+![](https://images.naturehungry.sg/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)
 
 *Pulau Ubin, Dec 09*
 

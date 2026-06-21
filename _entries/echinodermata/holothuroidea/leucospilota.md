@@ -1,6 +1,6 @@
 ---
 title: 'Black long sea cucumber '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black long sea cucumber  on the shores of Singapore
 keywords: black, long, seacucumber, cucumber, holothuria, leucospilota, cucumariidae,
   holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -27,7 +27,7 @@ subclass: Actinopoda
 order: Holothuriida
 subgenus: Mertensiothuria
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
 links_references: '**Links**
 
   - *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilota.html)*(Aspidochirotida:
@@ -75,53 +75,53 @@ links_references: '**Links**
   Tropical Reef Research. 378pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
     caption: Sentosa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/060131sjig4428m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/060131sjig4428m3a.jpg
     caption: Feeding tentacles with bushy tips. St. John's Island, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/100102tkkd7198m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/100102tkkd7198m3b.jpg
     caption: A small one (about 10cm long). Pulau Tekukor, Jan 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/110619tslgd4393m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/110619tslgd4393m6l.jpg
     caption: Often several under a rock. Terumbu Selegie, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/120407lazd8085m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/120407lazd8085m3.jpg
     caption: Out of water. Lazarus Island, Apr 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/130821cjlks2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/130821cjlks2m3.jpg
     caption: Chek Jawa, Aug 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/240722lygrk1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/240722lygrk1.jpg
     caption: . Changi (Fairy Point), Jul 24 Photo shared by Richard Kuah on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/170428ecpcnlks6.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/170428ecpcnlks6.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/100518lablks1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/100518lablks1m3.jpg
     caption: Labrador, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/170822labjt2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/170822labjt2.jpg
     caption: Labrador, Aug 17 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/211009blylks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/211009blylks2.jpg
     caption: Berlayar Creek, Oct 21 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/240527srplks10.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/240527srplks10.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/151225tsmktch2m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/151225tsmktch2m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/101106tbrnlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/101106tbrnlks.JPG
     caption: Terumbu Buran, Jan 11 Photo shared by Loh Kok Sheng on flickr .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/160312tptmn1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/160312tptmn1.jpg
     caption: Terumbu Pempang Tengah, Mar 16 Photo shared by Marcus Ng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/130628thntlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/210428slutch1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/210428slutch1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/100130brklks3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/100130brklks3m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/leucospilota/100613snglks3m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/100613snglks3m6l.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
 location:
 - chg

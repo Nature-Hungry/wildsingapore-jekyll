@@ -1,6 +1,6 @@
 ---
 title: Fugly nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fugly nudibranch on the shores of Singapore
 keywords: actinocyclus, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -28,35 +28,35 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Chromodoridoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg
     caption: Sentosa, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3b.jpg
     caption: Stumpy rhinophores.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3a.jpg
     caption: Stumpy gills that look like a bubble.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/070201tusg7373m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/070201tusg7373m6l.jpg
     caption: Tuas, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/150616chgfpd5578m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/150616chgfpd5578m3.jpg
     caption: Underside. Changi, Jun 16
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/090824tusjk4m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/090824tusjk4m6l.jpg
     caption: Tuas, Aug 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/140713bblks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/140713bblks3m3.jpg
     caption: Beting Bronok, Jul 14 Photo shared by Loh Kok Sheng on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/140104cjlks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/140104cjlks1m3.jpg
     caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/150617ecpbslks9m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/150617ecpbslks9m3.jpg
     caption: East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/130512bsismn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/130512bsismn1.jpg
     caption: Big Sisters Island, May 13 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/actinocyclus/220504hntvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/220504hntvc1.jpg
     caption: Pulau Hantu, May 22 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Red-mouth nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red-mouth nerite snail on the shores of Singapore
 keywords: dostia, neritina, violacea, nerite, neritidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,19 +19,18 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg
     caption: Side view. Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg
     caption: Underside. Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/violacea/110328mndd8039m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/violacea/110328mndd8039m3.jpg
     caption: Animal emerging from the shell. Mandai, Mar 11
 links_references: '**Links**
 
   - [Violet nerite (
-
   *Dostia violacea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2079)
@@ -103,9 +102,7 @@ About 2cm. Shell thick heavy, oval with a sunken spire. When alive, the shell is
 **Sometimes mistaken for**
 the
 [Black-mouth nerite](cornucopia)
-(
-*Neritina cornocupia*
-) which has the same shell shape but has a black mouth.
+(*Neritina cornocupia*) which has the same shell shape but has a black mouth.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

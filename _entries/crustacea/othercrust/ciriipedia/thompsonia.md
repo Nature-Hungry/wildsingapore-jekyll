@@ -1,6 +1,6 @@
 ---
 title: Parasitic barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Parasitic barnacle on the shores of Singapore
 keywords: parasite, barnacle, thompsonia, thompsoniidae, cirripedia, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,17 +23,16 @@ superfamily: Cerambycoidea
 subfamily: Cerambycinae
 tribe: Callichromatini
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
     caption: Chek Jawa, Oct 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3.jpg
     caption: Changi, Apr 05 Tiny egg sacs emerging through the joints.
 links_references: '**Links**
 
   - [Parasitic barnacles (
-
   *Thompsonia, Sacculina*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/270)
@@ -75,9 +74,7 @@ zone:
 ## Where seen?
 These gruesome animals are often seen growing in
 [flower crabs](../../crab/portunidae/pelagicus)
-(
-*Portunus pelagicus*
-). Infected crabs are usually encrusted with non-parasitic barnacles and other animals and seaweeds. They usually move weakly and are generally in poor shape.
+(*Portunus pelagicus*). Infected crabs are usually encrusted with non-parasitic barnacles and other animals and seaweeds. They usually move weakly and are generally in poor shape.
 
 ## Features
 

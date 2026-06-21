@@ -1,6 +1,6 @@
 ---
 title: 'Stone '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Stone  on the shores of Singapore
 keywords: stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -30,64 +30,63 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Eriphioidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
     caption: Pulau Sekudu, Jan 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050110skdd9350m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/050110skdd9350m3.jpg
     caption: Pulau Sekudu, Jan 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/050110skdd9350m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/050110skdd9350m3b.jpg
     caption: Green eyes ringed with red.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/080702prpd6401m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/080702prpd6401m3.jpg
     caption: A tiny juvenile. Pasir Ris Park, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/090309cyrlks05m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/090309cyrlks05m3.jpg
     caption: Cyrene Reef, Mar 09 Shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/250626ubns.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/250626ubns.jpg
     caption: With eggs Pulau Ubin (South), Jun 25
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/060528bbd2348m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/060528bbd2348m3.jpg
     caption: Eating a jellyfish Beting Bronok, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/080521chgd3701m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/080521chgd3701m3.jpg
     caption: Eating something shredded. Changi, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/120508skdd1788m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/120508skdd1788m3.jpg
     caption: Clinging onto a clam. Pulau Sekudu, May 12
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/200723bblks4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/200723bblks4.jpg
     caption: About to eat a cowrie? Beting Bronok, Jul 20 Photo shared by Loh Kok
       Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/160507cjjt3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/160507cjjt3.jpg
     caption: Clutching a sea hare. Chek Jawa, May 16 Photo shared by Jonathan Tan
       on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/200917prpjt1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/200917prpjt1.jpg
     caption: Working on the Mactra clam next to it? Pasir Ris, Sep 20 Photo shared
       by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/201020prpalks3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/201020prpalks3.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/160125obslks5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/160125obslks5.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/220616chgelks15.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/220616chgelks15.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/151001blyjt8m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/151001blyjt8m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/201117labvc5.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/201117labvc5.jpg
     caption: Labrador, Nov 20 Photo shared by Vincent Choo on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/160209cyrjtm2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/160209cyrjtm2.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Juria Toramae on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/250726cyrjk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/250726cyrjk1.jpg
     caption: Cyrene Reef, Jul 25 Photo shared by Jayden Kang on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/menippidae/hardwickii/181125tptrk.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/181125tptrk.jpg
     caption: Terumbu Pempang Tengah, Nov 18 Photo shared by Richard Kuah on facebook
       .
 links_references: '**Links**
 
   - [Stone Crab (
-
   *Myomenippe hardwicki*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/214)
@@ -99,7 +98,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Stone Crab (
-
   *Myomenippe hardwicki*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2041)
@@ -115,7 +113,6 @@ links_references: '**Links**
   (Decapoda: Menippidae) Thunder crab by Suhailah Binte Isnin, 2015, on taxo4254.
 
   - [Stone Crab (
-
   *Myomenippe hardwicki*
 
   )](http://ranong.myspecies.info/category/clade/flora-and-fauna/crustacea/decapoda/brachyura/menippidae/myomenippe-hardwickii)
@@ -123,7 +120,6 @@ links_references: '**Links**
   on Marine Flora and Fauna of Ranong, Thailand
 
   - [Stone Crab (
-
   *Myomenippe hardwicki*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1453&tab=synoniemen)
@@ -214,13 +210,9 @@ The stone crab eats snails and clams, crushing their shells with its powerful pi
 **Sometimes mistaken for**
 the
 [Red egg crab](../xanthidae/integerrimus)
-(
-*Atergatis integerrimus*
-) and
+(*Atergatis integerrimus*) and
 [Maroon stone crab](rumphii)
-(
-*Menippe rumphii*
-).
+(*Menippe rumphii*).
 Here's more on how to tell apart
 [big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.

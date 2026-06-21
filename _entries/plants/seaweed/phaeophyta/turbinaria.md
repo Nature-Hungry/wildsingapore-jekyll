@@ -1,6 +1,6 @@
 ---
 title: Pyramid seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pyramid seaweed on the shores of Singapore
 keywords: pyramid, brown, seaweed, weed, turbinaria, sargassaceae, phaeophyta, algae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -21,21 +21,21 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/040507rflbd0083m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/040507rflbd0083m3.jpg
     caption: Short 'columns' on rocks facing waves. Raffles Lighthouse, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/070203smkg7449m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/070203smkg7449m3.jpg
     caption: With long stems in more sheltered areas. Pulau Semakau, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3b.jpg
     caption: Tiny bumps reproductive structures?
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/060713rlhg6367m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/060713rlhg6367m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/060102sisg3656m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/060102sisg3656m3.jpg
     caption: Sisters Islands, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/070812sisd5390m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/070812sisd5390m3.jpg
     caption: Sisters Island, Aug 07 Some have spines on the edges.
 links_references: '**Links**
 
@@ -119,16 +119,15 @@ species.
 
 ## Human uses
 
-Pyramid seaweed is eaten by people (apparently best eaten boiled then pickled), used as fertiliser, pesticide, insecticide and insect repellent as well as medicine to treat fever in children (mixed with other seagrasses, boiled and the steam inhaled). It is often a minor component of sargassum seaweed (
-*Sargassum*
+Pyramid seaweed is eaten by people (apparently best eaten boiled then pickled), used as fertiliser, pesticide, insecticide and insect repellent as well as medicine to treat fever in children (mixed with other seagrasses, boiled and the steam inhaled). It is often a minor component of sargassum seaweed (*Sargassum*
 sp.) harvests for commercial uses.
 
 In Hawai'i, it is considered an introduced and thus alien, invasive weed that affects the native marine life there.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg)
 
 *Sisters Island, Jan 06*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3c.jpg)*
+*![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3c.jpg)*
 Pyramid-shaped blades.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

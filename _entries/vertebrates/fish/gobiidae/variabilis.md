@@ -1,6 +1,6 @@
 ---
 title: Dusky-gilled mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dusky-gilled mudskipper on the shores of Singapore
 keywords: dusky, gill, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus,
   variabilis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -20,12 +20,12 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
     caption: Pasir Park, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/051019smkg2790m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/variabilis/051019smkg2790m6l.jpg
     caption: Pectoral fins are reddish at the edges Pulau Semakau, Oct 05
 links_references: '**Links**
 

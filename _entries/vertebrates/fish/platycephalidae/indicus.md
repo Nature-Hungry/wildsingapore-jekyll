@@ -1,6 +1,6 @@
 ---
 title: Bartail flathead
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bartail flathead on the shores of Singapore
 keywords: flathead, flat, head, fish, platycephalus, indicus, platycephalidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,32 +24,31 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg
     caption: East Coast Park, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/100202chgsafd9255m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/100202chgsafd9255m6l.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/251107tmftlks8a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/251107tmftlks8a.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/251107tmftlks8b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/251107tmftlks8b.jpg
     caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/030927cjd0083m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/030927cjd0083m6l.jpg
     caption: Chek Jawa, Sep 03
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/platycephalidae/indicus/240820kusky3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/240820kusky3.jpg
     caption: Kusu Island, Aug 24 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 
   - [Bartail Flathead (
-
   *Platycephalus indicus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259)
@@ -61,7 +60,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Bartail Flathead (
-
   *Platycephalus indicus*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=950)

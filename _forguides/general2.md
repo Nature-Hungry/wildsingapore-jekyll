@@ -39,7 +39,7 @@ BEFORE the day of the walk**
 - During sign
   up for the walk, send visitors a list of what to wear and bring
   along for their safety and comfort. Here's [some
-  tips for a shore trip](http://www.wildsingapore.com/places/shoretips).
+  tips for a shore trip](https://images.naturehungry.sg/places/shoretips).
 - Prepare a
   simple first aid kit, get updated contact numbers of emergency
   services.

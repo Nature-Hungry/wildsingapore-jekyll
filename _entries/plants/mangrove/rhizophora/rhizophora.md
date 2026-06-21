@@ -1,6 +1,6 @@
 ---
 title: Bakau
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bakau on the shores of Singapore
 keywords: rhizophora, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -16,43 +16,42 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/091005cjd2271m3a.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/rhizophora/091005cjd2271m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/070520smkd1226m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/070520smkd1226m3.jpg
     caption: Often with a 'skirt' of many prop roots.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
     caption: With looping stilt roots that can extend some distance from the tree.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg
     caption: Flower on very short stalks.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg
     caption: Flowers on long branching stalks.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/090809sjid8828m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/090809sjid8828m3.jpg
     caption: Flowers on long branching stalks.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg
     caption: Shorter style
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/120219smkd7218m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/120219smkd7218m3a.jpg
     caption: Longer style.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg
     caption: Fruit on very short stalk, almost stuck to the branch.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg
     caption: Fruit on stalks. Fruit large compared to sepals.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg
     caption: Fruit on stalks. Fruit not so large compared to sepals.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg
     caption: Usually a bent hypocotyl.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg
     caption: Very long hypocotyl.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg
     caption: Hypocotyl not so long.
 links_references: '**Links**
 
   - [Bakau (
-
   *Rhizophora*](http://mangrove.nus.edu.sg/guidebooks/text/1069)
 
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
@@ -125,14 +124,14 @@ According to Burkill, the trees are most used for firewood. One great advantage 
 *R. stylosa*
 is listed as 'Vulnerable' on the Red List of endangered plants in Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/091005cjd2271m3a.jpg)*
+*![](https://images.naturehungry.sg/plants/mangrove/rhizophora/091005cjd2271m3a.jpg)*
 Prop roots from branches, stilt roots from trunk.
 *Pulau Semakau, Mar 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/070520smkg9537m3e.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/070520smkg9537m3e.jpg)*
 Cork warts on the underside of the leaf.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/stylosa/070520smkg9537m3d.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/070520smkg9537m3d.jpg)
 
 Pulau Semakau, May 07*
 

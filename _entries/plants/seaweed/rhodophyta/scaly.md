@@ -1,6 +1,6 @@
 ---
 title: 'Scaly red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scaly red seaweed  on the shores of Singapore
 keywords: scaly, red, seaweed, weed, algae, peyssonnelia, peyssonneliales, rhodophyta,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -19,28 +19,28 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Peyssonneliales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/060501labg5888m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/060501labg5888m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/060501labg5888m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/060501labg5888m3.jpg
     caption: Labrador, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/091206tmd5727m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/091206tmd5727m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/090819ecpd9351m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/090819ecpd9351m3.jpg
     caption: East Coast, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/070102sisd7308m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/070102sisd7308m3.jpg
     caption: Sisters Island, Jan 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/081114cyrd1900m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/081114cyrd1900m3.jpg
     caption: Cyrene Reef, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/061223lazd7059m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/061223lazd7059m3.jpg
     caption: Lazarus Island, Dec 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/070303sjig7848m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/070303sjig7848m3.jpg
     caption: St. John's Island, Mar 07
 links_references: '**Links**
 
@@ -117,9 +117,7 @@ Clusters of flat circular encrusting (2-4cm) disks that have a slippery surface.
 
 **Sometimes confused with**
 [Bracket brown seaweed](../phaeophyta/bracket)
-(
-*Lobophora variegata*
-) which is not so encrusting and is leathery.
+(*Lobophora variegata*) which is not so encrusting and is leathery.
 
 According to
 [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=33926)
@@ -127,7 +125,7 @@ According to
 *Peyssonnelia*
 many of them requiring microscopic examination to determine to species.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg)
+*![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg)
 
 Tanah Merah, Dec 09*
 

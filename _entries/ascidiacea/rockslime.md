@@ -1,6 +1,6 @@
 ---
 title: 'Rock slime ascidians  '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rock slime ascidians   on the shores of Singapore
 keywords: rock, slime, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
   chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -15,21 +15,21 @@ attributes:
 - 139
 - 150
 - 129
-coverimg: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/060129skdg4122m3.jpg
+coverimg: https://images.naturehungry.sg/ascidiacea/rockslime/060129skdg4122m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/060129skdg4122m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/rockslime/060129skdg4122m3.jpg
     caption: Pulau Sekudu, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/060129skdg4122m3c.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/rockslime/060129skdg4122m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/060129skdg4124m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/rockslime/060129skdg4124m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/090623ecpd4854m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/rockslime/090623ecpd4854m3.jpg
     caption: East Coast Park, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/140812chg4d8502m3a.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/rockslime/140812chg4d8502m3a.jpg
     caption: Changi, Aug 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/ascidiacea/rockslime/100812tpld0272m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/rockslime/100812tpld0272m3.jpg
     caption: Terumbu Pempang Laut, Aug 10
 location:
 - chg

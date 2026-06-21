@@ -1,6 +1,6 @@
 ---
 title: 'Common derris '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common derris  on the shores of Singapore
 keywords: derris, trifoliata, fabaceae, leguminosae, tree, mangrove, mangroves, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,21 +23,21 @@ subfamily: Faboideae
 tribe: Millettieae
 inat_id: 354252
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090328sbwrd8514m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/090328sbwrd8514m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/081206smkd2450m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/081206smkd2450m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/081206smkd2450m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/081206smkd2450m3.jpg
     caption: Pulau Semakau, Jan 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090816ubind9107m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/090816ubind9107m3a.jpg
     caption: Pulau Ubin, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090425prpd0385m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/090425prpd0385m3.jpg
     caption: Pasir Ris, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090612pndd4035m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/090612pndd4035m3.jpg
     caption: Sungei Pandan, Jun 09
 links_references: '**Links**
 
@@ -50,7 +50,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Common derris (
-
   *Derris trifoliata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1057)
@@ -126,27 +125,17 @@ Fruits coin-like circular flat pods (3-4cm) with 1-2 seeds. The pods are green a
 ## Role in habitat
 Like other climbers, it provides shelter for smaller creatures of the mangroves. The plants also form an interlocking framework among trees, which may add to strength of the forest against coastal storms. The plant twines around trees and shrubs and can form deep "choke" marks on trees as their trunks expand. But eventually, the trees usually prevail, breaking the vines. Thus common derris doesn't 'strangle' trees.
 
-According to the NParks Flora and Fauna website, it is the preferred local food plant for caterpillars of the dark caerulean butterfly (
-*Jamides bochus nabonassar*
-). The mother butterfly lays her eggs in the space between the flower buds, or in the spaces between the flower stalks and the axis of the flowering shoot. According to Butterfly Circle, it is also the host plant for the
+According to the NParks Flora and Fauna website, it is the preferred local food plant for caterpillars of the dark caerulean butterfly (*Jamides bochus nabonassar*). The mother butterfly lays her eggs in the space between the flower buds, or in the spaces between the flower stalks and the axis of the flowering shoot. According to Butterfly Circle, it is also the host plant for the
 [Sumatran sunbeam](http://butterflycircle.blogspot.com/2010/08/life-history-of-sumatran-sunbeam.html)
-(
-*Curetis saronis sumatrana*
-),
+(*Curetis saronis sumatrana*),
 [Common Awl](http://butterflycircle.blogspot.sg/2009/12/life-history-of-common-awl.html)
-(
-*Hasora badra badra*
-),
+(*Hasora badra badra*),
 [White Banded Awl](http://www.butterflycircle.com/checklist%20V2/CI/index.php/start-page/startpage/showbutterfly/239)
-(
-*Hasora taminatus malayana*
-),
+(*Hasora taminatus malayana*),
 *[Nacaduba pavana singapura](http://www.butterflycircle.com/checklist%20V2/CI/index.php/start-page/startpage/showbutterfly/192)*
 and
 [Short Banded Sailor](http://butterflycircle.blogspot.sg/2010/05/life-history-of-short-banded-sailor.html)
-(
-*Phaedyma columella singa*
-).
+(*Phaedyma columella singa*).
 
 ## Human uses
 
@@ -165,15 +154,15 @@ root is pounded and soaked in water. When whole canoes, full of water and pounde
 *Derris*
 , are upset into the river or pong, a very rapid stupefying of the fish occurs, enabling them to be lifted out of the water by hand. This is preceeded by wild attempts of the victims to escape, in which they expose themselves to spearing, and in this spearing is the chief excitement of the sport. After the poisoning, the water soon becomes pure again. This of course is chiefly by diffusion, but also because aqueous solutions of the poison decompose rather quickly."
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg)
 
 Sungei Pandan, Jun 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090905sbwrd0264m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/090905sbwrd0264m3.jpg)
 
 Sungei Buloh, Sep 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/derris/trifoliata/090913kntd0711m3.jpg)*
+![](https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/090913kntd0711m3.jpg)*
 Scars of derris.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

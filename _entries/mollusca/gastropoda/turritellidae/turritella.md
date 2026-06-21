@@ -1,6 +1,6 @@
 ---
 title: Turritella snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Turritella snail on the shores of Singapore
 keywords: screw, turritella, terebra, turritellidae, gastropod, mollusc, snail, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -25,19 +25,18 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Turritellinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg
     caption: Changi, Oct 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/turritellidae/turritella/060626ecpd3524m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/turritellidae/turritella/060626ecpd3524m3.jpg
     caption: East Coast, Jun 06
 links_references: '**Links**
 
   - [Screw turret (
-
   *Turritella terebra*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86863)
@@ -45,7 +44,6 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
   - Screw turret (
-
   *Turritella terebra*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

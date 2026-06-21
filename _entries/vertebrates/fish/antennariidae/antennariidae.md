@@ -1,6 +1,6 @@
 ---
 title: Frogfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Frogfishes on the shores of Singapore
 keywords: frog, angler, fish, frogfish, anglerfish, antennariidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,photo
 layout: entry
@@ -17,32 +17,31 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Lophiiformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
     caption: Changi, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg
     caption: A lure that draws prey closer to the mouth
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg
     caption: Lure and bright markings in the mouth. Sisters Island, Aug 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg
     caption: '''Climbing'' on long seagrass with its ''paws''. Pulau Semakau, Apr
       11'
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg
     caption: Tuas, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg
     caption: Pulau Semakau, Sep 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg
     caption: Black frogfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg
     caption: Spotted-tail frogfish
 links_references: '**Links**
 
   - [Spotted-tail frogfish (
-
   *Lophiocharon trisignatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231)
@@ -201,11 +200,8 @@ According to
 the father fish carries egg clusters attached to the side of his body, "either as brooding strategy or as aid in luring other fish for food". Motionless, his eggs will indeed look like a tasty snack on a stone. Any potential egg-snackers will of course be in danger of becoming a snack for papa frogfish!
 
 **Unusual frogfishes:**
-While most frogfishes are bottom-dwelling, one species (
-*Histrio*
-sp.) floats among sargassum seaweed. Another species, the Brackishwater frogfish (
-*Antennarius biocellatus*
-) inhabits brackish and even totally freshwater habitats.
+While most frogfishes are bottom-dwelling, one species (*Histrio*
+sp.) floats among sargassum seaweed. Another species, the Brackishwater frogfish (*Antennarius biocellatus*) inhabits brackish and even totally freshwater habitats.
 
 ---
 

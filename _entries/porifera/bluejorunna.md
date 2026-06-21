@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue jorunna sponge on the shores of Singapore
 keywords: blue, jorunna, sponge, porifera, neopetrosia, petrosiidae, field, guide,
 layout: entry
 shape: encrusting
@@ -16,42 +16,42 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
     caption: Polka-dot nudibranch with white egg mass near the sponge Pulau Sekudu,
       Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/060624skdd3304m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/060624skdd3304m3.jpg
     caption: A pair of the nudibranchs near the sponge. Pulau Sekudu, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3b.jpg
     caption: Chewed up sponge Pulau Sekudu, Jun 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/070602sjig9860m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/070602sjig9860m3.jpg
     caption: St. John's Island, Jun 07 The nudi was seen next to a chomped up blue
       sponge.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bluejorunna/050709skdg9248m3.jpg
+  - url: https://images.naturehungry.sg/porifera/bluejorunna/050709skdg9248m3.jpg
     caption: Pulau Sekudu, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bluejorunna/050723labg0042m3.jpg
+  - url: https://images.naturehungry.sg/porifera/bluejorunna/050723labg0042m3.jpg
     caption: Labrador, Jul 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bluejorunna/20070724thntrk1.jpg
+  - url: https://images.naturehungry.sg/porifera/bluejorunna/20070724thntrk1.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bluejorunna/110322tryrl1m3.jpg
+  - url: https://images.naturehungry.sg/porifera/bluejorunna/110322tryrl1m3.jpg
     caption: Terumbu Raya, Mar 11 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/funebris/100629tpdjk5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/100629tpdjk5m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bluejorunna/100601slud4828m3.jpg
+  - url: https://images.naturehungry.sg/porifera/bluejorunna/100601slud4828m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bluejorunna/100131slud8882m3.jpg
+  - url: https://images.naturehungry.sg/porifera/bluejorunna/100131slud8882m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bluejorunna/091205sudd5512m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/bluejorunna/091205sudd5512m3b.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bluejorunna/091205sudlks6m3.jpg
+  - url: https://images.naturehungry.sg/porifera/bluejorunna/091205sudlks6m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/bluejorunna/100530pbklks3m3.jpg
+  - url: https://images.naturehungry.sg/porifera/bluejorunna/100530pbklks3m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 
@@ -128,9 +128,7 @@ About 6-10cm sometimes larger. Is generally encrusting, with small (5cm in diame
 
 It appears to be among the favourite food of the
 [Polka-dot nudibranch](../mollusca/slugs/nudibranchia/funebris)
-(
-*Jorunna funebris*
-) and this nudibranch is often seen laying egg masses near the sponge.
+(*Jorunna funebris*) and this nudibranch is often seen laying egg masses near the sponge.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

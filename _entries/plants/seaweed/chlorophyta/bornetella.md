@@ -1,6 +1,6 @@
 ---
 title: Green sea sausage seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Green sea sausage seaweed on the shores of Singapore
 keywords: sausage, seaweed, weed, green, bornetella, oligospora, dasycladaceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,31 +19,31 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3.jpg
     caption: Terumbu Semakau, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/040522kusad0037m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/040522kusad0037m3.jpg
     caption: With thinner white-stemmed seaweed . Kusu Island , May 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/160314lazjt1.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/160314lazjt1.jpg
     caption: Lazarus Island, Mar 16 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/060713rlhd4364m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/060713rlhd4364m3.jpg
     caption: Raffles Lighthouse, Jul 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100531biod4454m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/100531biod4454m3.jpg
     caption: Pulau Biola, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100613sngd5536m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/100613sngd5536m3.jpg
     caption: Pulau Senang, Jun 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/091231biod6815m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/091231biod6815m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/091231biod6815m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/091231biod6815m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/091231biod6815m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/091231biod6815m3b.jpg
     caption: ''
 links_references: '**Links**
 
@@ -134,12 +134,10 @@ species.
 
 **Sometimes confused with**
 ['Taugeh' seaweeds](neomeris)
-(
-*Neomeris*
+(*Neomeris*
 sp.) which have white bases to their 'stems' and is more cylindrical (rather than club-shaped). May also be confused with
 [Bubble green seaweed](boergesenia)
-(
-*Borgensenia*
+(*Borgensenia*
 sp.) which is bubble shaped and translucent. Here's more on
 [how to tell apart some green seaweeds](cfgrapes)
 .
@@ -151,11 +149,11 @@ and
 *Bornetella nitida*
 form clusters of club shapes (to 5cm tall) that are slightly curved, sometimes with reddish tips. The two species are only positively distinguished by microscopic examination of reproductive features.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg)
+*![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg)
 
 Terumbu Raya, May 10
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bornetella/100502tryd2286m3a.jpg)*
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/bornetella/100502tryd2286m3a.jpg)*
 Tufts of white filaments at the tips.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

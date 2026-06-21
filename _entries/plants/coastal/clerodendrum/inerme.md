@@ -1,6 +1,6 @@
 ---
 title: 'Gambir laut '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gambir laut  on the shores of Singapore
 keywords: clerodendrum, inerme, lamiaceae, verbenacae, creeper, plant, bush, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -22,7 +22,7 @@ class: Magnoliopsida
 order: Lamiales
 subfamily: Ajugoideae
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg
 links_references: '**Links**
 
   - *[Clerodendrum inerme](http://floraofsingapore.wordpress.com/2010/07/14/clerodendrum-inerme/)*on
@@ -46,11 +46,11 @@ links_references: '**Links**
   Singapore University Press. 222 pp..'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090517ubnd1946m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/clerodendrum/inerme/090517ubnd1946m3.jpg
     caption: Pulau Ubin, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/110317mndd7324m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/clerodendrum/inerme/110317mndd7324m3a.jpg
     caption: Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090411lckd9574m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/clerodendrum/inerme/090411lckd9574m3.jpg
     caption: Lim Chu Kang, Apr 09
 size:
 - 100.0
@@ -85,7 +85,7 @@ Fruit round or egg-shaped (1cm), green ripening to black. The dry fruit then bre
 
 According to Giesen, the seeds and roots are used to treat poisoning from fish and other marine animals. The leaves are used to treat wounds, and fruits to dysentery. The leaves are used in an appetizer dish in Indonesia.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg)
 
 *Lim Chu Kang, Apr 09*
 **

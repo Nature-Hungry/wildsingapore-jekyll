@@ -1,6 +1,6 @@
 ---
 title: 'Triton snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Triton snails  on the shores of Singapore
 keywords: ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -18,7 +18,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
 links_references: '**Links**
 
   - [Family Ranallidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ranellidae.html)onThe
@@ -60,9 +60,9 @@ links_references: '**Links**
   145 pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
     caption: Common triton snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
     caption: Leopard triton snail
 location:
 - chg

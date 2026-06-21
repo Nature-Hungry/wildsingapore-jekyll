@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black antler sponge on the shores of Singapore
 keywords: black, spiky, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: branching
@@ -16,19 +16,19 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/branchblack/070716chgd4288m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/branchblack/070716chgd4288m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchblack/070716chgd4288m3.jpg
+  - url: https://images.naturehungry.sg/porifera/branchblack/070716chgd4288m3.jpg
     caption: Changi, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchblack/050806skdd5505m3.jpg
+  - url: https://images.naturehungry.sg/porifera/branchblack/050806skdd5505m3.jpg
     caption: Pulau Sekudu, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchblack/100727chgd9359m3.jpg
+  - url: https://images.naturehungry.sg/porifera/branchblack/100727chgd9359m3.jpg
     caption: Changi, Jul 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchblack/260103prplks4.jpg
+  - url: https://images.naturehungry.sg/porifera/branchblack/260103prplks4.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/branchblack/160208smkshpy1.jpg
+  - url: https://images.naturehungry.sg/porifera/branchblack/160208smkshpy1.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
 links_references: '**Links**

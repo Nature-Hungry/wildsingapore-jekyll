@@ -1,6 +1,6 @@
 ---
 title: Tubeworms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tubeworms on the shores of Singapore
 keywords: tube, worm, tubeworm, bristle, polychaete, annelida, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,29 +17,29 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Vermetoidea
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
+coverimg: https://images.naturehungry.sg/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
+  - url: https://images.naturehungry.sg/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
     caption: Various kinds of tubes made by worms. Chek Jawa, Feb 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/diopatra/050823chgg2333m3.jpg
+  - url: https://images.naturehungry.sg/polychaeta/diopatra/050823chgg2333m3.jpg
     caption: Tube washed ashore Changi, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/strawtube/120410chgd9214m3.jpg
+  - url: https://images.naturehungry.sg/polychaeta/strawtube/120410chgd9214m3.jpg
     caption: Some tubeworms are more complex looking! Changi, Apr 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/diopatra/110611cjlks.JPG
+  - url: https://images.naturehungry.sg/polychaeta/diopatra/110611cjlks.JPG
     caption: Being eaten by a mudskipper Chek Jawa, Jun 11 Photo shared by Loh Kok
       Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/diopatra/100429prpd1812m3.jpg
+  - url: https://images.naturehungry.sg/polychaeta/diopatra/100429prpd1812m3.jpg
     caption: Reaching out to grab a mangrove propagule. Pasir Ris Park, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/gregarious/060114cjg3823m3a.jpg
+  - url: https://images.naturehungry.sg/polychaeta/gregarious/060114cjg3823m3a.jpg
     caption: Forming shaggy mats may help anchor sediments Chek Jawa, Jan 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/gregarious/120111chgs01934m3.jpg
+  - url: https://images.naturehungry.sg/polychaeta/gregarious/120111chgs01934m3.jpg
     caption: Gregarious tubeworms
-  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/strawtube/020627chgd0515m3.jpg
+  - url: https://images.naturehungry.sg/polychaeta/strawtube/020627chgd0515m3.jpg
     caption: Straw tubeworms
-  - url: https://f003.backblazeb2.com/file/naturehungry/polychaeta/diopatra/040702chgg0938m3.jpg
+  - url: https://images.naturehungry.sg/polychaeta/diopatra/040702chgg0938m3.jpg
     caption: Solitary tubeworm
 links_references: '**Links**
 
@@ -160,14 +160,11 @@ Some tubes are thin and delicate and look more like roots of plants, others are 
 [keelworms](../polychaeta/serpulidae)
 build tubes made of calcium carbonate on hard surfaces. The
 [Giant reef worm](../polychaeta/giant)
-(
-*Eunice aphroditois*
-) builds a paper tube in crevices in coral rubble or even living coral.
+(*Eunice aphroditois*) builds a paper tube in crevices in coral rubble or even living coral.
 
 Some like the
 [Solitary tubeworm](../polychaeta/diopatra)
-(
-*Diopatra*
+(*Diopatra*
 sp.) may incorporate a leaf at the top of the tube. This may help to reduce water loss or transmit the vibrations of nearby predators or prey.
 
 Some tubeworms live close together in large numbers. The hundreds of tubes of the tiny
@@ -190,8 +187,7 @@ made by worms from those made by other animals.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Why live in a tube?**
 A tube provides some protection from the abrasive sand, as well as most predators. It is also a lair from which predatory worms can hide to catch passing prey. Tubes may go quite deep to where it remains moist and cool at low tide. Tubes that project some distance above the bottom may allow the worms to reach clean, oxygenated water above a muddy or sandy bottom. Building a tube on a hard surface also allows worms to live in places where they cannot burrow (see
-[keelworms](../polychaeta/serpulidae)
-).
+[keelworms](../polychaeta/serpulidae)).
 
 **Tubeworm babies:**
 Most tubeworms have separate genders. In some, eggs and sperm are released into the water simultaneously where they are fertilised. In others, eggs are retained or brooded within their tubes. Some eggs develop into free-swimming larvae that drift with the plankton before settling down and developing into new tubeworms.

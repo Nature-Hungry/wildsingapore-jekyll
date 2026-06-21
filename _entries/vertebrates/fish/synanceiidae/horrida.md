@@ -1,6 +1,6 @@
 ---
 title: Hollow-cheeked stonefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hollow-cheeked stonefish on the shores of Singapore
 keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -24,92 +24,91 @@ order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Synanceiinae
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
     caption: Large pectoral fins. Tail curled. Spines up. Pulau Hantu, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060312hntd0315m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/060312hntd0315m3.jpg
     caption: Tough spines can penetrate a thick soled shoe! Pulau Hantu, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/060811rlhd5897m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/060811rlhd5897m3b.jpg
     caption: Deep depressions beneath the eye. Mouth in perpetual frown. Raffles Lighthouse,
       Aug 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/110816tmftL1070493m4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/110816tmftL1070493m4.jpg
     caption: Tanah Merah, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/120619tmd5590m4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/120619tmd5590m4.jpg
     caption: Tanah Merah, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/120424tmnbd0546m4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/120424tmnbd0546m4.jpg
     caption: Tanah Merah, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/110505tmnbd0734m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/110505tmnbd0734m3.jpg
     caption: Tanah Merah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/110730tmftd7714m4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/110730tmftd7714m4.jpg
     caption: Tanah Merah, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/120806tmfts02147m4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/120806tmfts02147m4.jpg
     caption: Tanah Merah, Aug 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/101204tmfts01505m4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/101204tmfts01505m4.jpg
     caption: Half buried. Tanah Merah, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/101221tmfts02127m4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/101221tmfts02127m4.jpg
     caption: Half buried. Tanah Merah, Dec 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/190716tbm3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/190716tbm3a.jpg
     caption: Nearly stepped on a stonefish! Terumbu Hantu, Jul 19
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/161217chglc.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/161217chglc.jpg
     caption: Changi, Dec 16 Photo shared by Lena Chow on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/140614cjlks2.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/140614cjlks2.JPG
     caption: Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/150705skdrl2m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/150705skdrl2m3.jpg
     caption: Pulau Sekudu, Jul 15 Photo shared by Russel Low on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/100709tmmn1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/100709tmmn1m3.jpg
     caption: Tanah Merah, Jul 10 Photo shared by Marcus Ng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/091218tmlks4m3.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/091218tmlks4m3.JPG
     caption: Tanah Merah, Dec 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/091009tmtch1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/091009tmtch1m3.jpg
     caption: Tanah Merah, Oct 09 Photo shared by Toh Chay Hoon on her blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/190830epcnky1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/190830epcnky1.jpg
     caption: East Coast Park, Sep 19 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/190221nsrccl1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/190221nsrccl1.jpg
     caption: East Coast Park, Feb 19 Photo shared by Camille Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/221226ecpgky3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/221226ecpgky3.jpg
     caption: East Coast (G), Dec 22 Photo shared by Kelvin Yong on facebook
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/160509srpmn5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/160509srpmn5.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/110903sntmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/110903sntmn.jpg
     caption: Sentosa, Sep 11 Photo shared by Marcus Ng on flickr .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/070929kuskms.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/070929kuskms.jpg
     caption: Kusu Island, Sep 07 Photo shared by Khoo Min Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/100515sjilks8m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/100515sjilks8m3.jpg
     caption: St. John's Island, May 10 Photo shared by Loh Kok Sheng on his blog .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/090509sislks6m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/090509sislks6m3.jpg
     caption: A tiny one! Sisters Island, May 09 Photo shared by Loh Kok Sheng on his
       blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/120505sisjk1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/120505sisjk1m3.jpg
     caption: Sisters Island, May 12 Photos shared by James Koh on his blog .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/091117smkjk2m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/091117smkjk2m6l.jpg
     caption: Pulau Semakau, Nov 09 Photo shared by James Koh on flickr .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/110830cyrjk3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/110830cyrjk3m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/171104cyrlks3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/171104cyrlks3.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
   gallery12:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/170812cymn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/170812cymn1.jpg
     caption: Cyrene Reef, Aug 17 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/200626tptky2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/200626tptky2.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Kelvin Yong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/synanceiidae/horrida/220102biotch4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/220102biotch4.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
 links_references: '**Links**
 
   - [Hollow-cheek Stonefish (
-
   *Synanceia horrida*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256)
@@ -121,7 +120,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Stonefish (
-
   *Synanceia horrida*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/231)
@@ -252,9 +250,7 @@ Stonefishes are carnivores but don't actively hunt their prey. Instead, they lie
 **What will eat a stonefish?**
 Incredible as it may sound, some animals do eat them. According to the
 [Australian Museum](http://www.amonline.net.au/fishes/students/focus/sverruc)
-, sharks and rays and a sea snake (
-*Astrotia stokesii*
-) eats them! And of course, some people eat them as a delicacy.
+, sharks and rays and a sea snake (*Astrotia stokesii*) eats them! And of course, some people eat them as a delicacy.
 
 ## Human uses
 

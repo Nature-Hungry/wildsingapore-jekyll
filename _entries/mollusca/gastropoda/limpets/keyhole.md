@@ -1,6 +1,6 @@
 ---
 title: 'Keyhole limpets '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Keyhole limpets  on the shores of Singapore
 keywords: keyhole, limpet, fissurilidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,20 +18,20 @@ subclass: Vetigastropoda
 order: Lepetellida
 superfamily: Fissurelloidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
     caption: Pulau Tekukor, Apr 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
     caption: Pulau Tekukor, Apr 13
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/240113laztl2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/240113laztl2.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/210502tptvc7.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/210502tptvc7.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/keyhole/210810tplvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/210810tplvc3.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**

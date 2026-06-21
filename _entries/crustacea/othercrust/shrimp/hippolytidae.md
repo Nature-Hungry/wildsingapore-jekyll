@@ -1,6 +1,6 @@
 ---
 title: Hippolytoid shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hippolytoid shrimps on the shores of Singapore
 keywords: shrimp, hippolytidae, decapod, crustacea, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,14 +22,14 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
     caption: Saron shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
     caption: Cleaner shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
     caption: Humpbacked shrimp
 location:
 - tm

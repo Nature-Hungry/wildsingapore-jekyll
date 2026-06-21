@@ -1,6 +1,6 @@
 ---
 title: Flat branch sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flat branch sea fan on the shores of Singapore
 keywords: seafan, fan, subergorgia, subergorgiidae, gorgonian, gorgonacea, anthozoa,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,26 +17,26 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
     caption: Tuas, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/030714bbd0070m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/030714bbd0070m3.jpg
     caption: Beting Bronok, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/090723ecplks6m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/090723ecplks6m3.JPG
     caption: East Coast Park, Jul 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg
     caption: Tuas, Apr 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14a.jpg
     caption: An ovulid snail on the sea fan.
 links_references: '**Links**
 

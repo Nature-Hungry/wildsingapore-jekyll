@@ -1,6 +1,6 @@
 ---
 title: Knobbly drill
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Knobbly drill on the shores of Singapore
 keywords: knobbly, drill, morula, muricidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -19,14 +19,14 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Ergalataxinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg
     caption: Teeth at narrow shell opening Kusu Island, Dec 04
 location:
 - lab

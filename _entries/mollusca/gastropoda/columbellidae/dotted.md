@@ -1,6 +1,6 @@
 ---
 title: Dotted dove snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dotted dove snail on the shores of Singapore
 keywords: dotted, dove, shell, snail, euplica, scripta, columbellidae, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -18,21 +18,21 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
     caption: Pulau Sekudu, Jul 20
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/080816sisd9513.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/080816sisd9513.jpg
     caption: Sisters Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
     caption: Sentosa, Oct 04 rs. St. John's Island, Sep 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/070901sjig2112.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/070901sjig2112.jpg
     caption: St. John's Island, Sep 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
     caption: Sometimes seen in groups. Pulau Sekudu, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/070901sjig2116m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/070901sjig2116m3.jpg
     caption: Eating the algae growing on seaweed. St. John's Island, Sep 07
 links_references: '**Links**
 
@@ -97,10 +97,8 @@ habitats:
 
 ## Where seen?
 This little snail is sometimes seen in numbers on some of our shores. Usually on large seagrasses (such as
-[Tape seagrass](../../../plants/seagrass/enhalus)
-) and large seaweeds (such as
-[Sargassum](../../../plants/seaweed/phaeophyta/sargassum)
-). Sometimes many can be seen well dispersed among these leafy lifeforms. It was also known as
+[Tape seagrass](../../../plants/seagrass/enhalus)) and large seaweeds (such as
+[Sargassum](../../../plants/seaweed/phaeophyta/sargassum)). Sometimes many can be seen well dispersed among these leafy lifeforms. It was also known as
 *Columbella versicolor, Pyrene versicolor*
 and
 *Pyrene scripta*

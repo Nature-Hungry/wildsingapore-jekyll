@@ -1,6 +1,8 @@
 ---
 title: Spotted mangrove anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 'Less than 0.5cm, at low tide, a tiny blob with ''eye spots'': black
+  centre with white and orange edges. Among barnacles, wood on the high shore among
+  mangroves.'
 keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -29,17 +31,17 @@ superfamily: Actinioidea
 summary: 'Less than 0.5cm, at low tide, a tiny blob with ''eye spots'': black centre
   with white and orange edges. Among barnacles, wood on the high shore among mangroves.'
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
     caption: Chek Jawa, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/110621nemsd4642m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadspot/110621nemsd4642m3.jpg
     caption: Kranji, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/110621nemsd4648m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadspot/110621nemsd4648m3a.jpg
     caption: Kranji, Jun 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadspot/160125obsll1a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadspot/160125obsll1a.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Lisa Lim on facebook .
 location:
 - sbw

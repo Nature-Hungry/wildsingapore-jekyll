@@ -1,6 +1,6 @@
 ---
 title: Groupers
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Groupers on the shores of Singapore
 keywords: grouper, fish, serranidae, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,17 +22,17 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
     caption: Chocolate hind
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
     caption: Orange-spotted grouper
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg
     caption: Bluelined hind
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg
     caption: Honeycomb grouper
 links_references: "**Links**\n- [Marbled Grouper (\n*Epinephalus tauvina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/243)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
@@ -117,19 +117,13 @@ Groupers are edible and a highly valued seafood dish for many Singaporeans. Howe
 
 Groupers are vulnerable to overfishing because they are not numerous to begin with. At the same time, they have high commercial value and are relatively easy to catch. Many are territorial and stay within a particular home range, and most are not shy of divers. In the Hong Kong area, populations of the larger groupers are dwindling and smaller groupers such as the
 [Chocolate hind](boenak)
-(
-*Cephalopholis boenak*
-) are now being targetted.
+(*Cephalopholis boenak*) are now being targetted.
 
 Being top predators, they are naturally uncommon. They reach maturity and maximum size relatively slowly. Thus overfishing of young fish before they are able to reproduce can have a serious effect. Males are larger and rarer, thus more vulnerable to overfishing. This can result in an imbalance in the gender ratio which can affect reproduction. Overfishing at the spawning sites where large numbers of the usually solitary groupers gather can also devastate the local population of these fishes.
 
 In Southeast Asia, groupers are widely farmed in floating cages or in ponds and tanks. In Singapore, some like the
 [Orange-spotted grouper](coioides)
-(
-*Epinephalus coioides*
-) and Malabar grouper (
-*Epinephelus malabaricus*
-) are reared in floating cages in the sea until they reach marketable size. However, the farms are mostly stocked by juveniles harvested unsustainably from the wild.
+(*Epinephalus coioides*) and Malabar grouper (*Epinephelus malabaricus*) are reared in floating cages in the sea until they reach marketable size. However, the farms are mostly stocked by juveniles harvested unsustainably from the wild.
 
 ---
 

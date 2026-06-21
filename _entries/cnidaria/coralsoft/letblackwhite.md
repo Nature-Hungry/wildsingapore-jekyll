@@ -1,6 +1,6 @@
 ---
 title: 'Black-and-white leathery soft coral '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-and-white leathery soft coral  on the shores of Singapore
 keywords: cladiella, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,7 +17,7 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
 links_references: '**Links**
 
   - [*Cladiella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cladiella)on[Reef
@@ -45,55 +45,55 @@ links_references: '**Links**
   264 pp'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
     caption: Sisters Island, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/111127sisd3862m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/111127sisd3862m3a.jpg
     caption: No siphonozooids, smooth surface between feathery autozooid polyps.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/111127sisd3862m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/111127sisd3862m3b.jpg
     caption: Polyps are brown with a short body column and 8 branched tentacles.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/120124sisd5997m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/120124sisd5997m3.jpg
     caption: Sisters Island, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/120124sisd5999m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/120124sisd5999m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/120124sisd5999m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/120124sisd5999m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/040522kusad0079m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/040522kusad0079m3.jpg
     caption: Kusu Island, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/100715tbtd9020m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100715tbtd9020m3.jpg
     caption: Terumbu Pempang Tengah, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3.jpg
     caption: Pulau Tekukor, May 07
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/220618tmftlks19.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/220618tmftlks19.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/091231biod7093m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/091231biod7093m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/100613sngd5539m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100613sngd5539m3.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/100810sngd9994m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100810sngd9994m3.jpg
     caption: Pulau Senang, Aug 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/060714rlhg6636m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/060714rlhg6636m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/091204pawd5341m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/091204pawd5341m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/091205sudd5605m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/091205sudd5605m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/100130brkd8674m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100130brkd8674m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/100130brkd8673m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100130brkd8673m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/100130brkd8673m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100130brkd8673m3.jpg
     caption: ''
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/100811slud0099m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100811slud0099m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letblackwhite/100530tbkd4393m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100530tbkd4393m3.jpg
     caption: Pulau Berkas, May 10
 location:
 - tm

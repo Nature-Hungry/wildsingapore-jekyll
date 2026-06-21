@@ -1,6 +1,6 @@
 ---
 title: 'Dragon scales '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dragon scales  on the shores of Singapore
 keywords: drymoglossum, piloselloides, polypodiaceae, fern, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,19 +23,19 @@ suborder: Polypodiineae
 subfamily: Platycerioideae
 inat_id: 345927
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9129m3a.jpg
+  - url: https://images.naturehungry.sg/plants/others/drymoglossum/piloselloides/090408wdld9129m3a.jpg
     caption: Brown spores on the fertile frond.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9129m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/drymoglossum/piloselloides/090408wdld9129m3.jpg
     caption: Fertile frond.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9129m3b.jpg
+  - url: https://images.naturehungry.sg/plants/others/drymoglossum/piloselloides/090408wdld9129m3b.jpg
     caption: Sterile frond.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/110328mndd8055m6l.jpg
+  - url: https://images.naturehungry.sg/plants/others/drymoglossum/piloselloides/110328mndd8055m6l.jpg
     caption: Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/110328mndd8056m6l.jpg
+  - url: https://images.naturehungry.sg/plants/others/drymoglossum/piloselloides/110328mndd8056m6l.jpg
     caption: Mandai, Mar 11
 links_references: '**Links**
 
@@ -96,7 +96,7 @@ These tough little ferns pave the way for less hardy ferns to settle on the dry 
 
 According to Giersen, the leaves are used to treat rashes, whilst a decoction is used in a lotion for smallpox, and used in a poultice for headaches.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg)
+![](https://images.naturehungry.sg/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg)
 
 *Woodlands Park, Apr 09*
 

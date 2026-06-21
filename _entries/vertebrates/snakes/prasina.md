@@ -1,6 +1,6 @@
 ---
 title: Oriental whip snake
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Oriental whip snake on the shores of Singapore
 keywords: oriental, whip, snake, ahaetulla, prasina, colubridae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,21 +18,21 @@ order: Squamata
 suborder: Serpentes
 subfamily: Chrysopeleinae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/030817cjd0036m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/snakes/prasina/030817cjd0036m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/030817cjd0036m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/prasina/030817cjd0036m3.jpg
     caption: Chek Jawa, Aug 03 Tongue threat display?
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/030817cjd0039m6la.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/prasina/030817cjd0039m6la.jpg
     caption: A long thin tail. Chek Jawa, Aug 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/110402sbwrmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/prasina/110402sbwrmn.jpg
     caption: Sungei Buloh Wetland Reserve, Apr 11 Photo shared by Marcus Ng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/150722labmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/prasina/150722labmn.jpg
     caption: Labrador, Jul 15 Photo shared by Marcus Ng on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/prasina/251231prprqo1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/prasina/251231prprqo1.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

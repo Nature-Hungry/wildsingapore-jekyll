@@ -1,6 +1,6 @@
 ---
 title: 'Onyx cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Onyx cowrie  on the shores of Singapore
 keywords: cowrie, erronea, cypraea, onyx, cypraeidae, gastropod, mollusc, snail, shell,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -20,36 +20,35 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
     caption: Beting Bronok, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/110518bbd1821m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/110518bbd1821m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg
     caption: '''Teeth'' tinged orange.'
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/121216ubnd2637.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/121216ubnd2637.jpg
     caption: Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/121216ubnlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/121216ubnlks.JPG
     caption: Mama cowrie protecting her egg mass with her foot. Pulau Ubin, Dec 12
       Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/170626skdjl3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/170626skdjl3.jpg
     caption: Mama cowrie with her egg mass. Pulau Sekudu, Jun 17 Photo shared by Jianlin
       Liu on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/170430lyglks8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/170430lyglks8.jpg
     caption: Changi Loyang, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/220616chgelks11.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/220616chgelks11.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/onyx/150617ecpbslks8m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/onyx/150617ecpbslks8m3.jpg
     caption: East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**
 
   - [Onyx cowrie (
-
   *Cypraea onyx*
 
   )](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=86923)
@@ -57,7 +56,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Onyx cowrie (
-
   *Cypraea onyx*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

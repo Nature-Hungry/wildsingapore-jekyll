@@ -1,6 +1,6 @@
 ---
 title: Elephant-nose plate
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elephant-nose plate on the shores of Singapore
 keywords: elephant, nose, plate, mycedium, elephantotus, merulinidae, pectiniidae,
   coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -17,35 +17,35 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
     caption: Terumbu Bemban, Apr 16
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/190607tb.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/190607tb.jpg
     caption: Terumbu Bemban, Jun 19
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/190607tbm3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/190607tbm3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/140518tmlks2.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/140518tmlks2.JPG
     caption: Tanah Merah, May 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1a.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1a.JPG
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Dayna Cheah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8a.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16a.jpg
     caption: ''
 links_references: '**Links**
 

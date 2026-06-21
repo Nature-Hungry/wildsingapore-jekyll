@@ -1,6 +1,6 @@
 ---
 title: Asparagus sea fan
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Asparagus sea fan on the shores of Singapore
 keywords: asparagus, fan, dichotella, gemmacea, ellisellidae, gorgonian, gorgonacea,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -10,34 +10,34 @@ genus: Dichotella
 species: cf.
 attributes: []
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg
     caption: Beting Bronok, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/040604bbg0219m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/040604bbg0219m3.jpg
     caption: Beting Bronok, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg
     caption: Beting Bronok, May 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/240706ubnlks6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/240706ubnlks6.jpg
     caption: Pulau Ubin, Jul 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/240706ubnlks6a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/240706ubnlks6a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/190802chglks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/190802chglks1.jpg
     caption: Changi, Aug 19 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/200722lyglks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/200722lyglks2.jpg
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/240706ubnlks6a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/240706ubnlks6a.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/230617lygrk1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/230617lygrk1.jpg
     caption: Changi Loyang, Jun 23 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/230617lygrk1a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/230617lygrk1a.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/asparagus/220617skdlks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/220617skdlks1.jpg
     caption: Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

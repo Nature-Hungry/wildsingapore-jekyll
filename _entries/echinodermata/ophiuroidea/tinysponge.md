@@ -1,6 +1,6 @@
 ---
 title: 'Tiny in-a-sponge brittle stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny in-a-sponge brittle stars  on the shores of Singapore
 keywords: tiny, sponge, brittle, star, brittlestar, ophiactis, savignyi, ophiuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,32 +26,32 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg
     caption: In a Chocolate sponge . Chek Jawa, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3a.jpg
     caption: The arms of countless brittle stars can make a sponge appear 'hairy'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/080919sntd0619m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/080919sntd0619m3.jpg
     caption: Outside the sponge?
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3.jpg
     caption: Pulau Sekudu, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg
     caption: Larger white brittle stars among the tiny banded ones. Pulau Sekudu,
       Jul 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothblue/100911sisd1174m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothblue/100911sisd1174m3a.jpg
     caption: In a blue icing sponge . Sisters Island, Sep 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/100911sisd1245m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/100911sisd1245m3a.jpg
     caption: In a smooth brown sponge . Sisters Island, Sep 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/050621skdg7908m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/050621skdg7908m3.jpg
     caption: In a Orange blob sponge . Pulau Sekudu, Jun 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/ophiuroidea/tinysponge/150524tplmn1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/150524tplmn1m3.jpg
     caption: Terumbu Pempang Laut, May 15 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

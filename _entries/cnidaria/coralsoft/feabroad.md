@@ -1,6 +1,6 @@
 ---
 title: Broad feathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Broad feathery soft coral on the shores of Singapore
 keywords: alcyonacea, soft, coral, octocoral, sansibia, flava, xeniidae, alcyonacea,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,40 +17,40 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Aug 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
     caption: St. John's Island, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/050807sjig0759m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0759m3a.jpg
     caption: Polyps do not retract completely.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/070102sisg7185m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/070102sisg7185m3.jpg
     caption: Sisters Islands, Jan 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/110517tptd1613m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/110517tptd1613m3.jpg
     caption: Terumbu Pempang Tengah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/040705sisd2213m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/040705sisd2213m3.jpg
     caption: Sisters Islands, Jul 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/200210blylks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/200210blylks1.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/250811jngmn5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/250811jngmn5.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/20070724thntrk3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/20070724thntrk3.jpg
     caption: Terumbu Hantu, Jul 20 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/091231biod7022m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/091231biod7022m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/100130brkd8468m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/100130brkd8468m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/091204pawd5389m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/091204pawd5389m3.jpg
     caption: Pulau Pawai, Dec 09
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/091205sudjk9m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/091205sudjk9m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/feabroad/100613sngd5432m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/100613sngd5432m3b.jpg
     caption: Pulau Senang, Jun 10
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Common elbow crabs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common elbow crabs on the shores of Singapore
 keywords: elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -26,49 +26,49 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
     caption: Pincers many times longer than its body. Changi, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg
     caption: Changi, Aug 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/030525cjd0053m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/030525cjd0053m3a.jpg
     caption: Just moulted. Pulau Ubin, May 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/090625cyd5542m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/090625cyd5542m3.jpg
     caption: Pair about to mate? Cyrene Reef, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/050621skdg7974m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/050621skdg7974m3.jpg
     caption: Mama crab with egg mass on her abdomen. Pulau Sekudu, Jun 05
   gallery4:
   - url: https://live.staticflickr.com/3931/32545405384_300b189f35_z.jpg
     caption: Two crabs, about to mate?
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/190206prpll3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/190206prpll3.jpg
     caption: Pasir Ris-Loyang, Feb 19 Photo shared by Liz Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/100614bblks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/100614bblks.JPG
     caption: Beting Bronok, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/250627bbky4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/250627bbky4.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Kelvin Yong on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/200706skdlks9.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/200706skdlks9.jpg
     caption: Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/200819ecptvc1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/200819ecptvc1.jpg
     caption: East Coast Park, Aug 20 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/160725sntmn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/160725sntmn2.jpg
     caption: Sentosa, Jul 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/171009blyay4.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/171009blyay4.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/160508kuslks4.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/160508kuslks4.JPG
     caption: Kusu Island, May 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/251207hntlks1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/251207hntlks1.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/130211sjilks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/130211sjilks.JPG
     caption: St John's Island, Feb 13 Photo shared by Loh Kok Sheng on his blog.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/parthenopidae/common/110203sjilks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/110203sjilks.JPG
     caption: St John's Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

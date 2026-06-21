@@ -1,6 +1,6 @@
 ---
 title: 'Freckled   goatfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Freckled   goatfish  on the shores of Singapore
 keywords: freckled, goatfish, upeneus, tragula, mullidae, fish, scatophagidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -23,44 +23,43 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Mulloidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg
     caption: Pair of barbels under the chin Changi, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/100810sngd9966m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/100810sngd9966m6l.jpg
     caption: Pulau Senang, Aug 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/150802bbtch.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/150802bbtch.jpg
     caption: Beting Bronok, Aug 15 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/251011lablks11.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/251011lablks11.jpg
     caption: Labrador, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/170429kusis1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/170429kusis1.jpg
     caption: Kusu Island, Apr 17 Photo shared by Ian Siah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/250331hntrg2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/250331hntrg2.jpg
     caption: Pulau Hantu, Apr 25 Photo shared by Rachael Goh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/191028bsisvc4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/191028bsisvc4.jpg
     caption: Big Sisters Island, Oct 19 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/250810bsisrk8.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/250810bsisrk8.jpg
     caption: Big Sisters, Aug 25 Photo shared by Richard Kuah on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/240410cyrky3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/240410cyrky3.jpg
     caption: Cyrene, Apr 24 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/140810smkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/140810smkmn.jpg
     caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/110517tptik8m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/110517tptik8m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/mullidae/upeneus/190902tryky1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/190902tryky1.jpg
     caption: Terumbu Raya, Sep 19 Photo shared by Kelvin Yong on facebook .
 links_references: '**Links**
 
   - [Freckled goatfish (
-
   *Upeneus tragula*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/322)
@@ -122,7 +121,6 @@ links_references: '**Links**
   : Technical fact sheet on the family, including fact sheets on individual species
 
   [Freckled goatfish (
-
   *Upeneus tragula*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=5443)

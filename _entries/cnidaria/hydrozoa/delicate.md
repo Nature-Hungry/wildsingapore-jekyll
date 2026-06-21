@@ -1,6 +1,6 @@
 ---
 title: Delicate hydroid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Delicate hydroid on the shores of Singapore
 keywords: candy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,31 +14,31 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
     caption: Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050819cjg1531m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/050819cjg1531m3c.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050722cjg9836m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/050722cjg9836m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/050720sntg9553m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/050720sntg9553m3.jpg
     caption: Sentosa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/060527sjid2107m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/060527sjid2107m3.jpg
     caption: St. John's Island, May 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/100629pdrd7406m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/100629pdrd7406m3a.jpg
     caption: Terumbu Pempang Darat, Jun 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/090625bsrd5219m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/090625bsrd5219m3.jpg
     caption: Beting Bemban Besar, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/091231biod7088m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/091231biod7088m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/delicate/100811slud0097m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/100811slud0097m3.jpg
     caption: Pulau Salu, Aug 10
 location:
 - cj

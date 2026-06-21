@@ -1,6 +1,8 @@
 ---
 title: Needle seagrass
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Thin ribbon-like leaves up to 15cm long and 3.5mm wide. Rhizomes thin.
+  Sometimes seen on some our shores, especially on sand bars. Luxuriant growths seen
+  on seaward sandbars on Chek Jawa.
 keywords: needle, grass, halodule, uninervis, pinifolia, cymodoceaceae, potamogetonaceae,
   cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -26,18 +28,18 @@ updated: Mar 14
 rdb: VU
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050822cjg2120m3c.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/halodule/050822cjg2120m3c.jpg
     caption: Long skinny Halodule. Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/070603sntrg9935m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/halodule/070603sntrg9935m3.jpg
     caption: Long broad Halodule. Sentosa, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050315cjg3392m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/halodule/050315cjg3392m3.jpg
     caption: Short skinny Halodule. Chek Jawa, Mar 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/090503sgwwd1004m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/halodule/090503sgwwd1004m3.jpg
     caption: Pulau Semakau, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/110830cyrd0555m6lb.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/halodule/110830cyrd0555m6lb.jpg
     caption: Broad Halodule. Cyrene Reefs, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/110830cyrd0555m6la.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/halodule/110830cyrd0555m6la.jpg
     caption: Skinny Halodule. Cyrene Reefs, Aug 11
 links_references: '**Links**
 
@@ -150,20 +152,20 @@ is listed as 'Critically Endangered' while
 *Halodule uninervis*
 is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/100419chgc2643m6l.jpg)
+![](https://images.naturehungry.sg/plants/seagrass/halodule/100419chgc2643m6l.jpg)
 
 Large stretches of
 *Halodule.
 
 Changi, Apr 10*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/070603sntrg9934m3.jpg)
+![](https://images.naturehungry.sg/plants/seagrass/halodule/070603sntrg9934m3.jpg)
 
 *Halodule*
 with very broad blades.
 *Sentosa, Jun 07*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/halodule/050623cjg8439m3.jpg)
+![](https://images.naturehungry.sg/plants/seagrass/halodule/050623cjg8439m3.jpg)
 
 *Chek Jawa, Jun 05*
 

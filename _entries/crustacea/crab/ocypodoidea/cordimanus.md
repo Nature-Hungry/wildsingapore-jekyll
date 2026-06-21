@@ -1,6 +1,6 @@
 ---
 title: Smooth-eyed ghost crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth-eyed ghost crab on the shores of Singapore
 keywords: horn, eyed, ghost, crab, ocypode, cordimanus, ocypodidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -31,24 +31,23 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Ocypodinae
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
     caption: Sentosa, Sep 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3b.jpg
     caption: Eyes without 'horns'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
     caption: Back without dark marks.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1086m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/cordimanus/110903sntd1086m3.jpg
     caption: Lacks ridges on inner palm.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3c.jpg
     caption: ''
 links_references: '**Links**
 
   - [Ghost Crab (
-
   *Ocypoda*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)
@@ -116,9 +115,7 @@ Body width about 5cm. Body squarish box-like. Pale greyish blue without dark mar
 **May be mistaken for**
 the
 [Horn-eyed ghost crab](ceratophthalmus)
-(
-*Ocypode ceratophthalmus*
-): the Smooth-eyed ghost crab lacks 'horns' on its eyes and seems a little slower and less skittish. It lacks ridges on the inner palm. But juvenile Long-eyed ghost crabs also lack 'horns' and tend to remain immobile when spotted.
+(*Ocypode ceratophthalmus*): the Smooth-eyed ghost crab lacks 'horns' on its eyes and seems a little slower and less skittish. It lacks ridges on the inner palm. But juvenile Long-eyed ghost crabs also lack 'horns' and tend to remain immobile when spotted.
 **Status and threats:**
 The Smooth-eyed ghost crab is listed as 'Vulnerable' in the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

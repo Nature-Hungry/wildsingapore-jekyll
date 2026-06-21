@@ -1,6 +1,6 @@
 ---
 title: 'Kalak kambing '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Kalak kambing  on the shores of Singapore
 keywords: finlaysonia, obovata, apocynaceae, asclepiadaceae, climber, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -22,21 +22,21 @@ order: Gentianales
 subfamily: Periplocoideae
 inat_id: 425633
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/finlaysonia/obovata/110328mndd8014m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/110328mndd8014m3.jpg
     caption: Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/finlaysonia/obovata/121230mndd2831m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/121230mndd2831m3.jpg
     caption: Mandai, Dec 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/finlaysonia/obovata/121230mndd2835m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/121230mndd2835m3.jpg
     caption: Mandai, Dec 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/finlaysonia/obovata/110428mndd0198m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/110428mndd0198m3.jpg
     caption: Mandai, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/finlaysonia/obovata/090322krjd8364m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/090322krjd8364m3.jpg
     caption: Kranji Canal, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/finlaysonia/obovata/090322krjd8360m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/090322krjd8360m3a.jpg
     caption: Kranji Canal, Mar 09
 links_references: '**Links**
 
@@ -49,7 +49,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
   - [Kalak kambing (
-
   *Finlaysonia obovata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1061)
@@ -133,11 +132,11 @@ According to Burkill, the leaves are eaten in salads in the Moluccas, but "appar
 **Status and threats:**
 This climber is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore. This is because it is estimated that there are fewer than 50 mature individuals left in the wild with some evidence of decline and fragmentation of its natural habitat.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg)
 
 *Kranji Canal, Mar 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/finlaysonia/obovata/121230mndd2844m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/121230mndd2844m3.jpg)
 
 Mandai, Dec 12*
 

@@ -1,6 +1,6 @@
 ---
 title: Eagle rays
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eagle rays on the shores of Singapore
 keywords: spotted, eagle, ray, aetobatus, mula, narinari, myliobatidae, fish, scatophagidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -22,7 +22,7 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Dec 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
 links_references: '**Links**
 
   - [Family Myliobatidae](http://www.fishbase.org/summary/FamilySummary.php?ID=22)and*[Aetobatus
@@ -72,15 +72,15 @@ links_references: '**Links**
   Editions. 400pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
     caption: Aetobatus mula Large triangular 'wings' with white spots. Tanah Merah,
       May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/110506tmftd0856m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/myliobatidae/narinari/110506tmftd0856m3.jpg
     caption: Eyes and breathing spiracles on the sides of the head. Triangular snout.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3.jpg
     caption: Venomous spines at the base of the tail.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/myliobatidae/narinari/161218lab.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/myliobatidae/narinari/161218lab.jpg
     caption: Labrador, Dec 16 Photo shared by Chi Yang
 location:
 - tm

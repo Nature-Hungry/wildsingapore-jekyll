@@ -1,6 +1,6 @@
 ---
 title: Spotted reef crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted reef crab on the shores of Singapore
 keywords: coral, crab, carpilius, maculatus, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -29,21 +29,20 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Carpilioidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
     caption: Sisters Island, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/carpilliidae/maculatus/100529kuslks8m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/carpilliidae/maculatus/100529kuslks8m3.jpg
     caption: Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 
   - [Spotted reef crab](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380&genusname=Carpilius&speciesname=maculatus)
 
   [(
-
   *Carpilius maculatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380)

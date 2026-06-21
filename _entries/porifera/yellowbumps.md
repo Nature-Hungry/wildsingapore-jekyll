@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Yellow bumpy sponges on the shores of Singapore
 keywords: bumpy, yellow, sponge, porifera, field, guide, seashore, sea, shore, marine,
 layout: entry
 shape: encrusting
@@ -12,19 +12,19 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/050411tusd2292m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/yellowbumps/050411tusd2292m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/050411tusd2292m3.jpg
+  - url: https://images.naturehungry.sg/porifera/yellowbumps/050411tusd2292m3.jpg
     caption: Tuas, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/030618bbd0138m3.jpg
+  - url: https://images.naturehungry.sg/porifera/yellowbumps/030618bbd0138m3.jpg
     caption: Beting Bronok, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/020101cjcpd3824m3.jpg
+  - url: https://images.naturehungry.sg/porifera/yellowbumps/020101cjcpd3824m3.jpg
     caption: Chek Jawa, Jan 02
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/100614bbd5912m3.jpg
+  - url: https://images.naturehungry.sg/porifera/yellowbumps/100614bbd5912m3.jpg
     caption: Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/yellowbumps/060429skdd1436m3.jpg
+  - url: https://images.naturehungry.sg/porifera/yellowbumps/060429skdd1436m3.jpg
     caption: Pulau Sekudu, Apr 06
 location:
 - chg

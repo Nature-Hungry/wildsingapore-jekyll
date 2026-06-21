@@ -1,6 +1,6 @@
 ---
 title: Braided-line flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Braided-line flatworm on the shores of Singapore
 keywords: striped, lined, flat, worm, flatworm, pseudoceros, concinnus, polyclad,
   turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,81 +17,81 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/100528tkklks3m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/linebraid/100528tkklks3m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/100528tkklks3m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/100528tkklks3m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/100528tkklks3m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/100528tkklks3m3a.jpg
     caption: Central line golden-speckled yellow with intermittent dull orange, and
       dark blue border.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/160508kuslks3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/160508kuslks3.JPG
     caption: Kusu Island, May 16 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/220715cjvc1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/220715cjvc1.jpg
     caption: Chek Jawa, Jan 22 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/230606cjjll1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/230606cjjll1.jpg
     caption: Chek Jawa, Jun 23 Photo shared by Jianlin Liu on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/240527srplks9.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/240527srplks9.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/201115tkkjll2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/201115tkkjll2.jpg
     caption: Pulau Tekukor, Nov 20 Shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/220104tkkvc3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/220104tkkvc3.jpg
     caption: Pulau Tekukor, Jan 22 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/140103kuslks1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/140103kuslks1m3.jpg
     caption: Kusu Island, Jan 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/140131kuslks2m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/140131kuslks2m3.JPG
     caption: Kusu Island, Jan 14 Photo shared by Loh Kok Sheng
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/070531sisg9659m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/070531sisg9659m3.jpg
     caption: Is it eating the pink ascidian ? Sisters Island, May 07
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/210228lazjk1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/210228lazjk1.jpg
     caption: Lazarus Island, Feb 21 Shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/210228lazjll2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/210228lazjll2.jpg
     caption: Lazarus Island, Feb 21 Shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/240113lazlks2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/240113lazlks2.jpg
     caption: Lazarus Island, Jan 24 Shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/090809sjitch1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/090809sjitch1m3.jpg
     caption: St. John's Island, Aug 09 Shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/090529sjilks1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/090529sjilks1m3.jpg
     caption: St John's Island, May 09 Shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/110203sjilks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/110203sjilks1m3.JPG
     caption: St. John's Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/201019sjijll1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/201019sjijll1.jpg
     caption: St. John's Island, Oct 20 Shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/220419sjijll4.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/220419sjijll4.jpg
     caption: St. John's Island, Apr 22 Shared by Jianlin Liu on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/080519sislks1m3.JPG
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/080519sislks1m3.JPG
     caption: Sisters Island, May 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/100919sislks1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/100919sislks1m3.jpg
     caption: Sisters Island, Sep 10 Photo shared by Loh Kok Sheng on his flickr .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/210822ssisvc5.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/210822ssisvc5.jpg
     caption: Small SIsters Island, Aug 21 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/190205bsisay1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/190205bsisay1.jpg
     caption: Big Sisters Island, Feb 19 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/230122jngvc2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/230122jngvc2.jpg
     caption: Pulau Jong, Jan 23 Photo shared by VIncent Choo on facebook .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/240310tplvc1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/240310tplvc1.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/241116smksvc1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/241116smksvc1.jpg
     caption: Pulau Semakau (South), Nov 24 From video shared by Vincent Choo on facebook
       .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/080722cyrtch1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/080722cyrtch1m3.jpg
     caption: Cyrene Reef, Jul 08 Shared by Toh Chay Hoon on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/201018smksvc4.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/201018smksvc4.jpg
     caption: Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/linebraid/111225tsmkjk1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/linebraid/111225tsmkjk1m3.jpg
     caption: Terumbu Semakau, Dec 11 Photo shared by James Koh on his blog .
 location:
 - cj

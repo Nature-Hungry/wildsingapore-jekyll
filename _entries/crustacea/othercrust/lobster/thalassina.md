@@ -1,6 +1,6 @@
 ---
 title: Mud lobster
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mud lobster on the shores of Singapore
 keywords: mud, lobster, thalassina, anomala, gracilis, thalassinidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,33 +25,33 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Gebiidea
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
     caption: Chek Jawa, Nov 01
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/120314cjd7720m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/120314cjd7720m3.jpg
     caption: Fresh mud from a mound suggests an active mud lobster deep underground.
       Chek Jawa, Mar 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/m321c.gif
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/m321c.gif
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/081109cjtch01m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/081109cjtch01m3.jpg
     caption: Shared by Toh Chay Hoon on her flickr . Chek Jawa, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/071008cjd6944m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/071008cjd6944m3.jpg
     caption: Mudlobster in its burrow. Chek Jawa, Oct 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/090816sbwrd9070m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/090816sbwrd9070m3.jpg
     caption: Mangrove ferns growing on a mound. Sungei Buloh Wetland Reserve, Aug
       09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/090612pndd4034m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/090612pndd4034m3.jpg
     caption: Mudlobster mounds Sungei Pandan, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/091005cjd2220m6l.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/091005cjd2220m6l.jpg
     caption: Mudlobster mounds Chek Jawa, Oct 09
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/090829cjmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/090829cjmn.jpg
     caption: Chek Jawa, Aug 09 Shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/lobster/thalassina/251213prprqo1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/thalassina/251213prprqo1.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery6:
   - url: https://farm4.staticflickr.com/3491/3869824396_53c75a7ba7_z.jpg?zz=1
@@ -60,7 +60,6 @@ galleries:
 links_references: '**Links**
 
   - [Mud lobster (
-
   *Thalassina anomala*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/183)
@@ -72,7 +71,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Mud lobster (
-
   *Thalassina anomala*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2064)
@@ -94,7 +92,6 @@ links_references: '**Links**
   and
 
   [Scorpion mud lobster (
-
   *Thalassina anomala*
 
   )](http://species-identification.org/species.php?species_group=lobsters&id=75)

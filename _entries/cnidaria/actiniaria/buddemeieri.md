@@ -1,6 +1,8 @@
 ---
 title: Pink-spotted bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 1-2cm. Pale column with pink spots in rows. One row of tapered tentacles
+  pale, greyish with pinkish cast. Near high water mark on bouldery rocky shore under
+  rich coastal forest. Seen on our Southern shores.
 keywords: banded, bead, anemone, anthopleura, actiniidae, actiniaria, anthozoa, cnidarian,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -31,14 +33,14 @@ updated: Jul 2024
 coverimg: https://live.staticflickr.com/6116/6236544510_4d481dbcf9_c.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
     caption: St. John's Island, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/buddemeieri/111001sjid1798m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/buddemeieri/111001sjid1798m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/buddemeieri/120407lazlksm3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/buddemeieri/120407lazlksm3.jpg
     caption: Lazarus Island, Apr 12 Photo shared by Loh Kok Sheng on his blog .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/buddemeieri/240212sjilks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/buddemeieri/240212sjilks1.jpg
     caption: St John's Island, Feb 24 Photo shared by Loh Kok Sheng on facebook .
 location:
 - lab
@@ -68,8 +70,7 @@ Diameter with tentacles expanded 1-2cm. Pale body column with pink spots in rows
 When exposed to air at low tide, it tucks its tentacles into its body column so it looks like a pink bead of jelly with tiny red spots.
 It looks quite different from other
 [bead anemones](beadbanded)
-(
-*Anthopleura*
+(*Anthopleura*
 sp.)
 
 **What does it eat?**

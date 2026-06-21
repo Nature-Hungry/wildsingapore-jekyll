@@ -1,6 +1,6 @@
 ---
 title: 'Dendrophylliid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dendrophylliid corals  on the shores of Singapore
 keywords: disk, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -17,19 +17,19 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
     caption: Flowery disk coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
     caption: Cave corals l
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
     caption: Ruffled disk coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/thin/031124tuscd0065m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/thin/031124tuscd0065m3.jpg
     caption: Thin disk coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
     caption: Encrusting disk coral
 links_references: '**Links**
 
@@ -107,18 +107,15 @@ zone:
 ---
 
 ## Where seen?
-Disk corals (
-*Turbinaria*
-spp.) are among our most commonly encountered hard corals and seen on many of our Southern shores and even some Northern shores. Cave corals (
-*Tubastraea*
+Disk corals (*Turbinaria*
+spp.) are among our most commonly encountered hard corals and seen on many of our Southern shores and even some Northern shores. Cave corals (*Tubastraea*
 sp.) are small hard corals usually seen in dark places.
 
 Only
 *Turbinaria*
 is commonly considered reef-building.
 [Disk corals](turbinaria)
-(
-*Turbinaria*
+(*Turbinaria*
 spp.) are among the most commonly encountered of this family on Singapore's intertidal shores. They may be flat plates which may be folded into vase-shapes or lettuce-like forms. They may also be encrusting. Some can be large (20-50cm).
 
 *[Tubastrea](tubastrea)*

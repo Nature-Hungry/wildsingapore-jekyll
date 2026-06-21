@@ -1,6 +1,6 @@
 ---
 title: Soles
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Soles on the shores of Singapore
 keywords: flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -19,45 +19,45 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
     caption: Lurking under the sand. Chek Jawa, Jan 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/040724sbwrd3052m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/040724sbwrd3052m3.jpg
     caption: Underside of a sole in a tank. Sungei Buloh Wetland Reserve, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
     caption: Eating a worm!
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/130911sismn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/130911sismn.jpg
     caption: Pelagic juvenile sole. Sisters Island, Sep 13 Photo shared by Marcus
       Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/soleidae/110505tmnbd0602.jpg
+  - url: https://images.naturehungry.sg/soleidae/110505tmnbd0602.jpg
     caption: Unidentified juvenile sole. Tanah Merah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/140501kusmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/140501kusmn.jpg
     caption: Unidentified juvenile sole. Kusu Island, May 14 Photo shared by Marcus
       Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg
     caption: Ovate sole
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg
     caption: Commerson's sole
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg
     caption: Peacock sole
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/ovata/050511cftg6220m4d.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/050511cftg6220m4d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3c.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg
     caption: Oriental sole
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg
     caption: Zebra sole
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
     caption: ''
 links_references: '**Links**
 
@@ -208,21 +208,13 @@ that belong to the Family Soleidae. According to
 
 10-30cm. Eyes small and on the right side. The head is small. In some species, the tail fin separate from the dorsal and anal fins. In others, such as
 [Commerson's sole](commersoniana)
-(
-*Synaptura commersoniana*
-), the tail fins are joined to the dorsal and anal fins. The fins lack spines. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins (
-[here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)
-).
+(*Synaptura commersoniana*), the tail fins are joined to the dorsal and anal fins. The fins lack spines. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins ([here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)).
 
 Snout sometimes hook-shaped. Scales relatively large and sometimes modified into skin flaps fringed with sensory filaments. Colours on the eyed side highly variable depending on the surroundings. May be uniformly brown to patterned with scattered dark spots or blotches.
 
 Some soles such as the
 [Peacock sole](pavoninus)
-(
-*Pardachirus pavoninus*
-) have toxin glands that produce a distasteful substance. The Moses sole (
-*Pardachirus mamoratus*
-) found in the Red Sea produces an astringent, frothy, soap-like poison, called pardaxin, that was found to repel sharks. However, the toxin proved difficult to package and store and could not be used to protect humans.
+(*Pardachirus pavoninus*) have toxin glands that produce a distasteful substance. The Moses sole (*Pardachirus mamoratus*) found in the Red Sea produces an astringent, frothy, soap-like poison, called pardaxin, that was found to repel sharks. However, the toxin proved difficult to package and store and could not be used to protect humans.
 
 **Sometimes confused with**
 other

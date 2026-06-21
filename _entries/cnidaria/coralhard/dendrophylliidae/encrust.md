@@ -1,6 +1,6 @@
 ---
 title: Encrusting disk coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Encrusting disk coral on the shores of Singapore
 keywords: disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,49 +17,49 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
     caption: St. John's Island , Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1942m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1942m3b.jpg
     caption: Tentacles tiny rather transparent.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1941m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1941m3.jpg
     caption: Corallites smooth rounded bumps, conical or just a depression.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/081212cyrd2894m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/081212cyrd2894m3.jpg
     caption: Cyrene Reef, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/040801hntg1421m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/040801hntg1421m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/080919sntd0650m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/080919sntd0650m3.jpg
     caption: Sentosa, Sep 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/120721tptd7661m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/120721tptd7661m3.jpg
     caption: Terumbu Pempang Tengah, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/110517tptd1507m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/110517tptd1507m3.jpg
     caption: Terumbu Pempang Tengah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/050918smkg2645m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/050918smkg2645m3.jpg
     caption: Pulau Semakau, Sep 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/091204pawd5401m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/091204pawd5401m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/091231biod6967m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/091231biod6967m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/100613sngd5472m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/100613sngd5472m3.jpg
     caption: Pulau Senang, Jun 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/100530tbkd4309m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/100530tbkd4309m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/100130brkd8621m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/100130brkd8621m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/100130brkd8542m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/100130brkd8542m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/100131slud8837m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/100131slud8837m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/100131slud8884m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/100131slud8884m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/encrust/100601slud4999m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/100601slud4999m3.jpg
     caption: Pulau Salu, Jun 10
 links_references: '**Links**
 

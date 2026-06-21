@@ -1,6 +1,6 @@
 ---
 title: Prawns and shrimps
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Prawns and shrimps on the shores of Singapore
 keywords: prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -18,47 +18,47 @@ subclass: Eumalacostraca
 superorder: Eucarida
 order: Decapoda
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
     caption: The Blue-tail prawn like other shrimps contracts its abdomen to swim
       backwards.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
     caption: Red-nose shrimps are also found among seaweeds, and living hard and soft
       corals.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: A tiny transparent commensal shrimp , several seen on a Thorny sea cucumber
       . Beting Bronok, Aug 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta1.gif
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/meta1.gif
     caption: larvae
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta2.gif
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/meta2.gif
     caption: juvenile
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/meta3.gif
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/meta3.gif
     caption: adult
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: White snapping shrimps live in Ball flowery soft corals. Beting Bronok,
       May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
     caption: A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby
       . Kusu Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: A pair of Five-spot anemone shrimps is commonly found in our carpet anemones.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
     caption: Penaeid prawn
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
     caption: Snapping shrimps
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
     caption: Commensal shrimps
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
     caption: Red-banded shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/saron/090818tmd9180m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/saron/090818tmd9180m3.jpg
     caption: Saron shrimp
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
     caption: Humpbacked shrimp
 links_references: '**Links**
 
@@ -79,7 +79,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Marine prawns (
-
   *Penaeus and Metapenaeus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038)
@@ -87,13 +86,11 @@ links_references: '**Links**
   ,
 
   [Estuarine prawn (
-
   *Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037)
 
   ,
 
   [Mangrove hairy-handed prawn (
-
   *Caridina propinqua*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2039)

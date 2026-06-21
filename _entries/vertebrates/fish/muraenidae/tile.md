@@ -1,6 +1,6 @@
 ---
 title: Estuarine moray eel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Estuarine moray eel on the shores of Singapore
 keywords: estuarine, moray, eel, fish, gymnothorax, tile, muraenidae , field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -25,59 +25,58 @@ order: Anguilliformes
 suborder: Muraenoidei
 subfamily: Muraeninae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
     caption: Tubular nostrils. No pelvic fins Chek Jawa, Jun 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
     caption: Dorsal, anal and tail fins are continuous. Sisters Island, Jan 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/260105prpezxh4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/260105prpezxh4.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/260103prplks1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/260103prplks1.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/170625bbay.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/170625bbay.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Abel Yeo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/180616bblks6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/180616bblks6.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/220716bbky1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/220716bbky1.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/110518bbtch2m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/110518bbtch2m6l.jpg
     caption: Beting Bronok, May 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/241210ecpcnky3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/241210ecpcnky3.jpg
     caption: East Coast (PCN), Feb 24 Video shared by Kelvin Yong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/151001blylks.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/151001blylks.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/181126lablks.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/181126lablks.jpg
     caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/251011labyls4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/251011labyls4.jpg
     caption: Labrador, Oct 25 Photo shared by Yan Le Su on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/251011tgrlks7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/251011tgrlks7.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/251011tgrlks7a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/251011tgrlks7a.jpg
     caption: ''
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/200124sntky2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/200124sntky2.jpg
     caption: Sentosa Tg. Rimau, Jan 20 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/250714srpky2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/250714srpky2.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/250726cyrlks4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/250726cyrlks4.jpg
     caption: Cyrene, Jul 25 Photo shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/110517tptrl1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/110517tptrl1m3.jpg
     caption: Terumbu Pempang Tengah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/110517tptrl1m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/110517tptrl1m3a.jpg
     caption: Photo shared by Russel Low on facebook .
 links_references: '**Links**
 
   - [Estuarine Moray (
-
   *Gymnothorax tile*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210)

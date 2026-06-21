@@ -1,6 +1,6 @@
 ---
 title: Orange fiddler crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange fiddler crab on the shores of Singapore
 keywords: orange, fiddler, crab, uca, gelasimus, vocans, ocypodidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -30,44 +30,44 @@ superfamily: Ocypodoidea
 subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
     caption: Pincer outside, pimply with triangular depression, fingers flattened,
       sword-like. Pulau Hantu, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4405m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4405m3a.jpg
     caption: Horizongal ridge of bumps on the inside of the pincer. Pulau Ubin, May
       08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7962m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7962m3.jpg
     caption: From the back. Chek Jawa, Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
     caption: Female (top) and male (bottom). Pasir Ris, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4404m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4404m3.jpg
     caption: Females have two small pincers Pulau Ubin, May 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/020211cjcpd6665m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/020211cjcpd6665m3.jpg
     caption: Pincer colours may vary. Chek Jawa, Feb 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/040108ubid0090m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/040108ubid0090m3.jpg
     caption: Pulau Ubin, Feb 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4423m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4423m3.jpg
     caption: Different coloured backs. Pulau Ubin, May 08
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4421m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4421m3.jpg
     caption: Males may be 'right' or 'left' handed. Pulau Ubin, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/110327cjd7939m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/110327cjd7939m3.jpg
     caption: Tussel over a female? Chek Jawa, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/070505kusg9113.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/070505kusg9113.jpg
     caption: Mating? Kusu Island, May 07
   gallery5:
   - url: https://live.staticflickr.com/31337/49639587372_eec44422b2_z.jpg
     caption: ''
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/201019sjivc2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/201019sjivc2.jpg
     caption: St John's Island, Oct 20 Photo shared by Vincent Choo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/ocypodoidea/uca/vocans/250909lazal1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/250909lazal1.jpg
     caption: Seringat Kias mangrove lagoon, Sep 25 Photo shared by Adriane Lee on
       facebook .
 links_references: '**Links**
@@ -81,7 +81,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Porcelain fiddler crabs (
-
   *Uca vocans*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2053)
@@ -171,9 +170,7 @@ Their burrows can be half a metre deep!
 **Sometimes mistaken for**
 the
 [Porcelain fiddler crab](annulipes)
-(
-*Uca annulipes*
-). More on
+(*Uca annulipes*). More on
 [how to tell apart the fiddler crabs commonly seen](cflongeyedcrabs)
 on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

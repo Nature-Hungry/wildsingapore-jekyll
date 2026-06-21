@@ -1,6 +1,6 @@
 ---
 title: Pock-marked  coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pock-marked  coral on the shores of Singapore
 keywords: coral, hard, plesiastrea, versipora, plesiastreidae, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,7 +17,7 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
 links_references: '**Links**
 
   - [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306)on
@@ -61,29 +61,29 @@ links_references: '**Links**
   H Publications. 464 pp'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
     caption: Tuas, Nov 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/050722cjg9857m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/050722cjg9857m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/210529ecpblks18a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/210529ecpblks18a.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/101108bkoms00669m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/101108bkoms00669m3.jpg
     caption: Terumbu Bukom, Nov 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/080621labd6027m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/080621labd6027m3.jpg
     caption: Labrador, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/211009blylks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/211009blylks5.jpg
     caption: Berlayar Creek, Oct 21 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/250430sjilll3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/250430sjilll3.jpg
     caption: St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/plesiastreidae/plesiastrea/250812tblvo2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/250812tblvo2.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on facebook .
 location:
 - cj

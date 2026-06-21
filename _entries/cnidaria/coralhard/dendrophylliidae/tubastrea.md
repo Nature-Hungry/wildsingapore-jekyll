@@ -1,6 +1,6 @@
 ---
 title: Cave corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cave corals on the shores of Singapore
 keywords: cave, Tubastraea, dendrophylliidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,74 +17,74 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/120605lygd3943m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/120605lygd3943m3.jpg
     caption: Changi, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/091011mkbd2831m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/091011mkbd2831m3.jpg
     caption: Keppel Bay, Oct 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/040507rlhbd0060m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/040507rlhbd0060m3.jpg
     caption: Raffles Lighthouse, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/090820ecpd9512m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/090820ecpd9512m3.jpg
     caption: East Coast Park, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/120704chgd6837m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/120704chgd6837m3.jpg
     caption: Changi, Jul 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/090707prpjk1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/090707prpjk1m3.jpg
     caption: Pasir Ris Park, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/090707prpjk1m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/090707prpjk1m3a.jpg
     caption: Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/101223pgllks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/101223pgllks.JPG
     caption: Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/240527srplks5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/240527srplks5.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/240528tslvc12.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/240528tslvc12.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/220518kusmn2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/220518kusmn2.jpg
     caption: Kusu Island, May 22 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/190831kuslt3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/190831kuslt3.jpg
     caption: Kusu Island, Sep 19 Photo shared by Leon Tan on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/110220lazrl2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/110220lazrl2m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/190831kuslt3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/190831kuslt3.jpg
     caption: Kusu Island, Sep 19 Photo shared by Leon Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/230901kuslks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/230901kuslks3.jpg
     caption: Kusu Island, Sep 23 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/200820ssislks4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/200820ssislks4.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/100103sislks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/100103sislks.JPG
     caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/230321tkrlks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/230321tkrlks1.jpg
     caption: Pulau Tekukor, Mar 23 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/110422tbmlks7m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/110422tbmlks7m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/130427tptlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks.JPG
     caption: Terumbu Semakau, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks2.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/121115tsmklks3.JPG
     caption: ''
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/091231biolks4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/091231biolks4m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/100403tbblks4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/100403tbblks4m3.jpg
     caption: Beting Bemban Besar, Apr 10 Photo shared by Loh Kok Sheng on his flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/dendrophylliidae/tubastraea/150605kuslks1m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/150605kuslks1m3.JPG
     caption: Kusu Island, Jun 15 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 

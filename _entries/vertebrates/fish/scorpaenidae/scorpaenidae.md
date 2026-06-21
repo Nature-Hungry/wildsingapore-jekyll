@@ -1,6 +1,6 @@
 ---
 title: Scorpionfishes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Scorpionfishes on the shores of Singapore
 keywords: scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,31 +18,31 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
     caption: Perfectly camouflaged! Tanah Merah, Jul 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
     caption: The Lionfish doesn't bother to hide! Pulau Hantu, Aug 15 Photo shared
       by Loh Kok Sheng on his blog .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/synanceiidae/horrida/060312hntd0311m3.jpg
+  - url: https://images.naturehungry.sg/synanceiidae/horrida/060312hntd0311m3.jpg
     caption: The Stonefish is from a different family.
-  - url: https://f003.backblazeb2.com/file/naturehungry/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
+  - url: https://images.naturehungry.sg/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
     caption: The False scorpionfish is from a dffierent family.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
     caption: The Long-spined waspfish is now in a different family
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg
     caption: Painted scorpionfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg
     caption: False stonefish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg
     caption: Lionfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -149,9 +149,7 @@ A scorpionfish uses its venom only for protection and not to catch or kill prey.
 **Scorpionfish mimic:**
 The
 [False scorpionfish](../centrogenyidae/vaigiensis)
-(
-*Centrogenys vaigiensis*
-) looks and behaves like a scorpionfish but belong to the Family Serranidae which includes groupers. By mimicking the more venomous scorpionfishes, the false scorpionfish probably manages to discourage most predators. Here's more on
+(*Centrogenys vaigiensis*) looks and behaves like a scorpionfish but belong to the Family Serranidae which includes groupers. By mimicking the more venomous scorpionfishes, the false scorpionfish probably manages to discourage most predators. Here's more on
 [how to tell apart fishes that look like stones](../cfstonefish)
 .
 
@@ -163,13 +161,10 @@ Most scorpionfishes reproduce through internal fertilisation. Some species lay t
 
 ## Human uses
 
-Scorpionfishes are venomous but not poisonous. In temperate climates, large members of this group called rockfishes or rockcods (
-*Sebastes*
+Scorpionfishes are venomous but not poisonous. In temperate climates, large members of this group called rockfishes or rockcods (*Sebastes*
 sp.) are considered good eating and are caught by sport fishermen as well as commercially for as food fish. Rockfishes are vulnerable to overfishing as they grow slowly and reach maturity late.
 
-Tropical scorpionfishes of various kinds are extensively harvested from the wild for the live aquarium trade. The Lionfish (
-*Pterois volitans*
-) is particularly popular. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
+Tropical scorpionfishes of various kinds are extensively harvested from the wild for the live aquarium trade. The Lionfish (*Pterois volitans*) is particularly popular. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
 ---
 

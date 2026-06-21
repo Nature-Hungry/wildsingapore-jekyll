@@ -1,6 +1,6 @@
 ---
 title: Round sea grapes
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Round sea grapes on the shores of Singapore
 keywords: round, grapes, caulerpa, lentillifera, caulerpaceae, seaweed, weed, green,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,32 +19,32 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg
     caption: Beting Bemban Besar, Apr 10 Constriction where the 'grape' attached to
       the stalk.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3.jpg
     caption: Labrador, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg
     caption: Pulau Semakau, May 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100810sngd9919m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100810sngd9919m3.jpg
     caption: Pulau Senang, Aug 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100130brkd8604m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100130brkd8604m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3a.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100811slud0078m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100811slud0078m3b.jpg
     caption: Pulau Salu, Aug 10
 links_references: '**Links**
 
@@ -62,7 +62,6 @@ links_references: '**Links**
   : technical fact sheets.
 
   - [Sea grapes or green caviar (
-
   *Caulerpa lentillifera*
 
   )](http://www.fao.org/docrep/006/y4765e/y4765e0b.htm#bm11.8)
@@ -92,7 +91,6 @@ links_references: '**Links**
   coverage on Chek Jawa during the 2001 Chek Jawa survey.
 
   - [Sea grapes (
-
   *Caulerpa lentillifera*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/101)
@@ -194,9 +192,7 @@ The seaweed resembles bunches of little grapes. Each 'grape' is tiny (0.1-0.2cm)
 
 **Sometimes confused with**
 [Oval sea grapes](racemosa)
-(
-*Caulerpa racemosa*
-).
+(*Caulerpa racemosa*).
 *Caulerpa microphysa*
 can look very similar but lack the distinct constriction where the 'grape' attached to the stalk. Here's more on
 [how to tell apart the sea grapes seaweeds](cfgrapes)
@@ -210,11 +206,11 @@ In the Philippines, the seaweed is eaten fresh as a salad, or salted so it can b
 *Caulerpa*
 species produce toxins to protect themselves from browsing fish. This also makes them toxic to humans.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg)
 
 *Terumbu Semakau, May 10*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3a.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3a.jpg)
 
 Tightly packed 'grapes' form a sausage-like shape.
 

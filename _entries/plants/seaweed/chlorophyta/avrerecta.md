@@ -1,6 +1,6 @@
 ---
 title: Solitary fan green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Solitary fan green seaweed on the shores of Singapore
 keywords: solitary, fan, seaweed, weed, green, avrainvillea, erecta, udoteacea, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,32 +19,32 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
     caption: Tuas, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/050611kusg7806m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/050611kusg7806m3.jpg
     caption: Kusu Island, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/050526cj6867m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/050526cj6867m3.jpg
     caption: Chek Jawa, May 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/060129skdg4092m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/060129skdg4092m3.jpg
     caption: Sometimes divided into four or more 'wings'. Pulau Sekudu, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg
     caption: Strawberry slug found on the seaweed. Tanah Merah, Dec 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/180815bbbll2.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/180815bbbll2.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Liz Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/200626tptvc4.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/200626tptvc4.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/091204pawd0012m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/091204pawd0012m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/091205sudd5444m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/091205sudd5444m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/avrerecta/100530tbkd4243m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/100530tbkd4243m3.jpg
     caption: Pulau Berkas, May 10
 links_references: '**Links**
 
@@ -160,8 +160,7 @@ The stalk can be quite long (up to 10cm long), with only a short portion stickin
 
 Sometimes, tiny
 [Strawberry slugs](../../../mollusca/slugs/sacoglossa/costasiella)
-(
-*Costasiella*
+(*Costasiella*
 sp.) are found on this seaweed.
 
 **Sometimes confused with**

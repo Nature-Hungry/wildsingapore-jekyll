@@ -1,6 +1,8 @@
 ---
 title: Big hermit-hitching anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 2-3cm. Many short tapering tentacles. Oral disk with fine white stripes.
+  Body column thick, long with broad dark bars. On shells occupied by hermit crabs.
+  Sometimes seen on our Northern shores.
 keywords: hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -29,38 +31,38 @@ summary: 2-3cm. Many short tapering tentacles. Oral disk with fine white stripes
   Body column thick, long with broad dark bars. On shells occupied by hermit crabs.
   Sometimes seen on our Northern shores.
 updated: Jul 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg
     caption: Changi, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/080801chgd8683m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/080801chgd8683m3d.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/080801chgd8665m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/080801chgd8665m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
     caption: Changi, Jul 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/090722chgd7735m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/090722chgd7735m3.jpg
     caption: It was attached to a living snail. Changi, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/100430chgd2018m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/100430chgd2018m3.jpg
     caption: Verrucae in regular bands. Changi, Apr 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/100926cjd1705m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/100926cjd1705m3.jpg
     caption: Chek Jawa, Sep 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/100430chgd1980m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/100430chgd1980m3.jpg
     caption: Changi, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/090722chgd7786m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/090722chgd7786m3.jpg
     caption: Changi, Jul 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/160125obsjt6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/160125obsjt6.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/140502chgmn.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/140502chgmn.jpg
     caption: Changi, May 14 Photo shared by Marcus Ng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/251109chgsafky1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/251109chgsafky1.jpg
     caption: Changi Creek, Nov 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/240723chgeccn2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/240723chgeccn2.jpg
     caption: Stuck on a sand collar . Changi East (Lost Coast), Jul 24 Photo shared
       by Che Cheng Neo on facebook .
 location:

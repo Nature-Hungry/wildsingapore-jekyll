@@ -1,6 +1,6 @@
 ---
 title: Orbicular cardinalfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orbicular cardinalfish on the shores of Singapore
 keywords: orbicular, cardinalfish, cardinal, fish,sphaeramia, apogon, orbicularis,
   apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -24,7 +24,7 @@ order: Gobiiformes
 suborder: Apogonoidei
 subfamily: Apogoninae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
 links_references: '**Links**
 
   - [Orbicular cardinalfish (*Sphaeramia orbicularis*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/279.htm)Lim,
@@ -47,16 +47,16 @@ links_references: '**Links**
   Editions. 400pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/190520hntlks1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/190520hntlks1.jpg
     caption: Pulau Hantu, May 19 Photo shared by Loh Kok Sheng on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/090510sntik3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/090510sntik3m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/250714srptl1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/250714srptl1.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/orbicularis/240623hntlks7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/240623hntlks7.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
 location:
 - tus

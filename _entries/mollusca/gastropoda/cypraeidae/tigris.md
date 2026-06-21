@@ -1,6 +1,6 @@
 ---
 title: 'Tiger cowrie '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiger cowrie  on the shores of Singapore
 keywords: cowrie, cypraea, tigris, cypraeidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -20,53 +20,52 @@ superfamily: Cypraeoidea
 subfamily: Cypraeinae
 tribe: Cypraeini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/100502trylks7m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/100502trylks7m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/100502trylks7m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/100502trylks7m3.jpg
     caption: Terumbu Raya, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/121115tsmkd1116m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/121115tsmkd1116m3.jpg
     caption: Terumbu Semakau, Nov 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/100531bionml1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/100531bionml1m3.jpg
     caption: Pulau Biola, May 10 Photo shared by Neo Mei Lin on her flickr .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/181224sntlks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/181224sntlks2.jpg
     caption: Sentosa, Dec 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/200805sntlks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/200805sntlks2.jpg
     caption: Sentosa Tg Rimau, Aug 20 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/240527sntlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/240527sntlks1.jpg
     caption: Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/260104trmlvo1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/260104trmlvo1.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/160625tkklks8a.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/130824smklks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/130824smklks.JPG
     caption: Pulau Semakau, Aug 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/200111smkslt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/200111smkslt1.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Leon Tan on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/250629smkelks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/250629smkelks2.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/201215smkejll3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/201215smkejll3.jpg
     caption: Pulau Semakau (East), Dec 20 Photo shared by Jianlin Liu on facebook
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/120609tmskrl1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/120609tmskrl1m3.jpg
     caption: Terumbu Semakau, Jun 12 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cypraeidae/tigris/200310bbbjc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/200310bbbjc2.jpg
     caption: Beting Bemban Besar, 20 Photo shared by Jesselyn Chua on facebook .
 links_references: '**Links**
 
   - [Tiger cowrie (
-
   *Cypraea tigris*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86906)
@@ -74,7 +73,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Tiger cowrie (
-
   *Cypraea tigris*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=194)
@@ -82,7 +80,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Tiger cowrie (
-
   *Cypraea tigris*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

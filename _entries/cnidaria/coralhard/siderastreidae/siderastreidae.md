@@ -1,6 +1,6 @@
 ---
 title: 'Siderastreid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Siderastreid corals  on the shores of Singapore
 keywords: star, psammocora, siderastreidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,14 +17,14 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jun 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/boulder/120508skdd1952m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/siderastreidae/boulder/120508skdd1952m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/crinkled/120408sjid8447m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/siderastreidae/crinkled/120408sjid8447m3.jpg
     caption: Crinkled sandpaper coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/boulder/050411tusd2323m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/siderastreidae/boulder/050411tusd2323m3.jpg
     caption: Boulder sandpaper coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
     caption: Neat hexa coral
 links_references: '**Links**
 
@@ -91,7 +91,7 @@ is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.
 
-![](https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/siderastreidae/boulder/120508skdd1952m3.jpg)
+![](https://images.naturehungry.sg/cnidaria/coralhard/siderastreidae/boulder/120508skdd1952m3.jpg)
 
 A closer look at the tiny corallites that
 

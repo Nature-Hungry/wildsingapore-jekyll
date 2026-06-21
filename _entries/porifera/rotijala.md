@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of 'Roti jala' sponge on the shores of Singapore
 keywords: roti, jala, sponge, porifera, terpios, suberitidae, field, guide, seashore,
 layout: entry
 shape: encrusting
@@ -16,14 +16,14 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/rotijala/130723bbd0097m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/rotijala/130723bbd0097m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rotijala/130723bbd0097m3.jpg
+  - url: https://images.naturehungry.sg/porifera/rotijala/130723bbd0097m3.jpg
     caption: Beting Bronok, Jul 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rotijala/130723bbd0115m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/rotijala/130723bbd0115m3a.jpg
     caption: Beting Bronok, Jul 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/rotijala/130723bbd0115m3.jpg
+  - url: https://images.naturehungry.sg/porifera/rotijala/130723bbd0115m3.jpg
     caption: Beting Bronok, Jul 13
 location:
 - bb

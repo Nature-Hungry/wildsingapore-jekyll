@@ -1,6 +1,6 @@
 ---
 title: Red junglefowl
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Red junglefowl on the shores of Singapore
 keywords: red, junglefowl, wild, gallus, phasianidae, birds, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -16,7 +16,7 @@ subphylum: Vertebrata
 class: Aves
 order: Galliformes
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/gallus/090906prpd0487m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/birds/gallus/090906prpd0487m6l.jpg
 links_references: '**Links**
 
   - [*Gallus gallus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Gallusgallus.html)
@@ -102,12 +102,12 @@ At Chek Jawa, large groups of 20 or more have been seen emerging from the coasta
 **Jungelfowl chicks:**
 Red junglefowl cockerels are territorial and maintain a harem of 3-5 females. Including juveniles, the group can be as many as 20. The male performs courtship rituals to attract a female. She builds a nest by scraping out a hollow on the ground in a dense thicket of vegetation and lays 5-6 beige to pale reddish brown eggs. She incubates the eggs alone. These hatch in about three weeks. The downy buff-coloured chicks can run around and follow their mother in a few hours. She keeps them close to cover until they are well grown. They fledge in about 12 days.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/gallus/090906prpd0487m6l.jpg)
+*![](https://images.naturehungry.sg/vertebrates/birds/gallus/090906prpd0487m6l.jpg)
 
 Pasir Ris Park,
 Sep 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/birds/gallus/090906prpd0489m3.jpg)
+![](https://images.naturehungry.sg/vertebrates/birds/gallus/090906prpd0489m3.jpg)
 
 Pasir Ris Park,
 Sep 09*

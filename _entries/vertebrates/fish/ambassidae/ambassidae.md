@@ -1,6 +1,6 @@
 ---
 title: Perchlets
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Perchlets on the shores of Singapore
 keywords: kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,27 +18,26 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Mugiliformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
     caption: Kops' glass perchelet (Ambassis kopsii ) Dorsal fin deeply notched, with
       blackish tip. Kusu Island, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
     caption: Pulau Sekudu, Aug 04
   gallery3:
   - url: https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg
     caption: Often seen in large schools. Sungei Buloh Wetland Reserve, Nov 17
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 
   - [Kops'' Glass Perchlet (
-
   *Ambassis kopsii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263)
@@ -50,7 +49,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Freckled hawkfish (
-
   *Ambassis kopsii*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982)
@@ -100,9 +98,7 @@ Perchlets belong to Family Ambassidae (previously Family Chandidae). According t
 To about 10cm. Body nearly transparent covered with thin scales. Thus it is sometimes called the Glassfish. Mouth is upturned with a projecting jaw and large eyes. A single dorsal fin, deeply notched before the last spine. These fishes are often seen in small groups.
 
 **Kops' glass perchlet**
-(
-*Ambassis kopsii*
-) are commonly seen often in a large group of many individuals. To about 10cm, those seen about 5-8cm. A silvery almost transparent body. There is a distinctive black mark on the tip of the dorsal fin.
+(*Ambassis kopsii*) are commonly seen often in a large group of many individuals. To about 10cm, those seen about 5-8cm. A silvery almost transparent body. There is a distinctive black mark on the tip of the dorsal fin.
 
 **Sometimes confused with**
 [Mojarras](../gerreidae/gerreidae)

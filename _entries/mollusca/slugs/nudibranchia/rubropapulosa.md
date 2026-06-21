@@ -1,6 +1,6 @@
 ---
 title: Orange-spotted gymnodoris nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange-spotted gymnodoris nudibranch on the shores of Singapore
 keywords: gymnodoris, rubropapulosa, nudibranchia, slug, seaslug, opisthobranch, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -29,51 +29,51 @@ infraorder: Doridoidei
 superfamily: Polyceroidea
 subfamily: Polycerinae
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg
     caption: Pulau Ular, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3.jpg
     caption: Pulau Semakau, Sep 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3a.jpg
     caption: ''
   gallery3:
   - url: https://live.staticflickr.com/31337/49370034251_a215a83d0b_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/210401sntvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/210401sntvc1.jpg
     caption: Sentosa Tg Rimau, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/120408sjilks6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/120408sjilks6m3.jpg
     caption: St. John's Island , Apr 12 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/210812jngvc5.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/210812jngvc5.jpg
     caption: Pulau Jong, Aug 21 Photo shared by Vincent Choo on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/090723tmrjk2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/090723tmrjk2m3.jpg
     caption: Terumbu Raya, Jul 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/151225tsmkmn1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/151225tsmkmn1m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/250515tpttl1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/250515tpttl1.jpg
     caption: Terumbu Pempang Tengah, May 25 Photo shared by Tammy Lim on facebook
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/220420tbmn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/220420tbmn2.jpg
     caption: Terumbu Bemban, Apr 22 Photo shared by Marcus Ng on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/210501tbvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/210501tbvc3.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/141108bbbmn1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/141108bbbmn1m3.jpg
     caption: Beting Bemban Besar, Nov 14 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/120804bbblks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/120804bbblks1.JPG
     caption: Beting Bemban Besar, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/rubropapulosa/100130brkd8690m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/100130brkd8690m3.jpg
     caption: Terumbu Berkas, Jan 10
 links_references: '**Links**
 

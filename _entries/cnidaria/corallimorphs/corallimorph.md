@@ -1,6 +1,6 @@
 ---
 title: Corallimorphs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Corallimorphs on the shores of Singapore
 keywords: disk, disc, anemone, discosoma, corallimorph, anthozoa, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,42 +17,42 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Nov 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
     caption: Upturned mouth. St. John's Island, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg
     caption: Underside is usually smooth. Pulau Hantu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg
     caption: Oral disk tucked into the body column. St. John's Island, Aug 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
     caption: Many usually found together, often forming a living carpet. Sisters Islands,
       Dec 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
     caption: Dense clusters of corallimorphs may resemble hard corals. Cyrene Reef,
       Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/carpet/060131sjig4490m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/060131sjig4490m3b.jpg
     caption: Covered with tiny brown acoel flatworms . St. John's Island, Jan 06
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg
     caption: Frilled corallimorphs
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
     caption: Stubby corallimorphs
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/carpet/031224sisd0121m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/031224sisd0121m3a.jpg
     caption: Carpet corallimorphs
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg
     caption: Beaded corallimorphs
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/ridged/050807sjid5570m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/ridged/050807sjid5570m3.jpg
     caption: Ridged corallimorphs
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg
     caption: Striped corallimorphs
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
     caption: White-tip corallimorphs
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
     caption: Ball-tip corallimorphs
 links_references: '**Links**
 
@@ -189,45 +189,31 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 **Family Corallimorphidae**
 
 *Corynactis*
-spp. (
-[Ball-tip corallimorphs](balltip)
-)
+spp. ([Ball-tip corallimorphs](balltip))
 
 **Family Discosomidae**
 
 *Discosoma nummiforme*
-(
-[Beaded corallimorphs](beaded)
-)
+([Beaded corallimorphs](beaded))
 
 *Discosoma*
-spp. (
-[Striped corallimorphs](striped)
-)
+spp. ([Striped corallimorphs](striped))
 
 *Rhodactis inchoata*
-(
-[Frilled corallimorphs](frilled)
-)
+([Frilled corallimorphs](frilled))
 
 *Rhodactis indosinensis*
-(
-[Carpet corallimorphs](carpet)
+([Carpet corallimorphs](carpet)
 and
-[White-tip corallimorphs](whitetip)
-)
+[White-tip corallimorphs](whitetip))
 
 *Platyzoanthus mussoides*
-(
-[Ridged corallimorphs](ridged)
-)
+([Ridged corallimorphs](ridged))
 
 **Family Ricordeidae**
 
 *Ricordea yuma*
-(
-[Stubby corallimorphs](stubby)
-)
+([Stubby corallimorphs](stubby))
 
 ---
 

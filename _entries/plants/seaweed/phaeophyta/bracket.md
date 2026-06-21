@@ -1,6 +1,6 @@
 ---
 title: Bracket brown seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bracket brown seaweed on the shores of Singapore
 keywords: bracket, brown, seaweed, weed, algae, lobophora, variegata, dictyotaceae,
   phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,14 +22,14 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/060501labd1696m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/bracket/060501labd1696m3.jpg
     caption: Labrador, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/081115sntd2005m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/bracket/081115sntd2005m3.jpg
     caption: Sentosa, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg
     caption: Terumbu Selegie, Jun 11
 links_references: '**Links**
 
@@ -111,8 +111,7 @@ Thin, flat stiff leathery disks about 2-4cm in diameter, growing in clusters. On
 
 **Sometimes confused with**
 [Scaly red seaweed](../rhodophyta/scaly)
-(
-*Peyssonnelia*
+(*Peyssonnelia*
 sp.) which are more encrusting and stiff with a slimy surface.
 
 According to
@@ -120,11 +119,11 @@ According to
 : there are 10 species of
 *Lobophora.*
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg)
+*![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg)
 
 Labrador, May 06
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/bracket/060501labd1721m3b.jpg)*
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/bracket/060501labd1721m3b.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**Seaweed species are difficult to positively identify without microscopic examination.
 

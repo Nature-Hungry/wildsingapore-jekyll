@@ -1,6 +1,6 @@
 ---
 title: Eight-armed Luidia sea star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eight-armed Luidia sea star on the shores of Singapore
 keywords: eight, armed, sand, sea star, seastar, starfish, star, fish, luidia, maculata,
   luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -22,7 +22,7 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
 links_references: '**Links**
 
   - [Learning about*Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-about.html)by
@@ -67,55 +67,55 @@ links_references: '**Links**
   vertebrates*Sea Challengers. 314pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
     caption: Changi, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg
     caption: Flat-topped, pillar-like structures called paxillae
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/190620chgm6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/190620chgm6l.jpg
     caption: Sometimes, many are seen together. Changi, Jun 2019
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080507skdd2497m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080507skdd2497m3.jpg
     caption: . Underside. Pulau Sekudu, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/080507skdd2491m3f.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080507skdd2491m3f.jpg
     caption: Pointed tube feet
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/210527chg.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/210527chg.jpg
     caption: In spawning position? Changi, May 21
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/081214ecmd3201m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/081214ecmd3201m3.jpg
     caption: In spawning position? East Coast, Dec 08
   gallery3:
   - url: https://live.staticflickr.com/31337/49638982618_692f186789_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/210528pglrk2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/210528pglrk2.jpg
     caption: Punggol, May 21 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/190422cnyrk4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/190422cnyrk4.jpg
     caption: Coney Island, Apr 19 Shared by Richard Kuah on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/181222prpcp.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/181222prpcp.jpg
     caption: Cluster of many large sea stars. Pasir Ris, Dec 18 Shared by Carol Phillips
       on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/180714prprk2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/180714prprk2.jpg
     caption: Cluster of many large sea stars. Pasir Ris, Jul 18 Shared by Richard
       Kuah on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/160511chg7mn.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/160511chg7mn.jpg
     caption: With five arms. Changi, May 16 Photo shared by Marcus Ng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/090624chglks1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/090624chglks1m3.jpg
     caption: Changi, Jun 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/090721skdd7607m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/090721skdd7607m3.jpg
     caption: Pulau Sekudu, Jul 09
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/130527tmlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/130527tmlks.JPG
     caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/150320tuslks1m3.JPG
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/150320tuslks1m3.JPG
     caption: Tuas, Mar 15 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/210529ecpblks10.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/210529ecpblks10.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/110814smkjk4m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/110814smkjk4m3.jpg
     caption: Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/asteroidea/luimaculata/110814smkjk4m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/110814smkjk4m3a.jpg
     caption: Photo shared by James Koh on his blog .
 location:
 - pgl

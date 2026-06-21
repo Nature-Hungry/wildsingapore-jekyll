@@ -1,6 +1,6 @@
 ---
 title: Pink-eyed pong pong tree
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pink-eyed pong pong tree on the shores of Singapore
 keywords: pong, cerbera, manghas, apocynaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,7 +23,7 @@ subfamily: Rauvolfioideae
 tribe: Plumerieae
 subtribe: Thevetiinae
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg
 links_references: '**Links**
 
   - *[Cerbera manghas](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2799)*on
@@ -70,25 +70,25 @@ links_references: '**Links**
   The Singapore Science Centre. 160pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4856m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4856m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4852m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4852m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4851m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4851m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090726smkf2939m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090726smkf2939m3.jpg
     caption: Pulau Semakau, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090208smkd6477m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090208smkd6477m3.jpg
     caption: Pulau Semakau, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090111smkd4851m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4851m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090711sjid7247m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090711sjid7247m3.jpg
     caption: Planted in park. St. John's Island, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/080412cjd1322m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/080412cjd1322m3.jpg
     caption: Chek Jawa, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/090627cjd5855m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090627cjd5855m3.jpg
     caption: Chek Jawa, Jun 09
 size:
 - 1500.0
@@ -111,17 +111,13 @@ Tree up to 15-20m tall, but in Singapore usually shorter. Produces a white sap f
 
 Leaves oval (12-30cm long) dark green and glossy, held in dense spirals at the tips of the twigs. Leaves generally smaller than that of the more common
 [Yellow-eyed Pong pong tree](odollam)
-(
-*Cerbera odollam*
-).
+(*Cerbera odollam*).
 
 Flowers (3-4.5cm) white with pink centre, first orange pink then reddish pink. The flowers appear at the tips of the twigs.
 
 Fruits mango-shaped or oblong (5-7cm) glossy hard, often paired. Green ripening pink, rosy purple and finally black. The fruits float are dispersed by water. When they wash up, often only the fibrous husk is left, around a hard stone.
 
-It is the caterpillar host-plant of the King Crow butterfly (
-*Euploea phaenareta castelnaui*
-).
+It is the caterpillar host-plant of the King Crow butterfly (*Euploea phaenareta castelnaui*).
 
 ## Human uses
 
@@ -136,7 +132,7 @@ The tree
 is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 **
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg)
+*![](https://images.naturehungry.sg/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg)
 
 Near the high water mark
 

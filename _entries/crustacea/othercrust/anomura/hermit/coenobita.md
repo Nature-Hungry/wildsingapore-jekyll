@@ -1,6 +1,6 @@
 ---
 title: Land hermit crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Land hermit crab on the shores of Singapore
 keywords: land, hermit, crab, coenobita, cavipes, violascens, coenobitidae, anomura,
   decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -25,59 +25,58 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
     caption: Sentosa, Feb 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0098m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0098m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/080802sjid8711m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/080802sjid8711m3.jpg
     caption: Some are very purple. St. John's Island, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6530m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6530m3.jpg
     caption: Some have a dark patch on the outside of the left pincer. Sisters Islands,
       Jan 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6545m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6545m3.jpg
     caption: ''
   gallery4:
   - url: https://live.staticflickr.com/1882/42821197550_e5e95d8ac1_z.jpg
     caption: Pulau Tekukor, Sep 2018
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/211207chgerk1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/211207chgerk1.jpg
     caption: Changi East (Lost Coast), Dec 21 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/171008srglks2.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/171008srglks2.jpg
     caption: Seringat-Kias, Oct 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/250430sjiml4.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/250430sjiml4.jpg
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky4.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky4.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky5.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky5.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/251011ssistl5.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/251011ssistl5.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Tammy Lim on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4a.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/110220lazro2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/110220lazro2m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/110421jngrl1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/110421jngrl1m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/150422jngnml2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/150422jngnml2m3.jpg
     caption: Pulau Jong, Apr 15 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg
     caption: Pulau Pawai, Dec 09
 links_references: '**Links**
 
   - [Land hermit crab (
-
   *Coenobita cavipes*
 
   ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
@@ -179,9 +178,7 @@ Boday 3-6cm long, 1cm wide. Left pincer usually larger than the right. Pincers a
 
 There are three species of land hermit crabs in Singapore. They are not easy to distinguish in the field.
 
-The Land hermit crab is so well adapted to life out of water that it will drown if kept underwater! It has special gill chambers that act as lungs. These chambers are large and holds water to keep the gill filaments wet. The hermit crab only needs to occasionally dip in either rainwater or the sea to keep the chambers wet. Females, however, must go to the edge of the sea to release their eggs into the sea. These hatch into planktonic larvae. When the larvae develops into a small hermit crab, it finds an empty shell then heads landward. The Family Coenobitidae includes the largest hermit crab, the Robber or Coconut crab (
-*Birgus latro*
-) which doesn't live in a shell.
+The Land hermit crab is so well adapted to life out of water that it will drown if kept underwater! It has special gill chambers that act as lungs. These chambers are large and holds water to keep the gill filaments wet. The hermit crab only needs to occasionally dip in either rainwater or the sea to keep the chambers wet. Females, however, must go to the edge of the sea to release their eggs into the sea. These hatch into planktonic larvae. When the larvae develops into a small hermit crab, it finds an empty shell then heads landward. The Family Coenobitidae includes the largest hermit crab, the Robber or Coconut crab (*Birgus latro*) which doesn't live in a shell.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 The hermit crab is a scavenger and also eats plants. It may go far inland to forage. Sometimes, many are seen at night near the visitors' huts on our offshore islands. Possibly looking for scraps left behind by visitors?

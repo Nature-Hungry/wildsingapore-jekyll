@@ -1,6 +1,6 @@
 ---
 title: Shore pit viper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Shore pit viper on the shores of Singapore
 keywords: shore, pit, viper, snake, cryptelytrops, trimeresurus, purpureomaculatus,
   viperidae, crotalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,7 +19,7 @@ order: Squamata
 suborder: Serpentes
 subfamily: Crotalinae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg
 links_references: '**Links**
 
   - [Shore Pit Vipers](http://singaporesnakes.blogspot.com/search/label/Shore%20Pit-viper)
@@ -122,14 +122,14 @@ Mama snake gives birth to live young in litters of 7-14. Hatchlings have dark br
 **Status and threats:**
 Our Shore pit vipers are listed as 'Endangered' on the Red List of threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg)
+![](https://images.naturehungry.sg/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg)
 
 *Sungei Buloh Wetland Reserve, Nov 03
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3a.jpg)*
+![](https://images.naturehungry.sg/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3a.jpg)*
 A prehensile tail.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3b.jpg)*
+*![](https://images.naturehungry.sg/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3b.jpg)*
 
 ---
 

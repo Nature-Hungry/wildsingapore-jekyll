@@ -1,6 +1,6 @@
 ---
 title: Belongkeng snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Belongkeng snail on the shores of Singapore
 keywords: ellobium, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -22,38 +22,38 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Ellobiinae
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
     caption: Pasir Ris, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8913m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8913m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8916m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8916m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8917m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8917m3.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg
     caption: Pulau Semakau, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090212smkd7000m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090212smkd7000m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6998m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6998m3.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo3a.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo6a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo6a.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/251221pndrqo1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/251221pndrqo1a.jpg
     caption: Pandan mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/251219cnyrqo3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/251219cnyrqo3.jpg
     caption: Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ellobiidae/ellobium/121110cjlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/121110cjlks.JPG
     caption: Chek Jawa, Dec 12 Photo shared by Loh Kok Sheng on flickr .
 links_references: "**Links**\n- [Belongkeng (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090)\n\
   Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
@@ -115,9 +115,7 @@ It grazes on algae growing on mangrove trees and on the ground.
 Traditionally collected as food by Indonesian coastal dwellers.
 
 **Status and threats:**
-The Mangrove land snail (
-*Ellobium scheepmakeri*
-) is listed as 'Critically Endangered' on the list of threatened animals of Singapore due to habitat loss.
+The Mangrove land snail (*Ellobium scheepmakeri*) is listed as 'Critically Endangered' on the list of threatened animals of Singapore due to habitat loss.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---

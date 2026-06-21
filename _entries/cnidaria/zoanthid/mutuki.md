@@ -1,6 +1,7 @@
 ---
 title: Broad zoanthid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Colony 5-10cm, a cluster of a few individual polyps. Polyp 1-2cm with
+  long body column, broad oral disk. On coral rubble. Commonly seen on our shores.
 keywords: broad, colonial, anemone, zoanthid, mutuki, palythoa, zoanthidae, anthozoa,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,55 +23,55 @@ suborder: Brachycnemina
 updated: Dec 2019
 summary: Colony 5-10cm, a cluster of a few individual polyps. Polyp 1-2cm with long
   body column, broad oral disk. On coral rubble. Commonly seen on our shores.
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
     caption: Labrador, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050708labg9179m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050708labg9179m3b.jpg
     caption: Oral disk has furrows.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/080621labd6003m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/080621labd6003m3a.jpg
     caption: Long body column that is rough to the touch. Labrador, Jun 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg
     caption: At low tide with their tentacles retracted they look like a clump of
       sausages. Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/060728sisd5346m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/060728sisd5346m3.jpg
     caption: Sisters Island, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/060728sisd5346m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/060728sisd5346m3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/050410kusg4283m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050410kusg4283m3.jpg
     caption: Kusu Island, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/090824tusd0027m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/090824tusd0027m3.jpg
     caption: Tuas, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/110814smkd8952m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/110814smkd8952m3.jpg
     caption: Pulau Semakau, Aug 11
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/091204pawd5255m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/091204pawd5255m3a.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/091205sudd5471m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/091205sudd5471m3a.jpg
     caption: Pulau Sudong, Dec 09
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/100601slud4781m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100601slud4781m3a.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/100601slud4787m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100601slud4787m3a.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/100811slud0074m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100811slud0074m3a.jpg
     caption: Pulau Salu, Aug 10
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/100811slud0063m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100811slud0063m3a.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/100130brkd8434m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100130brkd8434m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/100530tbkd4289m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100530tbkd4289m3a.jpg
     caption: Pulau Berkas, May 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/100613sngd5486m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100613sngd5486m3a.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/091231biod7090m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/091231biod7090m3a.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/mutuki/091231biod6935m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/091231biod6935m3.jpg
     caption: Pulau Biola, Dec 09
 location:
 - chg
@@ -127,8 +128,7 @@ Some species of broad zoanthids have been recorded to contain the highly toxic
 
 Compared to
 [button zoanthids](zoanthus)
-(
-*Zoanthus*
+(*Zoanthus*
 sp.), broad zoanthids are generally found in smaller clusters with fewer individuals, although large mounds of them are sometimes seen.
 
 **Sometimes confused**

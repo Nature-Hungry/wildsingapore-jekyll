@@ -1,6 +1,6 @@
 ---
 title: Spotted box crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted box crab on the shores of Singapore
 keywords: spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -30,49 +30,48 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg
     caption: Changi, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd3028m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/120510chgd3028m3a.jpg
     caption: Two different kinds of pincers.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd3029m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/120510chgd3029m3.jpg
     caption: Eyes!
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
     caption: Changi, May 06 Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120510chgd3032m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/120510chgd3032m3a.jpg
     caption: P atterns on inside pincers. Changi, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/060529cftd2550m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/060529cftd2550m3.jpg
     caption: A pair buried next to one another. Changi, May 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/170624cjlks1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/170624cjlks1.jpg
     caption: Chek Jawa, Jun 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/251205cjccn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/251205cjccn2.jpg
     caption: Juvenile? Chek Jawa, Jun 17 Photo shared by Che Cheng Neo on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/200820chgvc1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/200820chgvc1.jpg
     caption: Changi, Aug 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/170528chg6mn1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/170528chg6mn1.jpg
     caption: Changi, May 17 Photo shared by Marcus Ng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120704chglks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/120704chglks.JPG
     caption: Changi, Jul 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
     caption: Changi, May 11 Tanah Merah, May 11
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/120407lazlks11m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/120407lazlks11m3.jpg
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/110508cyrlks7m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/110508cyrlks7m3.jpg
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
     caption: Changi, May 11 Tanah Merah, May 11
 links_references: '**Links**
 
   - [Spectacled box crab (
-
   *Calappa philargius*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83545)

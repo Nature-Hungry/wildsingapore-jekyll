@@ -1,6 +1,6 @@
 ---
 title: 'Spotted moon snail '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Spotted moon snail  on the shores of Singapore
 keywords: spotted, moon, snail, shell, natica, gualteriana, gualtieriana, naticidae,
   gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -26,66 +26,66 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/100215sisd9374m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100215sisd9374m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/100215sisd9374m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100215sisd9374m3.jpg
     caption: Sisters Islands, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/100215sisd9373m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100215sisd9373m3.jpg
     caption: Small comma-shaped depression on underside. Operculum shelly with a dark
       smudge. Sisters Islands, Feb 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg
     caption: Body white with dark spots. Cyrene Reef, Jul 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/250503cyrlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/250503cyrlks1.jpg
     caption: Cyrene, May 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/250503cyrlks1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/250503cyrlks1a.jpg
     caption: Small, young one.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/250503cyrlks1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/250503cyrlks1b.jpg
     caption: ''
   gallery3:
   - url: https://live.staticflickr.com/4269/34409801204_c668b003c2_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/211207chgelks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/211207chgelks1.jpg
     caption: Changi East (Lost Coast), Dec 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/251009sjilks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/251009sjilks1.jpg
     caption: St John's Island, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/100912chgnml2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100912chgnml2m3.jpg
     caption: Changi, Sep 10 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/130211sjilks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/130211sjilks1.JPG
     caption: St John's Island, Feb 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/170213bsislks1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/170213bsislks1a.jpg
     caption: Big Sisters Island, Feb 19 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/161214sjimn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/161214sjimn.jpg
     caption: St. John's Island, Dec 16 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/100912kustch2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/100912kustch2m3.jpg
     caption: Kusu Island, Sep 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/150605kustch4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/150605kustch4m3.jpg
     caption: Kusu Island, Jun 15 Photo shared by Toh Chay Hoon on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/170212bsismn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/170212bsismn.jpg
     caption: Big Sisters Island, Feb 17 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/250329cyrrg1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/250329cyrrg1a.jpg
     caption: Cyrene, Mar 25 Photo shared by Rachael Goh on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/160208smkstch5.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/160208smkstch5.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/150620tblks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/150620tblks5m3.jpg
     caption: Terumbu Bemban, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/160806tplrl1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/160806tplrl1.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Richard Kuah on facebook
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/091205sudlks15m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/091205sudlks15m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/091205sudlks15m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/091205sudlks15m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/spotted/091205sudlks16m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/091205sudlks16m3.jpg
     caption: ''
 links_references: '**Links**
 
@@ -98,7 +98,6 @@ links_references: '**Links**
   by Des Beechey Research Associate, Australian Museum:
 
   - [Gualteri''s moon snail (
-
   *Natica gualtieriana*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=2762)
@@ -106,7 +105,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - Gualteri''s moon snail (
-
   *Natica gualteriana*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

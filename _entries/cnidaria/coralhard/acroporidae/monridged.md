@@ -1,6 +1,6 @@
 ---
 title: Ridged   montipora coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ridged   montipora coral on the shores of Singapore
 keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -17,43 +17,43 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/070505kusg9077m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/070505kusg9077m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/070505kusg9077m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/070505kusg9077m3.jpg
     caption: Kusu Island, May 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/070505kusg9077m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/070505kusg9077m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/070505kusg9079m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/070505kusg9079m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/150706srpd7354m6l.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/150706srpd7354m6l.jpg
     caption: Red feather stars festoon the coral. Sentosa Serapong, Jul 15
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/110704sntsrpd5733m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/110704sntsrpd5733m3a.jpg
     caption: Sentosa Serapong, Jul 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/210502tptlks6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/210502tptlks6.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/080422smkd1487m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/080422smkd1487m3.jpg
     caption: Pulau Semakau, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg
     caption: Kusu Island, Feb 07
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/060713rlhg6392m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/060713rlhg6392m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/100518tbbd2978m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/100518tbbd2978m3.jpg
     caption: Beting Bemban Besar, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg
     caption: Raffles Lighthouse,Jul 6
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/220618tmftlks18.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/220618tmftlks18.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/250430sjilll4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/250430sjilll4.jpg
     caption: St John's Island, Apr 25 Photo shared by Low Liong Leong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/acroporidae/monridged/130628thntlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/130628thntlks.JPG
     caption: Terumbu Hantu, Jun 13 Photo shared by Loh Kok Sheng on flickr .
 location:
 - tm

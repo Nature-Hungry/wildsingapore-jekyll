@@ -1,6 +1,6 @@
 ---
 title: 'Api-api bulu '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Api-api bulu  on the shores of Singapore
 keywords: api, bulu, avicennia, rumphiana, acanthaceae, avicenniaceae, tree, mangrove,
   mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -24,35 +24,34 @@ order: Lamiales
 subfamily: Avicennioideae
 inat_id: 189588
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090208smkd6473m6.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090208smkd6473m6.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/030914cjd0030m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/030914cjd0030m3.jpg
     caption: Leaves underneath white and velvety. Chek Jawa, Sep 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090118smkd5726m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090118smkd5726m3a.jpg
     caption: Large flowers, crowded together. Flower stalk squarish NOT to leaf-bearing
       portions. Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/030914cjd0030m3b.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/030914cjd0030m3b.jpg
     caption: Fruits rounded, usually wrinkly, tips not so pointed. Chek Jawa, Sep
       03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090208smkd6475m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090208smkd6475m3a.jpg
     caption: Young leaves velvety - like rabbit ears. Pulau Semakau, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/030914cjd0022m3c.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/030914cjd0022m3c.jpg
     caption: Furry stem, calyx and outer petals. Chek Jawa, Sep 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090614ubnd4306m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090614ubnd4306m3a.jpg
     caption: Pulau Ubin, Jun 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090612pndd4007m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090612pndd4007m3.jpg
     caption: Stilt roots on old tree. Sungei Pandan, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090823cjd9891m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090823cjd9891m3a.jpg
     caption: Eroded roots. Chek Jawa, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090208smkd6474m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090208smkd6474m3.jpg
     caption: Pulau Semakau, Feb 09
 links_references: '**Links**
 
   - [Api-api bulu (
-
   *Avicennia rumphiana*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1052)
@@ -133,10 +132,10 @@ Contains one seed.
 
 According to Giesen, the seeds are boiled and eaten and in some places sold in markets as vegetables. The fragrant flowers produce some of the best honey when collected by bees. The timber is used for buildings. It is rarely used to make charcoal and is used as firewood only to smoke fish or rubber. This fast growing mangrove tree is among the few used in mangrove replanting to protect coastlines.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090208smkd6473m6.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090208smkd6473m6.jpg)
 
 *Pulau Semakau, Feb 09
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/avicennia/rumphiana/090208smkd6474m3a.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090208smkd6474m3a.jpg)
 
 Pulau Semakau, Feb 09*
 

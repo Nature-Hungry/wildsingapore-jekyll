@@ -1,6 +1,6 @@
 ---
 title: 'Bakau minyak '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bakau minyak  on the shores of Singapore
 keywords: bakau, rhizophora, apiculata, rhizophoraceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,18 +23,18 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 196660
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/091005cjd2271m3.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/rhizophora/091005cjd2271m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg
     caption: Flower on very short stalks. Pulau Semakau, May 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/090315smkd8300m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/090315smkd8300m3.jpg
     caption: Pulau Semakau, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg
     caption: Usually a bent hypocotyl. Pulau Semakau, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg
     caption: Chek Jawa, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg
     caption: Fruit on very short stalk, almost stuck to the branch. Sungei Buloh Wetland
       Reserve, Mar 04
 links_references: '**Links**
@@ -48,7 +48,6 @@ links_references: '**Links**
   (Malpighiales: Rhizophoraceae) Bakau minyak by Song Yiluan, 2014, on taxo4254.
 
   - [Bakau minyak (
-
   *Rhizophora apiculata*](http://mangrove.nus.edu.sg/guidebooks/text/1069)
 
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
@@ -102,15 +101,15 @@ According to Giesen, the wood is heavy and hard and requires careful seasoning t
 [making charcoal](http://wildshores.blogspot.com/2009/04/how-is-charcoal-made-from-mangroves.html)
 . It is sometimes planted to protect bunds and dykes. It is also used in mangrove rehabilitation and plantation forestry.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/091005cjd2271m3.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/rhizophora/091005cjd2271m3.jpg)
 
 Chek Jawa, Oct 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/070520smkd1226m3.jpg)
+![](https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/070520smkd1226m3.jpg)
 
 Pulau Semakau, May 07*
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/rhizophora/apiculata/090816sbwrd9039m3.jpg)
+*![](https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/090816sbwrd9039m3.jpg)
 
 Sungei Buloh Wetland Reserve, Aug 09*
 

@@ -1,6 +1,6 @@
 ---
 title: Oriental sole
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Oriental sole on the shores of Singapore
 keywords: oriental, flat, fish, flatfish, sole, brachirus, orientalis, soleidae, pleuronectiformes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,49 +24,48 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg
     caption: Kusu Island, Jul 20 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/090623ecpd4978m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/090623ecpd4978m6l.jpg
     caption: East Coast Park, Jun 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/090623ecpd4980m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/090623ecpd4980m3.jpg
     caption: 'Underside: Tail fin joined to the dorsal and anal fins .'
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg
     caption: Eyes on the right side with small curved mouth.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/110705chgL1060441m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/110705chgL1060441m3.jpg
     caption: Often seen trapped in fishing nets. Changi, Jul 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/100116cjlks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/100116cjlks.JPG
     caption: Chek Jawa, Jan 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/240625bbky1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/240625bbky1.jpg
     caption: Beting Bronok, Jun 24 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/250501skdlks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/250501skdlks2.jpg
     caption: Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/211108ecpjll3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/211108ecpjll3.jpg
     caption: East Coast Park, Nov 21 Photo shared by Jianlin Liu on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/090712kusjkm6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/090712kusjkm6l.jpg
     caption: Kusu Island, Jul 09 Photo shared by James Koh on his blog .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/250430sjiml1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/250430sjiml1.jpg
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/250331hntrg3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/250331hntrg3.jpg
     caption: Pulau Hantu, Apr 25 Photo shared by Rachael Goh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/180715thnjll1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/180715thnjll1.jpg
     caption: Terumbu Hantu, Jul 18 Photo shared by Jianlin Liu on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/soleidae/orientalis/090330trylks3m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/090330trylks3m6l.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr .
 links_references: '**Links**
 
   - [Oriental Sole (
-
   *Brachirus orientalis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/387)
@@ -78,7 +77,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp. Family Soleidae .
 
   - [Oriental sole (
-
   *Brachirus orientalis*
 
   )](http://www.fishbase.org/summary/8312)
@@ -121,9 +119,7 @@ This large flattened fish is sometimes seen on some of our shore.
 ## Features
 
 Usually 10-12cm, it can grow to 30cm. Eyes on the right side with a small curved mouth. Body oval, it has a tiny pectoral fin on the eyed-side. Dorsal and anal fins joined with the tail fin and uniformly dark. The eyed-side is greyish brown with dark patches.
-Scales are rough. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins (
-[here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)
-).
+Scales are rough. These bottom-dwelling fishes over 'walk' over the sand by undulating their fins ([here's a video](https://www.facebook.com/100003979885481/videos/pcb.3219425128200118/488530404213420)).
 
 **Sometimes confused with**
 other

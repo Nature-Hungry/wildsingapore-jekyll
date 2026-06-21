@@ -1,6 +1,6 @@
 ---
 title: Solitary tubeworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Solitary tubeworm on the shores of Singapore
 keywords: solitary, tube, worm, tubeworm, diopatra, sbristle, polychaete, annelida,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,37 +18,37 @@ subclass: Errantia
 order: Eunicida
 subfamily: Onuphinae
 updated: Oct 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
     caption: Thick leathery tube Chek Jawa, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/050823chgg2333m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/050823chgg2333m3.jpg
     caption: Tube washed ashore Changi, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/040702chgg0938m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/040702chgg0938m3.jpg
     caption: Changi, Jul 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/100429prpd1812m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/100429prpd1812m3.jpg
     caption: Reaching out to grab a mangrove propagule. Pasir Ris Park, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/100429prpd1822m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/100429prpd1822m3.jpg
     caption: Got it!
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/100429prpd1828m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/100429prpd1828m3.jpg
     caption: A closer look at the worm.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/251107chgmn3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/251107chgmn3a.jpg
     caption: Changi Point, Nov 25 Shared by Marcus Ng on facebook.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/081115chg7841m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/081115chg7841m3.jpg
     caption: Changi, Nov 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/081115chg7842m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/081115chg7842m3.jpg
     caption: Photos shared by Michell Ng.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/081115chg7842m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/081115chg7842m3a.jpg
     caption: More photos of these worms out of their tubes .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/110611cjlks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/110611cjlks.JPG
     caption: Being eaten by a mudskipper Chek Jawa, Jun 11 Photo shared by Loh Kok
       Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/251010blytl5.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/251010blytl5.jpg
     caption: Berlayar Creek, Oct 25 Photo shared by Tammy Lim on facebook .
 links_references: '**Links**
 

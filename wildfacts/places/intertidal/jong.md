@@ -7,7 +7,7 @@ layout: default
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../index.html)  
 [wild shores of singapore
@@ -52,7 +52,7 @@ is one of the survey sites of [underwater
 coral reef surveys](http://coralreef.nus.edu.sg/survey/data.htm) by [ReefFriends](http://www.bluewatervolunteers.org/reeffriends/)
 of [NParks](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=120&Itemid=123)
 and the [Blue Water Volunteers](http://www.bluewatervolunteers.org/).
-The intertidal area is also regularly surveyed by [wildsingapore](http://www.wildsingapore.com/).
+The intertidal area is also regularly surveyed by [wildsingapore](https://images.naturehungry.sg/).
 **About
 the name:** *Pulau*=Island; *Jong*=Arabic
 for Chinese junk or sailing ship. At low tide, the long

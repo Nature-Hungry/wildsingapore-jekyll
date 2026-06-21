@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tangled sponge on the shores of Singapore
 keywords: tangled, sponge, callyspongia, samarensis, callyspongiidae, porifera, field,
 layout: entry
 shape: branching
@@ -16,19 +16,19 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/091204pawd5238m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/tangled/091204pawd5238m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/091204pawd5238m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tangled/091204pawd5238m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/080510smkd3114m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tangled/080510smkd3114m3.jpg
     caption: Pulau Semakau, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/070701hntd3035m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tangled/070701hntd3035m3.jpg
     caption: Pulau Hantu, Jul 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/110324tryrl1m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tangled/110324tryrl1m3.jpg
     caption: Terumbu Raya, Mar 11 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/tangled/110522bbbrl5m3.jpg
+  - url: https://images.naturehungry.sg/porifera/tangled/110522bbbrl5m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook .
 links_references: '**Links**
 

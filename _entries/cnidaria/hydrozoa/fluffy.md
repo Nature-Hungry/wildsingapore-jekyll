@@ -1,6 +1,6 @@
 ---
 title: Fluffy hydroid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fluffy hydroid on the shores of Singapore
 keywords: orange, fluffy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,28 +14,28 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
     caption: Changi, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/080731chgd8442m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/080731chgd8442m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3a.jpg
     caption: Changi, Apr 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/091011mkbd2732m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/091011mkbd2732m3.jpg
     caption: Keppel Bay, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/080409tusd0786m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/080409tusd0786m3.jpg
     caption: Tuas, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
     caption: Tuas, Apr 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/251009sjilks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/251009sjilks2.jpg
     caption: St John's Island, Oct 25 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/251009sjilks2a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/251009sjilks2a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/fluffy/251009sjilks2b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/251009sjilks2b.jpg
     caption: ''
 location:
 - chg

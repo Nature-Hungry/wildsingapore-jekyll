@@ -1,6 +1,6 @@
 ---
 title: 'Pencil squids '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pencil squids  on the shores of Singapore
 keywords: pencil, squid, loliginidae, cephalopod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,7 +17,7 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
 links_references: '**Links**
 
   - Family Loliginidae in the Cephalopod section by J.M. Poutiers in the FAO Species
@@ -41,14 +41,14 @@ links_references: '**Links**
   of Australasia*The Gould League of Australia. 96pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
     caption: Ink squirted out retains its shape. Sister Island, May 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg
     caption: Which is ink and which is squid? Tanah Merah, Jun 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg
     caption: Bigfin reef squid
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg
     caption: Indian squid
 location:
 - prp

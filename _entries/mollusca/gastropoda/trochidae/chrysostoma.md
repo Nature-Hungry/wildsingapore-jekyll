@@ -1,6 +1,6 @@
 ---
 title: Orange-mouth top shell snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Orange-mouth top shell snail on the shores of Singapore
 keywords: orange, mouth, top, chrysostoma, paradoxum, trochidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,14 +19,14 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Chrysostomatinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg
     caption: Pulau Jong, Apr 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6428m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6428m3.jpg
     caption: ''
 links_references: '**Links**
 
@@ -35,7 +35,6 @@ links_references: '**Links**
   in SeaBase Life: Technical fact sheet.
 
   - Labio monodont (
-
   *Monodontia labio*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

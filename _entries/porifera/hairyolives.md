@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of 'Hairy olives' sponge on the shores of Singapore
 keywords: hairy, olive, sponge, porifera, stelletta, clavosa, ancorinidae, field,
 layout: entry
 shape: bristley
@@ -17,39 +17,39 @@ subclass: Heteroscleromorpha
 order: Tetractinellida
 suborder: Astrophorina
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100130brkd8706m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/hairyolives/100130brkd8706m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100130brkd8706m3.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/100130brkd8706m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100130brkd8706m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/100130brkd8706m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/120313bbbs04967m3.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/120313bbbs04967m3.jpg
     caption: Beting Bemban Besar, Mar 12
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100617tbd6271m3.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/100617tbd6271m3.jpg
     caption: Growing on Brown prickly sponge . Terumbu Bemban, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100629pdrd7577m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/100629pdrd7577m3a.jpg
     caption: Growing on Orange sprawling sponge . Terumbu Pempang Darat, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/250629smke.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/250629smke.jpg
     caption: Growing on Yellow prickly branching sponge .. Pulau Semakau (East), Jun
       25
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100713cyrd8577m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/100713cyrd8577m3a.jpg
     caption: Cyrene Reef, Jul 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100417hntd1196m3.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/100417hntd1196m3.jpg
     caption: Pulau Hantu, Apr 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/120409tptd8682.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/120409tptd8682.jpg
     caption: Common hairy crab eating one? Terumbu Pempang Tengah, Apr 12
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/200822jngjc3.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/200822jngjc3.jpg
     caption: Pulau Jong, Aug 20 Photo shared by Joleen Chan on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100601slud4964m3.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/100601slud4964m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100613sngd5533m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/100613sngd5533m3a.jpg
     caption: Pulau Senang, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/hairyolives/100530tbkd4401m3.jpg
+  - url: https://images.naturehungry.sg/porifera/hairyolives/100530tbkd4401m3.jpg
     caption: Terumbu Berkas, May 10
 links_references: '**Links**
 

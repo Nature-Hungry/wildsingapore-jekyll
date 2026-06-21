@@ -8,7 +8,7 @@ layout: default
 [![](../../../Templates/wildfactsheet3.gif)](../../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../../index.html)  
 [wild shores of singapore

@@ -1,6 +1,6 @@
 ---
 title: 'Pale feather stars '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pale feather stars  on the shores of Singapore
 keywords: feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -16,42 +16,42 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/060713rlhd4331m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4331m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/060713rlhd4331m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4331m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/060713rlhd4317m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4317m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/060713rlhd4331m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/060713rlhd4331m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/191214cjal7.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/191214cjal7.jpg
     caption: Chek Jawa, Dec 2019 Photo shared by Adrianne Lee on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/091008tmd2430m3.jpg
     caption: Tanah Merah, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/091206tmd5761m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/091206tmd5761m3.jpg
     caption: Tanah Merah, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/210529ecpblks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/210529ecpblks2.jpg
     caption: East Coast Park (B), May 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/160509srpjt1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/160509srpjt1.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Jonathan Tan on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/190831kuslt1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/190831kuslt1.jpg
     caption: Kusu Island, Sep 19 Photo shared by Leon Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/090919sislks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/090919sislks.JPG
     caption: Sisters Island, Sep 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/200112sjilks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/200112sjilks2.jpg
     caption: St John's Island, Jan 20 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/080605hntlks02m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/080605hntlks02m3.jpg
     caption: Pulau Hantu, Jun 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/080208hntlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/080208hntlks.JPG
     caption: Pulau Hantu, Feb 08 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/pale/200209cyrlks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/pale/200209cyrlks2.jpg
     caption: Cyrene Reef, Feb 20 Photo shared by Loh Kok Sheng on facebook .
 location:
 - cj

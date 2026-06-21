@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of The Neptune's Cup sponge on the shores of Singapore
 keywords: neptune, cup, sponge, cliona, patera, porifera, field, guide, seashore,
 layout: entry
 shape: ''
@@ -16,10 +16,10 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Clionaida
 updated: Sep 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/patera/clionapatera1.JPG
+coverimg: https://images.naturehungry.sg/porifera/patera/clionapatera1.JPG
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/patera/clionapatera1.JPG
+  - url: https://images.naturehungry.sg/porifera/patera/clionapatera1.JPG
     caption: Photo from NParks on Today 9 Aug 2016 .
   gallery2:
   - url: https://c1.staticflickr.com/3/2024/2040684894_2f2f8ef950.jpg

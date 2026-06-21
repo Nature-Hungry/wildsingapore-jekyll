@@ -1,6 +1,6 @@
 ---
 title: 'Limau hantu '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Limau hantu  on the shores of Singapore
 keywords: limau, hantu, calophyllum, soulattri, clusiaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,21 +23,21 @@ order: Malpighiales
 subfamily: Crotonoideae
 tribe: Gelonieae
 updated: Dec 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091031cjd3429m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/suregada/multiflora/091031cjd3429m3.jpg
     caption: Changi, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091021chgd3004m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/suregada/multiflora/091021chgd3004m3b.jpg
     caption: Changi, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/090912chgbwd0534m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/suregada/multiflora/090912chgbwd0534m3.jpg
     caption: Changi, Sep 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091021chgd3011m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/suregada/multiflora/091021chgd3011m3.jpg
     caption: Changi, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091021chgd3005m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/suregada/multiflora/091021chgd3005m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/091021chgd3005m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/suregada/multiflora/091021chgd3005m3b.jpg
     caption: ''
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -83,7 +83,7 @@ Fruits resemble small limes (1-2cm), with three 'shoulders', green turning brigh
 **Status and threats:**
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg)
 
 Planted.
 *Changi, Sep 09*

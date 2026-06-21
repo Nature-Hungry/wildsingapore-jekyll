@@ -1,6 +1,6 @@
 ---
 title: Feather mushroom  coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Feather mushroom  coral on the shores of Singapore
 keywords: long, mushroom, ctenactis, fungiidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,72 +17,72 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3c.jpg
     caption: Large, triangular, evenly spaced 'teeth'.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg
     caption: Prominent central furrow.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4338m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4338m3.jpg
     caption: Underside concave.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4338m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4338m3b.jpg
     caption: Underside and sides.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/140518tmlks7m3.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/140518tmlks7m3.JPG
     caption: Tanah Merah, May 14 Photo shared of Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/230608tmftlks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/230608tmftlks1.jpg
     caption: Tanah Merah ferry Terminal, Jun 23 Photo shared of Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/250714srpal10.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/250714srpal10.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared of Adriane Lee on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/210625kusrk2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/210625kusrk2.jpg
     caption: Kusu Island, Jun 21 Photo shared of Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/160409sjilks7.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/160409sjilks7.JPG
     caption: St John's Island, Apr 16 Photo shared of Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/210430sjilks2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/210430sjilks2.jpg
     caption: St John's Island, Apr 21 Photo shared of Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/260217bsislks8.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/260217bsislks8.jpg
     caption: Big Sisters' Island, Feb 26 Photo shared of Loh Kok Sheng on facebook
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/201215smkelks1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/201215smkelks1.jpg
     caption: Pulau Semakau (East), Dec 20 Photo shared of Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/230903smknmn2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/230903smknmn2.jpg
     caption: Pulau Semakau (North), Sep 23 Photo shared of Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/250629smkelks6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/250629smkelks6.jpg
     caption: Pulau Semakau East, Jun 25 Photo shared by Loh Kok Sheng on facebook
       .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/130428tsmklks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/130428tsmklks.JPG
     caption: Terumbu Semakau, Apr 13 Photo shared of Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/240623hntlks8.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/240623hntlks8.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/160313trymn7.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/160313trymn7.jpg
     caption: Terumbu Raya, Mar 16 Photo shared of Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/100502trylks1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/100502trylks1m3.jpg
     caption: Terumbu Raya, May 10 Photo shared of Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/141108bbblks5m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/141108bbblks5m3.jpg
     caption: Beting Bemban Besar, Nov 14 Photo shared of Loh Kok Sheng on facebook
       .
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/220503tptlks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/220503tptlks3.jpg
     caption: Terumbu Pempang Tengah, May 22 Photo shared of Loh Kok Sheng on facebook
       .
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060811rlhd5793m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060811rlhd5793m3.jpg
     caption: Raffles Lighthouse, Aug 06 Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/060714rlhg6509m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/060714rlhg6509m3.jpg
     caption: Raffles Lighthouse, Jul 06 Mouth in the central furrow.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
     caption: Terumbu Bemban, Jul 11 Tiny tentacles, very sparse.
 links_references: '**Links**
 

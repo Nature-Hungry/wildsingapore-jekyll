@@ -1,6 +1,6 @@
 ---
 title: Sargassum nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sargassum nudibranch on the shores of Singapore
 keywords: crosslandia, daedali, sargassum, nudibranch, slug, seaslug, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -27,7 +27,7 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
 links_references: '**Links**
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: including
@@ -50,18 +50,18 @@ links_references: '**Links**
   Neville Coleman''s Underwater Geographic Pty Ltd, Australia.144pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
     caption: St. John's Island, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/060131sjig4511m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/060131sjig4511m3a.jpg
     caption: Tiny brush-like rhinophore at the tip of long rhinophore stalk.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/111001sjitch1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/111001sjitch1m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/111001sjitch2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/111001sjitch2m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/crosslandia/111001sjitch3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/111001sjitch3m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Toh Chay Hoon on her blog .
 location:
 - sji
@@ -78,8 +78,7 @@ zone:
 ## Where seen?
 This extremely well camouflaged nudibranch was seen among
 [Sargassum seaweeds](../../../plants/seaweed/phaeophyta/sargassum)
-(
-*Sargassum*
+(*Sargassum*
 sp.) at St. John's Island.
 
 ## Features

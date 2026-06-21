@@ -1,6 +1,6 @@
 ---
 title: Ocher-striped  flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ocher-striped  flatworm on the shores of Singapore
 keywords: flat, worm, flatworm, pseudoceros, rubrotentaculatus, polyclad, turbellaria,
   platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -17,33 +17,33 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/200126bsisro1.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/200126bsisro1.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/200126bsisro1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/200126bsisro1.jpg
     caption: Big Sisters Island, Jan 20 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/200126bsisro1a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/200126bsisro1a.jpg
     caption: Pseudotentacles with orange tips.
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/060101sisg3571m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/060101sisg3571m3.jpg
     caption: Sisters Island, Jan 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/201115tkkjll1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/201115tkkjll1.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/170113tkrrk.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/170113tkrrk.jpg
     caption: Pulau Tekukor, Jan 17 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/220202bsistch1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/220202bsistch1.jpg
     caption: Big Sisters Island, Feb 22 Photo shared by Toh Chay Hoon on facebook
       .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/240113lazlks1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/240113lazlks1.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/250201bsisjll1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/250201bsisjll1.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/150718smketch1m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/150718smketch1m3.jpg
     caption: Pulau Semakau East, Jun 15 Photo shared by Toh Chay Hoon on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/rubrotentaculatus/240512jngtl1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/rubrotentaculatus/240512jngtl1.jpg
     caption: Pulau Jong, May 24 Photo shared by Tammy Lim on facebook .
 location:
 - tkr

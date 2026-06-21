@@ -1,6 +1,6 @@
 ---
 title: 'Star limpet '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Star limpet  on the shores of Singapore
 keywords: star, limpet, patelloida, saccharinoides, acmaeidae, lottiidae, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -30,17 +30,17 @@ superfamily: Lottioidea
 subfamily: Lottiinae
 tribe: Patelloidini
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg
     caption: Chek Jawa, Jan 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/091021chgd3059m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/091021chgd3059m3.jpg
     caption: Changi, Oct 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/patelloida/160610jngmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/160610jngmn.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 

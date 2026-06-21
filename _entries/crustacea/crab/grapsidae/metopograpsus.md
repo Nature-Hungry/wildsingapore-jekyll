@@ -1,6 +1,6 @@
 ---
 title: Purple climber crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Purple climber crab on the shores of Singapore
 keywords: purple, climber, crab, metopograpsus, grapsidae, decapod, crustacea, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -27,56 +27,55 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg
     caption: Kusu Island, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3c.jpg
     caption: Scalloped pincers
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/120112sbwmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/120112sbwmn.jpg
     caption: Sembawang Park, Jan 12 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/080609ubnmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/080609ubnmn.jpg
     caption: Pulau Ubin, Jun 08 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/100124cjd7970m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/100124cjd7970m3.jpg
     caption: Grabbed a fiddler crab then headed back to the boardwalk legs. Chek Jawa,
       Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/090720skdjk6m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/090720skdjk6m3.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by James Koh on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/251208meky9.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/251208meky9.jpg
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101106tburjk.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/101106tburjk.JPG
     caption: Terumbu Buran, Nov 10 Photo shared by James Koh on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/141109lazmn2m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/141109lazmn2m3.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/250810bsisky2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/250810bsisky2.jpg
     caption: Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/100515sjid2485m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/100515sjid2485m3.jpg
     caption: A pair, getting ready to mate? St. John's Island, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/othercrust/isopoda/ligia/090510hntmn.jpg
+  - url: https://images.naturehungry.sg/othercrust/isopoda/ligia/090510hntmn.jpg
     caption: Captured a Shore cricket Pulau Hantu May 09 Photo shared by Marcus Ng
       on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/251207hntky8.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/251207hntky8.jpg
     caption: Pulau Hantu, Dec 2025 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/100711cyrlks1m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/100711cyrlks1m3.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/101009smklks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/101009smklks.JPG
     caption: Pulau Semakau, Oct 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/grapsidae/metopograpsus/110517tptlt3m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/110517tptlt3m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on facebook
       .
 links_references: '**Links**
 
   - [Purple Climber Crabs (
-
   *Metopograpsus*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047)

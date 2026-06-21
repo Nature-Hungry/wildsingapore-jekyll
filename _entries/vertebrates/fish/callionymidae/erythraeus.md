@@ -1,6 +1,6 @@
 ---
 title: Smallhead dragonet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smallhead dragonet on the shores of Singapore
 keywords: dragonet, fish, callionymidae, callionymus, erythraeus, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,32 +23,31 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
     caption: Changi, Jul 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg
     caption: Male. Changi, Jun 13
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg
     caption: Male. Changi, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg
     caption: Underside of a dead specimen. Tanah Merah, Oct 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg
     caption: Changi, Jun 20 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
     caption: Tiny, about 1cm. Changi, Aug 12 Photo shared by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg
     caption: Changi East, Jun 23 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
   - [Smallhead dragonet (
-
   *Callionymus erythraeus*
 
   )](http://www.fishbase.us/summary/Callionymus-erythraeus.html)

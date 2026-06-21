@@ -1,6 +1,8 @@
 ---
 title: 'Fern seagrass '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: 2cm wide, 4cm long. Only seagrass with opposite leaves on a stem that
+  makes it appear fern-like. 10-20 opposite pairs of leaves on one stem, the stem
+  about 4cm long. Rhizomes thin, sometimes woody. Common on Chek Jawa and Changi.
 keywords: fern, spinulosa, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -28,19 +30,19 @@ updated: Mar 14
 rdb: CR
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/110916cjd1153m6l.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/spinulosa/110916cjd1153m6l.jpg
     caption: Chek Jawa, Sep 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/110916cjd1153m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/spinulosa/110916cjd1153m3a.jpg
     caption: Chek Jawa, Sep 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/070716chgd4197m3.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/spinulosa/070716chgd4197m3.jpg
     caption: Changi, Jul 07 Small one-sided fold at the base of each leaf. Chek Jawa,
       Sep 03
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/050819cjg1506m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/spinulosa/050819cjg1506m3a.jpg
     caption: Tiny snails grazing on algae on the leaves. Chek Jawa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
+  - url: https://images.naturehungry.sg/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
     caption: Bryozoans growing on the seagrass. Changi, Aug 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/071126chgd7629m3c.jpg
+  - url: https://images.naturehungry.sg/plants/seagrass/spinulosa/071126chgd7629m3c.jpg
     caption: Tiny organisms growing on leaflet. Changi, Nov 07
 links_references: '**Links**
 
@@ -127,12 +129,12 @@ Dugongs are known to graze on this seagrass.
 **Status and threats:**
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/080412cjd1263m6l.jpg)*
+*![](https://images.naturehungry.sg/plants/seagrass/spinulosa/080412cjd1263m6l.jpg)*
 Fern seagrass sometimes grows right up
 
 to the rocky shore on Chek Jawa!
 *Chek Jawa, Apr 08*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/seagrass/spinulosa/020213cjd6797m3.jpg)*
+*![](https://images.naturehungry.sg/plants/seagrass/spinulosa/020213cjd6797m3.jpg)*
 Leaves emerge from underground stems.
 *Chek Jawa, Feb 02*
 

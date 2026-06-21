@@ -1,6 +1,6 @@
 ---
 title: Waved nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Waved nerite snail on the shores of Singapore
 keywords: waved, nerita, nerite, undata, neritidae, gastropod, mollusc, snail, shell,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -26,35 +26,34 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg
     caption: Sisters Island, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg
     caption: Sisters Island, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/101109snt.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/101109snt.jpg
     caption: Sentosa, Nov 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/201020swgvc3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/201020swgvc3.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/200710mevc10.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/200710mevc10.jpg
     caption: East Coast-Marina Bay, Jul 20 Photo shared by Vincent Choo on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/160509srpik2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/160509srpik2.jpg
     caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/260104trmlvo4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/260104trmlvo4.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/110220lazro1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/110220lazro1m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/undata/251009sjirk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/251009sjirk2.jpg
     caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
 links_references: '**Links**
 
   - [Waved nerite (
-
   *Nerita undata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86842)
@@ -66,7 +65,6 @@ links_references: '**Links**
   (Cycloneritimorpha: Neritidae) Undate Nerite by Rebecca Loh Ker, 2015, on taxo4254.
 
   - Waved nerite (
-
   *Nerita undata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

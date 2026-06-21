@@ -1,6 +1,6 @@
 ---
 title: 'Belalang puak '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Belalang puak  on the shores of Singapore
 keywords: pittosporum, ferrugineum, pittosporaceae, tree, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,14 +20,14 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Apiales
 updated: Feb 11
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3a.jpg
     caption: Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3c.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3c.jpg
     caption: Lazarus Island, Feb 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3b.jpg
     caption: Lazarus Island, Feb 11
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -65,7 +65,7 @@ According to Burkill, the leaves and roots are used in poulticing for malaria. T
 **Status and threats:**
 This tree is listed as 'Vulnerable' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg)
 
 Growing also the natural shore
 *Lazarus Island, Feb 11*

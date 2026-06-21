@@ -1,6 +1,8 @@
 ---
 title: Lined bead anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Less than 0.5cm, at low tide, a tiny blob with fine stripes in white,
+  orange, yellow or red. Among barnacles, on jetty legs and other hard surfaces. Commonly
+  seen on our Northern shores.
 keywords: banded, bead, anemone, anthozoa, cnidarian, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -29,24 +31,24 @@ summary: Less than 0.5cm, at low tide, a tiny blob with fine stripes in white, o
   yellow or red. Among barnacles, on jetty legs and other hard surfaces. Commonly
   seen on our Northern shores.
 updated: Jul 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg
     caption: Chek Jawa, Jul 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/110620pgld4560m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/diadumene/110620pgld4560m3.jpg
     caption: Punggol, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/110620pgld4564m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/diadumene/110620pgld4564m3.jpg
     caption: Punggol, Jun 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/201118pglvc1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/diadumene/201118pglvc1.jpg
     caption: Punggol, Nov 20 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/160125obsmn11.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/diadumene/160125obsmn11.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/090721skdmn.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/diadumene/090721skdmn.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/diadumene/130312lsislks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/diadumene/130312lsislks.JPG
     caption: Little Sisters Island, Mar 13 Photo shared by Loh Kok Sheng on flickr
       .
 links_references: '**Links**

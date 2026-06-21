@@ -1,6 +1,6 @@
 ---
 title: Common triton snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common triton snail on the shores of Singapore
 keywords: gyrineum, natator, ranellidae, cymatiidae, gastropod, mollusc, snail, shell,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,22 +18,22 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
     caption: Pulau Sekudu, Sep 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/050110skdd9320m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/050110skdd9320m3.jpg
     caption: The snail has a long proboscis. Pulau Sekudu, Jan 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/110829ecpd0229.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/110829ecpd0229.jpg
     caption: 'Under a stone: Laying eggs? East Coast Park, Aug 11'
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/251208chgrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/251208chgrk1.jpg
     caption: Changi, Dec 25 Photo shared by Richard Kuah on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2.jpg
     caption: Cyrene, Jul 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2a.jpg
     caption: ''
 location:
 - chg

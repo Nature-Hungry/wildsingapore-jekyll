@@ -130,13 +130,13 @@ The rare [Nyireh](../plants/mangrove/xylocarpus/rumphii)
 is generally only found on   
 our natural rocky shores.
 
-**Where can we explore rocky shores in Singapore?** [Labrador](http://www.wildsingapore.com/places/lp) has the last large mainland rocky shore. There are also narrow and
+**Where can we explore rocky shores in Singapore?** [Labrador](https://images.naturehungry.sg/places/lp) has the last large mainland rocky shore. There are also narrow and
 patchy rocky shores at Changi. Among our northern islands, there are
 rocky shores on [Pulau
-Ubin](http://www.wildsingapore.com/ubin/indexl), the most famous being the one at [Chek
-Jawa](http://www.wildsingapore.com/places/cj). While on our Southern islands, there are rocky shores at [Sentosa](http://www.wildsingapore.com/places/sentosa), [St. John's Island](http://www.wildsingapore.com/places/sji), [Sisters
-Islands](http://www.wildsingapore.com/places/sisters). Smaller patches of rocky shores are also found at [Pulau
-Semakau](http://www.wildsingapore.com/places/semakau) which is better known for its seagrass meadows and reef
+Ubin](https://images.naturehungry.sg/ubin/indexl), the most famous being the one at [Chek
+Jawa](https://images.naturehungry.sg/places/cj). While on our Southern islands, there are rocky shores at [Sentosa](https://images.naturehungry.sg/places/sentosa), [St. John's Island](https://images.naturehungry.sg/places/sji), [Sisters
+Islands](https://images.naturehungry.sg/places/sisters). Smaller patches of rocky shores are also found at [Pulau
+Semakau](https://images.naturehungry.sg/places/semakau) which is better known for its seagrass meadows and reef
 flats.   
   
 **Are artificial granite sea walls rocky shores?** While some rocky shore animals can live on artificial sea walls, there

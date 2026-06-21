@@ -1,6 +1,6 @@
 ---
 title: Reticulated pufferfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Reticulated pufferfish on the shores of Singapore
 keywords: starry, pufferfish, puffer, fish, arothon, reticularis, tetraodontidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -14,23 +14,22 @@ family: Tetraodontidae
 genus: Arothon
 species: reticularis
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
     caption: 'Photo by Dr Tan Heok Hui from Singapore Biodiversity Records 2016: 102-103'
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/161228cjik.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/161228cjik.jpg
     caption: Juvenile Chek Jawa, Dec 16 Photo shared by Ivan Kwan on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/260105prpezxh3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/260105prpezxh3.jpg
     caption: Dead Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/tetraodontidae/reticularis/081101chgik.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/081101chgik.jpg
     caption: Dead Changi, Nov 08 Photo shared by Ivan Kwan on flickr .
 links_references: '**Links**
 
   - [Reticulated puffer (
-
   *Arothron reticularis*
 
   )](https://www.fishbase.se/summary/6594)

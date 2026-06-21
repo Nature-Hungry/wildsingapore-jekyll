@@ -1,6 +1,6 @@
 ---
 title: Common sun skink
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Common sun skink on the shores of Singapore
 keywords: common, sun, skink, eutropis, multifasciata, scincidae, vertebrate, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -20,17 +20,17 @@ suborder: Sauria
 infraorder: Scincomorpha
 subfamily: Mabuyinae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m3a.jpg
     caption: Sungei Buloh Wetland Reserve, May 02
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/090905sbwrd0091m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/multifasciata/090905sbwrd0091m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/090905sbwrd0091m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/multifasciata/090905sbwrd0091m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/090905sbwrd0091m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/multifasciata/090905sbwrd0091m3b.jpg
     caption: With black stripes on the back and white dots on the sides.
 links_references: '**Links**
 
@@ -86,7 +86,7 @@ This small shiny skink is often seen slithering among the undergrowth and leaf l
 *Mabuya multifasciata*
 .
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg)*
+*![](https://images.naturehungry.sg/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

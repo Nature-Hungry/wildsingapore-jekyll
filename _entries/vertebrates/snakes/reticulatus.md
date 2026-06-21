@@ -1,6 +1,6 @@
 ---
 title: 'Reticulated python '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Reticulated python  on the shores of Singapore
 keywords: broghammerus, malayopython, python, reticulated, reticulatus, pythonidae,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,12 +18,12 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrd9076m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/reticulatus/020511sbwrd9076m6l.jpg
     caption: Sungei Buloh Wetland Reserve, May 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrcpd9035m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/snakes/reticulatus/020511sbwrcpd9035m3.jpg
     caption: Sungei Buloh Wetland Reserve, May 02
 links_references: '**Links**
 
@@ -117,10 +117,10 @@ Mama snake lays many eggs (124 is the record) and incubates them for three month
 **Status and threats:**
 The snake is considered common and are not listed among the threatened animals of Singapore. However, like other creatures of the shores, they are affected by human activities such as reclamation and pollution.
 
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg)
+![](https://images.naturehungry.sg/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg)
 
 *Sungei Buloh Wetland Reserve, May 02
-![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/snakes/reticulatus/020511sbwrcpd9036m3.jpg)*
+![](https://images.naturehungry.sg/vertebrates/snakes/reticulatus/020511sbwrcpd9036m3.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

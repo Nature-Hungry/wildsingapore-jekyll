@@ -1,6 +1,6 @@
 ---
 title: Blue-tailed penaeid prawn
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-tailed penaeid prawn on the shores of Singapore
 keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -24,31 +24,31 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg
     caption: Changi, Apr 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/100626cyrd7004m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/100626cyrd7004m3.jpg
     caption: With reddish chest may be juveniles. Cyrene Reef, Jun 10
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/240723chgett1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/240723chgett1.jpg
     caption: Changi East (Lost Coast), Jul 24 Photo shared by Tommy Tan on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/150731ecpmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/150731ecpmn.jpg
     caption: Pulau Hantu, Jul 15 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/201019sjijk.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/201019sjijk.jpg
     caption: St John's Island, Oct 20 Photo shared by James Koh on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/110517tptlks8m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/110517tptlks8m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/penbluetail/091204pawikw7m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/091204pawikw7m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on his flickr .
 location:
 - chg

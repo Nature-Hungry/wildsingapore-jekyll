@@ -38,11 +38,11 @@ the animal and '*Chelmon rostratus*' is its scientific name.
   </div>
   <div style="flex-grow:2">
     <div class="img-container" style="margin:0;">
-      <img src="http://www.wildsingapore.com/wildfacts/concepts/pix/i002d2.gif">
+      <img src="https://images.naturehungry.sg/wildfacts/concepts/pix/i002d2.gif">
       <p class="caption">Butterflyfish</p>
     </div>
     <div class="img-container" style="margin:0">
-      <img src="http://www.wildsingapore.com/wildfacts/concepts/pix/i002d1.gif">
+      <img src="https://images.naturehungry.sg/wildfacts/concepts/pix/i002d1.gif">
       <p class="caption">Chelmon rostratus</p>
     </div>
   </div>

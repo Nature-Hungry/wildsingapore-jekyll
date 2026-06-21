@@ -1,6 +1,6 @@
 ---
 title: 'Branching anchor corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Branching anchor corals  on the shores of Singapore
 keywords: branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae,
   coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -17,44 +17,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
     caption: Terumbu Bemban, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3a.jpg
     caption: Trumpet-shaped corallites.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3c.jpg
     caption: Tentacles with U-shaped tips, often forming rosettes.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/040522kusad0084m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/040522kusad0084m3.jpg
     caption: Kusu Island, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/040522kusad0084m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/040522kusad0084m3d.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/040801hntg1419m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/040801hntg1419m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3b.jpg
     caption: Mouth of the polyp surrounded by tentacles with U-shaped tips.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg
     caption: Fan worm in the middle of the colony.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/070630sisg0767m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/070630sisg0767m3d.jpg
     caption: Sisters Island, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/040830hntd5855m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/040830hntd5855m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/110717tbd7181m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/110717tbd7181m3.jpg
     caption: Terumbu Bemban, Jul 11
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/220618tmftlks9.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/220618tmftlks9.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/2007024pcnlks20a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/2007024pcnlks20a.jpg
     caption: East Coast PCN, Jul 2020 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/210812jngjk1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/210812jngjk1.jpg
     caption: Pulau Jong, Aug 21 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/euphylliidae/paraancora/130427tptlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
 links_references: '**Links**

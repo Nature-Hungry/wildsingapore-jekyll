@@ -1,6 +1,6 @@
 ---
 title: Elegant drill
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Elegant drill on the shores of Singapore
 keywords: drill, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -25,31 +25,31 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Rapaninae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
     caption: Chek Jawa, Jan 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/060114cjg3834m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/060114cjg3834m3.jpg
     caption: Underside
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/050502cjg5704m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/050502cjg5704m3.jpg
     caption: Chek Jawa, May 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg
     caption: Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3a.jpg
     caption: Changi, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3b.jpg
     caption: Underside.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg
     caption: Changi, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg
     caption: Yellow capsules yet to hatch, Hatched capsules purple.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/091217sbglks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/091217sbglks.JPG
     caption: Sembawang, Dec 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/elegant/190423pglsg1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/190423pglsg1.jpg
     caption: Punggol, Apr 19 Photo shared by Shawne Goh on facebook .
 location:
 - sbw

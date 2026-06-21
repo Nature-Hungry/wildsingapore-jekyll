@@ -1,6 +1,6 @@
 ---
 title: Black-and-white feather star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-and-white feather star on the shores of Singapore
 keywords: black, feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -16,53 +16,53 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/050821bbg1995m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/black/050821bbg1995m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/050821bbg1995m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/050821bbg1995m3.jpg
     caption: Beting Bronok, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/050821bbg1965m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/050821bbg1965m3a.jpg
     caption: Underside
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/050821bbg1994m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/050821bbg1994m3.jpg
     caption: Close-up look at arms.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/070618rlhg0729m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/070618rlhg0729m3.jpg
     caption: Raffles Lighthouse, Jun 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/070618rlhg0729m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/070618rlhg0729m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/070618rlhg0729m3d.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/070618rlhg0729m3d.jpg
     caption: Fine feeding tentacles on pinnules.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/200622chglks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/200622chglks2.jpg
     caption: Changi, Jun 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/140615skdlks1m3.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/140615skdlks1m3.JPG
     caption: Pulau Sekudu, Jun 14 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/230606cjky3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/230606cjky3.jpg
     caption: Chek Jawa, Jun 23 Photo shared by Kelvin Yong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/160510ecpbsjt1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/160510ecpbsjt1.jpg
     caption: East Coast Park, May 16 Photo shared by Jonathan Tan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/230901kuslks2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/230901kuslks2.jpg
     caption: Kusu Island, Sep 23 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/100103sislks3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/100103sislks3m3.jpg
     caption: Sisters Island, Jan 10 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/080605hntlks01m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/080605hntlks01m3.jpg
     caption: Pulau Hantu, Jun 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/151225tsmklks3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/151225tsmklks3m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/160724smkelks1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/160724smkelks1.jpg
     caption: Pulau Semakau (East), Jul 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/210428slulks7a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/210428slulks7a.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/080802rlhlks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/080802rlhlks.JPG
     caption: Raffles Lighthouse, Aug 08 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/210428slulks5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/210428slulks5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/black/220201brklks4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/black/220201brklks4.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
 location:
 - chg

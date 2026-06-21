@@ -1,6 +1,6 @@
 ---
 title: Rockskipper blenny
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rockskipper blenny on the shores of Singapore
 keywords: entomacrodus, blenniidae, rockskipper, blenny, fish, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -14,52 +14,52 @@ family: Blennidae
 genus: ''
 species: ''
 updated: Nov 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
     caption: Kusu Island, Sep 19 Photo shared by Jesselyn Chua on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/150605kusmn6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/150605kusmn6l.jpg
     caption: Black-spotted rockskipper blenny (Entomacrodus striatus) Kusu Island,
       Jun 15 Photo shared by Marcus Ng on flickr .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/251011ssisyls6.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/blue/251011ssisyls6.jpg
     caption: Rockskipper ( Istiblennius sp.) ID by Yan Le , caught by a Blue swimming
       crab Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facbeook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/251011ssisyls6a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/blue/251011ssisyls6a.jpg
     caption: Close up of fish caught. Small Sisters Island, Oct 25 Photo shared by
       Yan Le Su on facbeook .
   gallery3:
   - url: https://live.staticflickr.com/31337/51394868000_22aa708501_z.jpg
     caption: Small Sisters Island, Aug 2021
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/220618tmftdc1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/220618tmftdc1.jpg
     caption: Kusu Island, May 05 Photo shared by Dayna Cheah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/240212sjijll4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/240212sjijll4.jpg
     caption: St John's Island, Feb 24 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/220812ssisccn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/220812ssisccn1.jpg
     caption: Small Sisters Island, Aug 22 Photo shared by Che Cheng Neo on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/160617ecplks2.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/160617ecplks2.JPG
     caption: East Coast Park, Jul 15 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/160617ecplks1.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/160617ecplks1.JPG
     caption: East Coast Park, Jul 15 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/100615tmlks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/100615tmlks.JPG
     caption: Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/oyster/110326sjilks.JPG
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/oyster/110326sjilks.JPG
     caption: St John's Island, Mar 11 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/240820kusky2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/240820kusky2.jpg
     caption: Kusu Island, Aug 24 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/210625vc2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/210625vc2.jpg
     caption: Kusu Island, Jun 21 Photo shared by Vincent Choo on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/251011ssisky4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/251011ssisky4.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Kelvin Yong on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/blenniidae/rockskipper/251011ssisyls9.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/251011ssisyls9.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook .
 links_references: '**Links**
 

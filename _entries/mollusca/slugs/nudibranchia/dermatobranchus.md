@@ -1,6 +1,6 @@
 ---
 title: Tiny striped nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny striped nudibranch on the shores of Singapore
 keywords: tiny, armina, dermatobranchus, arminidae, arminacea nudibranchia, slug,
   seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -28,65 +28,65 @@ order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg
     caption: Labrador, Jun 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/070317sntg8138m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/070317sntg8138m3.jpg
     caption: Sentosa, Mar 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/240821skdch6.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/240821skdch6.jpg
     caption: Pulau Sekudu, Aug 24 Photo shared by Chay Hoon on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/181224sntlks4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/181224sntlks4.jpg
     caption: Sentosa, Dec 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/160314lazlis1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/160314lazlis1.jpg
     caption: Lazarus Island, Mar 16 Photo shared by Law Ing Sind on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/150605kustch3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/150605kustch3m3.jpg
     caption: Kusu Island, Jun 15 Photo shared by Toh Chay Hoon on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/090809sjijk.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/090809sjijk.jpg
     caption: St John's Island, Aug 09 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/201019sjijll3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/201019sjijll3.jpg
     caption: St John's Island, Oct 20 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/201115tkkjll3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/201115tkkjll3.jpg
     caption: Pulau Tekukor, Nov 20 Photo shared by Jianlin Liu on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/180519sissdc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/180519sissdc1.jpg
     caption: Small Sisters Island, May 18 Photo shared by Dayna Cheah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/170611bsismn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/170611bsismn1.jpg
     caption: Big Sisters Island, Jun 17 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/240211bigsistch3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/240211bigsistch3.jpg
     caption: Big Sisters Island, Feb 24 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/200209cyrlks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/200209cyrlks3.jpg
     caption: Cyrene, Feb 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/260201cyrjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/260201cyrjll1.jpg
     caption: Cyrene, Feb 26 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/150718smketch2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/150718smketch2m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Toh Chay Hoon on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/210402tmskjll4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/210402tmskjll4.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/210501tbtch3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/210501tbtch3.jpg
     caption: Terumbu Bemban, May 21 Photo shared by Toh Chay Hoon on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/220103tplky2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/220103tplky2.jpg
     caption: Terumbu Pempang Laut, Jan 22 Photo shared by Kelvin Yong on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/150524tplhpy4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/150524tplhpy4m3.jpg
     caption: Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/210502tpttch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/210502tpttch1.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Toh Chay Hoon on facebook
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/100528tbrkmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/100528tbrkmn.jpg
     caption: Pulau Berkas, May 10 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/dermatobranchus/220102biolks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/220102biolks6.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

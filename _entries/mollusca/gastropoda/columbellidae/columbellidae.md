@@ -1,6 +1,6 @@
 ---
 title: Dove snails
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dove snails on the shores of Singapore
 keywords: dove, shell, snail, columbellidae, gastropod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,21 +17,21 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
     caption: Kusu Island, Dec 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
     caption: Sentosa, Oct 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/050610sntg7562m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/050610sntg7562m3b.jpg
     caption: Narrow opening in a thick shell.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg
     caption: Turtle dove snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/ocellata/080802sjid8928m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/ocellata/080802sjid8928m3.jpg
     caption: Lighting dove snail
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
     caption: Dotted dove snail
 links_references: "**Links**\n- [Family Columbellidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Columbellidae.html)\n\
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities\

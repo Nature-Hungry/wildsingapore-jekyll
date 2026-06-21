@@ -1,6 +1,6 @@
 ---
 title: ' Tengar merah'
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of  Tengar merah on the shores of Singapore
 keywords: ceriops, zippeliana, sp, nov, rhizophoraceae, tree, mangrove, mangroves,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -23,21 +23,21 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 190476
 updated: Jan 2013
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg
+coverimg: https://images.naturehungry.sg/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/090124ubnd6042m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/ceriops/zippeliana/090124ubnd6042m3.jpg
     caption: Pulau Ubin, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg
     caption: Leaves oval. Pulau Ubin, Jul 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3.jpg
     caption: Flowers small, a few on a short stalk. Pulau Ubin, Jan 09 White petals
       with frilly edges. Pulau Ubin, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg
     caption: Brown 'fruit' with textured surface. Changi Creek, Apr 09 Propagules
       point upwards and other directions. Pasir Ris Park, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/090802ubnd8163m6l.jpg
+  - url: https://images.naturehungry.sg/plants/mangrove/ceriops/zippeliana/090802ubnd8163m6l.jpg
     caption: Red collar on ripe propagule. Ridged propagules. Pulau Ubin, Aug 09
 size:
 - 1200.0
@@ -63,9 +63,7 @@ Leaves oval (tips not pointed) (7-11cm), glossy green. Leaf stalk usually not pi
 
 Flowers small (0.5cm) with tiny white frilly petals. Several flowers on a short stalk, but not as many flowers as in
 [Tengar](tagal)
-(
-*Ceriops tagal*
-).
+(*Ceriops tagal*).
 
 Fruit brown with a textured pattern: this is the identifying feature of this species. Hypocotyl long pointed (9-17cm long) with fluted ridges along the length and a red collar when ready to drop off. The propagules point upwards and in all directions, not all hanging downwards as in
 *Ceriops tagal*
@@ -76,7 +74,7 @@ Sometimes with stilt roots.
 **Status and threats:**
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg)*
+*![](https://images.naturehungry.sg/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg)*
 Sometimes with stilt roots.
 *Pulau Ubin, Feb 11*
 

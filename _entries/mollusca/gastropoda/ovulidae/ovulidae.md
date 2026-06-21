@@ -1,6 +1,6 @@
 ---
 title: 'Ovulid snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Ovulid snails  on the shores of Singapore
 keywords: spindle, ovulid, cowrie, ovulidae, gastropod, mollusc, snail, shell, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -18,40 +18,40 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Cypraeoidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg
     caption: Closely resembles the sea fan that it eats. Changi, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
     caption: Closely resembles the soft coral that it eats. Beting Bronok, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/050822cjg2211m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/050822cjg2211m3.jpg
     caption: The shell opening lacks 'teeth', unlike in a real cowrie. Chek Jawa,
       Aug 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/130626ecplks2.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/130626ecplks2.JPG
     caption: Laying eggs? East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on
       flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/softcoral/110518bbd1754.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/110518bbd1754.jpg
     caption: Chomped areas and eggs (?) nearby Beting Bronok, May 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210528lyg1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg1a.jpg
     caption: Changi, May 21
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210528lyg1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg1b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/210528lyg2b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/210528lyg2b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
     caption: Red spindle cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg
     caption: Nectar spindle cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg
     caption: Rose spindle cowrie
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg
     caption: Dalmation spindle cowrie
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
     caption: Soft coral false cowrie
 links_references: '**Links**
 

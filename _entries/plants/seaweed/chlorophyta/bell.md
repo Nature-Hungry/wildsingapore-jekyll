@@ -1,6 +1,6 @@
 ---
 title: Bell sea grapes seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bell sea grapes seaweed on the shores of Singapore
 keywords: oval, grapes, seaweed, weed, green, caulerpa, racemosa, turbinata, caulerpaceae,
   chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,17 +19,17 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg
     caption: Terumbu Semakau, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg
     caption: Pulau Semakau, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/060727jngd5132m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/060727jngd5132m3.jpg
     caption: Pulau Jong, Jul 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
 links_references: '**Links**
@@ -95,9 +95,7 @@ The seaweed resembles bunches of little bells, with a flattened top. Each bunch 
 
 **Sometimes confused with**
 [Round sea grape seaweeds](lentillifera)
-(
-*Caulerpa lentillifera*
-). Here's more on
+(*Caulerpa lentillifera*). Here's more on
 [how to tell apart the sea grapes seaweeds](cfgrapes)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

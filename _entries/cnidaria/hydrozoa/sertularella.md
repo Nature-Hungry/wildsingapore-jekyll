@@ -1,6 +1,6 @@
 ---
 title: Fern hydroid
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Fern hydroid on the shores of Singapore
 keywords: feathery, hydroid, sertularella, sertulariidae, hydrozoa, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -15,26 +15,26 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
     caption: Beting Bronok, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
     caption: Tiny polyps of the hydroid . Beting Bronok, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
     caption: Cuthona nudibranch Beting Bronok, Aug 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/220617skdlks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/220617skdlks3.jpg
     caption: Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/220617skdlks4.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/220617skdlks4.jpg
     caption: Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/110518bbd1818m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/110518bbd1818m3.jpg
     caption: Beting Bronok, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/060613ecpd2942m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/060613ecpd2942m3.jpg
     caption: East Coast, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/hydrozoa/sertularella/090623ecpd4882m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/090623ecpd4882m3.jpg
     caption: East Coast, Jun 09
 location:
 - pgl

@@ -1,6 +1,6 @@
 ---
 title: White flatworm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of White flatworm on the shores of Singapore
 keywords: flat, worm, flatworm, pseudoceros, meenae, polyclad, turbellaria, platyhelminthes,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,22 +17,22 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/white/091231biolks10m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polycladida/white/091231biolks10m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/white/091231biolks10m3.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/white/091231biolks10m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/white/200627cyrjll1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/white/200627cyrjll1.jpg
     caption: Cyrene, Jun Photo shared by Jianlin Liu on facebook .
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/white/100517jngtch1m6l.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/white/100517jngtch1m6l.jpg
     caption: Pulau Jong, May 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/white/100517jngtch1m3a.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/white/100517jngtch1m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/white/240512jngtl2.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/white/240512jngtl2.jpg
     caption: Pulau Jong, May 24 Photo shared by Tammy Lim on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polycladida/white/180619jngjll1.jpg
+  - url: https://images.naturehungry.sg/worm/polycladida/white/180619jngjll1.jpg
     caption: Pulau Jong, Jun 18 Photo shared by Jianlin Liu on facebook .
 location:
 - jng

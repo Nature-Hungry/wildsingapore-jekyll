@@ -1,6 +1,6 @@
 ---
 title: Dalmation spindle cowrie
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Dalmation spindle cowrie on the shores of Singapore
 keywords: nectar, spindle, ovulid, cowrie, ovulidae, phenacovolva, barbieri, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,15 +19,15 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
     caption: Changi, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg
     caption: Beting Bronok, May 03
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/ovulidae/barbieri/130526chglks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/barbieri/130526chglks1.JPG
     caption: Changi, May 13 Photo shared by Loh Kok Sheng on flickr .
 location:
 - chg

@@ -1,6 +1,6 @@
 ---
 title: Mini carpet anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mini carpet anemone on the shores of Singapore
 keywords: tinycarpet, anemone, stichodactyla, tapetum, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -27,14 +27,14 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
     caption: Chek Jawa, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/080720cjd7934m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tapetum/080720cjd7934m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg
     caption: Changi, May 11
 links_references: '**Links**
 
@@ -100,9 +100,7 @@ This tiny anemone is more commonly seen in our Northern shores such as Chek Jawa
 
 Oral disk 2-6cm in diameter. The tentacles are very short and look more like bumps. The tentacles are not so tightly packed together and especially in the centre, are neatly arranged into wedge-shaped groups, resembling the spokes of a wheel. The outer edge of the oral disk does not have a fringe of alternating long-short tentacles like
 [Haddon's carpet anemone](haddoni)
-(
-*Stichodactyla haddoni*
-).
+(*Stichodactyla haddoni*).
 
 **Sometimes mistaken for**
 babies of bigger carpet anemones.

@@ -7,7 +7,7 @@ layout: default
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../index.html)  
 [wild shores of singapore
@@ -87,7 +87,7 @@ islands are one of the survey sites of [underwater
 coral reef surveys](http://coralreef.nus.edu.sg/survey/data.htm) by [ReefFriends](http://www.bluewatervolunteers.org/reeffriends/)
 of [NParks](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=120&Itemid=123)
 and the [Blue Water Volunteers](http://www.bluewatervolunteers.org/).
-The intertidal area is also regularly surveyed by [wildsingapore](http://www.wildsingapore.com/).
+The intertidal area is also regularly surveyed by [wildsingapore](https://images.naturehungry.sg/).
 There are ad hoc field trips to showcase the Sisters Islands to [key
 visitors](http://wildshores.blogspot.sg/2012/02/sharing-sisters-islands-with-asia.html) and [personalities](http://wildshores.blogspot.sg/2011/04/sharing-our-shores-with-pierre-yves.html).
  **History:** In 1974-75, reclamation
@@ -95,7 +95,7 @@ at the Sisters Islands added 5.4ha to them. Seawalls were built to
 create the swimming lagoons.
 **About
 the name:** There is [an
-interesting legend](http://www.wildsingapore.com/places/sisters.htm) about the unhappy fate of two sisters
+interesting legend](https://images.naturehungry.sg/places/sisters.htm) about the unhappy fate of two sisters
 that led to the names for these islands. *Pulau*=Island;
 *Subar*=Fruitful, *Darat*=Landward, *Laut*=Seaward.
 
@@ -120,7 +120,7 @@ posts about the Sisters Islands** on wild shores of singapore
 **Links**
 
 - [The
-  Sisters Islands](http://www.wildsingapore.com/places/sisters.htm) on wildsingapore.
+  Sisters Islands](https://images.naturehungry.sg/places/sisters.htm) on wildsingapore.
 - [The
   Coastal Environmental Profile of Singapore](http://books.google.com.sg/books?id=qSIJ2uKKs88C&printsec=frontcover#v=onepage&q&f=false)
   by Lin Sien Chia, Habibullah Khan, Loke Ming Chou, The WorldFish

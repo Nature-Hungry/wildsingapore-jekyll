@@ -1,6 +1,6 @@
 ---
 title: Mermaid's fan seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mermaid's fan seaweed on the shores of Singapore
 keywords: mermaid, fan, ear, brown, seaweed, weed, padina, dictyotaceae, phaeophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -22,42 +22,42 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/111128sntd3972m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/111128sntd3972m3.jpg
     caption: Sentosa, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/111128sntd3973m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/111128sntd3973m3.jpg
     caption: Tiny hairs on edges and along concentric circles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/111128sntd3973m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/111128sntd3973m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/111127sisd3823m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/111127sisd3823m3.jpg
     caption: Sisters Island, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/111127sisd3824m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/111127sisd3824m3.jpg
     caption: Tiny hairs on edges and along concentric circles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/111127sisd3825m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/111127sisd3825m3.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/051103sisg2811m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/051103sisg2811m3.jpg
     caption: Sisters Island, Nov 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/060131sjid6688m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/060131sjid6688m3.jpg
     caption: St. John's Island, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040409tusad0066m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/040409tusad0066m3.jpg
     caption: Tuas, Apr 04
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/091204pawd5267m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/091204pawd5267m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/091205sudd5541m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/091205sudd5541m3.jpg
     caption: Pulau Sudong, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/091231biod7012m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/091231biod7012m3.jpg
     caption: Pulau Biola, Dec 09
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/100131slud8839m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/100131slud8839m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/100130brkd8512m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/100130brkd8512m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/100810sngd9917m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/100810sngd9917m3.jpg
     caption: Pulau Senang, Aug 10
 links_references: '**Links**
 
@@ -71,7 +71,6 @@ links_references: '**Links**
   with photos of species found in Australia.
 
   - [Mermaid''s fan (
-
   *Padina*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/104)
@@ -183,11 +182,11 @@ species.
 
 Mermaid's fan seaweed is eaten in some places. It is also used as animal feed, fertiliser and traditional medicine.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg)
 
 *Sentosa, Apr 04
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/phaeophyta/padina/040423sntd0023m3a.jpg)*
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/040423sntd0023m3a.jpg)*
 Circular fan-shaped, often torn at the edges.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

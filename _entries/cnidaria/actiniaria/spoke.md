@@ -1,6 +1,6 @@
 ---
 title: Transparent spoke anemone
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Transparent spoke anemone on the shores of Singapore
 keywords: anemone, actiniaria, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -21,47 +21,47 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/050509hntg5945m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/050509hntg5945m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/050509hntg5945m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/050509hntg5945m3.jpg
     caption: Pulau Hantu, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/050509hntg5945m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/050509hntg5945m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/050509hntg5945m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/050509hntg5945m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/080731chgd8400m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/080731chgd8400m3.jpg
     caption: Changi, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/080731chgd8400m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/080731chgd8400m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/140613skds08853m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/140613skds08853m3.jpg
     caption: Pulau Sekudu, Jun 14
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/190801chgmn1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/190801chgmn1.jpg
     caption: Changi, Aug 19 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/251107chgmn6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/251107chgmn6.jpg
     caption: Changi Point, Nov 25 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/251208chgrk5.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/251208chgrk5.jpg
     caption: Changi, Dec 25 Photo shared by Richard Kuah on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/111030skdlks1.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/111030skdlks1.JPG
     caption: Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/111030skdlks2.JPG
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/111030skdlks2.JPG
     caption: Pulau Sekudu, Oct 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/120508skdjk2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/120508skdjk2m3.jpg
     caption: Pulau Sekudu, May 12 Photo shared by James Koh on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/240212sjijk1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/240212sjijk1.jpg
     caption: St John's Island, Feb 24 Photo shared by James Koh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/070812sislks04m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/070812sislks04m3.jpg
     caption: Sisters Island, Aug 07 Photo shared by Loh Kok Sheng on his blog .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/091108hntjk1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/091108hntjk1m3.jpg
     caption: Pulau Hantu, Nov 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/100725hnttch4m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/100725hnttch4m3.jpg
     caption: Pulau Hantu, Sep 10 Photo shared by Toh Chay Hoon on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/090621hntjk1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/090621hntjk1m3.jpg
     caption: Pulau Hantu, Jun 09 Photo shared by James Koh on his blog .
 location:
 - chg

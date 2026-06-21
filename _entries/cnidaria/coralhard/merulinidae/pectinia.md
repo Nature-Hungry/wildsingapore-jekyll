@@ -1,6 +1,6 @@
 ---
 title: Carnation corals
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Carnation corals on the shores of Singapore
 keywords: carnation, pectinia, pectiniidae, merulinidae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,58 +17,58 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg
     caption: Sisters Island, Oct 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/111002sisd2146m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/111002sisd2146m3.jpg
     caption: With long tentacles extended.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/111002sisd2148m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/111002sisd2148m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/040830hntd5781m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/040830hntd5781m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/040830hntd5889m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/040830hntd5889m3.jpg
     caption: Pulau Hantu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3.jpg
     caption: Raffles Lighthouse, Jul 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/120124sisd5983m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/120124sisd5983m3.jpg
     caption: Sister Island, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6535m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6535m3.jpg
     caption: Raffles Lighthouse, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/100710sisd8062m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/100710sisd8062m3c.jpg
     caption: Sisters Island, Jul 10 With long tentacles extended.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/150520ecpbslks2m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/150520ecpbslks2m3a.jpg
     caption: East Coast Park Big Splash, May 15 Photo shared by Loh Kok Sheng on his
       blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/2007024pcnlks7.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/2007024pcnlks7.jpg
     caption: East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/090512tmlks18m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/090512tmlks18m3.jpg
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/250714srptccn6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/250714srptccn6.jpg
     caption: Sentosa Serapong, Jul 25 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/110220lazrl1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/110220lazrl1m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/210430sjilks7.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/210430sjilks7.jpg
     caption: St John's Island, Apr 21 Photo shared by Loh Kok Sheng on facbeook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/100519tsmlks2m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/100519tsmlks2m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/100616tsmmn1m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/100616tsmmn1m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Marcus Ng on his flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4373m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4373m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4384m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4384m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4383m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4383m3.jpg
     caption: Bleaching. Pulau Berkas, May 10
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/pectinia/210428slulks9.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/pectinia/210428slulks9.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

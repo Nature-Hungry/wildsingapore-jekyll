@@ -1,6 +1,6 @@
 ---
 title: Sweetlips
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sweetlips on the shores of Singapore
 keywords: sweetlips, fish, haemulidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,14 +17,14 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
     caption: Brown sweetlips
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
     caption: Harlequin sweetlips
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
     caption: Painted sweetlips
 links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\

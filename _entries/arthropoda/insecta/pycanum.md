@@ -1,6 +1,6 @@
 ---
 title: Giant shield bug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Giant shield bug on the shores of Singapore
 keywords: giant, shield, bug, pycanum, rubens, tessaratomidae, insect, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info
@@ -24,14 +24,14 @@ subfamily: Tessaratominae
 tribe: Tessaratomini
 subtribe: Eusthenaria
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040214ubnd0082m3.jpg
+coverimg: https://images.naturehungry.sg/insecta/pycanum/040214ubnd0082m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040214ubnd0082m3.jpg
+  - url: https://images.naturehungry.sg/insecta/pycanum/040214ubnd0082m3.jpg
     caption: Adult on Simpoh air leaf. Pulau Ubin, Feb 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/040207ubnd0027m3.jpg
+  - url: https://images.naturehungry.sg/insecta/pycanum/040207ubnd0027m3.jpg
     caption: Nymph on Simpoh air leaf. Pulau Ubin, Feb 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/pycanum/151223labmn.jpg
+  - url: https://images.naturehungry.sg/insecta/pycanum/151223labmn.jpg
     caption: Labrador, Dec 15 Photo shared by Marcus Ng on flickr.
 links_references: '**Links**
 

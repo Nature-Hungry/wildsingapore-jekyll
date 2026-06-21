@@ -1,6 +1,6 @@
 ---
 title: Cerianthids
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cerianthids on the shores of Singapore
 keywords: peacock, tube, anemone, cerianthid, cerianthus, cerianthidae, ceriantharia,
   anthozoa, cnidaria, phoronis, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,42 +17,41 @@ class: Anthozoa
 subclass: Ceriantharia
 order: Spirularia
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
     caption: An inner ring of shorter tentacles identifies this as a cerianthid. Pulau
       Semakau, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg
     caption: Long body column that slips into an even longer tube. Changi, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/120413cjs06290m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/120413cjs06290m3.jpg
     caption: Chek Jawa, Apr 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/030630chgd0017m3.jpg
+  - url: https://images.naturehungry.sg/worm/phoronida/phoronida/030630chgd0017m3.jpg
     caption: Tiny black Phoronid worms are often seen with cerianthids. Changi, Jun
       03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/110519chgd2139m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/110519chgd2139m3.jpg
     caption: Scorpionfish hiding next to cerianthid. Changi, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/110519chgd2134m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/110519chgd2134m3a.jpg
     caption: 'Laid on a cerianthid tube: eggs? Changi, May 11'
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
     caption: Banded cerianthid
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
     caption: Black-mouth cerianthid
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg
     caption: Common cerianthid
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/elegant/070731chgd4705m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/070731chgd4705m3.jpg
     caption: Elegant cerianthid
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg
     caption: Shy glass cerianthid
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg
     caption: Small-mouth cerianthid
 links_references: '**Links**
 
   - [Snakelock or cerianthid (
-
   *Cerianthus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/122)
@@ -139,8 +138,7 @@ The cerianthid cannot tuck its tentacles inside its body column like true anemon
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
 Cerianthids do not harbour symbiotic algae (zooxanthellae). They feed on plankton and suspended food particles which they gather from the water. Cerianthids have potent stingers that can even be released into the water. These floating stingers can seriously affect creatures such as fishes and corals. (more about stingers on the
-[Cnidria page](../../cnidaria)
-)
+[Cnidria page](../../cnidaria))
 
 **Peacock Babies:**
 They reproduce by releasing eggs and sperm into the water. The larvae are tiny and drift with other plankton before settling down to become a new cerianthid. Cerianthids are also known to reproduce asexually. Some can also reproduce by budding.
@@ -148,10 +146,7 @@ They reproduce by releasing eggs and sperm into the water. The larvae are tiny a
 **Peacock friends:**
 Various animals may live with a cerianthid. Small black feathery fanworm-like creatures called
 [Phoronid worms](../../../worm/phoronida/phoronida)
-may be found near cerianthids. Is it said some small crabs (
-*Lissocarcinus laevis*
-) also live inside the tube with the cerianthid and some shrimps (
-*Periclimenes*
+may be found near cerianthids. Is it said some small crabs (*Lissocarcinus laevis*) also live inside the tube with the cerianthid and some shrimps (*Periclimenes*
 sp.) are associated with the cerianthid.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses

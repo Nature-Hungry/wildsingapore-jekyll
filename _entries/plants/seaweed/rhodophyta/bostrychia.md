@@ -1,6 +1,6 @@
 ---
 title: 'Tiny fern red seaweed '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tiny fern red seaweed  on the shores of Singapore
 keywords: pimply, red, seaweed, weed, algae, bostrychia, rhodomelaceae, rhodophyceae,
   rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -21,14 +21,14 @@ subphylum: Vertebrata
 class: Aves
 order: Pelecaniformes
 updated: Jan 13
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3.jpg
     caption: Labrador, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3a.jpg
     caption: ''
 links_references: '**Links**
 
@@ -107,7 +107,7 @@ According to
 *Bostrychia*
 .
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg)
 
 *Sentosa, Jul 11*
 

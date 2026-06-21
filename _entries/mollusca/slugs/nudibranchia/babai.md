@@ -1,6 +1,6 @@
 ---
 title: 'Big plain armina nudibranch '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Big plain armina nudibranch  on the shores of Singapore
 keywords: armina, babai, arminidae, arminacea nudibranchia, slug, seaslug, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info
@@ -22,21 +22,21 @@ order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
     caption: Changi, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4002m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/babai/060711chgd4002m3.jpg
     caption: Rhinophores.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4001m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/babai/060711chgd4001m3a.jpg
     caption: Shovel-shaped oral veil.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd4005m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/babai/060711chgd4005m3.jpg
     caption: Burrowing . Changi, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd3992m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/babai/060711chgd3992m3.jpg
     caption: 'Underside: gills under the mantle skirt.'
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/babai/060711chgd3992m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/babai/060711chgd3992m3a.jpg
     caption: ''
 links_references: '**Links**
 

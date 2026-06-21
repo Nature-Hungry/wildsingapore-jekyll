@@ -1,6 +1,6 @@
 ---
 title: Blue-spotted mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Blue-spotted mudskipper on the shores of Singapore
 keywords: blue, spotted, mudskipper, mud, skipper, fish, boleophthalmus, boddarti,
   gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -26,27 +26,26 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
     caption: Adult females have elongated spines on the first dorsal fin. Pulau Ubin,
       Apr 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/100124cjd8051m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/boddarti/100124cjd8051m6l.jpg
     caption: Chek Jawa, Jan 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/110828seld0022.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/boddarti/110828seld0022.jpg
     caption: Seletar, Aug 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/061216sbwrmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/boddarti/061216sbwrmn.jpg
     caption: Sungei Buloh Wetland Reserve, Dec 06 Photo shared by Marcus Ng on flickr
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg
     caption: Pasir Ris, Dec 10 Photo shared by Loh Kok Sheng on his blog .
 links_references: '**Links**
 
   - [Blue-spotted mudskipper (
-
   *Boleophthalmus boddarti*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2106)
@@ -58,7 +57,6 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
   - [Blue-spotted mudskipper (
-
   *Boleophthalmus boddarti*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/369)
@@ -82,7 +80,6 @@ links_references: '**Links**
   by Gianluca Polgar: Technical fact sheet with lots of photos.
 
   - [Boddart''s goggle-eyed goby (
-
   *Boleophthalmus boddarti*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4901)

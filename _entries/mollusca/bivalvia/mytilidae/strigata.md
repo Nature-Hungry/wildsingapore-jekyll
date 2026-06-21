@@ -1,6 +1,6 @@
 ---
 title: American mussel
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of American mussel on the shores of Singapore
 keywords: horse, mussel, clam, modiolus, mytilidae, bivalve, mollusc, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info
@@ -23,26 +23,26 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: Oct 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg
     caption: Kranji, Mar 17
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/strigata/180130krjo1300009,jpg.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/strigata/180130krjo1300009,jpg.jpg
     caption: Dead ones. Kranji, Jan 18
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/strigata/180130krjo1300077.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/strigata/180130krjo1300077.jpg
     caption: Dense carpet on the shore Kranji, Jan 18
   gallery3:
   - url: https://live.staticflickr.com/4769/39982930621_8152ba2c57_z.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/strigata/200917swgmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/strigata/200917swgmn1.jpg
     caption: Sembawang, Sep 20 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/strigata/200917swgmn1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/strigata/200917swgmn1a.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/mytilidae/strigata/201020swgvc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/strigata/201020swgvc4.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 

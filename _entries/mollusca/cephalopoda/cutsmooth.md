@@ -1,6 +1,6 @@
 ---
 title: Smooth cuttlefish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth cuttlefish on the shores of Singapore
 keywords: spot, edged, cuttlefish, sepiidae, cephalopod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -19,18 +19,18 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
     caption: Chek Jawa, May 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/110418tmftd9109m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutsmooth/110418tmftd9109m3.jpg
     caption: Tanah Merah, Apr 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/100302ecplks.JPG
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutsmooth/100302ecplks.JPG
     caption: East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/cephalopoda/cutsmooth/120511tpljk2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutsmooth/120511tpljk2m3.jpg
     caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on his blog .
 location:
 - sbw

@@ -1,6 +1,6 @@
 ---
 title: Harlequin sweetlips
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Harlequin sweetlips on the shores of Singapore
 keywords: harlequin, sweetlips, fish, plectorhinchus, chaetodonoides, nigrus, haemulidae,  field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -27,33 +27,32 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Plectorhinchinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
     caption: Pulau Sekudu, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3326m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3326m3.jpg
     caption: Pulau Sekudu, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/071224cjd8146.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/071224cjd8146.jpg
     caption: Seen hiding in an empty shell. Chek Jawa, Dec 07
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/150618tmftlks16m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/150618tmftlks16m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photro shared by Loh Kok Sheng on
       facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/210628ecpBlks6.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/210628ecpBlks6.jpg
     caption: East Coast Park (B), Jun 21 Photro shared by Loh Kok Sheng on facebook
       .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/201117labpn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/201117labpn1.jpg
     caption: Labrador, Nov 20 Photro shared by Parizad Nasheer on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/251207hntlks2.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/251207hntlks2.jpg
     caption: Pulau Hantu, Dec 25 Photro shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/haemulidae/chaetodonoides/111029smkmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111029smkmn.jpg
     caption: Pulau Semakau, Oct 11 Photro shared by Marcus Ng on flickr .
 links_references: '**Links**
 
   - [Clown Sweetlips (
-
   *Plectorhinchus chaetodonoides*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/284)
@@ -65,7 +64,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Harlequin sweetlips (
-
   *Plectorhinchus chaetodonoides*
 
   )](http://www.fishbase.org/summary/Plectorhinchus-chaetodonoides.html)

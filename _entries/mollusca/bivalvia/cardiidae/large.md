@@ -1,6 +1,6 @@
 ---
 title: Large cockle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Large cockle on the shores of Singapore
 keywords: large, cockle, shell, clam, cardiidae bivalve, mollusc, clam, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,46 +21,46 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/091104sntd3548m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/091104sntd3548m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/091104sntd3548m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/091104sntd3548m3.jpg
     caption: Sentosa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg
     caption: Sentosa, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/091104sntd3546m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/091104sntd3546m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/201020swgvc6.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/201020swgvc6.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/201118pglvc6.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/201118pglvc6.jpg
     caption: Punggol, Nov 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/190206prpvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/190206prpvc1.jpg
     caption: Pasir Ris Park, Feb 19 Photo shared by Vincent Choo on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/170626skdlks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/170626skdlks3.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/200626nsrsslks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/200626nsrsslks1.jpg
     caption: East Coast Park, Jun 20 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/211009blylks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/211009blylks6.jpg
     caption: Berlayar Creek, Oct 21 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/110220lazlks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/110220lazlks5m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/110220lazlks6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/110220lazlks6m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/081113jngtch02m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/081113jngtch02m3.jpg
     caption: Pulau Jong, Nov 08 Photo shared by Toh Chay Hoon on her flickr.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/181225kuslks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/181225kuslks2.jpg
     caption: Kusu Island, Dec 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/160820cyrmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/160820cyrmn1.jpg
     caption: Cyrene Reef, Aug 16 Photo shared by Marcus Ng on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/201018smkslks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/201018smkslks6.jpg
     caption: Pulau Semakau South, Oct 20 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/cardiidae/large/210811tryvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/large/210811tryvc1.jpg
     caption: Terumbu Raya, Aug 21 Photo shared by Vincent Choo on facebook .
 location:
 - pgl

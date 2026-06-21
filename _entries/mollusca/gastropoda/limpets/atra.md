@@ -1,6 +1,6 @@
 ---
 title: Flat false limpet
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flat false limpet on the shores of Singapore
 keywords: javan, false, limpet, siphonaria, atra, siphonariidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -32,15 +32,15 @@ order: Siphonariida
 superfamily: Siphonarioidea
 complex: Siphonaria atra
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg
     caption: Pulau Hantu, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/atra/051103sisg2849m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/051103sisg2849m3.jpg
     caption: Underside. Sisters Islands, Sep 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/limpets/atra/160610jngmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/160610jngmn.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Marine isopods
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Marine isopods on the shores of Singapore
 keywords: isopod, crustacea, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -12,33 +12,33 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
     caption: Some unidentified beach isopods swarming over rotting fruit. East Coast,
       Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg
     caption: Sisters Island, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/110123sisd5273m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/110123sisd5273m3.jpg
     caption: Sisters Island, Jan 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/110715cyrd6725m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/110715cyrd6725m3.jpg
     caption: Cyrene Reef, Jul 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/130721cjd9586m6l.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/130721cjd9586m6l.jpg
     caption: Fish isopod. Chek Jawa, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3.jpg
     caption: Chek Jawa, Aug 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/130427tptd5711m6.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/130427tptd5711m6.jpg
     caption: Fish isopod. Terumbu Pempang Tengah, Apr 13
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/121029rmbr1.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/121029rmbr1.jpg
     caption: 12 Oct, photo from Raffles Museum of Biodiversity Research
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg
     caption: Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr .
 links_references: "**Links**\n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
@@ -71,8 +71,7 @@ zone:
 ## Where seen?
 These tiny segmented animals are sometimes seen our shores, often swarming in numbers at low tide over rotting fruit or dead matter. The most commonly seen isopod on the beach are
 [sea slaters](ligia)
-(
-*Ligia*
+(*Ligia*
 sp.) or sometimes called sea cockroaches although they are not insects and look nothing like cockroaches (if you ask me).
 
 **What are isopods?**
@@ -85,8 +84,7 @@ can grow to 40cm long! Many may be parasites on other marine creatures.
 ## Features
 
 1cm or less. Their segmented body is flattened downwards (instead of sideways for amphipods such as
-[amphipods](../amphipoda/amphipoda)
-) with legs that are more or less similar. Isopoda meaning 'same feet' while Amphipoda means 'different feet'. Their eyes are NOT on stalks. Some can give a nasty bite.
+[amphipods](../amphipoda/amphipoda)) with legs that are more or less similar. Isopoda meaning 'same feet' while Amphipoda means 'different feet'. Their eyes are NOT on stalks. Some can give a nasty bite.
 
 **What do they eat?**
 Beach isopods are scavengers, nibbling on whatever recently died on the rocky shore. At low tide, they swarm over the beach looking for the recent dead. Some isopods found in the mangroves nibble holes in dead wood and can cause much damage to wooden man-made structures.

@@ -1,6 +1,6 @@
 ---
 title: Gong-gong or Pearl conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Gong-gong or Pearl conch on the shores of Singapore
 keywords: gong, pearl, spider, conch, strombus, turturella, canarium, strombidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -17,7 +17,7 @@ family: Strombidae
 genus: Strombus
 species: turturella
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
 links_references: '**Links**
 
   - [Dog conch (*Strombus canarium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86874)on
@@ -45,52 +45,52 @@ links_references: '**Links**
   145 pp.'
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
     caption: Kusu Island, Nov 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
     caption: Hopping along Tanah Merah, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/090807tmd8499m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/090807tmd8499m3.jpg
     caption: Highly extendable proboscis. Tanah Merah, Aug 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/120424tmnbd0610m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/120424tmnbd0610m6l.jpg
     caption: Mating and laying egg string. Tanah Merah, Apr 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3b.jpg
     caption: Egg string. Tanah Merah, Jul 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/080702prpd6396m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/080702prpd6396m3.jpg
     caption: A young snail with a thin shell that hasn't fully developed a flared
       portion yet. Pasir Ris Park, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/140812chg4d8590m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/140812chg4d8590m3.jpg
     caption: Harvesting Gong-gong, dragging box behind. Changi, Aug 14
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/140812chg4d8600.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/140812chg4d8600.jpg
     caption: Gong-gong in the box dragged behind. Changi, Aug 14
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/151127cnylks3.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/151127cnylks3.JPG
     caption: Coney Island, Nov 15 Photo shared by Loh Kok Sheng on flickr .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/081214ecmlks05m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/081214ecmlks05m3.jpg
     caption: East Coast, Dec 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/090819ecpmn1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/090819ecpmn1m3.jpg
     caption: East Coast, Dec 08 Photo shared by Marcus Ng on his flick .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/171108ecpmblks13.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/171108ecpmblks13.jpg
     caption: East Coast-Marina Bay, Nov 17 Photo shared by Loh Kok Sheng on facebook
       .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/251108ecpblks13.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/251108ecpblks13.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/151001blylks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/151001blylks3m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/160208smksjll1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/160208smksjll1.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Jianlin Liu on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/151225tsmkmn5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/151225tsmkmn5m3.jpg
     caption: Terumbu Semakau, Dec 15 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/110517tptlks13m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/110517tptlks13m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/canarium/100810snglks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
 location:
 - prp

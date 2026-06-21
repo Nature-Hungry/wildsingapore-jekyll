@@ -1,6 +1,6 @@
 ---
 title: 'Rhu '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rhu  on the shores of Singapore
 keywords: rhu, casuarina, equisetifolia, casuarinaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,19 +21,19 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Fagales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8048m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090314smkd8048m3.jpg
     caption: Young fruit. Pulau Semakau, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8048m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090314smkd8048m3a.jpg
     caption: Female flowers. Pulau Semakau, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8060m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090314smkd8060m3.jpg
     caption: Male flowers. Pulau Semakau, Mar 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8040m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090314smkd8040m3.jpg
     caption: Pulau Semakau, Mar 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8056m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090314smkd8056m3.jpg
     caption: Fallen fruit, split open to release seeds. Pulau Semakau, Mar 09
 links_references: '**Links**
 
@@ -116,8 +116,7 @@ At first sight mistaken for a conifer (a non-flowering plant), this tree is actu
 The most common species is
 *Casuarina equisetifolia*
 (which some say should be called
-*C. littorea*
-) which has narrow, unbranched needle twigs, while the other species have branched or thicker twigs.
+*C. littorea*) which has narrow, unbranched needle twigs, while the other species have branched or thicker twigs.
 
 ## Features
 
@@ -131,16 +130,16 @@ The flowers are tiny and wind pollinated. Male and female flowers usually grow o
 
 According to Burkill, the tree was planted where it was desired to allow the soil to dry, as well as to check erosion and to fix drifting sand. It was also planted in India as firewood. Some consider it the best firewood as it will burn even when green. The timber is stronger than teak but splits much. It is sometimes used for beams and rafters, as well as for masts and other heavy duty uses. The bark is used to treat dysentery and diarrhoea, the twigs to treat swellings. According to Giersen, the heavy hard timber makes excellent firewood and charcoal and is sometimes used as beams. The bark yields a resin that is useful for tanning.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg)
 
 *Pulau Semakau, Mar 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090809sjid8818m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090809sjid8818m3.jpg)
 
 Growing on rocky shore.
 
 St. John's Island, Aug 09*
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/casuarina/equisetifolia/090314smkd8041m3a.jpg)
+*![](https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090314smkd8041m3a.jpg)
 
 True leaves reduced to tiny scales.
 

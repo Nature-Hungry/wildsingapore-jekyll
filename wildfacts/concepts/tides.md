@@ -112,9 +112,9 @@ sloping shore means there is a narrower intertidal zone which is
 not exposed for long during low tide.   
   
 It's thus important to [go
-with experienced people and with shore guides](http://www.wildsingapore.com/places/shorefaq#guides). You will be safer,
+with experienced people and with shore guides](https://images.naturehungry.sg/places/shorefaq#guides). You will be safer,
 and also see and learn more about our shores. Here's [more
-about preparing to visit our shores](http://www.wildsingapore.com/places/shoretips).  
+about preparing to visit our shores](https://images.naturehungry.sg/places/shoretips).  
   
 **Other things to note about our tides:** In Singapore, spring tides usually occur over a few days twice a
 month and usually for only a few hours each time. The low spring
@@ -140,7 +140,7 @@ turtles](../vertebrates/reptilia/seaturtle), fishes and more. See the [Adventure
 with the Naked Hermit Crabs](http://nakedhermitcrab.blogspot.com/) blog for some sightings during their
 free Chek Jawa boardwalk tour which is conducted at any tide. Here
 more [FAQs
-about visiting our shores](http://www.wildsingapore.com/places/shorefaq).
+about visiting our shores](https://images.naturehungry.sg/places/shorefaq).
 
 ---
 

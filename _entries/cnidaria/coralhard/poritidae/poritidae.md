@@ -1,6 +1,6 @@
 ---
 title: 'Poritid corals '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Poritid corals  on the shores of Singapore
 keywords: pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -17,17 +17,17 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
     caption: Boulder pore coral
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg
     caption: Branching pore coral
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
     caption: Anemone corals
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3.jpg
     caption: Small goniopora corals
 links_references: '**Links**
 
@@ -103,12 +103,10 @@ This family includes some of the most commonly seen hard corals on our Southern 
 
 The Family Poritidae include members with widely varying characteristics.
 [Pore corals](porites)
-(
-*Porites*
+(*Porites*
 sp.) have among the smallest polyps, while some
 [Goniopora corals](goniopora)
-(
-*Goniopora*
+(*Goniopora*
 sp.) have polyps that are so large and long that they may be mistaken for sea anemones. The family is considered the third largest contributor to reef formation, especially Pore corals. Pore corals form large, long-lived colonies, while Goniopora corals are opportunistic and are among those that settle early in new areas.
 
 *Alveopora*

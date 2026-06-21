@@ -1,6 +1,6 @@
 ---
 title: 'Crab-eating frog '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Crab-eating frog  on the shores of Singapore
 keywords: crab, eating, frog, fejervarya, rana, crancrivora, amphibian, vertebrate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -10,14 +10,14 @@ genus: Fejervarya
 species: crancrivora
 attributes: []
 updated: Dec 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg
     caption: Pasir Ris Park, Mar 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/crancrivora/251200admrqo4.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/crancrivora/251200admrqo4.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/reptilia/crancrivora/251231prprqo7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/reptilia/crancrivora/251231prprqo7.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Flat-spire nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Flat-spire nerite snail on the shores of Singapore
 keywords: flatspire, flat, spire, nerita, nerite, ilynerita, planospira, neritidae,
   gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
@@ -19,17 +19,16 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg
     caption: Lim Chu Kang, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
     caption: Lim Chu Kang, Aug 05
 links_references: '**Links**
 
   - [Flatspired nerite (
-
   *Nerita planospira*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86838)
@@ -37,7 +36,6 @@ links_references: '**Links**
   on SeaBase Life: Technical fact sheet.
 
   - Flatspired nerite (
-
   *Nerita planospira*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
@@ -98,8 +96,7 @@ appears to be located in the mangroves of Pulau Ubin.
 
 ## Features
 
-About 2cm. Shell thick heavy, hemispherical with a sunken spire. Rough thick cords on the shell, the earlier whorls of the shell is flattened thus giving its common name (
-*Planus*
+About 2cm. Shell thick heavy, hemispherical with a sunken spire. Rough thick cords on the shell, the earlier whorls of the shell is flattened thus giving its common name (*Planus*
 means 'flat',
 *spira*
 refer to 'spiral'). It has a thin, brown 'skin' (periostracum) which covers a pink shell with dark bands and patches.

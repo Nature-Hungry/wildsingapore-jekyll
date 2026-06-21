@@ -1,6 +1,6 @@
 ---
 title: Quoy's halfbeak
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Quoy's halfbeak on the shores of Singapore
 keywords: quoy, short, nose, halfbeak, half, beak, hemiramphidae, hyporhamphus, quoyi,
   fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -23,27 +23,26 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg
     caption: Tanah Merah, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m6l.jpg
     caption: Sisters Island, Dec 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/160608cyrmn1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/shortnose/160608cyrmn1.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/090607tmjk.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/shortnose/090607tmjk.jpg
     caption: Tanah Merah, Jun 09 Photo shared by James Koh on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/100709tmmn.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/shortnose/100709tmmn.jpg
     caption: Tanah Merah, Jul 10 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/hemiramphidae/shortnose/111029smkjp3m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/shortnose/111029smkjp3m3.jpg
     caption: Pulau Semakau, Oct 11 Photo shared by Jerome Pang on facebook .
 links_references: '**Links**
 
   - [Quoy''s halfbeak (
-
   *Hyporhamphus quoyi*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/239)
@@ -55,7 +54,6 @@ links_references: '**Links**
   . Singapore Science Centre. 163 pp.
 
   - [Quoy''s garfish (
-
   *Hyporhamphus quoyi*
 
   )](http://fishbase.org.cn/summary/SpeciesSummary.php?id=8262)

@@ -1,6 +1,6 @@
 ---
 title: 10-armed feather star
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of 10-armed feather star on the shores of Singapore
 keywords: purple, feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -16,54 +16,54 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg
     caption: Chek Jawa, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/050526cjg6844m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050526cjg6844m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/050623cjg8330m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050623cjg8330m3a.jpg
     caption: Bulbous oral disk surrounded by pinnules.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/050526cjg6844m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050526cjg6844m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/050819cjg1546m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050819cjg1546m3.jpg
     caption: Clinging onto a sponge with the cirri.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/050623cjg8330m3c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/050623cjg8330m3c.jpg
     caption: The pinnules near the oral disk have combs on their tips to help clean
       the oral disk.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/160605chglks1.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/160605chglks1.JPG
     caption: Changi, Jun 16
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/160605chglks1a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/160605chglks1a.jpg
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/160605chglks2.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/160605chglks2.JPG
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/200722chgvc2a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/200722chgvc2a.jpg
     caption: Changi, Jul 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/210527chg1tch4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/210527chg1tch4.jpg
     caption: Changi, May 21 Photo shared by Toh Chay Hoon on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/201118nsrcssjk4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/201118nsrcssjk4.jpg
     caption: East Coast NSRCC, Nov 20 Photo shared by James Koh on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/200704nsrccvc1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/200704nsrccvc1.jpg
     caption: East Coast Park PCN, Jul 20 Photo shared by Vincent Choo on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/080507ecplks01m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/080507ecplks01m3.jpg
     caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/151225tsmklks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/151225tsmklks.JPG
     caption: Terumbu Semakau, May 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/190520hntlks5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/190520hntlks5.jpg
     caption: Pulau Hantu, May 19 Photo shared by Loh Kok Sheng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/110814smklks1.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/110814smklks1.JPG
     caption: Pulau Semakau, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/110814smklks2.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/110814smklks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/crinoidea/purpurea/110814smklks3.JPG
+  - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/110814smklks3.JPG
     caption: ''
 links_references: '**Links**
 

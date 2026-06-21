@@ -1,6 +1,6 @@
 ---
 title: White snapping shrimp
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of White snapping shrimp on the shores of Singapore
 keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -25,24 +25,24 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg
     caption: Tuas, Dec 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/080705bbd7036m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/080705bbd7036m3.jpg
     caption: Beting Bronok, Jul 08
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/080705bbd6935m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/080705bbd6935m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/080705bbd6936m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/080705bbd6936m3.jpg
     caption: Beting Bronok, Jul 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: Beting Bronok, May 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/110519chglks4m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/110519chglks4m3.jpg
     caption: Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/shrimp/alphballsoft/220716bblks4.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/220716bblks4.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Loh Kok Sheng on facebook .
 location:
 - chg

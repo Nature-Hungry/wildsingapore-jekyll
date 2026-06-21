@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Smooth brown sponge on the shores of Singapore
 keywords: smooth, blue, sponge, neopetrosia, exigua, petrosiidae, porifera, field,
 layout: entry
 shape: encrusting
@@ -16,31 +16,31 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/060501labd1704m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/smoothbrown/060501labd1704m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/060501labd1704m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/060501labd1704m3.jpg
     caption: Labrador, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/060501labd1704m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/060501labd1704m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/060501labd1704m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/060501labd1704m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/100502tryd2267m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/100502tryd2267m3.jpg
     caption: Terumbu Raya, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/100130brkd8584m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/100130brkd8584m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/070322cyrd9184m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/070322cyrd9184m3.jpg
     caption: Cyrene Reef, Mar 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/100531biod4508m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/100531biod4508m3.jpg
     caption: Pulau Biola, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/100131slud8867m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/100131slud8867m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/100613sngd5627m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/100613sngd5627m3.jpg
     caption: Pulau Senang, Jun 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/smoothbrown/100530tbkd4320m3.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothbrown/100530tbkd4320m3.jpg
     caption: Pulau Berkas, May 10
 links_references: '**Links**
 
@@ -95,11 +95,9 @@ Thin layer encrusting small areas 10-20cm sometimes larger. Often with irregular
 
 **May be confused with**
 [Blue icing sponges](smoothblue)
-(
-*Lendenfeldia*
+(*Lendenfeldia*
 cf.
-*chondrodes*
-) which look similar but are blue, green or lilac. Also similar to
+*chondrodes*) which look similar but are blue, green or lilac. Also similar to
 [Smooth green sponge](smoothgreen)
 which is not as smooth has has a texture of tiny bumps.
 ## Human uses

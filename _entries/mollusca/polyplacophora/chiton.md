@@ -1,7 +1,8 @@
 ---
 title: Chitons
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: chiton, polyplacophora, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: Fact sheet of Chitons on the shores of Singapore
+keywords: chiton, polyplacophora, mollusc, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pinnidae
 genus: ''
@@ -17,7 +18,7 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pinnoidea
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - Although they have segmented shells, they are molluscs and not crustaceans.
@@ -25,84 +26,97 @@ trivia_items:
 - They cling on tenaciously. Don't try to pry them off. Leave them alone!
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
     caption: Changi, Jan 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6156m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/120125chgd6156m3.jpg
     caption: Underside.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6156.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/120125chgd6156.jpg
     caption: Mouth.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6156m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/120125chgd6156m3b.jpg
     caption: Gills on the side of the body.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120125chgd6151m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/120125chgd6151m3.jpg
     caption: It can curl up.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg
     caption: The Jewelled chiton is enormous. St. John's Island, Sep 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/190123lazm6l.jpg
-    caption: A large and small one found on artificial seawall. Seringat-Kias, Jan 19
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/190123lazm6l.jpg
+    caption: A large and small one found on artificial seawall. Seringat-Kias, Jan
+      19
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/091203ubnlks2m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/091203ubnlks2m3.jpg
     caption: Pulau Ubin, Dec 09 Photo shared by Loh Kok Sheng on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/191214cjfl1.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/191214cjfl1.jpg
     caption: Chek Jawa, Dec 19 Photo shared by Frances Loke on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/150619tuslks4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/150619tuslks4m3.jpg
     caption: Tuas, Jun 15 Photo shared by Loh Kok Sheng on facebook.
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/100302ecpjk.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/100302ecpjk.jpg
     caption: East Coast Park, Mar 10 Photo shared by James Koh on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/090706tmjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/090706tmjk1m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by James Koh on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/080603tmtch.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/080603tmtch.jpg
     caption: Tanah Merah, Jun 08 Photo shared by Toh Chay Hoon on flickr.
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/200210blyjll2.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/200210blyjll2.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Jianlin Liu on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/200210blylks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/200210blylks2.jpg
     caption: Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook.
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/100302tmlks1m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/100302tmlks1m6l.jpg
     caption: East Coast Park, Mar 10 Shared by Loh Kok Sheng on his flickr.
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/130501sntlks.JPG
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/130501sntlks.JPG
     caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/210625kusjll6.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/210625kusjll6.jpg
     caption: Kusu Island, Jun 21 Photo shared by Jianlin Liu on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/170212bsisjll.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/170212bsisjll.jpg
     caption: Big Sisters Island, Feb 17 Photo shared by Jianlin Liu on facebook.
   gallery9:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/100528tkklks7m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/100528tkklks7m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by Loh Kok Sheng on his blog.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/150718smkelks9m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/150718smkelks9m3.jpg
     caption: Pulau Semakau East, Jul 15 Photo shared by Loh Kok Sheng on facebook.
   gallery10:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/170628jngmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/170628jngmn.jpg
     caption: Pulau Jong, Jun 12 Photo shared by Marcus Ng on flickr.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/120707jnglks.JPG
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/120707jnglks.JPG
     caption: Pulau Jong, Jul 12 Photo shared by Loh Kok Sheng on flickr.
   gallery11:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/200823cyrvc1.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/200823cyrvc1.jpg
     caption: Cyrene Reef, Aug 20 Photo shared by Vincent Choo on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/polyplacophora/chiton/161117rlhlks2.jpg
+  - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/161117rlhlks2.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook.
 links_references: '**Links**
 
-  - [Polyplacophora](http://animaldiversity.ummz.umich.edu/site/accounts/information/Polyplacophora.html) on the [Animal Diversity Web](http://animaldiversity.ummz.umich.edu/site/index.html) on the University of Michigan Museum of Zoology website: information, pictures, specimens and classification.
+  - [Polyplacophora](http://animaldiversity.ummz.umich.edu/site/accounts/information/Polyplacophora.html)
+  on the [Animal Diversity Web](http://animaldiversity.ummz.umich.edu/site/index.html)
+  on the University of Michigan Museum of Zoology website: information, pictures,
+  specimens and classification.
 
-  - [Polyplacophora](http://www.seaslugforum.net/factsheet.cfm?base=chitons) on [The Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman
+  - [Polyplacophora](http://www.seaslugforum.net/factsheet.cfm?base=chitons) on [The
+  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman
 
 
   **References**
 
-  - Tan, S. K. & H. P. M. Woo, 2010. *A preliminary checklist of the molluscs of Singapore*. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore 78 pp.
+  - Tan, S. K. & H. P. M. Woo, 2010. *A preliminary checklist of the molluscs of Singapore*.
+  Lee Kong Chian Natural History Museum, National University of Singapore, Singapore
+  78 pp.
 
-  - Tan, K. S. & L. M. Chou, 2000. *A Guide to the Common Seashells of Singapore*. Singapore Science Centre. 160 pp.
+  - Tan, K. S. & L. M. Chou, 2000. *A Guide to the Common Seashells of Singapore*.
+  Singapore Science Centre. 160 pp.
 
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285 pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data
+  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
+  pp.
 
-  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates* Sea Challengers. 314pp.
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates* Sea Challengers. 314pp.
 
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate Zoology* Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate Zoology*
+  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
 
   '
 location:

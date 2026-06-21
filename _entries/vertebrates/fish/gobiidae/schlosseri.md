@@ -1,6 +1,6 @@
 ---
 title: Giant mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Giant mudskipper on the shores of Singapore
 keywords: giant, mudskipper, mud, skipper, fish, periophthalmodon, schlosseri, gobiidae,
   goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,28 +26,28 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg
     caption: 'Night pattern: additional dark bars. Pasir Risk Park, Dec 12'
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m6l.jpg
     caption: 'Day pattern: dark stripe along the body. Pasir Ris Park, Feb 12'
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg
     caption: A tunnel at the base of the 'swimming pool'. Sungei Buloh Wetland Reserve,
       Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6810m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6810m3.jpg
     caption: Swirling at the base of the pool face down. Sungei Buloh Wetland Reserve,
       Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6815m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6815m3.jpg
     caption: Then spitting out a mouthful of mud.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3.jpg
     caption: Pasir Ris Park, Feb 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3a.jpg
     caption: The poor fish often a target of mosquitoes!
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3b.jpg
     caption: ''
 links_references: "**Links**\n- [Giant mudskipper (\n*Periophthalmodon schlosseri*\n\
   )](http://mangrove.nus.edu.sg/guidebooks/text/2106)\nNg, Peter K. L. & N. Sivasothi,\
@@ -118,8 +118,7 @@ An aggressive hunter, it eats crabs (one study found it prefers crabs) as well a
 [One study found](http://www.kmae-journal.org/articles/kmae/pdf/2012/02/kmae110093.pdf)
 that it eats mostly
 [fiddler crabs](..//wildfacts/guides/crustacea/crustacea/crab/ocypodoidea/uca)
-, Medaka fish (
-*Oryzias*
+, Medaka fish (*Oryzias*
 sp.) and juvenile fishes.
 
 In turn, the fish is preyed upon by the

@@ -1,6 +1,6 @@
 ---
 title: Chunky drills
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Chunky drills on the shores of Singapore
 keywords: thais, drill, muricidae, gastropod, mollusc, snail, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -26,30 +26,30 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Rapaninae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/070201tusg7332m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/070201tusg7332m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/070201tusg7332m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/070201tusg7332m3.jpg
     caption: Tuas, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/070506sjig9279m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/070506sjig9279m3.jpg
     caption: St. John's Island, May 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/070812sisd5384m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/070812sisd5384m3.jpg
     caption: Sisters Island, Aug 07 Pulau Ubin, Dec 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/080412cjd1331m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/080412cjd1331m3.jpg
     caption: Chek Jawa, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/080412cjd1331m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/080412cjd1331m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/080412cjd1331m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/080412cjd1331m3b.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/200710mevc9.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/200710mevc9.jpg
     caption: East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/201215bsrpvc8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/201215bsrpvc8.jpg
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/muricidae/chunky/160625tkkis2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chunky/160625tkkis2.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Ian Siah on facebook .
 location:
 - pgl

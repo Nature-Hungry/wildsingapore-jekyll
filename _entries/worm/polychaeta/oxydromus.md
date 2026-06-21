@@ -1,6 +1,6 @@
 ---
 title: Urchin-mouth worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Urchin-mouth worm on the shores of Singapore
 keywords: bristle, worm, oxydromus, angustifrons, hesionidae, bristleworm, polychaete,
   annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -10,22 +10,22 @@ genus: Oxydromus
 species: cf.
 attributes: []
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
     caption: In a White salmacis sea urchin. Changi, Oct 10 .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/040618chgg0672m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/040618chgg0672m3a.jpg
     caption: In a Black sea urchin. Changi, Jun 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/urchinmouth/101223pgllks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/urchinmouth/101223pgllks.JPG
     caption: Punggol, Dec 10 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/urchinmouth/090514prplks.JPG
+  - url: https://images.naturehungry.sg/worm/polychaeta/urchinmouth/090514prplks.JPG
     caption: Pasir Ris Park, May 09 Photo shared by Loh Kok Sheng on flickr .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/temnopleurus/251205cjky2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/251205cjky2.jpg
     caption: Chek Jawa, Dec 25 Photo shared by Kelvin Yong on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/salmacis/110830cyrjk6m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/110830cyrjk6m3.jpg
     caption: . Cyrene Reef, Aug 11 Photo shared by James Koh on his blog
 links_references: '**Links**
 

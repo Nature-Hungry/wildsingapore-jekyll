@@ -1,6 +1,6 @@
 ---
 title: Candystripe cardinalfish
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Candystripe cardinalfish on the shores of Singapore
 keywords: candy, stripe,cardinalfish, cardinal, fish, ostorhinchus, apogon, endekataenia,
   apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -24,17 +24,17 @@ order: Gobiiformes
 suborder: Apogonoidei
 subfamily: Apogoninae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
     caption: Tanah Merah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/candystripe/110831tmnbd0570m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/110831tmnbd0570m6l.jpg
     caption: Tanah Merah, Aug 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m6l.jpg
     caption: Pulau Tekukor, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/apogonidae/candystripe/120424tmnbd0485m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/120424tmnbd0485m3.jpg
     caption: Tanah Merah, Apr 12
 links_references: '**Links**
 

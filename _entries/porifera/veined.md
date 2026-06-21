@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+description: Fact sheet of Veined sponge on the shores of Singapore
 keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: encrusting
@@ -9,17 +9,17 @@ genus: Clathria
 species: cf.
 attributes: []
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/110812chgd8798m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/veined/110812chgd8798m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/110812chgd8798m3.jpg
+  - url: https://images.naturehungry.sg/porifera/veined/110812chgd8798m3.jpg
     caption: Changi, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/110812chgd8798m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/veined/110812chgd8798m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/130501sntlks.JPG
+  - url: https://images.naturehungry.sg/porifera/veined/130501sntlks.JPG
     caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/veined/101205blylks1.jpg
+  - url: https://images.naturehungry.sg/porifera/veined/101205blylks1.jpg
     caption: Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

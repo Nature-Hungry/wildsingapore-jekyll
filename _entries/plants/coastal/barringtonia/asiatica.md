@@ -1,6 +1,6 @@
 ---
 title: 'Putat laut '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Putat laut  on the shores of Singapore
 keywords: poison, barringtonia, asiatica, lecythidaceae, plant, tree, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -21,18 +21,18 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
     caption: Bark pinkish grey.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/070803cjd5053m3b.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/070803cjd5053m3b.jpg
     caption: Young leaves pinkish.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/020120sbwrcp5221m6.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/020120sbwrcp5221m6.jpg
     caption: Sungei Buloh Wetland Reserve, Jan 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/030910sbwrad0078m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/030910sbwrad0078m3.jpg
     caption: Showy pom-pom shaped flower.
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/barringtonia/asiatica/090410ubnd9435m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/090410ubnd9435m3.jpg
     caption: Squarish fruits that resemble lanterns.
 links_references: '**Links**
 

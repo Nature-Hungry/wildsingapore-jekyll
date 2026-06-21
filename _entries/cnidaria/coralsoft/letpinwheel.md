@@ -1,6 +1,6 @@
 ---
 title: Pinwheel leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Pinwheel leathery soft coral on the shores of Singapore
 keywords: lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,41 +17,41 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
     caption: Pulau Hantu, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/181223tplm3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/181223tplm3.jpg
     caption: Often resembles a pinwheel. Terumbu Pempang Laut, Dec 18
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/040705sisd2235m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/040705sisd2235m3.jpg
     caption: Upper disk and base diameter usually about the same diameter. Sisters
       Island, Jul 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/050808sntg0877m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050808sntg0877m3.jpg
     caption: Sentosa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/050808sntg0866m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050808sntg0866m3a.jpg
     caption: Sentosa, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/050808sntg0878m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050808sntg0878m3a.jpg
     caption: Sentosa, Aug 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/091231biod6944m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/091231biod6944m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/091204pawd5280m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/091204pawd5280m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/100131slud8764m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/100131slud8764m3.jpg
     caption: Terumbu Salu, Jan 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/100130brkd8571m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/100130brkd8571m3.jpg
     caption: Terumbu Berkas, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/100811slud0067m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/100811slud0067m3.jpg
     caption: Pulau Salu, Aug 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/100530tbkd4219m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/100530tbkd4219m3.jpg
     caption: Pulau Berkas, May 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/100601slud4727m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/100601slud4727m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letpinwheel/100530tbkd4207m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/100530tbkd4207m3a.jpg
     caption: Bleaching. Pulau Berkas, May 10
 links_references: '**Links**
 

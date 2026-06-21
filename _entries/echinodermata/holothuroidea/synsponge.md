@@ -1,6 +1,6 @@
 ---
 title: Sponge synaptid sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sponge synaptid sea cucumber on the shores of Singapore
 keywords: synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -25,46 +25,46 @@ class: Holothuroidea
 subclass: Paractinopoda
 order: Apodida
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/150704cjd6990m6l.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/150704cjd6990m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/150704cjd6990m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/150704cjd6990m6l.jpg
     caption: Chek Jawa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/150704cjd6990m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/150704cjd6990m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg
     caption: Chek Jawa, Jul 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/040506cjd0030m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/040506cjd0030m3a.jpg
     caption: Chek Jawa, May 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/070324cyrd9329m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/070324cyrd9329m3.jpg
     caption: Sometimes long with large bumps. Cyrene Reef, Mar 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/070324cyrd9329m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/070324cyrd9329m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/070324cyrd9329m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/070324cyrd9329m3b.jpg
     caption: Uniform colour, no obvious stripes between bumps.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/201118pglvc5.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/201118pglvc5.jpg
     caption: Punggol, Nov 20 Shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/210529ecpblks4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/210529ecpblks4.jpg
     caption: East Coast Park, May 21 Shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/210401sntrk2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/210401sntrk2.jpg
     caption: Sentosa Tg Rimau, Apr 21 Shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/201116lazvc6.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/201116lazvc6.jpg
     caption: Lazarus Island, Nov 20 Shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/240309tkrrk1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/240309tkrrk1.jpg
     caption: Pulau Tekukor, Mar 24 Shared by Richard Kuah on facebook .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/210429hntvc10.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/210429hntvc10.jpg
     caption: Pulau Hantu, Apr 21 Shared by Vincent Choo on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/151225tsmkjtm3m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/151225tsmkjtm3m3.jpg
     caption: Terumbu Semakau, Dec 15 Shared by Juria Toramae on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/synsponge/250403smksrk1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synsponge/250403smksrk1.jpg
     caption: Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on facebook
       .
 location:

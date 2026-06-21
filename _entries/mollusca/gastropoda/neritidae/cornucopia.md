@@ -1,6 +1,6 @@
 ---
 title: Black-mouth nerite snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-mouth nerite snail on the shores of Singapore
 keywords: dostia, neritina, cornucopia, nerite, neritidae, gastropod, mollusc, snail,
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -19,24 +19,23 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/cornucopia/090612pndd4046m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/cornucopia/090612pndd4046m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/cornucopia/090612pndd4046m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/cornucopia/090612pndd4046m3.jpg
     caption: Top view. Sungei Pandan, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg
     caption: Underside. Sungei Pandan, Jun 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/cornucopia/110329mndd8253m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/cornucopia/110329mndd8253m3.jpg
     caption: Side view. Mandai, Mar 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/cornucopia/251228spgrqo4a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/cornucopia/251228spgrqo4a.jpg
     caption: Sg Pang Sua, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/neritidae/cornucopia/251231prprqo4a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/cornucopia/251231prprqo4a.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 
   - [Violet nerite (
-
   *Dostia violacea*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2079)

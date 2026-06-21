@@ -1,6 +1,6 @@
 ---
 title: Jambu air laut
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Jambu air laut on the shores of Singapore
 keywords: sea, apple, syzygium, grande, myrtaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -23,19 +23,19 @@ order: Myrtales
 subfamily: Myrtoideae
 tribe: Syzygieae
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/grande/091005cjd2200m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/syzygium/grande/091005cjd2200m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/grande/091005cjd2194m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/grande/091005cjd2194m3.jpg
     caption: Chek Jawa, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/grande/100314cjd9990m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/grande/100314cjd9990m3.jpg
     caption: Chek Jawa, Mar 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/grande/100314cjd9992m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/grande/100314cjd9992m3.jpg
     caption: Chek Jawa, Mar 10
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/grande/110421jngd9564m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/grande/110421jngd9564m6l.jpg
     caption: Pulau Jong, Apr 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/grande/110421jngd9568m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/syzygium/grande/110421jngd9568m6l.jpg
     caption: Pulau Jong, Apr 11
 links_references: '**Links**
 
@@ -127,11 +127,11 @@ There is one Sea apple with
 [Heritage Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=96&Itemid=79)
 . It is found at Sentosa (Fort Siloso) with a girth of 5.6m and height of 29m.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/grande/091005cjd2200m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/syzygium/grande/091005cjd2200m6l.jpg)
 
 *Chek Jawa, Oct 09
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/syzygium/grande/091005cjd2196m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/syzygium/grande/091005cjd2196m3.jpg)
 
 Chek Jawa, Oct 09*
 

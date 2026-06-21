@@ -1,6 +1,6 @@
 ---
 title: 'Bintangor bunut '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bintangor bunut  on the shores of Singapore
 keywords: bintangor, bunut, calophyllum, soulattri, clusiaceae, plant, tree, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -17,12 +17,12 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Nov 2010
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/soulattri/091005cjd2190m3a.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/calophyllum/soulattri/091005cjd2190m3a.jpg
     caption: Chek Jawa, Oct 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/soulattri/091005cjd2183m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/calophyllum/soulattri/091005cjd2183m3.jpg
     caption: Chek Jawa, Oct 09
 links_references: '**Links**
 
@@ -66,9 +66,7 @@ Several of these trees are planted at Chek Jawa, Pulau Ubin. According to Hsuan 
 
 A small tree that looks very much like a
 [Penaga laut](inophyllum)
-(
-*Calophyllum inophyllum*
-) but the leaves are narrower. The flowers and fruits look similar too.
+(*Calophyllum inophyllum*) but the leaves are narrower. The flowers and fruits look similar too.
 
 ## Human uses
 
@@ -77,7 +75,7 @@ According to Burkill, the timber was considered the best of the Calophyllum spec
 **Status and threats:**
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg)
+![](https://images.naturehungry.sg/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg)
 
 Planted.
 *Chek Jawa, Aug 09*

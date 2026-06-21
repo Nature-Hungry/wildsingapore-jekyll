@@ -1,6 +1,6 @@
 ---
 title: Mangrove shield bugs
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Mangrove shield bugs on the shores of Singapore
 keywords: mangrove, shield, bug, calliphara, nobilis, pentatomidae, insect, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info
@@ -23,20 +23,20 @@ superfamily: Pentatomoidea
 subfamily: Scutellerinae
 tribe: Scutellerini
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/030823sbwrcd0018m3.jpg
+coverimg: https://images.naturehungry.sg/insecta/calliphara/030823sbwrcd0018m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/030823sbwrcd0018m3.jpg
+  - url: https://images.naturehungry.sg/insecta/calliphara/030823sbwrcd0018m3.jpg
     caption: Adult. Sungei Buloh Wetland Reserve, Aug 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/040110sbwrd0045m3.jpg
+  - url: https://images.naturehungry.sg/insecta/calliphara/040110sbwrd0045m3.jpg
     caption: Juvenile. Sungei Buloh Wetland Reserve, Jan 04
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/030531sbwrd0020m3.jpg
+  - url: https://images.naturehungry.sg/insecta/calliphara/030531sbwrd0020m3.jpg
     caption: A group of adults. Sungei Buloh Wetland Reserve, May 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/040108ubnd0013m3a.jpg
+  - url: https://images.naturehungry.sg/insecta/calliphara/040108ubnd0013m3a.jpg
     caption: Juveniles on Buta buta fruits. Pulau Ubin, Jan 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/insecta/calliphara/251231prprqo5.jpg
+  - url: https://images.naturehungry.sg/insecta/calliphara/251231prprqo5.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
 links_references: '**Links**
 
@@ -68,9 +68,7 @@ This colourful insect is sometimes seen in numbers in our mangroves.
 
 Adults about 1-1.5cm long. The larvae are only found on
 [Buta buta trees](../plants/mangrove/excoecaria/excoecaria)
-(
-*Excoecaria algallocha*
-), where they feed on the developing seeds. But the adults may be found in groups under large leaves of any mangrove plant.
+(*Excoecaria algallocha*), where they feed on the developing seeds. But the adults may be found in groups under large leaves of any mangrove plant.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

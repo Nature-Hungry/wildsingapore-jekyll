@@ -1,6 +1,6 @@
 ---
 title: Phidiana nudibranch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Phidiana nudibranch on the shores of Singapore
 keywords: phidiana, militaris, aeolid, glaucidae, facelinidae, aeolidina, nudibranchia,
   slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -22,21 +22,21 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Aeolidioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg
     caption: Changi, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/050429chgg5462m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/phidiana/050429chgg5462m6l.jpg
     caption: Changi, Apr 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/170626skdtch4.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/phidiana/170626skdtch4.jpg
     caption: Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/250201bsislks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/phidiana/250201bsislks3.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/nudibranchia/phidiana/210213bsistch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/phidiana/210213bsistch1.jpg
     caption: Big Sisters Island, Feb 21 Photo shared by Toh Chay Hoon on facebook
       .
 links_references: '**Links**

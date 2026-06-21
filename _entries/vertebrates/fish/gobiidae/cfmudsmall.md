@@ -1,6 +1,6 @@
 ---
 title: 'Small mudskippers '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Small mudskippers  on the shores of Singapore
 keywords: small, mudskipper, gobiidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
@@ -18,35 +18,35 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/090114labd5309m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gracilis/090114labd5309m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/090114labd5309m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gracilis/090114labd5309m3a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3b.jpg
     caption: ''
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

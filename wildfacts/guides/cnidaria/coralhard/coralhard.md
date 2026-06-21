@@ -7,7 +7,7 @@ layout: default
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../../index.html)  
 [wild shores of singapore
@@ -64,9 +64,9 @@ the water clears up and some of our reefs are revealed. Ordinary people
 can view our rich shores without having to swim or dive. Some of Singapore's
 best reefs are just half an hour away from the city centre!   
   
-**Where can we explore coral reefs in Singapore?** [Labrador](http://www.wildsingapore.com/places/lp.htm) has the last large mainland reef. There are also reefs at [Sentosa](http://www.wildsingapore.com/places/sentosa.htm), [St. John's Island](http://www.wildsingapore.com/places/sji.htm), [Kusu Island](http://www.wildsingapore.com/places/kusu.htm) and [Sisters
-Islands](http://www.wildsingapore.com/places/sisters.htm) and [Pulau
-Semakau](http://www.wildsingapore.com/places/semakau.htm).
+**Where can we explore coral reefs in Singapore?** [Labrador](https://images.naturehungry.sg/places/lp.htm) has the last large mainland reef. There are also reefs at [Sentosa](https://images.naturehungry.sg/places/sentosa.htm), [St. John's Island](https://images.naturehungry.sg/places/sji.htm), [Kusu Island](https://images.naturehungry.sg/places/kusu.htm) and [Sisters
+Islands](https://images.naturehungry.sg/places/sisters.htm) and [Pulau
+Semakau](https://images.naturehungry.sg/places/semakau.htm).
 ![](others/120607kusd4812m6l.jpg)  
 Kusu Island has living reefs  
 just minutes from the city centre  

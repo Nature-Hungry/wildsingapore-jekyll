@@ -1,6 +1,6 @@
 ---
 title: Eggwhite moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Eggwhite moon snail on the shores of Singapore
 keywords: egg, white, moon, snail, neverita, polinices, albumen, naticidae, gastropod,
   mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -19,48 +19,47 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
     caption: Cyrene Reef, Jun 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/120621cyrd6172m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6172m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/100104chgc0174m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/100104chgc0174m3.jpg
     caption: Changi, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/100104chgc0173m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/100104chgc0173m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/120722cyrd8424m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/120722cyrd8424m3.jpg
     caption: Cyrene Reef, Jul 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/180811chglks3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/180811chglks3.jpg
     caption: Changi, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/090428chglks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/090428chglks1.jpg
     caption: Changi, Apr 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/090428chglks1b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/090428chglks1b.jpg
     caption: Changi, Apr 09 Photo shared by Loh Kok Sheng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/241019lazlks8.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/241019lazlks8.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/241019lazlks8a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/241019lazlks8a.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/171104cyrtch1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/171104cyrtch1.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/250503cyrrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/250503cyrrk1.jpg
     caption: Cyrene, Jul 25 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/250503cyrrk1a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/250503cyrrk1a.jpg
     caption: ''
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/albumen/250402tsmktt1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/250402tsmktt1.jpg
     caption: Terumbu Semakau, Apr 25 Photo shared by Tommy Tan on facebook .
 links_references: '**Links**
 
   - [Eggwhite moon snail (
-
   *Neverita albumen*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86931)
@@ -68,7 +67,6 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
   - Eggwhite moon snail (
-
   *Neverita albumen*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

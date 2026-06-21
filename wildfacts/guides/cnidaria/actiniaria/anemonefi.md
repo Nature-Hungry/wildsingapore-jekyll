@@ -4,45 +4,45 @@ description: "Fact sheet with photos on flora and fauna of Singapore's intertida
 keywords: "photo, index, actiniaria, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 gallery1:
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/beadbanded/050527srbd3486m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/tuberculosa/040123sisd0133m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/040701chgd1385m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/zoanthid/zoanthus/040828skdd5545ma.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/050527srbd3486m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/040123sisd0133m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/040701chgd1385m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/040828skdd5545ma.jpg"
 gallery2:
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/sandstripe/060429skdd1375m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/spoke/050509hntg5945m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/hermitbig/040701chgd1385m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/mangrove/060627krjd3666ma.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/sandstripe/060429skdd1375m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/spoke/050509hntg5945m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/040701chgd1385m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/mangrove/060627krjd3666ma.jpg"
 gallery3:
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/whitetip/120721tptd7882m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/ridged/050807sjid5570m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/beaded/060527sjig6070ma.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/corallimorphs/stubby/040705sisd2131m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/others/corallimorphs/whitetip/120721tptd7882m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/others/corallimorphs/ridged/050807sjid5570m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070ma.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/040705sisd2131m.jpg"
 gallery4:
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/boloceroididae/060624skdg6189m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/tiger/050818chgg1345m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pearly/091206tmd5757m.jpg"
-  - url: "https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/pimply/080408chgd0640m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/060624skdg6189m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/tiger/050818chgg1345m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/pearly/091206tmd5757m.jpg"
+  - url: "https://images.naturehungry.sg/cnidaria/actiniaria/pimply/080408chgd0640m.jpg"
 gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/gigantea/040606kusg0481m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinostephanus/090210trysvpd0133m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/doreensis/050821bbd5815m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/entacmaea/040410sisbd017m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/040606kusg0481m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/actinostephanus/090210trysvpd0133m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/doreensis/050821bbd5815m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/040410sisbd017m.jpg
 gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/cryptodendrum/060811rlhd5835m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/actinodendron/030714bbd0002m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/band/050808sntg0904m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/phymanthus/sixpoint/070602sjig9829m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/060811rlhd5835m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/actinodendron/030714bbd0002m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/band/050808sntg0904m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/sixpoint/070602sjig9829m.jpg
 gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/030927cjd0058m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/040701chgd1388m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/shy/070901sjid6472m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/050820bbg1690m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/030927cjd0058m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/040701chgd1388m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/shy/070901sjid6472m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/blackmouth/050820bbg1690m.jpg
 gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/030927cjd0058m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/common/040701chgd1388m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/shy/070901sjid6472m.jpg
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/ceriantharia/blackmouth/050820bbg1690m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/030927cjd0058m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/040701chgd1388m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/shy/070901sjid6472m.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/blackmouth/050820bbg1690m.jpg
 
 ---
 

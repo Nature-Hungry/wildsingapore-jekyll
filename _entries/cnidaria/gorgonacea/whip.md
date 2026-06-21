@@ -1,6 +1,6 @@
 ---
 title: Sea whip
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Sea whip on the shores of Singapore
 keywords: whip, coral, seafan, fan, junceella, ellisellidae, gorgonian, gorgonacea,
   anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -17,34 +17,34 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
     caption: Beting Bronok, Jul 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/040604bbg0210m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/040604bbg0210m3.jpg
     caption: Beting Bronok, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/050412tusd2422m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/050412tusd2422m3.jpg
     caption: Tuas, Apr 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
     caption: Unidentified goby seen on a sea whip. Chek Jawa, Jun 23 Photo shared
       by Kelvin Yong on facebook .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/210626cjlks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/210626cjlks3.jpg
     caption: Chek Jawa, Jun 21 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/210626cjlks3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/210626cjlks3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/210626cjlks3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/210626cjlks3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/210628ecpBlks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/210628ecpBlks3.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on facebook
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/240608kusky2.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/240608kusky2.jpg
     caption: Kusu Island, Jun 24 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/others/gorgonacea/whip/240527srplks3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/240527srplks3.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 

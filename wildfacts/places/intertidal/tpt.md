@@ -7,7 +7,7 @@ layout: default
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../index.html)  
 [wild shores of singapore
@@ -47,7 +47,7 @@ status:** Does not appear on the [URA
 Master Plan 2008](http://www.ura.gov.sg/uramaps/?config=config_preopen.xml&preopen=Master%20Plan) or the [Parks
 and Waterbodies Plan](http://www.ura.gov.sg/uramaps/?preopen=Special%20and%20Detailed%20Controls%20Plans%20%28SDCP%29).   
 **Current conservation activities:** The
-intertidal area is regularly surveyed by [wildsingapore](http://www.wildsingapore.com/).
+intertidal area is regularly surveyed by [wildsingapore](https://images.naturehungry.sg/).
 **About
 the name:** *Terumbu*=A reef or rock at
 low tide but submerged at high water; *Pempang*=Not

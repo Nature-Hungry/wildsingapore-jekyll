@@ -1,6 +1,6 @@
 ---
 title: 'Bakung '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bakung  on the shores of Singapore
 keywords: spider, lily, crinum, asiaticum, amaryllidaceae, creeper, plant, bush, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -24,7 +24,7 @@ tribe: Amaryllideae
 subtribe: Crininae
 inat_id: 161124
 updated: Nov 10
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
+coverimg: https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
 links_references: '**Links**
 
   - [*Crinum asiaticum*](http://floraofsingapore.wordpress.com/2010/08/08/crinum-asiaticum/)on
@@ -58,16 +58,16 @@ links_references: '**Links**
   pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/110317mndd7375m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/110317mndd7375m3.jpg
     caption: Wild plant. Mandai, Mar 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090829cjf3322m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090829cjf3322m3.jpg
     caption: Chek Jawa, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090829cjf3323m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090829cjf3323m3.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090214sbwrd7063m3.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090214sbwrd7063m3.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090818sbwrd7494m6l.jpg
+  - url: https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090818sbwrd7494m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 09
 rdb: CR
 authors:
@@ -95,14 +95,14 @@ According to Burkill, it is poisonous and medicinal uses include inducing vomiti
 **Status and threats:**
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg)
+*![](https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg)
 
 *Sungei Buloh Wetland Reserve, Feb 09*
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090307blyd7421m3.jpg)
+![](https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090307blyd7421m3.jpg)
 
 Labrador, Mar 09
-![](https://f003.backblazeb2.com/file/naturehungry/plants/coastal/crinum/asiaticum/090307blyd7421m3a.jpg)*
+![](https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090307blyd7421m3a.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -1,6 +1,6 @@
 ---
 title: Two-toned salmacis urchin
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Two-toned salmacis urchin on the shores of Singapore
 keywords: white, urchin, salmacis, bicolor, echinoid, echinoderm, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -27,24 +27,23 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
     caption: East Coast Park, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
     caption: 'Long banded spines:'
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3c.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3c.jpg
     caption: Close up of spines and tube feet.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
     caption: Mouth on underside.
 links_references: '**Links**
 
   - [Banded urchin (
-
   *Salmacis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/223)

@@ -1,6 +1,6 @@
 ---
 title: Holey sponge seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Holey sponge seaweed on the shores of Singapore
 keywords: sponge, seaweed, weed, green, codium, red, ceratodictyon, spongiosum, lomentariaceae,
   rhodomeniaceae, rhodophyta, algae, porifera, haliclona cymaeformis, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
@@ -24,38 +24,38 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Rhodymeniales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
     caption: Pulau Hantu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/250810bsis1.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/250810bsis1.jpg
     caption: Big Sisters Island, Aug 25
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/250810bsis1a.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/250810bsis1a.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
     caption: Pulau Hantu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/100810sngd9915m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/100810sngd9915m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/050309smkd1530m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/050309smkd1530m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/080222sntd0068m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/080222sntd0068m3.jpg
     caption: Sentosa, Feb 08
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/130531tkkmn.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/130531tkkmn.jpg
     caption: Pulau Tekukor, May 13 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/rhodophyta/spongeholey/160806tplmn.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/160806tplmn.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on flickr .
 links_references: '**Links**
 
@@ -144,24 +144,18 @@ This woolly branching organism is sometimes seen on our Southern shores, growing
 
 The entire organism can be about 20-30cm across, with 'stems' about 1-1.5cm wide. The 'stems' solid often dividing frequently to form large spreading mats. Tips usually y-shaped. Each 'stem' is made up of fine, branched filaments that are packed together to form structures that feel woolly, velvety, spongey or felt-like. There are tiny holes along the 'stems'. Light to dark green.
 
-This organism is actually a symbiotic combination of an algae (
-*Ceratodictyon spongiosum*
-) and a sponge (
-*Haliclona cymaeformis*
+This organism is actually a symbiotic combination of an algae (*Ceratodictyon spongiosum*) and a sponge (*Haliclona cymaeformis*
 Family Chalinidae
 *,*
 indicated as
 *Sigmadocia symbiotica*
 in
-[AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=40126&-session=abv4:DABA080A13a7f23188wsgk181363)
-). The algae makes up the bulk of the organism while the sponge provides the tough exterior and appears to give the organism its shape and form, contributing to the formation of the tiny holes. The algae gets most of the nitrogen it needs from the sponge.
+[AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=40126&-session=abv4:DABA080A13a7f23188wsgk181363)). The algae makes up the bulk of the organism while the sponge provides the tough exterior and appears to give the organism its shape and form, contributing to the formation of the tiny holes. The algae gets most of the nitrogen it needs from the sponge.
 
 **Sometimes confused with**
 the
 [Smooth sponge green seaweed](../chlorophyta/spongesmooth)
-(
-*Cladophoropsis vaucheriaeformis*
-) which looks very similar, its holes along the 'stems' are not obvious when out of water. This is a green seaweed which also has a symbiotic relationship with another kind of sponge. The two organisms are sometimes difficult to tell apart in the field.
+(*Cladophoropsis vaucheriaeformis*) which looks very similar, its holes along the 'stems' are not obvious when out of water. This is a green seaweed which also has a symbiotic relationship with another kind of sponge. The two organisms are sometimes difficult to tell apart in the field.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

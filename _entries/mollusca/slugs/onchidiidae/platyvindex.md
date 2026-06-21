@@ -1,6 +1,6 @@
 ---
 title: Grey-footed mangrove onch slug
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Grey-footed mangrove onch slug on the shores of Singapore
 keywords: grey, foot, slug, seaslug, onch, onchidium, platyvindex, onchidiidae, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info
@@ -10,29 +10,29 @@ genus: Platyvindex
 species: ''
 attributes: []
 updated: Jun 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
     caption: Kranji, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3.jpg
     caption: Underside
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/090612pndd4042.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/090612pndd4042.jpg
     caption: Sungei Pandan, Jun 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5a.jpg
     caption: Sg Pang Sua, Dec 25 Photo shared by Rui Quan Oh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5b.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5b.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3.jpg
     caption: Pulau Semakau, Dec 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3a.jpg
     caption: Photos shared by Toh Chay Hoon on her flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/onchidiidae/platyvindex/081206smktch02m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/081206smktch02m3.jpg
     caption: ''
 links_references: '**Links**
 

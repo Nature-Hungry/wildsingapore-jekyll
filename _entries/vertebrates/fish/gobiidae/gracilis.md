@@ -1,6 +1,6 @@
 ---
 title: Slender mudskipper
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Slender mudskipper on the shores of Singapore
 keywords: mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, gracilis,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -26,12 +26,12 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
     caption: Chek Jawa, Jun 13
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/gobiidae/gracilis/090114labd5309m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gracilis/090114labd5309m6l.jpg
     caption: Large gap between the first dorsal fin and second dorsal fin Labrador,
       Jan 09
 links_references: '**Links**

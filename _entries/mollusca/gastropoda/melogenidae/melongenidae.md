@@ -1,6 +1,6 @@
 ---
 title: 'Melongena snails '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Melongena snails  on the shores of Singapore
 keywords: melongena, gastropod, mollusc, snail, shell, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,12 +17,12 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
     caption: Spiral melongena
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
     caption: Ternate false fusus
 links_references: "**Links**\n- [Family Galeodidae (\n*Melongena pugilina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/145)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\

@@ -1,6 +1,6 @@
 ---
 title: Star barnacle
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Star barnacle on the shores of Singapore
 keywords: star, barnacle, chthamalus, euraphia, cirripedia, crustacea, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,17 +23,17 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Chthamaloidea
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
     caption: Tanah Merah, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3.jpg
     caption: Sisters Island, Jul 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3.jpg
     caption: East Coast, Jun 06
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg
+  - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 
@@ -89,8 +89,7 @@ zone:
 ## Where seen?
 This little starry barnacle is sometimes seen on some of our shores. Usually found in small groups, in higher areas where it is too dry for
 [acorn barnacles](balanus)
-(
-*Balanus*
+(*Balanus*
 sp.). They were formerly known as
 *Chthamalus*
 .

@@ -1,6 +1,6 @@
 ---
 title: 'Moray eels '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Moray eels  on the shores of Singapore
 keywords: moray, eel, fish, muraenidae, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,34 +18,33 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Muraenoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
     caption: Dorsal, anal and tail fins are continuous. Sisters Island, Jan 1
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
     caption: No pelvic fins, small eyes, tubular nostrils. Labrador Jun 08
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/reevesii/110602tmftd3429m6l.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/reevesii/110602tmftd3429m6l.jpg
     caption: Sharp teeth! Tanah Merah, Jun 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg
     caption: Lunging after prey in a hole with flaring of long dorsal fins. Tanah
       Merah, Oct 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/tile/101224sisd4114m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/101224sisd4114m3.jpg
     caption: Estuarine moray eel
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/reevesii/100527tmd3450m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/reevesii/100527tmd3450m3.jpg
     caption: Brown-spotted moray eel
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/concolor/040409tusad0048m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/concolor/040409tusad0048m3.jpg
     caption: Brown moray eel
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/muraenidae/251011labyls1.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/251011labyls1.jpg
     caption: White-eyed moray (Gymnothorax thyrsoideus) Labrador, Oct 25 Photo and
       ID shared by Yan Le Su on facebook .
 links_references: '**Links**
 
   - [Estuarine Moray (
-
   *Gymnothorax tile*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210)
@@ -53,7 +52,6 @@ links_references: '**Links**
   and
 
   [Brown-spotted Moray (
-
   *Gymnothorax reevesii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211)

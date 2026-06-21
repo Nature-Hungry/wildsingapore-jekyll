@@ -1,6 +1,6 @@
 ---
 title: Starry leathery soft coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Starry leathery soft coral on the shores of Singapore
 keywords: starry, leathery, sinularia, brassica, alcyonacea, soft, coral, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -17,37 +17,37 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg
     caption: Terumbu Bemban, Jul 11 8 short fat branched tentacles.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/100130brkd8623m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/100130brkd8623m3.jpg
     caption: Terumbu Berkas, Jan 10 Many fat, spindle shaped structures embedded in
       the common tissue .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/120409tptd8741m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/120409tptd8741m3.jpg
     caption: Terumbu Pempang Tengah, Apr 12 Spindles sticking out of torn common tissue.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/031223tused0034m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/031223tused0034m3.jpg
     caption: Tuas, Dec 03 Tiny spots give the common tissue a 'crystalline' appearance.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/050725labg0305m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/050725labg0305m3.jpg
     caption: Labrador, Jul 05 Tiny transparent star-like polyps.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg
     caption: Tuas, Dec 03 Polyps appear on lumps or tubular extensions.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/170113tkkmn1.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/170113tkkmn1.jpg
     caption: Pulau Tekukor, Jan 17 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/160806tpllks6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/160806tpllks6.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/091231biod6981m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/091231biod6981m3.jpg
     caption: Pulau Biola, Dec 09
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/100131slud8806m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/100131slud8806m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/100131slud8808m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/100131slud8808m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralsoft/letstar/100131slud8808m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/100131slud8808m3c.jpg
     caption: ''
 links_references: '**Links**
 

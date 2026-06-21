@@ -1,6 +1,6 @@
 ---
 title: 'Yellow boxfish '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow boxfish  on the shores of Singapore
 keywords: yellow, box, boxfish, fish, ostracion, cubicus, ostraciidae, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -23,19 +23,18 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
     caption: Pulau Sekudu, Feb 07
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3b.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3b.jpg
     caption: Tiny stick-like tail and tiny dorsal fins.
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3a.jpg
     caption: Small, downward-pointing tube-like mouth.
 links_references: '**Links**
 
   - [Yellow boxfish (
-
   *Ostracion cubicus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6555)

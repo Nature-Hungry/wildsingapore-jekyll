@@ -1,6 +1,6 @@
 ---
 title: Tellin clams
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Tellin clams on the shores of Singapore
 keywords: tellin, clam, tellinidae, bivalve, mollusc, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -20,7 +20,7 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
 links_references: '**Links**
 
   - [Family Tellinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Tellinidae.html)on[The
@@ -63,14 +63,14 @@ links_references: '**Links**
   145 pp.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
     caption: Pulau Semakau, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/110409smks09259m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tellinidae/tellinidae/110409smks09259m3.jpg
     caption: Pulau Semakau, Apr 11
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/190520hntjc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tellinidae/tellinidae/190520hntjc2.jpg
     caption: Pulau Hantu, May 19 Photo shared by Joleen Chan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/bivalvia/tellinidae/tellinidae/090711sjigl3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tellinidae/tellinidae/090711sjigl3m3.jpg
     caption: St. John's Island, Jul 09 Photo shared by Geraldine Lee on her blog .
 location:
 - tm

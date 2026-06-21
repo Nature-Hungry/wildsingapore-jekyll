@@ -1,6 +1,6 @@
 ---
 title: Lesser dog-faced fruit bat
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lesser dog-faced fruit bat on the shores of Singapore
 keywords: fruit, bat, cynopterus, brachyotis, pteropodidae, vertebrate, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -24,7 +24,7 @@ superfamily: Pteropodoidea
 subfamily: Cynopterinae
 tribe: Cynopterini
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
 links_references: '**Links**
 
   - [Lesser Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat)
@@ -78,9 +78,7 @@ Forearm length about 6.5cm. It has white wing bones and white ear edges. A small
 
 Several bats (6-12) may roost together. Sometimes under
 [Bird's nest ferns](../../plants/others/asplenium/nidus)
-(
-*Asplenium nidus*
-) creating a sheltered area by chewing off some of the inner portions of the 'skirt' of dead leaves under the fern. They also create a shelter out of a palm leaf by biting the ribs of so portions of the leaf droop to form an umbrella. They even shelter in buildings.
+(*Asplenium nidus*) creating a sheltered area by chewing off some of the inner portions of the 'skirt' of dead leaves under the fern. They also create a shelter out of a palm leaf by biting the ribs of so portions of the leaf droop to form an umbrella. They even shelter in buildings.
 
 **What does it eat?**
 It eats fruits and drinks nectar. A fruit bat may travel nearly 100km in a single night to feed on fruiting trees such as palms, figs, guavas, bananas, mangoes. As well as on flowers. These fruit bats drink the juice of the fruits, instead of eating the pulp. That is, they mash the fruits in their mouth, drink the juice and spit out the pulp. Thus, they are kind of like flying fruit juicers. But they do swallow small fruits and thus help disperse the seeds of many pioneer forest trees.
@@ -91,11 +89,11 @@ Mama bat gives birth to one young which weighs about 11gms at birth. She carries
 **Status and threats:**
 It is not listed among our threatened animals.
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg)*
+*![](https://images.naturehungry.sg/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg)*
 *Sungei Buloh Wetland Reserve, Sep*
 *03*
 
-*![](https://f003.backblazeb2.com/file/naturehungry/vertebrates/mammals/brachyotis/030917sbwrd0079m3.jpg)*
+*![](https://images.naturehungry.sg/vertebrates/mammals/brachyotis/030917sbwrd0079m3.jpg)*
 *Sungei Buloh Wetland Reserve, Sep*
 *03*
 

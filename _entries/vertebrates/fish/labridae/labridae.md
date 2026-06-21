@@ -1,6 +1,6 @@
 ---
 title: Wrasses
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Wrasses on the shores of Singapore
 keywords: wrasse, fish, labridae, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -18,34 +18,34 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Labroidei
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+coverimg: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg
     caption: Well camouflaged! Tuas, Apr 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg
     caption: Often half buried in the sand. Pulau Sekudu, Apr 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg
     caption: Seen from above. Pulau Sekudu, Apr 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg
     caption: Caught by a Carpet eel-blenny . Cyrene Reef, Jun 16 Photo shared by Loh
       Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg
     caption: Often seen in abandoned nets and traps. Pulau Semakau, Jan 17
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg
     caption: Brown-striped wrasse
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg
     caption: Diamond wrasse
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg
     caption: Weedy wrasse
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg
     caption: Black-spot tuskfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg
     caption: Anchor tuskfish
-  - url: https://f003.backblazeb2.com/file/naturehungry/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg
+  - url: https://images.naturehungry.sg/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg
     caption: Singapore tuskfish
 links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
@@ -121,9 +121,7 @@ These colourful fishes are sometimes seen on many of our shores. Among the more 
 **What are wrasses?**
 Wrasses belong to the Family Labridae. This is the second largest family of fishes after the gobies. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=362)
-: the family has 60 genera and 500 species, found in the Atlantic, Indian and Pacific oceans and coming in a wide range of sizes and colours. Being such a large family, wrasses come in a wide range of sizes and habits. They range from small fish 8cm long to large ones up to 40cm long. The Napolean wrasse (
-*Cheilinus undulatus*
-) can grow to 2m long and weigh up to 180kgs!
+: the family has 60 genera and 500 species, found in the Atlantic, Indian and Pacific oceans and coming in a wide range of sizes and colours. Being such a large family, wrasses come in a wide range of sizes and habits. They range from small fish 8cm long to large ones up to 40cm long. The Napolean wrasse (*Cheilinus undulatus*) can grow to 2m long and weigh up to 180kgs!
 ## Features
 
 Many wrasses are brightly coloured, mostly greenish but with patterns of blue, yellow and red. Often young fish are different from the adults, their colours and patterns changing as they develop. As adults, they also change colours during breeding season, the males usually becoming more brightly coloured. Some may also change colours to match their surroundings. This is why wrasses are sometimes difficult to identify.
@@ -131,18 +129,14 @@ Many wrasses are brightly coloured, mostly greenish but with patterns of blue, y
 **Wrasse food:**
 Most wrasses are carnivorous predators and eat small crustaceans, snails and worms. Most wrasses have thick lips and sharp canine teeth that stick out. Mostly solitary hunters, they can be aggressive towards others of their own kind. Some wrasses may also scavange. Some eat plankton, and a few eat parasites off larger fish (see below). Many are sand burrowers.
 
-An intriguing member of this family is the Cleaner wrasse (
-*Labroides dimidiatus*
-). This little wrasse performs cleaning services for larger fishes and sea creatures, picking parasites and dead skin off them. Marine 'clients' often form a patient queue at a cleaning station manned by the Cleaner wrasse, allowing the little fish to enter their mouth and gills without eating it.
+An intriguing member of this family is the Cleaner wrasse (*Labroides dimidiatus*). This little wrasse performs cleaning services for larger fishes and sea creatures, picking parasites and dead skin off them. Marine 'clients' often form a patient queue at a cleaning station manned by the Cleaner wrasse, allowing the little fish to enter their mouth and gills without eating it.
 
 **Wrasse babies:**
 Wrasses can change their gender! Most wrasses grow to become females first. A female can turn into a fully functional male within a few days. In some species, each male has a harem of females. When the male dies, the largest female changes gender and takes his place. In some species, however, there are two kinds of males. One that is born a male (primary male), and another that was born a female and later turned male. Primary males can produce more sperm than those that change into males; however, primary males usually wear the colours of a female! Mating wrasses rise up to the water surface together, releasing eggs and sperm simultaneously.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
 
-Being colourful and lively, wrasses of various kinds are extensively harvested from the wild for the live aquarium trade. Some large ones are harvested as food. The Napolean wrasse (
-*Cheilinus undulatus*
-) is a large fish that is being over-collected as a luxury food item for the Chinese market. These gentle, intelligent fishes can live for 50 years and reach up to 180kgs. Unsustainable harvesting of these fishes may doom them to extinction.
+Being colourful and lively, wrasses of various kinds are extensively harvested from the wild for the live aquarium trade. Some large ones are harvested as food. The Napolean wrasse (*Cheilinus undulatus*) is a large fish that is being over-collected as a luxury food item for the Chinese market. These gentle, intelligent fishes can live for 50 years and reach up to 180kgs. Unsustainable harvesting of these fishes may doom them to extinction.
 
 **Status and threats:**
 None of our wrasses are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also impact on local populations.

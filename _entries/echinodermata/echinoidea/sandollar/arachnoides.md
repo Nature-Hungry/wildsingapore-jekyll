@@ -1,6 +1,6 @@
 ---
 title: Cake sand dollar
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cake sand dollar on the shores of Singapore
 keywords: cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea, echinoderm,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -28,68 +28,68 @@ order: Clypeasteroida
 suborder: Clypeasterina
 subfamily: Arachnoidinae
 updated: Mar 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg
     caption: Changi, May 08
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m6l.jpg
     caption: They are often found in huge numbers. Chek Jawa, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3a.jpg
     caption: Upperside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3a.jpg
     caption: Mouth on the underside.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
     caption: Upperside of test
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
     caption: Underside of test
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6116m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6116m3.jpg
     caption: Living sand dollar moving under wet sand.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
     caption: Changi, Jun 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
     caption: Living sand dollars, not moving under sand. Lazarus Island, Jun 09
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
     caption: Is this Grey bonnet snail eating a sand dollar? Cyrene Reef, May 11 Photo
       shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/asteroidea/protoreaster/110508cyrmng5m3.jpg
+  - url: https://images.naturehungry.sg/asteroidea/protoreaster/110508cyrmng5m3.jpg
     caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared
       by Marcus Ng on flickr .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
     caption: Tiny parasitic snail on a Cake sand dollar. Cyrene, Aug 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
     caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek
       Jawa Feb 04
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1801m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1801m3.jpg
     caption: Bird footprints surround the sand dollar. Chek Jawa, Mar 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1802m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1802m3a.jpg
     caption: It seems birds have flipped over some and pecked out the underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/100328cjtsgc1803m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/100328cjtsgc1803m3.jpg
     caption: Some are flipped but not harmed. Only egg-bearing females are pecked?
       Chek Jawa, Mar 10
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/251011tgrlks12.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/251011tgrlks12.jpg
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/160625tkkjll1.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/160625tkkjll1.jpg
     caption: Pulau Tekukor, Jun 16 Photo shared by Jianlin Liu on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/090224lazlks02m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090224lazlks02m3.jpg
     caption: Lazarus, Feb 09 Shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/200820ssismn4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/200820ssismn4.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/110517tptlks6m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/110517tptlks6m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/echinoidea/sandollar/arachnoides/091205sudd5468m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/091205sudd5468m3.jpg
     caption: Pulau Sudong, Dec 09
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Rodong snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rodong snail on the shores of Singapore
 keywords: rodong, telescopium, creeper, shell, snail, cerithiidae, potamididae, gastropod,
   mollusc, snail, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -25,7 +25,7 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
 links_references: '**Links**
 
   - [Rodong/Berongan (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/guidebooks/text/2084.htm)Ng,
@@ -66,14 +66,14 @@ links_references: '**Links**
   145 pp.'
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
     caption: Sungei Buloh Wetland Reserve, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
     caption: Mating? Sungei Buloh Wetland Reserve, Mar 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5564m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5564m3.jpg
     caption: Laying eggs? Sungei Buloh Wetland Reserve, Mar 06
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/potamididae/telescopium/251219cnyrqo1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/251219cnyrqo1.jpg
     caption: Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
 location:
 - sbw

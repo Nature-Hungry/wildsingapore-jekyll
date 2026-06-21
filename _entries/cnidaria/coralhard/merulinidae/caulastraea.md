@@ -1,6 +1,6 @@
 ---
 title: Trumpet coral
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Trumpet coral on the shores of Singapore
 keywords: trumpet, caulastraea, faviidae, merulinidae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -17,26 +17,26 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
     caption: Kusu Island, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3c.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3c.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3f.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3f.jpg
     caption: Raffles Lighthouse, Jul 06 Tentacles peeping out.
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3.jpg
     caption: Kusu Island, Jun 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3.jpg
     caption: Beting Bemban Besar, Jun 09 Trumpet shaped corallites.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/130527tmlks.JPG
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/130527tmlks.JPG
     caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/cnidaria/coralhard/merulinidae/caulastraea/240527srplks6.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/240527srplks6.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
@@ -127,8 +127,7 @@ Usually hidden by the fleshy tissue, the 'hollow' structure of the branches prov
 **Sometimes confused with**
 some species of
 [Lobed brain corals](../mussidae/lobophyllia)
-(
-*Lobophyllia*
+(*Lobophyllia*
 sp.) that may also have branching corallites with circular openings. Other corals that may appear similar include:
 *Barabattoia*
 and some

@@ -7,7 +7,7 @@ layout: default
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 
 [wildsingapore
-homepage](http://www.wildsingapore.com/)  
+homepage](https://images.naturehungry.sg/)  
   
 [wildfactsheets homepage](../index.html)  
 [wild shores of singapore
@@ -108,7 +108,7 @@ coral reef surveys](http://coralreef.nus.edu.sg/survey/data.htm) by [ReefFriends
 of [NParks](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=120&Itemid=123)
 and the [Blue Water
 Volunteers](http://www.bluewatervolunteers.org/). The intertidal area is also regularly surveyed by
-[wildsingapore](http://www.wildsingapore.com/). **History:** The current Pulau Hantu
+[wildsingapore](https://images.naturehungry.sg/). **History:** The current Pulau Hantu
 is the result of massive reclamation. Hantu Besar used to be 2ha
 and Hantu Kechil 0.4ha, surrounded by fringing reefs with a common
 reef flat in between. Land reclamation from 1974-75 increased land
@@ -146,7 +146,7 @@ the Hantu Blog
 - [The
   Hantu Bloggers](http://www.pulauhantu.org/)
 - [Pulau
-  Hantu](http://www.wildsingapore.com/places/hantu.htm) on wildsingapore
+  Hantu](https://images.naturehungry.sg/places/hantu.htm) on wildsingapore
 - [The
   Coastal Environmental Profile of Singapore](http://books.google.com.sg/books?id=qSIJ2uKKs88C&printsec=frontcover#v=onepage&q&f=false)
   by Lin Sien Chia, Habibullah Khan, Loke Ming Chou, The WorldFish

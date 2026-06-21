@@ -1,6 +1,6 @@
 ---
 title: Big parasol green seaweed
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Big parasol green seaweed on the shores of Singapore
 keywords: parasol, seaweed, weed, green, caulerpa, peltata, caulerpaceae, chlorophyta,
   algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -20,27 +20,27 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg
+coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/100627hntd7284m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/100627hntd7284m3.jpg
     caption: Pulau Hantu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/090112smkd5058m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/090112smkd5058m3.jpg
     caption: Pulau Semakau, Jan 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg
     caption: Tuas, Jun 05
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/090822sisnml4m3.JPG
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/090822sisnml4m3.JPG
     caption: Sisters Island, Aug 09 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/210502tptvc13.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/210502tptvc13.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/100810sngd9934m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/100810sngd9934m3.jpg
     caption: Pulau Senang, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/100811slud0096m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/100811slud0096m3.jpg
     caption: Pulau Salu, Aug 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/100130brkd8640m3.jpg
+  - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/100130brkd8640m3.jpg
     caption: Terumbu Berkas, Jan 10
 links_references: '**Links**
 
@@ -127,10 +127,10 @@ similar green seaweeds. Here's more on
 
 It is eaten in some places and used as medicine for its antifungal properties and ability to lower blood pressure.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg)
 
 *Beting Bronok, Jul 07*
-![](https://f003.backblazeb2.com/file/naturehungry/plants/seaweed/chlorophyta/peltata/070714bbd3958m3b.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/070714bbd3958m3b.jpg)
 
 Loose clusters.
 

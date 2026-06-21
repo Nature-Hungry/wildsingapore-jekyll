@@ -4,7 +4,7 @@ keywords: "index, flora, fauna, animal, plant, guide, biology, ecology, field, g
 layout: default
 
 grid_items:
-  - img: https://f003.backblazeb2.com/file/naturehungry/whazzat.jpg
+  - img: https://images.naturehungry.sg/whazzat.jpg
     alt: Photo Index
     url: /wildfacts/photoindex/
     label: Photo Index
@@ -19,7 +19,7 @@ grid_items:
     url: /redlist/
     label: The Singapore Red List
 
-  - img: https://f003.backblazeb2.com/file/naturehungry/fornatureguides.jpg
+  - img: https://images.naturehungry.sg/fornatureguides.jpg
     alt: For Nature Guides
     url: /wildfacts/forguides/
     label: For Nature Guides

@@ -1,6 +1,6 @@
 ---
 title: 'Lumpy rock crab '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Lumpy rock crab  on the shores of Singapore
 keywords: lumpy, rock, crab, euxanthus, exsculptus, xanthidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -30,38 +30,38 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Euxanthinae
 updated: Sep 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
     caption: St. John's Island, May 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/110517tptd1601m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/110517tptd1601m3.jpg
     caption: Terumbu Pempang Tengah, May 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/110517tptd1598m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/110517tptd1598m3.jpg
     caption: Underside.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/111002bsismn.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/111002bsismn.jpg
     caption: Big Sisters Island, Oct 11 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/200919bsislks2a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/200919bsislks2a.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook
       .
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/200919bsislks2b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/200919bsislks2b.jpg
     caption: Big Sisters Island, Sep 20 Photo shared by Loh Kok Sheng on facebook
       .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/190520hntjc1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/190520hntjc1.jpg
     caption: Pulau Hantu, May 19 Photo shared by Joleen Chan on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/110621smklks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/110621smklks.JPG
     caption: Pulau Semakau, Jun 11 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/220911cyrccn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/220911cyrccn2.jpg
     caption: Cyrene, Sep 22 Photo shared by Che Cheng Neo on facebook ..
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/230901kuslks1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/230901kuslks1.jpg
     caption: Kusu Island, Aug 23 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/130210bsislks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/130210bsislks.JPG
     caption: Sisters Island, Feb 13 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/xanthidae/euxanthus/161117rlhlks10.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/161117rlhlks10.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
 links_references: '**Links**

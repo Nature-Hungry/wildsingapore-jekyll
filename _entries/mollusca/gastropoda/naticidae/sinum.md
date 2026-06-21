@@ -1,6 +1,6 @@
 ---
 title: Naked moon snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Naked moon snail on the shores of Singapore
 keywords: moon, snail, sinum, naticidae, gastropod, mollusc, sand, collar, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -19,44 +19,44 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Sininae
 updated: Aug 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/050402cjg4001m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/050402cjg4001m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/050402cjg4001m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/050402cjg4001m6l.jpg
     caption: Chek Jawa, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/120314cjd7658m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/120314cjd7658m3.jpg
     caption: Chek Jawa, Mar 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/120314cjd7663m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/120314cjd7663m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/120314cjd7665m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/120314cjd7665m3.jpg
     caption: ''
   gallery3:
   - url: https://live.staticflickr.com/31337/49224624233_1e262b4a1a_z.jpg
     caption: Chek Jawa, Dec 19
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/110520chglks1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/110520chglks1m3.jpg
     caption: Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/120704chglks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/120704chglks.JPG
     caption: Changi, Jul 12 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/140419chglks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/140419chglks1.JPG
     caption: Changi, Apr 14 Photo shared by Loh Kok Sheng on flickr .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/160210nsrcclks1.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/160210nsrcclks1.JPG
     caption: East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/180812nsrtlks1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/180812nsrtlks1.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/230608tmftlks6.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/230608tmftlks6.jpg
     caption: Tanah Merah Ferry Terminal, Jun 23 Photo shared by Loh Kok Sheng on facebook
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/130525tsmklks.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/130525tsmklks.JPG
     caption: Terumbu Semakau, May 13 Photo shared by Loh Kok Sheng on flickr .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/221127ky1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/221127ky1.jpg
     caption: Lazarus Island, Nov 22 Photo shared by Kelvin Yong on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/naticidae/sinum/230424blyrk1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/230424blyrk1.jpg
     caption: Berlayar Creek, Apr 23 Photo shared by Richard Kuah on facebook .
 location:
 - chg

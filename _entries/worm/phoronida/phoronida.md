@@ -1,6 +1,6 @@
 ---
 title: Cerianthid phoronid worm
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Cerianthid phoronid worm on the shores of Singapore
 keywords: ceriantharia, cerianthid, phoronid, worm, phoronis, australis, phoronida,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -13,40 +13,40 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/030630chgd0017m3.jpg
+coverimg: https://images.naturehungry.sg/worm/phoronida/phoronida/030630chgd0017m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet2.gif
+  - url: https://images.naturehungry.sg/photos/bullet2.gif
     caption: if you learn only 3 things about them ... They are often seen near cerianthids.
       They are shy and hide at the slightest sign of danger. Be quiet and wait for
       them to emerge. They look like fanworms but belong to a different animal group.
       Their tubes are made of chitin, the same substance that insect exoskeleton is
       made of.
-  - url: https://f003.backblazeb2.com/file/naturehungry/photos/bullet2.gif
+  - url: https://images.naturehungry.sg/photos/bullet2.gif
     caption: They are often seen near cerianthids. They are shy and hide at the slightest
       sign of danger. Be quiet and wait for them to emerge. They look like fanworms
       but belong to a different animal group. Their tubes are made of chitin, the
       same substance that insect exoskeleton is made of.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/030630chgd0017m3.jpg
+  - url: https://images.naturehungry.sg/worm/phoronida/phoronida/030630chgd0017m3.jpg
     caption: Changi, Jun 03
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/050823chgg2313m3c.jpg
+  - url: https://images.naturehungry.sg/worm/phoronida/phoronida/050823chgg2313m3c.jpg
     caption: Are the white stuff eggs? Changi, Aug 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/050823chgg2313m3.jpg
+  - url: https://images.naturehungry.sg/worm/phoronida/phoronida/050823chgg2313m3.jpg
     caption: The anus is at the top of the body in between the two 'fans'. Changi,
       Aug 05
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/150319tusmn.jpg
+  - url: https://images.naturehungry.sg/worm/phoronida/phoronida/150319tusmn.jpg
     caption: Tuas, Mar 15 Photo shared by Marcus Ng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/150319tusmna.jpg
+  - url: https://images.naturehungry.sg/worm/phoronida/phoronida/150319tusmna.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/170723ubnlks5.jpg
+  - url: https://images.naturehungry.sg/worm/phoronida/phoronida/170723ubnlks5.jpg
     caption: Pulau Ubin, Jul 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/090920smklks.JPG
+  - url: https://images.naturehungry.sg/worm/phoronida/phoronida/090920smklks.JPG
     caption: Pulau Semakau, Sep 09 Photo shared by Loh Kok Sheng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/phoronida/phoronida/091205sudtch5m3a.jpg
+  - url: https://images.naturehungry.sg/worm/phoronida/phoronida/091205sudtch5m3a.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on flickr .
 links_references: '**Links**
 

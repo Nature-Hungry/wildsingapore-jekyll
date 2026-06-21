@@ -1,6 +1,6 @@
 ---
 title: Bristleworms
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Bristleworms on the shores of Singapore
 keywords: bristle, worm, bristleworm, polychaete, annelid, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -17,24 +17,24 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/040804skdd4129m3.jpg
+coverimg: https://images.naturehungry.sg/worm/polychaeta/reef/040804skdd4129m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/040804skdd4129m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/040804skdd4129m3.jpg
     caption: Pulau Sekudu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/reef/040804skdd4129m3b.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/reef/040804skdd4129m3b.jpg
     caption: Bristles on the sides of the worm
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/diopatra/040702cjd1447m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/040702cjd1447m3.jpg
     caption: This tiny tubeworm has eyes, tentacles, and feathery appendages on the
       sides that act as gills. Changi, Jul 04
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/chloeia/050412tusd2407m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/chloeia/050412tusd2407m3.jpg
     caption: This fireworm swims actively and has really elaborate bristles. Raffles
       Marina, Apr 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/sabellidae/banded/040830hntd5883m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/040830hntd5883m3.jpg
     caption: Fanworms are bristleworms with a delicate fan of feathery tentacles on
       their heads. Pulau Hantu, Aug 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/worm/polychaeta/scaleworm/120511tpld3253m3.jpg
+  - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120511tpld3253m3.jpg
     caption: Scale worms are tiny and often overlooked. Terumbu Pempang Laut, May
       12
 links_references: '**Links**

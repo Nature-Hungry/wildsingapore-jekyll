@@ -1,6 +1,6 @@
 ---
 title: Leaf porter crab
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Leaf porter crab on the shores of Singapore
 keywords: leaf, porter, crab, dorippidae, decapod, crustacea, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -26,38 +26,37 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Dorippoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg
     caption: Changi, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3a.jpg
     caption: Two kinds of legs.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/020711chgcpd1920m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/020711chgcpd1920m3.jpg
     caption: This one was 'carrying' a clam shell. Changi, Jul 02
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/060128labg4053m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/060128labg4053m3.jpg
     caption: Seldom seen upper side. Labrador, Jan 06
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/050527srbd3428m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/050527srbd3428m3b.jpg
     caption: Some have one enlarged pincer. Raffles Marina, May 05
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/120604pgllks.JPG
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/120604pgllks.JPG
     caption: Punggol, Jun 12 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/180616bblks9.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/180616bblks9.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/220616chgemn2.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/220616chgemn2.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Marcus on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/210115mevc3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/210115mevc3.jpg
     caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook.
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/dorippidae/dorippidae/240823sntrtl1.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/240823sntrtl1.jpg
     caption: Sentosa Tg Rimau, Aug 24 Photo shared by Tammy Lim on facebook .
 links_references: '**Links**
 
   - [Leaf Porter Crab (
-
   *Neodorippe callida*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/204)
@@ -69,7 +68,6 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
   - [Leaf Porter Crab (
-
   *Neodorippe callida*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2043)

@@ -1,6 +1,6 @@
 ---
 title: 'Swimming       crabs '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Swimming       crabs  on the shores of Singapore
 keywords: swimming, crab, portunidae, portunus, charybdis, thalamita, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info
@@ -25,63 +25,63 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Portunoidea
 updated: Dec 2019
-coverimg: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/pelagicus/050622cftg8190m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3b.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/070716chgd4233m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/070716chgd4233m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/scylla/070716chgd4233m3d.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/070716chgd4233m3d.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/purpleleg/050621skdg7959m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/050621skdg7959m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/purpleleg/050621skdg7959m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/050621skdg7959m3c.jpg
     caption: ''
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/050623cjg8260m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/050623cjg8260m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/spinimana/050623cjg8260m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/050623cjg8260m3b.jpg
     caption: ''
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/041019labd7612m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/blue/041019labd7612m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/041019labd7612m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/blue/041019labd7612m3c.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/blue/041019labd7612m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/blue/041019labd7612m3b.jpg
     caption: ''
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/100613sngd5595m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/100613sngd5595m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/100613sngd5595m3a.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/100613sngd5595m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/mottled/100613sngd5595m3d.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/100613sngd5595m3d.jpg
     caption: ''
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/040818sntd4739m3b.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/bluespined/040818sntd4739m3b.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/bluespined/040818sntd4739m3c.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/bluespined/040818sntd4739m3c.jpg
     caption: ''
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg
     caption: Banded-leg swimming crab
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg
     caption: Tiny swimming crabs
-  - url: https://f003.backblazeb2.com/file/naturehungry/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg
     caption: Powder blue-clawed swimming crab
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

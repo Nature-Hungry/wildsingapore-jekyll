@@ -1,6 +1,6 @@
 ---
 title: Hairy sea hare
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Hairy sea hare on the shores of Singapore
 keywords: hairy, seahare, hare, anaspidea, aplysiidae, bursatella, leachii, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -20,51 +20,51 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
     caption: Changi, May 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3a.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3a.jpg
     caption: Two pairs of tubular tentacles
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3d.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3d.jpg
     caption: Short triangular 'tail' edged with white bars.
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/190720prp.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/190720prp.jpg
     caption: Egg mass laid by the sea hare. Pasir Ris, JUl 19
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/040509skdbd0143m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/040509skdbd0143m3.jpg
     caption: Releases purple ink when disturbed. Pulau Sekudu, May 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3c.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3c.jpg
     caption: Projections flat branching, not spiny. Blue spots but no fine lines.
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/090428chgd0698m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/090428chgd0698m3.jpg
     caption: When out of water, looks like a blob. Changi, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/090428chgd0874m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/090428chgd0874m3.jpg
     caption: Pale ones sometimes seen. Changi, May 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/090428chgd0766m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/090428chgd0766m3.jpg
     caption: Comes in a variety of shades. Chek Jawa, Feb 07
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/201020swgvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/201020swgvc2.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/200627cnyrk2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/200627cnyrk2.jpg
     caption: Coney Island, Jun 20 Photo shared by Richard Kuah on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/200917prpvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/200917prpvc2.jpg
     caption: With eggs next to it. Pasir Ris Park, Sep 20 Photo shared by Vincent
       Choo on facebook.
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/110519chglks5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/110519chglks5m3.jpg
     caption: Changi, May 11 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/100908chgnml4m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/100908chgnml4m3.jpg
     caption: Changi, Sep 10 Photo shared by Neo Mei Lin on her blog .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/091203ubnjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/091203ubnjk1m3.jpg
     caption: Pulau Ubin, Dec 09 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/200819ecptch8.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/200819ecptch8.jpg
     caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/090824tuslks.JPG
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/090824tuslks.JPG
     caption: Tuas, Aug 09 Photo shared by Loh Kok Sheng on flickr .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/slugs/anaspidae/bursatella/100528tkkjk16m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/100528tkkjk16m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
 links_references: '**Links**
 

@@ -1,6 +1,6 @@
 ---
 title: Black-lipped conch
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Black-lipped conch on the shores of Singapore
 keywords: black, lip, conch, strombus, canarium, urceus, strombidae, gastropod, mollusc,
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -25,51 +25,50 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
 galleries:
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
     caption: Kusu Island, Jun 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg
     caption: ''
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/090512tmlks3m3.JPG
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/090512tmlks3m3.JPG
     caption: Tanah Merah, May 09 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/220519ecpbrk4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/220519ecpbrk4.jpg
     caption: East Coast Park-Marina East, May 22 Photo shared by Richard Kuah on facebook
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/181126lablks.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/181126lablks.jpg
     caption: Labrador, Nov 18 Photo shared by Loh Kok Sheng on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/100103tkkjk6m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/100103tkkjk6m3.jpg
     caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/230508srpky1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/230508srpky1.jpg
     caption: Sentosa Serapong, May 23 Photo shared by Kelvin Yong on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/221127lazjk3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/221127lazjk3.jpg
     caption: Lazarus (Eagle Bay), Nov 22 Photo shared by James Koh on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/110220lazjk1m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/110220lazjk1m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by James Koh on his blog
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/170211cyrmn.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/170211cyrmn.jpg
     caption: Cyrene Reef, Feb 17 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/170501tsmkmn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/170501tsmkmn1.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Marcus Ng on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/100518bbbjk5m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/100518bbbjk5m3.jpg
     caption: Beting Bemban Besar, May 10 Photo shared by James Koh on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/110522bbblks3m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/110522bbblks3m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/200310bbbky3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/200310bbbky3.jpg
     caption: Beting Bemban Besar, Mar 20 Photo shared by Kelvin Yong on facebook .
   gallery8:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/strombidae/urceus/220201brklks15.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/220201brklks15.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '**Links**
 
   - [Little pitcher conch (
-
   *Strombus urceus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86879)
@@ -77,7 +76,6 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
   - [Black-lipped conch (
-
   *Strombus urceus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=199)
@@ -85,7 +83,6 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
   - Little pitcher conch (
-
   *Strombus urceus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide

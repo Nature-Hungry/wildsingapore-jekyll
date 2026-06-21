@@ -1,6 +1,6 @@
 ---
 title: Turtle dove snail
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Turtle dove snail on the shores of Singapore
 keywords: turtle, dove, shell, snail, pardalinops, pardalina, testudinaria, columbellidae,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
@@ -18,38 +18,38 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/050325sjig3657.jpg
+coverimg: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/050325sjig3657.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/050325sjig3657.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/050325sjig3657.jpg
     caption: Young snail with thinner shell. St John's Island, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/050325sjig3659.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/050325sjig3659.jpg
     caption: Underside.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/050325sjig3659a.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/050325sjig3659a.jpg
     caption: Operculum
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg
     caption: Sentosa, Nov 11
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3b.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3b.jpg
     caption: Adult snail with thicker shell.
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/110203sjid5709m3.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/110203sjid5709m3.jpg
     caption: Juveniles of various sizes. St John's Island, Feb 11
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/220104tkkvc7.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/220104tkkvc7.jpg
     caption: Pulau Tekukor, Jan 22 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/240528tslvc7.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/240528tslvc7.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/210403cyrvc2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/210403cyrvc2.jpg
     caption: Cyrene Reef, Apr 21 Photo shared by Vincent Choo on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/180717smkefl.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/180717smkefl.jpg
     caption: Pulau Semakau East, Jul 18 Photo shared by Frances Loke on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/240411tsmkccn1.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/240411tsmkccn1.jpg
     caption: Terumbu Semakau, Apr 24 Photo shared by Che Cheng Neo on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/240412tbccn2.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/240412tbccn2.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/mollusca/gastropoda/columbellidae/netted/220102biovc4.jpg
+  - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/220102biovc4.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook .
 links_references: '**Links**
 

@@ -1,5 +1,5 @@
 ---
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Yellow pot sponge on the shores of Singapore
 keywords: yellow, pot, sponge, rhabdastrella, globostellata, ancorinidae, porifera,
 layout: entry
 shape: ''
@@ -17,40 +17,40 @@ subclass: Heteroscleromorpha
 order: Tetractinellida
 suborder: Astrophorina
 updated: Oct 2016
-coverimg: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/040423sntd0131m3.jpg
+coverimg: https://images.naturehungry.sg/porifera/potyellow/040423sntd0131m3.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/040423sntd0131m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/040423sntd0131m3.jpg
     caption: Sentosa, Apr 04
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/040423sntd0131m3b.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/040423sntd0131m3b.jpg
     caption: Holes in the shallow depression.
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/040423sntd0131m3a.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/040423sntd0131m3a.jpg
     caption: Bumps on the outside.
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/050312hntg3326m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/050312hntg3326m3.jpg
     caption: Pulau Hantu, Mar 05
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/090412hntd9620m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/090412hntd9620m3.jpg
     caption: Pulau Hantu, Apr 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/070303sjig7860m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/070303sjig7860m3.jpg
     caption: St. John's Island, Mar 07
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/100519tsmklks1m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/100519tsmklks1m3.jpg
     caption: Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on his blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/100530tbkd4319m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/100530tbkd4319m3.jpg
     caption: Pulau Berkas, May 10
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/091204pawd5410m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/091204pawd5410m3.jpg
     caption: Pulau Pawai, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/091231biod7023m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/091231biod7023m3.jpg
     caption: Pulau Biola, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/100130brkd8675m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/100130brkd8675m3.jpg
     caption: Terumbu Berkas, Jan 10
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/100131slud8762m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/100131slud8762m3.jpg
     caption: Terumbu Salu, Jan 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/100601slud4822m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/100601slud4822m3.jpg
     caption: Pulau Salu, Jun 10
-  - url: https://f003.backblazeb2.com/file/naturehungry/porifera/potyellow/100613sngd5606m3.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/100613sngd5606m3.jpg
     caption: Pulau Senang, Jun 10
 links_references: '**Links**
 

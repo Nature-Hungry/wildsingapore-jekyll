@@ -1,6 +1,6 @@
 ---
 title: Beige sea cucumber
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Beige sea cucumber on the shores of Singapore
 keywords: beige, cucumber, seacucumber, holothuria, albiventer, holothuriidae, holothuroidea,
   echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -26,46 +26,46 @@ subclass: Actinopoda
 order: Holothuriida
 subgenus: Metriatyla
 updated: Apr 2020
-coverimg: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
+coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/120705chgd7195m6l.jpg
     caption: Indistinct dark blotches along the body length. Changi, Jul 12
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/120705chgd7195m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/120705chgd7195m3a.jpg
     caption: Many soft conical projections.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/120705chgd7196m6l.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/120705chgd7196m6l.jpg
     caption: Flattened underside with rows of stubby tube feet.
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/120705chgd7196m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/120705chgd7196m3a.jpg
     caption: ''
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/120705chgd7276m3a.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/120705chgd7276m3a.jpg
     caption: Feeding tentacles. Changi, Jul 12
   gallery3:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/250528chgsafal2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/250528chgsafal2.jpg
     caption: Changi SAF Chalet, May 25 Photo shared by Adriane Lee on facebook
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/251012chgal2.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/251012chgal2.jpg
     caption: Changi, Oct 25 Photo shared by Adriane Lee on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/250627bbio4.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/250627bbio4.jpg
     caption: Beting Bronok, Jun 25 Photo shared by Isaac Ong on facebook .
   gallery4:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/170428ecpcnlks7.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/170428ecpcnlks7.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/151031ecpmblks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/151031ecpmblks.JPG
     caption: East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on flickr
       .
   gallery5:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/150829laznml1m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/150829laznml1m3.jpg
     caption: Seringat-Kias, Aug 15 Photo shared by Neo Mei Lin on her blog .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/150618tmftlks4m3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/150618tmftlks4m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
   gallery6:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/141109lazmn.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/141109lazmn.jpg
     caption: Seringat-Kias, Nov 14 Photo shared by Marcus Ng on flickr .
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/171009blycw3.jpg
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/171009blycw3.jpg
     caption: Berlayar Creek, Nov 17 Photo shared by Chris Wong on facebook .
   gallery7:
-  - url: https://f003.backblazeb2.com/file/naturehungry/echinodermata/holothuroidea/beige/110814smklks.JPG
+  - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/110814smklks.JPG
     caption: Pulau Semakau, Aug 11 Photo shared by Loh Kok Sheng on flickr .
 links_references: '**Links**
 

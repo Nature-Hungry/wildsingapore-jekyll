@@ -1,6 +1,6 @@
 ---
 title: 'Rubber tree '
-description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+description: Fact sheet of Rubber tree  on the shores of Singapore
 keywords: rubber, hevea, brasiliensis, euphorbiaceae, tree, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -22,7 +22,7 @@ order: Malpighiales
 subfamily: Crotonoideae
 tribe: Heveae
 updated: Oct 09
-coverimg: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg
+coverimg: https://images.naturehungry.sg/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg
 links_references: '**Links**
 
   - [Rainforest Rojak](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a051c.htm)from
@@ -62,18 +62,18 @@ links_references: '**Links**
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/090802ubind8240m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/hevea/brasiliensis/090802ubind8240m3.jpg
     caption: Pulau Ubin, Aug 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2068m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/hevea/brasiliensis/091005cjd2068m3.jpg
     caption: Pulau Ubin, Oct 09 Pulau Ubin, Dec 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2140m6l.jpg
+  - url: https://images.naturehungry.sg/plants/others/hevea/brasiliensis/091005cjd2140m6l.jpg
     caption: Tapping rubber latex. Pulau Ubin, Oct 09
   gallery2:
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091115ubnd4293m3.jpg
+  - url: https://images.naturehungry.sg/plants/others/hevea/brasiliensis/091115ubnd4293m3.jpg
     caption: Pulau Ubin, Nov 09
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091115ubnd4293m3a.jpg
+  - url: https://images.naturehungry.sg/plants/others/hevea/brasiliensis/091115ubnd4293m3a.jpg
     caption: ''
-  - url: https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091115ubnd4293m3b.jpg
+  - url: https://images.naturehungry.sg/plants/others/hevea/brasiliensis/091115ubnd4293m3b.jpg
     caption: ''
 size:
 - 2000.0
@@ -107,10 +107,10 @@ There are two rubber trees with
 [Heritage Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=96&Itemid=79)
 : One is at Japanese Cemetery Park, Chuan Hoe Avenue 89 and another at the Singapore Botanic Gardens, behind the Green Pavilion.
 
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg)
+![](https://images.naturehungry.sg/plants/others/hevea/brasiliensis/091005cjd2065m6l.jpg)
 
 *Pulau Ubin, Oct 09
-![](https://f003.backblazeb2.com/file/naturehungry/plants/others/hevea/brasiliensis/091005cjd2142m6l.jpg)*
+![](https://images.naturehungry.sg/plants/others/hevea/brasiliensis/091005cjd2142m6l.jpg)*
 Next to the path to Chek Jawa.
 **Pulau Ubin, Oct 09**
 
