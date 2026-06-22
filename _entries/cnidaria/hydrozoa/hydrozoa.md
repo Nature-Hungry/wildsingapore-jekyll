@@ -5,7 +5,7 @@ keywords: hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marin
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Bougainvilliidae
-genus: ''
+genus: 'awaiting'
 species: ''
 attributes: []
 inat_id: 63663

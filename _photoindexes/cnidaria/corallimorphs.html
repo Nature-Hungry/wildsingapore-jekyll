@@ -1,0 +1,47 @@
+---
+title: "Photo index of corallimorphs on Singapore shores"
+description: ""
+keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+attributes:
+- 130
+- 129
+- 131
+- 139
+- 143
+- 150
+- 153
+- 158
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/others/corallimorphs/striped/110717tbd7305m.jpg
+- https://images.naturehungry.sg/cnidaria/others/corallimorphs/whitetip/120721tptd7882m.jpg
+- https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070ma.jpg
+- https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/040705sisd2121m.jpg
+- https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
+---
+
+
+{% assign filtered_posts = site.entries | where: "order", "Corallimorpharia" | where_exp: "item", "item.family != ''" %}
+
+<p>
+    <a href="/entries/cnidaria/corallimorphs/corallimorph/">Fact sheet on Corallimorphs in Singapore</a>
+</p>
+<br>
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+</div>
+
+
+
+
+
+

@@ -5,7 +5,7 @@ keywords: candy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
-genus: ''
+genus: 'awaiting'
 phylum: Cnidaria
 class: Hydrozoa
 species: identification*
@@ -14,6 +14,7 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
+summary: Clusters of many tiny fans, that can cover an area of about 5-10cm. Each tiny fan about 0.5cm in diameter. Pale brown. Colonies of these tiny animals are often encountered on our Southern shores, but often overlooked. In coral rubble areas.
 coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
 galleries:
   gallery1:

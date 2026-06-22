@@ -17,6 +17,7 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
+summary: 10-15cm. Colony with regular branches that form a maze-like pattern. Fat cylindrical stems. Orange, pink, yellow or white. On coral rubble. Sometimes seen on our Nothern shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
 galleries:
   gallery1:

@@ -17,6 +17,7 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
+summary: 20-30cm. Cylindrical stem unbranched, small white or transparent polyps. White or yellow. On coral rubble. Sometimes seen on our Northern shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
 galleries:
   gallery1:

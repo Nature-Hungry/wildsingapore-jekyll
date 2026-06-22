@@ -67,6 +67,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+summary: These little ridged disk-like animal is sometimes seen on our Southern shores, growing on coral rubble.
 ---
 
 ## Where seen?

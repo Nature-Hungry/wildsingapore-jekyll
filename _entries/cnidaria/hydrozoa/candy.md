@@ -5,8 +5,8 @@ keywords: candy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
-genus: ''
-species: ''
+genus: 'awaiting'
+species: 'identification'
 phylum: Cnidaria
 class: Hydrozoa
 attributes: []
@@ -14,6 +14,7 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
+summary: 5-10cm long with small capsules along the side branches. Pink or orange. On boulders, jetties. Commonly seen on some of our Northern shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/candy/090511chgd1389m6l.jpg
 galleries:
   gallery1:

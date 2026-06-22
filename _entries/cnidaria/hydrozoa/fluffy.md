@@ -5,7 +5,7 @@ keywords: orange, fluffy, hydroid, hydrozoa, cnidaria, field, guide, seashore, s
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
-genus: ''
+genus: 'awaiting'
 phylum: Cnidaria
 class: Hydrozoa
 species: identification*
@@ -14,6 +14,7 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
+summary: 10-15cm long densely branching with fine 'stems'. Usually bright orange. On coral rubble. Sometimes seen on some of our Northern shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
 galleries:
   gallery1:

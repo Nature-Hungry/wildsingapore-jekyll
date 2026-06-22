@@ -5,7 +5,7 @@ keywords: giant, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
-genus: ''
+genus: 'awaiting'
 phylum: Cnidaria
 class: Hydrozoa
 species: identification*
@@ -15,6 +15,7 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/130628tpklks.JPG
+summary: 2m or longer. Unbranched feather. Usually in deeper water on our Southern shores. Sometimes fragments are washed ashore.
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/130628tpklks.JPG

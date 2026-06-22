@@ -5,7 +5,7 @@ keywords: disk, disc, anemone, discosoma, corallimorph, anthozoa, cnidaria, fiel
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
-family: Corallimorphidae
+family: ''
 genus: ''
 species: ''
 attributes: []

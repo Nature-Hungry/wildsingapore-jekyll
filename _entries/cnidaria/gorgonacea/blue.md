@@ -11,6 +11,11 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+summary: 15-20cm. Colony with long branches. Cylindrical stems white or pink with large blue polyps all around. On coral rubble, rocks. Sometimes seen on our Northern shores.
 updated: May 2025
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg
 galleries:

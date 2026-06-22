@@ -17,6 +17,7 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
+summary: 10-20cm. Colony with branches on one plane that resemble veins of a leaf, or long tangled stems. Relatively large white polyps on opposite edges of the flattened, skinny stems. Red, maroon, orange, yellow. On coral rubble, rocks, in sand. Commonly seen on our Northern shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg
 galleries:
   gallery1:

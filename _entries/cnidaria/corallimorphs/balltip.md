@@ -129,6 +129,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+summary: This small animal with little balls at the tips of its transparent tentacles is seen growing on hard surfaces. Rocks and coral rubble in clusters of a few individuals. Sometimes seen on some of our shores.
 ---
 
 ## Where seen?

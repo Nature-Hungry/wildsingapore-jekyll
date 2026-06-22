@@ -8,7 +8,13 @@ layout: entry
 family: Ellisellidae
 genus: Dichotella
 species: cf.
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
 attributes: []
+summary: 15-20cm. Colony is a cluster of strems. Stems cylindrical, unbranched except near the base, covered with bumps, large white polyps emerge from tips of bumps. Red, white, yellow or orange. On coral rubble. Sometimes seen on our Northern shores.
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg
 galleries:

@@ -5,7 +5,7 @@ keywords: stinging, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, sh
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
-genus: ''
+genus: 'awaiting'
 phylum: Cnidaria
 class: Hydrozoa
 species: identification*
@@ -14,6 +14,7 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
+summary: 4-20cm long. Transparent or white fern-like 'leaves' on black branches. Stings powerfully. On coral rubble. Commonly seen on some of our shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
 galleries:
   gallery1:

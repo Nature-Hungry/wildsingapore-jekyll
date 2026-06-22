@@ -49,6 +49,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+summary: These little brown disk-shaped animal with stripes is sometimes encountered on our Southern shores, in coral rubble areas.
 ---
 
 ## Where seen?

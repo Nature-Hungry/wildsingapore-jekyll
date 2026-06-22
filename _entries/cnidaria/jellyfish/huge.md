@@ -7,9 +7,11 @@ keywords: jellyfish, jelly, fish, jellies, rhizostomeae, scyphozoa, cnidaria, fi
 layout: entry
 attributes:
 - 56
-family: Class Scyphozoa
-genus: Order
-species: Rhizostomeae
+kingdom: Animalia
+phylum: Cnidaria
+class: Scyphozoa
+order: Rhizostomeae
+summary: Bell about 25-50cm across, short tentacles. Sometimes seen washed ashore or trapped in pools on our Northern shores.
 updated: Jan 2020
 coverimg: https://images.naturehungry.sg/cnidaria/others/jellyfish/huge/020809chgd0006m3.jpg
 galleries:

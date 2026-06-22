@@ -9,6 +9,7 @@ family: Plexauridae
 genus: Echinomuricea
 species: pulchra*
 attributes: []
+summary: 10-15cm. Colony few branching stems on one plane, cylindrical stems with large pink polyps. On coral rubble. Commonly seen on our Northern shores.
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
 galleries:

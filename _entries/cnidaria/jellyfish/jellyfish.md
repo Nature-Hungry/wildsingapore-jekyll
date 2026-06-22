@@ -4,7 +4,7 @@ description: Fact sheet of Jellyfish on the shores of Singapore
 keywords: jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Cassiopeidae
+family: ''
 genus: ''
 species: ''
 attributes: []
@@ -13,10 +13,10 @@ stateofmatter: Life
 kingdom: Animalia
 phylum: Cnidaria
 class: Scyphozoa
-subclass: Discomedusae
-order: Rhizostomeae
-suborder: Kolpophorae
-infraorder: Kampylomyaria
+subclass: ''
+order: ''
+suborder: ''
+infraorder: ''
 updated: Aug 2025
 coverimg: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
 galleries:

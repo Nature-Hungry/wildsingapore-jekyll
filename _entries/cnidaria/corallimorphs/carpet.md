@@ -105,6 +105,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+summary: This shaggy disk-shaped animal is commonly encountered on many of our Southern shores, on coral rubble.
 ---
 
 ## Where seen?

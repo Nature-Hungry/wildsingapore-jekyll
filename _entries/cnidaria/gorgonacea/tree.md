@@ -16,6 +16,7 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
+summary: 10-15cm. Colony with branches on one plane that resembles the silhouette of a large tree. With swollen nodes where stems branch. Polyps all around the stem. Red, pink or white. On coral rubble, rocks, in sand. Sometimes seen on our Northern shores.
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg
 galleries:

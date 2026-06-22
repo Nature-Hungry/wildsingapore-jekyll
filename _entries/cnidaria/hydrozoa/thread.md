@@ -1,10 +1,11 @@
 ---
-title: 'Thread-tentacled jellyfish '
+title: 'Thread-tentacled jellyfish'
 description: Fact sheet of Thread-tentacled jellyfish  on the shores of Singapore
 keywords: jellyfish, jelly, fish, jellies, aequora, hydrozoa, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
 layout: entry
+summary: Bell about 10cm across, thin thread-like tentacles about 25cm long. Sometimes seen on some of our shores.
 attributes:
 - 56
 family: Aequoreidae

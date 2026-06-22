@@ -84,6 +84,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+summary: These little disk-shaped animal with stubby tentacles is sometimes encountered on our Southern shores, among coral rubble.
 ---
 
 ## Where seen?

@@ -115,6 +115,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+summary: This little animal with a delicate fringe around the edge of its disk-shaped body is sometimes encountered on our Southern shores, in coral rubble areas.
 ---
 
 ## Where seen?

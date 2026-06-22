@@ -1,0 +1,50 @@
+---
+title: "Photo index of hydroids on Singapore shores"
+description: ""
+keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+attributes:
+- 129
+- 130
+- 131
+- 134
+- 140
+- 148
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m.jpg
+- https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/030714bbd0074m.jpg
+- https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050411tusd2333ma.jpg
+- https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m.jpg
+- https://images.naturehungry.sg/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
+---
+
+
+{% assign filtered_posts = site.entries | where: "class", "Hydrozoa" | where_exp: "item", "item.title != 'Hydroids'" %}
+<p>
+    <a href="/entries/cnidaria/hydrozoa/hydrozoa/">Fact sheet on hydroids in Singapore</a>
+</p>
+<br>
+
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+</div>
+
+
+<br>
+<h2>These are NOT hydroids</h2>
+<br>
+<div class="flex flex-wrap gap-2">
+{% assign entry = site.entries | where : "title","Glassy branching bryozoan" | first %}
+{% include entry-summary-card.html item=entry %}
+</div>
+
+

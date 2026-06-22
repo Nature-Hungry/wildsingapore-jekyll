@@ -14,11 +14,11 @@ attributes:
 - 149
 - 150
 coverimgs:
-- https://images.naturehungry.sg/wildfacts/worm/sipuncula/sipuncula/031122cjd0011m.jpg
-- https://images.naturehungry.sg/wildfacts/worm/polychaeta/reef/040804skdd4129m.jpg
-- https://images.naturehungry.sg/wildfacts/worm/polychaeta/gregarious/060129skdg4109m.jpg
-- https://images.naturehungry.sg/wildfacts/worm/polychaeta/sabellidae/banded/060611cjd2781m.jpg
-- https://images.naturehungry.sg/wildfacts/worm/polycladida/acanthozoon/060625bbd3443m.jpg
+- https://images.naturehungry.sg/worm/sipuncula/sipuncula/031122cjd0011m.jpg
+- https://images.naturehungry.sg/worm/polychaeta/reef/040804skdd4129m.jpg
+- https://images.naturehungry.sg/worm/polychaeta/gregarious/060129skdg4109m.jpg
+- https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/060611cjd2781m.jpg
+- https://images.naturehungry.sg/worm/polycladida/acanthozoon/060625bbd3443m.jpg
 child_pages:
 - label: "<a href=\"wormfi1a.htm\">Typical \n            worms: smooth</a><br/>\n\
     \            acorn worms, peanut worms, ribbon worms"

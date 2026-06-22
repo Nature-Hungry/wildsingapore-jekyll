@@ -11,7 +11,11 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
 updated: Jul 2020
+summary: 15-20cm. Colony with long branches, tangled in large colonies. Cylindrical stems white or pale with large yellow or pale orange polyps all around. On coral rubble, rocks. Sometimes seen on our Northern shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lemon/130722skdd9718m6l.jpg
 galleries:
   gallery1:

@@ -1,0 +1,50 @@
+---
+title: "Photo index of jellyfish on Singapore shores"
+description: ""
+keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+attributes:
+- 130
+- 133
+- 141
+- 150
+- 145
+- 153
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/050624tusg8505m.jpg
+- https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/050426cftg5076m.jpg
+- https://images.naturehungry.sg/cnidaria/others/jellyfish/upsidedown/080321smkd0421m.jpg
+- https://images.naturehungry.sg/cnidaria/others/jellyfish/mangrove/080412cjd1238m.jpg
+- https://images.naturehungry.sg/cnidaria/others/jellyfish/huge/020809chgd0006m3.jpg
+---
+
+
+{% assign filtered_posts = site.entries | where: "class", "Scyphozoa" | where_exp: "item", "item.order != ''" %}
+<p>
+    <a href="/entries/cnidaria/jellyfish/jellyfish/">Fact sheet on jellyfish in Singapore</a>
+</p>
+<br>
+
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+</div>
+
+
+<br>
+<h2>Jellyfish-like cnidarians</h2>
+<br>
+<div class="flex flex-wrap gap-2">
+{% assign entry = site.entries | where : "title","Thread-tentacled jellyfish" | first %}
+{% include entry-summary-card.html item=entry %}
+</div>
+
+
