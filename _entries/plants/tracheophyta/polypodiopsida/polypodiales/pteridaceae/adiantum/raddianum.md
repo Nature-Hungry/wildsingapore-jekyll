@@ -1,0 +1,32 @@
+---
+genus: Adiantum
+species: raddianum
+inat_id: 158023
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+class: Polypodiopsida
+subclass: Polypodiidae
+order: Polypodiales
+suborder: Pteridineae
+family: Pteridaceae
+subfamily: Vittarioideae
+complex: Formosum clade
+galleries:
+  gallery1:
+  - url: DSC03454 (14).jpg
+  - url: DSC03499 (14).jpg
+  - url: DSC03467 (14).jpg
+  - url: DSC03470 (14).jpg
+  - url: DSC03469 (14).jpg
+  - url: DSC03501 (14).jpg
+  - url: DSC03502 (14).jpg
+  - url: DSC03455 (14).jpg
+title: Delta Maidenhair Fern
+authors:
+- Ong Kwan Han
+zone:
+- terrestrial
+layout: entry
+---
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
