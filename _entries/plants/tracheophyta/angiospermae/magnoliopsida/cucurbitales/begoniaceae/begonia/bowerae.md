@@ -12,14 +12,14 @@ family: Begoniaceae
 section: Gireoudia
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/bowerae/DSC03394 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/bowerae/DSC03395 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\begoniaceae\begonia\bowerae/DSC03394 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\begoniaceae\begonia\bowerae/DSC03395 (10).jpg
 title: Eyelash Begonia
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/bowerae/DSC03394 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\begoniaceae\begonia\bowerae/DSC03394 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

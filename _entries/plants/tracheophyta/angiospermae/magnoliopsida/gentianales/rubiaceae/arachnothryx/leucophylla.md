@@ -13,13 +13,15 @@ subfamily: Cinchonoideae
 tribe: Guettardeae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/arachnothryx/leucophylla/DSC02188 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/arachnothryx/leucophylla/DSC02189 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/arachnothryx/leucophylla/DSC02190 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/arachnothryx/leucophylla/DSC02191 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/arachnothryx/leucophylla/DSC02195 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/arachnothryx/leucophylla/DSC02193 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/arachnothryx/leucophylla/DSC09763 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\arachnothryx\leucophylla/DSC02188 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\arachnothryx\leucophylla/DSC02189 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\arachnothryx\leucophylla/DSC02190 (09).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\arachnothryx\leucophylla/DSC02191 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\arachnothryx\leucophylla/DSC02195 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\arachnothryx\leucophylla/DSC02193 (09).jpg
+  gallery3:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\arachnothryx\leucophylla/DSC09763 (14).jpg
 title: Panama Rose
 other_names:
 - Bush Pentas
@@ -28,6 +30,8 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/arachnothryx/leucophylla/DSC02188 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\arachnothryx\leucophylla/DSC02188 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

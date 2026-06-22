@@ -11,10 +11,11 @@ order: Zingiberales
 family: Costaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/productus/DSC02219 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/productus/DSC02230 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/productus/DSC02218 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/productus/DSC02220 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\costaceae\costus\productus/DSC02219 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\costaceae\costus\productus/DSC02230 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\costaceae\costus\productus/DSC02218 (08).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\costaceae\costus\productus/DSC02220 (08).jpg
 title: Spiral Ginger
 other_names:
 - Dwarf Orange Ginger
@@ -24,6 +25,7 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/productus/DSC02219 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\costaceae\costus\productus/DSC02219 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -13,10 +13,11 @@ subfamily: Amaryllidoideae
 tribe: Haemantheae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/clivia/miniata/DSC02695 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/clivia/miniata/DSC02697 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/clivia/miniata/DSC02699 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/clivia/miniata/DSC02700 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\clivia\miniata/DSC02695 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\clivia\miniata/DSC02697 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\clivia\miniata/DSC02699 (10).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\clivia\miniata/DSC02700 (10).jpg
 title: Kaffir Lily
 other_names:
 - Bush Lily
@@ -25,6 +26,7 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/clivia/miniata/DSC02695 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\clivia\miniata/DSC02695 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}

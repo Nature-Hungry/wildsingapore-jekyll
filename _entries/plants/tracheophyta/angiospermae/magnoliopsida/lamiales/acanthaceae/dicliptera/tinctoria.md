@@ -14,20 +14,24 @@ tribe: Justicieae
 subtribe: Justiciinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dicliptera/tinctoria/DSC01478 (17).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dicliptera/tinctoria/DSC01479 (17).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dicliptera/tinctoria/DSC00432 (14).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dicliptera/tinctoria/DSC00435 (14).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dicliptera/tinctoria/DSC00434 (14).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dicliptera/tinctoria/DSC02381 (12).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dicliptera/tinctoria/DSC02382 (12).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dicliptera/tinctoria/DSC08870 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\dicliptera\tinctoria/DSC01478 (17).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\dicliptera\tinctoria/DSC01479 (17).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\dicliptera\tinctoria/DSC00432 (14).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\dicliptera\tinctoria/DSC00435 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\dicliptera\tinctoria/DSC00434 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\dicliptera\tinctoria/DSC02381 (12).jpg
+  gallery3:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\dicliptera\tinctoria/DSC02382 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\dicliptera\tinctoria/DSC08870 (09).jpg
 title: Magenta Plant
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dicliptera/tinctoria/DSC01478 (17).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\dicliptera\tinctoria/DSC01478 (17).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

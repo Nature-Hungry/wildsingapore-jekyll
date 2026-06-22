@@ -12,8 +12,8 @@ family: Amaryllidaceae
 subfamily: Agapanthoideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/agapanthus/praecox/DSC00803 (07).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/agapanthus/praecox/DSC00804 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\agapanthus\praecox/DSC00803 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\agapanthus\praecox/DSC00804 (07).jpg
 title: Blue Lily
 other_names:
 - African Lily
@@ -22,6 +22,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/agapanthus/praecox/DSC00803 (07).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\agapanthus\praecox/DSC00803 (07).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

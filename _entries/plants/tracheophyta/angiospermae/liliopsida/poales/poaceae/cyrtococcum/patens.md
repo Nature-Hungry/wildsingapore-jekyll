@@ -14,18 +14,21 @@ tribe: Paniceae
 subtribe: Boivinellinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07789 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC02563 (13).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07793 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07797 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07794 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC02569 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cyrtococcum\patens/DSC07789 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cyrtococcum\patens/DSC02563 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cyrtococcum\patens/DSC07793 (10).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cyrtococcum\patens/DSC07797 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cyrtococcum\patens/DSC07794 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cyrtococcum\patens/DSC02569 (13).jpg
 title: Bowgrass
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07789 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cyrtococcum\patens/DSC07789 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

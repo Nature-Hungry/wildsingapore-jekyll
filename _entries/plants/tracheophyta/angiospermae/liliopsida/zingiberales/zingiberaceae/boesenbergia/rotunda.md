@@ -13,8 +13,8 @@ subfamily: Zingiberoideae
 tribe: Zingibereae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/boesenbergia/rotunda/DSC02459 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/boesenbergia/rotunda/DSC02458 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\boesenbergia\rotunda/DSC02459 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\boesenbergia\rotunda/DSC02458 (08).jpg
 title: Chinese Keys
 other_names:
 - Chinese Ginger
@@ -24,6 +24,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/boesenbergia/rotunda/DSC02459 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\boesenbergia\rotunda/DSC02459 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

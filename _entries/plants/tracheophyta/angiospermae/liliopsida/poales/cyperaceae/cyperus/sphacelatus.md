@@ -13,25 +13,33 @@ subfamily: Cyperoideae
 tribe: Cypereae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC08655 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC08654 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC08656 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC08657 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC04094 (14).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC04071 (14).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC05154 (15).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC05176 (15).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC05178 (15).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC05189 (15).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC05185 (15).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC05179 (15).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC05165 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC08655 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC08654 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC08656 (08).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC08657 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC04094 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC04071 (14).jpg
+  gallery3:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC05154 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC05176 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC05178 (15).jpg
+  gallery4:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC05189 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC05185 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC05179 (15).jpg
+  gallery5:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC05165 (15).jpg
 title: Roadside Flatsedge
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/sphacelatus/DSC08655 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\sphacelatus/DSC08655 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+{% include img-wrap-group.html items=page.galleries.gallery5 %}

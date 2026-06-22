@@ -14,18 +14,21 @@ tribe: Phaseoleae
 subtribe: Clitoriinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC06575 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC06578 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC00201 (13).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC06576 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC06577 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC06187 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC00205 (13).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC00202 (13).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC02262 (16).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC02264 (16).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC09780 (13).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC06575 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC06578 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC00201 (13).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC06576 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC06577 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC06187 (10).jpg
+  gallery3:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC00205 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC00202 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC02262 (16).jpg
+  gallery4:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC02264 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC09780 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/Hybrid_cultivar1.jpg
 title: Blue Pea Vine
 other_names:
 - Butterfly Pea
@@ -34,6 +37,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/clitoria/ternatea/DSC06575 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\clitoria\ternatea/DSC06575 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+{% include img-wrap-group.html items=page.galleries.gallery5 %}

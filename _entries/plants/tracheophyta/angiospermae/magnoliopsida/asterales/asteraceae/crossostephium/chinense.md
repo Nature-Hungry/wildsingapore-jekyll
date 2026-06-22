@@ -14,15 +14,16 @@ tribe: Anthemideae
 subtribe: Artemisiinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/crossostephium/chinense/DSC04198 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/crossostephium/chinense/DSC04200 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/crossostephium/chinense/DSC04202 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\crossostephium\chinense/DSC04198 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\crossostephium\chinense/DSC04200 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\crossostephium\chinense/DSC04202 (10).jpg
 title: Chinese Wormwood
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/crossostephium/chinense/DSC04198 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\crossostephium\chinense/DSC04198 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}

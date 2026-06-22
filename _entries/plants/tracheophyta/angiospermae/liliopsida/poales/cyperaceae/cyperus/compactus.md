@@ -13,18 +13,21 @@ subfamily: Cyperoideae
 tribe: Cypereae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC00298 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC01124 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC01128 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC01125 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC00303 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC00301 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\compactus/DSC00298 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\compactus/DSC01124 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\compactus/DSC01128 (08).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\compactus/DSC01125 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\compactus/DSC00303 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\compactus/DSC00301 (09).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC00298 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\compactus/DSC00298 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

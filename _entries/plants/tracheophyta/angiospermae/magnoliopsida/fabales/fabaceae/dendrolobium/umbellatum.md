@@ -14,14 +14,16 @@ tribe: Desmodieae
 subtribe: Desmodiinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dendrolobium/umbellatum/DSC05150 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dendrolobium/umbellatum/DSC08134 (12).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dendrolobium/umbellatum/DSC08141 (12).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dendrolobium/umbellatum/DSC08140 (12).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dendrolobium/umbellatum/DSC08136 (12).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dendrolobium/umbellatum/DSC08132 (12).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dendrolobium/umbellatum/DSC08137 (12).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dendrolobium/umbellatum/DSC08139 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\dendrolobium\umbellatum/DSC05150 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\dendrolobium\umbellatum/DSC08134 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\dendrolobium\umbellatum/DSC08141 (12).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\dendrolobium\umbellatum/DSC08140 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\dendrolobium\umbellatum/DSC08136 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\dendrolobium\umbellatum/DSC08132 (12).jpg
+  gallery3:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\dendrolobium\umbellatum/DSC08137 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\dendrolobium\umbellatum/DSC08139 (12).jpg
 title: Horse Bush
 other_names:
 - Petai Laut
@@ -30,6 +32,8 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dendrolobium/umbellatum/DSC05150 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\dendrolobium\umbellatum/DSC05150 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

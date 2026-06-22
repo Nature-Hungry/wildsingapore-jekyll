@@ -13,18 +13,21 @@ subfamily: Asteroideae
 tribe: Coreopsideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC00704 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC00707 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC00705 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC00710 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC07470 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC07467 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC07468 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC02924 (13).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC07448 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC07449 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC07452 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC02926 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC00704 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC00707 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC00705 (09).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC00710 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC07470 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC07467 (09).jpg
+  gallery3:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC07468 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC02924 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC07448 (09).jpg
+  gallery4:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC07449 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC07452 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC02926 (13).jpg
 title: Beggarticks
 other_names:
 - Romerillo
@@ -33,6 +36,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/alba/DSC00704 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\alba/DSC00704 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+{% include img-wrap-group.html items=page.galleries.gallery5 %}

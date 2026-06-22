@@ -11,11 +11,12 @@ order: Ceratophyllales
 family: Ceratophyllaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ceratophyllales/ceratophyllaceae/ceratophyllum/demersum/DSC06078 (16).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ceratophyllales/ceratophyllaceae/ceratophyllum/demersum/DSC06441 (16).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ceratophyllales/ceratophyllaceae/ceratophyllum/demersum/DSC06598 (16).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ceratophyllales/ceratophyllaceae/ceratophyllum/demersum/DSC06602 (16).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ceratophyllales/ceratophyllaceae/ceratophyllum/demersum/DSC06593 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ceratophyllales\ceratophyllaceae\ceratophyllum\demersum/DSC06078 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ceratophyllales\ceratophyllaceae\ceratophyllum\demersum/DSC06441 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ceratophyllales\ceratophyllaceae\ceratophyllum\demersum/DSC06598 (16).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ceratophyllales\ceratophyllaceae\ceratophyllum\demersum/DSC06602 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ceratophyllales\ceratophyllaceae\ceratophyllum\demersum/DSC06593 (16).jpg
 title: Hornwort
 other_names:
 - Coontail
@@ -24,6 +25,7 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ceratophyllales/ceratophyllaceae/ceratophyllum/demersum/DSC06078 (16).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ceratophyllales\ceratophyllaceae\ceratophyllum\demersum/DSC06078 (16).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}

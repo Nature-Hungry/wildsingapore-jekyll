@@ -13,12 +13,13 @@ subfamily: Asteroideae
 tribe: Coreopsideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/pilosa/DSC00855 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/pilosa/DSC04179 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/pilosa/DSC04168 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/pilosa/DSC04180 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/pilosa/DSC00856 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/pilosa/DSC04177 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\pilosa/DSC00855 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\pilosa/DSC04179 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\pilosa/DSC04168 (10).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\pilosa/DSC04180 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\pilosa/DSC00856 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\pilosa/DSC04177 (10).jpg
 title: Spanish Needle
 other_names:
 - Hairy Beggarticks
@@ -27,6 +28,8 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/bidens/pilosa/DSC00855 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\bidens\pilosa/DSC00855 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

@@ -13,20 +13,24 @@ family: Aspleniaceae
 section: Thamnopteris
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/aspleniaceae/asplenium/nidus/DSC02457 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/aspleniaceae/asplenium/nidus/DSC02458 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/aspleniaceae/asplenium/nidus/DSC02560 (08).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/aspleniaceae/asplenium/nidus/DSC00635 (07).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/aspleniaceae/asplenium/nidus/DSC00847 (04).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/aspleniaceae/asplenium/nidus/DSC05023 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/aspleniaceae/asplenium/nidus/DSC05024 (10).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/aspleniaceae/asplenium/nidus/DSC03280 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\aspleniaceae\asplenium\nidus/DSC02457 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\aspleniaceae\asplenium\nidus/DSC02458 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\aspleniaceae\asplenium\nidus/DSC02560 (08).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\aspleniaceae\asplenium\nidus/DSC00635 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\aspleniaceae\asplenium\nidus/DSC00847 (04).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\aspleniaceae\asplenium\nidus/DSC05023 (10).jpg
+  gallery3:
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\aspleniaceae\asplenium\nidus/DSC05024 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\aspleniaceae\asplenium\nidus/DSC03280 (08).jpg
 title: Bird's Nest Fern
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/aspleniaceae/asplenium/nidus/DSC02457 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\aspleniaceae\asplenium\nidus/DSC02457 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

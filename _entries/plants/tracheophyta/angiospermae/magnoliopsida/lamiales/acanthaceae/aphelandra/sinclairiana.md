@@ -14,14 +14,16 @@ tribe: Acantheae
 subtribe: Aphelandrinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/aphelandra/sinclairiana/P1010019 (24).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/aphelandra/sinclairiana/P1010014 (24).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/aphelandra/sinclairiana/P1010017 (24).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/aphelandra/sinclairiana/P1010018 (24).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/aphelandra/sinclairiana/P1010015 (24).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/aphelandra/sinclairiana/DSC03620 (09).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/aphelandra/sinclairiana/DSC08818 (12).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/aphelandra/sinclairiana/DSC08824 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\aphelandra\sinclairiana/P1010019 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\aphelandra\sinclairiana/P1010014 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\aphelandra\sinclairiana/P1010017 (24).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\aphelandra\sinclairiana/P1010018 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\aphelandra\sinclairiana/P1010015 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\aphelandra\sinclairiana/DSC03620 (09).jpg
+  gallery3:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\aphelandra\sinclairiana/DSC08818 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\aphelandra\sinclairiana/DSC08824 (12).jpg
 title: Orange Shrimp Plant
 other_names:
 - Coral Aphelandra
@@ -31,6 +33,8 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/aphelandra/sinclairiana/P1010019 (24).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\aphelandra\sinclairiana/P1010019 (24).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+{% include img-wrap-group.html items=page.galleries.gallery3 %}

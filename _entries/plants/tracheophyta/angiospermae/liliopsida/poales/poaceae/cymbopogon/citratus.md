@@ -14,17 +14,19 @@ tribe: Andropogoneae
 subtribe: Anthistiriinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cymbopogon/citratus/DSC00577 (11).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cymbopogon/citratus/DSC00576 (11).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cymbopogon/citratus/DSC00579 (11).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cymbopogon/citratus/DSC00573 (11).jpg
-  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cymbopogon/citratus/DSC00575 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cymbopogon\citratus/DSC00577 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cymbopogon\citratus/DSC00576 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cymbopogon\citratus/DSC00579 (11).jpg
+  gallery2:
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cymbopogon\citratus/DSC00573 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cymbopogon\citratus/DSC00575 (11).jpg
 title: Lemon Grass
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cymbopogon/citratus/DSC00577 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\cymbopogon\citratus/DSC00577 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
