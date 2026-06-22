@@ -14,19 +14,20 @@ tribe: Trichosporeae
 subtribe: Didymocarpinae
 galleries:
   gallery1:
-  - url: P1070327 (25).jpg
-  - url: P1070330 (25).jpg
-  - url: P1070335 (25).jpg
-  - url: P1070334 (25).jpg
-  - url: P1070331 (25).jpg
-  - url: P1070333 (25).jpg
-  - url: P1070337 (25).jpg
-  - url: P1070332 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/aeschynanthus/pulcher/P1070327 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/aeschynanthus/pulcher/P1070330 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/aeschynanthus/pulcher/P1070335 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/aeschynanthus/pulcher/P1070334 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/aeschynanthus/pulcher/P1070331 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/aeschynanthus/pulcher/P1070333 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/aeschynanthus/pulcher/P1070337 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/aeschynanthus/pulcher/P1070332 (25).jpg
 title: Lipstick Plant
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/aeschynanthus/pulcher/P1070327 (25).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

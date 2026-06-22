@@ -13,20 +13,20 @@ subfamily: Rubioideae
 tribe: Palicoureeae
 galleries:
   gallery1:
-  - url: DSC07841 (08).jpg
-  - url: DSC05981 (16).jpg
-  - url: DSC09398 (08).jpg
-  - url: DSC05239 (08).jpg
-  - url: DSC03093 (10).jpg
-  - url: DSC05409 (12).jpg
-  - url: P4220174 (23).jpg
-  - url: DSC03803 (08).jpg
-  - url: DSC05983 (16).jpg
-  - url: DSC05986 (16).jpg
-  - url: DSC01649 (14).jpg
-  - url: P1290112 (20).jpg
-  - url: P1290115 (20).jpg
-  - url: P7310080 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC07841 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC05981 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC09398 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC05239 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC03093 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC05409 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/P4220174 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC03803 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC05983 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC05986 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC01649 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/P1290112 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/P1290115 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/P7310080 (24).jpg
 title: Curvedflower Chasalis
 other_names:
 - Tindug-tindugan
@@ -35,5 +35,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/chassalia/curviflora/DSC07841 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -13,18 +13,19 @@ subfamily: Alpinioideae
 tribe: Alpinieae
 galleries:
   gallery1:
-  - url: PA130131 (24).jpg
-  - url: PA130128 (24).jpg
-  - url: PA130137 (24).jpg
-  - url: PA130135 (24).jpg
-  - url: PA130144 (24).jpg
-  - url: PA130150 (24).jpg
-  - url: PA130129 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/conchigera/PA130131 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/conchigera/PA130128 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/conchigera/PA130137 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/conchigera/PA130135 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/conchigera/PA130144 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/conchigera/PA130150 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/conchigera/PA130129 (24).jpg
 title: Lesser Alpinia
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/conchigera/PA130131 (24).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

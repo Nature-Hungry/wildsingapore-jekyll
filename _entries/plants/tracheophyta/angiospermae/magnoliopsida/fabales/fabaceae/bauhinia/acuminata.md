@@ -13,17 +13,18 @@ subfamily: Cercidoideae
 tribe: Bauhinieae
 galleries:
   gallery1:
-  - url: DSC06272 (11).jpg
-  - url: DSC06279 (11).jpg
-  - url: DSC06277 (11).jpg
-  - url: DSC06275 (11).jpg
-  - url: DSC06274 (11).jpg
-  - url: DSC06281 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/bauhinia/acuminata/DSC06272 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/bauhinia/acuminata/DSC06279 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/bauhinia/acuminata/DSC06277 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/bauhinia/acuminata/DSC06275 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/bauhinia/acuminata/DSC06274 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/bauhinia/acuminata/DSC06281 (11).jpg
 title: Dwarf White Orchid Tree
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/bauhinia/acuminata/DSC06272 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

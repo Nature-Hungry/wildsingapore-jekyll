@@ -11,19 +11,20 @@ order: Zingiberales
 family: Costaceae
 galleries:
   gallery1:
-  - url: DSC09545 (09).jpg
-  - url: DSC09958 (10).jpg
-  - url: DSC03556 (10).jpg
-  - url: DSC03557 (10).jpg
-  - url: DSC03558 (10).jpg
-  - url: DSC09959 (10).jpg
-  - url: DSC05628 (13).jpg
-  - url: DSC05630 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/lucanusianus/DSC09545 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/lucanusianus/DSC09958 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/lucanusianus/DSC03556 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/lucanusianus/DSC03557 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/lucanusianus/DSC03558 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/lucanusianus/DSC09959 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/lucanusianus/DSC05628 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/lucanusianus/DSC05630 (13).jpg
 title: African Spiral Flag
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/costaceae/costus/lucanusianus/DSC09545 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

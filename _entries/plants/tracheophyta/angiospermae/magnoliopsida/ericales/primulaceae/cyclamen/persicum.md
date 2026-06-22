@@ -13,15 +13,16 @@ subfamily: Myrsinoideae
 subgenus: Eucosme
 galleries:
   gallery1:
-  - url: DSC03393 (10).jpg
-  - url: DSC03388 (10).jpg
-  - url: DSC03387 (10).jpg
-  - url: DSC03390 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/cyclamen/persicum/DSC03393 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/cyclamen/persicum/DSC03388 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/cyclamen/persicum/DSC03387 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/cyclamen/persicum/DSC03390 (10).jpg
 title: Florist's Cyclamen
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/cyclamen/persicum/DSC03393 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -12,15 +12,16 @@ family: Moraceae
 tribe: Artocarpeae
 galleries:
   gallery1:
-  - url: DSC00036 (13).jpg
-  - url: DSC00037 (13).jpg
-  - url: DSC00030 (13).jpg
-  - url: DSC00039 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/dadah/DSC00036 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/dadah/DSC00037 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/dadah/DSC00030 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/dadah/DSC00039 (13).jpg
 title: Green Tampang
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/dadah/DSC00036 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

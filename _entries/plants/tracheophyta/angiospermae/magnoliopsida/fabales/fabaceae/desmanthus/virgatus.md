@@ -13,16 +13,16 @@ subfamily: Mimosoideae
 tribe: Mimoseae
 galleries:
   gallery1:
-  - url: DSC04656 (12).jpg
-  - url: DSC06446 (10).jpg
-  - url: DSC04660 (12).jpg
-  - url: DSC06447 (10).jpg
-  - url: DSC06452 (10).jpg
-  - url: DSC06472 (10).jpg
-  - url: DSC03533 (10).jpg
-  - url: DSC03532 (10).jpg
-  - url: DSC06457 (10).jpg
-  - url: DSC04659 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC04656 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC06446 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC04660 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC06447 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC06452 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC06472 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC03533 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC03532 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC06457 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC04659 (12).jpg
 title: Slender Mimosa
 other_names:
 - Wild Tantan
@@ -31,5 +31,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/desmanthus/virgatus/DSC04656 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -15,12 +15,12 @@ subtribe: Artemisiinae
 subgenus: Artemisia
 galleries:
   gallery1:
-  - url: DSC04051 (11).jpg
-  - url: DSC04029 (08).jpg
-  - url: DSC02734 (15).jpg
-  - url: DSC02735 (15).jpg
-  - url: P5070253 (17).jpg
-  - url: P5070256 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/artemisia/vulgaris/DSC04051 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/artemisia/vulgaris/DSC04029 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/artemisia/vulgaris/DSC02734 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/artemisia/vulgaris/DSC02735 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/artemisia/vulgaris/P5070253 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/artemisia/vulgaris/P5070256 (17).jpg
 title: Mugwort
 other_names:
 - Common Wormwood
@@ -30,5 +30,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/artemisia/vulgaris/DSC04051 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

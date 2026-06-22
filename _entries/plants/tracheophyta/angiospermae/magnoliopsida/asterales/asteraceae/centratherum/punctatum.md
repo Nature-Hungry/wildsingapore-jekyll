@@ -14,12 +14,12 @@ tribe: Vernonieae
 subtribe: Lychnophorinae
 galleries:
   gallery1:
-  - url: DSC06825 (12).jpg
-  - url: DSC00694 (07).jpg
-  - url: DSC06822 (12).jpg
-  - url: DSC00693 (07).jpg
-  - url: DSC06823 (12).jpg
-  - url: DSC06955 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/centratherum/punctatum/DSC06825 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/centratherum/punctatum/DSC00694 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/centratherum/punctatum/DSC06822 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/centratherum/punctatum/DSC00693 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/centratherum/punctatum/DSC06823 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/centratherum/punctatum/DSC06955 (14).jpg
 title: Brazilian Button Flower
 other_names:
 - Centratherum
@@ -29,5 +29,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/centratherum/punctatum/DSC06825 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

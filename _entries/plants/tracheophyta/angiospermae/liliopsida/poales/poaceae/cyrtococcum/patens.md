@@ -14,17 +14,18 @@ tribe: Paniceae
 subtribe: Boivinellinae
 galleries:
   gallery1:
-  - url: DSC07789 (10).jpg
-  - url: DSC02563 (13).jpg
-  - url: DSC07793 (10).jpg
-  - url: DSC07797 (10).jpg
-  - url: DSC07794 (10).jpg
-  - url: DSC02569 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07789 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC02563 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07793 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07797 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07794 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC02569 (13).jpg
 title: Bowgrass
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cyrtococcum/patens/DSC07789 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

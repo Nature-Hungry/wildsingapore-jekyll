@@ -13,12 +13,12 @@ subfamily: Asteroideae
 tribe: Coreopsideae
 galleries:
   gallery1:
-  - url: DSC06756 (09).jpg
-  - url: DSC06764 (09).jpg
-  - url: DSC06758 (09).jpg
-  - url: DSC06759 (09).jpg
-  - url: DSC06761 (09).jpg
-  - url: DSC06762 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/cosmos/caudatus/DSC06756 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/cosmos/caudatus/DSC06764 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/cosmos/caudatus/DSC06758 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/cosmos/caudatus/DSC06759 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/cosmos/caudatus/DSC06761 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/cosmos/caudatus/DSC06762 (09).jpg
 title: Wild Cosmos
 other_names:
 - Ulam Raja
@@ -27,5 +27,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/cosmos/caudatus/DSC06756 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

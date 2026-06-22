@@ -11,18 +11,19 @@ order: Acorales
 family: Acoraceae
 galleries:
   gallery1:
-  - url: DSC01220 (15).jpg
-  - url: DSC01216 (15).jpg
-  - url: DSC01223 (15).jpg
-  - url: DSC01210 (15).jpg
-  - url: DSC01217 (15).jpg
-  - url: DSC01218 (15).jpg
-  - url: DSC01215 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/acorales/acoraceae/acorus/calamus/DSC01220 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/acorales/acoraceae/acorus/calamus/DSC01216 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/acorales/acoraceae/acorus/calamus/DSC01223 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/acorales/acoraceae/acorus/calamus/DSC01210 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/acorales/acoraceae/acorus/calamus/DSC01217 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/acorales/acoraceae/acorus/calamus/DSC01218 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/acorales/acoraceae/acorus/calamus/DSC01215 (15).jpg
 title: Sweet Flag
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/acorales/acoraceae/acorus/calamus/DSC01220 (15).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

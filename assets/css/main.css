@@ -1010,6 +1010,10 @@ li { margin-bottom: 0.2rem; }
   .page-with-bar {
     grid-template-columns: 1fr;
   }
+  .page-content{
+    margin-top:0;
+
+  }
 
   .content-bar {
     position:             static;
@@ -1337,4 +1341,9 @@ pre .comment  { color: #75715e; }
   .contributor-role-tag{
     margin:0;
   }
+}
+
+
+@view-transition {
+  navigation: auto;
 }

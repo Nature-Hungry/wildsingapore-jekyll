@@ -14,15 +14,16 @@ tribe: Inuleae
 subtribe: Inulinae
 galleries:
   gallery1:
-  - url: DSC05690 (09).jpg
-  - url: DSC05696 (09).jpg
-  - url: DSC05693 (09).jpg
-  - url: DSC05695 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/balsamifera/DSC05690 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/balsamifera/DSC05696 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/balsamifera/DSC05693 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/balsamifera/DSC05695 (09).jpg
 title: Sambong
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/balsamifera/DSC05690 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

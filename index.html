@@ -249,6 +249,7 @@ const random_sample = [
 {% endfor %}
 ]
 
+console.log(random_sample)
 
 for (let i = random_sample.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -264,7 +265,7 @@ let html = '';
 randomPosts.forEach(post => {
     html += `
      <a class="random" href="${post.url}">
-        <img src=${post.coverimg} alt="">
+        <img src="${post.coverimg}" alt="">
         <p class="caption">${post.title}</p>
 
     </a>

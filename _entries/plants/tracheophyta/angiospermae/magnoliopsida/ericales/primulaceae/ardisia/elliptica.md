@@ -12,19 +12,19 @@ family: Primulaceae
 subfamily: Myrsinoideae
 galleries:
   gallery1:
-  - url: DSC04843 (10).jpg
-  - url: DSC09193 (14).jpg
-  - url: DSC09191 (14).jpg
-  - url: DSC09020 (12).jpg
-  - url: DSC04595 (11).jpg
-  - url: DSC08164 (12).jpg
-  - url: P4280268 (19).jpg
-  - url: P4280273 (19).jpg
-  - url: DSC01295 (08).jpg
-  - url: P7230137 (24).jpg
-  - url: DSC06857 (15).jpg
-  - url: DSC09060 (14).jpg
-  - url: P4280266 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC04843 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC09193 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC09191 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC09020 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC04595 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC08164 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/P4280268 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/P4280273 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC01295 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/P7230137 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC06857 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC09060 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/P4280266 (19).jpg
 title: Mata Pelanduk
 other_names:
 - Sea-Shore Ardisia
@@ -34,5 +34,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/primulaceae/ardisia/elliptica/DSC04843 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

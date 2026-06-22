@@ -11,18 +11,19 @@ order: Santalales
 family: Opiliaceae
 galleries:
   gallery1:
-  - url: P1290075 (20).jpg
-  - url: DSC05701 (16).jpg
-  - url: DSC05708 (16).jpg
-  - url: P1290083 (20).jpg
-  - url: P1290088 (20).jpg
-  - url: P1290078 (20).jpg
-  - url: P1290085 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/santalales/opiliaceae/cansjera/rheedei/P1290075 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/santalales/opiliaceae/cansjera/rheedei/DSC05701 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/santalales/opiliaceae/cansjera/rheedei/DSC05708 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/santalales/opiliaceae/cansjera/rheedei/P1290083 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/santalales/opiliaceae/cansjera/rheedei/P1290088 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/santalales/opiliaceae/cansjera/rheedei/P1290078 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/santalales/opiliaceae/cansjera/rheedei/P1290085 (20).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/santalales/opiliaceae/cansjera/rheedei/P1290075 (20).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

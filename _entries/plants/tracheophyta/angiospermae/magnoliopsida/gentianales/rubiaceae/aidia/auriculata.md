@@ -13,16 +13,17 @@ subfamily: Ixoroideae
 tribe: Gardenieae
 galleries:
   gallery1:
-  - url: DSC01332 (14).jpg
-  - url: DSC01333 (14).jpg
-  - url: DSC01335 (14).jpg
-  - url: DSC01336 (14).jpg
-  - url: DSC01338 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/aidia/auriculata/DSC01332 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/aidia/auriculata/DSC01333 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/aidia/auriculata/DSC01335 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/aidia/auriculata/DSC01336 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/aidia/auriculata/DSC01338 (14).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/rubiaceae/aidia/auriculata/DSC01332 (14).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

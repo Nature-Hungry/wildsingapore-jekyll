@@ -11,16 +11,17 @@ order: Dilleniales
 family: Dilleniaceae
 galleries:
   gallery1:
-  - url: DSC00292 (10).jpg
-  - url: DSC00293 (10).jpg
-  - url: DSC00291 (10).jpg
-  - url: DSC09919 (12).jpg
-  - url: DSC00294 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/ingens/DSC00292 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/ingens/DSC00293 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/ingens/DSC00291 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/ingens/DSC09919 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/ingens/DSC00294 (10).jpg
 title: Giant-leaved Dillenia
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/ingens/DSC00292 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

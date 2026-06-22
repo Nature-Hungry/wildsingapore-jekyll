@@ -14,14 +14,14 @@ tribe: Thomsonieae
 subgenus: Amorphophallus
 galleries:
   gallery1:
-  - url: DSC05370 (13).jpg
-  - url: DSC01250 (15).jpg
-  - url: DSC05291 (13).jpg
-  - url: DSC05293 (13).jpg
-  - url: DSC05292 (13).jpg
-  - url: DSC05371 (13).jpg
-  - url: DSC01252 (15).jpg
-  - url: DSC01251 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/amorphophallus/paeoniifolius/DSC05370 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/amorphophallus/paeoniifolius/DSC01250 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/amorphophallus/paeoniifolius/DSC05291 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/amorphophallus/paeoniifolius/DSC05293 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/amorphophallus/paeoniifolius/DSC05292 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/amorphophallus/paeoniifolius/DSC05371 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/amorphophallus/paeoniifolius/DSC01252 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/amorphophallus/paeoniifolius/DSC01251 (15).jpg
 title: Corpse Flower
 other_names:
 - Elephant's Foot Yam
@@ -30,5 +30,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/amorphophallus/paeoniifolius/DSC05370 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

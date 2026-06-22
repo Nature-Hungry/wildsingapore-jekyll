@@ -11,19 +11,20 @@ order: Malpighiales
 family: Calophyllaceae
 galleries:
   gallery1:
-  - url: DSC05577 (13).jpg
-  - url: DSC05578 (13).jpg
-  - url: PA020257 (24).jpg
-  - url: PA020256 (24).jpg
-  - url: PA170249 (24).jpg
-  - url: DSC05581 (13).jpg
-  - url: DSC05582 (13).jpg
-  - url: DSC05579 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/calophyllaceae/calophyllum/rubiginosum/DSC05577 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/calophyllaceae/calophyllum/rubiginosum/DSC05578 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/calophyllaceae/calophyllum/rubiginosum/PA020257 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/calophyllaceae/calophyllum/rubiginosum/PA020256 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/calophyllaceae/calophyllum/rubiginosum/PA170249 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/calophyllaceae/calophyllum/rubiginosum/DSC05581 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/calophyllaceae/calophyllum/rubiginosum/DSC05582 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/calophyllaceae/calophyllum/rubiginosum/DSC05579 (13).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/calophyllaceae/calophyllum/rubiginosum/DSC05577 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

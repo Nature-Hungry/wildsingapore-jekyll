@@ -12,15 +12,15 @@ family: Apocynaceae
 subfamily: Rauvolfioideae
 galleries:
   gallery1:
-  - url: DSC03983 (08).jpg
-  - url: DSC05732 (15).jpg
-  - url: DSC03986 (08).jpg
-  - url: DSC03987 (08).jpg
-  - url: DSC03984 (08).jpg
-  - url: DSC05730 (15).jpg
-  - url: DSC03989 (08).jpg
-  - url: DSC03990 (08).jpg
-  - url: DSC05731 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC03983 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC05732 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC03986 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC03987 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC03984 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC05730 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC03989 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC03990 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC05731 (15).jpg
 title: Yellow Oleander
 other_names:
 - Trumpet Flower
@@ -29,5 +29,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/cascabela/thevetia/DSC03983 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

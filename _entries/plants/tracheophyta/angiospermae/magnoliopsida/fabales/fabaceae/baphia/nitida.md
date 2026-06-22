@@ -13,18 +13,18 @@ subfamily: Faboideae
 tribe: Baphieae
 galleries:
   gallery1:
-  - url: DSC07516 (07).jpg
-  - url: DSC07873 (07).jpg
-  - url: PA100010 (24).jpg
-  - url: PA170043 (24).jpg
-  - url: PA100012 (24).jpg
-  - url: PA100013 (24).jpg
-  - url: PA170038 (24).jpg
-  - url: PA170042 (24).jpg
-  - url: DSC09153 (12).jpg
-  - url: DSC09152 (12).jpg
-  - url: PA100017 (24).jpg
-  - url: PA100018 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/DSC07516 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/DSC07873 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/PA100010 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/PA170043 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/PA100012 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/PA100013 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/PA170038 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/PA170042 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/DSC09153 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/DSC09152 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/PA100017 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/PA100018 (24).jpg
 title: Barwood
 other_names:
 - Camwood
@@ -33,5 +33,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/baphia/nitida/DSC07516 (07).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

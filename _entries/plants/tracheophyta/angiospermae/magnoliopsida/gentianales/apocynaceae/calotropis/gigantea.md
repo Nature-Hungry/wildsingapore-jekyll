@@ -14,14 +14,14 @@ tribe: Asclepiadeae
 subtribe: Asclepiadinae
 galleries:
   gallery1:
-  - url: DSC01494 (13).jpg
-  - url: DSC01499 (13).jpg
-  - url: DSC01496 (13).jpg
-  - url: DSC02288 (09).jpg
-  - url: DSC01503 (13).jpg
-  - url: DSC01501 (13).jpg
-  - url: DSC01500 (13).jpg
-  - url: DSC01504 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/calotropis/gigantea/DSC01494 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/calotropis/gigantea/DSC01499 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/calotropis/gigantea/DSC01496 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/calotropis/gigantea/DSC02288 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/calotropis/gigantea/DSC01503 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/calotropis/gigantea/DSC01501 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/calotropis/gigantea/DSC01500 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/calotropis/gigantea/DSC01504 (13).jpg
 title: Crown Flower
 other_names:
 - Giant Milkweed
@@ -30,5 +30,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/calotropis/gigantea/DSC01494 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

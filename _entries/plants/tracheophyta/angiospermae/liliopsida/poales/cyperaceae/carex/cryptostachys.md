@@ -15,17 +15,18 @@ subgenus: Carex
 section: Cryptostachyae
 galleries:
   gallery1:
-  - url: DSC03785 (10).jpg
-  - url: DSC03787 (10).jpg
-  - url: DSC03788 (10).jpg
-  - url: DSC03792 (10).jpg
-  - url: DSC03796 (10).jpg
-  - url: DSC01988 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/carex/cryptostachys/DSC03785 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/carex/cryptostachys/DSC03787 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/carex/cryptostachys/DSC03788 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/carex/cryptostachys/DSC03792 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/carex/cryptostachys/DSC03796 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/carex/cryptostachys/DSC01988 (14).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/carex/cryptostachys/DSC03785 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

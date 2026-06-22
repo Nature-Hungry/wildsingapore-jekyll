@@ -11,18 +11,19 @@ order: Zingiberales
 family: Marantaceae
 galleries:
   gallery1:
-  - url: DSC02298 (09).jpg
-  - url: DSC02898 (12).jpg
-  - url: DSC02295 (09).jpg
-  - url: DSC02292 (09).jpg
-  - url: DSC02296 (09).jpg
-  - url: DSC02294 (09).jpg
-  - url: DSC02297 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/marantaceae/calathea/lutea/DSC02298 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/marantaceae/calathea/lutea/DSC02898 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/marantaceae/calathea/lutea/DSC02295 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/marantaceae/calathea/lutea/DSC02292 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/marantaceae/calathea/lutea/DSC02296 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/marantaceae/calathea/lutea/DSC02294 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/marantaceae/calathea/lutea/DSC02297 (09).jpg
 title: Habana Cigar
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/marantaceae/calathea/lutea/DSC02298 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -11,12 +11,12 @@ order: Vitales
 family: Vitaceae
 galleries:
   gallery1:
-  - url: DSC09178 (12).jpg
-  - url: DSC09188 (12).jpg
-  - url: DSC09187 (12).jpg
-  - url: DSC09185 (12).jpg
-  - url: DSC09181 (12).jpg
-  - url: DSC09189 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/cissus/quadrangularis/DSC09178 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/cissus/quadrangularis/DSC09188 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/cissus/quadrangularis/DSC09187 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/cissus/quadrangularis/DSC09185 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/cissus/quadrangularis/DSC09181 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/cissus/quadrangularis/DSC09189 (12).jpg
 title: Veldt Grape
 other_names:
 - Devil's Backbone
@@ -25,5 +25,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/cissus/quadrangularis/DSC09178 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

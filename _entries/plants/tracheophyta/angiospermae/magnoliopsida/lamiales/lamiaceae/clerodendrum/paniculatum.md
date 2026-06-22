@@ -12,23 +12,24 @@ family: Lamiaceae
 subfamily: Ajugoideae
 galleries:
   gallery1:
-  - url: DSC03635 (09).jpg
-  - url: DSC04599 (10).jpg
-  - url: DSC04862 (09).jpg
-  - url: DSC01083 (08).jpg
-  - url: DSC01085 (08).jpg
-  - url: DSC04603 (10).jpg
-  - url: DSC06690 (10).jpg
-  - url: DSC04866 (09).jpg
-  - url: DSC04867 (09).jpg
-  - url: DSC08915 (14).jpg
-  - url: DSC08916 (14).jpg
-  - url: Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC03635 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC04599 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC04862 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC01083 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC01085 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC04603 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC06690 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC04866 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC04867 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC08915 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC08916 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/Hybrid_cultivar1.jpg
 title: Pagoda Flower
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/paniculatum/DSC03635 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

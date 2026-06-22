@@ -11,24 +11,25 @@ order: Malpighiales
 family: Rhizophoraceae
 galleries:
   gallery1:
-  - url: DSC09133 (12).jpg
-  - url: DSC06543 (11).jpg
-  - url: DSC09132 (12).jpg
-  - url: DSC09090 (12).jpg
-  - url: DSC07721 (12).jpg
-  - url: DSC07311 (12).jpg
-  - url: DSC07314 (12).jpg
-  - url: DSC05389 (11).jpg
-  - url: DSC07315 (12).jpg
-  - url: DSC07319 (12).jpg
-  - url: DSC09113 (12).jpg
-  - url: DSC07717 (12).jpg
-  - url: DSC07718 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC09133 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC06543 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC09132 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC09090 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC07721 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC07311 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC07314 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC05389 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC07315 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC07319 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC09113 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC07717 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC07718 (12).jpg
 title: Freshwater Mangrove
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/carallia/brachiata/DSC09133 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

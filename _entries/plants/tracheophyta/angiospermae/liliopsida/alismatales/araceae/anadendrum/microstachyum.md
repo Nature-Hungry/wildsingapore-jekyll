@@ -13,21 +13,22 @@ subfamily: Monsteroideae
 tribe: Anadendreae
 galleries:
   gallery1:
-  - url: P7310089 (24).jpg
-  - url: P7310090 (24).jpg
-  - url: PA260435 (19).jpg
-  - url: PA260429 (19).jpg
-  - url: DSC05225 (12).jpg
-  - url: PA260446 (19).jpg
-  - url: P7310092 (24).jpg
-  - url: DSC03187 (10).jpg
-  - url: DSC04256 (12).jpg
-  - url: DSC03182 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/P7310089 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/P7310090 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/PA260435 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/PA260429 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/DSC05225 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/PA260446 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/P7310092 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/DSC03187 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/DSC04256 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/DSC03182 (10).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anadendrum/microstachyum/P7310089 (24).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

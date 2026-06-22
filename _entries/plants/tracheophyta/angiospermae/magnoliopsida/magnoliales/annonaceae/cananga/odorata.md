@@ -12,20 +12,21 @@ family: Annonaceae
 subfamily: Ambavioideae
 galleries:
   gallery1:
-  - url: DSC02398 (09).jpg
-  - url: PC250034 (21).jpg
-  - url: PC250037 (21).jpg
-  - url: DSC00494 (10).jpg
-  - url: DSC09333 (09).jpg
-  - url: DSC00496 (10).jpg
-  - url: PC250038 (21).jpg
-  - url: PC250035 (21).jpg
-  - url: Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/DSC02398 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/PC250034 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/PC250037 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/DSC00494 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/DSC09333 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/DSC00496 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/PC250038 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/PC250035 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/Hybrid_cultivar1.jpg
 title: Ylang-ylang
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/cananga/odorata/DSC02398 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

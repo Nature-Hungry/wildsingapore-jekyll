@@ -12,22 +12,23 @@ family: Lamiaceae
 subfamily: Ajugoideae
 galleries:
   gallery1:
-  - url: P9270454 (24).jpg
-  - url: P9270455 (24).jpg
-  - url: P8150529 (24).jpg
-  - url: DSC08409 (10).jpg
-  - url: PA260295 (19).jpg
-  - url: PA260296 (19).jpg
-  - url: DSC08412 (10).jpg
-  - url: P8220245 (24).jpg
-  - url: P8220247 (24).jpg
-  - url: DSC08414 (10).jpg
-  - url: DSC08367 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/P9270454 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/P9270455 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/P8150529 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/DSC08409 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/PA260295 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/PA260296 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/DSC08412 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/P8220245 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/P8220247 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/DSC08414 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/DSC08367 (08).jpg
 title: Swaddling Flower
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/disparifolium/P9270454 (24).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

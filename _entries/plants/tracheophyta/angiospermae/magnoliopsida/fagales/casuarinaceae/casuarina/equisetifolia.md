@@ -11,13 +11,13 @@ order: Fagales
 family: Casuarinaceae
 galleries:
   gallery1:
-  - url: DSC05001 (09).jpg
-  - url: DSC05710 (09).jpg
-  - url: DSC04394 (11).jpg
-  - url: DSC04393 (11).jpg
-  - url: DSC00742 (07).jpg
-  - url: DSC00734 (07).jpg
-  - url: DSC05709 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fagales/casuarinaceae/casuarina/equisetifolia/DSC05001 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fagales/casuarinaceae/casuarina/equisetifolia/DSC05710 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fagales/casuarinaceae/casuarina/equisetifolia/DSC04394 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fagales/casuarinaceae/casuarina/equisetifolia/DSC04393 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fagales/casuarinaceae/casuarina/equisetifolia/DSC00742 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fagales/casuarinaceae/casuarina/equisetifolia/DSC00734 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fagales/casuarinaceae/casuarina/equisetifolia/DSC05709 (09).jpg
 title: Common Rhu
 other_names:
 - Horsetail Casuarina
@@ -27,5 +27,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fagales/casuarinaceae/casuarina/equisetifolia/DSC05001 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

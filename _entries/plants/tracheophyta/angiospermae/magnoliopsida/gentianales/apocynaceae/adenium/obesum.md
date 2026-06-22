@@ -14,13 +14,13 @@ tribe: Nerieae
 subtribe: Neriinae
 galleries:
   gallery1:
-  - url: DSC05895 (09).jpg
-  - url: DSC05896 (09).jpg
-  - url: DSC01944 (08).jpg
-  - url: DSC07084 (10).jpg
-  - url: DSC07086 (10).jpg
-  - url: DSC05900 (09).jpg
-  - url: DSC08916 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/adenium/obesum/DSC05895 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/adenium/obesum/DSC05896 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/adenium/obesum/DSC01944 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/adenium/obesum/DSC07084 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/adenium/obesum/DSC07086 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/adenium/obesum/DSC05900 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/adenium/obesum/DSC08916 (07).jpg
 title: Desert Rose
 other_names:
 - Impala Lily
@@ -29,5 +29,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/adenium/obesum/DSC05895 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

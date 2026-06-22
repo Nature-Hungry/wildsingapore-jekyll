@@ -11,20 +11,20 @@ order: Brassicales
 family: Caricaceae
 galleries:
   gallery1:
-  - url: DSC07257 (15).jpg
-  - url: DSC08769 (07).jpg
-  - url: P8210061 (24).jpg
-  - url: DSC01178 (09).jpg
-  - url: DSC07255 (15).jpg
-  - url: DSC07253 (15).jpg
-  - url: DSC08770 (07).jpg
-  - url: DSC05710 (15).jpg
-  - url: DSC07409 (07).jpg
-  - url: P5310031 (20).jpg
-  - url: P5310035 (20).jpg
-  - url: P5310036 (20).jpg
-  - url: Hybrid_cultivar1.jpg
-  - url: Hybrid_cultivar2.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/DSC07257 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/DSC08769 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/P8210061 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/DSC01178 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/DSC07255 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/DSC07253 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/DSC08770 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/DSC05710 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/DSC07409 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/P5310031 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/P5310035 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/P5310036 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/Hybrid_cultivar2.jpg
 title: Papaya
 other_names:
 - Papaw
@@ -33,5 +33,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/caricaceae/carica/papaya/DSC07257 (15).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

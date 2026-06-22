@@ -11,12 +11,12 @@ order: Malvales
 family: Bixaceae
 galleries:
   gallery1:
-  - url: DSC01184 (08).jpg
-  - url: DSC01185 (08).jpg
-  - url: DSC03229 (10).jpg
-  - url: DSC01186 (08).jpg
-  - url: DSC01189 (08).jpg
-  - url: DSC01190 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/bixaceae/bixa/orellana/DSC01184 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/bixaceae/bixa/orellana/DSC01185 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/bixaceae/bixa/orellana/DSC03229 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/bixaceae/bixa/orellana/DSC01186 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/bixaceae/bixa/orellana/DSC01189 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/bixaceae/bixa/orellana/DSC01190 (08).jpg
 title: Lipstick Tree
 other_names:
 - Annatto
@@ -25,5 +25,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/bixaceae/bixa/orellana/DSC01184 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

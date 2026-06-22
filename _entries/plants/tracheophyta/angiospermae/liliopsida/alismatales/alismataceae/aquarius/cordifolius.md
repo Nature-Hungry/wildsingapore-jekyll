@@ -11,12 +11,12 @@ order: Alismatales
 family: Alismataceae
 galleries:
   gallery1:
-  - url: DSC01498 (08).jpg
-  - url: DSC01499 (08).jpg
-  - url: DSC02051 (08).jpg
-  - url: DSC01500 (08).jpg
-  - url: DSC02047 (08).jpg
-  - url: DSC02048 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/alismataceae/aquarius/cordifolius/DSC01498 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/alismataceae/aquarius/cordifolius/DSC01499 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/alismataceae/aquarius/cordifolius/DSC02051 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/alismataceae/aquarius/cordifolius/DSC01500 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/alismataceae/aquarius/cordifolius/DSC02047 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/alismataceae/aquarius/cordifolius/DSC02048 (08).jpg
 title: Creeping Burhead
 other_names:
 - Spade-leaf Plant
@@ -26,5 +26,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/alismataceae/aquarius/cordifolius/DSC01498 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

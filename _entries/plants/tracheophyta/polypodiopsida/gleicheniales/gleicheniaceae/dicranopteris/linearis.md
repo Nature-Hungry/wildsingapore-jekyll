@@ -11,25 +11,26 @@ order: Gleicheniales
 family: Gleicheniaceae
 galleries:
   gallery1:
-  - url: DSC06880 (09).jpg
-  - url: DSC01281 (08).jpg
-  - url: DSC01282 (08).jpg
-  - url: DSC01292 (08).jpg
-  - url: DSC01288 (08).jpg
-  - url: DSC01285 (08).jpg
-  - url: DSC05376 (08).jpg
-  - url: DSC05377 (08).jpg
-  - url: DSC01290 (08).jpg
-  - url: DSC06881 (09).jpg
-  - url: DSC03720 (08).jpg
-  - url: DSC08238 (08).jpg
-  - url: P5280281 (17).jpg
-  - url: P5280284 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC06880 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC01281 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC01282 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC01292 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC01288 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC01285 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC05376 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC05377 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC01290 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC06881 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC03720 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC08238 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/P5280281 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/P5280284 (17).jpg
 title: Resam Fern
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/linearis/DSC06880 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

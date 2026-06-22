@@ -12,17 +12,18 @@ family: Moraceae
 tribe: Artocarpeae
 galleries:
   gallery1:
-  - url: DSC08767 (07).jpg
-  - url: DSC07764 (07).jpg
-  - url: DSC08764 (07).jpg
-  - url: DSC08765 (07).jpg
-  - url: DSC08763 (07).jpg
-  - url: DSC08766 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/altilis/DSC08767 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/altilis/DSC07764 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/altilis/DSC08764 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/altilis/DSC08765 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/altilis/DSC08763 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/altilis/DSC08766 (07).jpg
 title: Breadfruit
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/altilis/DSC08767 (07).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

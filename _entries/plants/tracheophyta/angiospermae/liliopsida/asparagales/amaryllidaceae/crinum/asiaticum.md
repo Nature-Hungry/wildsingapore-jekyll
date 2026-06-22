@@ -14,17 +14,17 @@ tribe: Amaryllideae
 subtribe: Crininae
 galleries:
   gallery1:
-  - url: DSC03859 (08).jpg
-  - url: DSC08165 (12).jpg
-  - url: DSC02769 (09).jpg
-  - url: DSC02771 (09).jpg
-  - url: DSC06219 (07).jpg
-  - url: DSC06221 (07).jpg
-  - url: DSC05081 (09).jpg
-  - url: DSC05080 (09).jpg
-  - url: DSC03860 (08).jpg
-  - url: DSC05082 (09).jpg
-  - url: Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC03859 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC08165 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC02769 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC02771 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC06219 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC06221 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC05081 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC05080 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC03860 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC05082 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/Hybrid_cultivar1.jpg
 title: Seashore Crinum
 other_names:
 - Crinum Lily
@@ -34,5 +34,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/crinum/asiaticum/DSC03859 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

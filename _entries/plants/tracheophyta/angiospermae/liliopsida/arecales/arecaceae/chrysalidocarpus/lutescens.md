@@ -14,16 +14,16 @@ tribe: Areceae
 subtribe: Dypsidinae
 galleries:
   gallery1:
-  - url: DSC09458 (14).jpg
-  - url: DSC07161 (08).jpg
-  - url: DSC07157 (08).jpg
-  - url: DSC07156 (08).jpg
-  - url: DSC07158 (08).jpg
-  - url: DSC07160 (08).jpg
-  - url: DSC09464 (14).jpg
-  - url: DSC09463 (14).jpg
-  - url: DSC09459 (14).jpg
-  - url: DSC09460 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC09458 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC07161 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC07157 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC07156 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC07158 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC07160 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC09464 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC09463 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC09459 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC09460 (14).jpg
 title: Yellow Cane Palm
 other_names:
 - Golden Cane Palm
@@ -34,5 +34,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/chrysalidocarpus/lutescens/DSC09458 (14).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

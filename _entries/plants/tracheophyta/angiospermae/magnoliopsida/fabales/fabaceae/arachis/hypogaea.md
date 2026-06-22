@@ -13,12 +13,12 @@ subfamily: Faboideae
 tribe: Dalbergieae
 galleries:
   gallery1:
-  - url: DSC01152 (09).jpg
-  - url: DSC01187 (09).jpg
-  - url: DSC03321 (08).jpg
-  - url: DSC01155 (09).jpg
-  - url: DSC01153 (09).jpg
-  - url: DSC01156 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/arachis/hypogaea/DSC01152 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/arachis/hypogaea/DSC01187 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/arachis/hypogaea/DSC03321 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/arachis/hypogaea/DSC01155 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/arachis/hypogaea/DSC01153 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/arachis/hypogaea/DSC01156 (09).jpg
 title: Peanut
 other_names:
 - Groundnut
@@ -27,5 +27,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/arachis/hypogaea/DSC01152 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -13,17 +13,18 @@ subfamily: Alpinioideae
 tribe: Alpinieae
 galleries:
   gallery1:
-  - url: DSC00719 (14).jpg
-  - url: DSC00725 (14).jpg
-  - url: DSC00721 (14).jpg
-  - url: DSC00722 (14).jpg
-  - url: DSC00724 (14).jpg
-  - url: DSC00728 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/officinarum/DSC00719 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/officinarum/DSC00725 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/officinarum/DSC00721 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/officinarum/DSC00722 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/officinarum/DSC00724 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/officinarum/DSC00728 (14).jpg
 title: Lesser Galangal
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/zingiberales/zingiberaceae/alpinia/officinarum/DSC00719 (14).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

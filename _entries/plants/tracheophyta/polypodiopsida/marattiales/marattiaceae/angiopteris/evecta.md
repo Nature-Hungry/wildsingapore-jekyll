@@ -11,18 +11,18 @@ order: Marattiales
 family: Marattiaceae
 galleries:
   gallery1:
-  - url: DSC04077 (11).jpg
-  - url: DSC03926 (09).jpg
-  - url: DSC02239 (08).jpg
-  - url: DSC03921 (09).jpg
-  - url: DSC03917 (09).jpg
-  - url: DSC03924 (09).jpg
-  - url: DSC03877 (09).jpg
-  - url: DSC04072 (09).jpg
-  - url: DSC03883 (09).jpg
-  - url: DSC03914 (09).jpg
-  - url: DSC04080 (09).jpg
-  - url: DSC04545 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC04077 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC03926 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC02239 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC03921 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC03917 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC03924 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC03877 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC04072 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC03883 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC03914 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC04080 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC04545 (12).jpg
 title: Mule's-foot Fern
 other_names:
 - Giant Fern
@@ -32,5 +32,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/polypodiopsida/marattiales/marattiaceae/angiopteris/evecta/DSC04077 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

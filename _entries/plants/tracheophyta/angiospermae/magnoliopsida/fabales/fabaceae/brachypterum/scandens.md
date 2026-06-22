@@ -13,12 +13,12 @@ subfamily: Faboideae
 tribe: Millettieae
 galleries:
   gallery1:
-  - url: DSC04861 (14).jpg
-  - url: DSC04857 (14).jpg
-  - url: DSC04862 (14).jpg
-  - url: DSC04855 (14).jpg
-  - url: DSC04848 (14).jpg
-  - url: DSC04853 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brachypterum/scandens/DSC04861 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brachypterum/scandens/DSC04857 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brachypterum/scandens/DSC04862 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brachypterum/scandens/DSC04855 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brachypterum/scandens/DSC04848 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brachypterum/scandens/DSC04853 (14).jpg
 title: Jewel Vine
 other_names:
 - Hog Creeper
@@ -27,5 +27,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brachypterum/scandens/DSC04861 (14).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

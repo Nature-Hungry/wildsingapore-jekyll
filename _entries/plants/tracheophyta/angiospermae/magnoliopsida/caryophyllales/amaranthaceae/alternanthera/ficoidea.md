@@ -12,9 +12,9 @@ family: Amaranthaceae
 subfamily: Gomphrenoideae
 galleries:
   gallery1:
-  - url: DSC06055 (11).jpg
-  - url: DSC06060 (11).jpg
-  - url: DSC06059 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/ficoidea/DSC06055 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/ficoidea/DSC06060 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/ficoidea/DSC06059 (11).jpg
 title: Calico Plant
 other_names:
 - Joseph's Coat
@@ -23,5 +23,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/ficoidea/DSC06055 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

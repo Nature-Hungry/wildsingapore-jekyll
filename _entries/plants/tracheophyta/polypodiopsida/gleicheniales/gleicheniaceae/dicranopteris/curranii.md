@@ -11,23 +11,24 @@ order: Gleicheniales
 family: Gleicheniaceae
 galleries:
   gallery1:
-  - url: DSC05870 (11).jpg
-  - url: DSC05879 (11).jpg
-  - url: DSC05871 (11).jpg
-  - url: DSC05874 (11).jpg
-  - url: DSC05880 (11).jpg
-  - url: DSC05881 (11).jpg
-  - url: DSC05872 (11).jpg
-  - url: DSC05877 (11).jpg
-  - url: P5280345 (17).jpg
-  - url: P5280347 (17).jpg
-  - url: P5280349 (17).jpg
-  - url: P5280350 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/DSC05870 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/DSC05879 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/DSC05871 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/DSC05874 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/DSC05880 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/DSC05881 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/DSC05872 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/DSC05877 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/P5280345 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/P5280347 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/P5280349 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/P5280350 (17).jpg
 title: Roadside Fern
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/polypodiopsida/gleicheniales/gleicheniaceae/dicranopteris/curranii/DSC05870 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

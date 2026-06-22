@@ -11,15 +11,16 @@ order: Dioscoreales
 family: Burmanniaceae
 galleries:
   gallery1:
-  - url: DSC01142 (11).jpg
-  - url: DSC07277 (10).jpg
-  - url: DSC02538 (10).jpg
-  - url: DSC01141 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/dioscoreales/burmanniaceae/burmannia/coelestis/DSC01142 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/dioscoreales/burmanniaceae/burmannia/coelestis/DSC07277 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/dioscoreales/burmanniaceae/burmannia/coelestis/DSC02538 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/dioscoreales/burmanniaceae/burmannia/coelestis/DSC01141 (11).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/dioscoreales/burmanniaceae/burmannia/coelestis/DSC01142 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

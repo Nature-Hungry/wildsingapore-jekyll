@@ -11,21 +11,22 @@ order: Malpighiales
 family: Rhizophoraceae
 galleries:
   gallery1:
-  - url: DSC03024 (18).jpg
-  - url: DSC03025 (18).jpg
-  - url: DSC03030 (18).jpg
-  - url: DSC03026 (18).jpg
-  - url: P5120032 (18).jpg
-  - url: DSC03027 (18).jpg
-  - url: P5120031 (18).jpg
-  - url: P5120026 (18).jpg
-  - url: P5120030 (18).jpg
-  - url: P5120036 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/DSC03024 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/DSC03025 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/DSC03030 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/DSC03026 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/P5120032 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/DSC03027 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/P5120031 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/P5120026 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/P5120030 (18).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/P5120036 (18).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/rhizophoraceae/ceriops/zippeliana/DSC03024 (18).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

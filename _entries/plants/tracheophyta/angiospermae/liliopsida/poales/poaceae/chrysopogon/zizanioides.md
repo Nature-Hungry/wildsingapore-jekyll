@@ -13,24 +13,25 @@ subfamily: Panicoideae
 tribe: Andropogoneae
 galleries:
   gallery1:
-  - url: DSC08792 (14).jpg
-  - url: DSC04012 (13).jpg
-  - url: DSC04014 (13).jpg
-  - url: DSC04011 (13).jpg
-  - url: DSC08814 (14).jpg
-  - url: DSC04016 (13).jpg
-  - url: DSC04024 (13).jpg
-  - url: DSC04025 (13).jpg
-  - url: DSC08798 (14).jpg
-  - url: DSC04021 (13).jpg
-  - url: DSC04023 (13).jpg
-  - url: DSC08796 (14).jpg
-  - url: DSC08797 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC08792 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC04012 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC04014 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC04011 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC08814 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC04016 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC04024 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC04025 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC08798 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC04021 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC04023 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC08796 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC08797 (14).jpg
 title: Vetiver Grass
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/chrysopogon/zizanioides/DSC08792 (14).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

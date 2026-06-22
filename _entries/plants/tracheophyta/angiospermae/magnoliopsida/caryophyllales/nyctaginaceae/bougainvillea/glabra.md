@@ -11,21 +11,22 @@ order: Caryophyllales
 family: Nyctaginaceae
 galleries:
   gallery1:
-  - url: DSC02590 (08).jpg
-  - url: DSC02592 (08).jpg
-  - url: DSC02591 (08).jpg
-  - url: DSC02593 (08).jpg
-  - url: DSC07399 (07).jpg
-  - url: DSC02594 (08).jpg
-  - url: Hybrid_cultivar1.jpg
-  - url: Hybrid_cultivar2.jpg
-  - url: Hybrid_cultivar3.jpg
-  - url: Hybrid_cultivar4.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/DSC02590 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/DSC02592 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/DSC02591 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/DSC02593 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/DSC07399 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/DSC02594 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/Hybrid_cultivar2.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/Hybrid_cultivar3.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/Hybrid_cultivar4.jpg
 title: Paper Flower
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/nyctaginaceae/bougainvillea/glabra/DSC02590 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

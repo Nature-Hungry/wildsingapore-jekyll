@@ -14,22 +14,23 @@ tribe: Justicieae
 subtribe: Justiciinae
 galleries:
   gallery1:
-  - url: DSC08631 (10).jpg
-  - url: DSC08179 (10).jpg
-  - url: P9270494 (24).jpg
-  - url: DSC03376 (09).jpg
-  - url: DSC08628 (10).jpg
-  - url: DSC08629 (10).jpg
-  - url: DSC08618 (10).jpg
-  - url: P9270503 (24).jpg
-  - url: P9270497 (24).jpg
-  - url: P9120534 (24).jpg
-  - url: P9180555 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/DSC08631 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/DSC08179 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/P9270494 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/DSC03376 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/DSC08628 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/DSC08629 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/DSC08618 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/P9270503 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/P9270497 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/P9120534 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/P9180555 (24).jpg
 title: Marsh Water-willow
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/dianthera/comata/DSC08631 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

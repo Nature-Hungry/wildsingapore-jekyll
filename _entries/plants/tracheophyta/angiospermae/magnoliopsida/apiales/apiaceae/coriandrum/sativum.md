@@ -13,11 +13,11 @@ subfamily: Apioideae
 tribe: Coriandreae
 galleries:
   gallery1:
-  - url: DSC09497 (12).jpg
-  - url: DSC09496 (12).jpg
-  - url: DSC09500 (12).jpg
-  - url: DSC09502 (12).jpg
-  - url: DSC09495 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/apiales/apiaceae/coriandrum/sativum/DSC09497 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/apiales/apiaceae/coriandrum/sativum/DSC09496 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/apiales/apiaceae/coriandrum/sativum/DSC09500 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/apiales/apiaceae/coriandrum/sativum/DSC09502 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/apiales/apiaceae/coriandrum/sativum/DSC09495 (12).jpg
 title: Coriander
 other_names:
 - ' Chinese Parsley'
@@ -26,5 +26,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/apiales/apiaceae/coriandrum/sativum/DSC09497 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

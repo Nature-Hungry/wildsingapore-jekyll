@@ -13,17 +13,18 @@ subfamily: Cyperoideae
 tribe: Cypereae
 galleries:
   gallery1:
-  - url: DSC00298 (09).jpg
-  - url: DSC01124 (08).jpg
-  - url: DSC01128 (08).jpg
-  - url: DSC01125 (08).jpg
-  - url: DSC00303 (09).jpg
-  - url: DSC00301 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC00298 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC01124 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC01128 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC01125 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC00303 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC00301 (09).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/compactus/DSC00298 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

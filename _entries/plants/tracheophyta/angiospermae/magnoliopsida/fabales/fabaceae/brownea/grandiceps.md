@@ -13,20 +13,21 @@ subfamily: Detarioideae
 tribe: Amherstieae
 galleries:
   gallery1:
-  - url: DSC07634 (12).jpg
-  - url: DSC07633 (12).jpg
-  - url: DSC07629 (12).jpg
-  - url: DSC07645 (12).jpg
-  - url: DSC07628 (12).jpg
-  - url: DSC07620 (12).jpg
-  - url: DSC07646 (12).jpg
-  - url: DSC07647 (12).jpg
-  - url: DSC07623 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07634 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07633 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07629 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07645 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07628 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07620 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07646 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07647 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07623 (12).jpg
 title: Scarlet Flame Bean
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/brownea/grandiceps/DSC07634 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

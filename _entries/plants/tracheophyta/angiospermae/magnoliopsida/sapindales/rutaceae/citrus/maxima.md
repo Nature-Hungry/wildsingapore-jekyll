@@ -13,21 +13,21 @@ subfamily: Aurantioideae
 hybrid: "Citrus \xD7 limon"
 galleries:
   gallery1:
-  - url: DSC02393 (08).jpg
-  - url: DSC00925 (14).jpg
-  - url: DSC01281 (14).jpg
-  - url: DSC01279 (14).jpg
-  - url: DSC09572 (09).jpg
-  - url: DSC01130 (17).jpg
-  - url: DSC07798 (14).jpg
-  - url: DSC00926 (14).jpg
-  - url: DSC01285 (14).jpg
-  - url: DSC00924 (14).jpg
-  - url: DSC00923 (14).jpg
-  - url: P5310043 (20).jpg
-  - url: P5310046 (20).jpg
-  - url: DSC09590 (15).jpg
-  - url: DSC09589 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC02393 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC00925 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC01281 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC01279 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC09572 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC01130 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC07798 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC00926 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC01285 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC00924 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC00923 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/P5310043 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/P5310046 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC09590 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC09589 (15).jpg
 title: Pomelo
 other_names:
 - Shaddock
@@ -36,5 +36,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/maxima/DSC02393 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

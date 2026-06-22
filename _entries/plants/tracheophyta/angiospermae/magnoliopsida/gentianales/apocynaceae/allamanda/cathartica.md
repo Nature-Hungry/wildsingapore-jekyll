@@ -14,20 +14,20 @@ tribe: Plumerieae
 subtribe: Allamandinae
 galleries:
   gallery1:
-  - url: PC260229 (21).jpg
-  - url: PC260239 (21).jpg
-  - url: PC260247 (21).jpg
-  - url: PC260234 (21).jpg
-  - url: PC260235 (21).jpg
-  - url: PC260237 (21).jpg
-  - url: PC260240 (21).jpg
-  - url: PC260241 (21).jpg
-  - url: PC260245 (21).jpg
-  - url: PC250159 (21).jpg
-  - url: PC250153 (21).jpg
-  - url: PC250152 (21).jpg
-  - url: PC250154 (21).jpg
-  - url: PC250156 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260229 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260239 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260247 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260234 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260235 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260237 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260240 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260241 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260245 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC250159 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC250153 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC250152 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC250154 (21).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC250156 (21).jpg
 title: Yellow Allamanda
 other_names:
 - Golden Trumpet
@@ -36,5 +36,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/cathartica/PC260229 (21).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

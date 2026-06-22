@@ -13,16 +13,17 @@ subfamily: Aroideae
 tribe: Cryptocoryneae
 galleries:
   gallery1:
-  - url: DSC00703 (15).jpg
-  - url: DSC00707 (15).jpg
-  - url: DSC00700 (15).jpg
-  - url: DSC00705 (15).jpg
-  - url: DSC00702 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cryptocoryne/pontederiifolia/DSC00703 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cryptocoryne/pontederiifolia/DSC00707 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cryptocoryne/pontederiifolia/DSC00700 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cryptocoryne/pontederiifolia/DSC00705 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cryptocoryne/pontederiifolia/DSC00702 (15).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cryptocoryne/pontederiifolia/DSC00703 (15).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

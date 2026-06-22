@@ -11,29 +11,30 @@ order: Dilleniales
 family: Dilleniaceae
 galleries:
   gallery1:
-  - url: DSC08250 (16).jpg
-  - url: DSC08255 (16).jpg
-  - url: DSC01419 (11).jpg
-  - url: DSC00656 (08).jpg
-  - url: DSC00662 (08).jpg
-  - url: DSC00660 (08).jpg
-  - url: DSC08253 (16).jpg
-  - url: DSC08262 (16).jpg
-  - url: DSC00721 (08).jpg
-  - url: DSC08251 (16).jpg
-  - url: DSC09585 (11).jpg
-  - url: DSC09586 (11).jpg
-  - url: DSC09587 (11).jpg
-  - url: DSC09590 (11).jpg
-  - url: DSC09592 (11).jpg
-  - url: DSC09588 (11).jpg
-  - url: DSC09589 (11).jpg
-  - url: DSC09593 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC08250 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC08255 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC01419 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC00656 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC00662 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC00660 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC08253 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC08262 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC00721 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC08251 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC09585 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC09586 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC09587 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC09590 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC09592 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC09588 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC09589 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC09593 (11).jpg
 title: Elephant Apple
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/indica/DSC08250 (16).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

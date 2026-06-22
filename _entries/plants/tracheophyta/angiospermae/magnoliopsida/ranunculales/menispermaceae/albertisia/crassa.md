@@ -11,19 +11,20 @@ order: Ranunculales
 family: Menispermaceae
 galleries:
   gallery1:
-  - url: DSC09980 (13).jpg
-  - url: DSC09981 (13).jpg
-  - url: DSC09983 (13).jpg
-  - url: DSC09988 (13).jpg
-  - url: DSC09985 (13).jpg
-  - url: DSC09991 (13).jpg
-  - url: DSC09984 (13).jpg
-  - url: DSC09992 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/menispermaceae/albertisia/crassa/DSC09980 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/menispermaceae/albertisia/crassa/DSC09981 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/menispermaceae/albertisia/crassa/DSC09983 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/menispermaceae/albertisia/crassa/DSC09988 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/menispermaceae/albertisia/crassa/DSC09985 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/menispermaceae/albertisia/crassa/DSC09991 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/menispermaceae/albertisia/crassa/DSC09984 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/menispermaceae/albertisia/crassa/DSC09992 (13).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/menispermaceae/albertisia/crassa/DSC09980 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

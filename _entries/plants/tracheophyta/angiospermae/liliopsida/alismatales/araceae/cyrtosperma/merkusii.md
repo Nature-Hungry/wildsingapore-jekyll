@@ -12,17 +12,18 @@ family: Araceae
 subfamily: Lasioideae
 galleries:
   gallery1:
-  - url: DSC07207 (13).jpg
-  - url: DSC00149 (13).jpg
-  - url: DSC09695 (14).jpg
-  - url: DSC07210 (13).jpg
-  - url: DSC07213 (13).jpg
-  - url: DSC09698 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/merkusii/DSC07207 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/merkusii/DSC00149 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/merkusii/DSC09695 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/merkusii/DSC07210 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/merkusii/DSC07213 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/merkusii/DSC09698 (14).jpg
 title: Swamp Taro
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/merkusii/DSC07207 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

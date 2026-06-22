@@ -13,31 +13,32 @@ subfamily: Antidesmatoideae
 tribe: Scepeae
 galleries:
   gallery1:
-  - url: DSC00172 (12).jpg
-  - url: DSC00253 (12).jpg
-  - url: P4010242 (25).jpg
-  - url: DSC00178 (12).jpg
-  - url: P4010252 (25).jpg
-  - url: DSC05297 (12).jpg
-  - url: DSC03281 (09).jpg
-  - url: DSC00255 (12).jpg
-  - url: P4010256 (25).jpg
-  - url: P4010259 (25).jpg
-  - url: P9180018 (24).jpg
-  - url: P9180007 (24).jpg
-  - url: DSC05995 (16).jpg
-  - url: DSC01911 (09).jpg
-  - url: P9180019 (24).jpg
-  - url: P9180020 (24).jpg
-  - url: DSC03053 (10).jpg
-  - url: DSC07805 (08).jpg
-  - url: DSC09456 (15).jpg
-  - url: DSC09455 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC00172 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC00253 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/P4010242 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC00178 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/P4010252 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC05297 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC03281 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC00255 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/P4010256 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/P4010259 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/P9180018 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/P9180007 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC05995 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC01911 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/P9180019 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/P9180020 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC03053 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC07805 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC09456 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC09455 (15).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/aporosa/frutescens/DSC00172 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

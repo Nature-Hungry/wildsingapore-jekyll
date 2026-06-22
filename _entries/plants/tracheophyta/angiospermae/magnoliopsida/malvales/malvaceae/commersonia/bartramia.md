@@ -12,20 +12,21 @@ family: Malvaceae
 subfamily: Byttnerioideae
 galleries:
   gallery1:
-  - url: DSC00764 (10).jpg
-  - url: DSC00788 (10).jpg
-  - url: DSC00791 (10).jpg
-  - url: DSC01738 (12).jpg
-  - url: DSC00785 (10).jpg
-  - url: DSC00782 (10).jpg
-  - url: DSC01736 (12).jpg
-  - url: DSC01737 (12).jpg
-  - url: DSC08322 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC00764 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC00788 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC00791 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC01738 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC00785 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC00782 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC01736 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC01737 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC08322 (12).jpg
 title: Brown Kurrajong
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malvales/malvaceae/commersonia/bartramia/DSC00764 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

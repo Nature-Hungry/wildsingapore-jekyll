@@ -13,14 +13,15 @@ subfamily: Faboideae
 tribe: Dalbergieae
 galleries:
   gallery1:
-  - url: PC280320 (19).jpg
-  - url: PC280314 (19).jpg
-  - url: PC280316 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dalbergia/candenatensis/PC280320 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dalbergia/candenatensis/PC280314 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dalbergia/candenatensis/PC280316 (19).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/dalbergia/candenatensis/PC280320 (19).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

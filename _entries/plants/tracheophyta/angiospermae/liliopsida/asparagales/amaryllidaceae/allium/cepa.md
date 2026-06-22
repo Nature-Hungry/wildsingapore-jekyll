@@ -15,29 +15,29 @@ subgenus: Cepa
 section: Cepa
 galleries:
   gallery1:
-  - url: DSC04688 (12).jpg
-  - url: DSC04686 (12).jpg
-  - url: DSC04685 (12).jpg
-  - url: DSC04687 (12).jpg
-  - url: P9120061 (20).jpg
-  - url: P9120024 (20).jpg
-  - url: P9120002 (20).jpg
-  - url: P9120022 (20).jpg
-  - url: P9260007 (20).jpg
-  - url: PA020174 (20).jpg
-  - url: PB080021 (20).jpg
-  - url: PA310085 (20).jpg
-  - url: PA310089 (20).jpg
-  - url: P9260006 (20).jpg
-  - url: P8310023 (22).jpg
-  - url: P9020048 (22).jpg
-  - url: P9120030 (20).jpg
-  - url: P9260002 (20).jpg
-  - url: P9120007 (20).jpg
-  - url: PA310083 (20).jpg
-  - url: PB080027 (20).jpg
-  - url: PB200019 (20).jpg
-  - url: PB220062 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/DSC04688 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/DSC04686 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/DSC04685 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/DSC04687 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9120061 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9120024 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9120002 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9120022 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9260007 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/PA020174 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/PB080021 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/PA310085 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/PA310089 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9260006 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P8310023 (22).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9020048 (22).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9120030 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9260002 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/P9120007 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/PA310083 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/PB080027 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/PB200019 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/PB220062 (20).jpg
 title: Onion
 other_names:
 - Shallot
@@ -46,5 +46,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/amaryllidaceae/allium/cepa/DSC04688 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

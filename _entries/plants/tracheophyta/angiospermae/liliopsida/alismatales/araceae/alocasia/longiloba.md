@@ -13,14 +13,14 @@ subfamily: Aroideae
 tribe: Alocasieae
 galleries:
   gallery1:
-  - url: DSC06630 (14).jpg
-  - url: DSC04880 (09).jpg
-  - url: DSC09472 (08).jpg
-  - url: P9120165 (24).jpg
-  - url: DSC01711 (11).jpg
-  - url: DSC01708 (11).jpg
-  - url: DSC03456 (11).jpg
-  - url: DSC06631 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/alocasia/longiloba/DSC06630 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/alocasia/longiloba/DSC04880 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/alocasia/longiloba/DSC09472 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/alocasia/longiloba/P9120165 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/alocasia/longiloba/DSC01711 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/alocasia/longiloba/DSC01708 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/alocasia/longiloba/DSC03456 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/alocasia/longiloba/DSC06631 (14).jpg
 title: Elephant Ear
 other_names:
 - Taro
@@ -29,5 +29,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/alocasia/longiloba/DSC06630 (14).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

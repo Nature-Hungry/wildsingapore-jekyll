@@ -14,12 +14,12 @@ tribe: Borasseae
 subtribe: Lataniinae
 galleries:
   gallery1:
-  - url: DSC03565 (08).jpg
-  - url: DSC03568 (08).jpg
-  - url: DSC07618 (09).jpg
-  - url: DSC07620 (09).jpg
-  - url: DSC03567 (08).jpg
-  - url: DSC07624 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/borassus/flabellifer/DSC03565 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/borassus/flabellifer/DSC03568 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/borassus/flabellifer/DSC07618 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/borassus/flabellifer/DSC07620 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/borassus/flabellifer/DSC03567 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/borassus/flabellifer/DSC07624 (09).jpg
 title: Palmyra Palm
 other_names:
 - Toddy Palm
@@ -30,5 +30,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/borassus/flabellifer/DSC03565 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

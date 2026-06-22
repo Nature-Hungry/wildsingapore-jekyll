@@ -14,11 +14,11 @@ tribe: Anthurieae
 section: Calomystrium
 galleries:
   gallery1:
-  - url: DSC02401 (10).jpg
-  - url: DSC02402 (10).jpg
-  - url: DSC02404 (10).jpg
-  - url: Hybrid_cultivar1.jpg
-  - url: Hybrid_cultivar2.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anthurium/andraeanum/DSC02401 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anthurium/andraeanum/DSC02402 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anthurium/andraeanum/DSC02404 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anthurium/andraeanum/Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anthurium/andraeanum/Hybrid_cultivar2.jpg
 title: Anthurium
 other_names:
 - Taliflower
@@ -28,5 +28,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/anthurium/andraeanum/DSC02401 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

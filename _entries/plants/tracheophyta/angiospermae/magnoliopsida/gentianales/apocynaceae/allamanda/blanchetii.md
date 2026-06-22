@@ -14,16 +14,17 @@ tribe: Plumerieae
 subtribe: Allamandinae
 galleries:
   gallery1:
-  - url: DSC01592 (10).jpg
-  - url: DSC01595 (10).jpg
-  - url: DSC01598 (10).jpg
-  - url: DSC01594 (10).jpg
-  - url: DSC01596 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/blanchetii/DSC01592 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/blanchetii/DSC01595 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/blanchetii/DSC01598 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/blanchetii/DSC01594 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/blanchetii/DSC01596 (10).jpg
 title: Purple Allamanda
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/allamanda/blanchetii/DSC01592 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

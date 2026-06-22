@@ -11,13 +11,13 @@ order: Laurales
 family: Lauraceae
 galleries:
   gallery1:
-  - url: DSC00889 (11).jpg
-  - url: DSC00892 (11).jpg
-  - url: DSC01060 (08).jpg
-  - url: DSC04851 (08).jpg
-  - url: DSC05215 (09).jpg
-  - url: DSC06412 (08).jpg
-  - url: DSC04985 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cassytha/filiformis/DSC00889 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cassytha/filiformis/DSC00892 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cassytha/filiformis/DSC01060 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cassytha/filiformis/DSC04851 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cassytha/filiformis/DSC05215 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cassytha/filiformis/DSC06412 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cassytha/filiformis/DSC04985 (08).jpg
 title: Love Vine
 other_names:
 - Devil's Gut
@@ -27,5 +27,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cassytha/filiformis/DSC00889 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

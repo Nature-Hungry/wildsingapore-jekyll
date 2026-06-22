@@ -13,20 +13,21 @@ subfamily: Detarioideae
 tribe: Amherstieae
 galleries:
   gallery1:
-  - url: DSC03317 (09).jpg
-  - url: DSC03319 (09).jpg
-  - url: DSC04121 (09).jpg
-  - url: DSC04123 (09).jpg
-  - url: DSC04130 (09).jpg
-  - url: DSC05063 (09).jpg
-  - url: DSC05061 (09).jpg
-  - url: DSC05059 (09).jpg
-  - url: DSC03320 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC03317 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC03319 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC04121 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC04123 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC04130 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC05063 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC05061 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC05059 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC03320 (09).jpg
 title: Handkerchief Tree
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/browneoides/DSC03317 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

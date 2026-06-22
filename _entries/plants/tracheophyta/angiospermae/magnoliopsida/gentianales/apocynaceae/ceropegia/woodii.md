@@ -13,18 +13,19 @@ subfamily: Asclepiadoideae
 tribe: Ceropegieae
 galleries:
   gallery1:
-  - url: P8210106 (24).jpg
-  - url: P8210095 (24).jpg
-  - url: P8210092 (24).jpg
-  - url: P8210087 (24).jpg
-  - url: P8210097 (24).jpg
-  - url: P8210083 (24).jpg
-  - url: P8210088 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/ceropegia/woodii/P8210106 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/ceropegia/woodii/P8210095 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/ceropegia/woodii/P8210092 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/ceropegia/woodii/P8210087 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/ceropegia/woodii/P8210097 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/ceropegia/woodii/P8210083 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/ceropegia/woodii/P8210088 (24).jpg
 title: String of Hearts
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/ceropegia/woodii/P8210106 (24).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

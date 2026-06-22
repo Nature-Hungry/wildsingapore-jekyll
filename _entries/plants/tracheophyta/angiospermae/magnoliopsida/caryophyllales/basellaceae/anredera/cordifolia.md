@@ -11,16 +11,17 @@ order: Caryophyllales
 family: Basellaceae
 galleries:
   gallery1:
-  - url: DSC00940 (09).jpg
-  - url: DSC00941 (09).jpg
-  - url: DSC00945 (09).jpg
-  - url: DSC00944 (09).jpg
-  - url: DSC00951 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/anredera/cordifolia/DSC00940 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/anredera/cordifolia/DSC00941 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/anredera/cordifolia/DSC00945 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/anredera/cordifolia/DSC00944 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/anredera/cordifolia/DSC00951 (09).jpg
 title: Madeira Vine
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/anredera/cordifolia/DSC00940 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

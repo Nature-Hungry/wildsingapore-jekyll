@@ -13,13 +13,13 @@ subfamily: Cyperoideae
 tribe: Cypereae
 galleries:
   gallery1:
-  - url: DSC02938 (10).jpg
-  - url: DSC02947 (10).jpg
-  - url: DSC02940 (10).jpg
-  - url: DSC02942 (10).jpg
-  - url: DSC06930 (13).jpg
-  - url: DSC06932 (13).jpg
-  - url: DSC06932 (13)s.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/prolifer/DSC02938 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/prolifer/DSC02947 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/prolifer/DSC02940 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/prolifer/DSC02942 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/prolifer/DSC06930 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/prolifer/DSC06932 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/prolifer/DSC06932 (13)s.jpg
 title: Dwarf Papyrus
 other_names:
 - Miniature Flatsedge
@@ -28,5 +28,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/prolifer/DSC02938 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

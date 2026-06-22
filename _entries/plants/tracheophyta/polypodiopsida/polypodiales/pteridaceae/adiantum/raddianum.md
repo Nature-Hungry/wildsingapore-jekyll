@@ -14,19 +14,20 @@ subfamily: Vittarioideae
 complex: Formosum clade
 galleries:
   gallery1:
-  - url: DSC03454 (14).jpg
-  - url: DSC03499 (14).jpg
-  - url: DSC03467 (14).jpg
-  - url: DSC03470 (14).jpg
-  - url: DSC03469 (14).jpg
-  - url: DSC03501 (14).jpg
-  - url: DSC03502 (14).jpg
-  - url: DSC03455 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/raddianum/DSC03454 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/raddianum/DSC03499 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/raddianum/DSC03467 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/raddianum/DSC03470 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/raddianum/DSC03469 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/raddianum/DSC03501 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/raddianum/DSC03502 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/raddianum/DSC03455 (14).jpg
 title: Delta Maidenhair Fern
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/raddianum/DSC03454 (14).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

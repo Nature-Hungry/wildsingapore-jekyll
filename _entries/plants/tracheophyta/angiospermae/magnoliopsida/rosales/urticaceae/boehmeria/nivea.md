@@ -11,11 +11,11 @@ order: Rosales
 family: Urticaceae
 galleries:
   gallery1:
-  - url: DSC03758 (13).jpg
-  - url: DSC03750 (13).jpg
-  - url: DSC00773 (13).jpg
-  - url: DSC03754 (13).jpg
-  - url: DSC03757 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/urticaceae/boehmeria/nivea/DSC03758 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/urticaceae/boehmeria/nivea/DSC03750 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/urticaceae/boehmeria/nivea/DSC00773 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/urticaceae/boehmeria/nivea/DSC03754 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/urticaceae/boehmeria/nivea/DSC03757 (13).jpg
 title: Ramie
 other_names:
 - Chinese Silk Plant
@@ -25,5 +25,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/urticaceae/boehmeria/nivea/DSC03758 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -13,19 +13,20 @@ subfamily: Myrtoideae
 tribe: Leptospermeae
 galleries:
   gallery1:
-  - url: DSC02445 (09).jpg
-  - url: DSC02447 (09).jpg
-  - url: DSC08644 (10).jpg
-  - url: DSC08636 (10).jpg
-  - url: DSC02446 (09).jpg
-  - url: DSC08634 (10).jpg
-  - url: DSC06772 (15).jpg
-  - url: DSC07708 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/myrtaceae/aggreflorum/longifolium/DSC02445 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/myrtaceae/aggreflorum/longifolium/DSC02447 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/myrtaceae/aggreflorum/longifolium/DSC08644 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/myrtaceae/aggreflorum/longifolium/DSC08636 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/myrtaceae/aggreflorum/longifolium/DSC02446 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/myrtaceae/aggreflorum/longifolium/DSC08634 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/myrtaceae/aggreflorum/longifolium/DSC06772 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/myrtaceae/aggreflorum/longifolium/DSC07708 (15).jpg
 title: Weeping Tea Tree
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/myrtaceae/aggreflorum/longifolium/DSC02445 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

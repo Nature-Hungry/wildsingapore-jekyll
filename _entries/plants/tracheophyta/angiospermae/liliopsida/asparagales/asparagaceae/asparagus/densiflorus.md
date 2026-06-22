@@ -12,12 +12,12 @@ family: Asparagaceae
 subfamily: Asparagoideae
 galleries:
   gallery1:
-  - url: DSC06713 (12).jpg
-  - url: DSC08014 (12).jpg
-  - url: DSC08048 (12).jpg
-  - url: DSC08012 (12).jpg
-  - url: DSC06718 (12).jpg
-  - url: Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/asparagaceae/asparagus/densiflorus/DSC06713 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/asparagaceae/asparagus/densiflorus/DSC08014 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/asparagaceae/asparagus/densiflorus/DSC08048 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/asparagaceae/asparagus/densiflorus/DSC08012 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/asparagaceae/asparagus/densiflorus/DSC06718 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/asparagaceae/asparagus/densiflorus/Hybrid_cultivar1.jpg
 title: Asparagus Fern
 other_names:
 - Foxtail Fern
@@ -26,5 +26,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/asparagaceae/asparagus/densiflorus/DSC06713 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

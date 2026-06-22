@@ -13,15 +13,16 @@ subfamily: Solanoideae
 tribe: Datureae
 galleries:
   gallery1:
-  - url: DSC05584 (09).jpg
-  - url: DSC05585 (09).jpg
-  - url: DSC02134 (10).jpg
-  - url: DSC05587 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brugmansia/suaveolens/DSC05584 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brugmansia/suaveolens/DSC05585 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brugmansia/suaveolens/DSC02134 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brugmansia/suaveolens/DSC05587 (09).jpg
 title: White Angel's Trumpet
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brugmansia/suaveolens/DSC05584 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

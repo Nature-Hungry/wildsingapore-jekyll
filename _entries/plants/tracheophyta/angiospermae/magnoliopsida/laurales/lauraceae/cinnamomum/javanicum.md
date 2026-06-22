@@ -11,18 +11,19 @@ order: Laurales
 family: Lauraceae
 galleries:
   gallery1:
-  - url: DSC04310 (14).jpg
-  - url: DSC04311 (14).jpg
-  - url: DSC04313 (14).jpg
-  - url: DSC04319 (14).jpg
-  - url: DSC04312 (14).jpg
-  - url: DSC04318 (14).jpg
-  - url: DSC04315 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cinnamomum/javanicum/DSC04310 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cinnamomum/javanicum/DSC04311 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cinnamomum/javanicum/DSC04313 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cinnamomum/javanicum/DSC04319 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cinnamomum/javanicum/DSC04312 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cinnamomum/javanicum/DSC04318 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cinnamomum/javanicum/DSC04315 (14).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/laurales/lauraceae/cinnamomum/javanicum/DSC04310 (14).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -13,24 +13,25 @@ subfamily: Faboideae
 tribe: Millettieae
 galleries:
   gallery1:
-  - url: DSC09179 (12).jpg
-  - url: DSC09918 (08).jpg
-  - url: DSC00350 (09).jpg
-  - url: DSC04942 (16).jpg
-  - url: DSC00322 (09).jpg
-  - url: DSC00323 (09).jpg
-  - url: DSC01286 (08).jpg
-  - url: DSC09919 (08).jpg
-  - url: DSC05174 (14).jpg
-  - url: DSC05173 (14).jpg
-  - url: DSC09920 (08).jpg
-  - url: DSC05172 (14).jpg
-  - url: DSC04944 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC09179 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC09918 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC00350 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC04942 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC00322 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC00323 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC01286 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC09919 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC05174 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC05173 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC09920 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC05172 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC04944 (16).jpg
 title: Common Derris
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/derris/trifoliata/DSC09179 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

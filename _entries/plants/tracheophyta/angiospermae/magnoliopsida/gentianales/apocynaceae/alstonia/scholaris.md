@@ -13,17 +13,17 @@ subfamily: Rauvolfioideae
 tribe: Alstonieae
 galleries:
   gallery1:
-  - url: DSC06700 (10).jpg
-  - url: DSC09803 (14).jpg
-  - url: DSC06736 (10).jpg
-  - url: DSC06720 (10).jpg
-  - url: DSC06723 (10).jpg
-  - url: DSC06718 (10).jpg
-  - url: DSC06726 (10).jpg
-  - url: DSC06728 (10).jpg
-  - url: DSC09799 (14).jpg
-  - url: DSC07467 (11).jpg
-  - url: DSC06730 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC06700 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC09803 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC06736 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC06720 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC06723 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC06718 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC06726 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC06728 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC09799 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC07467 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC06730 (10).jpg
 title: Blackboard Tree
 other_names:
 - Pulai Tree
@@ -35,5 +35,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/alstonia/scholaris/DSC06700 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -13,13 +13,13 @@ subfamily: Ranunculoideae
 tribe: Anemoneae
 galleries:
   gallery1:
-  - url: DSC04702 (12).jpg
-  - url: P7100026 (23).jpg
-  - url: P7100024 (23).jpg
-  - url: P7100028 (23).jpg
-  - url: P7100025 (23).jpg
-  - url: P7100030 (23).jpg
-  - url: P7100027 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/ranunculaceae/clematis/aristata/DSC04702 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/ranunculaceae/clematis/aristata/P7100026 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/ranunculaceae/clematis/aristata/P7100024 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/ranunculaceae/clematis/aristata/P7100028 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/ranunculaceae/clematis/aristata/P7100025 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/ranunculaceae/clematis/aristata/P7100030 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/ranunculaceae/clematis/aristata/P7100027 (23).jpg
 title: Traveller's Joy
 other_names:
 - Old Man's Beard
@@ -28,5 +28,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ranunculales/ranunculaceae/clematis/aristata/DSC04702 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

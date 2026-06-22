@@ -11,16 +11,16 @@ order: Myrtales
 family: Combretaceae
 galleries:
   gallery1:
-  - url: DSC05959 (09).jpg
-  - url: DSC05960 (09).jpg
-  - url: DSC09801 (08).jpg
-  - url: DSC04932 (09).jpg
-  - url: DSC07638 (14).jpg
-  - url: DSC07637 (14).jpg
-  - url: DSC09805 (08).jpg
-  - url: DSC07641 (14).jpg
-  - url: DSC05962 (09).jpg
-  - url: DSC04934 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC05959 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC05960 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC09801 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC04932 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC07638 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC07637 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC09805 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC07641 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC05962 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC04934 (09).jpg
 title: Chinese Honeysuckle
 other_names:
 - Rangoon Creeper
@@ -29,5 +29,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/myrtales/combretaceae/combretum/indicum/DSC05959 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

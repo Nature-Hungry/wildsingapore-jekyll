@@ -12,15 +12,15 @@ family: Cucurbitaceae
 tribe: Benincaseae
 galleries:
   gallery1:
-  - url: DSC03885 (08).jpg
-  - url: DSC04878 (08).jpg
-  - url: DSC00617 (10).jpg
-  - url: DSC01657 (11).jpg
-  - url: DSC05828 (09).jpg
-  - url: DSC07994 (14).jpg
-  - url: DSC07991 (14).jpg
-  - url: P4120216 (25).jpg
-  - url: P4120220 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/DSC03885 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/DSC04878 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/DSC00617 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/DSC01657 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/DSC05828 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/DSC07994 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/DSC07991 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/P4120216 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/P4120220 (25).jpg
 title: Bristly Bryony
 other_names:
 - Madras Pea Pumpkin
@@ -30,5 +30,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/cucurbitaceae/cucumis/maderaspatanus/DSC03885 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

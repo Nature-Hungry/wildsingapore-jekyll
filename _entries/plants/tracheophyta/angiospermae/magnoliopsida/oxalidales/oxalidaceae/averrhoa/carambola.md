@@ -11,16 +11,16 @@ order: Oxalidales
 family: Oxalidaceae
 galleries:
   gallery1:
-  - url: P8060113 (24).jpg
-  - url: DSC09753 (15).jpg
-  - url: DSC02027 (08).jpg
-  - url: DSC05413 (12).jpg
-  - url: DSC08605 (16).jpg
-  - url: DSC08603 (16).jpg
-  - url: DSC09751 (15).jpg
-  - url: DSC05416 (12).jpg
-  - url: DSC02025 (08).jpg
-  - url: P8060115 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/P8060113 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/DSC09753 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/DSC02027 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/DSC05413 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/DSC08605 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/DSC08603 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/DSC09751 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/DSC05416 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/DSC02025 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/P8060115 (24).jpg
 title: Starfruit
 other_names:
 - Carambola
@@ -30,5 +30,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/carambola/P8060113 (24).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

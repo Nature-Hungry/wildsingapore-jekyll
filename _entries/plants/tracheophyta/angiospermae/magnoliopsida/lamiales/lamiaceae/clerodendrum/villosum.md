@@ -12,20 +12,21 @@ family: Lamiaceae
 subfamily: Ajugoideae
 galleries:
   gallery1:
-  - url: DSC00237 (13).jpg
-  - url: DSC05573 (09).jpg
-  - url: DSC04915 (09).jpg
-  - url: DSC04914 (09).jpg
-  - url: DSC06864 (11).jpg
-  - url: DSC05835 (11).jpg
-  - url: DSC05804 (11).jpg
-  - url: DSC00238 (13).jpg
-  - url: DSC09928 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC00237 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC05573 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC04915 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC04914 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC06864 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC05835 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC05804 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC00238 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC09928 (09).jpg
 title: Panggil
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/villosum/DSC00237 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

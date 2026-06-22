@@ -11,14 +11,14 @@ order: Oxalidales
 family: Oxalidaceae
 galleries:
   gallery1:
-  - url: DSC08810 (07).jpg
-  - url: P8060104 (24).jpg
-  - url: DSC09254 (10).jpg
-  - url: P8060103 (24).jpg
-  - url: P8060102 (24).jpg
-  - url: P8060099 (24).jpg
-  - url: P8060107 (24).jpg
-  - url: P8060112 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/bilimbi/DSC08810 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/bilimbi/P8060104 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/bilimbi/DSC09254 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/bilimbi/P8060103 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/bilimbi/P8060102 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/bilimbi/P8060099 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/bilimbi/P8060107 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/bilimbi/P8060112 (24).jpg
 title: Bilimbi
 other_names:
 - Belimbing
@@ -28,5 +28,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/oxalidales/oxalidaceae/averrhoa/bilimbi/DSC08810 (07).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -14,18 +14,19 @@ tribe: Acantheae
 subtribe: Acanthinae
 galleries:
   gallery1:
-  - url: P5100300 (25).jpg
-  - url: P5100301 (25).jpg
-  - url: P5100303 (25).jpg
-  - url: P5100305 (25).jpg
-  - url: P5100306 (25).jpg
-  - url: P5100304 (25).jpg
-  - url: Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/crossandra/infundibuliformis/P5100300 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/crossandra/infundibuliformis/P5100301 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/crossandra/infundibuliformis/P5100303 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/crossandra/infundibuliformis/P5100305 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/crossandra/infundibuliformis/P5100306 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/crossandra/infundibuliformis/P5100304 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/crossandra/infundibuliformis/Hybrid_cultivar1.jpg
 title: ''
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/crossandra/infundibuliformis/P5100300 (25).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

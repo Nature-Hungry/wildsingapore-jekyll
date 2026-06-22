@@ -14,29 +14,30 @@ tribe: Vinceae
 subtribe: Catharanthinae
 galleries:
   gallery1:
-  - url: DSC02161 (04).jpg
-  - url: P3310063 (25).jpg
-  - url: DSC01584 (08).jpg
-  - url: P3310062 (25).jpg
-  - url: P4240077 (25).jpg
-  - url: P4240076 (25).jpg
-  - url: P4240087 (25).jpg
-  - url: P3310066 (25).jpg
-  - url: P3310077 (25).jpg
-  - url: P4240081 (25).jpg
-  - url: P3130094 (25).jpg
-  - url: PC260053 (25).jpg
-  - url: PC260056 (25).jpg
-  - url: P5070094 (25).jpg
-  - url: P5090001 (25).jpg
-  - url: P5090005 (25).jpg
-  - url: Hybrid_cultivar1.jpg
-  - url: Hybrid_cultivar2.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/DSC02161 (04).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P3310063 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/DSC01584 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P3310062 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P4240077 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P4240076 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P4240087 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P3310066 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P3310077 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P4240081 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P3130094 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/PC260053 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/PC260056 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P5070094 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P5090001 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/P5090005 (25).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/Hybrid_cultivar2.jpg
 title: Madagascar Periwinkle
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/catharanthus/roseus/DSC02161 (04).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

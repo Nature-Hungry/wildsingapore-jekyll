@@ -12,21 +12,22 @@ family: Lamiaceae
 subfamily: Callicarpoideae
 galleries:
   gallery1:
-  - url: DSC05737 (08).jpg
-  - url: P8220089 (24).jpg
-  - url: DSC02500 (12).jpg
-  - url: DSC03148 (09).jpg
-  - url: P8220092 (24).jpg
-  - url: P8220095 (24).jpg
-  - url: DSC03150 (09).jpg
-  - url: DSC03149 (09).jpg
-  - url: P8220091 (24).jpg
-  - url: P8220100 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/DSC05737 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/P8220089 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/DSC02500 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/DSC03148 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/P8220092 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/P8220095 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/DSC03150 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/DSC03149 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/P8220091 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/P8220100 (24).jpg
 title: Long-leaved Callicarpa
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/callicarpa/longifolia/DSC05737 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

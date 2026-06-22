@@ -14,26 +14,27 @@ subfamily: Vittarioideae
 complex: Tenerum clade
 galleries:
   gallery1:
-  - url: DSC02540 (12).jpg
-  - url: DSC02541 (12).jpg
-  - url: DSC02820 (14).jpg
-  - url: DSC01648 (08).jpg
-  - url: DSC09407 (14).jpg
-  - url: DSC02811 (14).jpg
-  - url: DSC01649 (08).jpg
-  - url: DSC02823 (14).jpg
-  - url: DSC09406 (14)s.jpg
-  - url: DSC09407 (14)s.jpg
-  - url: DSC02804 (14).jpg
-  - url: DSC02805 (14).jpg
-  - url: DSC02808 (14).jpg
-  - url: DSC02808 (14)s.jpg
-  - url: DSC09406 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02540 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02541 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02820 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC01648 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC09407 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02811 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC01649 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02823 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC09406 (14)s.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC09407 (14)s.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02804 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02805 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02808 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02808 (14)s.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC09406 (14).jpg
 title: Brittle Maidenhair Fern
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/adiantum/tenerum/DSC02540 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

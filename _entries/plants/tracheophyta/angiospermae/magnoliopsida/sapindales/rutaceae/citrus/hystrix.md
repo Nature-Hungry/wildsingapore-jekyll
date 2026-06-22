@@ -12,13 +12,13 @@ family: Rutaceae
 subfamily: Aurantioideae
 galleries:
   gallery1:
-  - url: P8060139 (24).jpg
-  - url: P8060140 (24).jpg
-  - url: P8060148 (24).jpg
-  - url: P8060141 (24).jpg
-  - url: P8060150 (24).jpg
-  - url: P8060151 (24).jpg
-  - url: P8060149 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/hystrix/P8060139 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/hystrix/P8060140 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/hystrix/P8060148 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/hystrix/P8060141 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/hystrix/P8060150 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/hystrix/P8060151 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/hystrix/P8060149 (24).jpg
 title: Kaffir Lime
 other_names:
 - Makrut Lime
@@ -28,5 +28,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/rutaceae/citrus/hystrix/P8060139 (24).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

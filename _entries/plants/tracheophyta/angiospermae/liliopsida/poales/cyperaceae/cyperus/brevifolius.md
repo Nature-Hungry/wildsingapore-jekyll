@@ -13,17 +13,18 @@ subfamily: Cyperoideae
 tribe: Cypereae
 galleries:
   gallery1:
-  - url: DSC06604 (10).jpg
-  - url: DSC07614 (15).jpg
-  - url: DSC06606 (10).jpg
-  - url: DSC06303 (10).jpg
-  - url: DSC07613 (15).jpg
-  - url: DSC07617 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/brevifolius/DSC06604 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/brevifolius/DSC07614 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/brevifolius/DSC06606 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/brevifolius/DSC06303 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/brevifolius/DSC07613 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/brevifolius/DSC07617 (15).jpg
 title: Shortleaf Spikesedge
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/brevifolius/DSC06604 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

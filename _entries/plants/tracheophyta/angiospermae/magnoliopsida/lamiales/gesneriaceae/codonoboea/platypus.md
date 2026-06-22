@@ -14,15 +14,16 @@ tribe: Trichosporeae
 subtribe: Didymocarpinae
 galleries:
   gallery1:
-  - url: DSC07214 (07).jpg
-  - url: DSC07315 (07).jpg
-  - url: DSC07228 (07).jpg
-  - url: DSC07213 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/codonoboea/platypus/DSC07214 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/codonoboea/platypus/DSC07315 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/codonoboea/platypus/DSC07228 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/codonoboea/platypus/DSC07213 (07).jpg
 title: Broad-leaved Didymocarpus
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/gesneriaceae/codonoboea/platypus/DSC07214 (07).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -14,14 +14,14 @@ tribe: Areceae
 subtribe: Arecinae
 galleries:
   gallery1:
-  - url: DSC02165 (08).jpg
-  - url: DSC02167 (08).jpg
-  - url: P1010078 (24).jpg
-  - url: DSC02043 (08).jpg
-  - url: DSC07068 (07).jpg
-  - url: DSC07065 (07).jpg
-  - url: DSC07066 (07).jpg
-  - url: Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/areca/catechu/DSC02165 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/areca/catechu/DSC02167 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/areca/catechu/P1010078 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/areca/catechu/DSC02043 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/areca/catechu/DSC07068 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/areca/catechu/DSC07065 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/areca/catechu/DSC07066 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/areca/catechu/Hybrid_cultivar1.jpg
 title: Betel Nut Palm
 other_names:
 - Pinang Sirih
@@ -30,5 +30,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/areca/catechu/DSC02165 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

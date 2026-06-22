@@ -15,18 +15,19 @@ subtribe: Coelogyninae
 section: Tomentosae
 galleries:
   gallery1:
-  - url: DSC03784 (11).jpg
-  - url: DSC03790 (11).jpg
-  - url: DSC03786 (11).jpg
-  - url: DSC03794 (11).jpg
-  - url: DSC03795 (11).jpg
-  - url: DSC03796 (11).jpg
-  - url: DSC03797 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/orchidaceae/coelogyne/rochussenii/DSC03784 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/orchidaceae/coelogyne/rochussenii/DSC03790 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/orchidaceae/coelogyne/rochussenii/DSC03786 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/orchidaceae/coelogyne/rochussenii/DSC03794 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/orchidaceae/coelogyne/rochussenii/DSC03795 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/orchidaceae/coelogyne/rochussenii/DSC03796 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/orchidaceae/coelogyne/rochussenii/DSC03797 (11).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/orchidaceae/coelogyne/rochussenii/DSC03784 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

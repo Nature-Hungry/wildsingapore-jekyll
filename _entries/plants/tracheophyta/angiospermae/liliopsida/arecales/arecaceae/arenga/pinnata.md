@@ -13,16 +13,17 @@ subfamily: Coryphoideae
 tribe: Caryoteae
 galleries:
   gallery1:
-  - url: PA130085 (24).jpg
-  - url: PA130086 (24).jpg
-  - url: PA130090 (24).jpg
-  - url: PA130084 (24).jpg
-  - url: PA130089 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/pinnata/PA130085 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/pinnata/PA130086 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/pinnata/PA130090 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/pinnata/PA130084 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/pinnata/PA130089 (24).jpg
 title: Sugar Palm
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/pinnata/PA130085 (24).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

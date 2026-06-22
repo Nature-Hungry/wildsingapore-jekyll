@@ -11,18 +11,18 @@ order: Ericales
 family: Lecythidaceae
 galleries:
   gallery1:
-  - url: DSC04992 (10).jpg
-  - url: DSC09309 (07).jpg
-  - url: DSC00138 (08).jpg
-  - url: DSC00601 (09).jpg
-  - url: DSC06313 (07).jpg
-  - url: DSC05203 (08).jpg
-  - url: DSC04439 (08).jpg
-  - url: DSC04993 (10).jpg
-  - url: DSC04958 (10).jpg
-  - url: DSC00078 (08).jpg
-  - url: DSC09187 (14).jpg
-  - url: DSC09308 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC04992 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC09309 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC00138 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC00601 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC06313 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC05203 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC04439 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC04993 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC04958 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC00078 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC09187 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC09308 (07).jpg
 title: Beach Barringtonia
 other_names:
 - Fish-killer Tree
@@ -33,5 +33,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/asiatica/DSC04992 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

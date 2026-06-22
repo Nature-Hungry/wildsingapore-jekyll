@@ -13,13 +13,13 @@ subfamily: Solanoideae
 tribe: Capsiceae
 galleries:
   gallery1:
-  - url: DSC02654 (08).jpg
-  - url: DSC00506 (15).jpg
-  - url: DSC00504 (15).jpg
-  - url: DSC00508 (15).jpg
-  - url: DSC02073 (08).jpg
-  - url: DSC08939 (08).jpg
-  - url: DSC02656 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/frutescens/DSC02654 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/frutescens/DSC00506 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/frutescens/DSC00504 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/frutescens/DSC00508 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/frutescens/DSC02073 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/frutescens/DSC08939 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/frutescens/DSC02656 (08).jpg
 title: Chilli
 other_names:
 - Bird Chilli
@@ -29,5 +29,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/frutescens/DSC02654 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

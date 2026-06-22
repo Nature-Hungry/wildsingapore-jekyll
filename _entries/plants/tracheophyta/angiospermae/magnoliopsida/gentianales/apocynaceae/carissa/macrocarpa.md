@@ -13,18 +13,19 @@ subfamily: Rauvolfioideae
 tribe: Carisseae
 galleries:
   gallery1:
-  - url: DSC08985 (09).jpg
-  - url: DSC08990 (09).jpg
-  - url: DSC08986 (09).jpg
-  - url: DSC08996 (09).jpg
-  - url: DSC08988 (09).jpg
-  - url: DSC08992 (09).jpg
-  - url: DSC08991 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/carissa/macrocarpa/DSC08985 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/carissa/macrocarpa/DSC08990 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/carissa/macrocarpa/DSC08986 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/carissa/macrocarpa/DSC08996 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/carissa/macrocarpa/DSC08988 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/carissa/macrocarpa/DSC08992 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/carissa/macrocarpa/DSC08991 (09).jpg
 title: Natal Plum
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/carissa/macrocarpa/DSC08985 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

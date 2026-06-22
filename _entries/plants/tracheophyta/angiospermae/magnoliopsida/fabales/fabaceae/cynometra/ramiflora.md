@@ -13,22 +13,23 @@ subfamily: Detarioideae
 tribe: Amherstieae
 galleries:
   gallery1:
-  - url: DSC03774 (09).jpg
-  - url: DSC03582 (15).jpg
-  - url: DSC03772 (09).jpg
-  - url: DSC00310 (11).jpg
-  - url: DSC03576 (15).jpg
-  - url: DSC03581 (15).jpg
-  - url: DSC06622 (10).jpg
-  - url: DSC04819 (13).jpg
-  - url: DSC03773 (09).jpg
-  - url: DSC04815 (13).jpg
-  - url: DSC04818 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC03774 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC03582 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC03772 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC00310 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC03576 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC03581 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC06622 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC04819 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC03773 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC04815 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC04818 (13).jpg
 title: Katong Laut
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/ramiflora/DSC03774 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -14,12 +14,12 @@ tribe: Asclepiadeae
 subtribe: Asclepiadinae
 galleries:
   gallery1:
-  - url: DSC08072 (10).jpg
-  - url: DSC08077 (10).jpg
-  - url: DSC08073 (10).jpg
-  - url: DSC08078 (10).jpg
-  - url: DSC08075 (10).jpg
-  - url: Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/asclepias/curassavica/DSC08072 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/asclepias/curassavica/DSC08077 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/asclepias/curassavica/DSC08073 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/asclepias/curassavica/DSC08078 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/asclepias/curassavica/DSC08075 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/asclepias/curassavica/Hybrid_cultivar1.jpg
 title: Milkweed
 other_names:
 - Blood Flower
@@ -28,5 +28,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/gentianales/apocynaceae/asclepias/curassavica/DSC08072 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

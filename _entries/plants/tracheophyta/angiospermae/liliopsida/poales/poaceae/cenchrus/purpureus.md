@@ -14,30 +14,30 @@ tribe: Paniceae
 subtribe: Cenchrinae
 galleries:
   gallery1:
-  - url: DSC07086 (10).jpg
-  - url: DSC00935 (10).jpg
-  - url: DSC07082 (10).jpg
-  - url: DSC07083 (10).jpg
-  - url: DSC02298 (09).jpg
-  - url: DSC02301 (09).jpg
-  - url: P3280090 (20).jpg
-  - url: DSC02300 (09).jpg
-  - url: P3280096 (20).jpg
-  - url: P3280095 (20).jpg
-  - url: P3280093 (20).jpg
-  - url: P3280091 (20).jpg
-  - url: DSC08643 (11).jpg
-  - url: DSC08646 (11).jpg
-  - url: DSC08644 (11).jpg
-  - url: DSC08645 (11).jpg
-  - url: DSC09502 (11).jpg
-  - url: DSC07619 (16).jpg
-  - url: DSC07523 (16).jpg
-  - url: DSC07518 (16).jpg
-  - url: DSC07525 (16).jpg
-  - url: DSC07520 (16).jpg
-  - url: DSC07622 (16).jpg
-  - url: DSC07621 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07086 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC00935 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07082 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07083 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC02298 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC02301 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/P3280090 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC02300 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/P3280096 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/P3280095 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/P3280093 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/P3280091 (20).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC08643 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC08646 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC08644 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC08645 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC09502 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07619 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07523 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07518 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07525 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07520 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07622 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07621 (16).jpg
 title: Elephant Grass
 other_names:
 - Napier Grass
@@ -47,5 +47,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/poaceae/cenchrus/purpureus/DSC07086 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

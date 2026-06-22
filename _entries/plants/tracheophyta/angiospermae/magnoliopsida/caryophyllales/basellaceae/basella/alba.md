@@ -11,15 +11,15 @@ order: Caryophyllales
 family: Basellaceae
 galleries:
   gallery1:
-  - url: DSC05273 (09).jpg
-  - url: DSC05274 (09).jpg
-  - url: DSC05275 (09).jpg
-  - url: DSC05276 (09).jpg
-  - url: DSC05277 (09).jpg
-  - url: DSC07411 (09).jpg
-  - url: DSC07408 (09).jpg
-  - url: DSC07407 (09).jpg
-  - url: DSC07409 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC05273 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC05274 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC05275 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC05276 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC05277 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC07411 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC07408 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC07407 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC07409 (09).jpg
 title: Malabar Nightshade
 other_names:
 - Ceylon Spinach
@@ -28,5 +28,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/basellaceae/basella/alba/DSC05273 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

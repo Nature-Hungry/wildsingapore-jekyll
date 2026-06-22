@@ -12,18 +12,19 @@ family: Amaranthaceae
 subfamily: Gomphrenoideae
 galleries:
   gallery1:
-  - url: DSC02736 (09).jpg
-  - url: DSC02737 (09).jpg
-  - url: DSC08834 (09).jpg
-  - url: DSC02740 (09).jpg
-  - url: DSC02741 (09).jpg
-  - url: DSC00116 (13).jpg
-  - url: DSC00118 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/bettzickiana/DSC02736 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/bettzickiana/DSC02737 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/bettzickiana/DSC08834 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/bettzickiana/DSC02740 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/bettzickiana/DSC02741 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/bettzickiana/DSC00116 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/bettzickiana/DSC00118 (13).jpg
 title: Joy Weed
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/amaranthaceae/alternanthera/bettzickiana/DSC02736 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

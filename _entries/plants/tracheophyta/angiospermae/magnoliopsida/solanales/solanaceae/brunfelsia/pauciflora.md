@@ -12,17 +12,18 @@ family: Solanaceae
 subfamily: Petunioideae
 galleries:
   gallery1:
-  - url: DSC06147 (13).jpg
-  - url: DSC00632 (07).jpg
-  - url: DSC06145 (13).jpg
-  - url: DSC00633 (07).jpg
-  - url: DSC06148 (13).jpg
-  - url: DSC06150 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brunfelsia/pauciflora/DSC06147 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brunfelsia/pauciflora/DSC00632 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brunfelsia/pauciflora/DSC06145 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brunfelsia/pauciflora/DSC00633 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brunfelsia/pauciflora/DSC06148 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brunfelsia/pauciflora/DSC06150 (13).jpg
 title: Yesterday-Today-and-Tomorrow
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/brunfelsia/pauciflora/DSC06147 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

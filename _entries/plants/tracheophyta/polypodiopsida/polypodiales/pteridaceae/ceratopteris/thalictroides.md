@@ -13,16 +13,17 @@ family: Pteridaceae
 subfamily: Ceratopteridoideae
 galleries:
   gallery1:
-  - url: DSC06351 (10).jpg
-  - url: DSC08556 (12).jpg
-  - url: DSC06353 (10).jpg
-  - url: DSC06354 (10).jpg
-  - url: DSC09438 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/ceratopteris/thalictroides/DSC06351 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/ceratopteris/thalictroides/DSC08556 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/ceratopteris/thalictroides/DSC06353 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/ceratopteris/thalictroides/DSC06354 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/ceratopteris/thalictroides/DSC09438 (11).jpg
 title: Water Sprite
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/pteridaceae/ceratopteris/thalictroides/DSC06351 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

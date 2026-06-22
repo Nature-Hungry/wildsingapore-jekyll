@@ -13,13 +13,14 @@ subfamily: Aroideae
 tribe: Caladieae
 galleries:
   gallery1:
-  - url: DSC01565 (08).jpg
-  - url: DSC01566 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/caladium/humboldtii/DSC01565 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/caladium/humboldtii/DSC01566 (08).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/caladium/humboldtii/DSC01565 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

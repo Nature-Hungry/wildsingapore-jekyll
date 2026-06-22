@@ -13,12 +13,12 @@ subfamily: Iridoideae
 tribe: Irideae
 galleries:
   gallery1:
-  - url: DSC07657 (11).jpg
-  - url: DSC07664 (11).jpg
-  - url: DSC07658 (11).jpg
-  - url: DSC07660 (11).jpg
-  - url: DSC07663 (11).jpg
-  - url: DSC07662 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/iridaceae/dietes/bicolor/DSC07657 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/iridaceae/dietes/bicolor/DSC07664 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/iridaceae/dietes/bicolor/DSC07658 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/iridaceae/dietes/bicolor/DSC07660 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/iridaceae/dietes/bicolor/DSC07663 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/iridaceae/dietes/bicolor/DSC07662 (11).jpg
 title: Yellow Wild Iris
 other_names:
 - Peacock Flower
@@ -28,5 +28,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/asparagales/iridaceae/dietes/bicolor/DSC07657 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

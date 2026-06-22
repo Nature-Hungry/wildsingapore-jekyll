@@ -13,15 +13,16 @@ subfamily: Cyperoideae
 tribe: Cypereae
 galleries:
   gallery1:
-  - url: DSC01328 (08).jpg
-  - url: DSC01329 (08).jpg
-  - url: DSC06197 (08).jpg
-  - url: DSC03987 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/aromaticus/DSC01328 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/aromaticus/DSC01329 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/aromaticus/DSC06197 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/aromaticus/DSC03987 (09).jpg
 title: Navua Sedge
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/poales/cyperaceae/cyperus/aromaticus/DSC01328 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

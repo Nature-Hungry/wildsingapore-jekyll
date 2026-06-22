@@ -14,13 +14,13 @@ tribe: Inuleae
 subtribe: Inulinae
 galleries:
   gallery1:
-  - url: DSC02708 (09).jpg
-  - url: DSC02709 (09).jpg
-  - url: DSC08179 (11).jpg
-  - url: DSC08177 (11).jpg
-  - url: DSC00909 (08).jpg
-  - url: DSC02706 (09).jpg
-  - url: DSC04839 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/lacera/DSC02708 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/lacera/DSC02709 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/lacera/DSC08179 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/lacera/DSC08177 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/lacera/DSC00909 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/lacera/DSC02706 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/lacera/DSC04839 (09).jpg
 title: Malay Blumea
 other_names:
 - False Ox Tongue
@@ -29,5 +29,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/asterales/asteraceae/blumea/lacera/DSC02708 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

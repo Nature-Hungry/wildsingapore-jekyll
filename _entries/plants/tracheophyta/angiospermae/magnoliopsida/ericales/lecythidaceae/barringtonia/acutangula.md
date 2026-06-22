@@ -11,19 +11,19 @@ order: Ericales
 family: Lecythidaceae
 galleries:
   gallery1:
-  - url: DSC02632 (10).jpg
-  - url: DSC07314 (16).jpg
-  - url: DSC02638 (10).jpg
-  - url: DSC08340 (12).jpg
-  - url: DSC07326 (16).jpg
-  - url: DSC08341 (12).jpg
-  - url: DSC07317 (16).jpg
-  - url: DSC07322 (16).jpg
-  - url: DSC07398 (16).jpg
-  - url: DSC07397 (16).jpg
-  - url: DSC07327 (16).jpg
-  - url: DSC07329 (16).jpg
-  - url: DSC07324 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC02632 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC07314 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC02638 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC08340 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC07326 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC08341 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC07317 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC07322 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC07398 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC07397 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC07327 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC07329 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC07324 (16).jpg
 title: Freshwater Mangrove
 other_names:
 - Indian Oak
@@ -32,5 +32,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/lecythidaceae/barringtonia/acutangula/DSC02632 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

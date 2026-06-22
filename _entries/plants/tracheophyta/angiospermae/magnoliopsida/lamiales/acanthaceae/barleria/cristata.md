@@ -13,16 +13,17 @@ subfamily: Acanthoideae
 tribe: Barlerieae
 galleries:
   gallery1:
-  - url: DSC01603 (10).jpg
-  - url: DSC01608 (10).jpg
-  - url: DSC01604 (10).jpg
-  - url: DSC01605 (10).jpg
-  - url: DSC01610 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/barleria/cristata/DSC01603 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/barleria/cristata/DSC01608 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/barleria/cristata/DSC01604 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/barleria/cristata/DSC01605 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/barleria/cristata/DSC01610 (10).jpg
 title: White Philippine Violet
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/acanthaceae/barleria/cristata/DSC01603 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

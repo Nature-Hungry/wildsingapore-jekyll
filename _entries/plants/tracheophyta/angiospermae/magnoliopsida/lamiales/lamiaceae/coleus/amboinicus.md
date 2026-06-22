@@ -14,17 +14,18 @@ tribe: Ocimeae
 subtribe: Plectranthinae
 galleries:
   gallery1:
-  - url: DSC03803 (13).jpg
-  - url: DSC06532 (09).jpg
-  - url: DSC02140 (13).jpg
-  - url: DSC03805 (13).jpg
-  - url: DSC06535 (09).jpg
-  - url: DSC02139 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/coleus/amboinicus/DSC03803 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/coleus/amboinicus/DSC06532 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/coleus/amboinicus/DSC02140 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/coleus/amboinicus/DSC03805 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/coleus/amboinicus/DSC06535 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/coleus/amboinicus/DSC02139 (13).jpg
 title: Indian Borage
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/coleus/amboinicus/DSC03803 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

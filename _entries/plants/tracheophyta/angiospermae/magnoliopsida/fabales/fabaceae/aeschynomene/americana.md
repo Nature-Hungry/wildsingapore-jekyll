@@ -13,12 +13,12 @@ subfamily: Faboideae
 tribe: Dalbergieae
 galleries:
   gallery1:
-  - url: DSC06204 (08).jpg
-  - url: DSC00912 (07).jpg
-  - url: DSC05140 (09).jpg
-  - url: DSC00882 (11).jpg
-  - url: DSC06205 (08).jpg
-  - url: DSC00881 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/aeschynomene/americana/DSC06204 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/aeschynomene/americana/DSC00912 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/aeschynomene/americana/DSC05140 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/aeschynomene/americana/DSC00882 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/aeschynomene/americana/DSC06205 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/aeschynomene/americana/DSC00881 (11).jpg
 title: American Jointvetch
 other_names:
 - Joint-vetch
@@ -28,5 +28,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/aeschynomene/americana/DSC06204 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

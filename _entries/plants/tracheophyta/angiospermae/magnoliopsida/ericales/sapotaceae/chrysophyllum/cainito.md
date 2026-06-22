@@ -11,15 +11,15 @@ order: Ericales
 family: Sapotaceae
 galleries:
   gallery1:
-  - url: DSC03973 (08).jpg
-  - url: DSC03976 (08).jpg
-  - url: DSC03972 (08).jpg
-  - url: DSC09622 (10).jpg
-  - url: DSC03042 (10).jpg
-  - url: DSC03040 (10).jpg
-  - url: DSC03975 (08).jpg
-  - url: DSC09625 (10).jpg
-  - url: DSC09628 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC03973 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC03976 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC03972 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC09622 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC03042 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC03040 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC03975 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC09625 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC09628 (10).jpg
 title: Milk Fruit
 other_names:
 - Caimito
@@ -30,5 +30,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/ericales/sapotaceae/chrysophyllum/cainito/DSC03973 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

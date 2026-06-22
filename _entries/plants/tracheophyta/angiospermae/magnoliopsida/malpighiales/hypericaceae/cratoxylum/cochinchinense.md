@@ -12,21 +12,21 @@ family: Hypericaceae
 tribe: Cratoxyleae
 galleries:
   gallery1:
-  - url: DSC07985 (09).jpg
-  - url: DSC01369 (14).jpg
-  - url: DSC01373 (14).jpg
-  - url: DSC04514 (08).jpg
-  - url: DSC01368 (14).jpg
-  - url: DSC07966 (09).jpg
-  - url: DSC07967 (09).jpg
-  - url: DSC08253 (10).jpg
-  - url: DSC07976 (09).jpg
-  - url: DSC03077 (10).jpg
-  - url: DSC07986 (09).jpg
-  - url: DSC01377 (14).jpg
-  - url: DSC08254 (10).jpg
-  - url: DSC01374 (14).jpg
-  - url: DSC01360 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC07985 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC01369 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC01373 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC04514 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC01368 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC07966 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC07967 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC08253 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC07976 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC03077 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC07986 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC01377 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC08254 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC01374 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC01360 (14).jpg
 title: Yellow Cow Wood
 other_names:
 - Kayu Arang
@@ -37,5 +37,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/hypericaceae/cratoxylum/cochinchinense/DSC07985 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

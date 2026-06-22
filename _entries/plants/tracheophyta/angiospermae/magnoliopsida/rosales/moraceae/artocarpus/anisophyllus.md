@@ -12,22 +12,23 @@ family: Moraceae
 tribe: Artocarpeae
 galleries:
   gallery1:
-  - url: DSC01039 (15).jpg
-  - url: DSC01040 (15).jpg
-  - url: DSC01045 (15).jpg
-  - url: DSC01049 (15).jpg
-  - url: DSC01043 (15).jpg
-  - url: DSC01044 (15).jpg
-  - url: DSC06376 (13).jpg
-  - url: DSC06377 (13).jpg
-  - url: DSC06378 (13).jpg
-  - url: DSC06379 (13).jpg
-  - url: DSC06381 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC01039 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC01040 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC01045 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC01049 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC01043 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC01044 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC06376 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC06377 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC06378 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC06379 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC06381 (13).jpg
 title: Entawak
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/rosales/moraceae/artocarpus/anisophyllus/DSC01039 (15).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

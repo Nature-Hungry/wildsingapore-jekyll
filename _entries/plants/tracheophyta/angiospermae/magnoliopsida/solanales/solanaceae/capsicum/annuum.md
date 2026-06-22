@@ -13,21 +13,22 @@ subfamily: Solanoideae
 tribe: Capsiceae
 galleries:
   gallery1:
-  - url: DSC03256 (05).jpg
-  - url: DSC04273 (06).jpg
-  - url: DSC03459 (05).jpg
-  - url: P8280002 (24).jpg
-  - url: DSC03072 (05).jpg
-  - url: DSC03075 (05).jpg
-  - url: DSC03257 (05).jpg
-  - url: DSC03856 (05).jpg
-  - url: P8280003 (24).jpg
-  - url: P8280008 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/DSC03256 (05).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/DSC04273 (06).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/DSC03459 (05).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/P8280002 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/DSC03072 (05).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/DSC03075 (05).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/DSC03257 (05).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/DSC03856 (05).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/P8280003 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/P8280008 (24).jpg
 title: Chilli
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/solanales/solanaceae/capsicum/annuum/DSC03256 (05).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

@@ -14,16 +14,17 @@ tribe: Codiaeae
 subtribe: Codiaeinae
 galleries:
   gallery1:
-  - url: DSC01493 (08).jpg
-  - url: DSC01494 (08).jpg
-  - url: Hybrid_cultivar1.jpg
-  - url: Hybrid_cultivar2.jpg
-  - url: Hybrid_cultivar3.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/codiaeum/variegatum/DSC01493 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/codiaeum/variegatum/DSC01494 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/codiaeum/variegatum/Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/codiaeum/variegatum/Hybrid_cultivar2.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/codiaeum/variegatum/Hybrid_cultivar3.jpg
 title: Croton
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/euphorbiaceae/codiaeum/variegatum/DSC01493 (08).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

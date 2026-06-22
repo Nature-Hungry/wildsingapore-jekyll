@@ -12,17 +12,18 @@ family: Araceae
 subfamily: Lasioideae
 galleries:
   gallery1:
-  - url: DSC02453 (10).jpg
-  - url: DSC02455 (10).jpg
-  - url: DSC02454 (10).jpg
-  - url: DSC02458 (10).jpg
-  - url: DSC02457 (10).jpg
-  - url: DSC02460 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/johnstonii/DSC02453 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/johnstonii/DSC02455 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/johnstonii/DSC02454 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/johnstonii/DSC02458 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/johnstonii/DSC02457 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/johnstonii/DSC02460 (10).jpg
 title: Arbi
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cyrtosperma/johnstonii/DSC02453 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

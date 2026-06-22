@@ -13,15 +13,16 @@ subfamily: Aroideae
 tribe: Culcasieae
 galleries:
   gallery1:
-  - url: DSC04226 (11).jpg
-  - url: DSC04227 (11).jpg
-  - url: DSC04229 (11).jpg
-  - url: DSC04228 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cercestis/mirabilis/DSC04226 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cercestis/mirabilis/DSC04227 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cercestis/mirabilis/DSC04229 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cercestis/mirabilis/DSC04228 (11).jpg
 title: African Embossed Aroid
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/alismatales/araceae/cercestis/mirabilis/DSC04226 (11).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

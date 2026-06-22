@@ -13,21 +13,22 @@ subfamily: Detarioideae
 tribe: Amherstieae
 galleries:
   gallery1:
-  - url: DSC04616 (09).jpg
-  - url: DSC06196 (11).jpg
-  - url: DSC04630 (09).jpg
-  - url: P1160053 (22).jpg
-  - url: P1160047 (22).jpg
-  - url: P1160057 (22).jpg
-  - url: DSC04629 (09).jpg
-  - url: DSC04625 (09).jpg
-  - url: P1160048 (22).jpg
-  - url: P1160051 (22).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/DSC04616 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/DSC06196 (11).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/DSC04630 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/P1160053 (22).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/P1160047 (22).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/P1160057 (22).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/DSC04629 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/DSC04625 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/P1160048 (22).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/P1160051 (22).jpg
 title: Nam Nam
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/cynometra/cauliflora/DSC04616 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

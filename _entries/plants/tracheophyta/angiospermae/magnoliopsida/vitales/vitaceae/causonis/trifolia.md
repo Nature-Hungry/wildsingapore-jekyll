@@ -11,25 +11,26 @@ order: Vitales
 family: Vitaceae
 galleries:
   gallery1:
-  - url: DSC08045 (12).jpg
-  - url: DSC07060 (08).jpg
-  - url: DSC02654 (09).jpg
-  - url: DSC03475 (13).jpg
-  - url: DSC02271 (12).jpg
-  - url: DSC08046 (12).jpg
-  - url: DSC05502 (09).jpg
-  - url: DSC07057 (08).jpg
-  - url: DSC06699 (15).jpg
-  - url: DSC05505 (09).jpg
-  - url: DSC02233 (12).jpg
-  - url: DSC02272 (12).jpg
-  - url: PB250035 (17).jpg
-  - url: DSC08043 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC08045 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC07060 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC02654 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC03475 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC02271 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC08046 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC05502 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC07057 (08).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC06699 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC05505 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC02233 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC02272 (12).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/PB250035 (17).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC08043 (12).jpg
 title: Threeleaf Cayratia
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/vitales/vitaceae/causonis/trifolia/DSC08045 (12).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

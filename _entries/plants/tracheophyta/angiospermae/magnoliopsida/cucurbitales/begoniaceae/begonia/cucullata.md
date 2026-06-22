@@ -12,12 +12,12 @@ family: Begoniaceae
 section: Ephemera
 galleries:
   gallery1:
-  - url: DSC00649 (09).jpg
-  - url: DSC00651 (09).jpg
-  - url: DSC00654 (09).jpg
-  - url: DSC00653 (09).jpg
-  - url: DSC00655 (09).jpg
-  - url: Hybrid_cultivar1.jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/cucullata/DSC00649 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/cucullata/DSC00651 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/cucullata/DSC00654 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/cucullata/DSC00653 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/cucullata/DSC00655 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/cucullata/Hybrid_cultivar1.jpg
 title: Clubed Begonia
 other_names:
 - Wax Begonia
@@ -26,5 +26,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/cucurbitales/begoniaceae/begonia/cucullata/DSC00649 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

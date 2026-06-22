@@ -12,15 +12,16 @@ family: Lamiaceae
 subfamily: Ajugoideae
 galleries:
   gallery1:
-  - url: DSC08097 (10).jpg
-  - url: DSC08094 (10).jpg
-  - url: DSC08092 (10).jpg
-  - url: DSC08095 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/thomsoniae/DSC08097 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/thomsoniae/DSC08094 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/thomsoniae/DSC08092 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/thomsoniae/DSC08095 (10).jpg
 title: Bleeding Heart Vine
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/lamiales/lamiaceae/clerodendrum/thomsoniae/DSC08097 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

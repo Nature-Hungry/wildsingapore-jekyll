@@ -13,21 +13,22 @@ family: Dryopteridaceae
 subfamily: Elaphoglossoideae
 galleries:
   gallery1:
-  - url: DSC09071 (13).jpg
-  - url: DSC09073 (13).jpg
-  - url: DSC09089 (13).jpg
-  - url: DSC09086 (13).jpg
-  - url: DSC09079 (13).jpg
-  - url: DSC09077 (13).jpg
-  - url: DSC09091 (13).jpg
-  - url: DSC09084 (13).jpg
-  - url: DSC09082 (13).jpg
-  - url: DSC09074 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09071 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09073 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09089 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09086 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09079 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09077 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09091 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09084 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09082 (13).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09074 (13).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/polypodiopsida/polypodiales/dryopteridaceae/bolbitis/heteroclita/DSC09071 (13).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

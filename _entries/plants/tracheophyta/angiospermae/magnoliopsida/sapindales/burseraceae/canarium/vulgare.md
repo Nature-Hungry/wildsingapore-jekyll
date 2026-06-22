@@ -11,26 +11,27 @@ order: Sapindales
 family: Burseraceae
 galleries:
   gallery1:
-  - url: DSC06158 (10).jpg
-  - url: DSC09529 (16).jpg
-  - url: DSC06166 (10).jpg
-  - url: DSC06167 (10).jpg
-  - url: DSC06162 (10).jpg
-  - url: DSC06599 (10).jpg
-  - url: DSC06171 (10).jpg
-  - url: DSC09520 (16).jpg
-  - url: DSC06170 (10).jpg
-  - url: DSC09536 (16).jpg
-  - url: DSC09533 (16).jpg
-  - url: DSC09524 (16).jpg
-  - url: DSC09530 (16).jpg
-  - url: DSC06157 (10).jpg
-  - url: DSC09527 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC06158 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC09529 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC06166 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC06167 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC06162 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC06599 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC06171 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC09520 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC06170 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC09536 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC09533 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC09524 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC09530 (16).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC06157 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC09527 (16).jpg
 title: Kanari Nut Tree
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/sapindales/burseraceae/canarium/vulgare/DSC06158 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

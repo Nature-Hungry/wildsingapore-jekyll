@@ -13,18 +13,19 @@ subfamily: Faboideae
 tribe: Crotalarieae
 galleries:
   gallery1:
-  - url: DSC06565 (10).jpg
-  - url: DSC08893 (14).jpg
-  - url: DSC06567 (10).jpg
-  - url: DSC08898 (14).jpg
-  - url: DSC06569 (10).jpg
-  - url: DSC06570 (10).jpg
-  - url: DSC06572 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/crotalaria/pallida/DSC06565 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/crotalaria/pallida/DSC08893 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/crotalaria/pallida/DSC06567 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/crotalaria/pallida/DSC08898 (14).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/crotalaria/pallida/DSC06569 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/crotalaria/pallida/DSC06570 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/crotalaria/pallida/DSC06572 (10).jpg
 title: Rattlebox
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/fabales/fabaceae/crotalaria/pallida/DSC06565 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

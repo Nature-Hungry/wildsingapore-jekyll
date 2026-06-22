@@ -13,23 +13,24 @@ subfamily: Coryphoideae
 tribe: Caryoteae
 galleries:
   gallery1:
-  - url: DSC01424 (10).jpg
-  - url: DSC01425 (10).jpg
-  - url: DSC08109 (10).jpg
-  - url: DSC08108 (10).jpg
-  - url: DSC03611 (19).jpg
-  - url: DSC03605 (19).jpg
-  - url: P7230125 (24).jpg
-  - url: P5120204 (19).jpg
-  - url: DSC03606 (19).jpg
-  - url: P5120198 (19).jpg
-  - url: P7230126 (24).jpg
-  - url: DSC03608 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/DSC01424 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/DSC01425 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/DSC08109 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/DSC08108 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/DSC03611 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/DSC03605 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/P7230125 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/P5120204 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/DSC03606 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/P5120198 (19).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/P7230126 (24).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/DSC03608 (19).jpg
 title: Hooker's Fishtail Palm
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/liliopsida/arecales/arecaceae/arenga/hookeriana/DSC01424 (10).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

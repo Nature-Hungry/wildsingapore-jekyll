@@ -13,14 +13,14 @@ subfamily: Phyllanthoideae
 tribe: Phyllantheae
 galleries:
   gallery1:
-  - url: P4150067 (23).jpg
-  - url: P4150071 (23).jpg
-  - url: P4150076 (23).jpg
-  - url: P4150069 (23).jpg
-  - url: P4150077 (23).jpg
-  - url: P4150078 (23).jpg
-  - url: P4150080 (23).jpg
-  - url: P4150079 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/disticha/P4150067 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/disticha/P4150071 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/disticha/P4150076 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/disticha/P4150069 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/disticha/P4150077 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/disticha/P4150078 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/disticha/P4150080 (23).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/disticha/P4150079 (23).jpg
 title: Red-Leaf Breynia
 other_names:
 - Snow Bush
@@ -29,5 +29,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/malpighiales/phyllanthaceae/breynia/disticha/P4150067 (23).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

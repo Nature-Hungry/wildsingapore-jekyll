@@ -11,17 +11,18 @@ order: Dilleniales
 family: Dilleniaceae
 galleries:
   gallery1:
-  - url: DSC00855 (15).jpg
-  - url: DSC00839 (15).jpg
-  - url: DSC00852 (15).jpg
-  - url: DSC00854 (15).jpg
-  - url: DSC00843 (15).jpg
-  - url: DSC00845 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/reticulata/DSC00855 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/reticulata/DSC00839 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/reticulata/DSC00852 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/reticulata/DSC00854 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/reticulata/DSC00843 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/reticulata/DSC00845 (15).jpg
 title: '-'
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/dilleniales/dilleniaceae/dillenia/reticulata/DSC00855 (15).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

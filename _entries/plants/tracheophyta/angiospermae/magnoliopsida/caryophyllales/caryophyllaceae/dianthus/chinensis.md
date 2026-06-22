@@ -13,11 +13,11 @@ subfamily: Caryophylloideae
 tribe: Caryophylleae
 galleries:
   gallery1:
-  - url: DSC06043 (07).jpg
-  - url: DSC06044 (07).jpg
-  - url: DSC08616 (07).jpg
-  - url: DSC08618 (07).jpg
-  - url: DSC08629 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/caryophyllaceae/dianthus/chinensis/DSC06043 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/caryophyllaceae/dianthus/chinensis/DSC06044 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/caryophyllaceae/dianthus/chinensis/DSC08616 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/caryophyllaceae/dianthus/chinensis/DSC08618 (07).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/caryophyllaceae/dianthus/chinensis/DSC08629 (07).jpg
 title: Chinese Pink
 other_names:
 - Rainbow Pink
@@ -26,5 +26,6 @@ authors:
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/caryophyllales/caryophyllaceae/dianthus/chinensis/DSC06043 (07).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

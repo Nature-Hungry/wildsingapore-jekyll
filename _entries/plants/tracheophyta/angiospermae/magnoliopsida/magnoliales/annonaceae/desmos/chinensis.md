@@ -13,19 +13,20 @@ subfamily: Annonoideae
 tribe: Uvarieae
 galleries:
   gallery1:
-  - url: DSC05759 (15).jpg
-  - url: DSC05761 (15).jpg
-  - url: DSC05760 (15).jpg
-  - url: DSC05764 (15).jpg
-  - url: DSC05763 (15).jpg
-  - url: DSC05770 (15).jpg
-  - url: DSC05771 (15).jpg
-  - url: DSC05766 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/desmos/chinensis/DSC05759 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/desmos/chinensis/DSC05761 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/desmos/chinensis/DSC05760 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/desmos/chinensis/DSC05764 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/desmos/chinensis/DSC05763 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/desmos/chinensis/DSC05770 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/desmos/chinensis/DSC05771 (15).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/desmos/chinensis/DSC05766 (15).jpg
 title: Dwarf Ylang Ylang
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/magnoliales/annonaceae/desmos/chinensis/DSC05759 (15).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

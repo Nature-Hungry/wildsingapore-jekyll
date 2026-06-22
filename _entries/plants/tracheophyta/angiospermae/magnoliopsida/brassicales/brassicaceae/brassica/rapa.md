@@ -15,17 +15,18 @@ tribe: Brassiceae
 subgenus: Brassica
 galleries:
   gallery1:
-  - url: DSC02541 (09).jpg
-  - url: DSC04476 (09).jpg
-  - url: DSC06671 (10).jpg
-  - url: DSC06668 (10).jpg
-  - url: DSC02234 (09).jpg
-  - url: DSC01584 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/brassicaceae/brassica/rapa/DSC02541 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/brassicaceae/brassica/rapa/DSC04476 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/brassicaceae/brassica/rapa/DSC06671 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/brassicaceae/brassica/rapa/DSC06668 (10).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/brassicaceae/brassica/rapa/DSC02234 (09).jpg
+  - url: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/brassicaceae/brassica/rapa/DSC01584 (09).jpg
 title: Chinese Cabbage
 authors:
 - Ong Kwan Han
 zone:
 - terrestrial
 layout: entry
+coverimg: https://images.naturehungry.sg/tracheophyta/angiospermae/magnoliopsida/brassicales/brassicaceae/brassica/rapa/DSC02541 (09).jpg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
