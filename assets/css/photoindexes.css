@@ -107,7 +107,8 @@ p.scientific-name-subtitle{
 
 .photoindex-quadcards{
     display:grid;
-    gap:1rem;
+    gap:2rem;
+    margin-top:2rem;
     margin-bottom: 1rem;
     flex-wrap:wrap;
     grid-template-columns: repeat(auto-fill, minmax(min(250px, 100%), 1fr));

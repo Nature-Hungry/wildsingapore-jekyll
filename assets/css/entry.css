@@ -12,11 +12,12 @@
         display:flex;
         height:stretch;
         width:100%;
-        max-width:400px
+        max-width:400px;
+        max-height:400px;
     }
     .species-cover-container{
         width:100%;
-
+        
     }
     .species-cover-container img{
         height: 100%;

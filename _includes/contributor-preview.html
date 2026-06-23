@@ -7,7 +7,7 @@
     {% include contributor-preview.html contributor=contributor %}
 {% endcomment %}
 
-<div class="contributor-preview" style="width: {{ contributor.width | default: '100'}}% ">
+<div class="contributor-preview" style="grid-column: span {{ contributor.cols | default: '2'}} ">
   <div class="contributor-img">
     {% if contributor.img %}
       <img class="" src="">
@@ -19,7 +19,7 @@
 
     <div class="contributor-preview__header">
       <h3 class="contributor-preview__title">
-        <a href="{{ contributor.link | relative_url }}">{{ contributor.title }}</a>
+        <a href="{{ contributor.link | default: contributor.url }}">{{ contributor.title }}</a>
       </h3>
       
       {% if contributor.role %}
