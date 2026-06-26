@@ -7,6 +7,7 @@ keywords: pink, flower, dendronephthya, nephtheidae, alcyonacea, soft, coral, cn
 layout: entry
 family: Nephtheidea
 genus: Dendronephthya
+summary: Colony tree-like 10-15cm, branched with sturdy 'stems' that are white or transparent, embedded with red or pink spicules. Polyps tiny (about 0.5cm) with eight white branched tentacles. No spikes next to the polyps. On boulders, hard surfaces, coral rubble. Commonly seen on our Northern shores.
 species: sp.*
 attributes: []
 inat_id: 1402519

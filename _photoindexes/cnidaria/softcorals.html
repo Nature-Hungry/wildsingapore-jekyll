@@ -1,0 +1,58 @@
+---
+title: "Soft corals on Singapore shores"
+description: ""
+label: "Soft corals"
+keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+attributes:
+- 129
+- 130
+- 134
+- 137
+- 144
+- 146
+- 148
+- 149
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg
+- https://images.naturehungry.sg/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg
+---
+
+
+<p>
+    <a href="/entries/cnidaria/coralsoft/coralsoft/">Fact sheet on soft corals in Singapore</a>
+</p>
+<br>
+
+
+{% assign filtered_posts = site.entries | where_exp:  "item", "item.family == 'Nephtheidea' or item.family == 'Xeniidae' or item.family == 'Helioporidae'"%}
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+</div>
+
+
+<br>
+<h2>These are NOT soft corals</h2>
+<br>
+<div class="flex flex-wrap gap-2">
+{% assign entry = site.entries | where : "title","Fire anemone" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Frilly anemones" | first %}
+{% include entry-summary-card.html item=entry %}
+</div>
+
+
+
+

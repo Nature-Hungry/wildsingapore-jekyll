@@ -7,6 +7,7 @@ keywords: asparagus, flower, nephthea, nephtheidae, alcyonacea, soft, coral, cni
 layout: entry
 family: Nephtheidae
 genus: Nephthea
+summary: Colony bushy 15-20cm, branched with study 'stems' that re white, lilac or purple. Polyps tiny (about 0.5cm) with eight beige or brown branched tentacles, appear in clusters at the tips of the branches. Among living hard corals on the reef flat. Commonly seen on our Southern shores.
 species: ''
 attributes: []
 inat_id: 468418

@@ -102,6 +102,9 @@ p.scientific-name-subtitle{
     margin:0;
     aspect-ratio: 1;
 }
+.entry-summary-card .img-container img{
+    height: 100%;
+}
 
 
 
@@ -121,6 +124,7 @@ p.scientific-name-subtitle{
 }
 .photoindex-card .text{
     padding:0.5rem;
+    
 }
 .photoindex-card{
     border:1px solid rgb(218, 218, 218);
@@ -135,7 +139,9 @@ p.scientific-name-subtitle{
     object-position: center;
 }
 .photoindex-quadcard .text{
-    padding:0.5rem;
+    padding:1rem 1rem 0.5rem 1rem;
+    text-align: center;
+    font-size: 1.2rem;
 }
 .photoindex-quadcard{
     border:1px solid rgb(218, 218, 218);
@@ -152,6 +158,10 @@ p.scientific-name-subtitle{
     aspect-ratio: 1;
     object-fit: cover;
     object-position: center;
+}
+.photoindex-quadcard:hover{
+    background-color: var(--color-section-head);
+    color:white;
 }
 
 

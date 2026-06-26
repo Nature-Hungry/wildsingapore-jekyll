@@ -1,0 +1,57 @@
+---
+title: "Sea Pens on Singapore shores"
+description: ""
+label: "Sea pens"
+keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+attributes:
+- 129
+- 130
+- 134
+- 137
+- 144
+- 146
+- 148
+- 149
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg
+- https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg
+- https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg
+- https://images.naturehungry.sg/cnidaria/others/pennatulacea/virgularia/090722chgd7702m3.jpg
+- https://images.naturehungry.sg/cnidaria/others/pennatulacea/virgularia/121017tuslks.JPG
+---
+
+
+<p>
+    <a href="/entries/cnidaria/pennatulacea/pennatulacea/">Fact sheet on sea pens in Singapore</a>
+</p>
+<br>
+
+
+{% assign filtered_posts = site.entries | where: "superfamily", "Pennatuloidea" | where_exp: "item", "item.title != 'Sea pens'" %}
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+{%- comment -%} {% assign entry = site.entries | where : "title","Spiky sea pen" | first %}
+{% include entry-summary-rows.html item=entry %}
+{% assign entry = site.entries | where : "title","Flowery sea pen" | first %}
+{% include entry-summary-rows.html item=entry %}
+{% assign entry = site.entries | where : "title","Slender sea pen" | first %}
+{% include entry-summary-rows.html item=entry %}
+{% assign entry = site.entries | where : "title","Sea pencil" | first %}
+{% include entry-summary-rows.html item=entry %} {%- endcomment -%}
+</div>
+
+
+<br>
+
+
+

@@ -1,6 +1,7 @@
 ---
 title: 'Branching anchor corals '
 description: Fact sheet of Branching anchor corals  on the shores of Singapore
+summary: Colonies 10-20cm. Corallites trumpet-shaped. Tentacles with U-shaped tips. Colours green, brown and purple with white or bluish tips. Seen on our Southern shores.
 keywords: branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae,
   coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo

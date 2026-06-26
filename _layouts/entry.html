@@ -1,4 +1,11 @@
 {% include global/header.html %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
+
+<!-- <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" /> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
 <link rel="stylesheet" href="/assets/css/entry.css">
 
 
@@ -98,6 +105,13 @@
         %}
         {% endif %}
       </section>
+
+      {% if page.inat_id and page.inat_id > 1 %}
+      <section>
+        <h2>Sightings of {{page.title}} on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id={{page.inat_id}}&verifiable=any">iNaturalist</a></h2>
+        <div id="map" style="height:400px"></div>
+      </section>
+      {% endif %}
         
         <section>
             {% include img-grid.html items=page.page_images %}
@@ -116,6 +130,118 @@
             
         </section>
 
+        
     </main>
+
+
+
+
+<script>
+
+let map = L.map('map').setView([1.3521, 103.8198], 10);
+const markerCluster = L.markerClusterGroup({
+  maxClusterRadius: 30 
+});
+
+L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+	minZoom: 0,
+	maxZoom: 20,
+	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (Contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+	ext: 'jpg'
+}).addTo(map);
+
+const taxon_id = {{page.inat_id | default : 0}}
+const url = `https://api.inaturalist.org/v2/observations?geo=true&identified=true&mappable=true&verifiable=true&place_id=6734&taxon_geoprivacy=open&taxon_id=${taxon_id}&per_page=200&order=desc&order_by=created_at&fields=taxon_id%2Cspecies_guess%2Cobserved_on%2Clocation`
+console.log("TAXON ID:", taxon_id)
+console.log(url);
+
+
+if(taxon_id > 1){
+  fetchWithInactivityTTL(url)
+  .then(res=>{
+    console.log(res);
+    res.results.forEach(e=>{
+      markerCluster.addLayer(L.marker(e.location.split(",").map(l=>Number(l))))
+      
+    })
+    map.addLayer(markerCluster);
+  })
+}
+
+
+async function fetchWithInactivityTTL(url, maxInactivityMinutes = 10080) {
+  const cacheName = 'inat-api-cache';
+  const cache = await caches.open(cacheName);
+  const cachedResponse = await cache.match(url);
+
+  if (cachedResponse) {
+    const lastRequested = cachedResponse.headers.get('X-Last-Requested');
+    const inactiveDuration = Date.now() - parseInt(lastRequested, 10);
+    const maxInactiveMs = maxInactivityMinutes * 60 * 1000;
+
+    if (inactiveDuration < maxInactiveMs) {
+      // CACHE HIT: Update the timestamp to reset the inactivity timer
+      const blob = await cachedResponse.blob();
+      const updatedResponse = updateTimestampHeader(blob, cachedResponse);
+      
+      // Save the updated response back to cache in the background
+      await cache.put(url, updatedResponse.clone());
+      console.log("Fetching inat data from cache...");
+      
+      return await updatedResponse.json();
+    }
+
+    // INACTIVE EXPIRED: Delete the stale entry
+    await cache.delete(url);
+  }
+
+  console.log("Fetching inat data from server...");
+  
+  // CACHE MISS / EXPIRED: Fetch fresh data from the public API
+  const response = await fetch(url);
+  const blob = await response.clone().blob();
+  const freshResponse = updateTimestampHeader(blob, response);
+
+  // Store the new entry with the starting timestamp
+  await cache.put(url, freshResponse.clone());
+  return await freshResponse.json();
+}
+
+// Helper function to clone responses and inject the current timestamp
+function updateTimestampHeader(blob, originalResponse) {
+  const headers = new Headers(originalResponse.headers);
+  
+  // Set or overwrite the custom inactivity tracker header
+  headers.set('X-Last-Requested', Date.now().toString());
+
+  return new Response(blob, {
+    status: originalResponse.status,
+    statusText: originalResponse.statusText,
+    headers: headers
+  });
+}
+
+
+
+async function purgeAllInactiveCache(maxInactivityMinutes = 10080) {
+  const cacheName = 'inactivity-cache-v1';
+  const cache = await caches.open(cacheName);
+  const keys = await cache.keys(); // Gets all cached Requests
+  const now = Date.now();
+
+  for (const request of keys) {
+    const response = await cache.match(request);
+    if (response) {
+      const lastRequested = response.headers.get('X-Last-Requested');
+      if (lastRequested && (now - parseInt(lastRequested, 10) > maxInactivityMinutes * 60 * 1000)) {
+        await cache.delete(request); // Delete entirely forgotten items
+      }
+    }
+  }
+}
+
+// Run automatically on page load
+purgeAllInactiveCache();
+</script>
 
 {% include global/footer.html %}

@@ -8,6 +8,7 @@ layout: entry
 family: Virgulariidae
 genus: Virgularia
 species: ''
+summary: 15-20cm long. Stiff, narrow central stalk with short (1-2cm), leaf-like structures without spikes on the edges. Secondary polyps tiny, on the edges of the leaf-like structure. Maroon to orange, purple and white. When exposed at low tide, the stiff central primary polyp remains upright so they look like thin sticks stuck in the sand. Sandy shores near seagrasses. Commonly seen on our Northern shores.
 attributes: []
 inat_id: 195571
 stateofmatter: Life

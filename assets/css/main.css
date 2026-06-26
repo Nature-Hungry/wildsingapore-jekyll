@@ -562,6 +562,16 @@ li { margin-bottom: 0.2rem; }
 .btn:active                { background-color: #c45c32; }
 .btn:focus                 { outline: 3px solid #EF835480; outline-offset: 2px; }
 
+.btn.outline{
+  background-color: white;
+  border:1px solid var(--color-section-head);
+  color: var(--color-section-head)
+}
+.btn.outline:hover{
+  background-color: var(--color-section-head);
+  color: white;
+}
+
 /* ── Responsive ──────────────────────────────────────────────────────────── */
 @media (max-width: 640px) {
   .site-header__inner { flex-wrap: wrap; }

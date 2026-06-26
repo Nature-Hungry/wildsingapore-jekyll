@@ -1,0 +1,54 @@
+---
+title: "Hard corals on Singapore shores"
+label: "Tentacled hard corals"
+description: ""
+keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+attributes:
+- 128
+- 130
+- 134
+- 145
+- 153
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655mb.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/051204sisg3282ma.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161mc.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182md.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg
+---
+
+<p>Polyps with long tentacles often hiding a hard skeleton when polyps are extended</p>
+<br>
+
+
+{% assign filtered_posts = site.entries | where_exp: "item", "item.genus != '' and item.title != 'Euphyllia corals'"| where_exp:  "item", "item.family == 'Euphylliidae'  or item.title == 'Sunflower mushroom coral'"%}
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+</div>
+
+
+<br>
+<h2>These are NOT hard corals, they are sea anemones</h2>
+<br>
+<div class="flex flex-wrap gap-2">
+{% assign entry = site.entries | where : "title","Snaky anemone" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Magnificent anemone" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Bubble-tip anemone" | first %}
+{% include entry-summary-card.html item=entry %}
+</div>
+
+
+
+

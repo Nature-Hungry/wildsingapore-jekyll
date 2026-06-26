@@ -6,6 +6,7 @@ keywords: pencil, pen, seapen, lituaria, veretillidae, pennatulacea, anthozoa, c
   singapore, facts, fact sheet, info, photo
 layout: entry
 family: Veretillidae
+summary: 4-10cm long. Stiff white cylindrical central stalk bears transparent secondary polyps (less than 1cm) that have branched tentacles. When exposed at low tide, the secondary polyps are retracted and they look like fat pencils stuck in the sand. Sandy shores near seagrasses. Commonly seen on our Northern shores.
 genus: Lituaria
 species: ''
 attributes: []

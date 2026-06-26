@@ -5,6 +5,7 @@ keywords: alcyonacea, soft, coral, octocoral, sansibia, flava, xeniidae, alcyona
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
+summary: Colony 5-10cm,. Polyps 1cm in diameter on stalks 0.5-2cm long. Eight broad tentacles with thick side branches. Beige, pink, pale powder blue to bright blue, entire animal the same colour. The polyps don't pulsate. On stones in coral rubble. Commonly seen on our Southern shores.
 attributes: []
 family: Xeniidae
 genus: Sansibia

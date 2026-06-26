@@ -1,6 +1,7 @@
 ---
 title: Torch anchor coral
 description: Fact sheet of Torch anchor coral on the shores of Singapore
+summary: Colonies 10-20cm. Corallites trumpet-shaped. Tentacles with rounded tips. Colours beige, brown and blue. Sometimes seen on our Southern shores.
 keywords: torch, anchor, euphyllia, glabrescens, euphylliidae, caryophyliidae, coral,
   hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

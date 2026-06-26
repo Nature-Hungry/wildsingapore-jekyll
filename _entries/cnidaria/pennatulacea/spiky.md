@@ -4,6 +4,7 @@ description: Fact sheet of Spiky sea pen on the shores of Singapore
 keywords: spiky, pen, seapen, pteroeides, pteroeididae, pennatulidae, pennatulacea,
   anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+summary: 15-20cm long. Fat central stalk with short (2-3cm) leaf-like structures with tiny spikes on the edges. Secondary polyps tiny, on the edges of the leaf-like structure. White or beige. When exposed at low tide, the central stalk is often bent over into half. Sandy shores near seagrasses. Commonly seen on our Northern shores.
 layout: entry
 family: Pennatulidae
 genus: Pteroeides

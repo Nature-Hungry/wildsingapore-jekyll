@@ -8,9 +8,10 @@ family: ''
 genus: ''
 species: ''
 attributes: []
-inat_id: 1
+inat_id: 47120
 stateofmatter: Life
 kingdom: Animalia
+phylum: Arthropoda
 updated: Mar 2020
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
 galleries:

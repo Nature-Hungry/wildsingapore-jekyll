@@ -1,0 +1,65 @@
+---
+title: "Hard corals on Singapore shores"
+label: "Branching hard corals"
+description: ""
+keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+attributes:
+- 128
+- 134
+- 140
+- 151
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3228m.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrpinecone/060810rlhd5681m.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/050820bbd5737m.jpg
+---
+
+<p>Colonies with thick branches</p>
+<br>
+
+
+{% assign filtered_posts = site.entries 
+    | where_exp: "item", "item.genus != ''"
+    | where_exp:  "item", "item.genus == 'Acropora'  
+    or item.title == 'Crinkled sandpaper coral'
+    or item.title == 'Ridged montipora coral'
+    or item.title == 'Branching montipora coral'
+    or item.title == 'Branching pore coral'
+    or item.title == 'Branching horn coral'
+    or item.title == 'Cauliflower corals'
+    "
+
+%}
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+</div>
+
+
+<br>
+<h2>These are NOT hard corals</h2>
+<br>
+<div class="flex flex-wrap gap-2">
+{% assign entry = site.entries | where : "title","Blue coral" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Knobbly soft coral" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Leathery sea fan" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Candelabra sea fan" | first %}
+{% include entry-summary-card.html item=entry %}
+</div>
+
+
+
+

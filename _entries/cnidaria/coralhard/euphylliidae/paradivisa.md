@@ -1,6 +1,7 @@
 ---
 title: 'Frog spawn coral '
 description: Fact sheet of Frog spawn coral  on the shores of Singapore
+summary: Colony 10-20cm. Corallites trumpet-shaped. Tentacles are branched at the tips into masses of rounded and U-shaped tips. Colours green and brown with white or bluish tips. Rarely seen, on our Southern shores
 keywords: frog, spawn, euphyllia, paradivisa, euphylliidae, caryophyliidae, coral,
   hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo

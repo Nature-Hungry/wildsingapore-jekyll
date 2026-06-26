@@ -7,6 +7,7 @@ layout: entry
 family: Briareidae
 genus: Briareum
 species: excavatum
+summary: Colony 10-15cm. Polyps about 1cm in diameter, on stalks about 1cm long. Eight skinny tentacles with short thin side branches. Side branches brownish, oral disk and tentacles white, greenish or bluish. The polyps emerge from an encrusting purple common membrane. The polyps don't pulsate. On coral rubble. Seen on our Southern shores.
 attributes: []
 updated: Aug 2025
 coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg

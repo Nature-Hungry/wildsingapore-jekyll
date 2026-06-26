@@ -1,5 +1,6 @@
 ---
 title: "Sea anemones and anemone-like animals"
+label: "Anemones"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "photo, index, actiniaria, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default

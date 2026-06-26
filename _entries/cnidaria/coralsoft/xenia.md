@@ -7,6 +7,7 @@ keywords: xenia, soft, coral, heteroxenia, xeniidae, aclyonacea, cnidaria, field
 layout: entry
 family: Xeniidae
 genus: Heteroxenia
+summary: Colony 5-10cm. Polyps about 2cm in diameter, on stalks about 3-5cm long. Eight skinny tentacles with short thin side branches. Side branches brownish, oral disk and tentacles pinkish. The polyps emerge from a common membrane. The polyps may pulsate. On coral rubble. Seen on our Southern shores.
 species: ''
 attributes: []
 inat_id: 155022

@@ -5,6 +5,7 @@ keywords: smooth, litophyton, nephtheidae, alcyonacea, soft, coral, cnidaria, fi
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
+summary: Colony bushy 6-12cm, branched with 'stems' that are white or transparent, embedded with spicules. Polyps tiny (about 0.5cm) with eight branched tentacles, may be beige, white or purple. No spikes next to the polyps. On coral rubble. Uncommon.
 family: Nephtheidea
 genus: Litophyton
 species: ''

@@ -1,6 +1,7 @@
 ---
 title: Brain anchor coral
 description: Fact sheet of Brain anchor coral on the shores of Singapore
+summary: Colonies 10-20cm. Corallites forming meandering valleys with separate walls. Tentacles with a U-shaped tip. Colours blue and brown with bluish tips. Seen on our Southern shores.
 keywords: brain, anchor, euphyllia, ancora, euphylliidae, caryophyliidae, coral, hard,
   scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo

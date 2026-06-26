@@ -7,6 +7,7 @@ keywords: ball, dendronephthya, nephtheidae, alcyonacea, soft, coral, cnidaria, 
 layout: entry
 family: Nephtheidea
 genus: Dendronephthya
+summary: Colony spherical 6-10cm with a fat central 'trunk' that branches densely. The 'stem' white or transparent, pink or orange at near the polyp clusters. Polyps tiny (about 0.5cm) with eight white branched tentacles and tiny spikes nearby. On coral rubble. Commonly seen on our Northern shores.
 species: sp.*
 attributes: []
 inat_id: 1402519
