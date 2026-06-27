@@ -33,4 +33,29 @@
 </footer>
 
 </body>
+
+
+<script>
+document.querySelectorAll('img[src*="://live.staticflickr.com"]').forEach(img => {
+    // 1. Get the image source URL
+    const src = img.src;
+
+    // 2. Extract the photo ID using a Regular Expression
+    const match = src.match(/\/(\d+)_[a-f0-9]+(_[a-z])?\.\w+$/i);
+    
+    if (match && match[1]) {
+        const photoId = match[1];
+
+        // 3. Create the anchor link element
+        const link = document.createElement('a');
+        link.href = `https://flickr.com/photo.gne?id=${photoId}`;
+        link.target = '_blank'; // Opens in a new tab
+        link.rel = 'noopener noreferrer'; // Security best practice
+
+        // 4. Wrap the image inside the link element
+        img.parentNode.insertBefore(link, img);
+        link.appendChild(img);
+    }
+});
+</script>
 </html>
