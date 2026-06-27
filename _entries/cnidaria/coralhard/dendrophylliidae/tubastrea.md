@@ -86,14 +86,16 @@ galleries:
       .
   - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/tubastraea/150605kuslks1m3.JPG
     caption: Kusu Island, Jun 15 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

@@ -53,7 +53,8 @@ galleries:
     caption: Terumbu Berkas, Jan 10
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/lacy/100530tbkd4213m3.jpg
     caption: Pulau Berkas, May 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Martensia elegans*](http://www.algaebase.org/search/species/detail/?species_id=3272)
 
@@ -64,7 +65,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   .
 

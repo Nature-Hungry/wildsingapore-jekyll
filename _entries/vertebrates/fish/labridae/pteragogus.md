@@ -48,7 +48,8 @@ galleries:
       by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/labridae/pteragogus/230509tsmkky3.jpg
     caption: Terumbu Semakau, May 23 Photo shared by Kevlin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Pteragogus enneacanthus*](http://www.iucnredlist.org/details/187604/0)
 
@@ -80,7 +81,8 @@ links_references: '**Links**
   the family.
 
 
-  **References**
+  ### References
+
 
   - Marcus F. C. Ng & Kelvin K. P. Lim. 31 October 2014.
 

@@ -30,7 +30,8 @@ galleries:
     caption: Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11
   - url: https://images.naturehungry.sg/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9744m6l.jpg
     caption: Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Whitespot/Tinhead (
   *Aplocheilus panchax*
@@ -85,7 +86,8 @@ links_references: '**Links**
   on the IUCN Red List website.
 
 
-  **References**
+  ### References
+
 
   - Yeo, D. C. J. & K. K. P. Lim. 25 November 2010.
 

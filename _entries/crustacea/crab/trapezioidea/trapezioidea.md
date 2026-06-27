@@ -86,7 +86,9 @@ include the
 [Hairy coral crab](../xanthidae/cymo)
 (*Cymo andreossyi*)
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Red coral crab (*Trapezia cymodoce*) is listed as 'Vulnerable' in our Red List of threatened animals of Singapore. To protect these crabs, we need to protect their hard coral homes.
 
 ---
@@ -131,7 +133,8 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
 ---
 
-**References**
+### References
+
 - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
 [.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)

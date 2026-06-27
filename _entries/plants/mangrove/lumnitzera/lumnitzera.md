@@ -33,7 +33,8 @@ galleries:
     caption: White flowers, stamens same length as petals.
   - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg
     caption: Developing fruits.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Lumnitzera littorea*](http://floraofsingapore.wordpress.com/2010/08/14/lumnitzera-littorea/)
 
@@ -81,7 +82,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

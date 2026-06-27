@@ -70,7 +70,8 @@ galleries:
     caption: Cyrene, Feb 20 Photo shared by Leon Tan on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/natator/210821cyrlks2.jpg
     caption: Cyrene, Aug 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
 
@@ -103,7 +104,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

@@ -25,7 +25,8 @@ galleries:
     caption: Sungei Buloh Wetland Reserve, May 02
   - url: https://images.naturehungry.sg/vertebrates/snakes/reticulatus/020511sbwrcpd9035m3.jpg
     caption: Sungei Buloh Wetland Reserve, May 02
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Reticulated pythons](http://singaporesnakes.blogspot.com/search/label/Reticulated%20Python)
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   (Squamata: Pythonidae) Reticulated Python by Johanna Johan Adam Chin, 2011 on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
 
@@ -114,7 +116,9 @@ It hunts small warm-blooded animals and has pits on the upper lip to detect its 
 **Python babies:**
 Mama snake lays many eggs (124 is the record) and incubates them for three months. The babies look just like their parents.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The snake is considered common and are not listed among the threatened animals of Singapore. However, like other creatures of the shores, they are affected by human activities such as reclamation and pollution.
 
 ![](https://images.naturehungry.sg/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg)

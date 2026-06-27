@@ -39,7 +39,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
     caption: Pythia snail
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Belongkeng (Family Ellobidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090)
 
@@ -73,7 +74,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Chan Sow-Yan & Lau Wing Lup. 30 July 2020.
 
@@ -156,7 +158,9 @@ They graze on algae and lichen growing on mangrove trees and debris.
 
 The larger snails are eaten as traditional and subsistence food in some coastal communities.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Mangrove land snail (*Ellobium scheepmakeri*) is listed as 'Critically Endangered' on the list of threatened animals of Singapore due to habitat loss. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Overcollection can also have an impact on local populations.
 
 ---

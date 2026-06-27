@@ -53,7 +53,8 @@ galleries:
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/100613sngd5432m3b.jpg
     caption: Pulau Senang, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Sansibia*](http://species-identification.org/species.php?species_group=corals&id=211&menuentry=groepen)
 
@@ -72,7 +73,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -130,7 +132,9 @@ Polyps from beige, pink, pale powder blue to bright blue, the entire animal the 
 
 The animals harbour high densities of symbiotic algae (zooxanthellae) and thus can be found in clearer water or higher up on the intertidal zone.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -61,14 +61,16 @@ galleries:
     caption: Pulau Tekukor, Nov 20 Photo shared by Shwne Goh on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/livescens/091205sudikw4m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Nassarius livescens*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105145)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

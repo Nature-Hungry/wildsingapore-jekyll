@@ -46,7 +46,8 @@ galleries:
     caption: Silt flatworm seen on a nest mussel bed. Changi, Jul 12
   - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/musculista/120605lygd4072m3.jpg
     caption: Hairy spoon seagrass growing on a nest mussel bed. Changi, Jun 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Nest mussel (
   *Musculista senhausii*
@@ -77,7 +78,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

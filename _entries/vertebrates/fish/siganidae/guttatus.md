@@ -42,7 +42,8 @@ galleries:
     caption: St John's Island, Jun 24 Photo shared by Kelvin Yong on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/guttatus/170820kusmn2.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Orange-spotted rabbitfish (
   *Siganus guttatus*
@@ -61,7 +62,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

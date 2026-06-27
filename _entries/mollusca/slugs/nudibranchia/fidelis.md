@@ -54,7 +54,8 @@ galleries:
     caption: Terumbu Semakau, May 17 Photo shared by Jianlin Liu on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/fidelis/090330trylks1m3.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Chromodoris fidelis*](http://www.seaslugforum.net/find/chrofide)
 
@@ -65,7 +66,8 @@ links_references: '**Links**
   by Dr Bill Rudman: fact sheet with photos.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

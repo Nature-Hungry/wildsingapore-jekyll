@@ -125,7 +125,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/140909tptjll1m3.jpg
     caption: Terumbu Pempang Tengah, Sep 14 Photo shared by Jianlin Liu on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spotted-tail Frogfish (
   *Lophiocharon trisignatus*
@@ -150,7 +151,8 @@ links_references: '**Links**
   : Technical fact sheet with photo.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui. 29 August 2014.
 

@@ -33,7 +33,8 @@ galleries:
     caption: Pulau Sekudu, Oct 11 Photo shared by Lim Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/lineolata/180420chg4ay.jpg
     caption: Changi, Apr 18 Photo shared by Abel Yeo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 

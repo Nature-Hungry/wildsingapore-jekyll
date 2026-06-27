@@ -50,7 +50,8 @@ galleries:
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/biocellatus/220302hntjk1.jpg
     caption: Pulau Hantu, Mar 22 Photo shared by James Koh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sleepy goby](http://www.fishbase.org/summary/speciessummary.php?id=9946)
 
@@ -70,7 +71,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

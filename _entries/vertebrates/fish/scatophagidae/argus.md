@@ -45,7 +45,8 @@ galleries:
       Records
   - url: https://images.naturehungry.sg/vertebrates/fish/scatophagidae/argus/200707hntjt3.jpg
     caption: Pulau Hantu, Jul 20 Photo shared by Juria Toramae on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spotted Scat (
   *Scatophagus argus*
@@ -101,7 +102,8 @@ links_references: '**Links**
   (Spotted scat).
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui & Tan Siong Kiat.
 

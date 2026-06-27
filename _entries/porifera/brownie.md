@@ -21,14 +21,16 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/porifera/brownie/240708smkeky2.jpg
     caption: Pulau Semakau, Jul 24 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Hyattella tubaria](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165132)*
 
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

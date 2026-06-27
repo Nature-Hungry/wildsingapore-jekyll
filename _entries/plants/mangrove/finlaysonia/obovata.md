@@ -38,7 +38,8 @@ galleries:
     caption: Kranji Canal, Mar 09
   - url: https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/090322krjd8360m3a.jpg
     caption: Kranji Canal, Mar 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Finlaysonia obovata*](http://floraofsingapore.wordpress.com/2010/07/04/finlaysonia-obovata/)
 
@@ -69,7 +70,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Ang, W. F., P. X. Ng, S. Teo, A. F. S. L. Lok & H. T. W. Tan, 2010.
 
@@ -129,7 +131,9 @@ Fruits are cresent-shaped pods (8-10cm) fleshy ribbed in a pair, described as re
 
 According to Burkill, the leaves are eaten in salads in the Moluccas, but "apparently this use does not extend to Malaya". According to Ang et al, this plant was recently found to contain substances that have antibacterial properties against fish diseases.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This climber is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore. This is because it is estimated that there are fewer than 50 mature individuals left in the wild with some evidence of decline and fragmentation of its natural habitat.
 
 ![](https://images.naturehungry.sg/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg)

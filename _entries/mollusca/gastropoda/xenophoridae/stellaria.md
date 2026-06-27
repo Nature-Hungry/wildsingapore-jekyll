@@ -34,7 +34,8 @@ galleries:
     caption: Tuas, Aug 09
   - url: https://images.naturehungry.sg/mollusca/gastropoda/xenophoridae/stellaria/101011chgd2128m3.jpg
     caption: Changi, Oct 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Xenophoridae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Xenophoridae.html)
   on [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
@@ -47,11 +48,12 @@ links_references: '**Links**
   - Sunburst carrier shell (*Xenophora solaris*) Family Xenophoridae in the Gastropods
   section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes:
   The Living Marine Resources of the Western Central Pacific [Volume 1: Seaweeds,
-  corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
+ corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist of The Molluscs
   of Singapore* (pdf), Raffles Museum of Biodiversity Research, National University

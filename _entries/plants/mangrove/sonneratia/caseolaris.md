@@ -49,7 +49,8 @@ galleries:
     caption: Atlas moth cocoon on the tree. Pasir Ris Park, Jan 10
   - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
     caption: Sunbird nesting in Berembang. Pasir Ris Park, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Sonneratia caseolaris](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3343)*
 
@@ -76,7 +77,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Mishak Shunari & Benjamin C. Lee. 31 May 2017.
 
@@ -167,7 +169,9 @@ The
 
 According to Burkill, the young fruit is sour and used to flavour curries and chutnies. When ripe, the fruit have a "cheese-like taste" and is eaten raw or cooked. The pneumatophores are converted into corks for fishing net floats by shaping them and boiling them in water. The timber is not much used as the salt in it rusts iron nails and screws. Medicinal uses include various parts of the fruit for haemorrhage and coughs. According to Giesen, it makes poor timber but is occasionally used in salt-water piling. The pnematophores are used for making wooden soles of shoes.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg)*

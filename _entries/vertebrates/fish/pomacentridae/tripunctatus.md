@@ -99,7 +99,8 @@ galleries:
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Sam Yeo on facebook
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/100530biomn.jpg
     caption: Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Threespot damsel (
   *Pomacentrus tripunctatus*
@@ -124,7 +125,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Daisuke Taira & Amanda Rouwen Hsiung. 31 August 2020.
 

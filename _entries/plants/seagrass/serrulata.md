@@ -42,7 +42,8 @@ galleries:
     caption: Seringat Kias, Sep 17 Photo shared by Jonathan Tan.
   - url: https://images.naturehungry.sg/plants/seagrass/serrulata/170908lazjt2.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
 
@@ -56,7 +57,8 @@ links_references: '**Links**
   on the Seagrass-Watch website.
 
 
-  **References**
+  ### References
+
 
   - Waycott, Michelle (et. al). 2004.
 
@@ -135,7 +137,9 @@ and
 *Halodule*
 are not available.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
 **

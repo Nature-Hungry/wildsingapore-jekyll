@@ -106,7 +106,8 @@ galleries:
     caption: Terumbu Pempang Tengah, May 21 Photo shared by James Koh on flickr.
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/actinodendron/100530pbklks3m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Actinodendron*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?genusname=Actinodendron)
   on the [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm)
@@ -117,7 +118,8 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -190,7 +192,9 @@ Do not touch the sea anemone.
 **Fiery friends:**
 Usually, we don't see symbiotic animals living in a Fire anemone. But once, a [Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis) (*Periclimenes brevicarpalis*) was seen in a Fire anemone.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

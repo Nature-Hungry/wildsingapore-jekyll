@@ -30,7 +30,8 @@ galleries:
     caption: Sungei Buloh, Feb 11
   - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg
     caption: Pasir Ris, Feb 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Striped-nose Halfbeak (
   *Zenarchopterus buffonis*
@@ -69,7 +70,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

@@ -83,7 +83,8 @@ galleries:
     caption: Terumbu Pempang Laut, Apr 11
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/orangespot/151225tsmklks7m3.jpg
     caption: Terumbu Semakau, Dec 12 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Dardanus megistos](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21040)*
 
@@ -92,7 +93,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Jones Diana S. and Gary J. Morgan, 2002.
 

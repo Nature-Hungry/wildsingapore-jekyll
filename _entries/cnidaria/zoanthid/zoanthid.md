@@ -52,7 +52,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/100130brkd8486m3a.jpg
     caption: Pink button zoanthids ( Zoanthus vietnamensis ) Polyps with pink edges
       at the top of the body column, more obvious in retracted polyp.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Colonial anemones (Order Zoanthidae)](http://mangrove.nus.edu.sg/pub/seashore/text/121)
 
@@ -68,7 +69,8 @@ links_references: '**Links**
   of the toxin.
 
 
-  **References**
+  ### References
+
 
   - Borneman, Eric H. 2001.
 
@@ -160,7 +162,9 @@ Zoanthids generally reproduce asexually: new polyps bud to enlarge the colony. H
 
 Palytoxin, the poison extracted from a zoanthid, has been used to better understand how our body works and may provide better treatment of hypertension, heart disease and other disorders. Zoanthids are also a popular item in the live aquarium trade, although their toxins make them dangerous to handle.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Zoanthids are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and overcollection also have an impact on local populations.
 
 ---

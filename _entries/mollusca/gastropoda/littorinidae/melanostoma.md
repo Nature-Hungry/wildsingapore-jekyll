@@ -34,7 +34,8 @@ galleries:
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove periwinkle (
   *Littoraria*
@@ -56,7 +57,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

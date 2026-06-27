@@ -27,7 +27,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/snakes/paradisi/110109ubnd4909m6l.jpg
     caption: This one landed on the road from a tall tree. Pulau Ubin, Jan 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Paradise Tree Snake](http://www.ecologyasia.com/verts/snakes/paradise_tree-snake)
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   (Squamata: Colubridae) Paradise Gliding Snake on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
 

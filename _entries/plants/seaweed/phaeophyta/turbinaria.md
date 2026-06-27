@@ -15,11 +15,11 @@ attributes:
 - 98
 inat_id: 92703
 stateofmatter: Life
-kingdom: Animalia
-phylum: Cnidaria
-class: Anthozoa
-subclass: Hexacorallia
-order: Scleractinia
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
+subclass: Fucophycidae
+order: Fucales
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg
 galleries:
@@ -37,7 +37,8 @@ galleries:
     caption: Sisters Islands, Jan 06
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/070812sisd5390m3.jpg
     caption: Sisters Island, Aug 07 Some have spines on the edges.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Turbinaria*](http://www.algaebase.org/search/genus/detail/?genus_id=36321)
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

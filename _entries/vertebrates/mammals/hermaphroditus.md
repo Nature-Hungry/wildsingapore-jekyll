@@ -26,7 +26,8 @@ galleries:
   gallery1:
   - url: https://images.naturehungry.sg/vertebrates/mammals/hermaphroditus/071028cjd7391m6l.jpg
     caption: Chek Jawa, Oct 07
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Paradoxurus hermaphroditus](http://www.iucnredlist.org/details/41693/0)
 
@@ -67,7 +68,8 @@ links_references: '**Links**
   Times 30 Nov 09 on the wildsingapore news blog.
 
 
-  **References**
+  ### References
+
 
   - Baker, Nick and Kelvin Lim. 2008.
 

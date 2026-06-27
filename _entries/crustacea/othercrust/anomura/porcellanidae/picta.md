@@ -73,7 +73,8 @@ galleries:
     caption: Tanah Merah, Feb 09 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/picta/121017tuslks.JPG
     caption: Tuas, Oct 12 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Porcellanella triloba*](http://crust.biota.biodiv.tw/pages/3980)
 
@@ -84,7 +85,8 @@ links_references: '**Links**
   on Sealife Base.
 
 
-  **References**
+  ### References
+
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
@@ -139,7 +141,9 @@ sp.). often a pair but sometimes many more. One was also seen in a
 [Sea pencil](../../../../cnidaria/others/pennatulacea/pencil)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 This porcelain crab is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

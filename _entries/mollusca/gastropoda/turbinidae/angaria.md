@@ -40,8 +40,10 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by Che Cheng Neo on facebook
       .
-links_references: "**Links**\n- *[Angaria delphinus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90083)*\n\
-  on SeaLife Base: Technical fact sheet.\n\n**References**\n- Tan SK & Low MEY (2013)\n\
+links_references: "### Links
+\n- *[Angaria delphinus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90083)*\n\
+  on SeaLife Base: Technical fact sheet.\n\n### References
+\n- Tan SK & Low MEY (2013)\n\
   *Singapore Mollusca: 1. The Family Angariidae (Gastropoda: Vetigastropoda: Angarioidea)*\n\
   . Nature in Singapore, 6: 239\u2013246.\n- Tan Siong Kiat and Henrietta P. M. Woo,\
   \ 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum\

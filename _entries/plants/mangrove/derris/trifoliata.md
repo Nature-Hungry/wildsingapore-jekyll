@@ -39,7 +39,8 @@ galleries:
     caption: Pasir Ris, Apr 09
   - url: https://images.naturehungry.sg/plants/mangrove/derris/trifoliata/090612pndd4035m3.jpg
     caption: Sungei Pandan, Jun 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Derris trifoliata*](http://floraofsingapore.wordpress.com/2010/06/20/derris-trifoliata/)
 
@@ -70,7 +71,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

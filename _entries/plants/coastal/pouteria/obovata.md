@@ -21,13 +21,15 @@ class: Magnoliopsida
 order: Ericales
 updated: Nov 10
 coverimg: https://images.naturehungry.sg/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Pouteria obovata](http://floraofsingapore.wordpress.com/2010/04/16/planchonella-obovata/)*on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan, Hugh T.W. and T. Morgany. 2001.*[Growing the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
   BP Science Centre Guidebook. 168pp.
@@ -101,7 +103,9 @@ This coppery tree is often seen on our wild shores: natural cliffs, rocky and sa
 
 Small to medium-sized tree, to about 18m. Crown is conical and appears coppery. This is because the twigs, buds, leaf stalks and undersides of the young leaves are rusty brown and scrufy. Leaves (15-25cm) upward pointing and spaced out along the twig (not in dense rosettes). The leaf shape varies, usually oval, slightly leathery dull green above and coppery brown below, arranged alternately. Flowers tiny (less than 1cm) greenish white, appearing in clusters in the leaf axils. The flowers are said to smell like pandan. Fruits small (1-1.2cm) and oval. The bark is ridged and fissured but not flaky, with low, sharp spreading buttresses.
 
-**Status and threats:**
+ ## Status and threats
+
+
 According to Burkill, the timber is heavy, pinkish brown and used for cabinet making and carving. The leaves are used in treatment for stomach ache, chest pains and poultices for lumbago.
 
 ![](https://images.naturehungry.sg/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg)

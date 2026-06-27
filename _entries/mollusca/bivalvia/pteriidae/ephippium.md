@@ -34,7 +34,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Leaf oyster (
   *Isognomon ephippium*
@@ -65,7 +66,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Chan Sow-Yan & Lau Wing Lup. 30 October 2020.
 

@@ -28,7 +28,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/valonia/040812labcpd0702m3.jpg
     caption: Labrador, Aug 04
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Valonia*](http://www.algaebase.org/search/genus/detail/?genus_id=33606)
 
@@ -39,7 +40,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

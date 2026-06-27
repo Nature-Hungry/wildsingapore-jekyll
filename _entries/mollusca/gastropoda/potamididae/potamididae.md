@@ -38,7 +38,8 @@ galleries:
     caption: Red Chut-chut
   - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
     caption: Black Chut-chut
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mud creepers (
   *Cerithidea obtusa*
@@ -101,7 +102,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

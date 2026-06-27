@@ -34,7 +34,8 @@ galleries:
     caption: Artificial nesting box. Chek Jawa, Nov 09
   - url: https://images.naturehungry.sg/vertebrates/birds/albirostris/091203ubnd4894m3.jpg
     caption: Pulau Ubin, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The only truly ''wild'' hornbills](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061f)
 
@@ -63,7 +64,8 @@ links_references: '**Links**
   Grace Chua, Straits Times 8 Jan 09;
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 

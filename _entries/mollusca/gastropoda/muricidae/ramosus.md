@@ -57,7 +57,8 @@ galleries:
     caption: Cyrene Reef, Feb 20 Photo shared by Toh Chay Hoon on facebook
   - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/ramosus/210502tptlks3.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on facebook
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Ramose murex (
   *Murex ramosus*
@@ -84,7 +85,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Spencer Yau Jia Ming, Sarah Priyanka Nelson & Bryan Wong Kang Ing. 30 September
   2020.
@@ -153,7 +155,9 @@ It feeds on clams and snails and is considered a pest on pearl oyster beds.
 
 It is actively collected in some parts of the world.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This snail is listed as 'Endangered' on the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

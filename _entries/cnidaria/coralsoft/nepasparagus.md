@@ -62,7 +62,8 @@ galleries:
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepasparagus/100601slud4723m3.jpg
     caption: Bleaching. Terumbu Salu, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Nephthea*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Nephthea)
 
@@ -77,7 +78,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

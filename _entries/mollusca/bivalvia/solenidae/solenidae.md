@@ -34,7 +34,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg
     caption: Pasir Ris Park, Dec 09 Photo shared by James Koh on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Solenidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Solenacea.html)
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

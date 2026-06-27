@@ -41,7 +41,8 @@ galleries:
     caption: Singapore scallop
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
     caption: Large scallop
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Pectinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Pectinidae.html)
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat & Martyn E. Y. Low. 20 December 2013.
 
@@ -158,7 +160,9 @@ Larger scallop species are harvested for seafood. Usually what is eaten is only 
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our scallops are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations.
 
 ---

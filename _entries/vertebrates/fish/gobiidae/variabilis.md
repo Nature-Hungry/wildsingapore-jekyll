@@ -27,7 +27,8 @@ galleries:
     caption: Pasir Park, Oct 09
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/variabilis/051019smkg2790m6l.jpg
     caption: Pectoral fins are reddish at the edges Pulau Semakau, Oct 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Periophthalmus variabilis*](http://www.mudskipper.it/SpeciesPages/vari.html)
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   : photo and fact sheet
 
 
-  **References**
+  ### References
+
 
   - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009.
 

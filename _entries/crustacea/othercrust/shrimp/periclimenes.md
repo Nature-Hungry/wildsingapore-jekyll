@@ -34,7 +34,8 @@ galleries:
       05
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
     caption: About 1cm, a pair seen on a Flowery sea pen . Changi, May 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Glass Shrimp (
   *Periclimenes*
@@ -48,7 +49,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Chou, L. M., 1998.
 
@@ -108,7 +110,9 @@ These transparent shrimps are often seen living on other animals such as sea ane
 
 Unfortunately, these amazing shrimps are popular in the live aquarium trade and thus harvested from wild reefs to supply the trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our commensal shrimps are listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Llike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection by hobbyists also have an impact on local populations.
 
 *![](https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg)*

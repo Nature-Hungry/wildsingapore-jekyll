@@ -69,7 +69,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/070618rlhg0722m3.jpg
     caption: Raffles Lighthouse, Jun 07
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -89,7 +90,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -169,7 +171,9 @@ This beautiful hard coral is rarely seen on our shores, and usually seen alone. 
 
 The skeleton has a meandering folded form (flabello-meandroid) such that the entire coral resembles a cabbage (15-20cm). Walls are tall, thin forming deep, wide valleys. The walls have fine teeth. While young ones may be attached to a hard surface, older ones are free-living. The base may be cone-shaped to help it burrow into the ground. It is sometimes also called the Banana coral by divers because, when submerged, the tissues inflate many times the size of the skeleton, forming smooth curved shapes that is said to resemble bananas. The polyp tentacles are short and usually only expanded at night. It has many mouths, located in the valleys. It is sometimes flourescent. Colours seen include brown, green and blue.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Cabbage coral is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

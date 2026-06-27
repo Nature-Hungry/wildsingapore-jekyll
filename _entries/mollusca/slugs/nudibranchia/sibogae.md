@@ -47,7 +47,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sibogae/210430sjijll3.jpg
     caption: St John's Island, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -56,7 +57,8 @@ links_references: '**Links**
   *[Cuthona sibogae](http://www.seaslugforum.net/find/cuthsp4)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

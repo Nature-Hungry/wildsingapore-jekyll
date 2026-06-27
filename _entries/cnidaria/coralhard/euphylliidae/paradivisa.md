@@ -58,7 +58,8 @@ galleries:
     caption: Pulau Semakau North, Jul 24 Photo shared by Tammy Lim on facebook .
   - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/040507rlhcd0101m3.jpg
     caption: Raffles Lighthouse, May 04
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -78,7 +79,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -130,7 +132,9 @@ species. Here's more on
 *Euphyllia*
 species](euphyllia)
 .
-**Status and threats:**
+ ## Status and threats
+
+
 This coral is listed as globally Vulnerable
 [by the IUCN](http://www.iucnredlist.org/)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

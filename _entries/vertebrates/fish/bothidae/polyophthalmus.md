@@ -33,9 +33,11 @@ galleries:
     caption: Eyes on the left side.
   - url: https://images.naturehungry.sg/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg
     caption: Tail fin separated from the dorsal and anal fins .
-links_references: "**Links**\n- [Threespot flounder (\n*Grammatobothus polyophthalmus*\n\
+links_references: "### Links
+\n- [Threespot flounder (\n*Grammatobothus polyophthalmus*\n\
   )](http://www.fishbase.org/summary/6638)\nfrom\n[FishBase](http://www.fishbase.org/)\n\
-  : Technical fact sheet.\n\n**References**\n- Kelvin K. P. Lim.\n*Singapore record\
+  : Technical fact sheet.\n\n### References
+\n- Kelvin K. P. Lim.\n*Singapore record\
   \ of largescale flounder, Engyprosopon grandisquama*\n. 16 April 2018. Singapore\
   \ Biodiversity Records 2018: 45 ISSN 2345-7597. National University of Singapore\n\
   - Kelvin K. P. Lim. 30 Jun 2017.\n*First Singapore record of the G\xFCnther\u2019\

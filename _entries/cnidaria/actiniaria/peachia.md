@@ -90,7 +90,8 @@ galleries:
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/peachia/091204pawjk11m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Peachia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Peachia%20Gosse%2C%201855)
 
@@ -102,7 +103,8 @@ links_references: '**Links**
   and more.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -173,7 +175,9 @@ Diameter with tentacles expanded 4-5cm. One ring of 16 tentacles that are thick 
 [how to tell apart sausage-like creatures](../../glossary/sausage)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

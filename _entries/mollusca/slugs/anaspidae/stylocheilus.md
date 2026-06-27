@@ -56,7 +56,8 @@ galleries:
     caption: Seringat Kias, Apr 12 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
 
@@ -70,7 +71,8 @@ links_references: '**Links**
   *[Stylocheilus longicauda](http://www.seaslugforum.net/stylcaud)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -94,7 +94,8 @@ galleries:
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/090513sntlks4m3.jpg
     caption: Sentosa, May 09 Photos shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
 
@@ -112,7 +113,8 @@ links_references: '**Links**
   in SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 
@@ -167,7 +169,9 @@ Body diameter 4-6cm. Usually somewhat pentagonal rather than circular. On the up
 **Dead or alive?**
 Sand dollars may appear dead, but they are very much alive. A living sand dollar is covered with fine spines and appears velvety. The skeleton (test) of a dead one is smooth, without any spines, and the details of skeleton can be seen more clearly. The skeleton is fragile and will shatter at the slightest pressure.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This sand dollar is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

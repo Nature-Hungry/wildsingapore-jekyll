@@ -50,7 +50,8 @@ galleries:
     caption: Quoy's halfbeak
   - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/far/091206tmd5674m3d.jpg
     caption: Black-barred halfbeak
-links_references: '**Links**
+links_references: '### Links
+
 
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
 
@@ -82,7 +83,8 @@ links_references: '**Links**
   (Beloniformes: Hemiramphidae) Pygmy Halfbeak on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -159,7 +161,9 @@ Most halfbeak lay eggs attached to seaweed in shallow waters. Some, however, may
 Halfbeaks apparently taste good and large species (like the
 [Black-barred halfbeak](far)) are eaten in some places, sold fresh and dried salted. Or they are used as bait fish. They are caught with nets under lights at night. Some freshwater species are popular in the live aquarium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our halfbeaks are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 
 ---

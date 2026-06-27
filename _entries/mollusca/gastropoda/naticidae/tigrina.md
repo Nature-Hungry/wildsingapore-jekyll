@@ -70,7 +70,8 @@ galleries:
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/091205sudlks14m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tiger moon snail (
   *Natica tigrina*
@@ -90,7 +91,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

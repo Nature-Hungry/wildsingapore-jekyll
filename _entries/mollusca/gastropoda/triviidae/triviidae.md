@@ -40,7 +40,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/triviidae/triviidae/140712cyrlks.JPG
     caption: Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [A rare snail at Sentosa](http://wondercreation.blogspot.com/2010/01/rare-snail-at-sentosa.html)
 
@@ -51,7 +52,8 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -97,7 +99,9 @@ About 1cm. The shell is white, oval with regular parallel ridges all around the 
 **What do they eat?**
 Bean cowries are believed to be predatory, feeding on compound ascidians.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Trivirostra oryza oryza*
 is listed as 'Endangered' in the Red List of threatened animals of Singapore. According to Davison, it was commonly found prior to the 1970s but has not been seen since.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

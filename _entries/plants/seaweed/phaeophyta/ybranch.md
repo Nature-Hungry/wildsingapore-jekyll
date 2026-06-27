@@ -40,7 +40,8 @@ galleries:
     caption: Pulau Biola, Dec 09
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/ybranched/091231biod7130m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dictyota dichotoma*](http://www.algaebase.org/search/species/detail/?species_id=60)
 
@@ -51,7 +52,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 

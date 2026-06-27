@@ -111,7 +111,8 @@ galleries:
   - url: https://images.naturehungry.sg/worm/polychaeta/giant/100130brkblks2m3.jpg
     caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Eunicidae "rockworms"](http://rmbr.nus.edu.sg/polychaete/Eunicidae.html)
 
@@ -141,7 +142,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Gopalakrishnakone P., 1990.
 

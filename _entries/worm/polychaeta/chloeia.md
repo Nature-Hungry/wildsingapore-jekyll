@@ -52,7 +52,8 @@ galleries:
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/worm/polychaeta/chloeia/160508kusdc1.jpg
     caption: Kusu Island, May 16 Photo shared by Dayna Cheah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Segmented worms including
 
@@ -79,7 +80,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Jones, R.E. (Ed.) et al. 2000.
 

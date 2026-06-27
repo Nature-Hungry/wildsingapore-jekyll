@@ -26,7 +26,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2015-047.jpg
     caption: 'Dead fish washed ashore during mass fish death. Pasir Ris Park, Mar
       15 Photo by Sean Yap from Singapore Biodiversity Records 2015: 47'
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Blue-spotted puffer (
   *Arothron caeruleopunctatus*
@@ -40,7 +41,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Toh Chay Hoon & Kelvin K. P. Lim.
 

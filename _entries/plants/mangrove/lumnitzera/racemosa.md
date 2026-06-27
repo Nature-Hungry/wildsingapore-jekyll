@@ -30,7 +30,8 @@ galleries:
     caption: Pulau Semakau, Dec 08
   - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg
     caption: White flowers, stamens same length as petals. Pulau Ubin, Aug 03
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Lumnitzera racemosa](http://floraofsingapore.wordpress.com/2010/10/03/lumnitzera-racemosa/)*
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -143,7 +145,9 @@ According to Burkill, the timber has similar properties as that of
 [Teruntum merah](littorea)
 (*Lumnitzera littorea*) but because it is a smaller plant it is less useful.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg)

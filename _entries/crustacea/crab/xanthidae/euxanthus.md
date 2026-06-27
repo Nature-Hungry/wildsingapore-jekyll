@@ -64,7 +64,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/euxanthus/161117rlhlks10.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Euxanthus exsculptus*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=106149)
 

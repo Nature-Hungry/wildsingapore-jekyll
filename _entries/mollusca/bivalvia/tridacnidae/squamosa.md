@@ -98,7 +98,8 @@ galleries:
     caption: Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/100530pbklks5m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: "**Links**\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\n\
+links_references: "### Links
+\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [Fluted giant clam (\n*Tridacna\
   \ squamosa*\n)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83871)\n\
@@ -111,7 +112,8 @@ links_references: "**Links**\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://ma
   \ Resources of the Western Central Pacific\n[Volume 1: Seaweeds, corals, bivalves\
   \ and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\non the Food and\
   \ Agriculture Organization of the United Nations (FAO) website.\n- [*Tridacna squamosa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tridacna%20squamosa.html)\n\
-  (Veneroida: Cardiidae) Fluted giant clam on Taxo4254.\n\n**References**\n- Neo Mei\
+  (Veneroida: Cardiidae) Fluted giant clam on Taxo4254.\n\n### References
+\n- Neo Mei\
   \ Lin & Loh Kok Sheng. 28 Nov 2025.\n*Rediscovery of the fluted giant clam, Tridacna\
   \ squamosa, at Labrador Nature Reserve*\n. Singapore Biodiversity Records 2025 DOI:\
   \ 10.26107/NIS-2025-0115\n- Eckman W, Vicentuan-Cabaitan K & Todd PA (2014)\n*Observations\
@@ -170,7 +172,9 @@ This beautifully sculptured giant clam is sometimes seen on our undisturbed Sout
 
 Giant clams are considered a delicacy and in some places, an aphrodisiac. The large shells of these magnificent creatures are often turned into tacky souvenirs like ash-trays. There are efforts to cultivate giant clams on a commercial basis so as to reduce over-collection of wild clams.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Fluted giant clam (*Tridacna squamosa*) is listed as 'Endangered' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Large specimens have virtually disappeared from our shores. Young specimens are occasionally but infrequently seen".
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

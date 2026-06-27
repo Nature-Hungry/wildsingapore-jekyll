@@ -69,14 +69,16 @@ galleries:
     caption: St John's Island, Mar 19 Photo shared by Frances Loke on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/241020hnttl1a.jpg
     caption: Pulau Hantu, Oct 24 Photo shared by Tammy Lim on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Nassarius olivaceus*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105149)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

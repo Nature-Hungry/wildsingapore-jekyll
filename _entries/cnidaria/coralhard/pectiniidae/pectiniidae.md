@@ -54,7 +54,8 @@ Oxypora lacera***
 
 ---
 
-**References**
+### References
+
 
 - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 [*An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz069-080.pdf)

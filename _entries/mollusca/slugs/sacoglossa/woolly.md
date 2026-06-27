@@ -169,7 +169,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery11 %}
 ---
 
-**References**
+### References
+
 
 - K. R. Jensen.
 *Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore*

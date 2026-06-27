@@ -53,14 +53,16 @@ galleries:
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on flickr
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks1.JPG
     caption: Beting Bronok, May 09 Photo shared by Loh Kok Sheng on flickr
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cypraea pyriformis*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104989)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -68,7 +68,8 @@ galleries:
     caption: Pulau Berkas, May 10
   - url: https://images.naturehungry.sg/porifera/golfball/100601slud4704m3.jpg
     caption: Pulau Salu, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cinachyrella australiensis*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=129800&genusname=Cinachyrella&speciesname=australiensis)
 
@@ -79,7 +80,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

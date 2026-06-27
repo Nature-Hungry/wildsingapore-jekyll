@@ -27,7 +27,8 @@ galleries:
   gallery1:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/meretrix/050512tmg6406m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Meretrix meretrix*
 
@@ -36,7 +37,8 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

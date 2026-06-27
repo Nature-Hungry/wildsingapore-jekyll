@@ -34,7 +34,8 @@ galleries:
     caption: Winged oyster on the sea fan. Beting Bronok, Aug 15
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg
     caption: Tiny colourful brittle stars on the sea fan. Chek Jawa, Jul 15
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Euplexaura*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Euplexaura)
 
@@ -49,7 +50,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

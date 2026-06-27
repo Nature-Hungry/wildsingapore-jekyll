@@ -58,7 +58,8 @@ galleries:
       violet.
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
     caption: Short conical spire.
-links_references: '**Links**
+links_references: '### Links
+
 
   - *New Singapore record of the olive shell, Oliva hanleyorum*
 
@@ -86,7 +87,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -156,7 +158,9 @@ Olive snails are predators. They feed on other snails, small crustaceans and als
 
 Although sometimes collected for food, they are mainly collected for their attractive shells for the shell trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The
 [Orange-mouth olive snail](miniacea)
 is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

@@ -68,7 +68,8 @@ galleries:
     caption: Terumbu Raya, Jul 25 Photo shared by Jayden Kang on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/biaculeatus/250715bbbtl1.jpg
     caption: Beting Bemban Besar, Jul 25 Photo shared by Tammy Lim on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Project Seahorse](http://seahorse.fisheries.ubc.ca/relatives.html)
 
@@ -86,7 +87,8 @@ links_references: '**Links**
   : Technical fact sheet on the family, including fact sheets on individual species.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 
@@ -156,7 +158,9 @@ It feeds on tiny planktonic animals.
 
 This is among the pipefishes used in traditional Chinese medicine, to extract 'Hailong' considered an important drug. This species has been reared in captivity.
 
-**Status and threats:**
+ ## Status and threats
+
+
 See
 [Family Sygnathidae](syngnathidae)
 for threats to pipefishes and seahorses.

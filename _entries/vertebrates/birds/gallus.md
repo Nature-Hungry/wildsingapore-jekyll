@@ -17,14 +17,16 @@ class: Aves
 order: Galliformes
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/vertebrates/birds/gallus/090906prpd0487m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Gallus gallus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Gallusgallus.html)
 
   (Galliformes: Phasianidae) Red Jungle Fowl by Tan Hui-Ning Amanda, 2011 on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -116,7 +118,9 @@ Sep 09*
 
 Red junglefowl are believed to have been domesticated thousands of years ago. It is said that they were first domesticated for cockfighting, later for religious ceremonies and only much later as food. Some chickens were bred for their feathers, which were used in ceremonial costumes. Like other domesticated animals, there are now many different breeds of chickens for various purposes from laying eggs, providing meat or just for their sheer beauty.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Red junglefowl is listed as 'Endangered' in the Red List of threatened animals of Singapore. They are not only affected by habitat loss but also by poaching and interbreeding with domesticated chickens. They are found from India to Southern China, throughout Southeast Asia to the Philippines and Bali.
 
 ---

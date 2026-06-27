@@ -44,7 +44,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/armoured/240706ubntch3.jpg
     caption: Pulau Ubin, Jul 24 Photo by Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Psolidae](http://www.sealifebase.org/summary/FamilySummary.php?ID=106)
 
@@ -56,7 +57,8 @@ links_references: '**Links**
   fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ong J. Y. & H. P. S. Wong.
 

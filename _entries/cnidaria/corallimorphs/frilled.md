@@ -64,14 +64,16 @@ galleries:
     caption: Pulau Berkas, May 10 Bleaching.
   - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/100130brkd8635m3.jpg
     caption: Terumbu Berkas, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia)
 
   on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -129,7 +131,9 @@ Short fine tentacles fringe the outer edge of the oral disk. On the disk itself,
 
 The underside is smooth and brown. The animal can tuck its oral disk into the body column when it is exposed out of water. Seen in a wide range of colours: from pale to bright green to blue, also with brown tentacles.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -31,7 +31,8 @@ galleries:
     caption: Mandai, Mar 11
   - url: https://images.naturehungry.sg/plants/mangrove/merope/angulata/101226krjd4150m3a.jpg
     caption: Kranji Nature Trail, Dec 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Merope angulata*](http://floraofsingapore.wordpress.com/2011/01/01/merope-angulata/)
 
@@ -55,7 +56,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
 
@@ -107,7 +109,9 @@ A thorny shrub to about 3m tall, or scrambling plant. Leaves leathery, arranged 
 
 The plant is valued by the Malays for medicinal purposes. According to Burkill, the roots are used to treat abdominal pains, and in childbirth treatment. A lotion of it is used to treat syphilis.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg)

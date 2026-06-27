@@ -39,14 +39,16 @@ galleries:
     caption: Sentosa, Sep 11 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/goldspot/250909lazky1.jpg
     caption: Seringat Kias, Sep 25 Photo shared by Kelvin Yong on facebook
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Clibanarius cruentatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130029)*
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Dwi Listyo Rahayu, 2000.
 

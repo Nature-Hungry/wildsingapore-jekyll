@@ -23,7 +23,8 @@ subfamily: Cinchonoideae
 tribe: Guettardeae
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Guettarda speciosa*](http://floraofsingapore.wordpress.com/2010/04/26/guettarda-speciosa/)on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
@@ -39,7 +40,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
   Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
@@ -118,7 +120,9 @@ or Ketapang (*Terminalia catappa*). Thus one of its Malay names is 'Ketapang pas
 
 According to Giesen, the bark is used to treat dysentery as well as applied to wounds. The fragrant flowers were strung into garlands. The timber is used in Fiji for house blocks, although it is considered of little value elsewhere. The bark is used in traditional medicine in some places.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This tree is listed as 'Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg)

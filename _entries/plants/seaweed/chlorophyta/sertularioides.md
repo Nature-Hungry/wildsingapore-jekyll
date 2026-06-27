@@ -45,7 +45,8 @@ galleries:
     caption: Terumbu Berkas, Jan 10
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides/100130brkd8660m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Caulerpa sertularioides](http://www.hawaii.edu/reefalgae/invasive_algae/chloro/caulerpa_sertularioides)*
 
@@ -77,7 +78,8 @@ links_references: '**Links**
   Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

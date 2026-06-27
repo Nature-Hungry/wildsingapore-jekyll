@@ -172,7 +172,8 @@ for free download
 
 With grateful thanks to Dr James Reimer of JAMSTEC (Japan Agency for Marine-Earth Science and Technology) for identification of these zoanthids.
 
-**References**
+### References
+
 - Borneman, Eric H. 2001.
 *Aquarium Corals: Selection, Husbandry and Natural History*
 T.F. H Publications. 464 pp

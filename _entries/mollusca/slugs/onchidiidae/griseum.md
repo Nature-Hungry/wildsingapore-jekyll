@@ -29,7 +29,8 @@ galleries:
     caption: Marina East, Feb 26 Photo shared by Kelvin Yong on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/griseum/260218meky2b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089)
 
@@ -40,7 +41,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

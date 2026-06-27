@@ -57,7 +57,8 @@ galleries:
   gallery8:
   - url: https://images.naturehungry.sg/vertebrates/fish/bythitidae/iluocoeteoides/210428slulks5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Yellow cuskeel (
   *Dinematichthys iluocoeteoides*
@@ -99,7 +100,8 @@ links_references: '**Links**
   on the National Science Museum, Tokyo website: factsheets with photos and description.
 
 
-  **References**
+  ### References
+
 
   - Marcus F. C. Ng & Toh Chay Hoon. 20 June 2014.
 

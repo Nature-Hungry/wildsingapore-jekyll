@@ -17,7 +17,8 @@ galleries:
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/worm/polycladida/felis/091205sudd5623m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Pseudoceros felis*](http://polycladida.lifedesks.org/pages/3084)
 
@@ -25,7 +26,8 @@ links_references: '**Links**
   sheet.
 
 
-  **References**
+  ### References
+
 
   - Newman, Leslie and Lester Cannon. 2003.
 

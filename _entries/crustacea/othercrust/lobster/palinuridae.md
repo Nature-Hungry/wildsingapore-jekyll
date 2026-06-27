@@ -42,7 +42,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/palinuridae/250201bsisrk2a.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Richard Kuah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Ornate spiny lobster (
   *Panulirus ornatus*
@@ -52,7 +53,8 @@ links_references: '**Links**
   on SeaLife Base.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

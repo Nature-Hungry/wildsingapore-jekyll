@@ -63,7 +63,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/scopimera/210629bbbrk3.jpg
     caption: Beting Bemban Besar, Jun 21 Photo shared by Richard Kuah on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sand Bubbler Crab (
   *Scopimera*
@@ -92,7 +93,8 @@ links_references: '**Links**
   in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
@@ -173,7 +175,9 @@ As it processes sand, a little path is scraped out from the burrow entrance. Lit
 **Sand patterns:**
 Sand bubbler crabs are responsible for the delicate patterns of tiny balls on the sandy shores at low tide. The crabs emerge as soon as the tide recedes. You can almost tell how long the tide has been out by the patterns of their sand balls. The more intricate the pattern of sand balls, the longer the tide has been out.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Status and threats:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+
+
 Our sand bubbler crabs are not listed among the threatened animals of Singapore.
 However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 

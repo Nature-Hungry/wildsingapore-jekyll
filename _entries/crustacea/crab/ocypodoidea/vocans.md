@@ -70,7 +70,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/250909lazal1.jpg
     caption: Seringat Kias mangrove lagoon, Sep 25 Photo shared by Adriane Lee on
       facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Uca vocans*](http://mangrove.nus.edu.sg/pub/seashore/text/190)
 
@@ -104,7 +105,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Shirley S. L. Lim.
 

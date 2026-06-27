@@ -28,7 +28,8 @@ galleries:
     caption: Underside. Mandai, Mar 11
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/violacea/110328mndd8039m3.jpg
     caption: Animal emerging from the shell. Mandai, Mar 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Violet nerite (
   *Dostia violacea*
@@ -46,7 +47,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

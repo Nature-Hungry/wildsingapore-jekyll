@@ -47,7 +47,8 @@ galleries:
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/tidal/160209cyrhpy4.jpg
     caption: Cyrene Reef, Feb 16 Photo shared by Heng Pei Yan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove hermit crab (
   *Diogenes*
@@ -69,7 +70,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

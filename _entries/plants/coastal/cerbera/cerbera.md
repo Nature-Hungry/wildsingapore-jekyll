@@ -18,7 +18,8 @@ class: Magnoliopsida
 order: Gentianales
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.[*Mangrove
   Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm)(PDF
@@ -30,7 +31,8 @@ links_references: '**Links**
   kerosene](http://wildshores.blogspot.com/2011/01/pong-pong-tree-yields-oil-that-can.html).
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
   Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
@@ -110,7 +112,9 @@ According to Burkill, only the seeds are poisonous and no other part of the plan
 
 According to Corners, the fruits are poisonous and native medicinal uses are made of the bark, leaves and oil extracted from the seeds. According to Tomlinson, some native societies use the fruits as a means of committing suicide. According to Wee, the tree contains cerberin or cerberoside. According to Giesen, cerberin is similar in structure to digoxin, found in foxglove, which kills by blocking calcium ion channels in heart muscles and disrupting the heartbeat. More ominiously, it is also suspected of being used in an increasing number of murder cases. The bark, sap and leaves are used as a purgative, and for inducing abortion.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Cerbera odollam*
 is listed as 'Vulnerable' while
 *Cerbera manghas*

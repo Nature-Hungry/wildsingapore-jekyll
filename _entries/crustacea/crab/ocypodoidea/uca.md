@@ -27,7 +27,8 @@ subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Jan 2020
 coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
-links_references: "**Links**\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm)Tan,\
+links_references: "### Links
+\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053.htm)with\
   \ descriptions of four species.Ng, Peter K. L. & N. Sivasothi, 1999.*[A Guide to\
@@ -38,7 +39,8 @@ links_references: "**Links**\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.
   \ crabs bluff with fake pincers](http://wildshores.blogspot.com/2008/11/dishonest-fiddler-crabs-bluff-with-fake.html)\n\
   \ - [Eye of the fiddler](http://wildshores.blogspot.com/2009/10/eye-of-fiddler.html)\n\
   \ - [How do girl fiddler crabs defend their territory?](http://wildshores.blogspot.com/2009/11/how-do-girl-fiddler-crabs-defend-their.html)\n\
-  \n**References**\n- Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.*Systema\
+  \n### References
+\n- Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.*Systema\
   \ Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the\
   \ world*. The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.\n\
   \n- Jocelyn Crane. 1975. Fiddler Crabs of the World. Ocypodidae: Genus*Uca*, Princeton\
@@ -155,7 +157,9 @@ When a male Fiddler crab succeeds in persuading a female to mate with him, they 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
 Fiddler crabs are eaten by many animals higher up in the food chain. The Kingfisher is among the birds that might snack on them.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Rosy fiddler crab (*Uca rosea*) is listed among the threatened animals of Singapore. While the other species of Fiddler crabs are not listed as endangered
 , like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 

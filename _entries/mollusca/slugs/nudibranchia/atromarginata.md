@@ -125,7 +125,8 @@ galleries:
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/atromarginata/100530pbklks2m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -142,7 +143,8 @@ links_references: '**Links**
   [*Glossodoris atromarginata*](http://rmbr.nus.edu.sg/nudibranch/nudipages/atromarginata.html)
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

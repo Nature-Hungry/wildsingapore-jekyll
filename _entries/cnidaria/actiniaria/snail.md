@@ -60,14 +60,16 @@ galleries:
   gallery6:
   - url: https://live.staticflickr.com/2921/32974945200_26a7c5d455_z.jpg
     caption: Kranji, Mar 17
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Paraiptasia radiata*](https://www.sealifebase.se/summary/Paraiptasia-radiata.html)
 
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -125,7 +127,9 @@ There are also small anemones that hitch a ride on
 [a shell occupied by a hermit crab](hermitsmall)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

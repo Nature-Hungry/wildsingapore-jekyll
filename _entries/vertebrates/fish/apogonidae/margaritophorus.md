@@ -60,7 +60,8 @@ galleries:
     caption: Beting Bemban Besar, Aug 18 Photo shared by Dayna Cheah on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/margaritophorus/110517tptik4m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Chequered cardinalfish (
   *Apogon margaritophorus*
@@ -94,7 +95,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

@@ -38,7 +38,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/singapore/210530ecpglks7.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Volachlamys singaporina*
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

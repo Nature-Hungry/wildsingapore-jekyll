@@ -73,7 +73,8 @@ galleries:
     caption: Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/091204pawjk1m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Variable Fang-blenny (
   *Petroscirtes variabilis*
@@ -98,7 +99,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Kuiter, Rudie H. 2002.
 

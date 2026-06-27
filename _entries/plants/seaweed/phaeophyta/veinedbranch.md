@@ -30,7 +30,8 @@ galleries:
     caption: Pulau Jong, Jul 06
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/veinedbranch/110220lazd6293m3.jpg
     caption: Lazarus Island, Feb 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dictyopteris*](http://www.algaebase.org/search/genus/detail/?genus_id=50)
 
@@ -41,7 +42,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

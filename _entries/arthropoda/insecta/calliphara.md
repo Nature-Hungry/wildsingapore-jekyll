@@ -38,7 +38,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/insecta/calliphara/251231prprqo5.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Shield/Stink bug (*Calliphara nobilis*)](http://mangrove.nus.edu.sg/guidebooks/text/2012)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)

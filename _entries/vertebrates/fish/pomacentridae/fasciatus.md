@@ -89,7 +89,8 @@ galleries:
     caption: Pulau Senang, Aug 10 Photo shared by James Koh on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/091205sudikw6m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Yellow-banded damsel (
   *Dischistodus fasciatus*
@@ -114,7 +115,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lieske, Ewald and Robert Myers. 2001.
 

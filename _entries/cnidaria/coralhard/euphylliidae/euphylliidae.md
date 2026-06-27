@@ -31,7 +31,8 @@ galleries:
     caption: Torch coral
   - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg
     caption: Frog spawn coral
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -128,7 +130,9 @@ species](euphyllia)
 
 **What do they eat?**
 All members of Family Euphyllidae harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals. It is believed this additional source of nutrients from the zooxanthellae help hard corals produce their hard skeletons and thus expand their size faster.
-**Status and threats:**
+ ## Status and threats
+
+
 All Euphyllid corals recorded for Singapore are listed as globally threatened
 [by the IUCN](http://www.iucnredlist.org/)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

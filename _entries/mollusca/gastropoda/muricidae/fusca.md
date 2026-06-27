@@ -27,7 +27,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg
     caption: Hole drilled into a false limpet, by the drill. Photo shared by Brian
       Ong.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [More about our
 
@@ -40,7 +41,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

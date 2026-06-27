@@ -44,7 +44,8 @@ galleries:
     caption: St John's Island, Feb 24 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perspectiva/171104cyrlks2.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)
 
@@ -85,7 +86,8 @@ links_references: '**Links**
   eggs.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017.
 
@@ -155,7 +157,9 @@ It is said to eat burrowing sea anemones and sea pens. The mouth region is lined
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby sundials:**
 It lays long egg strings.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Clear sundial snail is listed as 'Endangered' in the Red List of threatened animals of Singapore. The original shores where they were found have been lost to reclamation.
 
 ---

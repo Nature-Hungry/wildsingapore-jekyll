@@ -31,7 +31,8 @@ galleries:
     caption: Changi, May 11
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
     caption: Siphon (upper left) and tentcles
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bladder moon snail (
   *Polinices didyma*
@@ -51,7 +52,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

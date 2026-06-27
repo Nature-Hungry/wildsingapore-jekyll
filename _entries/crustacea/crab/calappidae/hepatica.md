@@ -60,7 +60,8 @@ galleries:
     caption: Cyrene Reef, May 11
   - url: https://images.naturehungry.sg/crustacea/crab/calappidae/hepatica/110508cyrlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Reef box crab (
   *Calappa hepatica*
@@ -74,7 +75,8 @@ links_references: '**Links**
   : technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
@@ -124,7 +126,9 @@ Body width about 4cm. It has small bumps all over its body giving it a beaded lo
 **What does it eat?**
 The pincers of box crabs are specialised for cracking open snail shells. The snail is gripped in the left pincer which has pointed claws. With the right pincer, which is stronger, the crab cuts pieces of the shell from the shell opening. Once the gap is big enough, the crab can enjoy its snail meal.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This crab is listed as Vulnerable in the Red Data List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

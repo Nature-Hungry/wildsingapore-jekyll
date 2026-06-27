@@ -79,7 +79,8 @@ galleries:
   gallery10:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/notabilis/100711cyrlks8m6l.jpg
     caption: Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Holothuria notabilis*](http://www.sealifebase.org/summary/Holothuria-notabilis.html)
 

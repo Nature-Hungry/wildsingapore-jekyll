@@ -89,7 +89,8 @@ galleries:
   gallery13:
   - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/noid/120505sisgl1m3.jpg
     caption: Sisters Island, May 12 Photos shared by Geraldine Lee on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Order Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
 
@@ -100,7 +101,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 
@@ -167,7 +169,9 @@ rmed with sharp spines, the pincers extend and retract much faster than an eye b
 
 Many different species seen in Singapore of the Family Squillidae look similar and are hard to distinguish in the field.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our mantis shrimps are not listed as endangered. However,
 like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

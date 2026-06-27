@@ -24,14 +24,16 @@ order: Comatulida
 superfamily: Himerometroidea
 updated: Apr 2020
 coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/red/150706srpd7354.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Class Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)Tan, Leo
   W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
   The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - C. G. Messing & T. S. Tay. 29 June 2016.*Extant Crinoidea (Echinodermata) of Singapore*.
   The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658.
@@ -210,7 +212,9 @@ Stalked stars, called sea lilies, are mostly found in deep waters 100m or lower.
 
 Feather stars are not widely used for human purposes. Although they almost invariably die a slow death from starvation in marine aquariums, they are sometimes taken for the live aquarium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our feather stars are listed among the threatened animals of Singapore.
 *Stephanometra spicata*
 , described in the 1960's as one of the most common feather stars on our shores, is today listed among the threatened animals of Singapore.

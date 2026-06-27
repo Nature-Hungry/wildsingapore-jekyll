@@ -61,7 +61,8 @@ galleries:
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/annulipes/091204pawjk7m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Uca annulipes*](http://mangrove.nus.edu.sg/pub/seashore/text/190)
 
@@ -91,7 +92,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

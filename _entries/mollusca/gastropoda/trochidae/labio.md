@@ -36,7 +36,8 @@ galleries:
     caption: Sentosa Serapong, May 16 Photo shared by Ivan Kwan on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/labio/091205sudikw1m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
-links_references: "**Links**\n- [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)\n\
+links_references: "### Links
+\n- [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [*Monodonta labio*](https://singapore.biodiversity.online/taxo4254/mainSpace/Monodonta%20labio.html)\n\
   (Vestigastropoda: Trochidae) Toothed top shell by Tan Wen Ting, 2014, on taxo4254.\n\
@@ -46,7 +47,8 @@ links_references: "**Links**\n- [Family Trochidae](http://mangrove.nus.edu.sg/pu
   \ for Fishery Purposes: The Living Marine Resources of the Western Central Pacific\n\
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
   on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  **References**\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist\
+  ### References
+\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist\
   \ of The Molluscs of Singapore*\n(pdf), Raffles Museum of Biodiversity Research,\
   \ National University of Singapore.\n- Cedric Kai Wei Tan. 19 November 2009.\n*Effects\
   \ of Trenching on shell size and density of Turbo Brunneus (Gastropoda: Turbinidae)\

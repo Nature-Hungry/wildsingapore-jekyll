@@ -37,7 +37,8 @@ galleries:
     caption: Swimming file clam
   - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/120820sisd0881m3.jpg
     caption: Common file clam
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Limidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Limidae.html)
 
@@ -63,7 +64,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -135,7 +137,9 @@ Like
 **What do they eat?**
 Like many other bivalves, file clams are filter feeders. They use their siphons to suck in water and filter out microscopic food. The water also brings fresh oxygen to the animal.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Common file clam is listed as "Vulnerable" on the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

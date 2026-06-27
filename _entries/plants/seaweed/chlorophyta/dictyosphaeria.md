@@ -33,7 +33,8 @@ galleries:
     caption: Pulau Senang, Jun 10
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/dictyosphaeria/100613sngd5484m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dictyosphaeria*
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

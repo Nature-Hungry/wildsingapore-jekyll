@@ -56,14 +56,16 @@ galleries:
     caption: Kusu Island, Jun 21 Photo shared by Jianlin Liu on facebook .
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/featherstar/130921sislks1.jpg
     caption: Sisters Island, Sep 13 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ophiomaza cacaotica*](http://www.sealifebase.org/summary/Ophiomaza-cacaotica.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

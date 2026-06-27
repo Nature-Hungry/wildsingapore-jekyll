@@ -77,7 +77,8 @@ galleries:
     caption: Cyrene Reef, Aug 12 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/cerberilla/170812cyrlks1.jpg
     caption: Cyrene Reef, Aug 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -86,7 +87,8 @@ links_references: '**Links**
   *[Cerberilla asamusiensis](http://www.seaslugforum.net/showall/cerbasam)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

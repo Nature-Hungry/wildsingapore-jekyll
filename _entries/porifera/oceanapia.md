@@ -43,7 +43,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/porifera/oceanapia/210428slumn3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Oceanapia sagittaria*](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Oceanapia&speciesname=sagittaria)
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   on the World Porifera Database
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

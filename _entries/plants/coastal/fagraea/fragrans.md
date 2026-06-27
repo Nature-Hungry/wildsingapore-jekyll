@@ -42,7 +42,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/plants/coastal/fagraea/fragrans/110502prpd0486m6l.jpg
     caption: Pasir Ris Park, May 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Fagraea fragrans*](http://floraofsingapore.wordpress.com/2010/07/15/fagraea-fragrans/)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   on the NParks website: fact sheet with lots of photos of various parts of the tree.
 
 
-  **References**
+  ### References
+
 
   - Tee Swee Ping and Wee Mei Lynn (eds). 2001.
 

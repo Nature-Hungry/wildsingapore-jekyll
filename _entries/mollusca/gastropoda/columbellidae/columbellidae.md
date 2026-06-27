@@ -33,7 +33,8 @@ galleries:
     caption: Lighting dove snail
   - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
     caption: Dotted dove snail
-links_references: "**Links**\n- [Family Columbellidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Columbellidae.html)\n\
+links_references: "### Links
+\n- [Family Columbellidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Columbellidae.html)\n\
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities\
   \ Natural History Museum website: brief description and photos.\n- [Mangrove dove\
   \ shell (\n*Columbella duclosiana*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2086)\n\
@@ -49,7 +50,8 @@ links_references: "**Links**\n- [Family Columbellidae](http://shells.tricity.wsu
   \ for Fishery Purposes: The Living Marine Resources of the Western Central Pacific\n\
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
   on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  **References**\n- Chan Sow-Yan.\n*Two small species of dove-shells found at East\
+  ### References
+\n- Chan Sow-Yan.\n*Two small species of dove-shells found at East\
   \ Coast Park: Mitrella pudica and Retizafra intricata*\n. 30 August 2019. Singapore\
   \ Biodiversity Records 2019: 110-111 ISSN 2345-7597. National University of Singapore.\n\
   - Chan Sow-Yan & Lau Wing Lup.\n*New record of adorned dove-shell, Zafra ornata,\
@@ -122,7 +124,9 @@ Dove snails lay hemi-spherical eggs under rocks and other nooks and crannies.
 
 They are mainly collected for their colourful shells often made into necklaces for the tourist souvenir trade, although sometimes used for food.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our dove snails are listed among the threatened animals of Singapore due to habitat loss. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and overcollection can also have an impact on local populations.
 
 ---

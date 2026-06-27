@@ -19,7 +19,8 @@ galleries:
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   - url: https://images.naturehungry.sg/vertebrates/reptilia/crancrivora/251231prprqo7.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Crab-eating frog](http://www.ecologyasia.com/verts/lizards/green-crested_lizard)
 
@@ -30,7 +31,8 @@ links_references: '**Links**
   (Anura: Dicroglossidae) Crab-eating Frog on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Baker, Nick and Kelvin Lim. 2008.
 

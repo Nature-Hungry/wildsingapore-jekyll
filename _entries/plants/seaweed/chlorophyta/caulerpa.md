@@ -55,7 +55,8 @@ galleries:
     caption: Bottlebrush green seaweed Caulerpa webbiana
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/fluffy/090513labd1635m3.jpg
     caption: Fluffy green seaweed Caulerpa verticillata
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea grapes or green caviar (
   *Caulerpa lentillifera*
@@ -102,7 +103,8 @@ links_references: '**Links**
   : techincal fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

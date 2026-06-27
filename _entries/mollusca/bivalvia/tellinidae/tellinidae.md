@@ -21,7 +21,8 @@ order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Tellinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Tellinidae.html)on[The
   Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)at
@@ -35,7 +36,8 @@ links_references: '**Links**
   the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat & Martyn E. Y. Low. 13 December 2013.*Two new Singapore records
   of the bivalve family Tellinidae: Quidnipagus palatum, Tellinides timorensis*. Singapore

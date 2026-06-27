@@ -47,14 +47,16 @@ galleries:
     caption: Cyrene Reef, Aug 13 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/limnaeiformis/140713tsmkmn.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Nassarius limnaeiformis*](http://www.sealifebase.ca/summary/Nassarius-limnaeiformis.html)
 
   on SeaLife Base: Technical fact sheet and photo.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

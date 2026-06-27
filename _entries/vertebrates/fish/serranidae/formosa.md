@@ -24,7 +24,8 @@ order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/serranidae/formosa/120619tmd5566m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Blue-lined hind (*Cephalopholis formosa*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/267.htm)Lim,
   Kelvin K. P. & Jeffrey K. Y. Low, 1998.*[A Guide to the Common Marine Fishes of
@@ -40,7 +41,8 @@ links_references: '**Links**
   IUCN Red List: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.*Marine Fishes of South-East Asia: A Field Guide for Anglers
   and Divers*. Periplus Editions. 292 pp.

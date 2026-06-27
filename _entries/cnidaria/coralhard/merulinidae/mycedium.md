@@ -2,7 +2,7 @@
 title: Elephant-nose plate
 description: Fact sheet of Elephant-nose plate on the shores of Singapore
 keywords: elephant, nose, plate, mycedium, elephantotus, merulinidae, pectiniidae,
-  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
+ coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
@@ -47,7 +47,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 

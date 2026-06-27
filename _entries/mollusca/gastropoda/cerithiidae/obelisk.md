@@ -57,7 +57,8 @@ galleries:
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook ..
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Obelisk vertagus (
   *Rhinoclavis sinensis*
@@ -75,7 +76,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

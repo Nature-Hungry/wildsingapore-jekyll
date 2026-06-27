@@ -64,7 +64,8 @@ galleries:
     caption: Terumbu Salu, Jan 10
   - url: https://images.naturehungry.sg/mollusca/bivalvia/malleidae/malleus/210428sluvc1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebok .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Malleus albus*](https://www.sealifebase.se/summary/Malleus-albus.html)
 
@@ -94,7 +95,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

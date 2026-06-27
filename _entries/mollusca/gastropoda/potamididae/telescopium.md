@@ -26,7 +26,8 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Rodong/Berongan (*Telescopium telescopium*)](http://mangrove.nus.edu.sg/guidebooks/text/2084.htm)Ng,
   Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal
@@ -55,7 +56,8 @@ links_references: '**Links**
   Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
   of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University

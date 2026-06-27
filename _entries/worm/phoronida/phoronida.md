@@ -48,7 +48,8 @@ galleries:
     caption: Pulau Semakau, Sep 09 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/worm/phoronida/phoronida/091205sudtch5m3a.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Phoronis australis](http://paleopolis.rediris.es/LOPH-Album/PHO/P_australis.html)
 
@@ -63,7 +64,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
 

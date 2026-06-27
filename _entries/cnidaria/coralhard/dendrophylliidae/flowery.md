@@ -18,13 +18,15 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
 coverimg: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)with species
   factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.

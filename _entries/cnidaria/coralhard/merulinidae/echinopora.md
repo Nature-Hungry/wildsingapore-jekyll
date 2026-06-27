@@ -51,7 +51,8 @@ galleries:
     caption: Sisters Island, Sep 09 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/echinopora/230806tbrk1.jpg
     caption: Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -79,7 +80,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -138,7 +140,9 @@ These delicate plate hard corals with little bumps are rarely encountered, so fa
 
 Colonies 20-30cm. May be boulder-shaped, branching or form plates. Those seen were mostly encrusting thin plates often with wavy edges. Small corallites (less than 0.5cm) that form prickly bumps with characteristic prickly ridges in the spaces between the corallites. Polyp tentacles are only extended at night. Colours seen include brown, yellow, blue and purple.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of the Hedgehog corals recorded for Singapore are listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

@@ -23,13 +23,15 @@ order: Rosales
 tribe: Ficeae
 updated: Feb 11
 coverimg: https://images.naturehungry.sg/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ficus microcarpa*](http://floraofsingapore.wordpress.com/2010/07/29/memecylon-minutiflorum/)on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Angie et. al. 2005.*A guide to the fabulous figs of Singapore*. Singapore
   Science Centre.152 pp.

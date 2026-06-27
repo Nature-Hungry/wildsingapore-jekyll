@@ -52,7 +52,8 @@ galleries:
     caption: Terumbu Berkas, Jan 10
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bumpy/100530tbkd4374m3.jpg
     caption: Pulau Berkas, May 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Eucheuma*](http://www.algaebase.org/search/genus/detail/?genus_id=D457ac0c2f3a3f13b)
 
@@ -67,7 +68,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 

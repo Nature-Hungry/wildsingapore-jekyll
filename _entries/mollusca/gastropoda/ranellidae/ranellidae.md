@@ -19,7 +19,8 @@ order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Ranallidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ranellidae.html)onThe
   Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural
@@ -32,7 +33,8 @@ links_references: '**Links**
   the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - *New record of the hairy triton shell, Monoplex pilearis*, in Singapore, 29 November
   2019, Calvin Leow Jiah Jay & Joash Tan, Singapore Biodiversity Records 2019: 148

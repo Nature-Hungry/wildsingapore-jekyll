@@ -69,7 +69,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/echinodiscus/260201cyrlks1.jpg
     caption: Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
 
@@ -84,7 +85,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 
@@ -136,7 +138,9 @@ The Keyhole sand dollar got its common name from the intriguing slot-shaped hole
 **Dead or alive?**
 Sand dollars may appear dead, but they are very much alive. A living sand dollar is covered with fine spines and appears velvety. The skeleton (test) of a dead one is smooth, without any spines, and the details of skeleton can be seen more clearly. The skeleton is fragile and will shatter at the slightest pressure.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Status and threats:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+
+
 The Keyhole sand dollar is listed as 'Vulnerable' in the Red List of threatened animals of Singapore. An uncommon species restricted to very few sites mainly in the Pulau Ubin-Pulau Tekong area, it is threatened by habitat loss due to coastal development.
 
 ---

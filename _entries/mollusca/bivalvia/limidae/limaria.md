@@ -74,7 +74,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/150121tpkmn1m3.jpg
     caption: Terumbu Pempang Kecil, Jan 15 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [File shells (
   *Lima lima*
@@ -98,7 +99,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

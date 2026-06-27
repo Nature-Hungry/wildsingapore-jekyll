@@ -30,7 +30,8 @@ galleries:
     caption: Pulau Sekudu, May 12
   - url: https://images.naturehungry.sg/mollusca/bivalvia/mactridae/bigbrown/120508skdd1783m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Surf clams (Family Mactridae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Malleidae.html)
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

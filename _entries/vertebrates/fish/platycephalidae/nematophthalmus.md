@@ -92,7 +92,8 @@ galleries:
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/nematophthalmus/091204pawjk2m3.jpg
     caption: Pulau Pawai, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Fringe-eyed Flathead (
   *Cymbacephalus nematophthalmus*
@@ -117,7 +118,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

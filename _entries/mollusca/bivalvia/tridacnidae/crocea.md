@@ -68,7 +68,8 @@ galleries:
     caption: Pulau Senang, Aug 10
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/210428slulks6.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Crocus giant clam (
   *Tridacna crocea*
@@ -88,7 +89,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -145,7 +147,9 @@ The two-part shell has shallow fluted sculpturing on the surface. When submerged
 
 Giant clams are considered a delicacy and in some places, an aphrodisiac. The large shells of these magnificent creatures are often turned into tacky souvenirs like ash-trays. There are efforts to cultivate giant clams on a commercial basis so as to reduce over-collection of wild clams.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

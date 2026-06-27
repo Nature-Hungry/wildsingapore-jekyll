@@ -23,7 +23,8 @@ infraclass: Batoidea
 order: Myliobatiformes
 updated: Dec 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Myliobatidae](http://www.fishbase.org/summary/FamilySummary.php?ID=22)and*[Aetobatus
   narinari](http://www.fishbase.org/summary/1250)*[(Spotted eagle ray)](http://www.fishbase.org/summary/1250)and*[Aetomylaeus
@@ -44,7 +45,8 @@ links_references: '**Links**
   Nov 2020 on[wild shores of singapore](https://wildshores.blogspot.com/2020/12/mega-fauna-sightings-sep-nov.html).
 
 
-  **References**
+  ### References
+
 
   - Ahmad Lutfi bin Saimin & Tan Heok Hui. 30 November 2020.*Spotted eagle rays (Aetobatus
   ocellatus) at Sentosa*. Singapore Biodiversity Records 2020: 209. The National University
@@ -120,7 +122,9 @@ It feeds on clams but also eats shrimps, crabs, octopus, worms, snails and small
 ## Human uses
 
 The fish is eaten by humans and the tail is sometimes used as a decorative item. It is commonly caught in trawl nets and gillnets.
-**Status and threats:**
+ ## Status and threats
+
+
 Although the Eagle ray is not listed in Singapore's Red List, on the international IUCN Red List it is classified as Near Threatened. The fish naturally reproduces slowly and is threatened mainly by overfishing
 
 ---

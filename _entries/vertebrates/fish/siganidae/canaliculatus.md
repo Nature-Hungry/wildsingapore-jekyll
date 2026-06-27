@@ -77,7 +77,8 @@ galleries:
     caption: Terumbu Bemban, Apr 11 Photo shared by Rene Ong on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110422tplrl2m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Russel Low on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [White-spotted Rabbitfish (
   *Siganus canaliculatus*
@@ -119,7 +120,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

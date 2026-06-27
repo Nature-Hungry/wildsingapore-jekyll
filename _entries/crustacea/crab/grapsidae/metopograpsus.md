@@ -73,7 +73,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/metopograpsus/110517tptlt3m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Purple Climber Crabs (
   *Metopograpsus*
@@ -107,7 +108,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

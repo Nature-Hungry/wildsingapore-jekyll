@@ -78,14 +78,16 @@ galleries:
   gallery9:
   - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/balltip/220201brktch5.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia)
 
   on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -139,7 +141,9 @@ This small animal with little balls at the tips of its transparent tentacles is 
 
 Diameter with tentacles extended 1.5-4cm. Tentacles many, long thin, transparent with a ball-shaped tip that is usually white or a bright colour. Body column smooth, colours seen include brown, orange, red, pink, bright blue. Oral disk usually brown with whitish or paler centre. Central mouth conical, often pale and usually protruding even when the tentacles are tucked into the body column.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

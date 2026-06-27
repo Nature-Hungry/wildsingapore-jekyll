@@ -33,7 +33,8 @@ superfamily: Portunoidea
 subfamily: Portuninae
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Flower Crab (*Portunus pelagicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/202.htm)Tan,
   Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -58,7 +59,8 @@ links_references: '**Links**
   and Aquaculture Department: Technical fact sheet
 
 
-  **References**
+  ### References
+
 
   - Joelle C. Y. Lai, Peter K. L. Ng and Peter J. F. Davie. 31 Aug 2010.*A revision
   of the Portunus pelagicus (Linnaeus, 1758) species complex (Crustacea: Brachyura:

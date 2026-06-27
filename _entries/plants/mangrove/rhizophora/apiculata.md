@@ -37,7 +37,8 @@ galleries:
   - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg
     caption: Fruit on very short stalk, almost stuck to the branch. Sungei Buloh Wetland
       Reserve, Mar 04
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Rhizophora apiculata*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3265)
 

@@ -49,7 +49,8 @@ galleries:
     caption: Shy glass cerianthid
   - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg
     caption: Small-mouth cerianthid
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Snakelock or cerianthid (
   *Cerianthus*
@@ -63,7 +64,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
 
@@ -153,7 +155,9 @@ sp.) are associated with the cerianthid.
 
 Cerianthids are sometimes taken for the live aquarium trade. However, they do not make good tank mates as their floating stingers affect other creatures in the tank. Their burrowing habit and long body columns means they require deep tank beds. They also only take suspended food. This makes them difficult to keep alive in a home aquarium.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Cerianthids are not listed among the threatened animals of Singapore. However, like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.
 
 ---

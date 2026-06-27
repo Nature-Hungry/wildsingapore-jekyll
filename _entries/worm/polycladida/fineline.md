@@ -128,7 +128,8 @@ zone:
 - intertidal
 - marine
 links_references: "**Acknowledgement** \nGrateful thanks to Rene Ong for sharing details\
-  \ and identifying the flatworms on this page. \n \n**References**\n- Rene S.L. Ong\
+  \ and identifying the flatworms on this page. \n \n### References
+\n- Rene S.L. Ong\
   \ and Samantha J.W. Tong. 29 October 2018.*A preliminary checklist and photographic\
   \ catalogue of polyclad flatworms recorded from Singapore.*Nature in Singapore 2018\
   \ 11: 77\u2013125.\n\n- D. M. Bola\xF1os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.*First\

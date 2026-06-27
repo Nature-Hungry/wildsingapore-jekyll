@@ -23,7 +23,8 @@ subclass: Hexacorallia
 order: Actiniaria
 updated: Dec 2024
 coverimg: https://live.staticflickr.com/65535/51394196778_ccdc0c1404_c.jpg
-links_references: "**Links** - [Phylum Cnidaria](http://mangrove.nus.edu.sg/pub/seashore/text/114.htm)\
+links_references: "### Links
+ - [Phylum Cnidaria](http://mangrove.nus.edu.sg/pub/seashore/text/114.htm)\
   \ and [Sea anemones (*Stoichactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120.htm)\
   \ Tan, Leo W. H. & Ng, Peter K. L., 1988. - *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp. - [Mangrove anemones](http://mangrove.nus.edu.sg/guidebooks/text/2001.htm)\
@@ -35,7 +36,8 @@ links_references: "**Links** - [Phylum Cnidaria](http://mangrove.nus.edu.sg/pub/
   - [Sea anemone venom may help treat multiple sclerosis](http://wildshores.blogspot.com/2008/12/sea-anemone-venom-may-help-treat.html)\
   \ - [Sea anemone stingers for younger looking skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html)\
   \ - [Can eat or not? - Sea anemones](http://wildshores.blogspot.sg/2013/04/can-eat-or-not-sea-anemones.html)\n\
-  **References**\n- Checklist of Cnidaria (non-Sclerectinia) Species with their Category\
+  ### References
+\n- Checklist of Cnidaria (non-Sclerectinia) Species with their Category\
   \ of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa\
   \ in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo,\
   \ May 2024. - *The Singapore Red Data Book: Threatened plants and animals of Singapore*.\

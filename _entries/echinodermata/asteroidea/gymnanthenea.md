@@ -84,14 +84,16 @@ galleries:
     caption: Photo shared by Toh Chay Hoon on her blog .
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/gymnanthenea/100713cyrtch2m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Gymnanthenea laevis*](http://www.sealifebase.org/summary/Gymnanthenea-laevis.html)
 
   in SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

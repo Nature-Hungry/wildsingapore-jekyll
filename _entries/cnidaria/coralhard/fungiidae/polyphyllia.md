@@ -55,7 +55,8 @@ galleries:
     caption: Pulau Senang, Jun 10 Bleaching.
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/polyphyllia/210428slulks13.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -75,7 +76,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
 

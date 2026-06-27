@@ -84,9 +84,11 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/210428slujll1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: "**Links**\n- [*Macrorhynchia philippina*](http://taxo4254.wikispaces.com/Macrorhynchia+philippina)\n\
+links_references: "### Links
+\n- [*Macrorhynchia philippina*](http://taxo4254.wikispaces.com/Macrorhynchia+philippina)\n\
   (Leptothecata: Aglaopheniidae) White stinger by Claire Gu\xE9rin, 2014, on taxo4254.\n\
-  \n**References**\n- Gosliner, Terrence M., David W. Behrens and Gary C. Williams.\
+  \n### References
+\n- Gosliner, Terrence M., David W. Behrens and Gary C. Williams.\
   \ 1996.\n*Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii\
   \ exclusive of the vertebrates*\nSea Challengers. 314pp\n"
 location:

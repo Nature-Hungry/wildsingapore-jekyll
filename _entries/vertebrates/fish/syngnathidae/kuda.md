@@ -96,7 +96,8 @@ galleries:
     caption: Siloso, Dec 08 Photo shared by Ivan Kwan on his blog .
   - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/180618srpay1.jpg
     caption: Sentosa Serapong, Jun 18 Photo shared by Abel Yeo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - ****
 
@@ -136,7 +137,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Kelvin K. P. Lim. 22 November 2013.
 
@@ -227,7 +229,9 @@ It's difficult to tell this seahorse apart from the
 **Pregnant fathers:**
 Seahorses reproduce in a peculiar way. It is male that carries the eggs in his body and thus becomes 'pregnant'. The female lays her eggs in his pouch. Emerging from the eggs, the babies hatch as miniature seahorses and may remain in the pouch for a while before the father goes into 'labour' and ejects them out of the pouch.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Status and threats:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %} ## Status and threats
+
+
 Seahorses are listed as CITES II (which means their international trade is monitored) and are considered globally vulnerable.
 *Hippocampus kuda*
 is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

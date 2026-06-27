@@ -36,7 +36,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/160125obsmn10.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137)
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -80,7 +80,8 @@ galleries:
     caption: Photo shared by Heng Pei Yan on her blog .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/fragum/210113smkwvc4.jpg
     caption: Pulau Semakau West, Jan 21 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pacific strawberry cockle (
   *Fragum unedo*
@@ -100,7 +101,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

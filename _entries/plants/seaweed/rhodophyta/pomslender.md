@@ -42,7 +42,8 @@ galleries:
     caption: Labrador, Jun 05
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3.jpg
     caption: Sentosa, Jul 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Jania*](http://www.algaebase.org/search/genus/detail/?genus_id=S9179393d6e18098f&-session=abv4:3BBD37D318d53140DFOr35D3FFEA)
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

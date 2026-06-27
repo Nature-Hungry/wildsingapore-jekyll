@@ -67,7 +67,8 @@ galleries:
   gallery9:
   - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/longispinis/210428slujll2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liau on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Long-spine scorpionfish (
   *Paracentropogon longispinis*
@@ -98,7 +99,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui. 29 July 2016.
 

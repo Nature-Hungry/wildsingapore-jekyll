@@ -38,7 +38,8 @@ galleries:
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook ..
   - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/coioides/120609bbrl.jpg
     caption: Beting Bronok, Jun 12 Photo shared by Russel Low on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Orange-spotted Grouper (
   *Epinephelus coioides*
@@ -99,7 +100,8 @@ links_references: '**Links**
   factsheets with photos.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

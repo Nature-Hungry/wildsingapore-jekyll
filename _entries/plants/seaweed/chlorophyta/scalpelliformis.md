@@ -35,7 +35,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/scalpelliformis/201019cnyrk4.jpg
     caption: Coney Island, Oct 20 Photo shared by Richard Kuah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa scalpelliformis*](http://www.algaebase.org/search/species/detail/?species_id=L54285254c89383ce&sk=0&from=results)
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

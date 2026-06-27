@@ -45,7 +45,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/tetraclita/200921chgwvc1.jpg
     caption: '''Feet'' of the barnacle. Changi West, Sep 20 Photo shared by Vincent
       Choo on facebook .'
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
 
@@ -56,7 +57,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

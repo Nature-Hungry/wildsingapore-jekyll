@@ -23,7 +23,8 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Streaked spinefoot (*Siganus javus*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4618)from[FishBase](http://www.fishbase.org/):
   Technical fact sheet.
@@ -34,7 +35,8 @@ links_references: '**Links**
   the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Kuiter, Rudie H. 2002.*Guide to Sea Fishes of Australia: A Comprehensive Reference
   for Divers & Fishermen*New Holland Publishers. 434pp.'

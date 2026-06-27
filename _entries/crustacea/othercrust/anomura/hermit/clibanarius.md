@@ -89,7 +89,8 @@ Body 2-4cm long. Both pincers are more or less equal in size and held so that th
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
 
-**References**
+### References
+
 
 - Dwi Listyo Rahayu, 2000.
 *Hermit crabs from the South China Sea (Crustacea: Decapoda: Anomura: Diogenidae, Paguridae, Parapaguridae)*

@@ -61,7 +61,8 @@ galleries:
     caption: Beting Bemban Besar, May 10 Photo shared by Neo Mei Lin on her blog .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/marginatus/141108bbbmn5m3.jpg
     caption: Beting Bemban Besar, Nov 14 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Marginate conch (
   *Strombus marginatus*
@@ -81,7 +82,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

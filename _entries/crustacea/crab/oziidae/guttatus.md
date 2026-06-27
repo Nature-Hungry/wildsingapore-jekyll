@@ -67,7 +67,8 @@ galleries:
     caption: Pulau Hantu, Apr 25 Photo shared by Kelvin Yong on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/oziidae/guttatus/110421jngmn1m3.jpg
     caption: Pulau Jong, Apr 11 Photo shared by Marcus Ng on facebook
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ozius guttatus*](http://mangrove.nus.edu.sg/pub/seashore/text/215)
 
@@ -97,7 +98,8 @@ links_references: '**Links**
   by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

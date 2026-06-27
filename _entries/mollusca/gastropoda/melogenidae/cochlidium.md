@@ -65,7 +65,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/cochlidium/100629tpdjk10m3.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
-links_references: "**Links**\n- [Family Galeodidae (\n*Melongena pugilina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/145)\n\
+links_references: "### Links
+\n- [Family Galeodidae (\n*Melongena pugilina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/145)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [Family Melongenidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Melongenidae.html)\n\
   on The\n[Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/)\n\
@@ -76,7 +77,8 @@ links_references: "**Links**\n- [Family Galeodidae (\n*Melongena pugilina*\n)](h
   \ for Fishery Purposes: The Living Marine Resources of the Western Central Pacific\n\
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
   on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  **References**\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist\
+  ### References
+\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist\
   \ of The Molluscs of Singapore*\n(pdf), Lee Kong Chian Natural History Museum, National\
   \ University of Singapore.\n- Chan, S.-Y., 2009.\n*The Melongenidae (Mollusca: Gastropoda)\
   \ of Singapore*\n. Nature in Singapore, 2: 63\u201367.\n- Tan, K. S.; Phuah, C.\

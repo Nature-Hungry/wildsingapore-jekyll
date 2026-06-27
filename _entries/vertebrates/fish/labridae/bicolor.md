@@ -84,7 +84,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/labridae/bicolor/240310tplvc1.jpg
     caption: Terumbu Pempang Laut, Mar 24 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Brown-stripe Wrasse (
   *Halichoeres bicolor*

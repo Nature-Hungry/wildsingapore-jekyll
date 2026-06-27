@@ -68,7 +68,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Phymanthus*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?genusname=Phymanthus)
 
@@ -80,7 +81,8 @@ links_references: '**Links**
   and more.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -153,7 +155,9 @@ other feathery animals. Here's more on
 [how to tell apart feathery animals](../../glossary/feathery)
 on our shores.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -105,7 +105,9 @@ Sometimes confused with the
 [Glass anemone](dofleinia)
 which has more transparent tentacles that lack the small brown spots and has black rings where the tentacles attach to the oral disk, the oral disk does not have dark brown blotches, and does not have many rows of sticky bumps on the body column.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -136,7 +138,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
 
-**References**
+### References
+
 
 - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 - Nicholas Wei Liang Yap

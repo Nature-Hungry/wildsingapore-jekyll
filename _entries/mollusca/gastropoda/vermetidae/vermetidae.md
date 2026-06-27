@@ -38,7 +38,8 @@ galleries:
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/vermetidae/vermetidae/260103prpyls10.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Yan Le Su on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Vermetidae and other ''Worm shells"](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Vermetidae.html)
 
@@ -58,7 +59,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

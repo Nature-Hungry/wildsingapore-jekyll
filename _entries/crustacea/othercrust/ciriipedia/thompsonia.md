@@ -30,7 +30,8 @@ galleries:
     caption: Chek Jawa, Oct 08
   - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3.jpg
     caption: Changi, Apr 05 Tiny egg sacs emerging through the joints.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Parasitic barnacles (
   *Thompsonia, Sacculina*
@@ -51,7 +52,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

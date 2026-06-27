@@ -34,14 +34,16 @@ galleries:
       season. Sungei Buloh Wetland Reserve, Sep 04
   - url: https://images.naturehungry.sg/vertebrates/reptilia/versicolor/020111sbwrcpd4606m3.jpg
     caption: Sungei Buloh Wetland Reserve, Jan 02
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Changeable lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard)
 
   on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
 
-  **References**
+  ### References
+
 
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
 

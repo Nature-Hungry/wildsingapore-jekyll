@@ -53,7 +53,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/castle/210428slulks6.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -111,7 +112,9 @@ other leafy hard corals like
 (*Pavona*
 sp.).
 
-**Status and threats:**
+ ## Status and threats
+
+
 This coral is listed as globally Vulnerable
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 .

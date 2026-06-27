@@ -82,7 +82,8 @@ galleries:
     caption: Terumbu Raya, Jul 09 Photo shared by James Koh on his blog .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/platydoris/230221tryky3.jpg
     caption: Terumbu Raya, Feb 23 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -91,7 +92,8 @@ links_references: '**Links**
   *[Platydoris scabra](http://www.seaslugforum.net/find/platscab)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

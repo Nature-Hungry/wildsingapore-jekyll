@@ -28,7 +28,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/snakes/fordonia/080607prpik.jpg
     caption: Pasir Ris Park, Jun 08 Photo shared by Ivan Kwan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Crab-eating Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake)
 
@@ -39,7 +40,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Serin Subara. 23 October 2015.
 
@@ -106,7 +108,9 @@ It eats mainly hard-shelled crabs, hunting for and capturing them in the crab bu
 **Baby snakes:**
 Mama snake gives birth to live young in litters of 6-15.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The snake is listed as 'Endangered' on the Red List of threatened animals of Singapore.
 
 *![](https://images.naturehungry.sg/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg)

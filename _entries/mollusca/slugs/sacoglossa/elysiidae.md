@@ -34,12 +34,14 @@ galleries:
     caption: Mangrove leaf slug
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg
     caption: Unidentified leaf slugs
-links_references: "**Links**\n- [Leaf Slug\n*Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151)\n\
+links_references: "### Links
+\n- [Leaf Slug\n*Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: photos and fact sheet on\n*[Elysia ornata](http://www.seaslugforum.net/factsheet.cfm?base=elysorna)*\n\
   as well as\n[solar powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow)\n\
-  : about how some slugs retain the chloroplasts from their food.\n\n**References**\n\
+  : about how some slugs retain the chloroplasts from their food.\n\n### References
+\n\
   - K. R. Jensen.\n[Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern\
   \ coasts of Singapore](http://lkcnhm.nus.edu.sg/nus/images/data/raffles_bulletin_of_zoology/supplement31/S31rbz226-249.pdf)\n\
   . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International\

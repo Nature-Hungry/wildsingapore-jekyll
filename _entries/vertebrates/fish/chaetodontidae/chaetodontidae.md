@@ -42,7 +42,8 @@ galleries:
     caption: Kite butterflyfish
   - url: https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
     caption: Eightband butterflyfish
-links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
+links_references: "### Links
+\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
   . Singapore Science Centre. 163 pp.\n- Tan, Leo W. H. & Ng, Peter K. L., 1988.\n\
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore\
@@ -64,7 +65,8 @@ links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources\
   \ of the Western Central Pacific.\n- [Butterflyfishes and coral diseases](http://wildshores.blogspot.com/2009/09/butterflyfishes-and-coral-disease.html)\n\
   on the wild shores of singapore blog, 30 Sep 2009.\n- [Butter,,,Fly...Fish](http://cat64fish.wordpress.com/2011/08/25/butter-fly-fish-2/)\n\
-  on the Compressed Air Junkie blog, 25 Aug 2011.\n\n**References**\n- Toh Chay Hoon,\
+  on the Compressed Air Junkie blog, 25 Aug 2011.\n\n### References
+\n- Toh Chay Hoon,\
   \ 31 October 2019.\n*Klein\u2019s butterflyfish (Chaetodon kleiniii) off Pulau Hantu*\n\
   . Singapore Biodiversity Records 2019: 143 ISSN 2345-7597, National University of\
   \ Singapore.\n- Jeffrey K. Y. Low.\n*A Singapore record of the raccoon butterflyfish,\

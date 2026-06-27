@@ -84,7 +84,9 @@ These small funny-looking crabs are sometimes seen on our shores, among seagrass
 Body about
 3cm. The body is oval and abdomen folded beneath. Antennae are very long and feather-like, legs flattened and spade-shaped. They are usually buried in the sand with only their antennae sticking out. The interlocking hairs on the antennae probably form a breathing tube for the buried crab.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The species
 *Gomeza bicornis*
 and
@@ -115,7 +117,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
-**References**
+### References
+
 - Marcus F. C. Ng . 28 Oct 2016.
 *Masked burrowing crab Gomeza bicornis at Sentosa*
 . Singapore Biodiversity Records 2016: 153.

@@ -25,14 +25,16 @@ tribe: Phaseoleae
 subtribe: Cajaninae
 updated: Aug 09
 coverimg: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Flemingia strobilifera*](http://www.hear.org/pier/species/flemingia_strobilifera.htm)on
   the Pacific Islands Ecosystems at Risk website: fact sheet of this plant which is
   considered an invasic in the Pacific Islands.
 
 
-  **References**
+  ### References
+
 
   - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
   3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.

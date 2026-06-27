@@ -62,7 +62,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Euphyllia](http://www.eol.org/pages/101073)
 
@@ -73,7 +74,8 @@ links_references: '**Links**
   : facts and photos.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -157,7 +159,9 @@ Euphyllia corals have separate male and female colonies (not all corals do), and
 
 These corals are among those taken for the live aquarium trade, often in unsustainable numbers.
 
-**Status and threats:**
+ ## Status and threats
+
+
 All Euphyllid corals recorded for Singapore are listed as globally threatened
 [by the IUCN](http://www.iucnredlist.org/)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

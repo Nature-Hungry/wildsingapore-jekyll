@@ -54,7 +54,8 @@ galleries:
     caption: Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/melibe/131104smkmn2.jpg
     caption: Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -71,7 +72,8 @@ links_references: '**Links**
   from Changi.
 
 
-  **References**
+  ### References
+
 
   - Marcus F. C. Ng. 21 November 2014.
 

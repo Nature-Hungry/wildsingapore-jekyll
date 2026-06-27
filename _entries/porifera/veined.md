@@ -21,14 +21,16 @@ galleries:
     caption: Sentosa, May 13 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/porifera/veined/101205blylks1.jpg
     caption: Berlayar Creek, Dec 10 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Clathria (Microciona) mima*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=167665)
 
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

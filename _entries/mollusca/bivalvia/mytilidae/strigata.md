@@ -44,7 +44,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/strigata/201020swgvc4.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Mytella charruana*](https://sealifebase.ca/summary/Mytella-charruana.html)
 
@@ -63,7 +64,8 @@ links_references: '**Links**
   - [Clams and clear water at Kranji, Mar 2017](http://wildshores.blogspot.sg/2017/03/clams-and-clear-water-at-kranji.html)
 
 
-  **References**
+  ### References
+
 
   - J. Y. Lim. 11 Feb 2018.
 

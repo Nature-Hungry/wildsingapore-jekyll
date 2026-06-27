@@ -59,14 +59,16 @@ galleries:
     caption: Beting Bronok, Jul 19 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/hamatus/160510ecpbsyj1.jpg
     caption: East Coast Park, May 16 Photo shared by Ywee Chieh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cladolabes hamatus*](http://www.sealifebase.org/summary/Cladolabes-hamatus.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ong J. Y. & H. P. S. Wong.
 

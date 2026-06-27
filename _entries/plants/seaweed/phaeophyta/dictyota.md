@@ -22,13 +22,15 @@ order: Dictyotales
 tribe: Dictyoteae
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dictyota*](http://www.algaebase.org/search/genus/detail/?genus_id=51)on[AlgaeBase](http://www.algaebase.org/):
   Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.[*A Checklist of the
   Algae of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist.pdf)(pdf).

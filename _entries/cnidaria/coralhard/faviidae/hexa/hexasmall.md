@@ -1,6 +1,6 @@
 ---
-title: Small hexagonal  corals
-description: Fact sheet of Small hexagonal  corals on the shores of Singapore
+title: Small hexagonal corals
+description: Fact sheet of Small hexagonal corals on the shores of Singapore
 keywords: coral, hard, faviidae, scleractinia, cnidaria, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

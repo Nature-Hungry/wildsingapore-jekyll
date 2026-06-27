@@ -35,7 +35,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/porifera/ballprickly/120112smbs02077m3.jpg
     caption: Sembawang, Jan 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Tethya robusta*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=130095&genusname=Tethya&speciesname=robusta)
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Swee-Cheng Lim, Nicole J. de Voogd and Koh-Siang Tan.
 

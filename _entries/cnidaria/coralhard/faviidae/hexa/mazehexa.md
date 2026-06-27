@@ -1,6 +1,6 @@
 ---
-title: 'Maze hexagonal  corals '
-description: Fact sheet of Maze hexagonal  corals  on the shores of Singapore
+title: 'Maze hexagonal corals '
+description: Fact sheet of Maze hexagonal corals  on the shores of Singapore
 keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

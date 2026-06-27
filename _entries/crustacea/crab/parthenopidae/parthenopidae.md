@@ -36,7 +36,8 @@ galleries:
     caption: Common elbow crab
   - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
     caption: Domed elbow crab
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200)
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Swee Hee and Martyn E. Y. Low. 20 December 2013.
 
@@ -100,7 +102,9 @@ Tiny ones are common but overlooked as they look like bits of dirt or junk among
 
 Most have highly elongated pincers that stick way out from the sides of its body. Others have less obvious 'elbows'.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our elbow crabs are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

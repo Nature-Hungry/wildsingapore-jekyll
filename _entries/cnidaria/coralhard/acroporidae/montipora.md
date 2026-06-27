@@ -33,14 +33,16 @@ galleries:
     caption: Plate montipora coral
   - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg
     caption: Ridged montipora coral
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

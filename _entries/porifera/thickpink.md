@@ -47,7 +47,8 @@ galleries:
     caption: Pulau Berkas, May 10
   - url: https://images.naturehungry.sg/porifera/thickpink/100130brkd8487m3.jpg
     caption: Terumbu Berkas, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Callyspongia diffusa*](http://www.sealifebase.fisheries.ubc.ca/summary/Callyspongia-diffusa.html)
 
@@ -58,7 +59,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

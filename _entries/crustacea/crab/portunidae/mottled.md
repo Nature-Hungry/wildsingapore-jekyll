@@ -76,7 +76,8 @@ galleries:
     caption: Terumbu Pempang Tengah, Jun 20 Photo by Jonathan Tan on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/070531sismn.jpg
     caption: Sisters Islands, May 07 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
 
@@ -87,7 +88,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

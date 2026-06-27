@@ -46,7 +46,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/sarmatium/251231prprqo6.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mound crab (
   *Sarmatium germaini*
@@ -68,7 +69,8 @@ links_references: '**Links**
   : fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
@@ -104,7 +106,9 @@ Body width 3-8cm. It has a round body and flat legs with pointed tips. The pince
 **What does it eat?**
 It eats mangrove leaves, dragging these into its burrow to eat them in peace and quiet.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This crab is listed as 'Endangered' in the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

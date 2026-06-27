@@ -82,7 +82,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/110423tpljk.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Saddled prawn-goby (
   *Cryptocentrus maudae*
@@ -96,7 +97,8 @@ links_references: '**Links**
   : Technical fact sheet including fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Marcus F. C. Ng . 31 Aug 2016.
 

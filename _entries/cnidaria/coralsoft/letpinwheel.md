@@ -53,7 +53,8 @@ galleries:
     caption: Pulau Salu, Jun 10
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/100530tbkd4207m3a.jpg
     caption: Bleaching. Pulau Berkas, May 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Lobophytum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lobophytum)
 
@@ -68,7 +69,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

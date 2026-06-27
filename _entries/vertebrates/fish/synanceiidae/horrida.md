@@ -106,7 +106,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/horrida/220102biotch4.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Hollow-cheek Stonefish (
   *Synanceia horrida*
@@ -157,7 +158,8 @@ links_references: '**Links**
   on wild shores of singapore.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

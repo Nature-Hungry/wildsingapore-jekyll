@@ -32,7 +32,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/diodontidae/diodontidae/200209cyrjt.jpg
     caption: Black-blotched porcupinefish (Diodon liturosus ) Cyrene, Feb 20 Photo
       shared by Jonathan Tan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Longspine porcupinefish (
   *Diodon holacanthus*
@@ -53,7 +54,8 @@ links_references: '**Links**
   : Technical fact sheet on the family.
 
 
-  **References**
+  ### References
+
 
   - Adib Adris. 31 August 2020.
 
@@ -106,7 +108,9 @@ They eat mainly hard-shelled invertebrates like snails, crabs, sea urchins, crus
 
 Some species are harvested for traditional chinese medicine.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our porcupinefishes are not listed as among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.
 
 ---

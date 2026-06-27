@@ -23,7 +23,8 @@ superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
 coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/archaster/031207cjd0027m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea star (*Archaster typicus*)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm)Tan,
   Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -38,7 +39,8 @@ links_references: '**Links**
   Archasteridae) Common Sea Star by Chan Yong Kit Samuel, 2015, on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water Seastars of Australia*.
   2020. Western Australian Museum. 543pp.
@@ -242,7 +244,9 @@ A tiny parastic snail (*Parvioris fulvescens*) is said to be sometimes found on 
 **Is our sea star special?**
 According to the Singapore Red Data Book, the form found in Singapore is larger than other examples elsewhere in the west Pacific and may be a distinct variety of subspecies.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Although plentiful in the past, common sea stars are now listed as 'Vulnerable' on the Red List of threatened animals in Singapore due to habitat loss and overcollection. Their mating behaviour suggests that a certain population density is required for them to be able to reproduce successfully. In the past in Singapore, the common sea star was often collected as a teaching aid in zoology and biology. This practice can threaten the population if it results in overcollection.
 
 {% include img-wrap-group.html items=page.galleries.gallery6 %}

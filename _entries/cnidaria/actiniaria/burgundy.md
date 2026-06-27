@@ -47,7 +47,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/burgundy/121016ubnlks1m3.JPG
     caption: Pulau Ubin, Oct 12 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Bunodosoma goanense*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Bunodosoma&subgenus=&species=goanense&subspecies=&synseniorid=1543&nameid=)
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   and more.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -100,7 +102,9 @@ This large, fat, dark red anemone has its stronghold at Punggol. Here, many are 
 
 Diameter with tentacles expanded 5-8cm. Body, oral disk and tentacles the same dark red, burgundy colour. Sometimes with five pale or yellowish spots or bars around the mouth. Many short tapered tentacles. Body column thick and short and densely covered with regular rows of small non-sticky bumps. The animal attaches with its broad foot to smooth hard surfaces below the low water line. When exposed at low spring tide, it tucks its tentacles into its body column.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

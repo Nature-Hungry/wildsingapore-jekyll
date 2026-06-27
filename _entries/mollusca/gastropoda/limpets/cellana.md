@@ -47,7 +47,8 @@ galleries:
     caption: Big Sisters Island, Feb 26 Photo shared by Kelvin Yong on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/cellana/260217bsisky2b.jpg
     caption: Big Sisters Island, Feb 26 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cellana radiata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130651)
 
@@ -58,7 +59,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -56,7 +56,8 @@ galleries:
     caption: Pulau Semakau South, Jan 20 Photo shared by Jianlin Liu on facebook .
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/hearturchin/planulata/220201brklks10.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Maretia*](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=351)
 
@@ -75,7 +76,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

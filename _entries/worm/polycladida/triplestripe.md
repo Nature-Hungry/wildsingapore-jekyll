@@ -176,7 +176,8 @@ for comments on this worm and its identification.
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
 
-**References**
+### References
+
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
 *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
 Nature in Singapore 2018 11: 77–125.

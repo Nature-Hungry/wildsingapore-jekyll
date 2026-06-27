@@ -45,7 +45,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/mucronata/090611prpd3892m3b.jpg
     caption: Pasir Ris, Jun 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bakau kurap (
   *Rhizophora mucronata*](http://mangrove.nus.edu.sg/guidebooks/text/1070)

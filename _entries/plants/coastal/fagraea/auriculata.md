@@ -25,8 +25,10 @@ subtribe: Potaliinae
 updated: Feb 11
 coverimg: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
 links_references: "**Acknowledgements** \nWith grateful thanks to Andrew Tay for identifying\
-  \ this plant.\n\n**Links**\n- [*Fagraea auriculata*](http://floraofsingapore.wordpress.com/2011/02/20/fagraea-auriculata/)on\
-  \ the Total Vascular Plants of Singapore blog: photos and fact sheet.\n\n**References**\n\
+  \ this plant.\n\n### Links
+\n- [*Fagraea auriculata*](http://floraofsingapore.wordpress.com/2011/02/20/fagraea-auriculata/)on\
+  \ the Total Vascular Plants of Singapore blog: photos and fact sheet.\n\n### References
+\n\
   - Tan, Hugh T.W. and T. Morgany. 2001.*[A Guide to Growing the Native Plants of\
   \ Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
   \ BP Science Centre Guidebook. 168pp.\n\n- Hsuan Keng, S.C. Chin and H. T. W. Tan.\
@@ -76,7 +78,9 @@ A climbing shrub or epiphyte (growing on other trees). According to Burkill, it 
 
 According to Burkill the very sticky substance found under the thin skin of the fruit is used for making glue that is considered very good.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This plant is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 ****![](https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg)*

@@ -87,7 +87,8 @@ galleries:
     caption: Beting Bemban Besar, May 10 Photo shared by James Koh on his blog .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bornella/100629tpdjk6m6l.jpg
     caption: Terumbu Pempang Darat, Jun 10 Photo shared by James Koh on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -118,7 +119,8 @@ links_references: '**Links**
   by Uma Sachidhanandam: distribution but no photo.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

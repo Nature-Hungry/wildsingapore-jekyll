@@ -60,7 +60,8 @@ galleries:
     caption: Ruby reef crab
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg
     caption: Hairy coral crab
-links_references: "**Links**\n- [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)\n\
+links_references: "### Links
+\n- [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)\n\
   ,\n*[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*\n,\n*[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*\n\
   ,\n[Common Rock Crab (\n*Leptodius*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/208)\n\
   ,\n*[Actaeodes mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210)*\n,\n\
@@ -70,7 +71,8 @@ links_references: "**Links**\n- [Poisonous Xanthid Crabs](http://mangrove.nus.ed
   \ alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv)\nby Jim Johnson\
   \ on Molecule of the Month of the School of Chemistry, University of Bristol website:\
   \ lots of details about the toxin's effects, creatures that carry it and how it\
-  \ came about, with LOTS of links to more about tetrodotoxin.\n\n**References**\n\
+  \ came about, with LOTS of links to more about tetrodotoxin.\n\n### References
+\n\
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.\n*Systema Brachyurorum:\
   \ Part 1. An annotated checklist of extant Brachyuran crabs of the world*\n[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)\n\
   The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.\n- Lim,\
@@ -133,7 +135,9 @@ Most of these crabs are said to be vegetarians, but at least one was seen chompi
 ## Human uses
 
 The study of the unique toxins in these crabs may help develop new drugs or achieve better understanding of human health.
-**Status and threats:**
+ ## Status and threats
+
+
 Several of these crabs are listed among the threatened animals of Singapore. L
 ike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 

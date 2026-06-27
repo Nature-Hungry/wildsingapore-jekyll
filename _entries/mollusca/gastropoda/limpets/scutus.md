@@ -77,7 +77,8 @@ galleries:
   gallery10:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Scutus*
 
@@ -94,7 +95,8 @@ links_references: '**Links**
   on the NParks Flora and Fauna website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -170,7 +172,9 @@ which are snails without shells. Here's more on how to tell apart
 **What do they eat?**
 According to Gosliner, they appear to feed on colonial ascidians.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Scutus unguis*
 is listed as 'Endangered' on Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Once common on many rocky shores, it is now rare due to habitat loss. Seawalls do not appear to be a viable alternative habitat for this animal."
 

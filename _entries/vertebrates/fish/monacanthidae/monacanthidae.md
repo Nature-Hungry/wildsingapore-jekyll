@@ -57,7 +57,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
 
@@ -134,7 +135,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Karenne Tun & Kelvin K. P. Lim.
 
@@ -245,7 +247,9 @@ Many filefishes lay eggs that settle on the bottom, onto a site prepared and gua
 
 Filefishes are edible and eaten in some traditional dishes. Unlike most other edible fishes which are scaled before we eat them, for filefishes, the rough skin has to be 'peeled' off first.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our filefishes are listed among the threatened animals of Singapore. However, l
 ike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-fishing can also have an impact on local populations.
 

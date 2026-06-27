@@ -61,14 +61,16 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/tinysevenarm/210402tmskjll2.jpg
     caption: Terumbu Semakau, Apr 21 Photo shared by Jianlin Liu on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Aquilonastra anomala*](https://www.sealifebase.ca/summary/Aquilonastra-anomala.html)
 
   on SeaLife Base: Technical fact sheet
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.
 

@@ -59,14 +59,16 @@ galleries:
     caption: East Coast (G), May 21 Photo shared by Toh Chay Hoon on facebook .
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/201019sjijll8.jpg
     caption: St John's Island, Oct 20 Photo shared by JIanlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Astropecten vappa*](https://www.sealifebase.ca/summary/Astropecten-vappa.html)
 
   on SeaLife Base: Technical fact sheet
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.
 

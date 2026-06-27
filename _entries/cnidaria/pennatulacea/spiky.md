@@ -71,7 +71,8 @@ galleries:
     caption: Sentosa Serapong, Jun 16 Photo shared by Ian Siah on facebook .
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/120818lazlks.JPG
     caption: Seringat-Kias, Aug 12 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Pteroeides*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Pteroeides)
 

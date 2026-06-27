@@ -104,7 +104,8 @@ on the NParks Flora and Fauna website: photos and fact sheet.
 - [Know 10 trees in Singapore](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=181&Itemid=161)
 on the NParks website: fact sheet with lots of photos of various parts of the tree.
 
-**References**
+### References
+
 
 - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 *The Concise Flora of Singapore: Gymnosperms and Dicotyledons*

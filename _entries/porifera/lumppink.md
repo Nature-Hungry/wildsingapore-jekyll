@@ -30,7 +30,8 @@ galleries:
     caption: Terumbu Bemban, Apr 11
   - url: https://images.naturehungry.sg/porifera/lumpypink/140811tryjll5m3.jpg
     caption: Terumbu Raya, Aug 14 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Haliclona baeri*](http://www.sealifebase.fisheries.ubc.ca/summary/Haliclona-baeri.html)
 
@@ -41,7 +42,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

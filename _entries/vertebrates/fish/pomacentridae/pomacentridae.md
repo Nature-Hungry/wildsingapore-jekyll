@@ -63,12 +63,14 @@ galleries:
     caption: Juvenile
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg
     caption: Adult
-links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
+links_references: "### Links
+\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
   . Singapore Science Centre. 163 pp.\n- [Damselfishes](http://ikanfish.wordpress.com/damselfishes/)\n\
   on Reef Fishes of Singapore by Jeffrey Low.\n- [Family Pomacentridae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=350)\n\
   from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family\
-  \ with fact sheets on many members of the family.\n\n**References**\n- Daisuke Taira.\
+  \ with fact sheets on many members of the family.\n\n### References
+\n- Daisuke Taira.\
   \ 30 October 2020.\n*A goldtail damselfish, Chrysiptera parasema, at Pulau Hantu*\n\
   . Singapore Biodiversity Records 2020: 170. The National University of Singapore.\n\
   - Daisuke Taira & Amanda Rouwen Hsiung. 31 August 2020.\n*The silty damselfish,\
@@ -167,7 +169,9 @@ In many species, a nest site is prepared by one or both partners. The eggs are a
 
 Many members of this family are harvested from the wild for the live aquarium trade. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
-**Status and threats:**
+ ## Status and threats
+
+
 [Anemonefishes](amphiprion)
 of the Family Pomacentridae are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Overcollection by hobbyists and overfishing can also have an impact on local populations.
 

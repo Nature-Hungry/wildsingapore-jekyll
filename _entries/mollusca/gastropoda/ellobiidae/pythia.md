@@ -34,7 +34,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
     caption: Sungei Buloh Besar, Apr 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - *Pythia scarabaeus*
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   from SeaLife base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -1,5 +1,5 @@
 ---
-title: Ridged   montipora coral
+title: Ridged montipora coral
 description: Fact sheet of Ridged   montipora coral on the shores of Singapore
 keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,

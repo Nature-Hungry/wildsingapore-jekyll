@@ -32,7 +32,8 @@ galleries:
     caption: Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/porifera/thornystem/080609hnttsj.JPG
     caption: Pulau Hantu, Jun 08 Photo shared by Tan Sijjie on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Gelliodes fibulata*](http://www.sealifebase.fisheries.ubc.ca/summary/Gelliodes-fibulata.html)
 
@@ -43,7 +44,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

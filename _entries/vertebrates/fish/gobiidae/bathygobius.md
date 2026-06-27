@@ -42,7 +42,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg
     caption: Pulau Jong, Jun 09 Photo shared by Liana Tang on her blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Common frill-fin goby (
   *Bathygobius fuscus*
@@ -88,7 +89,8 @@ links_references: '**Links**
   : photos and fact sheet
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

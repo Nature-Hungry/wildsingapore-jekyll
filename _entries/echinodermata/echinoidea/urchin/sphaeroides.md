@@ -84,7 +84,8 @@ galleries:
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/170311bbbjt.jpg
     caption: Beting Bemban Besar, Mar 17 Photo shared by Juria Toramae on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Banded urchin (
   *Salmacis*
@@ -106,7 +107,8 @@ links_references: '**Links**
   (Cameradonta: Temnopleuridae) White Sea Urchin by Phua Jun Wei, 2015, on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Neo Mei Lin.
 

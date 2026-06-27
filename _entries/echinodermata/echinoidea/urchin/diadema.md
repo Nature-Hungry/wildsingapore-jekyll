@@ -126,7 +126,8 @@ galleries:
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/diadema/100613snglks4m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Black sea urchin (
   *Diadema setosum*
@@ -154,7 +155,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui. 4 July 014.
 

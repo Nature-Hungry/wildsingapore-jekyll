@@ -32,11 +32,13 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bangtawaensis/120320mndmn.jpg
     caption: Mandai, Mar 12 Photo shared by Marcus Ng on flickr .
-links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+links_references: "### Links
+\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: photos and fact sheet on\n*[Elysia bangtawaensis](http://www.seaslugforum.net/find/elysbang)*\n\
   .\n- [New mangrove slug named after Singapore](http://wildshores.blogspot.com/2011/03/new-mangrove-slug-named-after-singapore.html)\n\
   on the wild shores of singapore blog\n- *[Elysia bangtawaensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Elysia%20bangtawaensis.html)*\n\
-  (Sacoglossa: Plakobranchidae) Mangrove leaf slug on Taxo4254.\n\n**References**\n\
+  (Sacoglossa: Plakobranchidae) Mangrove leaf slug on Taxo4254.\n\n### References
+\n\
   - K. R. Jensen.\n*Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern\
   \ coasts of Singapore*\n. 10 July 2015. The Comprehensive Marine Biodiversity Survey:\
   \ Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015\

@@ -65,7 +65,8 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pachyseris/210428slulks11.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 

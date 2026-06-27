@@ -42,7 +42,8 @@ galleries:
     caption: Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/terapontidae/theraps/230805thntky1.jpg
     caption: Terumbu Hantu, Aug 23 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Banded perch (
   *Terapon theraps*
@@ -77,7 +78,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

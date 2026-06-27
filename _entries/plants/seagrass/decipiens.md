@@ -46,7 +46,8 @@ galleries:
     caption: Fruit Pasir Ris Park, Aug 13
   - url: https://images.naturehungry.sg/plants/seagrass/decipiens/130823prpd2354m3.jpg
     caption: Seeds. Pasir Ris Park, Aug 13
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Identifying seagrasses](http://www.seagrasswatch.org/id_seagrass.html)
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   (PDF).
 
 
-  **References**
+  ### References
+
 
   - Waycott, Michelle (et. al). 2004.
 
@@ -111,7 +113,9 @@ Small green fruits (0.5cm) contain up to 30 tiny seeds. The species sometimes be
 ## Role in habitat
 This seagrass may be an important food source for marine grazers.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It was first recorded in Singapore in 2008, from specimens found off Pulau Semakau at a depth of about 8m. It has since been sighted at other locations in waters off the Southern islands and on the intertidal in the North.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

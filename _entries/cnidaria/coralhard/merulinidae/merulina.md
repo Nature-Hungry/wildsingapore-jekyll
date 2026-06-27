@@ -56,7 +56,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/merulina/250812tblvo3.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -76,7 +77,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 

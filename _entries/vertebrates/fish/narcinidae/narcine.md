@@ -32,7 +32,8 @@ galleries:
     caption: Narcine maculata Chek Jawa, Jul 04 Photo shared by Lim Cheng Puay.
   - url: https://images.naturehungry.sg/vertebrates/fish/narcinidae/narcine/120605chgmn.jpg
     caption: Narcine maculata Changi, Jun 12 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Narcinidae](http://www.fishbase.org/summary/FamilySummary.php?ID=503)
 
@@ -65,7 +66,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website (pdf).
 
 
-  **References**
+  ### References
+
 
   - Chan Sow Yan. 17 Jan 2014.
 

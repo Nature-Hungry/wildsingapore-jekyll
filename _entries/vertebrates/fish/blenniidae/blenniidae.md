@@ -37,7 +37,8 @@ galleries:
     caption: Oyster-blenny
   - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg
     caption: Rockskipper blenny
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Striped Fang-blenny (
   *Meiacanthus grammistes*
@@ -141,7 +142,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Daisuke Taira & Kelvin K. P. Lim.
 

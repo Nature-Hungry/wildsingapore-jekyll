@@ -40,7 +40,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/umbonium/101206cyrlks2m3.jpg
     caption: Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)
 
@@ -85,7 +86,8 @@ links_references: '**Links**
   by Vera Fretter In Journal of Zoology (20 Aug 2009).
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -161,7 +163,9 @@ have also been seen hunting them. Other large animals probably also snack on the
 
 Sadly, these beautiful tiny animals are collected, killed and their shells sold as cheap curios and for handicrafts. In the Philippines they are commonly gathered as food. Vendors traditionally provide the buyer with an aromatic thorn from the Acacia to pry the meat out.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Button snails were highly abundant in Singapore in the 1960's, but populations have declined drastically as their habitats have since become degraded or were lost. They are now listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Trampling by careless visitors and overcollection can also have an impact on local populations.
 
 ---

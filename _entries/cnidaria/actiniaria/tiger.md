@@ -117,7 +117,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
 
-**References**
+### References
+
 - Nicholas Wei Liang Yap
 *Taxonomy and Molecular Phylogeny of the Sea Anemone Macrodactyla (Haddon, 1898) (Cnidaria, Actiniaria), with a Description of a New Species from Singapore*
 . Zoological Studies 62:29 (2023) doi:10.6620/ZS.2023.62-29.

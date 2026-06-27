@@ -44,7 +44,8 @@ galleries:
     caption: Male flowers with pollinators. Admiralty Park, Apr 09
   - url: https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090418admd0277m3.jpg
     caption: Male flowers with pollinators. Admiralty Park, Apr 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Nypa fruticans](http://floraofsingapore.wordpress.com/2010/03/14/nypa-fruticans/)*
 
@@ -90,7 +91,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Teo, S., W. F. Ang, A. F. S. L. Lok, B. R. Kurukulasuriya & H. T. W. Tan, 2010.
 
@@ -162,7 +164,9 @@ According to Burkill, the leaves are used for roofing as is, or "a more skilful 
 
 Burkill describes the tapping process: A palm is fit to tap at 5 years of age or after its second flowering. When the fruit is forming, the stalk carrying it is beaten with a wooden mallet. After being bruised daily for a week, the stalk is tapped for its sap and the flow maintained by daily shaving off from the stump of the inflorescence. It is accepted that tapping over 50 years is possible. The sap ferments into alcohol, toddy, almost immediately as "bacteria of fermentation is in abundance" in the containers used to collect the sap. Nipah suger is not much made in Malaya because it contains "too much of a treacly substance that is difficult to eliminate". Toddy left to stand becomes vinegar in a fortnight, which is used to bleach Nipah leaves for the hat and mat industry.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Vulnerable' in the Red List of threatened plants of Singapore. According to Davison, most of the localities where this palm is found is not in protected areas, so there is the danger of development wiping out populations. Only populations at Sungei Buloh, Pulau Ubin and Pulau Tekong are protected.
 
 ![](https://images.naturehungry.sg/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg)

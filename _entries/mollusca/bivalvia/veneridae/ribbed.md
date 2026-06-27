@@ -59,7 +59,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/ribbed/181027smksjt1.jpg
     caption: Pulau Semakau South, Oct 18 Photo shared by Juria Toramae on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Gafrarium tumidum*
 
@@ -74,7 +75,8 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

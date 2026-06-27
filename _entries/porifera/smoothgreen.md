@@ -96,7 +96,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
-**References**
+### References
+
 
 - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 *A Guide to Sponges of Singapore*

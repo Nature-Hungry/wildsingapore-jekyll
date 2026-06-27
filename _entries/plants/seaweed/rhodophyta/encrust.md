@@ -54,7 +54,8 @@ galleries:
     caption: Terumbu Bemban, Jun 10
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/091204pawd5392m3.jpg
     caption: Pulau Pawai, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Red Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106)
 
@@ -87,7 +88,8 @@ links_references: '**Links**
   on the US Geological Survey website: photos of some coralline algae
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

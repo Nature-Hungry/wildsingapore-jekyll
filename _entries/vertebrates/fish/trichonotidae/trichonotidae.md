@@ -57,7 +57,8 @@ galleries:
     caption: Photo shared by Toh Chay Hoon on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch2m3.jpg
     caption: East Coast Park, Jul 15
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Trichonotidae (Sand-divers)](http://www.fishbase.se/Summary/FamilySummary.cfm?ID=372)
 
@@ -68,7 +69,8 @@ links_references: '**Links**
   : Technical fact sheet on the family, including fact sheets on individual species.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui & Leo H. S. Nguang. 25 Jan 2017.
 

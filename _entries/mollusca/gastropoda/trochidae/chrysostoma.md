@@ -28,7 +28,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6428m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Chrysostoma paradoxum](http://www.sealifebase.fisheries.ubc.ca/summary/Chrysostoma-paradoxum.html)*
 
@@ -45,7 +46,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

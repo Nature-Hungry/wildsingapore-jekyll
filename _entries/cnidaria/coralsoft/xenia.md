@@ -47,7 +47,8 @@ galleries:
     caption: Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/xenia/140718tsmkrl.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Russel Low on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Heteroxenia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Heteroxenia)
 
@@ -66,7 +67,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

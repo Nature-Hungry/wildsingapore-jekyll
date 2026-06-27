@@ -30,7 +30,8 @@ galleries:
     caption: Terumbu Raya, Mar 11 Photo shared by Russel Low on facebook .
   - url: https://images.naturehungry.sg/porifera/tangled/110522bbbrl5m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Russel Low on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Callyspongia samarensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Callyspongia-samarensis.html)
 
@@ -41,7 +42,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

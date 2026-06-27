@@ -20,7 +20,8 @@ suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
-links_references: "**Links**\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)\
+links_references: "### Links
+\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)\
   \ Tan, Leo W. H. & Ng, Peter K. L.,\n  1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- [Spotted\n  Seahorse (*Hippocampus\
   \ kuda*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248) Lim, Kelvin\
@@ -45,7 +46,8 @@ links_references: "**Links**\n- [Seahorse\n  (*Hippocampus* sp.)](http://mangrov
   \ and [Long-nosed\n  seahorse (*Hippocampus trimaculatus*)](http://www.fishbase.org/summary/22816)\
   \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet.\n- [Papa\n\
   \  seahorses prefer Big Mamas](http://wildshores.blogspot.com/2009/07/papa-seahorses-prefer-big-mamasl)\
-  \ on the wild shores of singapore\n  blog.\n\n**References**\n- Kelvin K. P. Lim.\
+  \ on the wild shores of singapore\n  blog.\n\n### References
+\n- Kelvin K. P. Lim.\
   \ 15 November 2013. *New Singapore record of the seahorse, Japanese seahorse, Hippocampus\
   \ mohnikei*. Singapore Biodiversity Records 2013: 68-69.\n- Lim, S.,\n  P. Ng, L.\
   \ Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life\n  and Times of Labrador\
@@ -130,7 +132,9 @@ Once they leave his pouch, he does not look after them. In fact, his mate is oft
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Human (ab)uses:**
 Seahorses are used in traditional Chinese medicine. Many species are also caught for the live aquarium trade or dried and sold as cheap curious and souvenirs. See below for some of the issues surrounding the harvesting of wild seahorses.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Seahorses are listed as CITES II (which means their international trade is monitored) and are considered globally vulnerable.
 *Hippocampus kuda*
 is listed among the threatened animals of Singapore.

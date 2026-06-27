@@ -33,7 +33,8 @@ galleries:
     caption: Sungei Buloh Wetland Reserve, Mar 11
   - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0171m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cassine viburnifolia*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6281)
 
@@ -51,7 +52,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -114,7 +116,9 @@ Fruit small teardrop shaped (about 1cm) with one seed, ripening yellow. The cork
 
 According to Giersen, the husk of the fruit is said to be used to stupefy fish. It is also used as firewood.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This plant is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.
 
 *![](https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg)

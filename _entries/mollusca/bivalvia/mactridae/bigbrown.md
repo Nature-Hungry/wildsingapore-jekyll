@@ -56,7 +56,8 @@ galleries:
     caption: Sisters Island, Aug 15 Photo shared by Heng Pei Yan on facebook .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy2m3.jpg
     caption: Sisters Island, Aug 15 Photo shared by Heng Pei Yan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Plain troughshell (
   *Mactra mera*
@@ -76,7 +77,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

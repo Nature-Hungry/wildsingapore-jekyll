@@ -34,7 +34,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg
     caption: Honeycomb grouper
-links_references: "**Links**\n- [Marbled Grouper (\n*Epinephalus tauvina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/243)\n\
+links_references: "### Links
+\n- [Marbled Grouper (\n*Epinephalus tauvina*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/243)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [Orange-spotted Grouper (\n\
   *Epinephelus coioides*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2103)\nNg,\
@@ -49,7 +50,8 @@ links_references: "**Links**\n- [Marbled Grouper (\n*Epinephalus tauvina*\n)](ht
   - [Eating groupers devastates reefs and lives](http://wildshores.blogspot.com/2009/02/eating-live-grouper-devastates-reefs.html)\n\
   - [Groupers nearly gone](http://wildshores.blogspot.com/2008/10/groupers-nearly-gone.html)\n\
   - [Groupers are undersea architects building habitats for others](http://wildshores.blogspot.com/2010/01/groupers-are-undersea-architects.html)\n\
-  \n**References**\n- Neo Mei Lin.\n*Giant grouper at Semakau*\n. 28 December 2017.\
+  \n### References
+\n- Neo Mei Lin.\n*Giant grouper at Semakau*\n. 28 December 2017.\
   \ Singapore Biodiversity Records 2017: 179 ISSN 2345-7597. National University of\
   \ Singapore.\n- Kelvin K. P. Lim. 28 Jul 2017.\n*Longfin grouper, Epinephelus quoyanus,\
   \ in Sisters Islands Marine Park*\n. Singapore Biodiversity Records 2017: 93.\n\

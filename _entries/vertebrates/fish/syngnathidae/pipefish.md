@@ -37,7 +37,8 @@ galleries:
     caption: Seagrass pipefish
   - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3.jpg
     caption: Alligator pipefish
-links_references: "**Links**\n- [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230)\n\
+links_references: "### Links
+\n- [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [Blue-speckled Pipefish (\n\
   *Hippichthys cyanospilus*\n)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)\n\
@@ -59,7 +60,8 @@ links_references: "**Links**\n- [Pipefish (Family Syngnathidae)](http://mangrove
   and\n*[Trachyrhamphus serratus](http://www.fishbase.org/summary/23123)*\nfrom\n\
   [FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family, including\
   \ fact sheets on individual species\n- [Papa pipefish not so motherly after all](http://wildshores.blogspot.com/2009/12/papa-pipefish-not-so-motherly-after-all.html)\n\
-  on the wild shores of singapore\n\n**References**\n- Daisuke Taira.\n*Ringed pipefish\
+  on the wild shores of singapore\n\n### References
+\n- Daisuke Taira.\n*Ringed pipefish\
   \ in the Singapore Strait*\n. 31 July 2018. Singapore Biodiversity Records 2018:\
   \ 89 ISSN 2345-7597. National University of Singapore.\n- Toh Yuet Hsin & Koh Kwan\
   \ Siong. 18 December 2015.\n*New record of ringed pipefish in Singapore*\n. Singapore\
@@ -121,7 +123,9 @@ Some pipefishes may perform courtship dances before mating. Unlike seahorses, a 
 
 Pipefishes are used in traditional Chinese medicine, often as a substitute for seahorses. Some species are also caught for the live aquarium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 See
 [Family Syngnathidae](syngnathidae)
 for threats to pipefishes and seahorses.

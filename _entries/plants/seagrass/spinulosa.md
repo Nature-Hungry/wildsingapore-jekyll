@@ -44,7 +44,8 @@ galleries:
     caption: Bryozoans growing on the seagrass. Changi, Aug 08
   - url: https://images.naturehungry.sg/plants/seagrass/spinulosa/071126chgd7629m3c.jpg
     caption: Tiny organisms growing on leaflet. Changi, Nov 07
-links_references: '**Links**
+links_references: '### Links
+
 
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
 
@@ -58,7 +59,8 @@ links_references: '**Links**
   on the Seagrass-Watch website.
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -126,7 +128,9 @@ Fern seagrass has separate male and female plants. The flowers form at the junct
 ## Role in habitat
 Dugongs are known to graze on this seagrass.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/seagrass/spinulosa/080412cjd1263m6l.jpg)*

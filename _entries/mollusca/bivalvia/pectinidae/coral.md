@@ -52,14 +52,16 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pectinidae/coral/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Pedum spondyloideum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=103724)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -35,14 +35,16 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/porifera/meltedchoc/200125prpAhd2.jpg
     caption: Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Chondrilla australiensis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=170360)
 
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

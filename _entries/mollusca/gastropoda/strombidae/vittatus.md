@@ -83,7 +83,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
-**References**
+### References
+
 
 - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 *Preliminary Checklist of The Molluscs of Singapore*

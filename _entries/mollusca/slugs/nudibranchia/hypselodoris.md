@@ -45,7 +45,8 @@ links_references: '**Acknowledgements**Thanks
 
   to Toh Chay Hoon for sorting out the *Hypselodoris* from the
 
-  *Chromodoris* photos. **Links**
+  *Chromodoris* photos. ### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: including
   descriptions and photos of[*Hypselodoris kanga*](http://www.seaslugforum.net/factsheet.cfm?base=hypskang),*[Hypselodoris
@@ -61,7 +62,8 @@ links_references: '**Acknowledgements**Thanks
   Uma Sachidhanandam: photo and distribution of[*Hypselodori bullockii*](http://rmbr.nus.edu.sg/nudibranch/nudipages/bullockii.html)
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
   of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University

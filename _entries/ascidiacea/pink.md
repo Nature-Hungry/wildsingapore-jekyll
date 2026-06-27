@@ -39,12 +39,14 @@ galleries:
     caption: Pulau Semakau South, Oct 18 Photo shared by Chong SiewMin on facebook.
   - url: https://images.naturehungry.sg/ascidiacea/pink/100601slud4718m3.jpg
     caption: Pulau Salu, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - Various *Eudistoma* sp. in the [Family Polycitoridae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Aplo-Polycitoridae)
   on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
-  **References**
+  ### References
+
 
   - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of
   knowledge of ascidian diversity in South China Sea and new records for Singapore*.

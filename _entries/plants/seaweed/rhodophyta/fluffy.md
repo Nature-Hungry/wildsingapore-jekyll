@@ -116,7 +116,8 @@ Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 
 ---
 
-**References**
+### References
+
 
 - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
 *A photographic guide to the marine algae of Singapore*

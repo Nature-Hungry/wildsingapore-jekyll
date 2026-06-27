@@ -105,7 +105,8 @@ galleries:
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/091205pawlks12m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bigfin reef squid (
   *Sepioteuthis lessoniana*
@@ -123,7 +124,8 @@ links_references: '**Links**
   on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 2.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

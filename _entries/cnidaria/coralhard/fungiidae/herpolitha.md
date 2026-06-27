@@ -77,7 +77,8 @@ galleries:
     caption: Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on his flickr
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/herpolitha/100130brklks14m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -97,7 +98,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
 

@@ -116,7 +116,8 @@ galleries:
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/pictor/091205sudjk4m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
 
@@ -142,7 +143,8 @@ links_references: '**Links**
   Crabs of Japan, on Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Chou, L. M., 1998.
 
@@ -227,7 +229,9 @@ of Singapore! There are several documented deaths caused by eating this crab. Co
 **How to stay safe:**
 Do not touch the crab.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This crab is listed as 'Endangered' on the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -48,7 +48,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/macrurus/090510sntik6m6l.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Strap-weed file-fish (
   *Pseudomonacanthus macrurus*
@@ -68,7 +69,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Kuiter, Rudie H. 2002.
 

@@ -34,7 +34,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg
     caption: Spotted sicklefish ( Drepane punctata ) Adults removed from fish net
       Chek Jawa, May 16 Photo shared by Ivan Kwan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spotted Sicklefish (
   *Drepane punctata*

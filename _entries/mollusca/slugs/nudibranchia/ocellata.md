@@ -43,7 +43,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

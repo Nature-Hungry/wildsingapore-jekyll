@@ -36,7 +36,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks1.JPG
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Ceratocarcinus longimanus](http://www.sealifebase.org/country/CountrySpeciesSummary.php?c_code=702&Genus=Ceratocarcinus&Species=longimanus)*
 
@@ -63,7 +64,8 @@ links_references: '**Links**
   on NParks Flora and Fauna: fact sheet with photos.
 
 
-  **References**
+  ### References
+
 
   - Tan, H. H., 2012.
 
@@ -116,7 +118,9 @@ species and
 
 Body width 1cm. Body somewhat hexagonal, with long legs and long narrow pincers. Its colours and patterns usually perfectly match its feather star host. Usually, only crab is found in each feather star.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our
 *Harrovia*
 species are listed as 'Critically Endangered' on the Red List of threatened animals of Singapore. As it is only found in feather stars, it depends on protection of our reefs. According to Dr Tan Heok Hui,

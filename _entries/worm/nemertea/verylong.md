@@ -97,14 +97,16 @@ galleries:
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/worm/nemertea/verylong/091204pawjk8m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Baseodiscus quinquelineatus*](http://www.sealifebase.org/summary/Baseodiscus-quinquelineatus.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 

@@ -32,7 +32,8 @@ galleries:
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa racemosa*
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   : technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

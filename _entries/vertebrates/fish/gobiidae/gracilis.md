@@ -34,7 +34,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gracilis/090114labd5309m6l.jpg
     caption: Large gap between the first dorsal fin and second dorsal fin Labrador,
       Jan 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Periophthalmus gracilis*](http://www.mudskipper.it/SpeciesPages/grac.html)
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   : photo and fact sheet
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

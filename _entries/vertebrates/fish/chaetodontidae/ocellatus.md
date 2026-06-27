@@ -95,7 +95,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/ocellatus/251008bbblvo2.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Lon Voon Ong on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Kite butterflyfish (
   *Parachaetodon ocellatus*
@@ -133,7 +134,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Jianlin Liu & Ria Tan.
 

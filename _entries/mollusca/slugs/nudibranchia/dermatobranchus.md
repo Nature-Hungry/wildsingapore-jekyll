@@ -88,7 +88,8 @@ galleries:
     caption: Pulau Berkas, May 10 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dermatobranchus/220102biolks6.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -99,7 +100,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -1,6 +1,6 @@
 ---
-title: 'Honey-comb hexagonal  corals '
-description: Fact sheet of Honey-comb hexagonal  corals  on the shores of Singapore
+title: 'Honey-comb hexagonal corals '
+description: Fact sheet of Honey-comb hexagonal corals  on the shores of Singapore
 keywords: coral, hard, merulinidae, faviidae, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

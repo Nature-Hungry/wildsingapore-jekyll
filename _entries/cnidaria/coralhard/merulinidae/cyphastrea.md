@@ -1,6 +1,6 @@
 ---
-title: Meteor  coral
-description: Fact sheet of Meteor  coral on the shores of Singapore
+title: Meteor coral
+description: Fact sheet of Meteor coral on the shores of Singapore
 keywords: coral, hard, merulinidae, cyphastrea, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -18,7 +18,8 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 coverimg: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)with species
   factsheets.
@@ -39,7 +40,8 @@ links_references: '**Links**
   Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.*An
   inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*(pdf).

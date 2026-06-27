@@ -22,7 +22,8 @@ order: Santalales
 inat_id: 83832
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/coastal/ximenia/americana/090412hntd9842m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Ximenia americana](http://floraofsingapore.wordpress.com/2010/06/20/ximenia-americana/)*on
   Total Vascular Flora of Singapore Online: photos and fact sheet.

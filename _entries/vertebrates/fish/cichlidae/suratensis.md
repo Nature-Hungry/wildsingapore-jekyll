@@ -31,7 +31,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/cichlidae/suratensis/251108ecpblks17.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Green chromide (
   *Etroplus suratensis*
@@ -60,7 +61,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui and Lionel Ng Chin Soon. 28 Oct 2016.
 

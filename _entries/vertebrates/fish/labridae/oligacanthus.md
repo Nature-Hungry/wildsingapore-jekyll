@@ -32,7 +32,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg
     caption: Changi Carpark 7, May 21 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [White-patch tuskfish (
   *Choerodon oligacanthus*
@@ -49,7 +50,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Marcus F. C. Ng. 31 Oct 2017.
 

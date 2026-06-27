@@ -40,7 +40,8 @@ galleries:
     caption: Chek Jawa, Dec 16 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/assimineidae/assimineidae/260218merqo3.jpg
     caption: Marina East, Feb 26 Photo shared by Rui Quan Oh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Red berry snail (
   *Sphaerassiminea miniata*
@@ -72,7 +73,8 @@ links_references: '**Links**
   2020: 11-12 ISSN 2345-7597, National University of Singapore.
 
 
-  **References**
+  ### References
+
 
   - Chan Sow-Yan & Lau Wing Lup. 27 March 2020.
 

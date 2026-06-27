@@ -1,5 +1,5 @@
-<div class="trivia-box">
-    <h4 class="trivia-box-title">{{include.title}}</h4>
+<fieldset class="trivia-box">
+    <legend class="trivia-box-title">{{include.title}}</legend>
     <ul>
         {% for item in include.items %}
         <li class="trivia-box-item">
@@ -7,4 +7,4 @@
         </li>
         {% endfor %}
     </ul>
-</div>
+</fieldset>

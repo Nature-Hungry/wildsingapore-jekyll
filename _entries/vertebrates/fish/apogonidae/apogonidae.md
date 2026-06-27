@@ -39,7 +39,8 @@ galleries:
     caption: Orbicular cardinalfish
   - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg
     caption: Black cardinalfish
-links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
+links_references: "### Links
+\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
   . Singapore Science Centre. 163 pp.\n- Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A\
   \ Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)\n\
@@ -47,7 +48,8 @@ links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.\n- [Cardinalfishes](http://ikanfish.wordpress.com/cardinalfishes/)\n\
   on Reef Fishes of Singapore by Jeffrey Low.\n- [Family Apogonidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=304)\n\
   from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family,\
-  \ including fact sheets on individual species.\n\n**References**\n- Daisuke Taira.\
+  \ including fact sheets on individual species.\n\n### References
+\n- Daisuke Taira.\
   \ 30 November 2020.\n*Tiny cardinalfish, Ostorhinchus nanus, off Kusu Island*\n\
   . Singapore Biodiversity Records 2020: 207-208. The National University of Singapore.\n\
   - Tan Heok Hui & Kelvin K. P. Lim. 27 March 2020.\n*New record of the Cook\u2019\

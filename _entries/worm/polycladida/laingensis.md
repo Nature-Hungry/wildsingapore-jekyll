@@ -70,9 +70,11 @@ galleries:
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/worm/polycladida/laingensis/150606tryrl2m3.jpg
     caption: Terumbu Raya, Jun 15 Photo shared by Russel Low on facebook .
-links_references: "**Links**\n- [*Pseudoceros laingensis*](http://polycladida.lifedesks.org/pages/3101)\n\
+links_references: "### Links
+\n- [*Pseudoceros laingensis*](http://polycladida.lifedesks.org/pages/3101)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n**References**\n- *[Mating behavior, spawning, parental care, and embryonic\
+  \ sheet.\n\n### References
+\n- *[Mating behavior, spawning, parental care, and embryonic\
   \ development of some marine pseudocerotid flatworms (Platyhelminthes: Rhabditophora:\
   \ Polycladida) in Singapore](https://doi.org/10.1111/ivb.12293)*\n. Samantha Jia\
   \ Wen Tong and Rene S.L. Ong. 27 June 2020. Invertebrate Biology.\n- Rene S.L. Ong\

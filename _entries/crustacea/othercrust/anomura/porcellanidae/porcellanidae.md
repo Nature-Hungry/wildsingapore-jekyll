@@ -52,7 +52,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/others/200705kusjll5.jpg
     caption: Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Porcelain Crab (
   *Petrolisthes*
@@ -90,7 +91,8 @@ links_references: '**Links**
   Crustaceana Vol. 40, No. 3 (May, 1981), pp. 307-310.
 
 
-  **References**
+  ### References
+
 
   - M. Osawa & P. K. L. Ng. 29 June 2016.
 
@@ -181,7 +183,9 @@ Some porcelain crabs live with other animals. One kind of porcelain crab lives o
 [a shell occupied by a hermit crab](../hermit/clibanarius)
 , with tubeworms, in the siphons of bivalves, among the tentacles of sea anemones, on or inside sponges, or up the backside of a sea cucumber!
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our porcelain crabs listed among the threatened animals of Singapore.
 However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 

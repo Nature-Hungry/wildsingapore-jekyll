@@ -53,9 +53,11 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
     caption: ''
-links_references: "**Links**\n- [Family Synaptidae](http://species-identification.org/species.php?species_group=nasc&id=6&menuentry=groepen)\n\
+links_references: "### Links
+\n- [Family Synaptidae](http://species-identification.org/species.php?species_group=nasc&id=6&menuentry=groepen)\n\
   in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical\
-  \ fact sheet.\n\n**References**\n- J. Y. Ong, I. Wirawati & H. P. S. Wong. 29 June\
+  \ fact sheet.\n\n### References
+\n- J. Y. Ong, I. Wirawati & H. P. S. Wong. 29 June\
   \ 2016.\n*Sea cucumbers (Echinodermata: Holothuroidea) collected from the Singapore\
   \ Strait*\n. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II)\
   \ Pp. 666-717.\n- P. M. O\u2019Loughlin and Ong J. Y.\n*New tropical caudinid and\

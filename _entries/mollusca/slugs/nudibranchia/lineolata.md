@@ -125,7 +125,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/lineolata/210502tptvc3.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -144,7 +145,8 @@ links_references: '**Links**
   *[Chromodoris lineolata](http://rmbr.nus.edu.sg/nudibranch/nudipages/lineolata.html)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

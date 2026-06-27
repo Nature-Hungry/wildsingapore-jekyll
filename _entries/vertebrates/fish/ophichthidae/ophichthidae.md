@@ -27,7 +27,8 @@ galleries:
     caption: Evermann's snake-eel
   - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg
     caption: Mangrove snake-eel
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Green worm-eel (
   *Muraenichthys*
@@ -100,7 +101,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

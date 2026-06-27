@@ -42,7 +42,8 @@ galleries:
     caption: Lazarus Island, Dec 06
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/scaly/070303sjig7848m3.jpg
     caption: St. John's Island, Mar 07
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Peyssonnelia inamoena*](http://www.algaebase.org/search/species/detail/?species_id=1670)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

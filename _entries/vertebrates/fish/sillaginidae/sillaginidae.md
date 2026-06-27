@@ -60,7 +60,8 @@ galleries:
     caption: Pulau Semakau, Aug 14 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/sillaginidae/sillaginidae/110830cyrlks3m3.jpg
     caption: Cyrene Reef, Aug 11 Photo shared by Lok Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pasir or Silver Sand Whiting (
   *Sillago sihama*
@@ -109,7 +110,8 @@ links_references: '**Links**
   Museum, Tokyo website: factsheets with photos and descriptions.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -201,7 +203,9 @@ They eat small animals found on the sea bottom such as worms, small shrimps and 
 
 In some places, they are highly valued as seafood and some species are important in fish farming. They are sold fresh or frozen.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our whitings are not listed among the threatened animals of Singapore. But l
 ike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-fishing can also have an impact on local populations.
 

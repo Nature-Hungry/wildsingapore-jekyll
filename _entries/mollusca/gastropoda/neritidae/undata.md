@@ -51,7 +51,8 @@ galleries:
     caption: Lazarus Island, Feb 11 Photo shared by Rene Ong on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/undata/251009sjirk2.jpg
     caption: St John's Island, Oct 25 Photo shared by Richard Kuah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Waved nerite (
   *Nerita undata*
@@ -75,7 +76,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

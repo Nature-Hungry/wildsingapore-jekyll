@@ -53,7 +53,8 @@ galleries:
     caption: Slender mudskipper
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
     caption: Dusky-gilled mudskipper
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106)
 
@@ -88,7 +89,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009.
 
@@ -194,7 +196,9 @@ The
 [Giant mudskipper](schlosseri)
 is eaten in some places such as Taiwan. They are caught with nets strung at ground level, or with cast-nets.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Giant mudskipper is listed among the threatened animals of Singapore, mainly due to habitat loss. Our other mudskippers are not listed as endangered. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 
 ---

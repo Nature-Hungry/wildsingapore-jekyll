@@ -33,7 +33,8 @@ galleries:
     caption: Branching horn coral
   - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/hydbranch/040705sisd2233m3.jpg
     caption: Branching horn coral
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Hydnophora exesa](http://coral.aims.gov.au/speciesPages/species_metadata/0215/view#)*
 
@@ -66,7 +67,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -120,7 +122,9 @@ These hard corals with conical bumps are sometimes seen on some of our Southern 
 
 Colonies seen about 15-20cm across, sometimes 50cm in undisturbed shores. The unique feature of these corals are the small conical mounds (0.5cm or smaller), called monticules (also hydnae or hydnophores), that form where the corallite walls of adjacent polyps fuse together. Polyps have short blunt tentacles that surround the base of each monticule. The tentacles that are usually extended only at night. Colours seen include blue and brown.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our horn corals are not listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.
 
 ![](https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg)

@@ -31,13 +31,15 @@ galleries:
     caption: Orange signaller crab
   - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
     caption: Paddler crab
-links_references: "**Links**\n- [Paddler crab (\n*Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046)\n\
+links_references: "### Links
+\n- [Paddler crab (\n*Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046)\n\
   ,\n[Orange signaller crab (\n*Metaplax elegans*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2051)\n\
   Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
   \ (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science\
   \ Centre. 168 pp.\n- [*Varuna litterata*](http://mangrove.nus.edu.sg/pub/seashore/text/197)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
-  . The Singapore Science Centre, Singapore. 160 pp.\n\n**References**\n- Tan Heok\
+  . The Singapore Science Centre, Singapore. 160 pp.\n\n### References
+\n- Tan Heok\
   \ Hui. 5 December 2014.\n*Chinese mitten crab at West Coast marsh pond, Eriocheir\
   \ sinensis*\n. Singapore Biodiversity Records 2014: 313.\n- Bi Wei Low, Ngan Kee\
   \ NG, Darren CJ Yeo. February 2013.\n*First record of the invasive Chinese mitten\

@@ -149,7 +149,8 @@ from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Thr
 **Acknowledgement**
 Grateful thanks to Toh Chay Hoon for finding and identifying nudibranchs that eat these corals.
 
-**References**
+### References
+
 - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
 *The Singapore Red Data Book: Threatened plants and animals of Singapore*
 . 3rd edition. National Parks Board. 663 pp.

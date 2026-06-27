@@ -70,7 +70,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dactylomela/250403smksrk4.jpg
     caption: Two side-by-side Pulau Semakau South, Apr 25 Photo shared by Richard
       Kuah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
 
@@ -85,7 +86,8 @@ links_references: '**Links**
   *[Aplysia dactylomela](http://slugsite.us/bow/nudwk174)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

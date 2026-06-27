@@ -30,14 +30,16 @@ galleries:
     caption: Sentosa, Mar 09
   - url: https://images.naturehungry.sg/plants/coastal/eurycoma/longifolia/100420sntd1561m3.jpg
     caption: Sentosa, Apr 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Eurycoma longifolia*](https://singapore.biodiversity.online/taxo4254/mainSpace/Eurycoma%20longifolia.html)
 
   (Sapindales: Simaroubaceae) Tongkat Ali by Seah Wei Wei, 2013 on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -96,7 +98,9 @@ A small tree or a shrub (2-3m tall) with an umbrella-like rosette of leaves at t
 
 The tree has many traditional medicinal uses. According to Corners, the bark and especially the roots are 'exceedingly bitter' and the bark was used as one of the native remedies for malaria. According to Burkill, the bark is also used in a tonic for after childbirth. It is also pounded and used externally for headaches, wounds, ulcers and sores.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore. Elsewhere, the plant is also threatened by over-collection for the traditional herbal trade.
 
 ![](https://images.naturehungry.sg/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg)

@@ -45,7 +45,8 @@ galleries:
     caption: Changi East, Jun 23 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Smallhead dragonet (
   *Callionymus erythraeus*
@@ -65,7 +66,8 @@ links_references: '**Links**
   on Ecology Asia: Fact sheet with photos.
 
 
-  **References**
+  ### References
+
 
   - Ng, H. H., 2012.
 

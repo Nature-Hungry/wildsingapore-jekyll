@@ -30,7 +30,8 @@ galleries:
     caption: Changi, Jun 10
   - url: https://images.naturehungry.sg/plants/seaweed/cyanobacteria/cyanobacteria/100613sngd5640m3.jpg
     caption: Pulau Senang, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Introduction to Cyanobacteria](http://www.ucmp.berkeley.edu/bacteria/cyanointro.html)
 
@@ -60,7 +61,8 @@ links_references: '**Links**
   in Australia is one of the few places where you can see living stromatolites.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

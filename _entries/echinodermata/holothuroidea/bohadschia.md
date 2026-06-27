@@ -99,7 +99,8 @@ galleries:
   gallery14:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/bohadschia/220201brklks2.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Bohadschia vitiensis*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=83484)
 
@@ -123,7 +124,8 @@ links_references: '**Links**
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

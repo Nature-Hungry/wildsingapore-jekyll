@@ -56,7 +56,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histophorus/100110cjjk2.jpg
     caption: Chek Jawa, Jan 10 Photo shared by James Koh on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Scartelaos histophorus*](http://www.mudskipper.it/SpeciesPages/hist.html)
 
@@ -82,7 +83,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

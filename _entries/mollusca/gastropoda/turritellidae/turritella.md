@@ -34,7 +34,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turritellidae/turritella/060626ecpd3524m3.jpg
     caption: East Coast, Jun 06
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Screw turret (
   *Turritella terebra*
@@ -54,7 +55,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -95,7 +97,9 @@ Those seen 5-7cm, can grow to 15-17cm long. Elegant shell with regular spirals w
 
 In the northern Philippines, they are regularly collected and marketed as food.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Turritella terebra*
 is listed as 'Vulnerable' in the Red List of threatened animals of Singapore. In the past it was abundant before its habitat was reclaimed.
 

@@ -53,7 +53,8 @@ galleries:
     caption: Pulau Semakau, Jan 10 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/calcar/240822tsmktt1.jpg
     caption: Terumbu Semakau, Aug 24 Photo shared by Tommy Tan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spurred turban (
   *Astralium calcar*
@@ -73,7 +74,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

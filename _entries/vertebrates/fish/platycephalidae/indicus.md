@@ -46,7 +46,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/240820kusky3.jpg
     caption: Kusu Island, Aug 24 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bartail Flathead (
   *Platycephalus indicus*
@@ -76,7 +77,8 @@ links_references: '**Links**
   of the Western Central Pacific
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

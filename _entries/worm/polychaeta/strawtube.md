@@ -33,7 +33,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/worm/polychaeta/strawtube/171206ubnlks4.jpg
     caption: Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Chaetopteridae](http://rmbr.nus.edu.sg/polychaete/Chaetopteridae.html)
 
@@ -45,7 +46,8 @@ links_references: '**Links**
   sabellids found in Singapore.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

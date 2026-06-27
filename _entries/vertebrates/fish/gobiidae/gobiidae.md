@@ -87,7 +87,8 @@ galleries:
     caption: Java fatnose goby
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg
     caption: Grey knight goby
-links_references: "**Links**\n- [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106)\n\
+links_references: "### Links
+\n- [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106)\n\
   Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
   \ (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science\
   \ Centre. 168 pp.\n- [Gobies, mudskippers and their relatives](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151)\n\
@@ -100,7 +101,8 @@ links_references: "**Links**\n- [Mudskippers](http://mangrove.nus.edu.sg/guidebo
   (Gobies) from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the\
   \ family, including fact sheet on\n[*Trimmatom nanus*](http://www.fishbase.org/summary/SpeciesSummary.php?id=25620)\n\
   the smallest fish and vertebrate\n- [Tiniest reef fishes warn of risks to reefs](http://wildshores.blogspot.com/2009/08/tiniest-reef-fishes-warn-of-risks-to.html)\n\
-  on the wild shores of singapore blog.\n\n**References**\n- Tan Heok Hui & Kelvin\
+  on the wild shores of singapore blog.\n\n### References
+\n- Tan Heok Hui & Kelvin\
   \ K. P. Lim. 31 July 2019.\n*New Singapore record of the goby, Pseudogobius yanamensis*\n\
   . Singapore Biodiversity Records 2019: 88 ISSN 2345-7597, National University of\
   \ Singapore.\n- Daisuke Taira.\n*Decorative lagoon-goby in the Singapore Strait*\n\
@@ -214,7 +216,9 @@ Gobies are generally not eaten, although it is said that large
 [mudskippers](mudskipper)
 are eaten in places like Taiwan. Some of the more colourful gobies are collected for the live aquarium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our gobies are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection by hobbyists can also have an impact on local populations.
 
 ---

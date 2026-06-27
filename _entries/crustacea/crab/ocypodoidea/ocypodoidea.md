@@ -64,7 +64,8 @@ galleries:
     caption: Tiny colourful fiddler crab
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
     caption: Other unidentified fiddler crabs
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Soldier crab (
   *Dotilla myctiroides*
@@ -140,7 +141,8 @@ links_references: '**Links**
   on deposit feeders including crabs.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

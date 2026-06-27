@@ -54,7 +54,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/nebulosus/110517tptlks9m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Shadow goby (
   *Yongeichthys nebulosus*
@@ -83,7 +84,8 @@ links_references: '**Links**
   on NParks Flora and Fauna website.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

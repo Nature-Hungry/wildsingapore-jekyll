@@ -59,7 +59,8 @@ galleries:
     caption: Cyrene, Nov 24 Photo shared by Che Cheng Neo on facebook.
   - url: https://images.naturehungry.sg/ascidiacea/jelly/210501tbvc8.jpg
     caption: Terumbu Bemban, May 21 Photo by Vincent Choo on facebook.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ascidia gemmata*](https://singapore.biodiversity.online/species/A-Tunicata-000001)
   on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.

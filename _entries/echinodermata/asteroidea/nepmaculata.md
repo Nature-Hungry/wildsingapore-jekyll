@@ -83,7 +83,8 @@ for free download
 
 ---
 
-**References**
+### References
+
 - Loisette M. Marsh and Jane Fromont.
 *Field Guide to Shallow Water Seastars of Australia*
 . 2020. Western Australian Museum. 543pp.

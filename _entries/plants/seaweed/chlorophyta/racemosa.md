@@ -43,7 +43,8 @@ galleries:
     caption: Terumbu Berkas, Jan 10
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/racemosa/100810sngd9888m3.jpg
     caption: Pulau Senang, Aug 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa racemosa*](http://www.globinmed.com/index.php?option=com_content&view=article&id=79161:caulerpa-racemosa-forssk-j-agardh-var-laetevirens-mont-weber-bosse&catid=8:botanical-information&Itemid=113)
 
@@ -73,7 +74,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

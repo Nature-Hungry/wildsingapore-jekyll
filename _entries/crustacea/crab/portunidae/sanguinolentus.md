@@ -39,7 +39,8 @@ galleries:
     caption: Kusu Island, Jun 15
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3a.jpg
     caption: Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Blood-spotted swimming crab (
   *Portunus*

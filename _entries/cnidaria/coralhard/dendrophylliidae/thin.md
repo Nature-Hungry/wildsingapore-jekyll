@@ -33,14 +33,16 @@ galleries:
     caption: St. John's Island, Aug 08
   - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/thin/040803tusd3981m3.jpg
     caption: Tuas, Aug 04
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

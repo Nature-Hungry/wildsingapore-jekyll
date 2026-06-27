@@ -21,7 +21,8 @@ order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome.htm)by Dr Bill Rudman: all
   about sea hares, nudibranchs and other sea slugs; including details[*Syphonota geographica*](http://www.seaslugforum.net/factsheet.cfm?base=syphgeog)including[one
@@ -33,7 +34,8 @@ links_references: '**Links**
   Week*[Syphonota geographica](http://slugsite.us/bow/nudwk425.htm)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
   of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University

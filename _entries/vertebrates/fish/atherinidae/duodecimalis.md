@@ -50,7 +50,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tropical Silverside (
   *Atherinomorus duodecimalis*
@@ -121,7 +122,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

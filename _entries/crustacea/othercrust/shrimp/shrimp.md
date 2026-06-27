@@ -26,7 +26,7 @@ galleries:
       backwards.
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
     caption: Red-nose shrimps are also found among seaweeds, and living hard and soft
-      corals.
+     corals.
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
     caption: A tiny transparent commensal shrimp , several seen on a Thorny sea cucumber
       . Beting Bronok, Aug 05
@@ -60,7 +60,8 @@ galleries:
     caption: Saron shrimp
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
     caption: Humpbacked shrimp
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Belachan Shrimp (Family Sergestidae)](http://mangrove.nus.edu.sg/pub/seashore/text/179)
 
@@ -102,7 +103,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -181,7 +183,9 @@ Shrimps and prawns are relished food by people everywhere. In Asia, shrimps are 
 [More about prawn farming](../../../concepts/prawnfarms)
 and trawling.
 ****
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our shrimps and prawns are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are all affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---

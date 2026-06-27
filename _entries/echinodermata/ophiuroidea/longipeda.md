@@ -115,14 +115,16 @@ galleries:
     caption: Terumbu Selegie, Jun 11 Photo shared by Russel Low on facebook .
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/longipeda/220201brkvc1.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Macrophiothrix longipeda*](http://www.sealifebase.org/summary/Macrophiothrix-longipeda.html)
 
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

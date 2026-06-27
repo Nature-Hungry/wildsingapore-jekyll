@@ -77,7 +77,8 @@ galleries:
     caption: Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/140811trylks3m3.JPG
     caption: Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Fan-bellied Filefish (
   *Monacanthus chinensis*
@@ -118,7 +119,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

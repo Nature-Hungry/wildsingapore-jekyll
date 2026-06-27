@@ -33,7 +33,8 @@ galleries:
       Ris, Sep 09
   - url: https://images.naturehungry.sg/plants/mangrove/acrostichum/aureum/090425prpd0411m3.jpg
     caption: Fertile fronds with spores. Pasir Ris, Apr 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Acrostichum aureum](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1535)*
 
@@ -67,7 +68,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Tomlinson, P. B., 1986.
 

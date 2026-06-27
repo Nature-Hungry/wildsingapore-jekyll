@@ -41,7 +41,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ficidae/ficidae/210529ecpgtch2.jpg
     caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Ficidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ficidae.html)
 
@@ -69,7 +70,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

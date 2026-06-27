@@ -41,7 +41,8 @@ galleries:
     caption: Underside.
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
     caption: Mouth on underside.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Banded urchin (
   *Salmacis*

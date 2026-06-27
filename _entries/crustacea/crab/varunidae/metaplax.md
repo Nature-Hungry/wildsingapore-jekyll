@@ -38,7 +38,8 @@ galleries:
     caption: Mandai, Feb 13
   - url: https://images.naturehungry.sg/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg
     caption: Mandai, Feb 13
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Orange signaller crab (
   *Metaplax elegans*
@@ -59,7 +60,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

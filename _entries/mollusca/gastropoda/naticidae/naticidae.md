@@ -111,7 +111,8 @@ galleries:
     caption: Shell of a dead snail Bosom moon snail
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg
     caption: Naked moon snail
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Moon Snail (
   *Polinices*
@@ -152,7 +153,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -287,7 +289,9 @@ When a moon snail dies, its shell is usually quickly taken over by a hermit crab
 
 Some larger moon snail species are sold as food in Asian markets.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our moon snails are listed among the threatened animals in the Red List of threatened animals of Singapore. However, like other creatures of the intertidal zone, the rest of they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---

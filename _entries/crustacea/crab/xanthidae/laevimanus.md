@@ -100,7 +100,8 @@ galleries:
     caption: Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/laevimanus/100613snglks2m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Common Rock Crab (
   *Leptodius*
@@ -118,7 +119,8 @@ links_references: '**Links**
   in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

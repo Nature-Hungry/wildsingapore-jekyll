@@ -60,7 +60,8 @@ galleries:
     caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/dofleinia/241019lazlks9.jpg
     caption: Lazarus Island, Oct 24 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dofleinia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&namesearched=Dofleinia&genus=Dofleinia&subgenus=&correctgenus=Dofleinia&correctsubgenus=)
 
@@ -80,7 +81,8 @@ links_references: '**Links**
   ecology, interaction with humans, other comments.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -136,7 +138,9 @@ the
 [Rough anemone](aspera)
 which has translucent tentacles with small brown spots, dark blotches on the oral disk and rows of white bumps on the body column.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

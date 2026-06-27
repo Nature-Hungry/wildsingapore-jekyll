@@ -44,7 +44,8 @@ galleries:
     caption: East Coast Park, Jul 09 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/skinny/170428ecpcnlks5.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Astrogorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Astrogorgia)
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

@@ -52,7 +52,8 @@ galleries:
     caption: Fluted giant clam
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: Burrowing giant clam
-links_references: "**Links**\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\n\
+links_references: "### Links
+\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [Dr Neo Mei Lin's blog](https://meilin5giantclam.wordpress.com/about-2/)\n\
   about her work on Giant clams.\n- [*Tridacna squamosa*\n(Veneroida: Cardiidae) Fluted\
@@ -72,7 +73,8 @@ links_references: "**Links**\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://ma
   \ Straits Times 21 Apr 12;\n- On wild shores of singapore\n- [Dr Neo Mei Lin's talk\
   \ about Giant clams](https://wildshores.blogspot.com/2020/05/dr-neo-mei-lin-shares-about-giant-clams.html)\n\
   (28 May 2020)\n- [Giant clams eaten to extinction?](http://wildshores.blogspot.com/2008/09/giant-clams-eaten-to-extinction.html)\n\
-  \n**References**\n- Mei Lin Neo and Peter A. Todd. 25 June 2013.\n*Conservation\
+  \n### References
+\n- Mei Lin Neo and Peter A. Todd. 25 June 2013.\n*Conservation\
   \ Status Reassessment of Giant Clams (Mollusca: Bivalvia: Tridacninae) in Singapore*\n\
   . Nature in Singapore 2013 6: 125\u2013133\n- Mei Lin Neo, Paul L. A. Erftemeijer,\
   \ Jan K. L. van Beek, Dirk S. van Maren, Serena L-M. Teo, Peter A. Todd. 13 March\
@@ -150,7 +152,9 @@ It is a mistaken belief that divers can be trapped underwater if the giant clam 
 
 Giant clams are considered a delicacy and in some places, an aphrodisiac. The large shells of these magnificent creatures are often turned into tacky souvenirs like ash-trays. There are efforts to cultivate giant clams on a commercial basis so as to reduce over-collection of wild clams.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Giant clams have been listed in CITES Appendix II since 1985. The
 [Fluted giant clam](squamosa)
 (*Tridacna squamosa*) is listed as 'Endangered' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Large specimens have virtually disappeared from our shores. Young specimens are occasionally but infrequently seen". Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.

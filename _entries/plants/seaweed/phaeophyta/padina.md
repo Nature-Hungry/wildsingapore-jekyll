@@ -59,7 +59,8 @@ galleries:
     caption: Terumbu Berkas, Jan 10
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/100810sngd9917m3.jpg
     caption: Pulau Senang, Aug 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Padina pavonea*](http://www.mesa.edu.au/friends/seashores/p_pavonea.html)
 
@@ -90,7 +91,8 @@ links_references: '**Links**
   : Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

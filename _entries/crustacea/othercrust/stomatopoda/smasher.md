@@ -75,7 +75,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/smasher/250712tpljt4.jpg
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Jonathan Tan on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Order Stomatopoda](http://mangrove.nus.edu.sg/pub/seashore/text/217)
 
@@ -90,7 +91,8 @@ links_references: '**Links**
   on SeaLife Base.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

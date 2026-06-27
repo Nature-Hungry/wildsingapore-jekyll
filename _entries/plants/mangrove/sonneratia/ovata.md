@@ -40,7 +40,8 @@ galleries:
       Jun 11
   - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg
     caption: Calyx lobes clasp the fruit. Pulau Ubin, Apr 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Sonneratia ovata](http://floraofsingapore.wordpress.com/2010/06/27/sonneratia-ovata/)*
 
@@ -77,7 +78,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -153,7 +155,9 @@ and
 
 According to Ng, the fruit is eaten. As a result, the tree is often cultivated in Malay villages.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg)

@@ -84,7 +84,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/menippidae/hardwickii/181125tptrk.jpg
     caption: Terumbu Pempang Tengah, Nov 18 Photo shared by Richard Kuah on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Stone Crab (
   *Myomenippe hardwicki*
@@ -136,7 +137,8 @@ links_references: '**Links**
   by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Jonathan Tan Yong How. 30 Dec 2016.
 

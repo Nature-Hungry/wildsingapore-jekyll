@@ -44,7 +44,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/concolor/080819cymn.jpg
     caption: Cyrene, Aug 08 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Unicolor snake moray (
   *Uropterygius concolor*

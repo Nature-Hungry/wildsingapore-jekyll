@@ -78,7 +78,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/intecta/250515tpttl3.jpg
     caption: Terumbu Pempang Tengah, May 25 Photo shared by Tammy Lim on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -87,7 +88,8 @@ links_references: '**Links**
   [*Atagema intecta*](http://www.seaslugforum.net/find/tripinte)
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -65,14 +65,16 @@ galleries:
     caption: Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/echinodermata/crinoidea/purpurea/110814smklks3.JPG
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Comatula purpurea*](http://www.sealifebase.org/summary/Comatula-purpurea.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

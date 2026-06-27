@@ -41,7 +41,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg
     caption: Lim Chu Kang, Apr 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Xylocarpus granatum*](http://floraofsingapore.wordpress.com/2010/12/26/xylocarpus-granatum/)
 
@@ -80,7 +81,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

@@ -39,7 +39,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/knobbly/160806tpllks7.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Carijoa*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Carijoa)
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

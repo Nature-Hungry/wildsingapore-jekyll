@@ -78,14 +78,16 @@ galleries:
     caption: Beting Bronok, May 09 Photo shared by Marcus Ng on his flickr .
   - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/upogebiidae/250727smkwml3.jpg
     caption: Pulau Semakau (West), Jul 25 Photo shared by Mathias Luk on fcebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Upogebiidae](http://species-identification.org/species.php?species_group=lobsters&id=13&menuentry=groepen)
 
   on Marine Lobsters of the World on Marine Species Identification Portal.
 
 
-  **References**
+  ### References
+
 
   - Kyoko Kinoshita
 

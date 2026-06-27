@@ -38,7 +38,8 @@ galleries:
     caption: Pulau Ubin, Oct 03
   - url: https://images.naturehungry.sg/plants/fruittrees/durio/zibethinus/031011ubnd0019m3.jpg
     caption: Pulau Ubin, Oct 03
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Durio zibethinus*](http://floraofsingapore.wordpress.com/2010/03/29/durio-zibethinus/)
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   booze at the same time can kill!
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

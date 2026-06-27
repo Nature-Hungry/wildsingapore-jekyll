@@ -61,9 +61,11 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/pusilla/210823smkevc2.jpg
     caption: Pulau Semakau (East), Aug 21 Photo shared by Vincent Choo on facebook
       .
-links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+links_references: "### Links
+\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: including descriptions and photos of\n[*Elysiella pusilla*](http://www.seaslugforum.net/showall.cfm?base=elyspus1)\n\
-  \n**References**\n- K. R. Jensen.\n*Sacoglossa (Mollusca: Gastropoda: Heterobranchia)\
+  \n### References
+\n- K. R. Jensen.\n*Sacoglossa (Mollusca: Gastropoda: Heterobranchia)\
   \ from northern coasts of Singapore*\n. 10 July 2015. The Comprehensive Marine Biodiversity\
   \ Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology\
   \ 2015 Supplement No. 31, Pp. 226-249.\n- Kathe R. Jensen. 30 Dec 2009.\n*Sacoglossa\

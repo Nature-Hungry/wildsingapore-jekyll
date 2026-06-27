@@ -42,7 +42,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/porifera/chocolate/100810sngd9991m3.jpg
     caption: Pulau Senang, Aug 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Spheciospongia vagabunda*](http://www.sealifebase.fisheries.ubc.ca/summary/Spheciospongia-vagabunda.html)
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

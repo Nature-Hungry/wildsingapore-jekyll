@@ -18,7 +18,8 @@ genus: Strombus
 species: turturella
 updated: Sep 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Dog conch (*Strombus canarium*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86874)on
   SeaLife Base: Technical fact sheet.
@@ -30,7 +31,8 @@ links_references: '**Links**
   the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
   of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University
@@ -151,7 +153,9 @@ Gong-gong may gather in groups to mate and lay eggs - in fine long strings. Fema
 
 Where common it is commercially harvested for food in many parts of Southeast Asia. In the Philippines, the shells are traditionally used by fishermen as sinkers for nets.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---

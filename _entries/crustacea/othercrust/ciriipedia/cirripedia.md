@@ -61,7 +61,8 @@ galleries:
     caption: Coral barnacles
   - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
     caption: Barnacles in a sponge
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
 
@@ -112,7 +113,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - D. S. Jones & A. M. Hosie. 29 June 2016.
 
@@ -224,7 +226,9 @@ The barnacles' tendency to accumulate heavy metals in their plates, however, mak
 The strong glue that barnacles use to cement themselves to the rock has been studied for use in dentistry for a similar protein cement to fit dentures. The glue has amazing properties: it hardens quickly under water and continues to work under pressure, in strong acids or alkalis and temperatures up to 225degC (440degF). The glue is so strong that even after the barnacle dies, its 'shell' stays stuck to the rock.
 ****
 It is a common misconception that barnacles are used to make the popular local dish of oyster omelette or 'or luak'. The ingredient in that dish is indeed oysters and NOT barnacles.
-**Status and threats:**
+ ## Status and threats
+
+
 Our barnacles are not listed as endangered.
 However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 

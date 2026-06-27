@@ -22,7 +22,8 @@ order: Poales
 inat_id: 360343
 updated: Nov 10
 coverimg: https://images.naturehungry.sg/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Flagellaria indica*](http://floraofsingapore.wordpress.com/2010/06/20/flagellaria-indica/)on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
@@ -34,7 +35,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,*[The Concise Flora of Singapore II:
   Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*Singapore

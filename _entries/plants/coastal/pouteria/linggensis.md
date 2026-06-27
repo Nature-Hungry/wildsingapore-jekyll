@@ -51,7 +51,9 @@ There one of this rare tree on the rocky cliffsides of Chek Jawa, Pulau Ubin and
 
 Tree about 5m. Leaves thin. Flowers tiny (less than 1cm) and cream coloured. Fruits oval, green ripening to purple.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/coastal/pouteria/linggensis/030614cjd0270m6l.jpg)
@@ -65,7 +67,8 @@ It is listed as 'Critically Endangered' in the Red List of threatened plants of 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
-**References**
+### References
+
 
 - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 *The Singapore Red Data Book: Threatened plants and animals of Singapore*

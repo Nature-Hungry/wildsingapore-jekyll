@@ -61,7 +61,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/rockskipper/251011ssisyls9.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Entomacrodus lighti](http://www.fishbase.org/summary/60080)*
 
@@ -72,7 +73,8 @@ links_references: '**Links**
   : Technical fact sheet on the family.
 
 
-  **References**
+  ### References
+
 
   - Marcus F. C. Ng & Kelvin K. P. Lim . 26 June 2015.
 

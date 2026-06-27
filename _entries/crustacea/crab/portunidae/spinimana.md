@@ -119,7 +119,8 @@ galleries:
     caption: Pulau Salu, Aug 21 Photo shared by Loh Kok Sheng on faceboook .
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/091204pawd5289m3.jpg
     caption: Pulau Pawai, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification
   Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
@@ -152,7 +153,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

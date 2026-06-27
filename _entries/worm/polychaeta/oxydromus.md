@@ -27,7 +27,8 @@ galleries:
     caption: Chek Jawa, Dec 25 Photo shared by Kelvin Yong on facebook
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/110830cyrjk6m3.jpg
     caption: . Cyrene Reef, Aug 11 Photo shared by James Koh on his blog
-links_references: '**Links**
+links_references: '### Links
+
 
   - Chee Kong, Chim, Joyce Jia Lin Ong, and Koh Siang, Tan. Oct 2013.
 

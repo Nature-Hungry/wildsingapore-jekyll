@@ -58,7 +58,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Xylocarpus granatum*](http://floraofsingapore.wordpress.com/2010/12/26/xylocarpus-granatum/)
 
@@ -91,7 +92,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -125,7 +127,9 @@ species are not as frequently encountered.
 
 Generally trees, the different species have tiny flowers that appear rather similar. The species are best distinguished by where they are growing, and structures of the leaves, bark, roots and fruits.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Xylocarpus moluccensis*
 is listed as 'Endangered', while
 *Xylocarpus rumphii*

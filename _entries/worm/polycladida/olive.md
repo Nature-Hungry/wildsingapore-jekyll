@@ -61,9 +61,11 @@ galleries:
   gallery8:
   - url: https://live.staticflickr.com/4518/38813741652_69bffb77e9_z.jpg
     caption: ''
-links_references: "**Links**\n- [*Tytthosoceros lizardensis*](http://polycladida.lifedesks.org/pages/3230)\n\
+links_references: "### Links
+\n- [*Tytthosoceros lizardensis*](http://polycladida.lifedesks.org/pages/3230)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  \ sheet.\n\n### References
+\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
   \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125.\n- D. M. Bola\xF1\
   os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\

@@ -32,7 +32,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
-links_references: '**References**
+links_references: '### References
+
 
   - Ng, Angie et. al. 2005.*A guide to the fabulous figs of Singapore*. Singapore
   Science Centre.152 pp.
@@ -73,7 +74,9 @@ var
 *murtoni*
 is a variety of this fig that is said to "yield uncommonly well to tapping". Sadly, Burkill reports this variety had been tapped out of existence in southern Sumatra.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Ficus consociata*
 var
 *murtoni*

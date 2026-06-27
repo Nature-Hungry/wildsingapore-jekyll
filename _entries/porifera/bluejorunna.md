@@ -53,7 +53,8 @@ galleries:
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/porifera/bluejorunna/100530pbklks3m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -68,7 +69,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

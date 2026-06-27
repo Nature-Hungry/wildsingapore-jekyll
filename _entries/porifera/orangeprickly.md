@@ -29,7 +29,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/porifera/orangeprickly/160125obslks2.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Mycale*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Mycale)
 
@@ -40,7 +41,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Swee-Cheng Lim, Nicole J. de Voogd and Koh-Siang Tan.
 

@@ -56,7 +56,8 @@ galleries:
     caption: Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/violaceus/230804ecpcnky4.jpg
     caption: East Coast PCN, Aug 23 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea apples](http://www.advancedaquarist.com/issues/mar2003/invert)
 
@@ -73,7 +74,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 
@@ -120,7 +122,9 @@ This amazing technicolour sea cucumber is sometimes seen on our Northern shores,
 
 These beautiful sea cucumbers unfortunately are harvested for the aquarium trade. Ironically, they do not make good aquarium specimens as they are often toxic to their tank mates.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This sea cucumber is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
 ---

@@ -40,12 +40,14 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/trimaculatus/110508cyrlks2m3.jpg
     caption: Juvenile fish in Giant carpet anemone Cyrene Reef, May 11 Photo shared
       by Loh Kok Sheng on his blog .
-links_references: "**Links**\n- [Threespot dascyllus (\n*Dascyllus trimaculatus*\n\
+links_references: "### Links
+\n- [Threespot dascyllus (\n*Dascyllus trimaculatus*\n\
   )](http://www.fishbase.org/summary/speciessummary.php?id=5112)\nfrom\n[FishBase](http://www.fishbase.org/)\n\
   : fact sheet\n- [*Dascyllus trimaculatus*](http://www.nhm.ku.edu/inverts/ebooks/ch2.html#trima)\n\
   from the\n[the Field Guide to Anemone Fishes and their host Sea Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)\n\
   by Dr Daphne G. Fautin and Dr Gerald R. Allen: brief fact sheet with photo.\n\n\
-  **References**\n- Jeffrey K. Y. Low. 2013.\n*More noteworthy fishes observed in\
+  ### References
+\n- Jeffrey K. Y. Low. 2013.\n*More noteworthy fishes observed in\
   \ the Singapore Straits*\n. Nature in Singapore, 6: 31\u201337.\n- Allen, Gerry,\
   \ 2000.\n*Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*\n\
   . Periplus Editions. 292 pp.\n- Lieske, Ewald and Robert Myers. 2001.\n*Coral Reef\

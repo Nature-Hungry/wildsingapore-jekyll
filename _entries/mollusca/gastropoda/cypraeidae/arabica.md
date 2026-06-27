@@ -125,7 +125,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/arabica/210428slulks2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Arabian cowrie (
   *Cypraea arabica*
@@ -152,7 +153,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -230,7 +232,9 @@ It is collected for food by coastal dwellers and the shell is used for shellcraf
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Status and threats:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+
+
 It is listed as 'Vulnerable' on the Red List of threatened animals of Singapore, due to habitat loss and overcollection. According to the Singapore Red Data Book: although "specimens can still be found they are much less abundant than in the 1960's."
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

@@ -33,7 +33,8 @@ galleries:
     caption: Nymph of Giant shield bug ( Pycanum sp) . Pulau Ubin, Feb 04
   - url: https://images.naturehungry.sg/insecta/pycanum/040214ubnd0082m3.jpg
     caption: . Adult Giant shield bug ( Pycanum sp.). Pulau Ubin, Feb 04
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dillenia suffruticosa*](http://floraofsingapore.wordpress.com/2010/08/21/dillenia-suffruticosa/)
 
@@ -49,7 +50,8 @@ links_references: '**Links**
   (Dilleniales: Dilleniaceae) Simpoh Air by Lee Min Jue Vanessa, 2014, on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

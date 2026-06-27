@@ -42,14 +42,16 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/patelloida/160610jngmn.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Patelloida saccharinoides*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=100860)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

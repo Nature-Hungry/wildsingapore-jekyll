@@ -59,7 +59,8 @@ galleries:
     caption: Changi, Jun 05
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/100516skdd2640m3.jpg
     caption: Pulau Sekudu, May 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Veretillidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Veretillidae)
 
@@ -86,7 +87,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Erhardt, Harry and Daniel Knop. 2005.
 

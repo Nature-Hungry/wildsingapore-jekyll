@@ -44,7 +44,8 @@ galleries:
     caption: Chek Jawa, Jun 02
   - url: https://images.naturehungry.sg/plants/coastal/memecylon/edule/091005cjd2287m3a.jpg
     caption: Leaves dip in seawater at high tide. Chek Jawa, Oct 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Memecylon edule*](http://floraofsingapore.wordpress.com/2010/08/10/memecylon-edule/)
 
@@ -55,7 +56,8 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -115,7 +117,9 @@ Fruit globular (1cm), green ripening to pinkish then yellow and black.
 
 According to Burkill, the wood is very hard and heavy and good for house posts, rafters. It is an excellent fuel and makes good charcoal. After cutting, the stump coppices well. The fruit is said to be 'just edible'. In India, the leaves were used for a yellow dye. The leaves are part of a 'decoction of considerable reputation' in India for the treatment of gonorrhoea. The bark is used to poultice bruises.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

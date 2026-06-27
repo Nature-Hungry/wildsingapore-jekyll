@@ -32,7 +32,8 @@ galleries:
     caption: Chek Jawa, Dec 01 Hoya verticillata
   - url: https://images.naturehungry.sg/plants/mangrove/hoya/verticillata/030517cjad0042m6.jpg
     caption: Fruits. Chek Jawa, May 03
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Hoya diversifolia*](http://floraofsingapore.wordpress.com/2010/07/25/hoya-diversifolia/)
 
@@ -58,7 +59,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -110,7 +112,9 @@ are vines, those in our mangroves are climbing twining vines that can be many me
 
 According to Burkill, uses include the latex to stimulate digestion. According to Hugh Tan, the poisonous latex is used in Malaysia to ease painful catfish stings, in hot baths to treat rheumatism and to cure coughs and asthma.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Many of our hoyas are listed in the Red List of threatened plants of Singapore. The mangrove
 *Hoya diversifolia*
 is listed as 'Critically Endangered'.

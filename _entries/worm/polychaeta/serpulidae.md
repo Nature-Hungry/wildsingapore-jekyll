@@ -26,7 +26,8 @@ galleries:
     caption: Growing on a fan shell . Pulau Sekudu, Jun 06
   - url: https://images.naturehungry.sg/worm/polychaeta/serpulidae/080731chgd8492m3.jpg
     caption: Growing on a shell occupied by a hermit crab . Changi, Jul 08
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Keelworm (Family Serpulidae)](http://mangrove.nus.edu.sg/pub/seashore/text/126)
 
@@ -64,7 +65,8 @@ links_references: '**Links**
   photos of the worm out of its tube.
 
 
-  **References**
+  ### References
+
 
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
 

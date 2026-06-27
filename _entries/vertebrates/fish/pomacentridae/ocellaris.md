@@ -135,7 +135,8 @@ galleries:
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/100612sngmn.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Clown Anemonefish (
   *Amphiprion ocellaris*
@@ -186,7 +187,8 @@ links_references: '**Links**
   - [Wiggly ''Nemos'' help sea anemones oxygenate at night](http://wildshores.blogspot.sg/2013/02/wiggly-nemos-help-sea-anemones.html)
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -279,7 +281,9 @@ Unfortunately, these fishes are taken in large numbers from the wild for the aqu
 
 There have been some success in breeding anemonefish for the aquarium trade. Although captive bred anemonefish are hardier, they are more expensive. Harvesting from the wild will probably continue so long as there are unscrupulous traders and aquarists.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Clown anemonefish is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book, "habitat protection and strict policing against illegal collection are required" to conserve our anemonefishes.
 
 ---

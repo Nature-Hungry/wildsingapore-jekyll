@@ -50,14 +50,16 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/gracilis/210628ecpBvc6.jpg
     caption: East Coast Park (B), Jun 21 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Cypraea gracilis](http://www.sealifebase.fisheries.ubc.ca/summary/Cypraea-gracilis.html)*
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

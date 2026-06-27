@@ -103,7 +103,8 @@ galleries:
     caption: Pulau Hantu, Apr 12 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/crustacea/crab/majoidea/retusa/140715tryhpy.jpg
     caption: Terumbu Raya, Jul 14 Photo shared by Heng Pei Yan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188)
 
@@ -134,7 +135,8 @@ links_references: '**Links**
   (Decapoda: Inachidae) Velcro crab by Loo Nicolette, 2016, on taxo4254
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
@@ -209,7 +211,9 @@ The attached sponges and algae often continue to grow. Tiny animals might settle
 
 **What does it eat?**
 Relying on its disguise, the crab moves slowly, feeding on small creatures. Its dainty narrow feeding pincers are often the only parts of its body left unadorned.
-**Status and threats:**
+ ## Status and threats
+
+
 This crab is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It is popular in the aquarium trade and the Singapore Red Data Book states that its collection from Singapore should be controlled or stopped.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

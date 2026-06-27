@@ -1,6 +1,6 @@
 ---
-title: 'Lithophyllon mushroom  coral '
-description: Fact sheet of Lithophyllon mushroom  coral  on the shores of Singapore
+title: Lithophyllon mushroom coral
+description: Fact sheet of Lithophyllon mushroom coral  on the shores of Singapore
 keywords: bracket, mushroom, lithophyllon, undulatum, fungidae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
@@ -54,7 +54,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/lithophyllon/120721tptlks.JPG
     caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -74,7 +75,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
 
@@ -141,7 +143,9 @@ May be confused with
 (*Podabacia*
 sp.) which has finer lines with thinner walls.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/)
 .

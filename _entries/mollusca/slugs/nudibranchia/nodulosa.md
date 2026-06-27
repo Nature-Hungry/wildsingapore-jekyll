@@ -65,7 +65,8 @@ galleries:
     caption: Cyrene, Feb 17 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/nodulosa/200126bsisjll2.jpg
     caption: Big Sisters Island, Jan 20 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -78,7 +79,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

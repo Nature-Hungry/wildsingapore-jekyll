@@ -67,7 +67,8 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/beige/110814smklks.JPG
     caption: Pulau Semakau, Aug 11 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Holothuria albiventer*](http://www.sealifebase.org/summary/Holothuria-albiventer.html)
 
@@ -79,7 +80,8 @@ links_references: '**Links**
   fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ong J. Y. & H. P. S. Wong.
 

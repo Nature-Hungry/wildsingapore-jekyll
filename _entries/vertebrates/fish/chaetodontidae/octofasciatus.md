@@ -63,7 +63,8 @@ galleries:
     caption: Raffles Lighthouse, Jan 22 Photo shared by Dayna Cheah on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/octofasciatus/091205sudtch2m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Eight-banded butterflyfish (
   *Chaetodon octofasciatus*
@@ -97,7 +98,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Kuiter, Rudie H. 2002.
 
@@ -145,7 +147,9 @@ To about 12cm. Body flat, circular disk-shaped, snout slightly pointed. 8 black 
 **What does it eat?**
 According to FishBase, it eats only coral polyps. But the IUCN Red List says there are currently no data on its diet, but it is strongly coral dependent.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Unfortunately these beautiful fishes are popular in the live aquarium trade although they are considered difficult to keep and feed. It is said it often starves to death when in captivity.
 
 ---

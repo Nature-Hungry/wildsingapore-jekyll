@@ -53,7 +53,8 @@ galleries:
     caption: Pulau Semakau, Jul 15 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/horrens/150719smklks3.JPG
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stichopus horrens (*
 

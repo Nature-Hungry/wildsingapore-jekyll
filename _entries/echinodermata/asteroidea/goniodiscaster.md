@@ -46,14 +46,16 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/goniodiscaster/081114cyrlks01m3.jpg
     caption: Cyrene Reef, Nov 08 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Goniodiscaster scaber*](http://www.sealifebase.org/summary/Goniodiscaster-scaber.html)
 
   on SeaLife Base: Technical fact sheet
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

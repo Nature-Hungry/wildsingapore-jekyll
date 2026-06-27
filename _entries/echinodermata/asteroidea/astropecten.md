@@ -19,7 +19,8 @@ superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
 coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/080702prpd6358m3.jpg
-links_references: "**Links**\n- [Sand star (*Astropecten*sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm)Tan,\
+links_references: "### Links
+\n- [Sand star (*Astropecten*sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- *[Astropecten bengalensis](http://www.sealifebase.fisheries.ubc.ca/summary/Astropecten-bengalensis.html)*and[*Astropecten\
   \ indicus*](http://www.sealifebase.org/summary/Astropecten-indicus.html)from Sealife\
@@ -27,7 +28,8 @@ links_references: "**Links**\n- [Sand star (*Astropecten*sp.)](http://mangrove.n
   \ Apart Sand Stars: Archaster vs. Astropecten! Two Common Trade Species](http://echinoblog.blogspot.sg/2011/04/telling-apart-sand-stars-archaster-vs.html)\n\
   \ - [What are the FASTEST known Starfish??](http://echinoblog.blogspot.sg/2012/07/what-are-fastest-known-starfish.html)\n\
   \ - [SAND ANGELS! Astropecten The starfish that dig it!](http://echinoblog.blogspot.sg/2013/12/sand-angels-astropectnen-starfish-that.html)\n\
-  \n**References**\n- Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water\
+  \n### References
+\n- Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water\
   \ Seastars of Australia*. 2020. Western Australian Museum. 543pp\n\n- K. S. Loh\
   \ . 31 Aug.2011.*Diet and feeding in the sea star Astropecten indicus (Doderlein,\
   \ 1888)*. The Raffles Bulletin of Zoology 2011 59 (2): 251-258 and Loh Kok Sheng's[blog\

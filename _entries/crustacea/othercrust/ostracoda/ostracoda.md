@@ -19,7 +19,8 @@ galleries:
     caption: Eating or being eaten by a worm? Pulau Sekudu, Aug 05
   - url: https://images.naturehungry.sg/crustacea/othercrust/ostracoda/ostracoda/050722cjg9869m3.jpg
     caption: Again seen with a worm. Chek Jawa, Jul 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mussel shrimps (Ostracoda)](http://mangrove.nus.edu.sg/pub/seashore/text/176)
 
@@ -42,7 +43,8 @@ links_references: '**Links**
   website: fossil record, life history and ecology, systematics and more on morphology.
 
 
-  **References**
+  ### References
+
 
   - Jones Diana S. and Gary J. Morgan, 2002.
 

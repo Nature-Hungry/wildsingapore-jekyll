@@ -96,7 +96,8 @@ galleries:
   gallery14:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pavona/210428slulks12.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -166,7 +167,9 @@ and
 [tiny clams](../../../mollusca/bivalvia/pectinidae/coral)
 are sometimes also seen living among the 'leaves'.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The
 [IUCN global listing](http://www.iucnredlist.org/)
 for the species recorded

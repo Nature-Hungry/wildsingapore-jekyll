@@ -31,7 +31,8 @@ galleries:
       on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turridae/turridae/180616bblks8a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *A turrid shell, Turris undosa, at Lazarus Island*
 
@@ -65,7 +66,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

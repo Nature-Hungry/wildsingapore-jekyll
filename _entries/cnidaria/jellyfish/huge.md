@@ -66,7 +66,8 @@ galleries:
     caption: Pulau Salu, Apr 21
   - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/huge/210428slulks3a.jpg
     caption: Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Scyphozoan website](http://thescyphozoan.ucmerced.edu/)
 

@@ -38,7 +38,8 @@ galleries:
     caption: Kranji Nature Trail, Feb 11
   - url: https://images.naturehungry.sg/plants/coastal/caesalpinia/crista/091115ubnd4176m3.jpg
     caption: Pulau Ubin, Nov 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Caesalpinia crista](http://floraofsingapore.wordpress.com/2010/06/01/caesalpinia-crista/)*
 
@@ -56,7 +57,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -119,7 +121,9 @@ The fruits (4-7cm long) are flat smooth pods (not prickly) with a beak which con
 
 According to Giesen, the seeds are used to treat malaria and parasitic worms. The leaves are used to treat Hepatitis A. The seeds are also used by children as marbles.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This tree is listed as 'Vulnerable' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg)

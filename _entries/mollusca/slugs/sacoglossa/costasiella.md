@@ -26,10 +26,12 @@ superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
 coverimg: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/costasiella/091108hntjk3m3.jpg
-links_references: "**Links**\n- [*Costasiella*\n  sp. 3](http://www.seaslugforum.net/costsp3.htm)\n\
+links_references: "### Links
+\n- [*Costasiella*\n  sp. 3](http://www.seaslugforum.net/costsp3.htm)\n\
   \  and [*Avrainvillea*\n  sp.](http://www.seaslugforum.net/factsheet.cfm?base=avrainvillea)\
   \ on [The Sea Slug\n  Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos\
-  \ and fact sheets.\n\n**References**\n- K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda:\
+  \ and fact sheets.\n\n### References
+\n- K. R. Jensen. *Sacoglossa (Mollusca: Gastropoda:\
   \ Heterobranchia) from northern coasts of Singapore*. 10 July 2015. The Comprehensive\
   \ Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles\
   \ Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.\n- Kathe R. Jensen, Patrick\

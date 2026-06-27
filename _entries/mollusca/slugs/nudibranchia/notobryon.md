@@ -41,7 +41,8 @@ galleries:
     caption: Beting Bronok, May 11 Photo shared by James Koh on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/notobryon/110518bblks6m3.jpg
     caption: Beting Bronok, May 11 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -50,7 +51,8 @@ links_references: '**Links**
   [*Notobryon wardi*](http://www.seaslugforum.net/find/notoward)
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

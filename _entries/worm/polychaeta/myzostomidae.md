@@ -95,7 +95,8 @@ Distribution in Singapore on
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
-**References**
+### References
+
 - Eeckhaut, I. Vandenspiegel, D. and Grygier M.J.
 *Myzostomida (Annelida) from Singapore, with related Indo-Pacific distribution records and descriptions of three new species*
 . Raffles Bulletin of Zoology 1995 42(3): Pp. 669-688

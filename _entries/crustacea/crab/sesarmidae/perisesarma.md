@@ -45,7 +45,8 @@ galleries:
     caption: Kranji Nature Trail, Dec 10
   - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/perisesarma/091226cjd6255m3.jpg
     caption: Chek Jawa, Dec 09
-links_references: "**Links**\n- [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048)\n\
+links_references: "### Links
+\n- [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048)\n\
   Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
   \ (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science\
   \ Centre. 168 pp.\n- [Sesarmine crabs (\n*Episesarma*\nand\n*Chiromantes*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/198)\n\
@@ -64,7 +65,8 @@ links_references: "**Links**\n- [Sesarmine crabs](http://mangrove.nus.edu.sg/gui
   \ crabs](http://wildshores.blogspot.com/2009/04/fascinating-face-banded-sesarmine-crabs.html)\n\
   - [Wild victory dance of crabs on our shores](http://wildshores.blogspot.com/2009/07/wild-victory-dance-of-crabs-on-our.html)\n\
   - [When crabs perform their victory dance](http://wildsingaporenews.blogspot.com/2009/07/when-crabs-perform-their-victory-dance.html)\n\
-  Grace Chua, Straits Times 11 Jul 09.\n\n**References**\n- \"NUS researchers discover\
+  Grace Chua, Straits Times 11 Jul 09.\n\n### References
+\n- \"NUS researchers discover\
   \ what\u2019s behind the electric blue strip on local mangrove crab\" Zachary Lim\n\
   [Straits Times](https://www.straitstimes.com/singapore/environment/nus-researchers-discover-whats-behind-the-electric-blue-strip-on-local-mangrove-crab)\n\
   16 Jun 2025.\n- Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.\n\

@@ -111,7 +111,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
 
-**References**
+### References
+
 
 - Lane, David J.W. and Didier Vandenspiegel. 2003
 *. A Guide to Sea Stars and Other Echinoderms of Singapore*

@@ -29,7 +29,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg
     caption: Berlayar Creek, Mar 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Edible Rock Oyster (
   *Saccostrea*
@@ -55,7 +56,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan, K. S. & L. M. Chou, 2000.
 

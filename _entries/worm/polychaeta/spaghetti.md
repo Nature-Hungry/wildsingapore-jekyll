@@ -42,7 +42,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/worm/polychaeta/spaghetti/260103prpyls6.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Yan Le Su on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Cirratulidae](http://lkcnhm.nus.edu.sg/polychaete/Cirratulidae.html)
 

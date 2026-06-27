@@ -39,7 +39,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tumulifera/070604ecplks02m3.jpg
     caption: East Coast, Jun 07 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -50,7 +51,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

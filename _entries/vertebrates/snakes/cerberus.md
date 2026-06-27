@@ -46,7 +46,8 @@ galleries:
     caption: Pulau Semakau, Feb 16 Photo shared by Jianling Liu on facebook .
   - url: https://images.naturehungry.sg/vertebrates/snakes/cerberus/160208smksrl1.jpg
     caption: Pulau Semakau, Feb 16 Photo shared by Russel Low on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove snakes: Dog-faced water snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)
 
@@ -75,7 +76,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Craig Justin Tan. 29 May 2020.
 

@@ -28,7 +28,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3a.jpg
     caption: Circlet of short filaments.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa verticillata*](http://www.algaebase.org/search/species/detail/?species_id=4536)
 
@@ -39,7 +40,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

@@ -38,7 +38,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebcok .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Chameleon nerite (
   *Nerita chamaleon*
@@ -58,7 +59,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

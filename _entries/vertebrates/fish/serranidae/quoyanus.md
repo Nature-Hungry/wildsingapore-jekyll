@@ -33,13 +33,15 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/serranidae/quoyanus/180106sntay1.jpg
     caption: Sentosa Tg Rimau, Jan 18 Photo shared by Abel Yeo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Longfin grouper (*Epinephelus quoyanus*)](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=6475)
   from [FishBase](http://www.fishbase.org/): Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Kelvin K. P. Lim. 28 Jul 2017.
 

@@ -37,7 +37,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
-links_references: '**References**
+links_references: '### References
+
 
   - Ng, Angie et. al. 2005.*A guide to the fabulous figs of Singapore*. Singapore
   Science Centre.152 pp.

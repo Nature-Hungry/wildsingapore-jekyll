@@ -24,14 +24,16 @@ galleries:
   gallery2:
   - url: https://c1.staticflickr.com/3/2024/2040684894_2f2f8ef950.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Neptune''s Cup discovered in Singapore](http://wildshores.blogspot.sg/2011/10/neptunes-cup-discovered-in-singapore.html)
 
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee-Cheng, Karenne Tun, Eugene Goh. 29 Sep 2012.
 

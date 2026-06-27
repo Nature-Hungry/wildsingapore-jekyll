@@ -34,7 +34,8 @@ galleries:
     caption: Tanah Merah, Dec 10 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/160314lazjt2.jpg
     caption: Lazarus Island, Mar 16 Photo shared by Jonathan Tan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*
@@ -69,7 +70,9 @@ This large jellyfish is sometimes seen on some of our shores. Usually alone, not
 
 Bell about 10cm in diameter with fat sausage-like oral arms. The arms do not have a long 'tail'.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

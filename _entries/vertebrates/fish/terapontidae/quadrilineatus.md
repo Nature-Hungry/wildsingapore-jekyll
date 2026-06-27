@@ -44,7 +44,8 @@ galleries:
     caption: Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/terapontidae/quadrilineatus/100912kuslks6m6l.jpg
     caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Trumpeter Perch (
   *Pelates quadrilineatus*
@@ -78,7 +79,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

@@ -10,7 +10,8 @@ species: Echiura
 attributes: []
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/worm/echiura/echiura/080801chgd8555m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Introduction to the Echiura: Spoon Worms and Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiura.html)on
   the[Phylogeny Wing](http://www.ucmp.berkeley.edu/exhibit/phylogeny.html)on the[Museum
@@ -18,7 +19,8 @@ links_references: '**Links**
   fossil record, life history and ecology, systematics and more on morphology.
 
 
-  **References**
+  ### References
+
 
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
   of Thomson Learning Inc., 7th Edition. pp. 963'

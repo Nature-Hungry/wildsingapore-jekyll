@@ -34,7 +34,8 @@ galleries:
     caption: Two-toned ribbon worm
   - url: https://images.naturehungry.sg/worm/nemertea/verylong/091205sudd5587m3.jpg
     caption: Very long ribbon worm
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Ribbon worm](http://mangrove.nus.edu.sg/pub/seashore/text/125)
 
@@ -60,7 +61,8 @@ links_references: '**Links**
   on the Sea Slug Forum by Dr Bill Rudman: photos and introduction to these worms.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

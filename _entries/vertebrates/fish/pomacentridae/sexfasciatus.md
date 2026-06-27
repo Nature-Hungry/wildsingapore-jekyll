@@ -32,7 +32,8 @@ galleries:
     caption: Tanah Merah, Apr 11
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m6l.jpg
     caption: Sisters Island, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Scissortail sergeant (
   *Abudefduf sexfasciatus*
@@ -57,7 +58,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

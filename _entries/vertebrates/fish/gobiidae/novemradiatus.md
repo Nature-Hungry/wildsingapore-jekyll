@@ -27,7 +27,8 @@ suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Dusky-gilled mudskipper (
   *Periophthalmus novemradiatus*
@@ -71,7 +72,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Zeehan Jaafar, Kelvin K. P. Lim, Loke Ming Chou. 2009.
 

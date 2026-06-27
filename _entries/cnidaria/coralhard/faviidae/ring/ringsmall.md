@@ -1,6 +1,6 @@
 ---
-title: Small ring  coral
-description: Fact sheet of Small ring  coral on the shores of Singapore
+title: Small ring coral
+description: Fact sheet of Small ring coral on the shores of Singapore
 keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo

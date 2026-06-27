@@ -77,7 +77,8 @@ Cryptospira ventricosa*
 
 Thanks to Toh Chay Hoon for obtaining identification for the snail.
 
-**References**
+### References
+
 
 - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 *Preliminary Checklist of The Molluscs of Singapore*

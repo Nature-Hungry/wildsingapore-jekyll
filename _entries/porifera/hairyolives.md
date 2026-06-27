@@ -51,7 +51,8 @@ galleries:
     caption: Pulau Senang, Jun 10
   - url: https://images.naturehungry.sg/porifera/hairyolives/100530tbkd4401m3.jpg
     caption: Terumbu Berkas, May 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stelletta clavosa*](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=106052)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

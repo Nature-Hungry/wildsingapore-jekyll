@@ -36,7 +36,8 @@ galleries:
     caption: Pulau Tekukor, Jan 25 Photo shared by Liz Lim on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/150830hntmn2m3.jpg
     caption: Pulau Hantu, Aug 15 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   *[Ceratosoma tenue](http://slugsite.us/bow2007/nudwk555)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs
   of Singapore (pdf), Raffles Museum of Biodiversity Research, National University

@@ -42,7 +42,8 @@ galleries:
     caption: Sponge crab using an ascidian disguise. Chek Jawa, Aug 05
   - url: https://images.naturehungry.sg/worm/polycladida/indicus/080619chgd5684m3.jpg
     caption: A flatworm eating an ascidian? Changi, Jun 08
-links_references: '**Links** - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226)
+links_references: '### Links
+ - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. - [*A Guide to Seashore Life*](http://mangrove.nus.edu.sg/pub/seashore/).
   The Singapore Science Centre, Singapore. 160 pp. - [Ascidiacea World Database](http://www.marinespecies.org/ascidiacea/index.php):
   technical fact sheets - [The Dutch Ascidians Homepage](http://www.ascidians.com/)
@@ -57,7 +58,8 @@ links_references: '**Links** - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.
   - on the wild shores of singapore blog - [Blobs in the sea help us understand human
   health issues](http://wildshores.blogspot.com/2011/04/blobs-in-sea-help-us-understand-human.html)
 
-  **References**
+  ### References
+
 
   - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. State of knowledge
   of ascidian diversity in South China Sea and new records for Singapore. 29 June

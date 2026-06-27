@@ -48,7 +48,8 @@ galleries:
     caption: Big Sisters Island, Dec 20 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/brockii/251011ssisyls10.jpg
     caption: Small Sisters Island, Oct 25 Photo shared by Yan Le Su on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove tree-dwelling crab (
   *Selatium brockii*
@@ -82,7 +83,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

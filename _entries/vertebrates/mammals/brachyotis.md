@@ -25,7 +25,8 @@ subfamily: Cynopterinae
 tribe: Cynopterini
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Lesser Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat)
 
@@ -37,7 +38,8 @@ links_references: '**Links**
   on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Baker, Nick and Kelvin Lim. 2008.
 
@@ -86,7 +88,9 @@ It eats fruits and drinks nectar. A fruit bat may travel nearly 100km in a singl
 **Baby bats:**
 Mama bat gives birth to one young which weighs about 11gms at birth. She carries her young with her all the time, even as she flies, for about 45-50 days.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is not listed among our threatened animals.
 
 *![](https://images.naturehungry.sg/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg)*

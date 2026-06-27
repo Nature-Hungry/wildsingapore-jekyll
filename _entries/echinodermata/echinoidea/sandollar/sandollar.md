@@ -22,7 +22,8 @@ order: Clypeasteroida
 suborder: Clypeasterina
 updated: Apr 2020
 coverimg: https://live.staticflickr.com/65535/50504169572_521278a4a2_z.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Class Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)Tan, Leo
   W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -40,7 +41,8 @@ links_references: '**Links**
   of lunules.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
   Echinoderms of Singapore*. Singapore Science Centre. 187pp.

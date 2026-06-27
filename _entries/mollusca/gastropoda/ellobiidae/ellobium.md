@@ -55,7 +55,8 @@ galleries:
     caption: Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/ellobium/121110cjlks.JPG
     caption: Chek Jawa, Dec 12 Photo shared by Loh Kok Sheng on flickr .
-links_references: "**Links**\n- [Belongkeng (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090)\n\
+links_references: "### Links
+\n- [Belongkeng (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090)\n\
   Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
   \ (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science\
   \ Centre. 168 pp.\n- [Mangrove helmet shell (Family Ellobiidae)](http://mangrove.nus.edu.sg/pub/seashore/text/153)\n\
@@ -71,7 +72,8 @@ links_references: "**Links**\n- [Belongkeng (Family Ellobiidae)](http://mangrove
   \ The Living Marine Resources of the Western Central Pacific\n[Volume 1: Seaweeds,\
   \ corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
   on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  **References**\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist\
+  ### References
+\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist\
   \ of The Molluscs of Singapore*\n(pdf), Raffles Museum of Biodiversity Research,\
   \ National University of Singapore.\n- S. K. Tan, S. H. Tan and M. E. Y. Low.\n\
   *On Ellobium aurismalchi (Muller, 1774) (Mollusca: Ellobiidae)*\n. Nature in Singapore\
@@ -114,7 +116,9 @@ It grazes on algae growing on mangrove trees and on the ground.
 
 Traditionally collected as food by Indonesian coastal dwellers.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Mangrove land snail (*Ellobium scheepmakeri*) is listed as 'Critically Endangered' on the list of threatened animals of Singapore due to habitat loss.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

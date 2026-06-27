@@ -49,7 +49,8 @@ galleries:
     caption: String of black egg capsoules Changi, Jul 02
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg
     caption: Developing babies Changi, Jul 03
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Squid](http://mangrove.nus.edu.sg/pub/seashore/text/167)
 
@@ -75,7 +76,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -199,7 +201,9 @@ People everywhere enjoy eating squids and cuttlefish. In Asia, they may be eaten
 
 Squids also have a role in human medical applications. Squids have gigantic nerve cells that are relatively easy to study. Much of what we know about our own nervous system is based on studies of squid nerve cells. Several Nobel prizes were based on such studies! The squid's efficient jet propulsion system is also inspiring designs for better underwater vehicles.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our squids or cuttlefishes are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations.
 
 ---

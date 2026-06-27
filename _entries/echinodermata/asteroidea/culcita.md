@@ -23,7 +23,8 @@ superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
 coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/culcita/110717tbd7114m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Culcita novaeguineae*(Cushion star)](http://www.sealifebase.org/summary/Culcita-novaeguineae.html)on
   SeaLife Base: Technical fact sheet.
@@ -33,7 +34,8 @@ links_references: '**Links**
   exercise in growth-related taxonomic confusion!](http://echinoblog.blogspot.sg/2009/02/cushion-star-culcita-novaeguineae.html)
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water Seastars of Australia*.
   2020. Western Australian Museum. 543pp.

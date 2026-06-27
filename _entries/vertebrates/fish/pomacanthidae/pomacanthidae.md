@@ -30,7 +30,8 @@ galleries:
     caption: Yellowtail or Vermiculated anglefish
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
     caption: Blue-ring angelfish
-links_references: '**Links**
+links_references: '### Links
+
 
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
 
@@ -83,7 +84,8 @@ links_references: '**Links**
   : Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - *Semicircle angelfish (Pomacanthus semicirculatus) off Pulau Hantu,*
 
@@ -168,7 +170,9 @@ Most can change gender (protogynous hermaphrodites) and have a social system of 
 
 Many members of this family are harvested from the wild for the live aquarium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some members of the Family Pomacanthidae are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists and overfishing can also have an impact on local populations.
 
 ---

@@ -54,7 +54,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/dolabella/091023smkmn.jpg
     caption: Pulau Semakau, Oct 09 Video shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
 
@@ -69,7 +70,8 @@ links_references: '**Links**
   produced by sea hares
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

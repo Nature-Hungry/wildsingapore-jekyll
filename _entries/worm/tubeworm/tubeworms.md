@@ -41,7 +41,8 @@ galleries:
     caption: Straw tubeworms
   - url: https://images.naturehungry.sg/polychaeta/diopatra/040702chgg0938m3.jpg
     caption: Solitary tubeworm
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Segmented worms including tube worms](http://mangrove.nus.edu.sg/pub/seashore/text/126)
 
@@ -92,7 +93,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Ng, P. K. L. & Y. C. Wee, 1994.
 
@@ -204,7 +206,9 @@ may also help anchor sediments. These tubeworms may live packed so closely toget
 
 Fishermen sometimes dig out tubeworms to use as bait.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection as bait can also have an impact on local populations.
 
 **Other tube-makers:**

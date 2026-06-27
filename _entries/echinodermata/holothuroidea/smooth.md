@@ -59,7 +59,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/smooth/110220lazlks8m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Acaudina*
 
@@ -75,7 +76,8 @@ links_references: '**Links**
   fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ong J. Y. & H. P. S. Wong.
 

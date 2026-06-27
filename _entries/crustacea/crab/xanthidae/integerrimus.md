@@ -144,7 +144,8 @@ galleries:
     caption: Pulau Pawai, Dec 09
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/integerrimus/091205sudd5580m3.jpg
     caption: Pulau Sudong, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Red Egg Crab (
   *Atergatis integerrimus*
@@ -172,7 +173,8 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Eugene Goh, Jerome Yong, Brian Cabrera, Ron Kirby Manit & Karenne Tun. 6 November
   2015.
@@ -273,7 +275,9 @@ and should not be eaten.
 [big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This crab is listed as 'Vulnerable' in the Red Data list of threatened animals of Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

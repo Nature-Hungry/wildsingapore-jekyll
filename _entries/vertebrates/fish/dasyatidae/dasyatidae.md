@@ -56,7 +56,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/220618tmftlks2.jpg
     caption: Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry Terminal,
       Jun 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
 
@@ -140,7 +141,8 @@ links_references: '**Links**
   - [Savvy stingrays use tools](http://wildshores.blogspot.com/2010/01/savvy-stingrays-use-tools.html)
 
 
-  **References**
+  ### References
+
 
   - Philip Lim & Koh Kwan Siong. 18 December 2015.
 

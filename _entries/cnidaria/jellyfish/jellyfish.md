@@ -48,7 +48,8 @@ galleries:
     caption: Huge jellyfish
   - url: https://images.naturehungry.sg/hydrozoa/thread/040409tusad0160m3.jpg
     caption: Thread-tentacled jellyfish
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Rhizostome jellyfish](http://mangrove.nus.edu.sg/pub/seashore/text/115)
 
@@ -93,7 +94,8 @@ links_references: '**Links**
   - [Mushroom coral munches on jellyfish](http://wildshores.blogspot.com/2009/11/mushroom-coral-munches-on-jellyfish.html)
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.

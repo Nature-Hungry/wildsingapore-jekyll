@@ -53,7 +53,8 @@ galleries:
     caption: Beting Bemban Besar, Nov 18 Photo shared by Liz Lim on facebook .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/scripta/181223tplll2.jpg
     caption: Terumbu Pempang Laut, Dec 18 Photo shared by Liz Lim on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Gafrarium divaricatum*
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

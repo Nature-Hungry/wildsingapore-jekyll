@@ -32,7 +32,8 @@ galleries:
     caption: Pulau Sekudu, Jul 08
   - url: https://images.naturehungry.sg/porifera/ballspiky/110518bbd1887m3.jpg
     caption: Beting Bronok, May 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dysidea avara*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=51088&genusname=Dysidea&speciesname=avara)
 
@@ -43,7 +44,8 @@ links_references: '**Links**
   on the World Porifera Database
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

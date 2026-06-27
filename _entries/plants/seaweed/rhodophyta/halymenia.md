@@ -63,7 +63,8 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/halymenia/100131slud8871m3.jpg
     caption: Terumbu Salu, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Halymenia](http://mangrove.nus.edu.sg/pub/seashore/text/107)
 
@@ -92,7 +93,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

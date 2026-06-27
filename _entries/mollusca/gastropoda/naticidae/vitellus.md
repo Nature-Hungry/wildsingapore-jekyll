@@ -63,7 +63,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/vitellus/160608cyrjt1.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Jonathan Tan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Calf moon snail (
   *Natica vitellus*
@@ -83,7 +84,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

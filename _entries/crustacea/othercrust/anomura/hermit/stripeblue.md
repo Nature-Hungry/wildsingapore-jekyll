@@ -87,7 +87,8 @@ galleries:
     caption: St John's Island, Oct 25 Photo shared by Adriane Lee on facebook .
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeblue/251009sjial4.jpg
     caption: St John's Island, Oct 25 Photo shared by Adriane Lee on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Clibanarius longitarsus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130080)*
 
@@ -98,7 +99,8 @@ links_references: '**Links**
   on BiotaTaiwanica: Technical fact sheet with photo.
 
 
-  **References**
+  ### References
+
 
   - Dwi Listyo Rahayu, 2000.
 

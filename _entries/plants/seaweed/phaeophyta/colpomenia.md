@@ -41,7 +41,8 @@ galleries:
     caption: Terumbu Buran, Nov 10 Photo shared by Russel Low on facebook .
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/colpomenia/171009blyay1.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Colpomenia*](http://www.algaebase.org/search/genus/detail/?genus_id=64)
 
@@ -52,7 +53,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

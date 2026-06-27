@@ -41,7 +41,8 @@ galleries:
       Ubin, Jan 09
   - url: https://images.naturehungry.sg/plants/mangrove/ceriops/tagal/090118smkd5854m6.jpg
     caption: White collar on propagule. Pulau Semakau, Jan 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tengar (
   *Ceriops tagal*
@@ -68,7 +69,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -126,7 +128,9 @@ Fruit brown and smooth without any texture. Hypocotyl long pointed (15-25cm long
 
 According to Burkill, it is highly valued as firewood as well as timber and it is "exploited so much that well-grown trees are rare". The bark was one of the chief dyes in Malaya and the batik industry, producing shades of purple, brown and black. It is also used to dye mats. The bark was also used for tanning and toughening fishing lines. It was said the natives of the Andamans sometimes eat the fruit. Medicinal uses include the bark for women in childbirth and as part of a lotion for ulcers.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg)

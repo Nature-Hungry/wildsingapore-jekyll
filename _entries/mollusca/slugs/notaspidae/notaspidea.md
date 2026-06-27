@@ -109,7 +109,8 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
 ---
 
-**References**
+### References
+
 - Rene Ong, Tan Siong Kiat, Toh Chay Hoon, Martyn E.Y. Low & Henrietta P. M. Woo. 31 Mar 2017.
 *First record of side-gilled slug, Berthellina delicata, in Singapore*
 . Singapore Biodiversity Records 2017: 45-46.

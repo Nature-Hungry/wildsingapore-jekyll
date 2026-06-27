@@ -134,7 +134,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/veryhairy/100612sngmn.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Dardanus lagopodes](http://www.sealifebase.org/summary/SpeciesSummary.php?id=21039)*
 

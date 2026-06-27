@@ -37,7 +37,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/xenostrobus/101216pgllks.JPG
     caption: Punggol, Dec 10 Shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Black mussel (
   *Xenostrobus*
@@ -58,7 +59,8 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs
   of Singapore (pdf), Raffles Museum of Biodiversity Research, National University

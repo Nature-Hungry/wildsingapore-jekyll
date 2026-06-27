@@ -75,7 +75,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/pleurobranchus/100130brklks18m3.jpg
     caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -89,7 +90,8 @@ links_references: '**Links**
   Henrietta, 2012 on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

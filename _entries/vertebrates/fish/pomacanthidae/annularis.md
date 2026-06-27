@@ -33,7 +33,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/annularis/200820ssismn3.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bluering angelfish (
   *Pomacanthus annularis*
@@ -73,7 +74,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 
@@ -115,7 +117,9 @@ It eats sponges, ascidians and zooplankton.
 
 This fish is unfortunately harvested from the wild for the live aquarium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Although the fish is not listed among the threatened animals of Singapore, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over collection by hobbyists and overfishing can also have an impact on local populations.
 
 ---

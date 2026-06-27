@@ -35,7 +35,7 @@ galleries:
     caption: Shedding a layer of mucus. Pulau Hantu, Mar 07
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/111128sntd4108m3a.jpg
     caption: Stinging tentacles produced by ctenophores living on the leathery soft
-      coral. Sentosa, Nov 11
+     coral. Sentosa, Nov 11
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
     caption: Omelette leathery soft coral
@@ -84,7 +84,8 @@ galleries:
     caption: Autozooids very short body column, star-like.
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/031223tused0034m3b.jpg
     caption: No siphonozooids. Prickly surface due to tiny spicules.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118)
 
@@ -109,7 +110,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -257,7 +259,9 @@ Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthella
 
 Leathery soft corals are considered toxic in the live aquarium trade. They produce substances that inhibit or stunt the growth of hard corals nearby.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our leathery soft corals are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 
 ---

@@ -47,7 +47,8 @@ galleries:
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on flickr.
   - url: https://images.naturehungry.sg/ascidiacea/orange/160608cyrmn3.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Marcus Ng on facebook.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Botryllus* sp.](https://singapore.biodiversity.online/species/A-Tunicata-000211)
   and [Family Styelidae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Stol-Styelidae)

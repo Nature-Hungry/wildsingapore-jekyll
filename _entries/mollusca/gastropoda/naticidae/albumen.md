@@ -57,7 +57,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/albumen/250402tsmktt1.jpg
     caption: Terumbu Semakau, Apr 25 Photo shared by Tommy Tan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Eggwhite moon snail (
   *Neverita albumen*
@@ -77,7 +78,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

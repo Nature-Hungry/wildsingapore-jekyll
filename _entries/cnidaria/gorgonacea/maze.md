@@ -37,7 +37,8 @@ galleries:
     caption: Pulau Sekudu, Aug 24
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/maze/240821skdrk2a.jpg
     caption: Photo shared by Richard Kuah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Echinogorgia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Echinogorgia)
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

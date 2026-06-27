@@ -42,7 +42,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/kuhlii/170429epcnay1.jpg
     caption: East Coast PCN, Apr 17 Photo shared by Abel Yeo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Blue-spotted Stingray (
   *Dasyatis kuhlii*
@@ -76,7 +77,8 @@ links_references: '**Links**
   from IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

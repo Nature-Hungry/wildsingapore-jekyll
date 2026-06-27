@@ -31,7 +31,8 @@ galleries:
     caption: Kusu Island, Apr 05
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/catstail/050329sntg3861m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Asparagopsis taxiformis*](http://www.algaebase.org/search/species/detail/?species_id=636)
 
@@ -42,7 +43,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

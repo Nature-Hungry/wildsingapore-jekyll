@@ -30,7 +30,8 @@ galleries:
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg
     caption: Made up of club-shaped segments. Knobbly agar-agar red seaweed Chek Jawa,
       May 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Training Manual on Gracilaria Culture and Seaweed Processing in China](http://www.fao.org/docrep/field/003/AB730E/AB730E00)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   : history of its use and spread, cultivation and species used to produce it.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

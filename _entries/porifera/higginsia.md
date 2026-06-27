@@ -23,14 +23,16 @@ galleries:
     caption: Covered with long thin stiff hairs.
   - url: https://images.naturehungry.sg/porifera/higginsia/150802bbd8873m3a.jpg
     caption: Trapped sediments hides bright orange colour.
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Higginsia](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=131793)*
 
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

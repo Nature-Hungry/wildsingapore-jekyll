@@ -136,7 +136,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
 
-**References**
+### References
+
 - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 *Rhythm of the Sea: The Life and Times of Labrador Beach*
 . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.

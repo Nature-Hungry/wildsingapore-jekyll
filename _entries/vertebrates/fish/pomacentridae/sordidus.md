@@ -32,7 +32,8 @@ galleries:
     caption: Sisters Island, Aug 08
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m6l.jpg
     caption: Sisters Island, Aug 08
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Black-spot sergeant (
   *Abudefduf sordidus*
@@ -46,7 +47,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ria Tan. 26 December 2014.
 

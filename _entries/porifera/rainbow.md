@@ -35,14 +35,16 @@ galleries:
     caption: Sembawang Beach, Sep 20 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/porifera/rainbow/150705skdlks1m3.jpg
     caption: Pulau Sekudu, Jun 15 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Suberites](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=132072)*
 
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Swee-Cheng Lim, Nicole J. de Voogd and Koh-Siang Tan.
 

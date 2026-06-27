@@ -19,7 +19,8 @@ order: Ostreida
 superfamily: Ostreoidea
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
-links_references: "**Links**\n- [Edible Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm)Tan,\
+links_references: "### Links
+\n- [Edible Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Family Ostreidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Ostreidae.html)on[The\
   \ Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)at\
@@ -35,7 +36,8 @@ links_references: "**Links**\n- [Edible Rock Oyster (*Saccostrea*)](http://mangr
   \ and Agriculture Organization of the United Nations (FAO) website.\n\n- From the\
   \ wild shores of singapore blog.\n - [The unexpected benefit of oysters](http://wildshores.blogspot.com/2008/12/unexpected-benefit-of-oysters.html)\n\
   \ - [Oyster reefs: most severely impacted marine habitat on the planet](http://wildshores.blogspot.com/2009/05/oyster-reefs-most-severely-impacted.html)\n\
-  \n**References**\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist\
+  \n### References
+\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist\
   \ of The Molluscs of Singapore*(pdf), Raffles Museum of Biodiversity Research, National\
   \ University of Singapore.\n\n- Katherine Lam and Brian Morton. 31 Aug 2009.*Oysters\
   \ (Bivalvia: Ostreidae and Gryphaeidae) recorded from Malaysia and Singapore*. Raffles\
@@ -132,7 +134,9 @@ Oysters have been farmed for centuries. Basically, young oysters are kept in cag
 **Got pearl inside?**
 Valuable pearls are found in only a small group of oysters. While other kinds of oysters (and even snails) may produce pearls, these are often not pretty enough to be of commercial value. So please DO NOT vandalise our oysters in the vain hope of finding a valuable pearl.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our oysters are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams. Oysters on disturbed shores are often vandalised by thoughtless people.
 
 ---

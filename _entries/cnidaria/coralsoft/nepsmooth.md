@@ -34,7 +34,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepsmooth/070304hntg8008m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Litophyton](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Litophyton)*
 
@@ -49,7 +50,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

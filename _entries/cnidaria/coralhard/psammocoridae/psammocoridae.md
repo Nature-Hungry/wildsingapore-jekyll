@@ -44,7 +44,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -64,7 +65,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -143,7 +145,9 @@ without close examination of small features. On this website, they are grouped i
 **Sandpapery home:**
 Those that are branching often have tiny animals among their branches.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some
 *Psammocora*
 species recorded for Singapore are listed as globally Near Threatened

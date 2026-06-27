@@ -69,7 +69,7 @@ child_pages:
   - url: coralhard/psammocoridae/boulder/050623cjg8282ma.jpg
   - url: coralhard/merulinidae/hydboulder/060402ulrd1101m.jpg
 - label: "<a href=\"coralhardfi10.htm\">Colony \n            unattached</a> <br/>\n\
-    \ free \n            living  corals<br/>\n            (mushroom  corals)"
+    \ free \n            living corals<br/>\n            (mushroom corals)"
   images:
   - url: coralhard/fungiidae/circular/031224sisd0090m.jpg
   - url: coralhard/fungiidae/heliofungia/040801hntd3805m.jpg
@@ -122,7 +122,7 @@ layout: default
             the skeleton is hard, blue coral is grouped with soft corals.</td>
 <td valign="top" width="20%">With 
             the polyps crowded next to one another, they may appear to be a hard 
-            coral.</td>
+           coral.</td>
 <td valign="top" width="20%">With 
             the polyps crowded next to one another, the colony may appear to be 
             a hard coral.</td>

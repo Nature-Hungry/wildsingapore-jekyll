@@ -68,14 +68,16 @@ galleries:
     caption: Pulau Salu, Jun 10 Bleaching.
   - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/100810snglks1m3.jpg
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

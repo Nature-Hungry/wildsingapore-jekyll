@@ -33,7 +33,8 @@ galleries:
     caption: Sg Pang Sua, Dec 25 Photo shared by Rui Quan Oh on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/cornucopia/251231prprqo4a.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Violet nerite (
   *Dostia violacea*
@@ -47,7 +48,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

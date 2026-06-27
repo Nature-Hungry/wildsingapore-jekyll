@@ -22,7 +22,8 @@ class: Magnoliopsida
 order: Myrtales
 updated: Jan 2013
 coverimg: https://images.naturehungry.sg/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Pemphis acidula](http://floraofsingapore.wordpress.com/2010/10/03/pemphis-acidula/)*
 
@@ -45,7 +46,8 @@ links_references: '**Links**
   the large tree at Changi.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
 
@@ -105,7 +107,9 @@ Corners says the plant 'is abundant where it grows' but is a 'very local tree' i
 
 There was a 4m tall Mentigi tree at Changi but it was toppled in a storm in Nov 2006.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg)

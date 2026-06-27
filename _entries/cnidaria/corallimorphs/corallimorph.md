@@ -54,14 +54,16 @@ galleries:
     caption: White-tip corallimorphs
   - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
     caption: Ball-tip corallimorphs
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia)
 
   on The Biodiversity of Singapore website, Lee Kong Chian Natural History Museum.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -164,7 +166,9 @@ Corallimorphs can reproduce by budding or by fission, in which the parent divide
 
 ## Role in habitat
 Corallimorphs are secondary colonisers that rapidly cover empty spaces in a reef, e.g., dead corals. Corallimorphs are more resistant against pollutants and are thus used as indicators of pollution.
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, none of our corallimorphs are listed among the endangered animals of Singapore. Some are listed as
 assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 While for others, t

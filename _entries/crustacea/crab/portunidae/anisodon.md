@@ -55,7 +55,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/anisodon/230706bbmn1.jpg
     caption: Beting Bronok, Jul 23 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
 
@@ -87,7 +88,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

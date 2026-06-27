@@ -65,7 +65,8 @@ galleries:
     caption: Terumbu Berkas, Jan 10
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/heliofungia/220201brkjll2.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -85,7 +86,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
 
@@ -165,7 +167,9 @@ When the tentacles are retracted, it resembles
 [Fungia mushroom corals](fungia)
 but Sunflower mushroom coral can be distinguished by the large, rounded teeth on the skeleton walls.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as globally Vulnerable
 [by the IUCN](http://www.iucnredlist.org/)
 which says that although "this species is widespread and locally common throughout its range, it is heavily to harvested for aquarium trade and has suffered extensive reduction of coral reef habitat due to a combination of threats."

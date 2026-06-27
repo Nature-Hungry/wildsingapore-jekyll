@@ -32,7 +32,8 @@ galleries:
     caption: Pulau Ubin, Jan 09
   - url: https://images.naturehungry.sg/plants/coastal/sesuvium/portulacastrum/090405smkd9020m3.jpg
     caption: Pulau Semakau, Apr 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Sesuvium portulacastrum](http://floraofsingapore.wordpress.com/2010/10/03/sesuvium-portulacastrum/)*
 
@@ -50,7 +51,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

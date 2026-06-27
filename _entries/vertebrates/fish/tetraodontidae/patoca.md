@@ -54,7 +54,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/251108ecpblks1a.jpg
     caption: East Coast Park (B), Nov 25 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Milk-spotted Puffer (
   *Chelonodon patoca*
@@ -83,7 +84,8 @@ links_references: '**Links**
   from IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

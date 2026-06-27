@@ -49,7 +49,8 @@ galleries:
     caption: Eroded roots. Chek Jawa, Aug 09
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090208smkd6474m3.jpg
     caption: Pulau Semakau, Feb 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Api-api bulu (
   *Avicennia rumphiana*
@@ -80,7 +81,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

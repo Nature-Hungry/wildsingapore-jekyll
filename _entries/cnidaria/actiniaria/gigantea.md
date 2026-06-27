@@ -101,7 +101,8 @@ galleries:
     caption: Pulau Biola, Dec 09
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg
     caption: Pulau Berkas, May 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stichodactyla gigantea*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=gigantea&subspecies=&synseniorid=147)
 
@@ -224,7 +225,9 @@ There is not much information on how Carpet anemones reproduce.
 
 Unfortunately, these beautiful anemones are harvested for the live aqurium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
 ---

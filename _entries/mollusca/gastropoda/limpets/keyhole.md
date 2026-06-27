@@ -34,14 +34,16 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/210810tplvc3.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Diodora singaporensis*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=13091)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat, Lee Yen-ling & Rene Ong. 18 September 2015.
 

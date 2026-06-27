@@ -36,7 +36,8 @@ galleries:
     caption: Pasir Ris Park, Oct 09 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/forked/171009blyay1.jpg
     caption: Berlayar Creek, Oct 17 Photo shared by Abel Yeo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Gafrarium divaricatum*
 
@@ -45,7 +46,8 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

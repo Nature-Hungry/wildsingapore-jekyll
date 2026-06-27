@@ -63,7 +63,8 @@ galleries:
   gallery9:
   - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/orientalis/090330trylks3m6l.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Oriental Sole (
   *Brachirus orientalis*

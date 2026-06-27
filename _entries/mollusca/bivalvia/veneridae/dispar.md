@@ -23,7 +23,8 @@ superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: Nov 11
 coverimg: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Gafrarium dispar*
 
@@ -32,7 +33,8 @@ links_references: '**Links**
   from SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -29,7 +29,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5649m3.jpg
     caption: Underside.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pacific deer cowrie (
   *Cypraea vitellus*
@@ -49,7 +50,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

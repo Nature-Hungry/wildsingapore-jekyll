@@ -107,7 +107,9 @@ can also look like
 [White tipped corallimorphs](../others/corallimorphs/whitetip)
 can also look similar.
 
-**Status and threats:**
+ ## Status and threats
+
+
 T
 here is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -139,6 +141,7 @@ for free download
 
 ---
 
-**References**
+### References
+
 
 - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.

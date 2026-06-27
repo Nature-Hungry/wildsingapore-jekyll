@@ -42,14 +42,16 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/160610jngmn.jpg
     caption: Pulau Jong, Jun 16 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Siphonaria atra*](http://sealifebase.org/Summary/speciesSummary.php?id=1112)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

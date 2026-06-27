@@ -30,7 +30,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Bostrychia*](http://www.algaebase.org/search/genus/detail/?genus_id=32785)
 
@@ -41,7 +42,8 @@ links_references: '**Links**
   : LOTS of very technical information.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

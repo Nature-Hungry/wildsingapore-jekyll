@@ -34,7 +34,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/caninus/251009sjiccn2.jpg
     caption: St John's Island, Oct 25 Photo shared by Che Cheng Neo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Acentrogobius caninus*
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

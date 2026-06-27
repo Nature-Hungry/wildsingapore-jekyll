@@ -40,14 +40,16 @@ galleries:
       .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/pullus/170820kusmn.jpg
     caption: Kusu Island, Aug 17 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Nassarius pullus*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=105148)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

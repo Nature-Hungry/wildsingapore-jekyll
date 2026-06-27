@@ -30,14 +30,16 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg
     caption: Chek Jawa, Dec 2016 Photo shared by Ivan Kwan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Clypeomorus pellucida*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=130664&genusname=Clypeomorus&speciesname=pellucida)
 
   in SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

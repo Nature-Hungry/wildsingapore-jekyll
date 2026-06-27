@@ -36,7 +36,8 @@ galleries:
     caption: Pulau Tekukor, May 10
   - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/candystripe/120424tmnbd0485m3.jpg
     caption: Tanah Merah, Apr 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Ostorhinchus endekataenia](http://www.fishbase.org/summary/6524)*
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   on Reef Fishes of Singapore by Jeffrey Low.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

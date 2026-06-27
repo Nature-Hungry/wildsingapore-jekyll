@@ -36,7 +36,8 @@ galleries:
     caption: Nymphs of bugs seen on leaves. Sungei Buloh Wetland Reserve, Mar 11
   - url: https://images.naturehungry.sg/plants/coastal/allophylus/cobbe/090905sbwrd0285m3.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Allophylus cobbe*](http://floraofsingapore.wordpress.com/2010/07/25/allophylus-cobbe/)
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan, Hugh T.W. and T. Morgany. 2001.
 

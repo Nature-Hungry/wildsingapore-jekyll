@@ -74,7 +74,8 @@ galleries:
       flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/260201cyrlks3.jpg
     caption: Cyrene, Feb 26 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Grey bonnet (
   *Phalium glaucum*
@@ -101,7 +102,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui and Tan Siong Kiat. 30 November 2016.
 

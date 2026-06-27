@@ -35,7 +35,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/porifera/branchpurple/210529epcnvc11.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Callyspongia*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2640)
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

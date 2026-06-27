@@ -20,14 +20,16 @@ class: Ulvophyceae
 order: Ulvales
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg
-links_references: "**Links**\n- [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/seashore/text/103.htm)Tan,\
+links_references: "### Links
+\n- [*Enteromorpha*](http://mangrove.nus.edu.sg/pub/seashore/text/103.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [*Enteromorpha*](http://www.mbari.org/staff/conn/botany/greens/Ram/index.htm)by\
   \ Ram\xF3n Bouchet Roullard on the Monterey Bay Aquarium Research Institute website:\
   \ an excellent site with everything you could possibly want to know about*Enteromorpha*from\
   \ morphology, life history, ecology, taxonomy. Lots of photos including of microscopic\
   \ features.\n\n- [*Enteromorpha*](http://www.algaebase.org/search/genus/detail/?genus_id=30)on[AlgaeBase](http://www.algaebase.org/):\
-  \ Technical fact sheet.\n\n**References**\n- Pham, M. N., H. T. W. Tan, S. Mitrovic\
+  \ Technical fact sheet.\n\n### References
+\n- Pham, M. N., H. T. W. Tan, S. Mitrovic\
   \ & H. H. T. Yeo, 2011.[*A Checklist of the Algae of Singapore*](http://rmbr.nus.edu.sg/raffles_museum_pub/singapore_algae_checklist_second_edition.pdf),\
   \ 2nd Edition.[Raffles Museum of Biodiversity Research](http://rmbr.nus.edu.sg/raffles_museum_pub/raffles_museum_checklists.html),\
   \ National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF,\

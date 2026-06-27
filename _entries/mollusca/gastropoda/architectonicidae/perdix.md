@@ -18,7 +18,8 @@ subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)on
   The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural
@@ -29,7 +30,8 @@ links_references: '**Links**
   SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Neo Mei Lin. 29 Sep 2017.*Possible mating and spawning behaviour of partridge
   sundial snails*. Singapore Biodiversity Records 2017: 121-122.

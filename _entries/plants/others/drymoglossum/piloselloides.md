@@ -37,7 +37,8 @@ galleries:
     caption: Mandai, Mar 11
   - url: https://images.naturehungry.sg/plants/others/drymoglossum/piloselloides/110328mndd8056m6l.jpg
     caption: Mandai, Mar 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - Giesen, Wim and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
 
@@ -51,7 +52,8 @@ links_references: '**Links**
   (Polypodiales: Polypodiaceae) by Lee Saeyun, 2016, on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Burkill, I. H., 1993.
 

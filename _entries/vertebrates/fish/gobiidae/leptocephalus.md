@@ -86,7 +86,8 @@ galleries:
     caption: Terumbu Pempang Laut, Jun 14 Photo shared by Marcus Ng on flickr ..
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/leptocephalus/091205sudikw5m3.jpg
     caption: Pulau Sudong, Dec 08 Photo shared by Ivan Kwan on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pink-speckled shrimpgoby (
   *Cryptocentrus leptocephalus)*
@@ -100,7 +101,8 @@ links_references: '**Links**
   : Technical fact sheet including fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

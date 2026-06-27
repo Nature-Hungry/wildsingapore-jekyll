@@ -49,7 +49,8 @@ galleries:
     caption: Changi SAF chalet, May 25 Photo shared by Marcus Ng on facebook ..
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/mangrove/260222ubnrqo1.jpg
     caption: Pulau Ubin, Feb 26 Photo shared by Rui Quan Oh on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -96,7 +97,9 @@ This beautiful anemone with 'petals' around its mouth is sometimes seen on our N
 
 Diameter with tentacles expanded 3-6cm. Tentacles many, with pointed tips, generally pale white to beige, some with broad, diffuse bands. One upper ring of longer, thicker tentacles. Below, another ring of many shorter, thinner tentacles. Oral disk often with darker margin. Mouth ringed with pale petal-like structures. Body column may be pale or dark, is smooth with fine white stripes. It can tuck its tentacles into its body column.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

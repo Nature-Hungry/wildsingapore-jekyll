@@ -53,7 +53,8 @@ galleries:
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/alba/090322krjd8409m3.jpg
     caption: May have stilt roots as well as pencil-like pneumatophores. Kranji Canal,
       Mar 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Api-api putih (
   *Avicennia alba*
@@ -88,7 +89,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

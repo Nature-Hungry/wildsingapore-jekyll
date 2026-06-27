@@ -34,7 +34,8 @@ galleries:
   gallery3:
   - url: https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

@@ -36,7 +36,8 @@ superorder: Sacoglossa
 superfamily: Oxynooidea
 updated: Jun 2020
 coverimg: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: photos and
   fact sheet on[*Lobiger viridis*](http://www.seaslugforum.net/showall.cfm?base=lobiviri)and*[Lobiger
@@ -47,7 +48,8 @@ links_references: '**Links**
   viridis](http://slugsite.us/bow/nudwk401.htm)*and*[Lobiger souverbii](http://slugsite.us/bow/nudwk311.htm)*
 
 
-  **References**
+  ### References
+
 
   - K. R. Jensen.*Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern
   coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey:

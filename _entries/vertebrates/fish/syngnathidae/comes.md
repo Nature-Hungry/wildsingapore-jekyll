@@ -121,7 +121,8 @@ galleries:
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoom on her blog .
   - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/comes/120511tpljk4m3.jpg
     caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tiger tail seahorse (
   *Hippocampus comes*
@@ -139,7 +140,8 @@ links_references: '**Links**
   (Gasterosteiformes: Syngnathidae) Tiger-tailed seahorse by Lim Xinjie, 2011 on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -191,7 +193,9 @@ It's difficult to tell this seahorse apart from the
 **Pregnant fathers:**
 Seahorses reproduce in a peculiar way. It is male that carries the eggs in his body and thus becomes 'pregnant'. The female lays her eggs in his pouch. Emerging from the eggs, the babies hatch as miniature seahorses and may remain in the pouch for a while before the father goes into 'labour' and ejects them out of the pouch.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Status and threats:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+
+
 Seahorses are listed as CITES II (which means their international trade is monitored) and are considered globally vulnerable.
 *Hippocampus comes*
 is listed among the threatened animals of Singapore.

@@ -48,7 +48,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
-links_references: '**References**
+links_references: '### References
+
 
   - Tee Swee Ping and Wee Mei Lynn (eds). 2001.*Trees of our Garden City*. National
   Parks Board. 202 pp.

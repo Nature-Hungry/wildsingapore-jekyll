@@ -29,7 +29,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/mappa/200626tptjt1a.jpg
     caption: Found in a large fish trap Terumbu Pempang Tengah, Jun 20 Photo shared
       by Jonathan Tan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Map puffer (
   *Arothron mappa*
@@ -43,7 +44,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Toh Chay Hoon & Kelvin K. P. Lim.
 

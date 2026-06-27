@@ -53,7 +53,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
     caption: Speckled whelk
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mud whelk (
   *Nassarius jacksonianus*
@@ -89,7 +90,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Ng Hiong Eng & Chan Sow Yan. 28 Apr 2017.
 

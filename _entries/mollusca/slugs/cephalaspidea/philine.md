@@ -35,7 +35,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/philine/090207tmlks1m3.JPG
     caption: East Coast Park, Feb 09 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Philine orientalis](http://www.seaslugforum.net/find/philhk)*
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   by Dr Bill Rudman: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Brian Morton, S. T. Chiu. 1 May 1990.
 

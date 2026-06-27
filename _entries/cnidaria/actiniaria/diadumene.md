@@ -51,7 +51,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/diadumene/130312lsislks.JPG
     caption: Little Sisters Island, Mar 13 Photo shared by Loh Kok Sheng on flickr
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Diadumene lineata*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Diadumene&subgenus=&species=lineata&subspecies=&synseniorid=20813)
 
@@ -67,7 +68,8 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -117,7 +119,9 @@ Tiny blobs less than 0.5cm. At low tide, they usually tuck their tentacles into 
 
 This is considered one of the most widely distributed anemone in the world and was probably dispersed by ships. The anemone can reproduce by budding off from the base and by dividing into two.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

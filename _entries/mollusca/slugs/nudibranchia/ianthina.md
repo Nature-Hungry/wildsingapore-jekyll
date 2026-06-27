@@ -86,11 +86,13 @@ galleries:
     caption: Terumbu Semakau, Jun 12 Photo shared by Russel Low on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/210428slujll1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+links_references: "### Links
+\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: including descriptions and photos of\n*[Pteraeolidia ianthina](http://www.seaslugforum.net/find/pteriant)*\n\
   including photos of juveniles and egg-laying.\n- [A Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)\n\
   by Uma Sachidhanandam: Photo and distribution of\n*[Pteraeolidia ianthina](http://rmbr.nus.edu.sg/nudibranch/nudipages/ianthina.html)*\n\
-  \n**References**\n- Nathaniel Soon, Z B Randolph Quek, Sebastian Pohl, Benjamin\
+  \n### References
+\n- Nathaniel Soon, Z B Randolph Quek, Sebastian Pohl, Benjamin\
   \ J Wainwright. \"More than meets the eye: characterizing the cryptic species complex\
   \ and Symbiodiniaceae communities in the reef-dwelling nudibranch Pteraeolidia \u2018\
   semperi\u2019 (Nudibranchia: Aeolidioidea) from Singapore\" Journal of Molluscan\

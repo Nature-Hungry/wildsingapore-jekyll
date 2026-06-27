@@ -3,7 +3,7 @@ title: 'Pearl bubble coral '
 description: Fact sheet of Pearl bubble coral  on the shores of Singapore
 summary: Colony 10-20cm. Corallites brain-like meandering made up of large coin-like disks. In daylight covered in bubbles. Colours beige. Rarely seen, on our Southern shores
 keywords: branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae,
-  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
+ coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Euphylliidae
@@ -32,7 +32,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg
     caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Physogyra lichtensteini](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0300)*
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -96,7 +98,9 @@ species. Here's more on
 species](euphyllia)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 This coral is not listed amont the threatened animals of Singapore. But it is listed globally Vulnerable
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Although it is widespread and common throughout its range, it is heavily harvested for the aquarium trade and has suffered extensive reduction of coral reef habitat due to a combination of threats.

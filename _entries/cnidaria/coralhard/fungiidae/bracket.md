@@ -1,5 +1,5 @@
 ---
-title: 'Bracket mushroom coral '
+title: Bracket mushroom coral
 description: Fact sheet of Bracket mushroom coral  on the shores of Singapore
 keywords: bracket, mushroom, podabacia, fungidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
@@ -64,7 +64,8 @@ galleries:
   gallery8:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/220201brklks12.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -88,7 +89,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
 
@@ -160,7 +162,9 @@ Flat plate-like 30-40cm in diameter, attached at the base but wavy at the edges.
 **May be confused with**
 other plate-like corals.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Podabacia motuporensis*
 is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/)

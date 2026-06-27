@@ -39,7 +39,8 @@ galleries:
     caption: Pulau Salu, Jun 10
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/100601slud4815m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Halymenia dilatata*](http://www.algaebase.org/search/species/detail/?species_id=1999)
 
@@ -52,7 +53,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

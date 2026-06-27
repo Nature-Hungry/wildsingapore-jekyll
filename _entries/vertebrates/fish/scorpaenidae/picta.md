@@ -70,7 +70,8 @@ galleries:
     caption: Pulau Senang, Aug 10|
   - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/210428slujll3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Painted scorpionfish (
   *Parascorpaena picta*
@@ -97,7 +98,8 @@ links_references: '**Links**
   : Technical fact sheet on the order, including a fact sheet on
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

@@ -51,7 +51,8 @@ galleries:
     caption: Pulau Berkas, May 10
   - url: https://images.naturehungry.sg/porifera/manyconed/100613sngd5516m3.jpg
     caption: Pulau Senang, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Spheciospongia*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Spheciospongia)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

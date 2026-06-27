@@ -76,7 +76,8 @@ galleries:
     caption: Pulau Sekudu, Jun 17 Photo by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/spongiosa/210527prpvc1.jpg
     caption: Pasir Ris Park, May 21 Photo by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -85,7 +86,8 @@ links_references: '**Links**
   *[Atagema spongiosa](http://www.seaslugforum.net/find/tripspon)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

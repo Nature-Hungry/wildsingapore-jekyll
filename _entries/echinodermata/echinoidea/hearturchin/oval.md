@@ -153,7 +153,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery9 %}
 ---
 
-**References**
+### References
+
 - *New records of the keeled heart urchin, Brissus latecarinatus, in Singapore*
 . 27 March 2020. Ria Tan, Teresa Stephanie Tay & Neo Mei Lin. Singapore Biodiversity Records 2020: 26-27 ISSN 2345-7597.
 - *[Brissus latecarinatus](https://www.sealifebase.se/summary/Brissus-latecarinatus.html)*

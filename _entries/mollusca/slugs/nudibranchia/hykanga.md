@@ -77,7 +77,8 @@ galleries:
     caption: East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hykanga/140714ecplks.JPG
     caption: East Coast Park, Jul 14 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -88,7 +89,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

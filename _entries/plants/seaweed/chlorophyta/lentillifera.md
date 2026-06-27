@@ -46,7 +46,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/lentillifera/100811slud0078m3b.jpg
     caption: Pulau Salu, Aug 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa lentillifera*](http://www.globinmed.com/index.php?option=com_content&view=article&id=79160:caulerpa-lentillifera-j-agardh&catid=8:botanical-information&Itemid=113)
 
@@ -102,7 +103,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

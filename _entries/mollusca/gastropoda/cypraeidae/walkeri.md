@@ -41,14 +41,16 @@ galleries:
     caption: Cyrene Reef, Jul 08 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/walkeri/150219cyrlks3m3.jpg
     caption: Cyrene Reef, Feb 15 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cypraea walkeri*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104982)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

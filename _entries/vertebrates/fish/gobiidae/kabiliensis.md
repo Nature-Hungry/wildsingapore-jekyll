@@ -34,7 +34,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/kabiliensis/251200admrqo3.jpg
     caption: Admiralty Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bumblebee goby (
   *Brachygobius kabillensis*
@@ -63,7 +64,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui, Low Bi Wei & Jonathan Ho. 11 July 2014.
 

@@ -32,7 +32,8 @@ galleries:
     caption: Squid egg capsules attached to the sea fan. Beting Bronok, Jun 03
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/120704chgd6895m3.jpg
     caption: Winged oyster on the sea fan. Changi, Jul 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Echinomuricea pulchra*](http://www.sealifebase.fisheries.ubc.ca/summary/Echinomuricea-pulchra.html)
 
@@ -51,7 +52,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

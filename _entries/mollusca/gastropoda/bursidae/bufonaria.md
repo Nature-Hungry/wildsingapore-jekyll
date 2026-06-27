@@ -39,7 +39,8 @@ galleries:
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/bursidae/bufonaria/180616bblks17.jpg
     caption: Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Bursidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Bursidae.html)
 
@@ -78,7 +79,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

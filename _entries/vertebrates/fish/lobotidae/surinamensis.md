@@ -33,7 +33,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/lobotidae/surinamensis/110221tmmn.jpg
     caption: Tanah Merah, Feb 11 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tripletail](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/303)
 
@@ -64,7 +65,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

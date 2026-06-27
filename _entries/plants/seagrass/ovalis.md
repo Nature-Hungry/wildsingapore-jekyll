@@ -81,7 +81,8 @@ page_images:
     <p>Pulau Sekudu, Jun 06</p>
 
     '
-links_references: "**Links**  \n\n- [Fan\n  seagrass (*Halophila*)](http://mangrove.nus.edu.sg/pub/seashore/text/108)\
+links_references: "### Links
+  \n\n- [Fan\n  seagrass (*Halophila*)](http://mangrove.nus.edu.sg/pub/seashore/text/108)\
   \ Tan, Leo W. H. & Ng, Peter K.\n  L., 1988. *[A\n  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre,\n  Singapore. 160 pp.\n- McKenzie,\n  L.J., Yaakub,\
   \ S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:\n  Guidelines for TeamSeagrass\
@@ -91,7 +92,8 @@ links_references: "**Links**  \n\n- [Fan\n  seagrass (*Halophila*)](http://mangr
   \  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch\
   \ website.\n- [The\n  genus *Halophila*](http://wwwscience.murdoch.edu.au/centres/others/seagrass/halophilal)\
   \ at The Western Australian Seagrass\n  Web Page on the Murdoch University website:\
-  \ species, life history\n  and distribution in Australia.\n\n**References**\n\n\
+  \ species, life history\n  and distribution in Australia.\n\n### References
+\n\n\
   - Tan, Hugh\n  T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. *The\n\
   \  Natural Heritage of Singapore*.\n  Second edition. Prentice Hall. 271 pp.\n-\
   \ Davison,\n  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore\n  Red\

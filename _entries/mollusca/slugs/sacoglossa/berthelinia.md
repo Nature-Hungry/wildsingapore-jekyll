@@ -73,7 +73,8 @@ galleries:
     caption: Chek Jawa, Jun 17 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Berthelinia caribbea*](http://www.seaslugforum.net/find/bertcari)
 
@@ -84,7 +85,8 @@ links_references: '**Links**
   by Dr Bill Rudman
 
 
-  **References**
+  ### References
+
 
   - Kathe Jensen & Rene S. L. Ong . 30 Sep 2016.
 

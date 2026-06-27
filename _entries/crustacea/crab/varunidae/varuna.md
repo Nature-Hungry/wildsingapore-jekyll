@@ -54,7 +54,8 @@ galleries:
       Yong on facebook
   - url: https://images.naturehungry.sg/crustacea/crab/varunidae/varuna/250503cyrml2.jpg
     caption: On floating trash. Cyrene, May 25 Photo shared by Mathias Luk on facebook
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Paddler crab (
   *Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046)
@@ -81,7 +82,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

@@ -46,14 +46,16 @@ galleries:
     caption: Underside of shell with 'teeth'.
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks4.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Cypraea moneta](https://www.sealifebase.ca/country/CountrySpeciesSummary.php?c_code=258&Genus=Cypraea&Species=moneta)*
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs
   of Singapore (pdf), Raffles Museum of Biodiversity Research, National University

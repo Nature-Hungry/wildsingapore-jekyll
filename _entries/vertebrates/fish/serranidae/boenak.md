@@ -24,7 +24,8 @@ order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Chocolate hind (*Cephalopholis boenak*)](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=6444)from[FishBase](http://www.fishbase.org/):
   Technical fact sheet
@@ -39,7 +40,8 @@ links_references: '**Links**
   (*Cephalopholis boenak*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/266.htm)
 
 
-  **References**
+  ### References
+
 
   - Lieske, Ewald and Robert Myers. 2001.*Coral Reef Fishes of the World*Periplus
   Editions. 400pp.'

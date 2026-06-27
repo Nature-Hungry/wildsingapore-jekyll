@@ -61,7 +61,8 @@ galleries:
     caption: Tassels on petal tips.
   - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg
     caption: Sepals clasp the propagule.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bakau putih (
   *Bruguiera cylindrica*
@@ -111,7 +112,8 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005.
 
@@ -163,7 +165,9 @@ A tree generally with knee roots, sometimes without. Leaves eye-shaped, shiny gr
 
 The timber and other parts of these trees have many traditional applications. See the fact sheets for the individual species for more details.
 
-**Status and threats:**
+ ## Status and threats
+
+
 [Lenggadai](parviflora)
 (*Bruguiera parviflora*) is listed as 'Endangered' and
 [Bakau mata buaya](hainesii)

@@ -50,7 +50,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/albicilla/091231bioik2m3.jpg
     caption: Pulau Biola, Dec 09 Photo shared by Ivan Kwan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Oxpalate nerite (
   *Nerita albicilla*
@@ -70,7 +71,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

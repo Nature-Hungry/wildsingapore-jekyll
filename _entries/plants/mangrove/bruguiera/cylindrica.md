@@ -34,7 +34,8 @@ galleries:
     caption: Tassels on petal tips. Sungei Buloh Besar, Jun 11
   - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg
     caption: Sepals on propagules bend towards stalk. Sungei Buloh, Apr 02
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bakau putih (
   *Bruguiera cylindrica*
@@ -69,7 +70,8 @@ links_references: '**Links**
   on the IUCN Red List website: detailed fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005.
 

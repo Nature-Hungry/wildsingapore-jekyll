@@ -37,13 +37,15 @@ galleries:
       Sheng on facebook.
   - url: https://images.naturehungry.sg/ascidiacea/bubble/180617skdlks3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ecteinascidia thurstoni*](https://singapore.biodiversity.online/species/A-Tunicata-000155)
   and [*Clavelina* sp.](https://singapore.biodiversity.online/species/A-Tunicata-000007)
   on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.
 
-  **References**
+  ### References
+
 
   - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of
   knowledge of ascidian diversity in South China Sea and new records for Singapore*.

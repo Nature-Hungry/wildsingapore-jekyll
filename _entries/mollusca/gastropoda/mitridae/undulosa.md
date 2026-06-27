@@ -40,7 +40,8 @@ galleries:
     caption: Chek Jawa, May 16 Photo shared by Ivan Kwan on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/mitridae/undulosa/171204chglks6.jpg
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - Family Mitridae in the Gastropods section by J.M. Poutiers in the FAO Species
   Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
@@ -51,7 +52,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Ria Tan & Tan Siong Kiat. 25 Sep 2015
 

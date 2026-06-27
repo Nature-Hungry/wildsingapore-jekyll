@@ -409,8 +409,9 @@ h6 { font-size: 0.85rem; font-weight: 700; color: var(--color-text-muted); }
 /* ── Body text ───────────────────────────────────────────────────────────── */
 p { 
   font-family: 'Comfortaa';
-  margin-bottom: 0.5rem;
-  line-height: 1.5rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.8rem;
+  letter-spacing: 0.1px;
 }
 
 small,
@@ -526,7 +527,7 @@ ul, ol {
   margin-bottom: 0.85rem;
 }
 
-li { margin-bottom: 0.2rem; }
+li { margin-bottom: 0.5rem; }
 
 /* ── Utility classes ─────────────────────────────────────────────────────── */
 .text-center  { text-align: center; }

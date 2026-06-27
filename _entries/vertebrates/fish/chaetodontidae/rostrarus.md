@@ -105,7 +105,8 @@ galleries:
     caption: Terumbu Pempang Laut, Jul 25 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/rostratus/210428slujll5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Copperband butterflyfish (
   *Chelmon rostratus*
@@ -150,7 +151,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

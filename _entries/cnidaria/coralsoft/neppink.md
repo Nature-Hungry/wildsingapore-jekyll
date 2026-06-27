@@ -34,7 +34,8 @@ galleries:
     caption: Tiny colourful brittle star Pulau Sekudu, May 08
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg
     caption: Tiny porcelain crab. Beting Bronok, Jun 06
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dendronephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dendronephthya)
 
@@ -49,7 +50,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

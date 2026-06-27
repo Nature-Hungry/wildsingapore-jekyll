@@ -57,7 +57,8 @@ galleries:
     caption: East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/menippidae/rumphii/241210ecpcnky1.jpg
     caption: East Coast PCN, Feb 24 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Menippe rumphii](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1454&menuentry=soorten)*
 
@@ -76,7 +77,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

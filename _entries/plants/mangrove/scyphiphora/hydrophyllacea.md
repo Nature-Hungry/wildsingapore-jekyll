@@ -32,7 +32,8 @@ galleries:
     caption: Small pinkish flowers. Pulau Ubin, May 09
   - url: https://images.naturehungry.sg/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3b.jpg
     caption: St. John's Island, Jul 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Scyphiphora hydrophyllacea*](http://floraofsingapore.wordpress.com/2010/07/25/scyphiphora-hydrophylacea/)
 
@@ -65,7 +66,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

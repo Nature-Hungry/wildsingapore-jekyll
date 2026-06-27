@@ -50,7 +50,8 @@ galleries:
     caption: Pulau Hantu, Dec 25 Photro shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/chaetodonoides/111029smkmn.jpg
     caption: Pulau Semakau, Oct 11 Photro shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Clown Sweetlips (
   *Plectorhinchus chaetodonoides*
@@ -75,7 +76,8 @@ links_references: '**Links**
   : Technical fact sheet
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

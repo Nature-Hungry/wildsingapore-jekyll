@@ -42,7 +42,8 @@ galleries:
     caption: Terumbu Pempang Darat, Jun 10
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/halbig/151001blylks5m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Calcified seaweed (
   *Halimeda*
@@ -74,7 +75,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

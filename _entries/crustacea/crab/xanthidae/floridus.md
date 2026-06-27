@@ -102,7 +102,8 @@ galleries:
     caption: Pulau Senang, Aug 10
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/100811slud0060m3.jpg
     caption: Pulau Salu, Aug 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
 
@@ -117,7 +118,8 @@ links_references: '**Links**
   in Crabs of Japan, on Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Peter K. L. Ng and Peter J. F. Davie, 31 Dec 2007,
 
@@ -226,7 +228,9 @@ Although it is described as a vegetarian, one was seen happily eating a fish. Li
 [highly poisonous](xanthidae)
 and should not be eaten.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This crab is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

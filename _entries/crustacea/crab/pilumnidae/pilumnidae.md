@@ -37,9 +37,11 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
     caption: Feather star crab
-links_references: "**Links**\n- [Hairy Crab (\n*Pilumnus vespertilio*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/211)\n\
+links_references: "### Links
+\n- [Hairy Crab (\n*Pilumnus vespertilio*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/211)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
-  . The Singapore Science Centre, Singapore. 160 pp.\n\n**References**\n- Tan Heok\
+  . The Singapore Science Centre, Singapore. 160 pp.\n\n### References
+\n- Tan Heok\
   \ Hui. 16 May 2014.\n*Horned crinoid crab in the Singapore Straits, Ceratocarcinus\
   \ longimanus*\n. Singapore Biodiversity Records 2014: 132.\n- Lee BY & Ng NK (2012)\n\
   *New record of the mangrove crab, Heteropilumnus sasekumari (Serene, 1971) (Crustacea:\
@@ -102,7 +104,9 @@ sp.) near rubble and reefs.
 
 Not all pilumnid crabs are hairy. They come in a wide variety of shapes and features and some are difficult to tell apart.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Several members of the Famil Pilumnidae are listed among the threatened animals of Singapore.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 

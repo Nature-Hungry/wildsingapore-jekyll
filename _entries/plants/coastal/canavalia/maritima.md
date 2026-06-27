@@ -32,7 +32,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/coastal/canavalia/canavalia/090405smkd9043m3.jpg
     caption: Pulau Semakau, Mar 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Canavalia rosea*](http://floraofsingapore.wordpress.com/2010/08/22/canavalia-rosea/)
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

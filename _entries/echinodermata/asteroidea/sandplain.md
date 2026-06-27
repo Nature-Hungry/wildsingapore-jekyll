@@ -60,7 +60,8 @@ galleries:
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/sandplain/210115mevc7.jpg
     caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sand star (
   *Astropecten*
@@ -78,7 +79,8 @@ links_references: '**Links**
   from Sealife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.
 

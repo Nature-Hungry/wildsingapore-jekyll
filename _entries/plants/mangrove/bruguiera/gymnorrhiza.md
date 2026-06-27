@@ -40,7 +40,8 @@ galleries:
     caption: Tassels on petal tips. Chek Jawa, May 09
   - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg
     caption: Sepals bend towards the propagule. Pasir Ris Park, Aug 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tumu (
   *Bruguiera gymnorrhiza*
@@ -75,7 +76,8 @@ links_references: '**Links**
   on the IUCN Red List: detailed fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005.
 

@@ -129,7 +129,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
 
-**References**
+### References
+
 
 - Jones Diana S. and Gary J. Morgan, 2002.
 *A Field Guide to Crustaceans of Australian Waters*

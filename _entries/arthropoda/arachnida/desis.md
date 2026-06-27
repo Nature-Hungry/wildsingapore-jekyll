@@ -92,7 +92,8 @@ galleries:
   gallery12:
   - url: https://images.naturehungry.sg/arachnida/desis/210428slujll5.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Desis martensi*](http://www.nparks.gov.sg/cms/docs/redbook/2aDesis%20martensi.pdf)
   on Singapore Red Data Book 2008 on the NParks website (pdf).
@@ -111,7 +112,8 @@ links_references: '**Links**
   on The Biodiversity of Singapore at the Lee Kong Chian Natural History Museum.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*
   . National Council on the Environment. 163pp.
@@ -169,7 +171,8 @@ These spiders have been seen clutching in their jaws all kinds of animals includ
 **Baby spiders:**
 Egg cocoons are placed in waterproofed tubes sealed with silk.
 
-**Status and threats:**
+## Status and threats
+
 The Marine spider is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 According to the Singapore Red Data Book: "Loss of the natural intertidal zone in reefs and rocky shores would threaten its survival."
 

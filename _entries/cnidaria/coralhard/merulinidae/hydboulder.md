@@ -79,7 +79,8 @@ galleries:
   gallery10:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/hydboulder/210428slumn1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -99,7 +100,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 

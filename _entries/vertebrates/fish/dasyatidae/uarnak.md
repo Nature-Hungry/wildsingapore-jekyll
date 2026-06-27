@@ -45,7 +45,8 @@ galleries:
     caption: Pulau Sekudu, May 25
   - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/250501skdjt1a.jpg
     caption: Photo shared by Jonathan Tan on facebook
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Honeycomb whipray (
   *Himantura uarnak*
@@ -71,7 +72,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Ron K. H. Yeo and Kelvin K. P. Lim. 21 October 2013.
 
@@ -117,7 +119,9 @@ Small fishes, clams, crabs, shrimps, worms and jellyfishes
 
 It is commonly caught although not esteemed as a food fish.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as Vulnerable on the IUCN Red List due to its slow rate of reproduction, overfishing, and loss of its preferred shallow water inshore habitats.
 
 ---

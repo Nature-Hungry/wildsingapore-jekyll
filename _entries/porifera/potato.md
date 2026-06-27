@@ -30,7 +30,8 @@ galleries:
     caption: East Coast Park, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/porifera/potato/160313trymn9.jpg
     caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Biemna*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2661)
 
@@ -41,7 +42,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

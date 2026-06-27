@@ -104,7 +104,8 @@ galleries:
     caption: Pulau Sudong, Dec 09
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/091204pawjk16m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Idiosepiidae (Pygmy squids)](http://tolweb.org/Idiosepiidae)
 
@@ -125,7 +126,8 @@ links_references: '**Links**
   on the IUCN Red List: fact sheet..
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

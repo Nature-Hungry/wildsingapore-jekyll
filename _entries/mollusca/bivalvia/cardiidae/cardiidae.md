@@ -35,7 +35,8 @@ galleries:
     caption: Fluted giant clam
   - url: https://images.naturehungry.sg/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: Burrowing giant clam
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Cardiidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Cardiidae.html)
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

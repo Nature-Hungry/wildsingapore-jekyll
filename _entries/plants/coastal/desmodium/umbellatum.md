@@ -24,7 +24,8 @@ tribe: Desmodieae
 subtribe: Desmodiinae
 updated: Nov 10
 coverimg: https://images.naturehungry.sg/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Desmodium umbellatum](http://floraofsingapore.wordpress.com/2010/04/19/desmodium-triflorum/)*on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
@@ -34,7 +35,8 @@ links_references: '**Links**
   V. Selvam. 2007. On the FAO website.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
   Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.

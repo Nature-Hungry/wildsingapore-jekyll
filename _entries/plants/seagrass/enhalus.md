@@ -80,7 +80,8 @@ galleries:
     caption: Egg capsules? Tanah Merah, Feb 10
   - url: https://images.naturehungry.sg/plants/seagrass/enhalus/090207smkd6437m3a.jpg
     caption: Unidentified organisms. Pulau Semakau, Feb 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tape seagrass (
   *Enhalus acoroides*
@@ -105,7 +106,8 @@ links_references: '**Links**
   on the Seagrass-Watch website.
 
 
-  **References**
+  ### References
+
 
   - Tan, Hugh T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007.
 
@@ -230,7 +232,9 @@ and snails. The mat of rhizomes also provides shelter for many small animals.
 
 The seeds are eaten by traditional people living on the coasts of Australia and the Philippines. Eaten raw, they are said to taste like water chestnuts. A durable fibre useful for fishing nets is also made from it.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/seagrass/enhalus/050309smkg3099m3.jpg)

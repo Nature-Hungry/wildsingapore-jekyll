@@ -26,7 +26,8 @@ galleries:
     caption: Submerged.
   - url: https://images.naturehungry.sg/porifera/dactylospongia/100518bbbd3074m3a.jpg
     caption: Out of water.
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Dactylospongia elegans](http://142.103.81.136/summary/Dactylospongia-elegans.html)*
 
@@ -37,7 +38,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

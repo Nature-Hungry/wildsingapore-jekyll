@@ -31,7 +31,8 @@ galleries:
     caption: Purple climber crab
   - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/050410kusg4263m3.jpg
     caption: Sally-light-foot crab
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Purple climber crabs (
   *Metopograpsus*
@@ -55,7 +56,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

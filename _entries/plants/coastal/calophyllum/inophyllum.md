@@ -30,7 +30,8 @@ galleries:
     caption: Changi, Apr 09
   - url: https://images.naturehungry.sg/plants/coastal/calophyllum/inophyllum/090124ubnd5983m3.jpg
     caption: Pulau Ubin, Jan 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Calophyllum inophyllum*](http://floraofsingapore.wordpress.com/2010/08/08/calophyllum-inophyllum/)
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -154,7 +156,9 @@ A relative of this plant, the Bintangor Tree (*Calophyllum lanigerum*
 var.
 *austrocoriaceum*) produced a new compound, Calanolide A, that was found highly effective in controlling the AIDS virus in the laboratory. The compound was extracted from a twig and fruit of a tree growing in Sarawak, Malaysia. Calanolide A has since been synthesised and is still being tested as an AIDS control.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 **Heritage Trees:**

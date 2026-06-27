@@ -45,7 +45,8 @@ galleries:
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/thuridilla/230122jngjll4.jpg
     caption: Pulau Jong, Jan 23 Photo shared by Jianlin LIu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Thuridilla gracilis*](http://www.seaslugforum.net/find/thurgrac)
 
@@ -56,7 +57,8 @@ links_references: '**Links**
   by Dr Bill Rudman: photos and fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

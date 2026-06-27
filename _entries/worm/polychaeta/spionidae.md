@@ -37,7 +37,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/worm/polychaeta/spionidae/190706skdro2.jpg
     caption: Pulau Sekudu, Jul 19 Photo shared by Rene Ong on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Spionidae polychaetes in New Zealand](http://www.annelida.net/nz/Polychaeta/Family/F-Spionidae)
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 

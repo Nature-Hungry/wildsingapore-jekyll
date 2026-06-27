@@ -48,7 +48,8 @@ galleries:
     caption: Leaves covered with other plants and animals Labrador, Oct 04
   - url: https://images.naturehungry.sg/plants/seagrass/thalassia/050513labg6440m3.jpg
     caption: Thick underground stem Labrador, May 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
 
@@ -66,7 +67,8 @@ links_references: '**Links**
   on the Seagrass-Watch website.
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -160,7 +162,9 @@ Algae often grow thickly on the leaves, colouring the leaves white or pink. Thes
 
 Among the animals that eat this seagrass are dugongs and green turtles. So it is also sometimes called Dugong grass or Turtle grass.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/seagrass/thalassia/050111labg2732m3.jpg)

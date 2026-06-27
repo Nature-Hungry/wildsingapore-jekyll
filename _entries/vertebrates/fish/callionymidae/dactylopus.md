@@ -51,9 +51,11 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/170513tpltch2.jpg
     caption: Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on facebook
       .
-links_references: "**Links**\n- [Orange-black dragonet](http://www.fishbase.org/summary/60086)\n\
+links_references: "### Links
+\n- [Orange-black dragonet](http://www.fishbase.org/summary/60086)\n\
   (\n*Dactylopus kuiteri*\n) from\n[FishBase](http://www.fishbase.org/)\n: Technical\
-  \ fact sheet.\n\n**References**\n- Kelvin K. P. Lim, Neo Mei Lin, Debby Ng & Toh\
+  \ fact sheet.\n\n### References
+\n- Kelvin K. P. Lim, Neo Mei Lin, Debby Ng & Toh\
   \ Chay Hoon. 17 April 2014.\n*New record of Kuiter\u2019s dragonet from Singapore*\n\
   . Singapore Biodiversity Records 2014: 103-104\n- Ng, H. H., 2012.\n*The dragonets\
   \ of Singapore (Actinopterygii: Perciformes: Callionymidae)*\n. Nature in Singapore,\

@@ -72,7 +72,8 @@ galleries:
     caption: Hoof-shied limpet
   - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
     caption: Hoof-shied limpet
-links_references: '**Links**
+links_references: '### Links
+
 
   - [False limpets](http://mangrove.nus.edu.sg/pub/seashore/text/154)
 
@@ -117,7 +118,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Chan Sow-Yan & Lau Wing Lup.
 
@@ -315,7 +317,9 @@ limpets lay eggs in circular or coiling jelly-like masses that contain thousands
 
 Large limpets are often harvested as food by coastal dwellers.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our limpets are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.
 
 ---

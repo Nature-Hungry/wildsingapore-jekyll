@@ -47,7 +47,8 @@ galleries:
     caption: Pulau Hantu, May 09 Photo shared by Neo Mei Lin on her blog .
   - url: https://images.naturehungry.sg/mollusca/slugs/notaspidae/euselenops/091205sudd5467m3.jpg
     caption: Pulau Sudong, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -72,14 +72,16 @@ galleries:
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/200823cyrjk1.jpg
     caption: Cyrene, Aug 20 In leathery sea fan Photo shared by James Koh on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ophiothela danae*](http://www.sealifebase.org/summary/Ophiothela-danae.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

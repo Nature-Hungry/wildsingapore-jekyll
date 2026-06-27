@@ -29,7 +29,8 @@ galleries:
     caption: Lazarus Island, Feb 11
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stypopodium zonale*](http://www.algaebase.org/search/species/detail/?species_id=e0f74cc64e0a94350&-session=abv4:3BBD35E0169c718B75VvF817F080)
 
@@ -40,7 +41,8 @@ links_references: '**Links**
   : technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 

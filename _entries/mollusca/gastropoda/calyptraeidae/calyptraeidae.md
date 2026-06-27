@@ -19,13 +19,15 @@ order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Crepidulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Crepidulidae.html)on
   the Archerd Shell Collection website: brief description and photos.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
   of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University

@@ -34,7 +34,8 @@ galleries:
     caption: Showy pom-pom shaped flower.
   - url: https://images.naturehungry.sg/plants/coastal/barringtonia/asiatica/090410ubnd9435m3.jpg
     caption: Squarish fruits that resemble lanterns.
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Barringtonia asiatica](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2744)*
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -134,7 +136,9 @@ spp. and
 
 The tree contains a toxin called saponin, concentrated mainly in the seeds but also found in other parts. According to Burkill, the fruits are used as a fish poison. They are pulped and thrown into the river to stun fish. According to Wee, the heated leaves are used in the Philippines to treat stomache and rheumatism and the seeds used to get rid of tapeworms. According to Giesen, juice from the seeds are used to seal paper umbrellas and to kill lice and other external parasites.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 **Heritage Tree:**

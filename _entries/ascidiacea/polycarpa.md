@@ -45,14 +45,16 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/ascidiacea/polycarpa/240113lazljj1.jpg
     caption: Lazarus Island, Jan 24 Photo shared by Lam Jiajun on facebook.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan,
   Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
   The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - [Family Styelidae](https://singapore.biodiversity.online/taxon/A-Tuni-Asci-Stol-Styelidae)
   on The Biodiversity of Singapore website of the Lee Kong Chian Natural History Museum.

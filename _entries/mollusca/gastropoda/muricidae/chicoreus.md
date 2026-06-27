@@ -110,7 +110,8 @@ galleries:
     caption: Terumbu Salu, Jan 10
   - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/chicoreus/101106burs00369m3.jpg
     caption: Terumbu Buran, Nov 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Firebrand murex (
   *Chicoreus torrefactus*
@@ -139,7 +140,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

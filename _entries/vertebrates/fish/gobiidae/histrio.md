@@ -68,7 +68,8 @@ galleries:
     caption: Terumbu Pempang Laut, May 12 Photo shared by James Koh on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/161117rlhhpy3.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Heng Pei Yan on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Broad-barred Acropora Goby (
   *Gobiodon histrio*
@@ -97,7 +98,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 
@@ -106,7 +108,7 @@ links_references: '**Links**
   . Singapore Science Centre. 164pp.
 
   - [Coward or braveheart: extreme habitat fidelity through hypoxia tolerance in a
-  coral-dwelling goby](http://jeb.biologists.org/cgi/content/abstract/207/1/33)
+ coral-dwelling goby](http://jeb.biologists.org/cgi/content/abstract/207/1/33)
 
   by Goran E. Nilsson, Jean-Paul Hobbs, Philip L. Munday and Sara Ostlund-Nilsson
   First published online November 24, 2003 Journal of Experimental Biology 207, 33-39

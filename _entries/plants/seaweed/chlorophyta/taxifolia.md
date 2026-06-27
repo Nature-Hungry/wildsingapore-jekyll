@@ -44,7 +44,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/taxifolia/151001blymn4m3.jpg
     caption: Berlayar Creek, Oct 15 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa taxifolia*](http://www.globinmed.com/index.php?option=com_content&view=article&id=79162:caulerpa-taxifolia-vahl-c-agardh&catid=8:botanical-information&Itemid=113)
 
@@ -94,7 +95,8 @@ links_references: '**Links**
   page of the University of Hawai`i at Manoa website.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,
@@ -214,7 +216,9 @@ This green seaweed is reported to be edible, to have antibacterial and antifunga
 *Caulerpa*
 species produce toxins to protect themselves from browsing fish. This also makes them toxic to humans.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This seaweed is native to the tropical waters of the Caribbean and Indo-Pacific.
 
 A particular strain of this seaweed developed for the aquarium trade was accidentally introduced to the coasts of the Mediterranean Sea, Australia and California. This strain is resistant to cooler temperate waters and is toxic to native herbivores such as fish, sea urchins and snails. So it grows unchecked and thick carpets of the seaweed smother native plants and deprive native animals of food. Efforts to eradicate it has not succeeded and this seaweed is now considered a noxious introduced alien.

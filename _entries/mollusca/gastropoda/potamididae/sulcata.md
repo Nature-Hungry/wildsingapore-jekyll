@@ -35,7 +35,8 @@ galleries:
     caption: Pulau Hantu, Apr 21 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/sulcata/091205sudikw2m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Belitong (
   *Terebralia sulcata*
@@ -77,7 +78,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

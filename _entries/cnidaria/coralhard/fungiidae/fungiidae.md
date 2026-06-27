@@ -1,6 +1,6 @@
 ---
-title: 'Mushroom  corals '
-description: Fact sheet of Mushroom  corals  on the shores of Singapore
+title: 'mushroom corals '
+description: Fact sheet of mushroom corals  on the shores of Singapore
 keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
@@ -46,7 +46,8 @@ galleries:
     caption: Bracket mushroom coral
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
     caption: Lithophyllon mushroom coral
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -70,7 +71,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Koh, Esther G. L. and L. M. Chou. 1989.
 
@@ -191,7 +193,9 @@ A mushroom coral is often home to different kinds of small animals from shrimps 
 **Baby mushrooms:**
 Some species of mushroom corals can reproduce by special asexual reproduction. A daughter colony (anthocauli) is formed when a part of the parent's skeleton loses its calcium (decalcification) resulting in clones that develop on the parent's body and become self-sufficient before detaching from the parent.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Sunflower mushroom coral (*Heliofungia actiniformis*) and some other mushroom corals are listed as threatened on the
 [IUCN global listing](http://www.iucnredlist.org/)
 . Like other creatures of the intertidal zone, all mushroom corals are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection by hobbyists also have an impact on local populations.

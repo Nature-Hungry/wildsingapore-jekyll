@@ -35,7 +35,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/psettodidae/erumei/250615chg6al1.jpg
     caption: Changi Carpark 6, Jun 25 Photo shared by Adriane Lee on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Indian Halibut (
   *Psettodes erumei*
@@ -69,7 +70,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

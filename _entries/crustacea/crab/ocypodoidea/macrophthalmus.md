@@ -60,7 +60,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/210810tplvc4.jpg
     caption: Terumbu Pempang Laut, Aug 21 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sentinel crabs (
   *Macrophthalmus*
@@ -105,7 +106,8 @@ links_references: '**Links**
   in Crabs of Japan on Marine Species Identification Portal.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

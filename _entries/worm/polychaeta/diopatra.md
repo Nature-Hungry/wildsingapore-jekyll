@@ -50,7 +50,8 @@ galleries:
       Sheng on his blog .
   - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/251010blytl5.jpg
     caption: Berlayar Creek, Oct 25 Photo shared by Tammy Lim on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tube worms](http://mangrove.nus.edu.sg/guidebooks/text/2007)
 
@@ -70,7 +71,8 @@ links_references: '**Links**
   fact sheets and photos of tubeworms found in Singapore.
 
 
-  **References**
+  ### References
+
 
   - Tong, T.L. & Chou, L.M.
 

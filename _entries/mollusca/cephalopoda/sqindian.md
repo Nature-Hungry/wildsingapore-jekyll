@@ -34,7 +34,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqindian/110522bbblks5m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Loh Kok Sheng on his blog
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Indian squid (
   *Uroteuthis duvaucelii*
@@ -52,7 +53,8 @@ links_references: '**Links**
   on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 2.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -87,7 +87,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/spotted/091205sudlks16m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Natica gualtieriana*](http://seashellsofnsw.org.au/Naticidae/Pages/Natica_gualtieriana)
 
@@ -115,7 +116,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

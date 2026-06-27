@@ -118,7 +118,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
 
-**References**
+### References
+
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
 *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*
 Nature in Singapore 2018 11: 77–125

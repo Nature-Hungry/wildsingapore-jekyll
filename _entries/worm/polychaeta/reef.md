@@ -73,7 +73,8 @@ galleries:
     caption: Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/worm/polychaeta/reef/250812tbal3.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Adriane Lee on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Eurythoe complanata*](http://www.sealifebase.org/summary/Eurythoe-complanata.html)
 
@@ -88,7 +89,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Humann, Paul and Ned Deloach. 2010.
 

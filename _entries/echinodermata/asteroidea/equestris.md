@@ -49,14 +49,16 @@ galleries:
     caption: Tiny conical points on upperside
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/equestris/20251010blytl4b.jpg
     caption: Underside
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stellaster equestris*](http://www.sealifebase.org/summary/Stellaster-equestris.html)
 
   on SeaLife Base: Technical fact sheet
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.
 

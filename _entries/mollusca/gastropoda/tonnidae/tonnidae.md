@@ -43,7 +43,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/110804cyrL1070318m3.jpg
     caption: Shell occupied by a hemit crab. Cyrene, Aug 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Tonnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Tonnidae.html)
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

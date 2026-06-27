@@ -39,7 +39,8 @@ galleries:
   gallery3:
   - url: https://live.staticflickr.com/4341/36704530105_cd62082eba_z.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Zebra Sole (
   *Zebrias zebra*
@@ -69,7 +70,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Lieske, Ewald and Robert Myers. 2001.
 

@@ -37,7 +37,8 @@ galleries:
     caption: Pulau Jong, Apr 11
   - url: https://images.naturehungry.sg/plants/coastal/syzygium/grande/110421jngd9568m6l.jpg
     caption: Pulau Jong, Apr 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Syzygium grande](http://floraofsingapore.wordpress.com/2010/04/10/syzygium-grande/)*
 
@@ -56,7 +57,8 @@ links_references: '**Links**
   from Habitatnews: mapping the mass flowering of sea apples in Singapore.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

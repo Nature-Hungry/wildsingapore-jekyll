@@ -24,7 +24,8 @@ order: Pandanales
 inat_id: 70026
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Pandanus tectorius*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=5242)on
   the NParks Flora and Fauna website: photos and fact sheet.
@@ -41,7 +42,8 @@ links_references: '**Links**
   Agriculture Handbook No. 679 Elbert L. Little Jr. and Roger G. Skolmen, 1989
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,*[The Concise Flora of Singapore II:
   Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*Singapore

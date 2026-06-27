@@ -37,7 +37,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/insecta/atlas/080601cjwlk.jpg
     caption: Chek Jawa, Jun 08 Photo shared by Wong Ley Kun on her blog.
-links_references: '**Links**
+links_references: '### Links
+
 
   - The Atlas Moth Chronicles - [Episode 1](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-1.html)
   and [Episode 2](http://butterflycircle.blogspot.sg/2012/08/the-atlas-moth-chronicles-episode-2.html)
@@ -49,7 +50,8 @@ links_references: '**Links**
   atlas.html)* on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Foo Maosheng. 30 Jun 2017.*An atlas moth infestation at Yishun*. Singapore Biodiversity
   Records 2017: 80-81.

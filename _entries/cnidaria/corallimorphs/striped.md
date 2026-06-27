@@ -59,7 +59,9 @@ These little brown disk-shaped animal with stripes is sometimes encountered on o
 
 Each polyp about 3-4cm in diameter, sometimes seen in groups of 5-10. Brown with paler or white stripes. Tentacles few, very short sparsely along the stripes. The edge of the oral disk smooth. The mouth is usually held upturned.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -81,7 +83,8 @@ for free download
 
 ---
 
-**References**
+### References
+
 
 - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019.

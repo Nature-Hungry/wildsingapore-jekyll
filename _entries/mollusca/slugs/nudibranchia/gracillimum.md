@@ -77,7 +77,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/gracillimum/251008bbbyls1.jpg
     caption: Beting Bemban Besar, Oct 25 Photo shared by Yan Le Su on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Ceratosoma gracillimum](http://www.seaslugforum.net/find/ceragrac)*
 
@@ -88,7 +89,8 @@ links_references: '**Links**
   by Dr Bill Rudman: photos and fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs
   of Singapore (pdf), Raffles Museum of Biodiversity Research, National University

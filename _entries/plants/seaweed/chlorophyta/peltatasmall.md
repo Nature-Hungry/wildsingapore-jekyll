@@ -32,7 +32,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltatasmall/160806tplmn5.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa racemosa*
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

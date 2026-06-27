@@ -83,7 +83,8 @@ galleries:
     caption: Terumbu Bemban, Apr 11 Photo shared by Toh Chay Hoon on her blog .
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/stethophthalmus/090330trymn.jpg
     caption: Terumbu Raya, Mar 09 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Byno Goby (
   *Amblygobius bynoensis*
@@ -111,7 +112,8 @@ links_references: '**Links**
   from NParks Flora and Fauna website.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

@@ -74,7 +74,7 @@ layout: default
 <td width="20%">
 <div align="center"><img height="108" src="../plants/seaweed/rhodophyta/encrust/050610sntg7603ma.jpg" width="108"/><br/>
 <a href="../plants/seaweed/rhodophyta/encrust.htm">Encrusting<br/>
-              coralline algae </a> </div>
+             coralline algae </a> </div>
 </td>
 <td width="20%">
 <div align="center"><img height="108" src="../plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg" width="108"/><br/>

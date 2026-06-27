@@ -40,14 +40,16 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/031224sisd0112m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

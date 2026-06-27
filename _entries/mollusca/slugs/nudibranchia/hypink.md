@@ -70,7 +70,8 @@ galleries:
     caption: Beting Bronok, Jun 14 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hypselodoris/190704bbay2.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Abel Yeo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -95,7 +96,8 @@ links_references: '**Links**
   [*Hypselodori bullockii*](http://rmbr.nus.edu.sg/nudibranch/nudipages/bullockii.html)
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

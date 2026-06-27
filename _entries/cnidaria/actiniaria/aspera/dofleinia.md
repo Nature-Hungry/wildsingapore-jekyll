@@ -79,7 +79,8 @@ galleries:
     caption: Cyrene Reef, Aug 13
   - url: https://images.naturehungry.sg/dofleinia/130810cyrlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dofleinia*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/supraspecific_detail.cfm?taxon=Dofleinia&namesearched=Dofleinia&genus=Dofleinia&subgenus=&correctgenus=Dofleinia&correctsubgenus=)
   on the [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)
@@ -91,7 +92,8 @@ links_references: '**Links**
   ecology, interaction with humans, other comments.
 
 
-  **References**
+  ### References
+
 
   - Erhardt, Harry and Daniel Knop. 2005. *Corals: Indo-Pacific Field Guide* IKAN-Unterwasserachiv,
   Frankfurt. 305 pp.

@@ -28,7 +28,8 @@ galleries:
     caption: Others are ribbon-like or net-like.
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/ulva/070614chgg0190m3.jpg
     caption: Tiny shrimp on sea lettuce. Changi, Jun 07
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Lettuce (
   *Ulva*
@@ -50,7 +51,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

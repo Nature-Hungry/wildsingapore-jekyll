@@ -113,7 +113,8 @@ galleries:
   gallery15:
   - url: https://live.staticflickr.com/2848/33567889063_2b22e696ce_z.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Seagrass Filefish (
   *Acreichthys tomentosus*
@@ -161,7 +162,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Lieske, Ewald and Robert Myers. 2001.
 

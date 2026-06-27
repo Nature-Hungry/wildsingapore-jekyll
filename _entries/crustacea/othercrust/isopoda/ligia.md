@@ -22,7 +22,8 @@ suborder: Oniscidea
 infraorder: Diplocheta
 updated: Mar 2020
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177.htm)Tan, Leo
   W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -49,7 +50,8 @@ links_references: '**Links**
   on Smithsonian Marine Station at Fort Pierce.
 
 
-  **References**
+  ### References
+
 
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
   of Thomson Learning Inc., 7th Edition. pp. 963.

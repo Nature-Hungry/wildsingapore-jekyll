@@ -36,14 +36,16 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/saulae/130722skdd9776m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Cypraea saulae](http://www.sealifebase.fisheries.ubc.ca/summary/Cypraea-saulae.html)*
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs
   of Singapore (pdf), Raffles Museum of Biodiversity Research, National University

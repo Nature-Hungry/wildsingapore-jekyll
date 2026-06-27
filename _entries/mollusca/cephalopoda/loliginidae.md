@@ -18,7 +18,8 @@ superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - Family Loliginidae in the Cephalopod section by J.M. Poutiers in the FAO Species
   Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
@@ -26,7 +27,8 @@ links_references: '**Links**
   the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
   of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University

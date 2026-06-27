@@ -39,7 +39,8 @@ galleries:
   gallery4:
   - url: https://live.staticflickr.com/896/41946456675_da8161e914_z.jpg
     caption: Pulau Sekudu, Jun 18
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 

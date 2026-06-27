@@ -22,7 +22,8 @@ order: Malpighiales
 inat_id: 321819
 updated: Sep 09
 coverimg: https://images.naturehungry.sg/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
-links_references: ' **Links**
+links_references: ' ### Links
+
 
   - [*Tristellateia australasiae*](http://floraofsingapore.wordpress.com/2010/03/26/tristellateia-australasiae/)
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
@@ -33,7 +34,8 @@ links_references: ' **Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore:
   Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. '

@@ -43,7 +43,8 @@ galleries:
     caption: Pulau Semakau, Dec 08
   - url: https://images.naturehungry.sg/plants/coastal/caesalpinia/bonduc/111022smkd2553m3.jpg
     caption: Pulau Semakau, Nov 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Barringtonia asiatica](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2744)*
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Lok, A. F. S. L., W. F. Ang, K. Y. Chong, P. X. Ng, S. Teo, T. K. Yee, C. K. Yeo
   & H. T. W. Tan, 2011.
@@ -120,7 +122,9 @@ A coarse climbing vine (5-15m long) to a prickly shrub. The compound leaf is bip
 
 According to Giesen, root is used to treat stomach aches and to stimulate the appetite.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg)

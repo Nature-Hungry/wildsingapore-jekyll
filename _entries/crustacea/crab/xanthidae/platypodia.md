@@ -69,7 +69,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/platypodia/240609tptccn1.jpg
     caption: Terumbu Pempang Tengah, Jun 24 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)
 
@@ -92,7 +93,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 
@@ -143,7 +145,9 @@ the more commonly seen
 [Floral egg crab](floridus)
 (*Atergatis floridus*).
 
-**Status and threats:**
+ ## Status and threats
+
+
 This crab is listed as 'Endangered' in our Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

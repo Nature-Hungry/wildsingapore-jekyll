@@ -56,7 +56,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/200820ssisjll2.jpg
     caption: Small Sisters Island, Aug 20 Photo shared by Jianlin Liu on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stereonephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Stereonephthya)
 
@@ -71,7 +72,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

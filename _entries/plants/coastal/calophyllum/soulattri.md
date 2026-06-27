@@ -24,14 +24,16 @@ galleries:
     caption: Chek Jawa, Oct 09
   - url: https://images.naturehungry.sg/plants/coastal/calophyllum/soulattri/091005cjd2183m3.jpg
     caption: Chek Jawa, Oct 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Calophyllum soulattri*](http://floraofsingapore.wordpress.com/2010/10/11/calophyllum-soulattri/)
 
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -72,7 +74,9 @@ A small tree that looks very much like a
 
 According to Burkill, the timber was considered the best of the Calophyllum species and used in masts, spars and planking. Some considered it better than teak in being more elastic and harder. The gummy resin is considered poisonous to dogs. The resin and parts of the tree has various traditional medicinal uses.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg)

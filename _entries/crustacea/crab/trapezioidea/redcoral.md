@@ -64,7 +64,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/110423tpllks11m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on his blog
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Lilac coral crab (
   *Trapezia cymodoce*
@@ -78,7 +79,8 @@ links_references: '**Links**
   : Technical fact sheet
 
 
-  **References**
+  ### References
+
 
   - Astri Noorbaini Samsuri, Yuichi Preslie Kikuzawa, Daisuke Taira, Shu Qin Sam,
   Wan Ting Sim, Chin Soon Lionel Ng, Lutfi Afiq-Rosli, Teck Wei Delon Wee, Ngan Kee
@@ -164,7 +166,9 @@ This crab lives only in
 (*Pocillopora*
 sp.). The crab feeds on the mucus produced by the coral, gathering these with the minute comb-like structures at the tips of their feet. In turn, it protects the coral from predators such as the Crown-of-Thorns sea star and sea snails that eat corals. It discourages the sea star by using its sharp pincers to nip at the sensitive tube feet of the sea star.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Red coral crab is listed as 'Vulnerable' in our Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

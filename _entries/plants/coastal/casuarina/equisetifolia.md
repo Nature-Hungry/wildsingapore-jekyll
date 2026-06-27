@@ -35,7 +35,8 @@ galleries:
     caption: Pulau Semakau, Mar 09
   - url: https://images.naturehungry.sg/plants/coastal/casuarina/equisetifolia/090314smkd8056m3.jpg
     caption: Fallen fruit, split open to release seeds. Pulau Semakau, Mar 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Casuarina equisetifolia*](http://floraofsingapore.wordpress.com/2010/10/03/casuarina-equisetifolia/)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   on infopedia on the National Library website.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

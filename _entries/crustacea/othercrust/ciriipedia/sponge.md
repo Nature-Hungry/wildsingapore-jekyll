@@ -44,14 +44,16 @@ galleries:
   gallery4:
   - url: https://live.staticflickr.com/8288/7812367154_acf8fbfb05_z.jpg
     caption: Cyrene Reef, Aug 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Membranobalanus longirostrum](http://www.sealifebase.org/summary/Membranobalanus-longirostrum.html)*
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

@@ -44,7 +44,8 @@ galleries:
     caption: Beting Bronok, Jun 17 Photo shared by Toh Chay Hoon on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/reevesii/190704bbjll2.jpg
     caption: Beting Bronok, Jul 19 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Brown-spotted Moray (
   *Gymnothorax reevesii*

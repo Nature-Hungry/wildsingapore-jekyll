@@ -99,14 +99,16 @@ galleries:
   gallery13:
   - url: https://images.naturehungry.sg/echinodermata/crinoidea/red/210428slujll1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Himerometra robustipinna*](http://www.sealifebase.org/summary/Himerometra-robustipinna.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

@@ -39,14 +39,16 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg
     caption: Changi, Jul 17 Photo shared by Abel Yeo on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Luidia hardwicki*](http://www.sealifebase.org/summary/Luidia-hardwicki.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.
 

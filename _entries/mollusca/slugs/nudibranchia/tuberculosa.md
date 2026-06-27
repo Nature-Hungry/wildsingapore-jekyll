@@ -65,7 +65,8 @@ galleries:
     caption: Terumbu Raya, Mar 16 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tuberculosa/080108hntlks.JPG
     caption: Pulau Hantu, Jan 08 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -74,7 +75,8 @@ links_references: '**Links**
   *[Dendrodoris tuberculosa](http://www.seaslugforum.net/find/dendtube)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

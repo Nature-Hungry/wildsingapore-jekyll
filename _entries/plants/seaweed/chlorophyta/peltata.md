@@ -42,7 +42,8 @@ galleries:
     caption: Pulau Salu, Aug 10
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/peltata/100130brkd8640m3.jpg
     caption: Terumbu Berkas, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa peltata*](http://www.algaebase.org/search/species/detail/?species_id=14511)
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

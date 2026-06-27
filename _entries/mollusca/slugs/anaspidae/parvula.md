@@ -29,7 +29,8 @@ galleries:
     caption: Rhinophore and oral tentacle tips dark. Tiny eyes under the rhinophores.
   - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg
     caption: Large foramen ringed in black.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
 
@@ -44,7 +45,8 @@ links_references: '**Links**
   *[Aplysia parvula](http://slugsite.us/bow/nudwk323)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

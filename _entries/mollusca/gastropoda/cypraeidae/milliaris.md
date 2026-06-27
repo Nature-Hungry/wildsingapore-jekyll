@@ -20,13 +20,15 @@ superfamily: Cypraeoidea
 subfamily: Erosariinae
 updated: Jul 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Cypraea milliaris](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=104987)*on
   SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
   of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University

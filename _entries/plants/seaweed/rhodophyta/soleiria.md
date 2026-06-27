@@ -36,7 +36,8 @@ galleries:
     caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/solieria/100613sngd5508m3.jpg
     caption: Pulau Senang, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Solieria robusta*](http://www.algaebase.org/search/species/detail/?species_id=2824)
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 

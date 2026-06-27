@@ -27,7 +27,8 @@ subclass: Actinopoda
 order: Holothuriida
 updated: Apr 2020
 coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222.htm)Tan, Leo
   W. H. & Ng, Peter K. L., 1988.*A Guide to Seashore Life*. The Singapore Science
@@ -51,7 +52,8 @@ links_references: '**Links**
   by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
   Echinoderms of Singapore*. Singapore Science Centre. 187pp.

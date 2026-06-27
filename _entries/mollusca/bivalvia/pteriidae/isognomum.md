@@ -40,7 +40,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/210811tryvc2.jpg
     caption: Terumbu Raya, Aug 21 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Wader tree oyster (
   *Isognomon isognomum*
@@ -60,7 +61,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -57,7 +57,8 @@ galleries:
     caption: Pulau Tekukor, May 13 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/spongeholey/160806tplmn.jpg
     caption: Terumbu Pempang Laut, Aug 16 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ceratodictyon spongiosum*](http://www.algaebase.org/search/species/detail/?species_id=2880)
 
@@ -68,7 +69,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 

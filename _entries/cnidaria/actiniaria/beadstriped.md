@@ -92,7 +92,9 @@ the
 [Banded bead anemone](beadbanded)
 , which is smaller than the Striped bead anemone. The Banded bead anemone is found in tight clusters of many individuals, while the Striped bead anemone may be seen alone or in loose clusters of a few individuals.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -126,7 +128,8 @@ for free download
 
 ---
 
-**References**
+### References
+
 
 - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 - Daphne Gail Fautin and Ria Tan. 29 June 2016.

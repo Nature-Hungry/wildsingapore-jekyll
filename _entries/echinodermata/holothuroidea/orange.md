@@ -75,7 +75,8 @@ galleries:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/orange/200626tptvc2.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Mensamaria*
 
@@ -91,7 +92,8 @@ links_references: '**Links**
   fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ong J. Y. & H. P. S. Wong.
 

@@ -45,7 +45,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/immaculatus/080510smktsj02m3.jpg
     caption: Pulau Semakau, May 08 Photo shared by Tan Sijie on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Yelloweye Puffer (
   *Arothron immaculatus*
@@ -81,7 +82,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

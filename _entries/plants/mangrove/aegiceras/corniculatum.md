@@ -36,7 +36,8 @@ galleries:
     caption: Pulau Tekong, Nov 11
   - url: https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/060905ubnkl1m3a.jpg
     caption: Photo shared by Kevin on his blog . Pulau Ubin, Sep 06
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Aegiceras corniculatum*](http://floraofsingapore.wordpress.com/2010/07/01/aegiceras-corniculatum/)
 
@@ -71,7 +72,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -148,7 +150,9 @@ species and
 
 According to Burkill, the bark is used as a 'fish poison', i.e., to stun fish and scoop them up. He identifies the toxin as a saponin. The seeds also contain the same poison. The leaves were eaten by poor people in the Moluccas raw or cooked, while women wore the scented flowers in their hair. According to Giersen, the wood is used to make charcoal. The flowers are probably an important source of nectar for local honey industries.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This plant is listed as 'Endangered' in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.
 
 ![](https://images.naturehungry.sg/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg)

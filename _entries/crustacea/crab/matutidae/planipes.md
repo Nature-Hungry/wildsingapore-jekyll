@@ -38,7 +38,8 @@ galleries:
     caption: Changi, May 05
   - url: https://images.naturehungry.sg/crustacea/crab/matutidae/planipes/080706chg7404m3.jpg
     caption: Changi, Jul 08
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Flower moon crab (
   *Matuta planipes*
@@ -52,7 +53,8 @@ links_references: '**Links**
   : technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

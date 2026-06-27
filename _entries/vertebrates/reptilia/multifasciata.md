@@ -32,7 +32,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/vertebrates/reptilia/multifasciata/090905sbwrd0091m3b.jpg
     caption: With black stripes on the back and white dots on the sides.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Many-lined Sun Skink](http://www.ecologyasia.com/verts/lizards/many-lined_sun_skink)
 
@@ -43,7 +44,8 @@ links_references: '**Links**
   on Chan Kwok Wai''s Wildlife Singapore: fact sheet with photos.
 
 
-  **References**
+  ### References
+
 
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
 

@@ -69,7 +69,8 @@ galleries:
     caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammilla/091205sudlks7m3.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pear-shaped moon snail (
   *Polinices mammilla*
@@ -100,7 +101,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 Preliminary Checklist of The Molluscs
   of Singapore (pdf), Lee Kong Chian Natural History Museum, National University of

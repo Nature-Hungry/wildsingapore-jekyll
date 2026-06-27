@@ -75,7 +75,8 @@ galleries:
       ..
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutbroadclub/220521bbbjll1.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by Jianlin LIu on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Broadclub cuttlefish (
   *Sepia latimanus*
@@ -101,7 +102,8 @@ links_references: '**Links**
   on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 1.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -57,7 +57,8 @@ galleries:
     caption: Flowers.
   - url: https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/100701tmd7990m3.jpg
     caption: Flowers.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Pongamia pinnata*](http://floraofsingapore.wordpress.com/2010/04/22/pongamia-pinnata/)
 
@@ -71,7 +72,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -136,7 +138,9 @@ The tree grows to 6-15m tall. The compound leaves appear in two rows, each heart
 
 The leaves are fed to livestock. The bark is used to make string and rope. Although the seeds are poisonous, an oil extracted from them (called Pongamol or hongay oil) is used for lighting, to manufacture soap and candles, and in medicinal uses. The roots and seeds are used as a fish poison in Australia and Indonesia. Various parts of the trees are also used in traditional medicine.. According to Tomlinson and Giesen, the tree is often planted as a shade tree along roads, but Corners says it is rarely planted in Malaya.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This tree is listed as 'Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/coastal/pongamia/pinnata/090410ubno067m6l.jpg)

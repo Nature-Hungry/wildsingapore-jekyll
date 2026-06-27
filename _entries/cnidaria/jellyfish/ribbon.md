@@ -61,7 +61,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/230510tptrk3.jpg
     caption: Terumbu Pempang Tengah, May 23 Photo shared by Richard Kuah on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

@@ -33,7 +33,8 @@ galleries:
     caption: Woodlands Park, May 09
   - url: https://images.naturehungry.sg/plants/mangrove/brownlowia/tersa/110317mndd7400m3a.jpg
     caption: Mandai, Mar 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Brownlowia tersa*](http://floraofsingapore.wordpress.com/2011/01/02/brownlowia-tersa/)
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -125,7 +127,9 @@ grows in mangroves and was recorded for Kranji and Sungei Mandai.
 
 According to Giesen, the timber is sometimes used for fencing or as fuelwood.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Brownlowia argentata*
 is considered 'Presumed Nationally Extinct' while
 *Brownlowia tersa*

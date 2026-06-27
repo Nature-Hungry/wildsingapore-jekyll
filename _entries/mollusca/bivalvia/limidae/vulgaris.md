@@ -58,7 +58,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/210502tptvc9.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Common file shell (
   *Lima vulgaris*
@@ -89,7 +90,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -146,7 +148,9 @@ sp.).
 
 In the Philippines, the shells are used to make ornaments.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This animal is listed as "Vulnerable" on the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

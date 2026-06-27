@@ -44,7 +44,8 @@ galleries:
     caption: Beting Bronok, Jun 14 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/snakes/eydouxii/130526chglks.JPG
     caption: Changi, May 13 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Marbled Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake)
 
@@ -65,7 +66,8 @@ links_references: '**Links**
   on wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Noel Thomas & Francis L. K. Lim. 7 February 2014.
 

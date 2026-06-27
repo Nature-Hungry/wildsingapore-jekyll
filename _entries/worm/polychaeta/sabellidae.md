@@ -55,7 +55,8 @@ galleries:
     caption: Tiny sand fanworm
   - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/white/050526cjg6820m3.jpg
     caption: White spiral fanworm
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Fanworm](http://mangrove.nus.edu.sg/pub/seashore/text/126)
 
@@ -75,7 +76,8 @@ links_references: '**Links**
   sabellids found in Singapore.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -166,7 +168,9 @@ Feather-duster or 'Christmas tree fanworms' more familiar to divers belong to
 
 Unfortunately, fanworms are popular in the live aquarium trade and collected for this purpose. A fanworm (*Sabella spallanzanii*) introduced to Australian harbours and coasts is affecting some mussel farms because they grow on the lines meant for mussel larvae settlement. Dense growths of these worms foul up dredges and nets, overgrow seagrass and are such effective filter feeders that they deprive native filter feeders of food.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive. Those that do survive are unlikely to breed.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists can also have an impact on local populations.
 

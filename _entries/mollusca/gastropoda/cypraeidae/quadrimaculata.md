@@ -51,14 +51,16 @@ galleries:
     caption: Pulau Semakau, May 11 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/quadrimaculata/140811trylks1m3.JPG
     caption: Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cypraea quadrimaculata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=104986)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

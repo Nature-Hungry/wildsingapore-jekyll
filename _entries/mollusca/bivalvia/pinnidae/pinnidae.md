@@ -82,7 +82,8 @@ galleries:
   - url: https://live.staticflickr.com/7906/32210599507_87b4528e75_z.jpg
     caption: Sudden explosion of Fan clams at Changi, Feb 2019 from the wild shores
       of singapore blog.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Indo-Pacific fan shell (
   *Atrina vexillum*
@@ -126,7 +127,8 @@ links_references: '**Links**
   on this Pinnid and about other Pinnids of the area and their uses.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -236,7 +238,9 @@ It is said that in the past, people collected the long, golden byssus threads of
 
 Some other species of fan clams have byssus hairs that are so similar to human hair that people refuse to eat the animals.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our fan clams are listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
 ---

@@ -70,7 +70,8 @@ galleries:
     caption: Pulau Hantu, Dec 25 Photo shared by Mathias Luk on facebook
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/091205sudtch7m3.jpg
     caption: . Pulau Sudong, Dec 09 Photo shared by Toh Chay Hoon on her flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Gold-spotted mudskipper (
   *Periophthalmus chrysospilos*

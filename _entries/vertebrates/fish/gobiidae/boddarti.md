@@ -43,7 +43,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg
     caption: Pasir Ris, Dec 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Blue-spotted mudskipper (
   *Boleophthalmus boddarti*
@@ -99,7 +100,8 @@ links_references: '**Links**
   : photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

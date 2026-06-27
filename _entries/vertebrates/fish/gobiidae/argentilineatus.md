@@ -50,7 +50,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/argentilineatus/200111smksll2.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Liz Lim on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Periophthalmus argentilineatus*](http://www.mudskipper.it/SpeciesPages/arge.html)
 
@@ -79,7 +80,8 @@ links_references: '**Links**
   : photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

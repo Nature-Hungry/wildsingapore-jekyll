@@ -57,7 +57,8 @@ galleries:
   - url: https://farm4.staticflickr.com/3491/3869824396_53c75a7ba7_z.jpg?zz=1
     caption: Seen at Chek Jawa from the mangrove boardwalk on 29 Aug 09. Video clip
       shared by November on her flickr.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mud lobster (
   *Thalassina anomala*
@@ -99,7 +100,8 @@ links_references: '**Links**
   in Marine Lobsters of the World on Marine Life Species Identification Portal.
 
 
-  **References**
+  ### References
+
 
   - *Banded krait entering mud lobster mound at Chek Jawa*
 
@@ -188,7 +190,9 @@ also appear to grow better on these mounds. The condominium comes complete with 
 
 Mud lobsters are eaten in some Pacific Islands such as Fiji. In our part of the world, they are considered a nuinsance by fish and prawn farmers as their digging activities undermine the bunds (raised edges of mud) that surround fish and prawn ponds.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our mud lobsters are listed as 'Endangered' on the Red List of threatened animals of Singapore, as their preferred habitats are lost or degraded. If they disappear, so will their 'condos' and the plants and animals living there. L
 ike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 

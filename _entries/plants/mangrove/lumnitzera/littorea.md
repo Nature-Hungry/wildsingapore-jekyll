@@ -37,7 +37,8 @@ galleries:
     caption: Pulau Semakau, Nov 09
   - url: https://images.naturehungry.sg/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg
     caption: Pulau Semakau, Dec 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Lumnitzera littorea*](http://floraofsingapore.wordpress.com/2010/08/14/lumnitzera-littorea/)
 
@@ -70,7 +71,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -154,7 +156,9 @@ practically exclude each other in habitat and have never been collected in exact
 
 According to Burkill, the timber is hard and durable, and thus sought after for marine pilings as well as bridges, wharves, parts of canoes and other household items. There are reports that pier posts made of the tree were still sound after 20-50 years. When first cut it smells of roses. But large-sized timber is rare. It is also used as firewood.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg)

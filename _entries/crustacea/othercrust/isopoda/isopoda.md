@@ -40,7 +40,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg
     caption: Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr .
-links_references: "**Links**\n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\n\
+links_references: "### Links
+\n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [Warty pill-bug (\n*Sphaeroma\
   \ terebrans*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2035)\nNg, Peter K.\
@@ -48,7 +49,8 @@ links_references: "**Links**\n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/s
   . Singapore Science Centre. 168 pp.\n- [Isopods and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipods.html)\n\
   on the\n[Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)\n\
   by Keith Davey on the Marine Education Society of Australia website: Fact sheet,\
-  \ diagrams.\n\n**References**\n- Niel L. Bruce, Melissa B. Martin, Kerry A. Hadfield\
+  \ diagrams.\n\n### References
+\n- Niel L. Bruce, Melissa B. Martin, Kerry A. Hadfield\
   \ & Barbara F. Nowak, Redescription of the fish parasitic \u201Ctongue biter\u201D\
   \ Cymothoa rhina Schioedte & Meinert, 1884 (Crustacea: Isopoda: Cymothoidae) from\
   \ Singapore, 29 June 2016, Raffles Bulletin of Zoology Supplement No. 34: 331\u2013\

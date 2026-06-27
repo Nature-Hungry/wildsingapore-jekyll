@@ -26,14 +26,16 @@ galleries:
       .
   - url: https://images.naturehungry.sg/porifera/cliona/110620smklks.JPG
     caption: Pulau Semakau , Jun 11 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cliona utricularis*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=181115)
 
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

@@ -99,7 +99,8 @@ On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
-**References**
+### References
+
 - Chim C. K., R. S. L. Ong & Gan B. Q.
 *Penis fencing, spawning, parental care and embryonic development in the cotylean flatworm Pseudoceros indicus (Platyhelminthes: Polycladida: Pseudocerotidae) from Singapore* . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 60-67.
 - Allen, Gerald R and Roger Steene. 2002. *Indo-Pacific Coral Reef Field Guide*. Tropical Reef Research. 378pp.

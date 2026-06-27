@@ -32,7 +32,8 @@ galleries:
     caption: Tiny stick-like tail and tiny dorsal fins.
   - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3a.jpg
     caption: Small, downward-pointing tube-like mouth.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Yellow boxfish (
   *Ostracion cubicus*
@@ -46,7 +47,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

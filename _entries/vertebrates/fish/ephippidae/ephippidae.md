@@ -63,7 +63,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/ephippidae/platax/240526bbbrg1.jpg
     caption: Beting Bemban Besar, May 24 Photo shared by Rachael Goh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Round-faced Batfish (
   *Platax teira*
@@ -108,7 +109,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Koh Kwan Siong. 18 December 2015.
 
@@ -181,7 +183,9 @@ They feed on seaweeds and small animals.
 
 Juvenile batfishes are often taken from the wild for the aquarium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our batfishes are listed among the threatened animals of Singapore.
 However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection by hobbyists can also have an impact on local populations.
 

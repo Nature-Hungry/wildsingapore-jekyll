@@ -34,7 +34,8 @@ galleries:
     caption: Photos shared by Toh Chay Hoon on her flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/081206smktch02m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove slugs Family Onchidiidae](http://mangrove.nus.edu.sg/guidebooks/text/2089)
 
@@ -45,7 +46,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

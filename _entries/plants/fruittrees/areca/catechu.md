@@ -27,13 +27,15 @@ subtribe: Arecinae
 inat_id: 83108
 updated: Nov 10
 coverimg: https://images.naturehungry.sg/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Areca catechu*](http://floraofsingapore.wordpress.com/2010/07/15/areca-catechu/)on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Wee Yeow Chin. 1992.*[A Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
   The Singapore Science Centre. 160pp.

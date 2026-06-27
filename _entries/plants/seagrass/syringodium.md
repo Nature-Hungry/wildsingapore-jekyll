@@ -34,7 +34,8 @@ galleries:
   - url: https://images.naturehungry.sg/plants/seagrass/syringodium/220618tmftvc4.jpg
     caption: Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   on the Seagrass-Watch website.
 
 
-  **References**
+  ### References
+
 
   - Waycott, Michelle (et. al). 2004.
 
@@ -129,7 +131,9 @@ or
 *Halodule*
 seagrasses available. So it is also sometimes called Dugong grass.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/seagrass/syringodium/050309smkd1462m3.jpg)*

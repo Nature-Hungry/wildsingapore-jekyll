@@ -34,7 +34,8 @@ galleries:
     caption: Juvenile Mangrove shield bugs . Pulau Ubin, Jan 04
   - url: https://images.naturehungry.sg/plants/mangrove/excoecaria/excoecaria/090321krjo3211561m3.jpg
     caption: Fruits. Kranji Canal, Mar 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Excoecaria agallocha](http://floraofsingapore.wordpress.com/2010/07/11/excoecaria-agallocha/)*
 
@@ -70,7 +71,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

@@ -59,14 +59,16 @@ galleries:
     caption: Beting Bronok, Jul 14 Shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg
     caption: Beting Bronok, Jun 16 Shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Craspidaster hesperus*](http://www.sealifebase.org/summary/Craspidaster-hesperus.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.
 

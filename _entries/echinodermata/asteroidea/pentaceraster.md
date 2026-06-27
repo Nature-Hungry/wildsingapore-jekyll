@@ -67,7 +67,8 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/pentaceraster/241117cyrmn2.jpg
     caption: Cyrene Reef, Nov 24 Photo shared by Marcus Ng n on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [A new star for Singapore: discovery of sea star](http://wildsingaporenews.blogspot.com/2008/05/new-star-for-singapore-discovery-of-sea.html)
   Discovery of large five-rayed sea star adds to marine biodiversity here David J.W.

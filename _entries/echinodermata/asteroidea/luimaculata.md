@@ -23,7 +23,8 @@ superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
 coverimg: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Learning about*Luidia*! 5 Things about The OTHER Sand Star!](http://echinoblog.blogspot.sg/2014/04/learning-about-luidia-5-things-about.html)by
   Dr Christopher Mah on Echinoblog
@@ -33,7 +34,8 @@ links_references: '**Links**
   Eight-armed Sea Star by Tashfia Raquib, 02 Jan 2019 on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water Seastars of Australia*.
   2020. Western Australian Museum. 543pp.
@@ -161,7 +163,9 @@ Sometimes, the large sea star is seen with its central disk raised above the gro
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 This sea star appears to be a serious predator! According to Lane, it burrows in soft sediments and feeds on small buried animals such as molluscs and other echinoderms. Coleman has a photo of this sea star eating another sea star! According to Marsh and Fromont, it eats sea stars, sand dollars and heart urchins which are swallowed whole. It also eats clams and snails, crustaceans, worms, brittle stars and sea cucumbers.
 
-**Status and threats:**
+ ## Status and threats
+
+
 According to Lane, the Eight-armed sand star used to be common on our mainland shores. It is now listed as 'Endangered' on the Red List of threatened animals in Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

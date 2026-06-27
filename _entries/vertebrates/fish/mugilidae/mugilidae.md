@@ -58,7 +58,8 @@ galleries:
     caption: Kusu Island, Sep 14 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/mugilidae/mugilidae/140809hntmn.jpg
     caption: Pulau Hantu, Aug 14 Photo shared by Marcus Ng on flickr . .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Squaretail mullet (
   *Ellochelon vaigensis*
@@ -131,7 +132,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Kelvin K. P. Lim & Tan Heok Hui. 30 April 2020.
 

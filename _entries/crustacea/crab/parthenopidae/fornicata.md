@@ -58,14 +58,16 @@ galleries:
     caption: Beting Bronok , Nov 11 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/fornicata/180714cjtch1.jpg
     caption: Chek Jawa, Jul 18 Photo shared by Toh Chay Hoon on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cryptopodia fornicata*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1032)
 
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Debelius, Helmut, 2001.
 
@@ -102,7 +104,9 @@ This strange crab is sometimes seen on our northern shores.
 
 Body width about 6cm. A domed body covers the spindly walking legs. Eyes tiny and close together at the top of a rather triangular head. The pincers are large and angular.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This crab is listed as 'Endangered' on the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

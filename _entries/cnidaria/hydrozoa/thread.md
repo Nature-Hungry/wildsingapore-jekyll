@@ -53,7 +53,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/110422tbmlks10m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -95,7 +96,9 @@ This small jellyfish sometimes seen on stranded on our shores. Several may be se
 
 Bell about 5-8cm, long thin thread-like tentacles from the edges of the bell 10-15cm long. Bell has radiating white patterns. Those washed ashore look like blobs of jelly.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

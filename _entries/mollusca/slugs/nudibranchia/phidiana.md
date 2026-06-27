@@ -39,7 +39,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/phidiana/210213bsistch1.jpg
     caption: Big Sisters Island, Feb 21 Photo shared by Toh Chay Hoon on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   *[Phidiana militaris](http://www.seaslugforum.net/find/phidmili)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

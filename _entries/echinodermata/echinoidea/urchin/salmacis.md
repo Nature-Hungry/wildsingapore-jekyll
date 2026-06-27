@@ -64,7 +64,8 @@ galleries:
     caption: Spines longer, banded white and maroon
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
     caption: Underside
-links_references: "**Links**\n- [Banded urchin (\n*Salmacis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
+links_references: "### Links
+\n- [Banded urchin (\n*Salmacis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*A Guide to Seashore Life*\n. The Singapore\
   \ Science Centre, Singapore. 160 pp.\n- [*Salmacis bicolor*](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=139110)\n\
   and\n[*Salmacis sphaeroides*](http://www.sealifebase.org/summary/Salmacis-sphaeroides.html)\n\
@@ -74,7 +75,8 @@ links_references: "**Links**\n- [Banded urchin (\n*Salmacis*\n)](http://mangrove
   \ Sea Urchin\n*Salmacis virgulata*\n(L. Agassiz and Desor 1846) from the Pondicherry\
   \ Coast, India](http://www.idosi.org/wjfms/wjfms3(2)11/7.pdf)\nWorld Journal of\
   \ Fish and Marine Sciences 3 (2): 126-128, 2011 ISSN 2078-4589 \xA9 IDOSI Publications,\
-  \ 2011\n\n**References**\n- Neo Mei Lin.\n*Zebra crab (Zebrida adamsii) on a sea-urchin\
+  \ 2011\n\n### References
+\n- Neo Mei Lin.\n*Zebra crab (Zebrida adamsii) on a sea-urchin\
   \ (Salmacis sphaeroides) at Changi Beach*\n. 28 July 2017. Singapore Biodiversity\
   \ Records 2017: 96 ISSN 2345-7597. National University of Singapore.\n- Ying Lynette\
   \ Shu Min. 29 Sep 2017.\n*Parasitic snails, Vitreobalcis sp., on white sea urchins\

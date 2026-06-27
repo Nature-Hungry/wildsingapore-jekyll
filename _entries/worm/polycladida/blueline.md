@@ -269,7 +269,8 @@ With grateful thanks to Leslie H. Harris of the
 [Natural History Museum of Los Angeles County](http://www.nhm.org/)
 for comments on this worm and its identification.
 
-**References**
+### References
+
 - D. M. Bolaños, B. Q. Gan & R. S. L. Ong. 29 Jun 2016. First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation.(pdf) The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.
 - Newman, Leslie and Lester Cannon. 2003.
 *Marine Flatworms: The World of Polyclads*

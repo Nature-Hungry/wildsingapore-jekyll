@@ -63,7 +63,8 @@ galleries:
     caption: Terumbu Semakau, Jun 12 Photo shared by Russel Low on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/tigris/200310bbbjc2.jpg
     caption: Beting Bemban Besar, 20 Photo shared by Jesselyn Chua on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tiger cowrie (
   *Cypraea tigris*
@@ -90,7 +91,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -165,7 +167,9 @@ a
 
 It is collected for food and the shell for the shell trade, where it is one of the favourites of shell collectors. Sadly, they are often over-collected, using destructive methods such as dynamite fishing. As a result, even elsewhere, it may be nearly extinct locally or confined to depths over 10 m.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' in the Red List of threatened animals of Singapore, which adds that although it is considered one of the most common coweries in the Indo-Pacific, and were found on Singapore's reefs in the past, it is now 'exceedingly rare'. The Red List goes on the suggest that sites need to be protected and over-collecting prevented.
 
 ---

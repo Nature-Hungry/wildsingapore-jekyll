@@ -80,7 +80,8 @@ galleries:
   gallery10:
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/210428slutch1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Placida dendritica*](http://www.seaslugforum.net/factsheet.cfm?base=placden1)
 
@@ -91,7 +92,8 @@ links_references: '**Links**
   by Dr Bill Rudman: photos and fact sheets.
 
 
-  **References**
+  ### References
+
 
   - K. R. Jensen.
 

@@ -46,7 +46,8 @@ galleries:
     caption: Cyrene Reef, Aug 12
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/zebra/120819cyrlks2.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Natica areolata*](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=90352)
 

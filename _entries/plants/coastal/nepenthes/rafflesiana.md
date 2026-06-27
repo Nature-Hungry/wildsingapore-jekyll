@@ -22,7 +22,8 @@ order: Caryophyllales
 inat_id: 123555
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Nepenthes rafflesiana*](http://uforest.org/Species/N/Nepenthes_rafflesiana.html)on
   Urban Forest: phoots and fact sheet.
@@ -36,7 +37,8 @@ links_references: '**Links**
   the NParks Flora and Fauna website: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan, Hugh T.W. 1997.*A Guide to the Carnivorous Plants of SIngapore*. BP Science
   Centre Guidebook. 176 pp.
@@ -104,7 +106,9 @@ Despite the treacherous nature of the pitcher, the Nepenthes Crab Spider (*Misum
 
 According to Burkill, the tough stems of pitcher plants (species not specified) are used in rope making, while the roots are used to treat stomach aches, dysentery and in poultices. The stem may be used to treat coughs and fevers.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The plant is listed as 'Vulnerable' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg)

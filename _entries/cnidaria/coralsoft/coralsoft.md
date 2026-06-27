@@ -17,7 +17,8 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Aug 2025
 coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm)Tan,
   Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -26,7 +27,7 @@ links_references: '**Links**
 
   - [Soft corals shrug off poor image](http://www.reef.crc.org.au/publications/explore/feat18.html)on
   the CRC Reef Centre website: preliminary findings of a study on the role of soft
-  corals in offshore and inshore reefs, and some info on their applications in human
+ corals in offshore and inshore reefs, and some info on their applications in human
   medicine.
 
 
@@ -34,7 +35,8 @@ links_references: '**Links**
   the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -183,7 +185,9 @@ Soft corals can reproduce asexually: budding of new polyps enlarges the colony. 
 
 Soft corals protect themselves with unusual substances which are being studied for possible anti-cancer properties. Soft corals are also harvested from the wild for the aquarium trade. Living coral reefs, however, are worth far more to humans when they left alone. Reefs bring in tourists which generate business beyond the shore (e.g., hotels, restaurants and travel-related industries).
 
-**Status and threats:**
+ ## Status and threats
+
+
 Like other creatures of the sea, soft corals are threatened by human activities that degrade or destroy the habitat.
 Trampling by careless visitors, and over-collection also have an impact on local populations.
 

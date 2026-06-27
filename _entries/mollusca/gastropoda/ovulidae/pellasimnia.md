@@ -81,7 +81,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
-**References**
+### References
+
 
 - Wong, H. W., 2011.
 *The Ovulidae (Mollusca: Gastropoda) of Singapore*

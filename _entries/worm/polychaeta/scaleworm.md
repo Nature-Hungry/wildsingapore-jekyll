@@ -67,7 +67,8 @@ galleries:
   - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/200626tptvc3.jpg
     caption: Terumbu Pempang Tengah, Jun 20 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Segmented worms including
 
@@ -91,7 +92,8 @@ links_references: '**Links**
   fact sheets and photos of polychaetes found in Singapore.
 
 
-  **References**
+  ### References
+
 
   - Jones, R.E. (Ed.) et al. 2000.
 

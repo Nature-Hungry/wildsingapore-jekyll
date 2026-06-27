@@ -19,7 +19,8 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/comes.gif
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Project Seahorse](http://seahorse.fisheries.ubc.ca/relatives.html)
 
@@ -28,7 +29,8 @@ links_references: '**Links**
   America. Washington D.C.: University of British Columbia and World Wildlife Fund.
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 

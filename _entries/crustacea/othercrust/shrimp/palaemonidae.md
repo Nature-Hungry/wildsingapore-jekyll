@@ -47,9 +47,11 @@ galleries:
     caption: Machine gun coral shrimp
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
     caption: Glass shrimp
-links_references: "**Links**\n- [Glass Shrimp (\n*Periclimenes*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/180)\n\
+links_references: "### Links
+\n- [Glass Shrimp (\n*Periclimenes*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/180)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988,\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
-  . The Singapore Science Centre, Singapore. 160 pp.\n\n**References**\n- Toh Chay\
+  . The Singapore Science Centre, Singapore. 160 pp.\n\n### References
+\n- Toh Chay\
   \ Hoon. 20 December 2013.\n*Shrimps and saddleback anemonefish on carpet anemone\
   \ off Pulau Hantu: Holthuis\u2019s anemone shrimp, Periclimenes holthuisi and Saddleback\
   \ anemonefish, Amphiprion polymnus*\n. Singapore Biodiversity Records 2013: 126-127.\n\

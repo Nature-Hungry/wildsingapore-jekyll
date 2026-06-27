@@ -62,7 +62,8 @@ galleries:
     caption: Pulau Salu, Jun 10
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/100601slud4739m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Lobophytum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lobophytum)
 
@@ -77,7 +78,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -134,7 +136,9 @@ The colony has both feeding polyps (autozooids) and water pumping polyps (siphon
 (*Sinularia*
 sp.) which does not have siphonozooids and thus has a smooth common tissue.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -84,7 +84,8 @@ galleries:
   gallery11:
   - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/181027smkmn1.jpg
     caption: Pulau Semakau, Oct 18 Photo shared by Marcus Ng and flickr.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Horseshoe Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175) Tan, Leo W.
   H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -101,7 +102,8 @@ links_references: '**Links**
   on SeaLife Base.
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data
   Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
@@ -147,7 +149,9 @@ Diameter to about 25cm. The circular shell is greyish sometimes brown. Identifie
 **Sometimes confused with** the [Mangrove horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*). More on [how to tell them apart](limulidae).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-**Status and threats:**
+ ## Status and threats
+
+
 The Coastal horseshoe crab is listed as 'Endangered' on the Red List of threatened animals of Singapore. It is mainly threatened by habitat loss.
 
 According to the Singapore Red Data Book: "In the last two decades, many good natural shorelines have been developed or 'improved' through a variety of 'beach improvement' schemes, reclamation and other developments, so much so that the Coastal horseshoe crab has become less common and the species should be regarded as endangered in the Singapore context."

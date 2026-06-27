@@ -37,7 +37,8 @@ galleries:
     caption: Changi, May 09 Photo shared by James Koh on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/aratrum/090529chgjk2.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Diana conch (
   *Strombus aurisdianae*
@@ -64,7 +65,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -125,7 +127,9 @@ is more elongate and has a brown-stained shell opening. Thus its common name is 
 *S. aurisdianae*
 is collected for food where it is abundant. The shell is used in shellcraft. It is sold in local markets of the central and northern Philippines.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *S. aratrum*
 (spelt
 *S. atratum*

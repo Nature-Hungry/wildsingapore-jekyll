@@ -43,7 +43,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Amphiroa*](http://www.algaebase.org/search/species/detail/?species_id=3310)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   : Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

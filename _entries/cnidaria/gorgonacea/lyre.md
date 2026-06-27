@@ -37,7 +37,8 @@ galleries:
     caption: Changi-Loyang, Jul 20 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/240706ubnlks1a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ctenocella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Ctenocella)
 
@@ -52,7 +53,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

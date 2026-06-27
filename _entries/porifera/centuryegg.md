@@ -27,7 +27,8 @@ galleries:
   - url: https://images.naturehungry.sg/porifera/centuryegg/200725smknjc1.jpg
     caption: Pulau Semakau (North), Jul 20 Photo shared by Joleen Chang on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Aaptos suberitoides*](http://142.103.81.136/summary/Aaptos-suberitoides.html)
 
@@ -38,7 +39,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

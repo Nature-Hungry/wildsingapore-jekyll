@@ -29,7 +29,8 @@ galleries:
     caption: Admiralty Park, Apr 09
   - url: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/091005cjd2144m3.jpg
     caption: Chek Jawa, Oct 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Adinandra dumosa](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2698)*
 
@@ -49,7 +50,8 @@ links_references: '**Links**
   descriptions, ecology and references.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

@@ -74,7 +74,8 @@ galleries:
     caption: Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/octopusnoid/201115tkklks2.jpg
     caption: Pulau Tekukor, Nov 20 Photo shares by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Octopus](http://mangrove.nus.edu.sg/pub/seashore/text/168)
 
@@ -144,7 +145,8 @@ links_references: '**Links**
   - [Cocopod: when octopus meets coconut](http://wildshores.blogspot.com/2009/12/cocopod-when-octopus-meets-coconut.html)
 
 
-  **References**
+  ### References
+
 
   - Diah Anggraini Saraswati, Carsten V. Steffensen & Zeehan Jaafar. 5 December 2014.
 
@@ -281,7 +283,9 @@ The eggs do not hatch into free-swimming larvae. Instead, miniature octopuses em
 
 Octopuses are widely eaten in Asia. They are caught in many ways, including by lines, in pots or by trawling.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our octopuses are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also affect local populations.
 
 ---

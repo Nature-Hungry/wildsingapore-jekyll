@@ -53,14 +53,16 @@ galleries:
       .
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/lineocaerulea/130526chglks1.JPG
     caption: Changi, May 13 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Macrophiothrix lineocaerulea*](http://www.sealifebase.org/summary/Macrophiothrix-lineocaerulea.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 
@@ -107,7 +109,9 @@ the
 [Very long armed brittle star](longipeda)
 (*Macrophiothrix longipeda*) which also has very long arms but lacks the blue lines and has flatter spines.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Blue-lined brittle star is listed among the threatened animals of Singapore.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 

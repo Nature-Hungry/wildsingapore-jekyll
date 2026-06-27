@@ -119,7 +119,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/091231biojk8m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Gorgoniidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Gorgoniidae)
 
@@ -134,7 +135,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

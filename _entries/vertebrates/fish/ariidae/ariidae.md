@@ -35,7 +35,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/ariidae/ariidae/030608cjd0063m3.jpg
     caption: Small ones (about 6cm) are sometimes seen in large numbers on the shores.
       Chek Jawa, Jun 03
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Yellow Sea Catfish (
   *Arius venosus*
@@ -97,7 +98,8 @@ links_references: '**Links**
   : Technical fact sheet on the order, including fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Ng, H. H., 2012.
 
@@ -165,7 +167,9 @@ Adapted for hunting in murky waters for prawns, worms and other titbits hiding o
 
 Some species are important commercial food fishes, sold fresh or salted.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our sea catfishes are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.
 
 **Species are difficult to positively identify without close examination.

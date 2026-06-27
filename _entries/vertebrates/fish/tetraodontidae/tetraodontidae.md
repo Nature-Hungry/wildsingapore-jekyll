@@ -47,7 +47,8 @@ galleries:
     caption: Reticulated pufferfish
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg
     caption: Map pufferfish
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Yelloweye Puffer (
   *Arothron immaculatus*
@@ -125,7 +126,8 @@ links_references: '**Links**
   on the wild shores of singapore
 
 
-  **References**
+  ### References
+
 
   - Toh Chay Hoon & Kelvin K. P. Lim.
 
@@ -198,7 +200,9 @@ Pufferfishes lay eggs in a nest and it is presumed that the nest is defended.
 
 Despite their toxic nature, pufferfishes are eaten in Japan as a delicacy.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our pufferfishes are not listed as among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.
 
 ---

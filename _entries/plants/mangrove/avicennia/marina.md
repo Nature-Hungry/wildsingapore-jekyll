@@ -47,7 +47,8 @@ galleries:
     caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Aug 11
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/090112smkd5020m3a.jpg
     caption: Bark greenish, pneumatophores very tall. Pulau Semakau, Jan 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Api-api jambu (
   *Avicennia marina*
@@ -74,7 +75,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -134,7 +136,9 @@ Fruit oval, flattened circular or egg-shaped ("always as long as it is wide" acc
 
 According to Giesen, the fruits are eaten, leaves fed to livestock while the wood produces good-quality pulp for paper production. In traditional medicine, the bark resin is used as a contraceptive and the leaves used to treat burns.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg)

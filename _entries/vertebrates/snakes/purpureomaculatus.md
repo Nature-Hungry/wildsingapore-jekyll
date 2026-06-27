@@ -20,7 +20,8 @@ suborder: Serpentes
 subfamily: Crotalinae
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Shore Pit Vipers](http://singaporesnakes.blogspot.com/search/label/Shore%20Pit-viper)
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   in the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Jeremy W. L. Yeo & Tan Heok Hui. 29 January 2016.
 
@@ -119,7 +121,9 @@ It feeds on lizards, frogs and other small animals, possibly small birds. Like o
 **Dog-faced babies:**
 Mama snake gives birth to live young in litters of 7-14. Hatchlings have dark brown saddle bars along the back.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our Shore pit vipers are listed as 'Endangered' on the Red List of threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 
 ![](https://images.naturehungry.sg/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg)

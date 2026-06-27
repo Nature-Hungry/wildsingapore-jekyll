@@ -9,7 +9,7 @@
 			 🔲 !Entry attributes
 			 ✅ Atomic entry content
 			 🔲 Higher rank entries content
-			 🔲 (Dev) Sidebar section navigation (collapsible on mobile view)
+			 ✅ (Dev) Sidebar section navigation (collapsible on mobile view)
 			 ✅ Assigning zones to entries
 			 🔲 !Assigning habitats to entries
 			 🔲 !Adding form information to entries (juvenile, larvae form etc.)

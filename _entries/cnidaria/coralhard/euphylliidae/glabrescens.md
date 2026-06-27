@@ -61,7 +61,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -81,7 +82,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -140,7 +142,9 @@ With their tentacles fully extended, torch corals may also resemble
 [Sunflower mushroom corals](../fungiidae/heliofungia)
 (*Heliofungia actiniformis*). The torch coral, however, has much shorter tentacles and of course an entirely different skeleton structure.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This coral is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

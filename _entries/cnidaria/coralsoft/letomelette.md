@@ -57,7 +57,8 @@ galleries:
     caption: Pulau Sudong, Dec 09
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/100131slud8803m3.jpg
     caption: Terumbu Salu, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Sarcophyton*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sarcophyton)
 
@@ -72,7 +73,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -142,7 +144,9 @@ Sometimes, tiny
 [ctenophores](../../ctenophora/coeloplana)
 may be seen on large colonies, so well camouflaged that they are often found by the long fine strings that they produce.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

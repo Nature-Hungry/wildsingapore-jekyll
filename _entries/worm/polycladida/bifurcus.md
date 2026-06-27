@@ -57,9 +57,11 @@ galleries:
     caption: Beting Bemban Besar, Mar 20 Shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/bifurcus/080220smkpoc1m3.jpg
     caption: Pulau Semakau, Feb 08 Shared by Lim Swee Cheng on his flickr .
-links_references: "**Links**\n- [*Pseudoceros bifurcus*](http://polycladida.lifedesks.org/pages/4224)\n\
+links_references: "### Links
+\n- [*Pseudoceros bifurcus*](http://polycladida.lifedesks.org/pages/4224)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  \ sheet.\n\n### References
+\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
   \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1os,\
   \ B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\

@@ -47,12 +47,14 @@ galleries:
       Buloh Wetland Reserves, Aug 13 Photo by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg
     caption: St John's Island, Apr 25 Photo shared by Mathias Luk on facebook .
-links_references: "**Links**\n- [*Periophthalmus walailake*](http://www.mudskipper.it/SpeciesPages/wala.html)\n\
+links_references: "### Links
+\n- [*Periophthalmus walailake*](http://www.mudskipper.it/SpeciesPages/wala.html)\n\
   from\n[The Mudskipper website](http://www.mudskipper.it/Intro.html)\nby Gianluca\
   \ Polgar: Technical fact sheets with lots of photos.\n- [*Periophthalmus walailake*](http://www.fishbase.org/Summary/SpeciesSummary.php?id=61443)\n\
   from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet.\n- [Yellow-spotted\
   \ mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/yellow-spotted-mudskipper)\n\
-  on\n[EcologyAsia](http://www.ecologyasia.com/)\n: photos and fact sheet.\n\n**References**\n\
+  on\n[EcologyAsia](http://www.ecologyasia.com/)\n: photos and fact sheet.\n\n### References
+\n\
   - Theresa L. Su & Shirley S. L. Lim. 12 August 2016.\n*Niche partitioning in two\
   \ syntopic mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore\
   \ mangrove*\n. Raffles Bulletin of Zoology 64: 220\u2013228.\n- Zeehan Jaafar, Kelvin\

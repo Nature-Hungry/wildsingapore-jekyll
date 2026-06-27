@@ -41,14 +41,16 @@ galleries:
     caption: Fruits
   - url: https://images.naturehungry.sg/plants/coastal/caryota/mitis/091227kntd6434m6l.jpg
     caption: Kranji Nature Trail, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caryota mitis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Caryota%20mitis.html)
 
   (Arecales: Arecaceae) Clustering Fishtail Palm by Randolph Quek, 2014, on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Burkill, I. H., 1993.
 

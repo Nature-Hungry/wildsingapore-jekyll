@@ -163,7 +163,8 @@ links_references: '**Acknowledgements**With
 
   grateful thanks to Chim Chee Kong of the [Star
 
-  Trackers](http://startrackers.blogspot.com/) for identifying the sea stars. **Links**
+  Trackers](http://startrackers.blogspot.com/) for identifying the sea stars. ### Links
+
 
   - [The Star Trackers blog](http://startrackers.blogspot.com/)all about the Knobbly
   sea stars of Singapore!
@@ -177,7 +178,8 @@ links_references: '**Acknowledgements**With
   The Echinoblog: about the status of the Knobbly sea star.
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.*Field Guide to Shallow Water Seastars of Australia*.
   2020. Western Australian Museum. 543pp.
@@ -246,7 +248,9 @@ More about this spawning posture
 [on the Echinoblog](http://echinoblog.blogspot.sg/2011/08/starfish-standing-on-their-tippy-toes.html)
 . Juveniles are commonly seen on Cyrene Reef among seagrasses, as well as some of our other shores.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Knobbly sea stars are harvested from the wild for the live aquarium trade, often selling for only a few dollars. In captivity, they are unlikely to survive long without expert care. In the past, Knobbly sea stars were among the most common large sea stars of Malaya. They are now listed as 'Endangered' on the Red List of threatened animals of Singapore. Cyrene Reef is among the few places left in Singapore where they can be seen regularly.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

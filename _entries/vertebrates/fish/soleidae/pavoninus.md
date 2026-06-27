@@ -102,7 +102,8 @@ galleries:
   gallery15:
   - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/pavoninus/091205sudjk13m6l.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Peacock Sole (
   *Pardachirus pavoninus*
@@ -140,7 +141,8 @@ links_references: '**Links**
   on the wild shores of singapore blog: about the toxin produced by the Moses sole.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

@@ -26,7 +26,8 @@ galleries:
     caption: Harlequin sweetlips
   - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
     caption: Painted sweetlips
-links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
+links_references: "### Links
+\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
   . Singapore Science Centre. 163 pp.\n- [Sweetlips](http://ikanfish.wordpress.com/sweetlips/)\n\
   on Reef Fishes of Singapore by Jeffrey Low.\n- [Family Haemulidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=327)\n\
@@ -44,7 +45,8 @@ links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[
   by R.J. McKay on the FAO website (pdf) In K.E. Carpenter and V.H. Niem (eds.) FAO\
   \ species identification guide for fishery purposes. The living marine resources\
   \ of the Western Central Pacific. Volume 5. Bony fishes part 3 (Menidae to Pomacentridae).\
-  \ Rome, FAO. pp. 2791-3380. Ref No [47695] Key No. [746]\n\n**References**\n- Jeffrey\
+  \ Rome, FAO. pp. 2791-3380. Ref No [47695] Key No. [746]\n\n### References
+\n- Jeffrey\
   \ K. Y. Low & Koh Kwan Siong. 26 Februrary 2016.\n*Gold-lined sweetlips in the Singapore\
   \ Strait, Plectorhincus chrysotaeni*\n. Singapore Biodiversity Records 2016: 24-25\n\
   - LIM K.K.P.\n*First record of Hapalogenys analis (Teleostei: Perciformes: Haemulidae)\

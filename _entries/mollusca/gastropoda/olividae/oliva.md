@@ -36,7 +36,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/180812nsrtlks10.jpg
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Common olive (
   *Oliva oliva*
@@ -59,7 +60,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

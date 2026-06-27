@@ -58,7 +58,8 @@ galleries:
   gallery7:
   - url: https://farm5.staticflickr.com/4152/4982626659_680dc1bac4_z.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove hermit crab (
   *Clibanarius*
@@ -92,7 +93,8 @@ links_references: '**Links**
   (Decapoda: Diogenidae) Orange-striped Hermit Crab on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Dwi Listyo Rahayu, 2000.
 

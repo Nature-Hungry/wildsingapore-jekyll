@@ -110,7 +110,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
-**References**
+### References
+
 - Veron Pwa Keay Hoon & Jin-Ho Park. 30 November 2020.
 *New record of shrimp, Periclimenes cf. obscurus, on carpet anemone*
 . Singapore Biodiversity Records 2020: 204-205. The National University of Singapore.

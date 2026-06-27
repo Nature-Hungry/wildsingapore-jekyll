@@ -109,7 +109,8 @@ trivia_items:
 - They grow from underground stems and will be damaged if they are stepped upon. Avoid
   stepping on seagrasses.
 - Dugongs eat mainly seagrasses!
-links_references: "**Links**\n- [TeamSeagrass\n  blog](http://teamseagrass.blogspot.com/)\
+links_references: "### Links
+\n- [TeamSeagrass\n  blog](http://teamseagrass.blogspot.com/)\
   \ adventures of volunteers monitoring seagrasses of Singapore.\n  You CAN make a\
   \ difference. Join TeamSeagrass!\n- [International\n  Seagrass-Watch](http://www.seagrasswatch.org/)\
   \ with latest seagrass news articles, updates\n  on seagrass monitoring around the\
@@ -129,7 +130,8 @@ links_references: "**Links**\n- [TeamSeagrass\n  blog](http://teamseagrass.blogs
   - Seagrass\n  media articles on [wildsingapore](https://images.naturehungry.sg/news/topics/seagrass)\n\
   \  and on the [wildsingapore\n  news blog](http://wildsingaporenews.blogspot.com/search/label/seagrasses)\
   \ and on the [teamseagrass\n  blog](http://teamseagrass.blogspot.com/search/label/seagrass%20news).\n\
-  \n**References**\n- L. J. McKenzie, S. M. Yaakub, R. Tan, J. Seymour & R. L. Yoshida\
+  \n### References
+\n- L. J. McKenzie, S. M. Yaakub, R. Tan, J. Seymour & R. L. Yoshida\
   \ Pp. 60-77. 29 June 2016. *Seagrass habitats in Singapore: Environmental drivers\
   \ and key processes.* The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part\
   \ I of II).\n- Siti M Yaakub, Lim RLF, Lim WL & Todd PA (2013) *The diversity and\

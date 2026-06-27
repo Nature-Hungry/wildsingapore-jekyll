@@ -59,7 +59,8 @@ galleries:
     caption: Cyrene Reef, Aug 17 Photo shared by Jianlin Liu on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/dnigra/171104cyrlks2.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 

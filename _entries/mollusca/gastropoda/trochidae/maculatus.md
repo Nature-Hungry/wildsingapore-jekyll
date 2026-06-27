@@ -81,7 +81,8 @@ galleries:
     caption: Pulau Salu, Aug 10
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/maculatus/210428sluvc3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)
 
@@ -113,7 +114,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

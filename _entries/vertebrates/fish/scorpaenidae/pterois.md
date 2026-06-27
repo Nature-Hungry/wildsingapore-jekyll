@@ -38,9 +38,11 @@ galleries:
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/pterois/240623hntlks2.jpg
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
-links_references: "**Links**\n- [*Pterois russelii*\n(Plaintail turkeyfish)](http://www.fishbase.org/summary/SpeciesSummary.php?ID=6404&genusname=Pterois&speciesname=russelii)\n\
+links_references: "### Links
+\n- [*Pterois russelii*\n(Plaintail turkeyfish)](http://www.fishbase.org/summary/SpeciesSummary.php?ID=6404&genusname=Pterois&speciesname=russelii)\n\
   on SeaLife Base: Technical fact sheet\n- [*Pterois volitans*\n(Red lionfish)](http://fishbase.sinica.edu.tw/summary/Pterois-volitans.html)\n\
-  on SeaLife Base: Technical fact sheet\n\n**References**\n- Heng Pei Yan & Kelvin\
+  on SeaLife Base: Technical fact sheet\n\n### References
+\n- Heng Pei Yan & Kelvin\
   \ K. P. Lim. 29 May 2015. New record of the volitans lionfish in Singapore. Singapore\
   \ Biodiversity Records 2015: 64\n- Loh Kok Sheng & Kelvin K. P. Lim. 5 September\
   \ 2014. Russell\u2019s lionfish at Pulau Hantu,\n*Pterois russellii*\n. Singapore\

@@ -35,7 +35,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutglittering/210113smkwjt1.jpg
     caption: Pulau Semakau (West), Jan 21 Photo shared by Jonathan Tan on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Sepiella inermis*](http://sealifebase.ca/summary/Sepiella-inermis.html)
 
@@ -58,7 +59,8 @@ links_references: '**Links**
   - Spineless cuttlefish by Anya, 02 Jan 2019 on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

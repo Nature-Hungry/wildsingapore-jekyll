@@ -62,7 +62,8 @@ galleries:
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/codium/230510tptrk2.jpg
     caption: Terumbu Pempang Tengah, May 23 Photo shared by Richard Kuah on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Codium*](http://www.algaebase.org/search/genus/detail/?genus_id=39)
 
@@ -73,7 +74,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

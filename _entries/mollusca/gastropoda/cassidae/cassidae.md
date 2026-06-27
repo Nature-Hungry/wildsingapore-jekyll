@@ -41,7 +41,8 @@ galleries:
     caption: Grey bonnet snail
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
     caption: Changi, May 08
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Cassidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cassidae.html)
 
@@ -65,7 +66,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui and Tan Siong Kiat. 30 November 2016.
 
@@ -154,7 +156,9 @@ The snails have separate genders and practice internal fertilisation. The shell 
 
 These snails are commonly collected for food and their large decorative shells are popular in the shell trade. Some of the larger species are used as raw material for lime or for cameo-carving.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The
 [Grey bonnet snail](glaucum)
 is listed as Endangered in the Red List of threatened animals of Singapore.

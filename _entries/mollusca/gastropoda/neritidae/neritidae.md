@@ -19,7 +19,8 @@ order: Cycloneritida
 superfamily: Neritoidea
 updated: Sep 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg
-links_references: "**Links**\n- [Common nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm)and[Violet\
+links_references: "### Links
+\n- [Common nerite (*Nerita lineata*)](http://mangrove.nus.edu.sg/guidebooks/text/2078.htm)and[Violet\
   \ nerite (*Dostia violacea*)](http://mangrove.nus.edu.sg/guidebooks/text/2079.htm)Ng,\
   \ Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal\
   \ Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre.\
@@ -32,7 +33,8 @@ links_references: "**Links**\n- [Common nerite (*Nerita lineata*)](http://mangro
   \ Identification Guide for Fishery Purposes: The Living Marine Resources of the\
   \ Western Central Pacific[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)on\
   \ the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  **References**\n- Chan Sow-Yan & Lau Wing Lup. 30 October 2020.*Disruption in shell\
+  ### References
+\n- Chan Sow-Yan & Lau Wing Lup. 30 October 2020.*Disruption in shell\
   \ colour patterns of nerite snails*. Singapore Biodiversity Records 2020: 181-182.\
   \ The National University of Singapore.\n\n- Tan Siong Kiat, Toh Chay Hoon. 31 Oct\
   \ 2017.*First Singapore record of Souverbie\u2019s nerite, Smaragdia souverbiana*.\
@@ -150,7 +152,9 @@ Nerites have separate genders and engage in internal fertilisation. They have a 
 
 They are gathered as food by coastal dwellers. Some species of nerites are eaten raw or toasted. The shell is also used in shell craft.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The tiny and beautifully marked
 [Dubious nerite snails](oualaniensis)
 (*Clithon oulaniensis*) and

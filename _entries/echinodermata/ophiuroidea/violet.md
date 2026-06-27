@@ -99,7 +99,8 @@ galleries:
   gallery11:
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/violet/210428slulks1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Macrophiothrix nereidina](https://www.sealifebase.ca/summary/Macrophiothrix-nereidina.html)*
 

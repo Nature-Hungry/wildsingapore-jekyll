@@ -32,7 +32,8 @@ galleries:
     caption: Castle coral
   - url: https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3.jpg
     caption: Lettuce coral
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -89,7 +90,9 @@ are somewhat arbitrary.
 **What do they eat?**
 All members of Family Agariciidae harbour microscopic, single-celled symbiotic algae (zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals. It is believed this additional source of nutrients from the zooxanthellae help hard corals produce their hard skeletons and thus expand their size faster.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our Agaricid corals are listed as threatened on the
 [IUCN global listing](http://www.iucnredlist.org/)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection by hobbyists also have an impact on local populations.

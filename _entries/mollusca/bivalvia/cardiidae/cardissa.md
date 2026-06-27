@@ -63,7 +63,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/cardissa/150524tplhpy5m3.jpg
     caption: Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [True heart cockle (
   *Corculum cardissa*
@@ -91,7 +92,8 @@ links_references: '**Links**
   by Willy van Strien.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -33,14 +33,16 @@ galleries:
     caption: East Coast (G), Dec 22
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1b.jpg
     caption: Photo by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Polinices mammatus*](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=2381338&GenusName=Polinices&SpeciesName=mammatus)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

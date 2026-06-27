@@ -51,7 +51,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/muralis/200624tryrk1.jpg
     caption: Terumbu Raya, Jun 20 Photo shared by Richard Kuah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mural goby (
   *Valenciennea muralis*
@@ -65,7 +66,8 @@ links_references: '**Links**
   : Technical fact sheet including fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

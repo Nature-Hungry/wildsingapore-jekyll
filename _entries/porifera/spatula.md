@@ -48,7 +48,8 @@ galleries:
     caption: Pulau Senang, Jun 10
   - url: https://images.naturehungry.sg/porifera/spatula/100530tbkd4270m3.jpg
     caption: Terumbu Berkas, May 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Lamellodysidea herbacea*](http://www.sealifebase.fisheries.ubc.ca/summary/Lamellodysidea-herbacea.html)
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

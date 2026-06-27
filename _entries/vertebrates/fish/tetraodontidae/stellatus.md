@@ -30,7 +30,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
     caption: Dead/dying washed ashore. St. John's Island, Dec 16 Photo shared by Rene
       Ong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Stellate puffer (
   *Arothron stellatus*
@@ -44,7 +45,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Toh Chay Hoon & Kelvin K. P. Lim.
 

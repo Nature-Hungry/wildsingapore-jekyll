@@ -71,14 +71,16 @@ galleries:
     caption: Terumbu Berkas, Jan 10 Photo shared by Toh Chay Hoon on her flickr .
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/basket/091108hntjk7m3.jpg
     caption: Pulau Hantu, Nov 09 The underside.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Euryale aspera*](http://www.sealifebase.org/summary/Euryale-aspera.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ron K. H. Yeo & Loh Kok Sheng. 3 October 2014.
 
@@ -137,7 +139,9 @@ About 10cm in diameter with arms. Each arm branched into coiling 'tendrils' that
 **Baskets at home:**
 According to David Lane, juveniles are often found on sea fans, while adults are typically found under large corals and crevices during the day, but at night climb up to an elevated point to unfurl their arms into the current.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Euryale aspersa*
 is the only species of basket star is so far listed for Singapore. It is listed as "DD: EN? Data deficient, possibly Endangered" in the Red List of threatened animals.
 

@@ -32,14 +32,16 @@ galleries:
     caption: Pasir Ris Park, Jan 10
   - url: https://images.naturehungry.sg/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg
     caption: Pasir Ris Park, Oct 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Canavalia cathartica*](http://floraofsingapore.wordpress.com/2010/07/21/canavalia-cathartica/)
 
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

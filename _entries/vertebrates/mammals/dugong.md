@@ -32,7 +32,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/mammals/dugong/b6m6l.jpg
     caption: Gracie the captive dugong at Underwater World Sentosa on her 12th birthday
       Jan 09, from Channel NewsAsia .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Latest media reports about dugongs](http://wildsingaporenews.blogspot.com/search/label/dugongs)
 
@@ -81,7 +82,8 @@ links_references: '**Links**
   - [Dugong blimp cam survey at Sungai Pulai](http://wildshores.blogspot.com/2010/01/dugong-blimp-cam-survey-at-sungai-pulai.html)
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -145,7 +147,9 @@ According to Davison, apparently it feeds during the night and rests in deeper w
 **Dugong babies:**
 The mother dugong gives birth in shallow waters, usually to a single calf. The calf clings to the mother's back as she grazes. She suckles her baby for up to 18 months. The juvenile might stay with her for another year after that. It is almost impossible for the baby to survive if its mother dies. Dugongs reproduce slowly, taking 9-10 years to reach sexual maturity and give birth only every 3-7 years. They can live up to 70 years.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Dugong is listed as 'Critically Endangered' in the Red List of threatened animals of Singapore.
 The dugong's natural predators are sharks, killer whales and crocodiles. But man is the main threat, hunting dugongs for their meat, oil, skin (for leather) and for medicinal uses. Dugongs also drown when trapped in fishing nets and are injured by boat propellers. Mostly, they are threatened by the loss of seagrass habitats. Dugongs used to form herds of hundreds, now groups of six are the average. The effective conservation of dugongs requires international cooperation as their natural range can cover many countries. Dugongs are considered highly endangered globally; listed on CITES I and considered by the IUCN to be vulnerable to extinction.
 

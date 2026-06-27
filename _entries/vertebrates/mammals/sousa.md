@@ -26,7 +26,8 @@ superfamily: Delphinoidea
 subfamily: Delphininae
 updated: Oct 2019
 coverimg: https://images.naturehungry.sg/vertebrates/mammals/sousa/170823tsmkjt2.jpg
-links_references: "**Links**\n- *[Sousa chinensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Sousa%20Chinensisl)*\
+links_references: "### Links
+\n- *[Sousa chinensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Sousa%20Chinensisl)*\
   \ (Cetartiodactyla: Delphinidae) Indo-Pacific Humpbacked Dolphin by Yang Jia Qi,\
   \ 2015, on taxo4254.\n- [Support ACRES effort for wild dolphins in Singapore](http://wildshores.blogspot.sg/2015/04/support-acres-effort-for-wild-dolphinsl)\
   \ on the wild shores of singapore blog.\n- [How\n  to eat live sotong if you have\
@@ -34,7 +35,8 @@ links_references: "**Links**\n- *[Sousa chinensis](https://singapore.biodiversit
   \ a dolphin hunting\n  technique on the wild shores of singapore blog.\n- [Latest\n\
   \  media reports on dolphins](http://wildsingaporenews.blogspot.com/search/label/dolphins)\
   \ on the wildsingapore news blog.\n- [Singapore\n  Wild Marine Mammal Survey](http://www.tmsi.nus.edu.sg/mmrl)\
-  \ (SWiMMS)\n\n**References**\n- Benjamin P. Y-H. Lee & Michelle Ooi. 30 June 2020.\
+  \ (SWiMMS)\n\n### References
+\n- Benjamin P. Y-H. Lee & Michelle Ooi. 30 June 2020.\
   \ *Indo-Pacific humpback dolphins near Jurong Island*. Singapore Biodiversity Records\
   \ 2020: 84-85 ISSN 2345-7597\n- Teresa Stephanie Tay & Rene Ong. 10 October 2014.\
   \ *Indo-Pacific humpback dolphins off Lazarus Island, Sousa chinensis*. Singapore\
@@ -91,7 +93,9 @@ Feeds mainly on fish, as well as cephalopods (octopus, squid and cuttlefish).
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Dolphin babies:**
 Baby dolphins are about 100cm long at birth and suckle on their mother's milk for about two years.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This dolphin is listed as 'Endangered' in the Red List of threatened animals of Singapore. Like many other marine mammals, these dolphins are threatened by drowning in fishing lines and fishing nets. They are also affected by pollution and loss of feeding habitats due to reclamation, coastal development and human activities on our coasts and seas.
 
 ---

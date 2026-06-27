@@ -1,0 +1,71 @@
+---
+title: "Hard corals on Singapore shores"
+label: "Boulder corals with ringed corallites"
+description: ""
+keywords: ""
+layout: default
+attributes:
+- 128
+- 134
+- 141
+- 145
+- 151
+- 158
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+---
+
+<p>Colony boulder-shaped, corallites circular or ring-shaped</p>
+<br>
+
+
+{% assign filtered_posts = site.entries 
+    | where_exp: "item", "item.order == 'Scleractinia'"
+    | where_exp:  "item", "
+    item.title == 'Zebra coral'
+    or item.title == 'Meteor coral'
+    or item.title == 'Pock-marked coral'
+    or item.title == 'Trumpet coral'
+    or item.title == 'Lobed brain coral'
+    or item.title == 'Moon coral'
+    or item.title == 'Small ring coral'
+    or item.title == 'Big ring coral'
+    or item.title == 'Purple-and-white ring coral'
+    or item.title == 'Small goniopora coral'
+    "
+
+%}
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+</div>
+
+<br>
+<h2>These are NOT hard corals, they are zoanthids</h2>
+<br>
+<div class="flex flex-wrap gap-2">
+{% assign entry = site.entries | where : "title","Sea mat zoanthid" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Broad zoanthid" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Button zoanthid" | first %}
+{% include entry-summary-card.html item=entry %}
+
+</div>
+
+
+
+
+

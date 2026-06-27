@@ -31,7 +31,8 @@ galleries:
     caption: Admiralty Park, Mar 11
   - url: https://images.naturehungry.sg/plants/mangrove/intsia/bijuga/110307admd6733m3.jpg
     caption: Admiralty Park, Mar 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Intsia bijuga*](http://floraofsingapore.wordpress.com/2011/07/26/intsia-bijuga/)
 
@@ -49,7 +50,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,
 
@@ -110,7 +112,9 @@ Fruits oblong pods (20cm long), woody, slightly flat. Contains several seeds.
 
 According to Giesen, it produces very hard, good quality timber which does not shrink or warp and is resistant to insects and weather. The timber is used for making houses, house posts and bridges. The timber is called 'merbau' and the tree is sometimes called 'Merbau ipil'. The bark and leaves are used to treat diarrhoea. Seeds can be eaten after they fried, soaked for 3-4 days, then boiled.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/mangrove/intsia/bijuga/110307admd6727m6l.jpg)

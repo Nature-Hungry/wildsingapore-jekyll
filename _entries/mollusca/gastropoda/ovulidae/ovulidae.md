@@ -53,7 +53,8 @@ galleries:
     caption: Dalmation spindle cowrie
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
     caption: Soft coral false cowrie
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Ovulidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Ovulidae.html)
 
@@ -83,7 +84,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Calvin Leow Jiah Jay & Tan Siong Kiat.
 
@@ -201,7 +203,9 @@ Ovulids lay their eggs on the base of the host or hanging from the limbs of bran
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Hanging in there:**
 Several of these snails were seen 'hanging' from a string of mucus on sea fans exposed out of water during low tide.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %}**Status and threats:**
+{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+
+
 None of our ovulids are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---

@@ -47,7 +47,8 @@ galleries:
     caption: Anchor tuskfish
   - url: https://images.naturehungry.sg/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg
     caption: Singapore tuskfish
-links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
+links_references: "### Links
+\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
   \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
   . Singapore Science Centre. 163 pp.\n- Tan, Leo W. H. & Ng, Peter K. L., 1988.\n\
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore\
@@ -55,7 +56,8 @@ links_references: "**Links**\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[
   on the endangered members of the Family Labridae with latest Red List for this group.\n\
   - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae)](http://www.fao.org/docrep/009/y0870e/y0870e00)\n\
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources\
-  \ of the Western Central Pacific.\n\n**References**\n- Adib Adris & Vincent Ting.\
+  \ of the Western Central Pacific.\n\n### References
+\n- Adib Adris & Vincent Ting.\
   \ 29 May 2020.\n*Floral wrasse at Seringat-Kias*\n. Singapore Biodiversity Records\
   \ 2020: 56 ISSN 2345-7597\n- Adib Adris. 30 April 2020.\n*Erdmann\u2019s wrasse\
   \ off Lazarus Island*\n. Singapore Biodiversity Records 2020: 45 ISSN 2345-7597\n\
@@ -138,7 +140,9 @@ Wrasses can change their gender! Most wrasses grow to become females first. A fe
 
 Being colourful and lively, wrasses of various kinds are extensively harvested from the wild for the live aquarium trade. Some large ones are harvested as food. The Napolean wrasse (*Cheilinus undulatus*) is a large fish that is being over-collected as a luxury food item for the Chinese market. These gentle, intelligent fishes can live for 50 years and reach up to 180kgs. Unsustainable harvesting of these fishes may doom them to extinction.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our wrasses are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also impact on local populations.
 
 Elsewhere, harvesting of wrasses large and small may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed.

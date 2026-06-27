@@ -34,7 +34,8 @@ galleries:
   gallery3:
   - url: https://live.staticflickr.com/908/27728472268_7084b0f9c3_z.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Oliva mustelina*](http://www.sealifebase.org/summary/Oliva-mustelina.html)
 
@@ -49,7 +50,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

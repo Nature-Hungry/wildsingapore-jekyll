@@ -69,14 +69,16 @@ galleries:
     caption: Cyrene Reef, Aug 11 Photo shared by Neo Mei Lin in her blog .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/onca/200918cyrvc1.jpg
     caption: Cyrene Reef, Sep 20 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Natica onca*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90354&genusname=Natica&speciesname=onca)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

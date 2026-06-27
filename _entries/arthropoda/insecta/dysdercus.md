@@ -43,7 +43,8 @@ galleries:
     caption: Labrador, Nov 15 Photo shared by Marcus Ng on flickr.
   - url: https://images.naturehungry.sg/insecta/dysdercus/191127lazmn3.jpg
     caption: A mating pair. Seringat-Kias, Nov 2019 Photo shared by Marcus Ng on facebook.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Cotton stainer bugs](http://mangrove.nus.edu.sg/guidebooks/text/2013) Ng, Peter
   K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)

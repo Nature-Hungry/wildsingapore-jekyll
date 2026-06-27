@@ -48,7 +48,8 @@ galleries:
       by Toh Chay Hoon on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/phyllodesmium/090513sntlks1m6l.jpg
     caption: Sentosa, May 09 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Phyllodesmium briareum*](http://www.seaslugforum.net/find/phylbria)
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   by Dr Bill Rudman: photos and fact sheet
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

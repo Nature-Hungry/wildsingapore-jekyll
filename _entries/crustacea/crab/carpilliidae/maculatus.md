@@ -38,7 +38,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/crustacea/crab/carpilliidae/maculatus/100529kuslks8m3.jpg
     caption: Kusu Island, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spotted reef crab](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380&genusname=Carpilius&speciesname=maculatus)
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Bee Yan and Tan Heok Hui. 10 January 2014.
 
@@ -104,7 +106,9 @@ According to
 [SeaLifeBase](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380)
 , it is collected extensively for food. While it is reported as poisonous, tests could not confirm it. Possibly the crab becomes toxic for a short period after feeding on poisonous molluscs.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our Spotted reef crab is listed as 'Endangered' among the threatened animals of Singapore.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

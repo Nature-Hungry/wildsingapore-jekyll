@@ -123,7 +123,8 @@ galleries:
     caption: Terumbu Salu, Jan 10
   - url: https://images.naturehungry.sg/crustacea/crab/eriphiidae/ferox/100130brkd8443m3.jpg
     caption: Terumbu Berkas, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Red Eyed Reef Crab (
   *Eriphia smithi*
@@ -143,7 +144,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - S. K. Koh and Peter K. L. Ng, 31 Aug 2008.
 
@@ -237,7 +239,9 @@ similar crabs in the same habitat. Here's more on how to tell apart
 [big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This crab is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 
 ---

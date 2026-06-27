@@ -49,7 +49,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letstar/100131slud8808m3c.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Sinularia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sinularia)
 
@@ -64,7 +65,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -133,7 +135,9 @@ During one night trip, a large colony was seen with many
 [tiny brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
 all over the surface. This has not been observed during daylight visits.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

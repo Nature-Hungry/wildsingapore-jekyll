@@ -45,7 +45,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/seagrass/230901kustch2.jpg
     caption: Kusu Island, Aug 23 Photo shared by Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Phyllaplysia*
 
@@ -58,7 +59,8 @@ links_references: '**Links**
   by Dr Bill Rudman: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Humann, Paul and Ned Deloach. 2010.
 

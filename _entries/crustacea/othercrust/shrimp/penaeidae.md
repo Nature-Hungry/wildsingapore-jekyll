@@ -10,7 +10,8 @@ species: Penaeidae
 attributes: []
 updated: Feb 2020
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Prawns (*Penaeus*and*Metapenaeus*)](http://mangrove.nus.edu.sg/pub/seashore/text/182.htm)Tan,
   Leo W. H. & Ng, Peter K. L., 1988,*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -46,7 +47,8 @@ links_references: '**Links**
   the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - T. Upanoi.*The penaid prawns of the Straits of Johor: Preliminary results*. 10
   July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International

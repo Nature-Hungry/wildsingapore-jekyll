@@ -45,7 +45,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/asparagus/220617skdlks1.jpg
     caption: Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dichotella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dichotella)
 
@@ -60,7 +61,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

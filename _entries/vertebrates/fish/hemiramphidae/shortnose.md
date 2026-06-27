@@ -40,7 +40,8 @@ galleries:
     caption: Tanah Merah, Jul 10 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/shortnose/111029smkjp3m3.jpg
     caption: Pulau Semakau, Oct 11 Photo shared by Jerome Pang on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Quoy''s halfbeak (
   *Hyporhamphus quoyi*

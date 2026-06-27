@@ -116,7 +116,8 @@ galleries:
     caption: Tanah Merah Ferry Terminal, Aug 12
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/noid/240211bigsisky2.jpg
     caption: Big Sisters Island, Feb 24 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove hermit crab (
   *Diogenes*
@@ -160,7 +161,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - D. L. Rahayu, H.-T. Shih & P. K. L. Ng. 29 June 2016.
 
@@ -342,7 +344,9 @@ Land hermit crabs belong to the Family Coenobitidae which includes the largest h
 **Role in the ecosystem:**
 Hermit crabs are eaten by many animals higher up in the food chain. Bigger crabs and birds can pry them out of their shells to eat them. Many small animals live with hermit crabs (see above). Many hermit crabs are scavengers and help quickly recycle dead matter on the shores.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The
 [Land hermit crabs](coenobita)
 (*Coenobita*

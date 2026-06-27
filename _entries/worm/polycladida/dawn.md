@@ -83,9 +83,11 @@ galleries:
     caption: Pulau Senang, Aug 10
   - url: https://images.naturehungry.sg/worm/polycladida/dawn/100130brklks10m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: "**Links**\n- [*Pseudoceros uniarborensis*](http://polycladida.lifedesks.org/pages/3215)\n\
+links_references: "### Links
+\n- [*Pseudoceros uniarborensis*](http://polycladida.lifedesks.org/pages/3215)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  \ sheet.\n\n### References
+\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
   \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1os,\
   \ B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\

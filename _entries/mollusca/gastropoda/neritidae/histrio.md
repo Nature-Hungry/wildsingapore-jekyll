@@ -45,14 +45,16 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/260104trmlvo5.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Lon Voon Ong on facebook ..
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Nerita histrio](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=137341)*
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

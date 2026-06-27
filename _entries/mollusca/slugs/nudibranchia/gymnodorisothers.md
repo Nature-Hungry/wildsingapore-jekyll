@@ -120,7 +120,8 @@ galleries:
   gallery17:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/gymnodoris/220102biotch3.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -153,7 +154,8 @@ links_references: '**Links**
   *[Gymnodoris rubropapulosa](http://rmbr.nus.edu.sg/nudibranch/nudipages/rubropapulosa.html)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

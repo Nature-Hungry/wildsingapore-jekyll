@@ -53,10 +53,12 @@ galleries:
     caption: Changi, Oct 25 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/polkadot/090628lazlt6m3.jpg
     caption: Seringat-Kias, Jun 09 Photo shared by Liana Tang on her blog .
-links_references: "**Links**\n- [*Holothuria ocellata*](http://www.sealifebase.org/summary/Holothuria-ocellata.html)\n\
+links_references: "### Links
+\n- [*Holothuria ocellata*](http://www.sealifebase.org/summary/Holothuria-ocellata.html)\n\
   on SeaLife Base: Technical fact sheet.\n- [*Holothuria ocellata*](http://species-identification.org/species.php?species_group=nasc&id=71)\n\
   in North Australian Sea Cucumbers on Marine Species Identification Portal: Technical\
-  \ fact sheet.\n\n**References**\n- Siyang Teo and Chin Soon Lionel Ng.\n*New record\
+  \ fact sheet.\n\n### References
+\n- Siyang Teo and Chin Soon Lionel Ng.\n*New record\
   \ of a sea cucumber, Holothuria ocellata (Jaeger, 1833) (Holothuroidea: Aspidochirotida:\
   \ Holothuriidae) in Singapore*\n. on Nature in Singapore on the Lee Kong Chiang\
   \ Natural History Museum. Jun 2010 pp. 411\u2013414.\n"

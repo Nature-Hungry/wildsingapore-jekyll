@@ -62,7 +62,8 @@ galleries:
     caption: Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinyorange/240412tbccn6.jpg
     caption: Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ophiothela danae*](https://www.sealifebase.se/summary/Ophiothela-mirabilis.html)
 

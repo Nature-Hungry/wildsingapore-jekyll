@@ -26,7 +26,8 @@ galleries:
     caption: Boulder sandpaper coral
   - url: https://images.naturehungry.sg/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg
     caption: Neat hexa coral
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Siderastreidae](http://coral.aims.gov.au/speciesPages/)
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   website: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -85,7 +87,9 @@ zone:
 These hard corals with tiny to small corallites are often seen on many of our shores.
 
 ****
-**Status and threats:**
+ ## Status and threats
+
+
 *[Pseudosiderastrea tayami](hexaneat)*
 is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)

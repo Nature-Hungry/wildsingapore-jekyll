@@ -74,7 +74,8 @@ galleries:
     caption: Pulau Semakau, Oct 20 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/virgularia/201018smkslks1b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Virgulariidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Virgulariidae)
 

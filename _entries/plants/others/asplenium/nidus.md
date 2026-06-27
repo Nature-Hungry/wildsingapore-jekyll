@@ -70,7 +70,8 @@ Growing on a mangrove tree.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 
-**References**
+### References
+
 
 - Wee Yeow Chin. 1992.
 *A Guide to Medicinal Plants*

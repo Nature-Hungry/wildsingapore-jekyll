@@ -44,7 +44,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
     caption: Arrow-headed spider crab
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188)
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   : about a commercially important large spider crab from Europe.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
@@ -144,7 +146,9 @@ Unfortunately, the
 [Velcro crab](retusa)
 (*Camposcia retusa*) is among those sold in the live aquarium trade.
 Some large spider crabs in temperate seas are important commercially as seafood. They are harvested by the ton. These include the Canadian snow crab (*Chionoecetes opilio*) which can have a body width of about 16cm, leg span of 90cm, and weigh more than 1kg; and the European spiny spider crab (*Maja squinado*) which can have a body width of 8.5-20cm and pincers up to 1m long!
-**Status and threats:**
+ ## Status and threats
+
+
 One of our spider crabs are listed among the threatened animals in Singapore.
 However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 

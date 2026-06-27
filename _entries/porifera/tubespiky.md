@@ -31,7 +31,8 @@ galleries:
     caption: Beting Bronok, Jun 10
   - url: https://images.naturehungry.sg/porifera/tubespiky/120508skdd1919m3.jpg
     caption: Pulau Sekudu, May 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Gelliodes*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2645)
 
@@ -42,7 +43,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

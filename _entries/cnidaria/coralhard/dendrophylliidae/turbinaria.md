@@ -56,14 +56,16 @@ galleries:
     caption: Corallites tiny low rounded bumps.
   - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0930m3a.jpg
     caption: Polyps tiny with few short tentacles.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

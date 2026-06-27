@@ -83,7 +83,8 @@ galleries:
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/fuscocinerea/091204pawjk4m6l.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Holothuria fuscocinerea*
 
@@ -105,7 +106,8 @@ links_references: '**Links**
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 
-  **References**
+  ### References
+
 
   - Teo, S., C. S. L. Ng & K. S. Loh, 2010.
 

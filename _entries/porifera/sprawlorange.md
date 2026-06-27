@@ -48,7 +48,8 @@ galleries:
     caption: Pulau Senang, Jun 10
   - url: https://images.naturehungry.sg/porifera/sprawlorange/100131slud8867m3b.jpg
     caption: Terumbu Salu, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Clathria reinwardti*](http://www.sealifebase.fisheries.ubc.ca/summary/Clathria-reinwardti.html)
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

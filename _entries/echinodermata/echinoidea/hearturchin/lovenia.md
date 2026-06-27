@@ -74,7 +74,8 @@ galleries:
     caption: Pulau Hantu, Jan 12 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/hearturchin/lovenia/090209smkmn01m3.jpg
     caption: Pulau Semakau, Feb 09 Photo shared by Marcus Ng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Loveniidae](http://www.nhm.ac.uk/research-curation/research/projects/echinoid-directory/taxa/taxon.jsp?id=332)
 
@@ -85,7 +86,8 @@ links_references: '**Links**
   by Dr. Andrew B. Smith on the London Natural History Museum website.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

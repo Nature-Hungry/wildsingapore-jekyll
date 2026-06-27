@@ -77,7 +77,9 @@ These little ridged disk-like animal is sometimes seen on our Southern shores, g
 
 Each polyp about 4-5cm in diameter, in a group of 5-10. Oral disk has a ridged surface. In some the ridges form a maze-like pattern, in others the ridges radiate in a straight line from the central mouth. The mouth is usually held upturned. Colours seen a uniform unpatterned brown, dark to orangey or pinkish brown.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -109,7 +111,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
-**References**
+### References
+
 
 - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 - Ren Min Oh, Mei Lin Neo, Nicholas Wei Liang Yap, Sudhanshi Sanjeev Jain, Ria Tan, Chaolun Allen Chen and Danwei Huang, May 2019.

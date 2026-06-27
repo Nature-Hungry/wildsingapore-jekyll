@@ -42,7 +42,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/triangularis/090512tmjk2m3.jpg
     caption: Tanah Merah, May 09 Photo shared by James Koh on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Brown shore goby (
   *Drombus triangularis*
@@ -70,7 +71,8 @@ links_references: '**Links**
   from NParks Flora and Fauna website.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017.
 

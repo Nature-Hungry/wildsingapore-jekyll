@@ -54,7 +54,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/prionocidaris/171104cyrlks5.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
 
@@ -73,7 +74,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003.
 
@@ -111,7 +113,9 @@ In some, the longer spines are covered sediments. Sometimes,
 [tiny brittle stars](../../ophiuroidea/tinycolourful)
 are seen wrapped around its spines. Or encrusting ascidians may grow on the spines.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Prionocidaris baculosa*
 is listed as Vulnerable in the Red List of threatened animals of Singapore. The other species recorded for Singapore is
 *Prionocidaris bispinosa.*

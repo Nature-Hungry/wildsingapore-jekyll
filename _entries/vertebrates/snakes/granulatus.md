@@ -77,7 +77,8 @@ galleries:
   gallery10:
   - url: https://images.naturehungry.sg/vertebrates/snakes/granulatus/200708tsmkmn2.jpg
     caption: Terumbu Semakau, Jul 20 Photo shared by Marcus Ng on facebook .
-links_references: "**Links**\n- [Banded File Snakes](http://singaporesnakes.blogspot.com/search/label/Banded%20File%20Snake)\n\
+links_references: "### Links
+\n- [Banded File Snakes](http://singaporesnakes.blogspot.com/search/label/Banded%20File%20Snake)\n\
   on the\n[Singapore Snakes](http://singaporesnakes.blogspot.com/)\nblog: fact sheet\
   \ with photos and links to local sightings and other posts.\n- [Mangrove snakes:\
   \ File snake](http://mangrove.nus.edu.sg/guidebooks/text/2112)\nNg, Peter K. L.\
@@ -88,7 +89,8 @@ links_references: "**Links**\n- [Banded File Snakes](http://singaporesnakes.blog
   \ granulatus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Acrochordus%20granulatus.html)\n\
   (Squamata: Acrochordidae) Banded File Snake by Lee Gang, 2011 from taxo2454.\n-\
   \ [*Acrochordus granulatus*](http://www.iucnredlist.org/details/176769/0)\non the\
-  \ IUCN Red List.\n\n**References**\n- Tan Heok Hui & Kelvin K. P. Lim (fish). 30\
+  \ IUCN Red List.\n\n### References
+\n- Tan Heok Hui & Kelvin K. P. Lim (fish). 30\
   \ Jun 2017.\n*Banded file snake hunting and eating a goby*\n. Singapore Biodiversity\
   \ Records 2017: 84-86.\n- Jeffery Teo & Max Khoo De Yuan. 30 Dec 2016.\n*Smooth-coated\
   \ otter interacting with banded file snake*\n. Singapore Biodiversity Records 2017:\

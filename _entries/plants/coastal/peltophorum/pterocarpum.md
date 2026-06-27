@@ -23,7 +23,8 @@ order: Fabales
 subfamily: Caesalpinioideae
 updated: Aug 09
 coverimg: https://images.naturehungry.sg/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Peltophorum pterocarpum](http://floraofsingapore.wordpress.com/2010/08/14/peltophorum-pterocarpum/)*on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
@@ -33,7 +34,8 @@ links_references: '**Links**
   the NParks website: fact sheet with lots of photos of various parts of the tree.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,*[The Concise Flora of Singapore II:
   Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*Singapore

@@ -60,7 +60,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/170514bbbtch3.jpg
     caption: Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Wandering Cowrie (
   *Cypraea errones*
@@ -82,7 +83,8 @@ links_references: '**Links**
   (Littorinimorpha: Cypraeidae) Wandering cowrie by Tan Zong Rui, 2015, on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

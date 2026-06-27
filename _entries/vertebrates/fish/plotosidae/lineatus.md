@@ -76,7 +76,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/lineatus/100130brkblks3m3.jpg
     caption: Terumbu Berkas Besar, Jan 10 Photo shared by Loh Kok Sheng on his flickr
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Striped eeltail catfish (
   *Plotosus lineatus*
@@ -103,7 +104,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui, Zeehan Jaafar & Hennig Seerdof.
 

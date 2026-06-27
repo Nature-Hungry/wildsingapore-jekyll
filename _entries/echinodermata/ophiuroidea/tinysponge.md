@@ -53,7 +53,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinysponge/150524tplmn1m3.jpg
     caption: Terumbu Pempang Laut, May 15 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Ophiactis savignyi](http://www.sealifebase.org/summary/Ophiactis-savignyi.html)*
 
@@ -77,7 +78,8 @@ links_references: '**Links**
   on the Echinoblog by Dr Chris Mah.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

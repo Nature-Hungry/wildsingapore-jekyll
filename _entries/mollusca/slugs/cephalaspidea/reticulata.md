@@ -31,7 +31,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/reticulata/160209cyrlks.JPG
     caption: Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Philinopsis reticulata](http://www.seaslugforum.net/philreti)*
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   on SeaLife Base.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

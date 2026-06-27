@@ -27,7 +27,8 @@ galleries:
     caption: Chek Jawa, Nov 04
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/080704sekd6848m3.jpg
     caption: Pulau Sekudu, Jul 08
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Moon Snail (
   *Polinices*
@@ -41,7 +42,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Dun-Ru Kang et al.
 

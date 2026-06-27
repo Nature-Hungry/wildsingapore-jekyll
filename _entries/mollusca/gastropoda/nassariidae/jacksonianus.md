@@ -37,7 +37,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/jackonianus/160125obsmn6.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Nassarius jacksonianus*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?id=138139)
 
@@ -55,7 +56,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

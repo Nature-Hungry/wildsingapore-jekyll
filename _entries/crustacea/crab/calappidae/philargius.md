@@ -69,7 +69,8 @@ galleries:
     caption: Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg
     caption: Changi, May 11 Tanah Merah, May 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spectacled box crab (
   *Calappa philargius*
@@ -83,7 +84,8 @@ links_references: '**Links**
   : technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 
@@ -135,7 +137,9 @@ Body width 8-10cm. It does look rather box-like with a semi-circular body and wi
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**What does it eat?**
 The pincers of box crabs are specialised for cracking open snail shells. The snail is gripped in the left pincer which has pointed claws. With the right pincer, which is stronger, the crab cuts pieces of the shell from the shell opening. Once the gap is big enough, the crab can enjoy its snail meal.
 
-{% include img-wrap-group.html items=page.galleries.gallery2 %}**Status and threats:**
+{% include img-wrap-group.html items=page.galleries.gallery2 %} ## Status and threats
+
+
 This crab is listed as Vulnerable in the Red Data List of threatened animals of Singapore.
 
 ---

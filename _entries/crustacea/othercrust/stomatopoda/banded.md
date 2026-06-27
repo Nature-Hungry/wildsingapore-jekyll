@@ -81,7 +81,9 @@ rmed with sharp spines, the pincers extend and retract much faster than an eye b
 
 These shrimps are believed to live in monogamus pairs
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our mantis shrimps are not listed as endangered. However,
 like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
@@ -117,7 +119,8 @@ With grateful thanks to Dr Tan Swee Hee of the
 [Raffles Museum of Biodiversity Research](http://rmbr.nus.edu.sg/)
 for obtaining the identification of this animal.
 
-**References**
+### References
+
 - Debelius, Helmut, 2001.
 *Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*
 IKAN-Unterwasserachiv, Frankfurt. 321 pp.

@@ -58,7 +58,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg
     caption: Pulau Sudong, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Guamanian nerite (
   *Clithon oualaniensis*
@@ -91,7 +92,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -157,7 +159,9 @@ The Dubious nerite lays white circular egg capsules that are miniature versions 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 This tiny snail grazes on algae.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This beautiful snail is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Populations along the original shores have been wiped out by reclamation."
 
 ---

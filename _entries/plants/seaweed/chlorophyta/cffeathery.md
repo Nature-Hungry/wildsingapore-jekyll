@@ -73,7 +73,8 @@ how to tell apart
 
 ---
 
-**References**
+### References
+
 - Eric Coppejans and Tom Beeckman. 1990.
 *[Caulerpa (Chlorophyta, Caulerpales) from the Kenyan coast](http://www.phycology.ugent.be/reprints/p61.pdf)*
 (pdf). Laboratorium voor Morfologie, Systematiek en Ecologie van de Planten R.U.G. Ledeganckstraat 35, 9000 Gent, Belgium on the

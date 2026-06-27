@@ -25,9 +25,11 @@ suborder: Scorpaenoidei
 subfamily: Scorpaeninae
 updated: Oct 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg
-links_references: "**Links**  \n- [False\n  stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolusl)\
+links_references: "### Links
+  \n- [False\n  stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolusl)\
   \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet on the order,\
-  \ including a fact sheet on\n\n**References**\n- Allen, Gerry,\n  2000. *Marine\n\
+  \ including a fact sheet on\n\n### References
+\n- Allen, Gerry,\n  2000. *Marine\n\
   \  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.\n  Periplus\
   \ Editions. 292 pp.\n"
 galleries:
@@ -107,14 +109,16 @@ for free download
 **Other sightings on Singapore shores**
 
 ---
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Links**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}### Links
+
 
 - [False stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolus.html)
 from
 [FishBase](http://www.fishbase.org/)
 : Technical fact sheet on the order, including a fact sheet on
 
-**References**
+### References
+
 - Allen, Gerry, 2000.
 *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
 . Periplus Editions. 292 pp.

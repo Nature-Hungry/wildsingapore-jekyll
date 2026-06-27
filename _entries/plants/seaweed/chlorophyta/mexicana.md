@@ -37,7 +37,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/mexicana/100810sngd9926m3.jpg
     caption: Pulau Senang, Aug 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa mexicana*](http://www.algaebase.org/search/species/detail/?species_id=1409)
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

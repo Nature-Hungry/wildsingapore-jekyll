@@ -94,7 +94,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 
-**References**
+### References
+
 
 - Siong Kiat Tan and Martyn E. Y Low. 14 August 2013.
 *First record of Babylonia spirata (Linnaeus) in Singapore, with notes on congeners in the local seafood trade (Mollusca: Gastropoda: Babyloniidae)*

@@ -33,7 +33,8 @@ galleries:
     caption: Changi, Jul 12
   - url: https://images.naturehungry.sg/porifera/blackprickly/120410chgd9133m3.jpg
     caption: Changi, Apr 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Echinodictyum conulosum*](http://www.sealifebase.fisheries.ubc.ca/summary/Echinodictyum-conulosum.html)
 
@@ -44,7 +45,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

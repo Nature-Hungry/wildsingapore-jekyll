@@ -119,7 +119,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/091204pawjk14m3.jpg
     caption: Pulau Pawai, Dec 09 Shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Boloceroides mcmurrichi*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Boloceroides&subgenus=&species=macmurrichi&subspecies=&synseniorid=2314)
 
@@ -135,7 +136,8 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -222,7 +224,9 @@ The swimming anemone can purposely drop of its tentacles if it is threatened. Th
 The swimming anemone
 harbours symbiotic single-celled algae (called zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

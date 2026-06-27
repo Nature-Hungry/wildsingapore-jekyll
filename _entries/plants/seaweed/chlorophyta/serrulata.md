@@ -50,7 +50,8 @@ galleries:
     caption: Pulau Senang, Aug 10
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/serrulata/100613sngd5599m3.jpg
     caption: Pulau Senang, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa serrulata*](http://mangrove.nus.edu.sg/pub/seashore/text/101)
 
@@ -74,7 +75,8 @@ links_references: '**Links**
   Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

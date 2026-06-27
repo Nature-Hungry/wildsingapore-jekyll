@@ -67,7 +67,8 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/colochirus/171104cyrlks4.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
 
@@ -87,7 +88,8 @@ links_references: '**Links**
   fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

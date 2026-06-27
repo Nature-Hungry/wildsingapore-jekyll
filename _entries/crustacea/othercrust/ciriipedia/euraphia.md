@@ -35,7 +35,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg
     caption: Sembawang, Oct 20 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Barnacles](http://mangrove.nus.edu.sg/pub/seashore/text/219)
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

@@ -59,7 +59,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/clavagellidae/brechites/220911cyrjk1.jpg
     caption: Cyrene Reef, Sep 22 Photo shared by James Koh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Waterspout or watering pot shell (
   *Brechites penis*
@@ -87,7 +88,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan, S. K., S. H. Tan & M. E. Y. Low, 2011.
 
@@ -142,7 +144,9 @@ This strange animal is a bivalve that is tubular. It is sometimes seen among sea
 
 About 12cm long.The broader end is perforated with tiny holes and this is usually buried in the ground with the narrow tip facing the surface. Siphons emerge from the narrow tip. The broader end
 resembles a watering can, hence its common name. There are two tiny oval shapes which is all that remains of the two valves of this strange bivalve.
-**Status and threats:**
+ ## Status and threats
+
+
 This animal is listed as "Presumed Nationally Extinct" on the Red List of threatened animals of Singapore. But
 [a paper in Nature in Singapore](http://rmbr.nus.edu.sg/nis/bulletin2011/2011nis005-008.pdf)
 (pdf) found that recent sightings suggest this animal is alive and well on our shores.

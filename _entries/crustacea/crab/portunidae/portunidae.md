@@ -89,7 +89,8 @@ galleries:
     caption: Blood-spotted swimming crab
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
     caption: Crucifix swimming crab
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
 
@@ -133,7 +134,8 @@ links_references: '**Links**
   crabs, and comparable to that of honeybees.
 
 
-  **References**
+  ### References
+
 
   - Hua Kai & Adib Adris. 30 October 2020.
 

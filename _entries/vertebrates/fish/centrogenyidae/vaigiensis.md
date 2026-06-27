@@ -78,7 +78,8 @@ galleries:
   gallery11:
   - url: https://images.naturehungry.sg/vertebrates/fish/centrogenyidae/vaigiensis/210428slujll4.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [False scorpionfish (
   *Centrogenys vaigiensis)*](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/265)
@@ -122,7 +123,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

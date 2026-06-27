@@ -38,7 +38,8 @@ galleries:
     caption: Tanah Merah, May 13 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/240527srplks6.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -136,7 +138,9 @@ species. More on how to tell apart
 [hard corals with big rings and fleshy tissue](../cfbigring)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Caulastrea echinulata*
 recorded for Singapore are listed as globally Vulnerable
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)

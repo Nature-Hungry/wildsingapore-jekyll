@@ -68,7 +68,8 @@ for free download
 **Acknowledgement**
 
 Grateful thanks to Tan Siong Kiat for the possible identification of this snail.
-**References**
+### References
+
 
 - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 *Preliminary Checklist of The Molluscs of Singapore*

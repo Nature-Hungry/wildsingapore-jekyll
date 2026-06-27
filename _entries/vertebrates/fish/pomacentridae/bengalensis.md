@@ -65,7 +65,8 @@ galleries:
     caption: Pulau Jong, Apr 11 Photo shared by Russel Low on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110220lazrl9m3.jpg
     caption: Lazarus Island, Feb 11 Photo shared by Russel Low on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bengal sergeant (
   *Abudefduf bengalensis*
@@ -90,7 +91,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

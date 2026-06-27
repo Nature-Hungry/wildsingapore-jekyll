@@ -22,7 +22,8 @@ order: Dioscoreales
 inat_id: 140999
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Tacca leontopetaloides*](http://floraofsingapore.wordpress.com/2011/06/20/tacca-leontopetaloides/)on
   The Total Vascular Flora of Singapore Online: photos and fact sheet.
@@ -32,7 +33,8 @@ links_references: '**Links**
   the NParks Flora and Fauna website: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,*[The Concise Flora of Singapore II:
   Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*Singapore
@@ -83,7 +85,9 @@ The plant grows from underground tubers, hard and potato-like. Leaves may die do
 
 The plant is cultivated in the Pacific, East Asia and East Africa for the starch in its underground roots. According to Burkill, its tubers are very bitter when raw but can be made edible with "suitable preparation". When the plant dies down, the tubers are dug up, rasped into meal, soaked in water, the raspings strained out and starch allowed to settle out of the water. Well purified starch is known as Tahiti Arrowroot. The plant was cultivated in Thailand and may have been in the northern parts of the Malay peninsula.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The plant is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore. It is mainly threatened by the loss of its preferred habitats of undisturbed coastal forest. Even in the past only recorded from Pulau Semakau and Pulau Senang.
 
 *![](https://images.naturehungry.sg/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg)

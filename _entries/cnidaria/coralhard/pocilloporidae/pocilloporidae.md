@@ -25,7 +25,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
     caption: Red coral crab in bleaching Cauliflower coral. Cyrene Reef, Jul 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   website: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -149,7 +151,9 @@ Many pocilloporid species are harvested for sale as souvenirs. Being tough,
 *Pocillopora*
 coral are often kept in captivity and used in laboratory conditions. They are sometimes called the coral guinea pigs. They are among the best studied corals.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some members of the Family Pocilloporidae recorded for Singapore are listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

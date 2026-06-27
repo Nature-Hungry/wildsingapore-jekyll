@@ -49,7 +49,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/130628tpklksm6l.jpg
     caption: Terumbu Pempang Kecil, Jun 13 Photo shared by Loh Kok Sheng on flickr
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Haliotis asinina*](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=442)
 
@@ -73,7 +74,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -129,7 +131,9 @@ Small ones are sometimes seen on our undisturbed reefs, under rocks and rubble.
 
 Temperate climate species grow much larger than tropical species, and are harvested for their shell, used for shell crafts, and the animal is eaten as a delicacy in Asia. Due to the high value of the animal in the food trade, even smaller tropical species are threatened with over collection.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our Abalone species are listed as 'Endangered' on the Red List of threatened animals of Singapore. Due to the loss of natural rocky shores with crevices where they thrive. Seawalls do not appear to be a viable alternative habitat for this animal.
 
 ---

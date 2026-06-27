@@ -30,7 +30,8 @@ galleries:
   - url: https://images.naturehungry.sg/insecta/skater/200111smksjc2.jpg
     caption: Pulau Semakau (South), Jan 20 Photo shared by Joleen Chan on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Skater
 

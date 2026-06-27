@@ -37,7 +37,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Black eeltail catfish (
   *Plotosus canius*
@@ -108,7 +109,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

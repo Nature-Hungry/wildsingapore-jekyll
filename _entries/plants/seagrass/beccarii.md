@@ -42,7 +42,8 @@ galleries:
       Chek Jawa, Aug 07
   - url: https://images.naturehungry.sg/plants/seagrass/beccarii/110317mndd7384m3.jpg
     caption: . Mandai, Mar 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tiny but Mighty:
 
@@ -100,7 +101,8 @@ links_references: '**Links**
   - [Rare seagrasses at Kranji Nature Trail](http://wildshores.blogspot.com/2011/02/rare-seagrass-at-kranji-nature-trail.html)
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -171,7 +173,9 @@ Studies suggest that beds of Beccari's seagrass are an important nursery for
 [horseshoe crabs](../../arthropoda/limulidae/limulidae)
 in many regions.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/seagrass/beccarii/130728mnds02897m6l.jpg)

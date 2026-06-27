@@ -86,7 +86,8 @@ galleries:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/scabra/160208smkshpy6.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
 
@@ -147,7 +148,8 @@ links_references: '**Links**
   on the TeamSeagrass blog.
 
 
-  **References**
+  ### References
+
 
   - Svea-Mara Wolkenhauer et al. 2009.
 
@@ -240,7 +242,9 @@ This harmless sea cucumber is among those collected as a Chinese delicacy. They 
 
 Collection of sea cucumbers has been a traditional activity for centuries by coastal peoples in many parts of the world ranging from Madagascar to the Philippines. However, the recent high market price of this delicacy has resulted in increased collection in last 20 years. Some edible sea cucumbers are globally threatened by over-collection. In some areas, such sea cucumbers have become scarce. In others, specimens collected are smaller and have to be harvested from deeper waters. Efforts to culture edible sea cucumbers have only just started.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Garlic bread sea cucumber is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It is threatened by habitat loss due to coastal development. Overcollection can also have an impact on local populations. According to the
 [IUCN Red List](http://www.iucnredlist.org/details/full/180257/0)
 , global populations of the Garlic bread sea cucumbers are estimated to have declined by more than 90% in at least 50% of its range, and are considered overexploited in at least 30% of its range.

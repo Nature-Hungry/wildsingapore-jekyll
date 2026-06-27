@@ -50,7 +50,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/bryozoa/bryozoannoid/210529ecpblks15.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Moss animals (Phylum Ectoprocta=Bryozoa)](http://mangrove.nus.edu.sg/pub/seashore/text/129)
   Tan, Leo W. H. & Ng, Peter K. L., 1988, *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -63,7 +64,8 @@ links_references: '**Links**
   - [Bryozoa](http://www.ucmp.berkeley.edu/bryozoa/bryozoa.html) on the Museum of
   Paleontology, University of California, Berkeley website: details with photos.
 
-  **References**
+  ### References
+
 
   - K. J. Tilbrook & D. P. Gordon. 29 June 2016. *Checklist of Singapore Bryozoa and
   Entoprocta*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II)

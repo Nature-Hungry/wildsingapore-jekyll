@@ -31,7 +31,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg
     caption: East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa cupressoides*](http://www.algaebase.org/search/species/detail/?species_id=3746)
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 

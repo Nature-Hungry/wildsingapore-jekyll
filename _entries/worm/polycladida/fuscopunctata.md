@@ -46,9 +46,11 @@ galleries:
     caption: Pulau Jong, Jan 23 Shared by Jianlin Liu on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/fuscopunctata/210501tbtch4.jpg
     caption: Terumbu Bemban, May 21 Shared by Toh Chay Hoon on facebook .
-links_references: "**Links**\n- [*Maritigrella fuscopunctata*](http://polycladida.lifedesks.org/pages/3313)\n\
+links_references: "### Links
+\n- [*Maritigrella fuscopunctata*](http://polycladida.lifedesks.org/pages/3313)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  \ sheet.\n\n### References
+\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
   \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125.\n- Newman, Leslie\
   \ and Lester Cannon. 2003.\n*Marine Flatworms: The World of Polyclads*\n. CSIRO\

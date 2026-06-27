@@ -59,7 +59,8 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/mosaic/110422tbmrl3m3.jpg
     caption: Terumbu Bemban, Apr 11 Photo shared by Russel Low on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove dragonet (
   *Callionymus enneactis*
@@ -75,7 +76,8 @@ links_references: '**Links**
   : Technical fact sheet..
 
 
-  **References**
+  ### References
+
 
   - Ng, H. H., 2012.
 

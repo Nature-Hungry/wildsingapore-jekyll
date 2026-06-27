@@ -79,7 +79,8 @@ galleries:
     caption: Cyrene Reef, Apr 23 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/paralichthyidae/paralichthyidae/240725smkntt6.jpg
     caption: Pulau Semakau North, Jul 24 Photo shared by Tommy Tan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Largetooth Flounder (
   *Pseudorhombus arsius*
@@ -138,7 +139,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui & Kelvin K. P. Lim. 30 Jun 2017.
 

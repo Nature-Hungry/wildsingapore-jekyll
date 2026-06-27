@@ -27,7 +27,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/081101chgik.jpg
     caption: Dead Changi, Nov 08 Photo shared by Ivan Kwan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Reticulated puffer (
   *Arothron reticularis*
@@ -41,7 +42,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Toh Chay Hoon & Kelvin K. P. Lim.
 

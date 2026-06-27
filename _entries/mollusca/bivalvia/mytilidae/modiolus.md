@@ -35,7 +35,8 @@ galleries:
   gallery2:
   - url: https://live.staticflickr.com/31337/40863986093_1911f36ffc_z.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Modiolus*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Modiolus)
 
@@ -46,7 +47,8 @@ links_references: '**Links**
   (Feb 2019) on the wild shores of singapore.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -91,7 +93,9 @@ On Cyrene in 2020, small clusters of the mussel were seen. They were mostly dead
 [Reef murex snails](../../gastropoda/muricidae/chicoreus)
 appeared to be feeding on them.
 
-**Status and threats:**
+ ## Status and threats
+
+
 According to Tan Koh Siang, in the 1970s,
 *Modiolus metcalfi*
 used to be common in sandy and muddy areas in the intertidal and subtidal estuarine areas such as Lim Chu Kang. They are rarely seen nowadays.

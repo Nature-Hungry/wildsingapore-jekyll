@@ -36,7 +36,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bryopsis/040919sntd7088m.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

@@ -172,7 +172,8 @@ for free download
 
 **Acknowledgment**
 Grateful appreciation to Dr Gary Rosenberg of Drexel University for correcting the identity of the animals indicated with #.
-**References**
+### References
+
 
 - Calvin Leow Jiah Jay & Tan Siong Kiat.
 *The allied cowrie, Diminovula margarita, at Lazarus Island*

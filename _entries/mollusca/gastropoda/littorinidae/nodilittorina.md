@@ -39,7 +39,8 @@ galleries:
     caption: Chek Jawa, May 05
   - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
     caption: Chek Jawa, May 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Periwinkle Shells (Family Littorinidae)](http://mangrove.nus.edu.sg/pub/seashore/text/137)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

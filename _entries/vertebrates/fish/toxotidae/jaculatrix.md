@@ -39,7 +39,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/251207hntlks7.jpg
     caption: Juvenile. Pulau Hantu, Dec 25 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Banded Archerfish (
   *Toxotes jaculatrix*
@@ -98,7 +99,8 @@ links_references: '**Links**
   from IUCN.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

@@ -34,7 +34,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg
     caption: Siloso, May 09 Photo shared by Ivan Kwan on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Silver Moony (
   *Monodactylus argenteus*
@@ -74,7 +75,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

@@ -31,7 +31,8 @@ galleries:
     caption: Pacific golden plovers. Chek Jawa, Jan 07
   - url: https://images.naturehungry.sg/vertebrates/birds/shorebirds/091227kntd6403m3.jpg
     caption: Grey heron. Kranji Nature Trail, Dec 09
-links_references: "**Links**\n- [Migratory birds: supremely designed for travel](http://wildshores.blogspot.com/2009/09/migratory-birds-supremely-designed-for.html)\n\
+links_references: "### Links
+\n- [Migratory birds: supremely designed for travel](http://wildshores.blogspot.com/2009/09/migratory-birds-supremely-designed-for.html)\n\
   on the wild shores of singapore blog.\n- [Comprehensive guide on Singapore's migratory\
   \ birds launched](http://wildsingaporenews.blogspot.com/2009/10/comprehensive-guide-on-singapores.html)\n\
   Dylan Loh, Channel NewsAsia 10 Oct 09;\n- [Migratory birds and Mangroves at Sungei\
@@ -40,7 +41,8 @@ links_references: "**Links**\n- [Migratory birds: supremely designed for travel]
   from Celebrating Singapore's BioDiversity!\n- on the wild shores of singapore blog\n\
   - [Documenting seabirds that pass through Singapore](http://wildshores.blogspot.com/2011/01/documenting-seabirds-that-pass-through.html)\n\
   - [Bird poop helps heal seagrass damage](http://wildshores.blogspot.com/2010/12/bird-poop-helps-heal-seagrass-damage.html)\n\
-  \n**References**\n- *Mysterious entrapment of a sand-plover on a sandbar at Chek\
+  \n### References
+\n- *Mysterious entrapment of a sand-plover on a sandbar at Chek\
   \ Jawa*\n, 22 January 2020, Joleen Chan & Ria Tan, Singapore Biodiversity Records\
   \ 2020: 4-5 ISSN 2345-7597, National University of Singapore.\n- Cheah, J. W. K.\
   \ & A. Ng, 2008.\n[Breeding ecology of the little tern,\n*Sterna albifrons*\nPallas,\

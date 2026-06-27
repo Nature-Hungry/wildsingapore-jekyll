@@ -40,9 +40,11 @@ galleries:
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/limnostylochus/251231prprqo2.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: "**Links**\n- [Mangrove flatworms](http://mangrove.nus.edu.sg/guidebooks/text/2002)\n\
+links_references: "### Links
+\n- [Mangrove flatworms](http://mangrove.nus.edu.sg/guidebooks/text/2002)\n\
   on Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)\n\
-  II (Animal Diversity)*\n. Singapore Science Centre. 168 pp.\n\n**References**\n\
+  II (Animal Diversity)*\n. Singapore Science Centre. 168 pp.\n\n### References
+\n\
   - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n*A preliminary checklist\
   \ and photographic catalogue of polyclad flatworms recorded from Singapore.*\nNature\
   \ in Singapore 2018 11: 77\u2013125.\n"

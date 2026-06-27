@@ -27,7 +27,8 @@ galleries:
     caption: Shortnosed boxfish
   - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
     caption: Yellow boxfish
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Shortnose boxfish (
   *Rhynchostracion nasus*
@@ -56,7 +57,8 @@ links_references: '**Links**
   on the Australian Museum Fish website: fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Sam Shu Qin.
 

@@ -51,7 +51,8 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/myliobatidae/narinari/110506tmftd0849m6l.jpg
     caption: Spotted eagle ray
-links_references: '**Links**
+links_references: '### Links
+
 
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
 
@@ -68,7 +69,8 @@ links_references: '**Links**
   : Technical fact sheet on the order, including fact sheets on individual species.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui & Kelvin K. P. Lim.
 
@@ -169,7 +171,9 @@ Stingrays are a popular seafood dish in Singapore. The large pectoral fins are b
 [Blue-spotted fantail ray](lymma)
 is also popular in the live aquarium trade although it does not do well in captivity.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our Stingrays are not listed as endangered. However, throughout its range, the
 [Blue-spotted fantail ray](lymma)
 is under pressure from over collection for the aquarium trade and destruction of its reef habitat. Like other creatures of the intertidal zone, Stingrays are also affected by human activities such as reclamation and pollution. Poaching by hobbyists and overfishing can also have an impact on local populations.

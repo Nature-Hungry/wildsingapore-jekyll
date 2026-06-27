@@ -1,6 +1,6 @@
 ---
-title: Feather mushroom  coral
-description: Fact sheet of Feather mushroom  coral on the shores of Singapore
+title: Feather mushroom coral
+description: Fact sheet of Feather mushroom coral on the shores of Singapore
 keywords: long, mushroom, ctenactis, fungiidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -84,7 +84,8 @@ galleries:
     caption: Raffles Lighthouse, Jul 06 Mouth in the central furrow.
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
     caption: Terumbu Bemban, Jul 11 Tiny tentacles, very sparse.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -107,7 +108,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
 
@@ -175,7 +177,9 @@ other long mushroom corals. Here's more on how to
 [tell apart elongated mushroom hard corals](cflong)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Ctenactis albitentaculata*
 is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/)

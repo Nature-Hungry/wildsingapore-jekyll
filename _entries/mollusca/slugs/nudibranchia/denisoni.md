@@ -92,7 +92,8 @@ galleries:
   gallery12:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/denisoni/161215cyrmn.jpg
     caption: Cyrene Reef, Dec 16 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -111,7 +112,8 @@ links_references: '**Links**
   on SeaLife Base.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

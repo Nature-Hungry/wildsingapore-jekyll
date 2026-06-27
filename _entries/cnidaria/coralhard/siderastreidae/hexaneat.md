@@ -1,6 +1,6 @@
 ---
-title: Neat hexagonal  coral
-description: Fact sheet of Neat hexagonal  coral on the shores of Singapore
+title: Neat hexagonal coral
+description: Fact sheet of Neat hexagonal coral on the shores of Singapore
 keywords: coral, hard, scleractinia, pseudosiderastrea, tayamai, siderastreidae, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -35,7 +35,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/siderastreidae/hexaneat/220419sjimn1.jpg
     caption: St John's Island, Apr 22 Photo shared by Marcus Ng on facebook
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -50,7 +51,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -102,7 +104,9 @@ and
 *Leptastrea transversa*
 may also appear similar.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This coral is listed as globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

@@ -49,7 +49,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/goldmanni/110517tptik7m3.jpg
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Goldman''s goby (
   *Istigobius goldmanni*
@@ -63,7 +64,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

@@ -84,7 +84,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/pegasidae/volitans/160208smkstch4.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Toh Chay Hoon on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Slender Seamoth (
   *Pegasus volitans*
@@ -117,7 +118,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Kelvin K. P. Lim & Jasond Ong. 9 October 2015.
 

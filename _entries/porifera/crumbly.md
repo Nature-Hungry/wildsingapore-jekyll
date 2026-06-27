@@ -25,7 +25,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/porifera/crumbly/130822pgld2055m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Amorphinopsis excavans](http://142.103.81.136/summary/Amorphinopsis-excavans.html)*
 
@@ -36,7 +37,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Swee-Cheng Lim, Nicole J. de Voogd and Koh-Siang Tan.
 

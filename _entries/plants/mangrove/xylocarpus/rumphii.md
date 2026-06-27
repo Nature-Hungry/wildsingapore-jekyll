@@ -42,7 +42,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3.jpg
     caption: Sentosa, Mar 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Xylocarpus rumphii](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3210)*
 
@@ -67,7 +68,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -115,7 +117,9 @@ Fruits spherical, small (8-10cm) and appear in clusters when young. Unripe fruit
 
 According to Giesen, among its uses are the wood for handles of traditional knives (kris) and in building boats, the bark for tanning and dyeing cloth. The seeds are used to treat stomachache.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The tree is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg)

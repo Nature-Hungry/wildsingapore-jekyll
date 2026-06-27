@@ -49,7 +49,8 @@ galleries:
     caption: St John's Island, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/171105cjay3.jpg
     caption: Chek Jawa, Nov 17 Photo shared by Abel Yeo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Curvespine cuttlefish (
   *Sepia recurvirostra*
@@ -71,7 +72,8 @@ links_references: '**Links**
   on the FAO Species Catalogue for Fishery Purposes No. 4, Vol. 1.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

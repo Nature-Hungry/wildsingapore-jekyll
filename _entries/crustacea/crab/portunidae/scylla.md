@@ -64,7 +64,8 @@ galleries:
     caption: Pulau Semakau, Dec 08 Photo shared by Marcus Ng on his blog .
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/scylla/091204pawd0064m3.jpg
     caption: Pulau Pawai, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mud Crab (
   *Scylla serrata*
@@ -118,7 +119,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Kelvin K. P. Lim. 3 October 2014.
 

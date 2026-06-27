@@ -44,7 +44,8 @@ galleries:
     caption: East Coast Park, Aug 18 Photo shared by Loh Kok Sheng on facebook
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/lineata/2007024pcnlks3.jpg
     caption: East Coast Park PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Lined moon snail (
   *Natica lineata*
@@ -64,7 +65,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

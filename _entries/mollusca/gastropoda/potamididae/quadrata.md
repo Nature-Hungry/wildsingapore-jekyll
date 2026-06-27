@@ -48,13 +48,15 @@ zone:
 - marine
 links_references: "**Acknowlegement** \nWith grateful thanks to Tan Siong Kiat of\
   \ the Raffles Museum of\nBiodiversity Research for explaining the identification\
-  \ of this\nsnail. **Links**\n- [Quadrate horn snail (*Cerithidea quadrata*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86862)on\
+  \ of this\nsnail. ### Links
+\n- [Quadrate horn snail (*Cerithidea quadrata*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86862)on\
   \ SeaLife Base: Technical fact sheet.\n\n- Quadrate horn snail (*Cerithidea quadrata*)in\
   \ the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide\
   \ for Fishery Purposes: The Living Marine Resources of the Western Central Pacific[Volume\
   \ 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)on\
   \ the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  **References**\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist\
+  ### References
+\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist\
   \ of The Molluscs of Singapore*(pdf), Raffles Museum of Biodiversity Research, National\
   \ University of Singapore.\n\n- Abbott, R. Tucker, 1991.*Seashells of South East\
   \ Asia*. Graham Brash, Singapore. 145 pp."

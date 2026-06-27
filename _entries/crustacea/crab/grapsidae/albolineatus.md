@@ -77,7 +77,8 @@ galleries:
     caption: Big Sisters, Aug 25 Photo shared by Kelvin Yong on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/grapsidae/albolineatus/251207hntjll4.jpg
     caption: Pulau Hantu, Dec 25 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mottled Sally-light-foot (
   *Grapsus albolineatus*
@@ -101,7 +102,8 @@ links_references: '**Links**
   . Gan Su Xuan. 2017. Taxo4254, Wiki.nus.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

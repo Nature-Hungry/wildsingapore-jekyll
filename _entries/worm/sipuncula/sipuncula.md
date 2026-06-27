@@ -73,7 +73,8 @@ galleries:
     caption: Tanah Merah, Jul 10
   - url: https://images.naturehungry.sg/worm/sipuncula/sipuncula/100729tmd9578m3.jpg
     caption: Tanah Merah, Jul 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Peanut worm (Phylum Sipunculida)](http://mangrove.nus.edu.sg/pub/seashore/text/127)
 
@@ -102,7 +103,8 @@ links_references: '**Links**
   and their lifestyles, and fact sheet on a peanut worm found in Australia.
 
 
-  **References**
+  ### References
+
 
   - P.-W. Hsueh & K. S. Tan. 29 June 2016.
 
@@ -195,7 +197,9 @@ Peanut worms have separate genders, releasing eggs and sperm simultaneously into
 
 Peanut worms were once so plentiful in Singapore that they were collected and fed to ducks.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.
 
 ---

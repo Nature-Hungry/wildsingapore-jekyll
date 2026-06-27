@@ -56,7 +56,8 @@ More often seen by divers. On the intertidal, this tiny flatworm is sometimes se
 **Acknowledgement**
 With grateful thanks to Rene Ong for identifying this flatworm.
 
-**References**
+### References
+
 
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.
 *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*

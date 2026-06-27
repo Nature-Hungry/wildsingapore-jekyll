@@ -76,7 +76,8 @@ for free download
 
 With grateful thanks to Tan Siong Kiat of the Raffles Museum of Biodiversity Research for identifying this snail.
 
-**References**
+### References
+
 
 - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 *Preliminary Checklist of The Molluscs of Singapore*

@@ -35,7 +35,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3c.jpg
     caption: First dorsal fin with black blotch at the rear portion, black bar under
       the first dorsal fin.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Javanese fatnose goby (
   *Pseudogobius javanicus*
@@ -68,7 +69,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

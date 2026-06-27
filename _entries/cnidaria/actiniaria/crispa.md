@@ -128,7 +128,8 @@ galleries:
     caption: Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/crispa/100613snglks3m3.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Heteractis crispa*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Heteractis&subgenus=&species=crispa&subspecies=&synseniorid=89)
 
@@ -152,7 +153,8 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -215,7 +217,9 @@ and many species of
 [anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is listed as Endangered in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

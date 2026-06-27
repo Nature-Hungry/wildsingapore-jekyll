@@ -288,7 +288,8 @@ for comments on this worm and its identification.
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
 
-**References**
+### References
+
 - *[Mating behavior, spawning, parental care, and embryonic development of some marine pseudocerotid flatworms (Platyhelminthes: Rhabditophora: Polycladida) in Singapore](https://doi.org/10.1111/ivb.12293)*
 . Samantha Jia Wen Tong and Rene S.L. Ong. 27 June 2020. Invertebrate Biology.
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.

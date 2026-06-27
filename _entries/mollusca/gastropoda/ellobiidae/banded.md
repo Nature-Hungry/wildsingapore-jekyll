@@ -34,7 +34,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/banded/251219cnyrqo2.jpg
     caption: Coney Island, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cassidula nucleus*](http://www.sealifebase.org/summary/speciessummary.php?genusname=Cassidula&speciesname=nucleus)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

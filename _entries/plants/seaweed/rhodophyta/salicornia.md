@@ -41,7 +41,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/salicornia/091204pawd0011m3a.jpg
     caption: Pulau Pawai, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Gracilaria salicornia](http://www.hawaii.edu/reefalgae/invasive_algae/rhodo/gracilaria_salicornia)*
 
@@ -60,7 +61,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

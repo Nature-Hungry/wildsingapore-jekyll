@@ -81,7 +81,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/extraordinaria/110422tpljk1m3.jpg
     caption: Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
 
@@ -90,7 +91,8 @@ links_references: '**Links**
   *[Aplysia extraordinaria](http://www.seaslugforum.net/find/aplyextr)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -24,7 +24,7 @@ galleries:
     caption: Pulau Sekudu, May 12
   - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg
     caption: Polygonal ridges. Granular surface giving their common name of Sandpaper
-      coral.
+     coral.
   - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg
     caption: A closer look at the tiny corallites that form petal-like shapes like
       a flower.

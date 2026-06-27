@@ -65,14 +65,16 @@ galleries:
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/coralliocaris/130428tsmklks.JPG
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Coralliocaris graminea*](http://www.sealifebase.fisheries.ubc.ca/summary/Coralliocaris-graminea.html)
 
   on SeaLife Base: Techincal fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

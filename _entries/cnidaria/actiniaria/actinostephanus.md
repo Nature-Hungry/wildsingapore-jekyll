@@ -106,7 +106,8 @@ galleries:
     caption: Terumbu Bemban, Jun 15 Photo shared by Neo Mei Lin on her blog .
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/actinostephanus/090210trysvpd0133m3.jpg
     caption: Terumbu Raya, Feb 09 Photos shared by Steven von Peltz.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Actinostephanus haekeli*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/classification_path_2.cfm?taxonname=Actinostephanus%20Kwietniewski%2C%201897)
 
@@ -122,7 +123,8 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -172,7 +174,9 @@ As its sinister appearance suggests, it has a powerful and nasty sting.
 **How to stay safe:**
 Do not touch the sea anemone.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

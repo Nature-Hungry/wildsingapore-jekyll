@@ -60,7 +60,8 @@ galleries:
     caption: Grey-footed mangrove onch slug
   - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
     caption: Ornate onch slug
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Peronia verruculata*](https://singapore.biodiversity.online/taxo4254/mainSpace/Peronia%20verruculata.html)
 
@@ -102,7 +103,8 @@ links_references: '**Links**
   and Dr Rudman''s responses to them.
 
 
-  **References**
+  ### References
+
 
   - Benoit Dayrat et al. (24 Nov 2016).
 
@@ -202,7 +204,9 @@ Onch slugs graze on film of tiny algae and on lichen that grows on sand, mud and
 **Slippery slugs:**
 Avoid touching an onch slug as it is very slimy and if you try to pick it up, it generally slips out of your hands to bounce away among the rocks. The poor slug might get hurt and it may not be able to climb back up to where it can find food and safety.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Status and threats:**
+{% include img-wrap-group.html items=page.galleries.gallery4 %} ## Status and threats
+
+
 One of our mangrove onch slugs (*Peronina alta*) is listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.
 
 ---

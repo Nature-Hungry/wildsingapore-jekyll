@@ -86,9 +86,11 @@ galleries:
     caption: Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/volvatella/170501tsmktch6.jpg
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
-links_references: "**Links**\n- [*Volvatella vigourouxi*](http://www.seaslugforum.net/factsheet.cfm?base=volvvigo)\n\
+links_references: "### Links
+\n- [*Volvatella vigourouxi*](http://www.seaslugforum.net/factsheet.cfm?base=volvvigo)\n\
   on\n[The Sea Slug Forum](http://www.seaslugforum.net/)\nby Dr Bill Rudman: photos\
-  \ and fact sheet.\n\n**References**\n- Kathe Jensen & Rene S. L. Ong . 30 Sep 2016.\n\
+  \ and fact sheet.\n\n### References
+\n- Kathe Jensen & Rene S. L. Ong . 30 Sep 2016.\n\
   *Shelled sacoglossa from Lazarus and Saint John\u2019s Islands*\n. Singapore Biodiversity\
   \ Records 2016: 120-121.\n- K. R. Jensen.\n*Sacoglossa (Mollusca: Gastropoda: Heterobranchia)\
   \ from northern coasts of Singapore*\n. 10 July 2015. The Comprehensive Marine Biodiversity\

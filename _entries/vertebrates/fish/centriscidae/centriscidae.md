@@ -85,7 +85,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/centriscidae/centriscidae/230806tbrk2.jpg
     caption: Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Longspine Razorfish (
   *Aeoliscus strigatus*
@@ -128,7 +129,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Toh Chay Hoon. 7 March 2015. Longspine razorfish (
   *Aeoliscus strigatus*

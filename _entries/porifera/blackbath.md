@@ -32,7 +32,8 @@ galleries:
     caption: Pulau Sudong, Dec 09
   - url: https://images.naturehungry.sg/porifera/blackbath/091205sudd5487m3a.jpg
     caption: Sponge finger oysters embedded in the sponge.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spongiidae](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2622)
 
@@ -43,7 +44,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

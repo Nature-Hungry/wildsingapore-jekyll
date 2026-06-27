@@ -1,6 +1,6 @@
 ---
-title: Pock-marked  coral
-description: Fact sheet of Pock-marked  coral on the shores of Singapore
+title: Pock-marked coral
+description: Fact sheet of Pock-marked coral on the shores of Singapore
 keywords: coral, hard, plesiastrea, versipora, plesiastreidae, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
@@ -18,10 +18,11 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 coverimg: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306)on
-  Corals of the World online on the Australian Institute of Marine Science website:
+ corals of the World online on the Australian Institute of Marine Science website:
   Technical fact sheet.
 
 
@@ -38,7 +39,8 @@ links_references: '**Links**
   SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.*An
   inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*(pdf).

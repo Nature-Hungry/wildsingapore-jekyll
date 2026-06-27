@@ -71,7 +71,9 @@ Fruit brown with a textured pattern: this is the identifying feature of this spe
 
 Sometimes with stilt roots.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg)*
@@ -99,7 +101,8 @@ Distribution in Singapore on
 
 ---
 
-**References**
+### References
+
 
 - *[Ceriops zippeliana](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=6541)*
 on the NParks Flora and Fauna website: photos and fact sheet.

@@ -79,7 +79,8 @@ galleries:
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/wormeel/210428slutch1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Green worm-eel (
   *Muraenichthys*
@@ -99,7 +100,8 @@ links_references: '**Links**
   Data Book (RDB2 and RDB3)
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

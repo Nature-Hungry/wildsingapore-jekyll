@@ -34,7 +34,8 @@ galleries:
     caption: Sometimes seen in groups. Pulau Sekudu, Oct 11
   - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/dotted/070901sjig2116m3.jpg
     caption: Eating the algae growing on seaweed. St. John's Island, Sep 07
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Euplica scripta*](http://seashellsofnsw.org.au/Columbellidae/Pages/Euplica_scripta)
 
@@ -50,7 +51,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

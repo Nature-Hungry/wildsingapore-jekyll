@@ -13,7 +13,8 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Acorn worms](http://mangrove.nus.edu.sg/pub/seashore/text/225.htm)Tan, Leo W.
   H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -25,7 +26,8 @@ links_references: '**Links**
   Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
   of Thomson Learning Inc., 7th Edition. pp. 963

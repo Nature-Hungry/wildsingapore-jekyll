@@ -46,7 +46,8 @@ galleries:
     caption: Digging deep in a muddy hole.
   - url: https://images.naturehungry.sg/vertebrates/reptilia/salvator/120215prpd6947m3.jpg
     caption: The lizard can hold its breath for a long time!
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Malayan Water Monitor](http://www.ecologyasia.com/verts/lizards/malayan_water_monitor)
 
@@ -81,7 +82,8 @@ links_references: '**Links**
   - [Why Pasir Ris mangroves are special](http://wildshores.blogspot.sg/2012/02/why-pasir-ris-mangroves-are-special.html)
 
 
-  **References**
+  ### References
+
 
   - Craig Justin Tan. 29 May 2020.
 

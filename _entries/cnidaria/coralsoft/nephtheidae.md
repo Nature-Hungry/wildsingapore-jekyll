@@ -55,7 +55,8 @@ galleries:
     caption: Spiky flowery soft corals Long branches, with spikes.
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
     caption: Ball flowery soft corals Spherical, with spikes.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118)
 
@@ -66,7 +67,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui & Tan Siong Kiat. 12 December 2014.
 
@@ -121,7 +123,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are animals! Although they look like plants. Don't step on them! Each soft
-  coral is a colony of countless tiny polyps
+ coral is a colony of countless tiny polyps
 - Tiny animals may live in the colony
 - Look for them.
 authors:
@@ -177,7 +179,9 @@ probably just find shelter within the branching arms of the soft coral. Others, 
 
 Soft corals protect themselves with unusual substances that are being studied for possible anti-cancer properties. These beautiful and delicate animals are also harvested from the wild for the aquarium trade. Collection methods usually harm the soft coral and other marine life and many specimens die before they even reach the retailer. Many more die in home aquariums due to lack of proper care. Living coral reefs, however, are worth far more to humans when they left alone. Reefs bring in tourists which generate business beyond the shore (e.g., hotels, restaurants and travel-related industries).
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our flowery corals are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection by hobbyists also have an impact on local populations.
 
 ---

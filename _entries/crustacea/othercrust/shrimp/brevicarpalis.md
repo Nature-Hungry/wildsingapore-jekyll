@@ -116,7 +116,8 @@ galleries:
   gallery14:
   - url: https://live.staticflickr.com/1495/24292062483_93f0593c4a_z.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Periclimenes brevicarpalis](https://singapore.biodiversity.online/taxo4254/mainSpace/Periclimenes%20brevicarpalis%2C%20five-spot%20anemone%20shrimp.html)*
 
@@ -127,7 +128,8 @@ links_references: '**Links**
   on SeaLife Base.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

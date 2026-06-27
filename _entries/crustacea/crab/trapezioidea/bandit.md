@@ -86,7 +86,8 @@ galleries:
     caption: Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/crustacea/crab/trapezioidea/bandit/100612sngmn.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Tetralia nigrolineata*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=154322&genusname=Tetralia&speciesname=nigrolineata)
 
@@ -101,7 +102,8 @@ links_references: '**Links**
   on Crabs of Japan, Marine Species Identification Portal.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

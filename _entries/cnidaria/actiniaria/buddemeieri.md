@@ -76,7 +76,9 @@ sp.)
 **What does it eat?**
 A study suggests they feed on isopods and amphipods.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, they are listed as 'Endangered' in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -99,7 +101,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 
-**References**
+### References
+
 
 - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009.

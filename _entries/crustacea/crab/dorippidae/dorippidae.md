@@ -54,7 +54,8 @@ galleries:
     caption: East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on facebook.
   - url: https://images.naturehungry.sg/crustacea/crab/dorippidae/dorippidae/240823sntrtl1.jpg
     caption: Sentosa Tg Rimau, Aug 24 Photo shared by Tammy Lim on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Leaf Porter Crab (
   *Neodorippe callida*
@@ -79,7 +80,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
@@ -153,7 +155,9 @@ The crab is more active at night. At this time, there are few predators above th
 **What does it eat?**
 The crab is a scavenger, eating any dead plants or animals that it comes across.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Leaf porter crabs are not listed among the threatened animals of Singapore.
 However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

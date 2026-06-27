@@ -39,7 +39,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3d.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bartail Flathead (
   *Platycephalus indicus*

@@ -66,7 +66,8 @@ galleries:
   gallery8:
   - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/100528tkkjk16m3.jpg
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea Slug Forum](http://www.seaslugforum.net/welcome)
 
@@ -81,7 +82,8 @@ links_references: '**Links**
   produced by sea hares
 
 
-  **References**
+  ### References
+
 
   - Tan Yong How Jonathan. 31 Mar 2016.
 

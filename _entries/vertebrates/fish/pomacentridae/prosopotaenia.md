@@ -40,7 +40,8 @@ galleries:
     caption: Terumbu Hantu, Aug 23 Photo shared by Tammy Lim on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/prosopotaenia/190707thnll2.jpg
     caption: Terumbu Hantu, Jul 19 Photo shared by Liz Lim on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Honey-head damsel (
   *Dischistodus prosopotaenia*
@@ -64,7 +65,8 @@ links_references: '**Links**
   : fact sheet
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

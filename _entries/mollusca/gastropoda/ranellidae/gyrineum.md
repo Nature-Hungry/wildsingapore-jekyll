@@ -92,7 +92,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 
-**References**
+### References
+
 
 - Brian Morton. March 2015.
 [The feeding strategy of the predatory

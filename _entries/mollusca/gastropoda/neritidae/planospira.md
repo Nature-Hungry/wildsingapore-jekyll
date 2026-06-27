@@ -26,7 +26,8 @@ galleries:
     caption: Lim Chu Kang, Aug 05
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg
     caption: Lim Chu Kang, Aug 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Flatspired nerite (
   *Nerita planospira*
@@ -46,7 +47,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -106,7 +108,9 @@ The flat underside white or beige with a dark blotch at the edge. Small notched 
 
 It is occasionally collected for food and shellcraft.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This snail is listed as 'Vulnerable' in the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Highly abundant in the 1960's, populations have declined drastically due to the loss of mature mangrove habitats."
 
 ---

@@ -32,7 +32,8 @@ galleries:
     caption: Tassels on petal tips. Pasir Ris, May 11
   - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg
     caption: Sepals clasp the propagule. Pasir Ris Park, Aug 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Lenggadai (
   *Bruguiera parviflora*
@@ -63,7 +64,8 @@ links_references: '**Links**
   on the IUCN Red list website: detailed fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005.
 
@@ -133,7 +135,9 @@ According to Tomlinson, it is found in inner mangrove fringes and river banks an
 
 According to Giersen, the heavy to very heavy timber is hard and strong, and easily worked and finishes well. But it is perishable when exposed or in contact with the ground, and often found in small size. It produces good charcoal, firewood and pulp. The germinating seedling is sometimes eaten as a vegetable.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This plant is listed as 'Endangered' on the Red List of threatened plants of Singapore. It is threatened by habitat degradation.
 
 *![](https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/110311prpd7074m6l.jpg)*

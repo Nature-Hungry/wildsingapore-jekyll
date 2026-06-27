@@ -55,7 +55,8 @@ galleries:
     caption: Sisters Island, Jan 10 Photo shared by Loh Koh Sheng on his flickr .
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/110619tslgrl3m3.jpg
     caption: Terumbu Selegie, Jun 11 Photo shared by Russel Low on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Porcelain Crab (
   *Petrolisthes*
@@ -81,7 +82,8 @@ links_references: '**Links**
   on BiotaTaiwanica: fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

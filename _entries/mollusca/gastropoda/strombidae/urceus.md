@@ -66,7 +66,8 @@ galleries:
   gallery8:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/urceus/220201brklks15.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Little pitcher conch (
   *Strombus urceus*
@@ -93,7 +94,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -173,7 +175,9 @@ This narrow conch with black lips is sometimes seen in seagrass areas on our sho
 
 The snails are actively collected in the Philippines and often sold in the markets of northern Luzon. Shell frequently used to make decorative items.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Black-lipped conch is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be abundant in the 1970s.
 
 ---

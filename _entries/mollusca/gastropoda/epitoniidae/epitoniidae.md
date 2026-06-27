@@ -25,7 +25,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7325m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Epitoniidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Epitoniidae.html)
 
@@ -37,7 +38,8 @@ links_references: '**Links**
   fact sheet on drills with photos
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

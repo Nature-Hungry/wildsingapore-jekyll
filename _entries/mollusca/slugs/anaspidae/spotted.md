@@ -81,7 +81,8 @@ galleries:
     caption: Terumbu Bemban, Apr 22 Photo shared by Juria Toramae on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/anaspidae/spotted/220521bbbjk1.jpg
     caption: Beting Bemban Besar, May 22 Photo shared by James Koh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Aplysia oculifera*](http://www.seaslugforum.net/find/aplyocul)
 
@@ -92,7 +93,8 @@ links_references: '**Links**
   by Dr Bill Rudman: all about sea hares.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

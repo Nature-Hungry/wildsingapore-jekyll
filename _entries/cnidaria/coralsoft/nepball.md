@@ -44,7 +44,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepball/220617skdjt1.jpg
     caption: Porcelain crabs seen in a colony. Pulau Sekudu, Jun 22 Photo shared by
       Jonathan Tan on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dendronephthya*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Dendronephthya)
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui & Tan Siong Kiat. 12 December 2014.
 

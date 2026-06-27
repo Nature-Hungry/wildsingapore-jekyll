@@ -34,7 +34,8 @@ galleries:
   - url: https://images.naturehungry.sg/porifera/chimney/170401tptrl.jpg
     caption: Terumbu Pempang Tengah, Apr 17 Photo shared by Russel Low on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Petrosia*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2646)
 
@@ -45,7 +46,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

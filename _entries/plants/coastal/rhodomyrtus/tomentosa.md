@@ -25,13 +25,15 @@ tribe: Myrteae
 subtribe: Decasperminae
 updated: Nov 10
 coverimg: https://images.naturehungry.sg/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Rhodomyrtus tomentosa*](http://floraofsingapore.wordpress.com/2010/08/10/rhodomyrtus-tomentosa/)on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan, Hugh T.W. and T. Morgany. 2001.*[Growing the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.
   BP Science Centre Guidebook. 168pp.
@@ -99,7 +101,9 @@ the more common
 [Sendudok](../../others/melastoma/malabathricum)
 (*Melastoma malabathricum*).
 
-**Status and threats:**
+ ## Status and threats
+
+
 According to Burkill, the edible fruit may be made into jams and used in tarts. The fruits are also used to treat dysentery, diarrhoea. The roots and leaves also used to treat diarrhoea, stomach aches and as a tonic after childbirth. The leaves are also used to treat wounds. Tar from its wood is used to blacken teeth and eyebrows.
 According to Wee, the Chinese use the leaves as a pain killer, roots to treat heartburn and seeds in a tonic for digestion, and to treat snake bites. In Malaysia, the roots, fruits and leaves are used to treat diarrhoea. In Indonesia, the leaves are used to treat wounds.
 

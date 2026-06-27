@@ -42,14 +42,16 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Oliva tigridella*](http://www.sealifebase.org/summary/SpeciesSummary.php?id=87039)
 
   on SeaLife Base: Technical fact sheet and photo.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

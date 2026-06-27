@@ -28,14 +28,16 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/porifera/smoothblue/100531biod4472m3.jpg
     caption: Pulau Biola, May 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Lendenfeldia*](http://www.marinespecies.org/porifera/porifera.php?p=taxdetails&id=165271)
 
   on the World Porifera Database
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

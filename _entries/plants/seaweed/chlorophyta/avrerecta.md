@@ -46,7 +46,8 @@ galleries:
     caption: Pulau Sudong, Dec 09
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/100530tbkd4243m3.jpg
     caption: Pulau Berkas, May 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102)
 
@@ -75,7 +76,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

@@ -52,7 +52,8 @@ galleries:
     caption: Pulau Salu, Jun 10
   - url: https://images.naturehungry.sg/porifera/potyellow/100613sngd5606m3.jpg
     caption: Pulau Senang, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Rhabdastrella globostellata*](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?id=129823)
 
@@ -63,7 +64,8 @@ links_references: '**Links**
   on the World Porifera Database
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

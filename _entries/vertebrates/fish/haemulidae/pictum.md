@@ -39,7 +39,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/pictum/131104smkmn.jpg
     caption: . Pulau Semakau, Nov 13 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Painted sweetlips (
   *Diagramma pictum*
@@ -63,7 +64,8 @@ links_references: '**Links**
   : Technical fact sheet
 
 
-  **References**
+  ### References
+
 
   - Kelvin K. P. Lim. 21 October 2013.
 

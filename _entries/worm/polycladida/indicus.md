@@ -86,9 +86,11 @@ galleries:
       .
   - url: https://images.naturehungry.sg/worm/polycladida/indicus/100617tbtch1m6l.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Toh Chay Hoon on her blog .
-links_references: "**Links**\n- [*Pseudoceros indicus*](http://polycladida.lifedesks.org/pages/4224)\n\
+links_references: "### Links
+\n- [*Pseudoceros indicus*](http://polycladida.lifedesks.org/pages/4224)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n**References**\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
+  \ sheet.\n\n### References
+\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
   *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
   \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1os,\
   \ B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\

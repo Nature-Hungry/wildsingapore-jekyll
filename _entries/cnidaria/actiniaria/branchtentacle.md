@@ -43,7 +43,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/branchtentacle/090705krjd6457m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -85,7 +86,9 @@ This small anemone with branching tentacles is sometimes seen in soft mudflats n
 
 Diameter with tentacles expanded about 2cm. Few transparent tentacles. Each tentacle is branched at least once ending in tapering tips, with narrow white rings where the tentacles branch or attach to the oral disk. Oral disk tiny. Body column pale with fine white stripes.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is listed as Critically Endangered in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

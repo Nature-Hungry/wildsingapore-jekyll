@@ -71,14 +71,16 @@ galleries:
   gallery6:
   - url: https://farm1.staticflickr.com/507/19455986182_c73bb99065_z.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

@@ -29,13 +29,15 @@ galleries:
     caption: Very young piglets, still with their stripes. Chek Jawa, Apr 12
   - url: https://images.naturehungry.sg/vertebrates/mammals/scrofa/111210cjnhcs00571m3.jpg
     caption: Safe closer encounters are possible! Chek Jawa, Dec 11
-links_references: "**Links**\n- [Wild Pig](http://www.ecologyasia.com/verts/mammals/wild_pig)\n\
+links_references: "### Links
+\n- [Wild Pig](http://www.ecologyasia.com/verts/mammals/wild_pig)\n\
   on Nick Baker's EcologyAsia website: fact sheet with photos.\n- [*Sus scrofa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sus%20Scrofa%20-%20Wild%20Boar.html)\n\
   (Artiodactyla: Suidae) Wild Boar by Teo Li Young, 2013 on taxo4254.\n- [Memories\
   \ of Priscilla the Pig](http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawa.html)\n\
   on the wild shores of singapore blog.\n- [Chek Jawa wild boar: Thousands of peaceful\
   \ interactions](http://wildshores.blogspot.sg/2012/09/chek-jawa-wild-boar-thousands-of.html)\n\
-  on the wild shores of singapore blog.\n\n**References**\n- Yong DL, Lee BPY-H, Ang\
+  on the wild shores of singapore blog.\n\n### References
+\n- Yong DL, Lee BPY-H, Ang\
   \ A & Tan KH (2010)\n[The status on Singapore Island of the Eurasian wild pig\n\
   *Sus scrofa*\n(Mammalia: Suidae)](http://lkcnhm.nus.edu.sg/nus/images/data/nature_in_singapore/online_journal/2010/2010nis227-237.pdf)\n\
   . Nature in Singapore, 3: 227\u2013237.\n- Baker, Nick and Kelvin Lim. 2008.\n*Wild\

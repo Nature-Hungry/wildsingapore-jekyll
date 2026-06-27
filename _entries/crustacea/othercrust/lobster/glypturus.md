@@ -64,14 +64,16 @@ galleries:
     caption: Pulau Pawai, Dec 09
   - url: https://images.naturehungry.sg/crustacea/othercrust/lobster/glypturus/100811slud0137m3.jpg
     caption: Pulau Salu, Aug 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Callianassidae](http://species-identification.org/species.php?species_group=lobsters&id=9&menuentry=groepen)
 
   on Marine Lobsters of the World on Marine Species Identification Portal.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

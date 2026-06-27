@@ -50,7 +50,8 @@ galleries:
     caption: Pulau Tekukor, May 10 Photo shared by James Koh on his blog .
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/leptodius/100612sngmn.jpg
     caption: Pulau Senang, Jun 10 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Common Rock Crab (
   *Leptodius*
@@ -84,7 +85,8 @@ links_references: '**Links**
   Crabs of Japan, on Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

@@ -46,7 +46,8 @@ galleries:
     caption: Pulau Biola, Dec 09
   - url: https://images.naturehungry.sg/porifera/encrustprickly/100130brkd8606m3.jpg
     caption: Terumbu Berkas, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Anti-cancer drugs from a sponge commonly seen on our shores](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html)
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

@@ -77,7 +77,8 @@ galleries:
     caption: Pulau Salu, Apr 21 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/labridae/anchorago/210428slulks4.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Anchor Tuskfish (
   *Choerodon anchorago*
@@ -108,7 +109,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

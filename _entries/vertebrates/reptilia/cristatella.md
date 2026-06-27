@@ -28,7 +28,8 @@ galleries:
     caption: Bukit Timah Nature Reserve, Oct 04
   - url: https://images.naturehungry.sg/vertebrates/reptilia/cristatella/031004lptd0049m6l.jpg
     caption: Lower Peirce Trail, Oct 03
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Green Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard)
 
@@ -39,7 +40,8 @@ links_references: '**Links**
   (Squamata: Agamidae) Green Crested Lizard By Leem Jia Min, Cheryl, 2016, on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
 
@@ -94,7 +96,9 @@ It eats insects such as beetles, flies and ants.
 **Baby lizards:**
 Mama lizard lays 1-4 large, spindle-shaped eggs which are buried in the soil.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is not listed among our threatened animals. But it is no longer as commonly seen as in the past. It has been displaced by the more aggressive
 [Changeable lizard](versicolor)
 (*Calotes versicolor*).

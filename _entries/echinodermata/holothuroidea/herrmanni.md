@@ -51,7 +51,8 @@ galleries:
     caption: Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on facebook .
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/herrmanni/170501tsmktch3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stichopus herrmanni*
 
@@ -92,7 +93,8 @@ links_references: '**Links**
   Pulau Langkawi.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

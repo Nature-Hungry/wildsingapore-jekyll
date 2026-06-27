@@ -24,11 +24,13 @@ infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: Apr 2021
 coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
-links_references: "**Links**  \n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
+links_references: "### Links
+  \n- [The\n  Sea Slug Forum](http://www.seaslugforum.net/)\
   \ by Dr Bill Rudman\n- [A\n  Guide to Singapore Nudibranchs](http://rmbr.nus.edu.sg/nudibranch/main.html)\
   \ by Uma Sachidhanandam: though\n  without any description of the nudibranchs, there\
   \ are lots of\n  photos and locations where the species are found and a list of\n\
-  \  Singapore nudibranchs.\n\n**References**\n- J. van Alphen,\n  N. J. de Voogd\
+  \  Singapore nudibranchs.\n\n### References
+\n- J. van Alphen,\n  N. J. de Voogd\
   \ and B. W. Hoeksema *[Differential\n  feeding strategies in phyllidiid nudibranchs\
   \ on coral reefs at\n  Halmahera, northern Moluccas](http://www.springerlink.com/content/2354121t23720028/)*\
   \ Coral Reefs Volume 30, Number\n  1 (2011), 59.\n- Debelius, Helmut, 2001. Nudibranchs\

@@ -45,7 +45,8 @@ galleries:
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/trapa/210530ecpglks8.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Rarespined murex (
   *Murex trapa*
@@ -72,7 +73,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -141,7 +143,9 @@ Like other drills (Family Muricidae) the Rare-spined murex snail can drill throu
 
 It is sometimes collected as food by coastal dwellers (e.g., in Malaysia) and for its shell for the shell trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This snail is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It is now seldom seen. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---

@@ -52,10 +52,12 @@ galleries:
     caption: Beting Bronok, Jul 07 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/polybranchia/130723ecplks.JPG
     caption: East Coast Park, Jul 13 Photo shared by Loh Kok Sheng on flickr .
-links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+links_references: "### Links
+\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: photos and fact sheet on\n[*Polybranchia orientalis*](http://www.seaslugforum.net/factsheet.cfm?base=polyorie)\n\
   .\n- [The Slug Site](http://slugsite.us/)\nBranch of the Week: photo and fact sheet\
-  \ on\n*[Polybranchia orientalis](http://slugsite.us/bow/nudwk353)*\n\n**References**\n\
+  \ on\n*[Polybranchia orientalis](http://slugsite.us/bow/nudwk353)*\n\n### References
+\n\
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs\
   \ of Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National University\
   \ of Singapore.\n- Debelius, Helmut, 2001.\n*Nudibranchs and Sea Snails: Indo-Pacific\

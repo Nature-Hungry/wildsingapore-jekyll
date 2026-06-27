@@ -50,7 +50,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg
     caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Kops'' Glass Perchlet (
   *Ambassis kopsii*

@@ -84,14 +84,16 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/100518bbbjk1m3.jpg
     caption: Many-banded snapping shrimp with a young Saddled shrimp-goby . Beting
       Bemban Besar, May 10 Photo shared by James Koh on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Shrimp-Goby Chronicles](http://www.explorebiodiversity.com/Hawaii/Shrimp-goby/general/)
 
   with lots of details on the shrimps, the gobies, their burrows and more.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017.
 

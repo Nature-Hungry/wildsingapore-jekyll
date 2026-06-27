@@ -56,14 +56,16 @@ galleries:
     caption: Pulau Pawai, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3.jpg
     caption: Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

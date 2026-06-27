@@ -63,13 +63,15 @@ galleries:
     caption: Pulau Tekukor, Mar 22 Photo shared by Vincent Choo on facebook.
   - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/180912tkkll2.jpg
     caption: Pulau Tekukor, Sep 18 Photo shared by Liz Lim on facebook.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Acanthopleura* *gemmata*](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=4)
   on the NParks Flora and Fauna website.
 
 
-  **References**
+  ### References
+
 
   - Tan, S. K. & H. P. M. Woo, 2010. *A preliminary checklist of the molluscs of Singapore*.
   Lee Kong Chian Natural History Museum, National University of Singapore, Singapore.
@@ -116,7 +118,9 @@ Up to 12cm long, the oval flattened body is covered with 8 overlapping plates al
 **What do they eat?**
 Like snails, chitons have a rough 'tongue' called a radula that is used to rasp off fine algae or other encrustations. They creep slowly about when submerged and at night. When exposed at low tide and during the day, they are usually motionless in some dark, wet hiding place.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' on the Red List of threatened animals of Singapore.
 
 ---

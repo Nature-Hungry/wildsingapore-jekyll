@@ -51,7 +51,8 @@ galleries:
     caption: Slender sea pen ( Virgularia sp.)
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/virgularia/120703chgd6506m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Phylum Cnidaria, Order Pennatulacea](http://species-identification.org/species.php?species_group=corals&menuentry=groepen)
 
@@ -76,7 +77,8 @@ links_references: '**Links**
   photos.
 
 
-  **References**
+  ### References
+
 
   - Erhardt, Harry and Daniel Knop. 2005.
 
@@ -172,7 +174,9 @@ sp.). Sometimes, tiny transparent shrimps are seen on
 
 These beautiful animals are sometimes taken for the live aquarium trade. However, they usually don't do well in captivity and eventually die of starvation.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Sea pens are not listed as among the threatened animals of Singapore. However, like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and overharvesting by hobbyists also have an impact on local populations.
 
 ---

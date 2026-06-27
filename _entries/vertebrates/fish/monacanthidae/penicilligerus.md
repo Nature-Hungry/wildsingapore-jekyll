@@ -58,7 +58,8 @@ galleries:
     caption: Pulau Semakau, Sep 11 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/penicilligerus/100627hntlks5m6l.jpg
     caption: Pulau Hantu, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Prickly leatherjacket (
   *Chaetodermis penicilligerus*
@@ -78,7 +79,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

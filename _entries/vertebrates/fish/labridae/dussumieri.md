@@ -92,7 +92,8 @@ galleries:
     caption: Terumbu Bemban, Jun 14 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/100530biomn.jpg
     caption: Pulau Biola, May 10 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Diamond Tuskfish (
   *Halichoeres dussumieri*
@@ -127,7 +128,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

@@ -61,14 +61,16 @@ galleries:
     caption: Terumbu Salu, Jan 10
   - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/100601slud4999m3.jpg
     caption: Pulau Salu, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

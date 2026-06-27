@@ -40,7 +40,8 @@ galleries:
     caption: Short tube feet in three broad rows.
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg
     caption: Short tube feet.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stichopus vastus*
 
@@ -71,7 +72,8 @@ links_references: '**Links**
   by Choo Poh-Sze WorldFish Center, Penang, Malaysia on the FAO website.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

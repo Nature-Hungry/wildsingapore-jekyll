@@ -53,7 +53,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/villosa/220716bbtl2.jpg
     caption: Beting Bronok, Jul 22 Photo shared by Tammy Lim on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   *[Thordisa villosa](http://www.seaslugforum.net/find/thorvill)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

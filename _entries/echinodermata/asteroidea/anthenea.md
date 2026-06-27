@@ -85,14 +85,16 @@ galleries:
     caption: Photo shared by Chim Chee Kong on his flickr .
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/anthenea/100626cyrlks1m3.JPG
     caption: Cyrene Reef, Jun 10 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Anthenea aspera*](http://www.sealifebase.org/summary/Anthenea-aspera.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Loisette M. Marsh and Jane Fromont.
 
@@ -169,7 +171,9 @@ the
 [how to tell apart large sea stars](cfbigstars)
 seen on our shores.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This star is listed as 'Vulnerable' in the Red List of threatened animals of Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

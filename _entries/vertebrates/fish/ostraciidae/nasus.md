@@ -43,7 +43,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/nasus/220714chgky1.jpg
     caption: Changi Fairy Point, Jul 22 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Shortnose boxfish (
   *Rhynchostracion nasus*
@@ -68,7 +69,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui . 30 November 2016.
 

@@ -104,7 +104,8 @@ galleries:
     caption: Beting Bemban Besar, Jun 19 Photo shared by Jianlin Liu on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/varicosa/190608bbbjll5.jpg
     caption: Beting Bemban Besar, Jun 19 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -113,7 +114,8 @@ links_references: '**Links**
   *[Phyllidia varicosa](http://www.seaslugforum.net/find/phylvari)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

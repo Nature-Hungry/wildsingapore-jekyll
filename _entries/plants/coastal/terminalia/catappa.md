@@ -36,7 +36,8 @@ galleries:
     caption: Sungei Buloh Wetland Reserve, Jan 09
   - url: https://images.naturehungry.sg/plants/coastal/terminalia/catappa/040831sjid6040m3.jpg
     caption: St. John's Island, Aug 04
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Terminalia catappa](http://floraofsingapore.wordpress.com/2010/10/17/terminalia-catappa/)*
 
@@ -70,7 +71,8 @@ links_references: '**Links**
   on the Butterflies of Singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

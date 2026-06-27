@@ -33,7 +33,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/mammals/notatus/180904snt.jpg
     caption: Sentosa, Sep 18 Photo shared by Malcolm Lord
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Plantain Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel)
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   (Rodentia: Sciuridae) Plantain Squirrel by Ee Yong Liang, 2012, on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui. 2 October 2013.
 

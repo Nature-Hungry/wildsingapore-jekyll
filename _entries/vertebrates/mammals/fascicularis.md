@@ -34,7 +34,8 @@ galleries:
     caption: Admiralty Park, Jun 09
   - url: https://images.naturehungry.sg/vertebrates/mammals/fascicularis/090613admd4205m6l.jpg
     caption: Admiralty Park, Jun 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Long-tailed Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque)
 
@@ -51,7 +52,8 @@ links_references: '**Links**
   - [Why we should not feed the monkeys](https://images.naturehungry.sg/places/monkey)
 
 
-  **References**
+  ### References
+
 
   - Mishak Shunari & Benjamin C. Lee. 31 May 2017.
 

@@ -30,7 +30,8 @@ galleries:
     caption: Pinkish leaf stlaks, flattened stipule. Pasir Ris, May 09
   - url: https://images.naturehungry.sg/plants/mangrove/kandelia/kandelia/090529prpd2983m3.jpg
     caption: Pasir Ris, May 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Kandelia candel](http://floraofsingapore.wordpress.com/2010/06/20/kandelia-candel/)*
 
@@ -63,7 +64,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -128,7 +130,9 @@ Propagule slender (25-40cm long) and tapered at each end, capped by the persiste
 
 According to Burkill, the timber is too small for any real value and it only used for firewood.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/mangrove/kandelia/kandelia/090810prpd8958m3.jpg)

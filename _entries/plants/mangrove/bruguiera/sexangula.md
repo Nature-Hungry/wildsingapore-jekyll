@@ -33,7 +33,8 @@ galleries:
     caption: No tassels on petal tips. Pasir Ris, Jan 10
   - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg
     caption: Sepals extend away from the propagule. Pasir Ris, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Bruguiera sexangula*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=3641)
 
@@ -51,7 +52,8 @@ links_references: '**Links**
   on the IUCN Red List website: detailed fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005.
 
@@ -118,7 +120,9 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 
 According to Burkill, the developing embryo is cooked, soaked overnight and then eaten. Juice from the fruits may be used to treat sore eyes, shingles or treat burns. According to Giersen, the heavy to very heavy timber is hard and strong. Used for poles as well as firewood and charcoal. In Sulawesi, the fruits are eaten after they are soaked and boiled.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore
 
 *![](https://images.naturehungry.sg/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg)

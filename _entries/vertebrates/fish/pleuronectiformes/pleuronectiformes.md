@@ -67,7 +67,8 @@ galleries:
     caption: Indian halibut
   - url: https://images.naturehungry.sg/soleidae/zebra/100612chgd5283m3.jpg
     caption: Zebra sole
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Order Pleuronectiformes](http://www.fishbase.org/Summary/OrdersSummary.cfm?order=Pleuronectiformes)
 
@@ -87,7 +88,8 @@ links_references: '**Links**
   some fossil findings on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Marcus F. C. Ng. 16 May 2014.
 

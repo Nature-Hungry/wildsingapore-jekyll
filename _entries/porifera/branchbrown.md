@@ -46,7 +46,8 @@ galleries:
     caption: Pulau Senang, Jun 10
   - url: https://images.naturehungry.sg/porifera/branchbrown/101108bkoms00719m3.jpg
     caption: Terumbu Bukom, Nov 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Irciniidae](http://www.sealifebase.fisheries.ubc.ca/identification/specieslist.php?famcode=2621&areacode=)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   on the World Porifera Database
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

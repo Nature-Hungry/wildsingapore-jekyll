@@ -64,7 +64,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/gerreidae/gerreidae/210428slutch2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Deepbody Mojarra/Silver-biddy](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/304)
 
@@ -122,7 +123,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

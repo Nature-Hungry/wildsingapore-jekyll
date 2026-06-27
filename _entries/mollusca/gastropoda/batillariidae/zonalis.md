@@ -48,7 +48,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/batillariidae/zonalis/201116lazmn2.jpg
     caption: Seringat-Kias, Nov 20 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Creeper Shell (
   *Batillaria zonalis*
@@ -62,7 +63,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

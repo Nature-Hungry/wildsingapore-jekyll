@@ -41,7 +41,8 @@ authors:
 zone:
 - intertidal
 - marine
-links_references: '**References**
+links_references: '### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.*Rhythm of the Sea: The Life and Times
   of Labrador Beach.*Division of Biology, School of Science, Nanyang Technological

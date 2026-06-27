@@ -36,7 +36,8 @@ galleries:
     caption: Some seahorses are tiny! Watch your step! Changi, Jul 06
   - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg
     caption: Very pregnant piepfish papa. Changi, Jun 13
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pipefish (Family Syngnathidae)](http://mangrove.nus.edu.sg/pub/seashore/text/230)
 
@@ -82,7 +83,8 @@ links_references: '**Links**
   focusing on seahorses and their habitats in Pulai Johor
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -166,7 +168,9 @@ In many members of this family, the male carries the eggs. In some species, the 
 
 Pipefishes and seahorses are used in traditional Chinese medicine. Some species are also caught for the live aquarium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 These fishes are threatened by habitat disturbance and destruction from reclamation, pollution and activities that increase sedimentation. They are also threatened with over-collection for the traditional Chinese medicine and live aquarium trade. They are naturally uncommon because they reproduce slowly and usually seldom travel far from one spot. Usually, in the wild only a handful of babies survive from each batch of eggs. Being slow swimmers without a free-swimming larval stage, they don't spread quickly to new places. Being slow-moving and defenceless, they are easily collected.
 
 Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Ll

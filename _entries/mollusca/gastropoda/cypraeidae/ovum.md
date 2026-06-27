@@ -96,14 +96,16 @@ galleries:
     caption: Pulau Sudong, Dec 09 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/100130brklks15m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cypraea ovum*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90304)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

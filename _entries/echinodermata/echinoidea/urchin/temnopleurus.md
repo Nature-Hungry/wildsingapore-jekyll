@@ -59,7 +59,8 @@ galleries:
     caption: Photo shared by Toh Chay Hoon on her blog .
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/080507ecplks04m3.jpg
     caption: East Coast, May 08 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
 
@@ -80,7 +81,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Jeffrey K. Y. Low. 29 May 2015.
 

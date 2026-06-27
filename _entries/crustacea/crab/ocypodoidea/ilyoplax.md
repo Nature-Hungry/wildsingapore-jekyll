@@ -41,7 +41,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ilyoplax/111107sbwrlks.JPG
     caption: Sungei Buloh, Nov 11 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Semaphore crabs (
   *Ilyoplax*
@@ -63,7 +64,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

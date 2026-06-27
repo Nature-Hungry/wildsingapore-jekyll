@@ -72,7 +72,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/matutidae/lunaris/210629bbbrk1.jpg
     caption: Beting Bemban Besar, Jun 21 Photo shared by Richard Kuah on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Moon Crab (
   *Matuta lunaris*
@@ -101,7 +102,8 @@ links_references: '**Links**
   by Palomares, M.L.D. and D. Pauly. Editors. 2009: technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

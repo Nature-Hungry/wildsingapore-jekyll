@@ -72,7 +72,8 @@ galleries:
     caption: Tiger cowrie
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
     caption: Milk-spotted cowrie
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Wandering Cowrie (
   *Cypraea errones*
@@ -112,7 +113,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -205,7 +207,9 @@ The mother cowrie lays her eggs in a horny capsule attached to a hard surface by
 
 Some cowries are popular in the live aquarium trade. Cowries are among the most harvested snails for the shell trade. In the past, they were traditionally collected for food. Some islanders use cowries to bait traps for octopus.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Recent estimates suggest that half the cowrie species in Singapore have been lost. The Gold-ringed cowrie (*Cypraea annulus*) has almost if not completely been wiped out on our shores. This small cowrie was previously found in large groups on our rocky shores and reef flats. It has a narrow yellow band around its greyish-white back. Although considered one of the most common cowries in our region, the
 [Tiger Cowrie](tigris)
 (*Cypraea tigris*) is now rarely seen. Both are listed as 'Endangered' while the

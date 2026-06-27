@@ -38,7 +38,8 @@ galleries:
     caption: Broadclub cuttlefish
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/cutcurvespine/050820bbd5746m3.jpg
     caption: Curvespine cuttlefish
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Cephalopod Page](http://www.thecephalopodpage.org/)
 
@@ -49,7 +50,8 @@ links_references: '**Links**
   plans.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

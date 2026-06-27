@@ -62,7 +62,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/haminoea/191127lazjll1.jpg
     caption: Lazarus Island, Nov 19 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bubble shell (
   *Haminoea*
@@ -93,7 +94,8 @@ links_references: '**Links**
   description and photos.
 
 
-  **References**
+  ### References
+
 
   - Toh Chay Hoon & Tan Siong Kiat. 10 July 2015.
 

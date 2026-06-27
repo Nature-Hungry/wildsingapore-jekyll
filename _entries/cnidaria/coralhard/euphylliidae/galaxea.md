@@ -78,7 +78,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/150618tmftlks11m3.jpg
     caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -98,7 +99,8 @@ links_references: '**Links**
   Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -192,7 +194,9 @@ has a unique method of reproducing. There are two types of colonies. One type is
 
 These corals are among those taken for the live aquarium trade. They often do poorly in captivity. They are fragile and break easily, and collection techniques usually result in poor specimens that quickly die from disease. In addition, their habit of producing sweeper tentacles make them poor tank-mates.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Galaxea astreata*
 is listed as globally Vulnerable and
 *Galaxea fascicularis*

@@ -30,7 +30,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Banded Kraits](http://singaporesnakes.blogspot.com/search/label/Banded%20Krait)
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - *Banded krait entering mud lobster mound at Chek Jawa*
 

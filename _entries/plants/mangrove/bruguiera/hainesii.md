@@ -26,7 +26,8 @@ hybrid: "Bruguiera \xD7 hainesii"
 inat_id: 1539958
 updated: Jan 2013
 coverimg: https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg
-links_references: "**Links**\n- Giesen, Wim and Stephan Wulffraat, Max Zieren and\
+links_references: "### Links
+\n- Giesen, Wim and Stephan Wulffraat, Max Zieren and\
   \ Liesbeth Scholten. 2006.[*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm)(PDF\
   \ online downloadable). RAP publication 2006/07 Food and Agriculture Organization\
   \ of the United Nations Regional Office for Asia and the Pacific Bangkok.\n\n- [*Bruguiera\
@@ -39,7 +40,8 @@ links_references: "**Links**\n- Giesen, Wim and Stephan Wulffraat, Max Zieren an
   \ - [IUCN features Singapore's rare mangrove tree](http://wildshores.blogspot.com/2010/05/iucn-features-singapores-rare-mangrove.html)\n\
   \ - [Rare mangroves at Kranji, with special find?](http://wildshores.blogspot.com/2010/12/rare-mangroves-at-kranji-with-special.html)first\
   \ encounter with the tree at Kranji.\n - [Homage to the hainesii](http://wildshores.blogspot.com/2010/12/homage-to-hainesii.html)revisiting\
-  \ the tree at Kranji\n\n**References**\n- Chiou-Rong Sheue, Jean W. H. Yong and\
+  \ the tree at Kranji\n\n### References
+\n- Chiou-Rong Sheue, Jean W. H. Yong and\
   \ Yuen- Po Yang. 2005.*[The Bruguiera (Rhizophoraceae) Species in the Mangroves\
   \ of Singapore, Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*.\
   \ Taiwania, 50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity Research\
@@ -92,7 +94,9 @@ Propagule develops on the parent plant: the hypocotyl is cigar-shaped (9-22cm lo
 
 According to Tomlinson, the small flowers are pollinated by day flying insects such as butterflies. The petals of the flower hold loose pollen and are under tension. When probed at the base, the petal unzips to scatter a cloud of pollen over the head of the visiting insect.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore, as well as globally on the IUCN Red List.
 
 ![](https://images.naturehungry.sg/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg)

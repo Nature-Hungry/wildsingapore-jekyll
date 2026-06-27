@@ -110,7 +110,8 @@ galleries:
     caption: Pulau Senang, Aug 10
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/blue/100811slud0112m3.jpg
     caption: Pulau Salu, Aug 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
 
@@ -136,7 +137,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

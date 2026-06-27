@@ -40,7 +40,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/labridae/schoenleinii/170823tsmkjt2.jpg
     caption: Juvenile? Terumbu Semakau, Aug 17 Photo shared by Jonathan Tan on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Black-spot Tuskfish (
   *Choerodon schoenleinii*
@@ -76,7 +77,8 @@ links_references: '**Links**
   of the Western Central Pacific
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 
@@ -131,7 +133,9 @@ It rests on the bottom during the day and forages at night, often by overturning
 
 It heavily fished for for the live seafood trade. It is also highly sought after by recreational fishermen throughout its distribution.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Black-spot tuskfish is currently being considered for listing on the IUCN Red List of internationally threatened fishes.
 
 **Species are difficult to positively identify without closer examination.

@@ -51,7 +51,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/pencil/141224tusmn4m3.jpg
     caption: Tuas, Dec 14 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Lituaria*](http://species-identification.org/species.php?species_group=corals&id=224&menuentry=groepen)
 
@@ -66,7 +67,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Erhardt, Harry and Daniel Knop. 2005.
 

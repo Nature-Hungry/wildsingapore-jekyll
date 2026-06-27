@@ -61,7 +61,8 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hymaritima/150320tusmn2m3.jpg
     caption: Tuas, Mar 15 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -78,7 +79,8 @@ links_references: '**Links**
   with a discussion on the wide range of morps of this nudibranch
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

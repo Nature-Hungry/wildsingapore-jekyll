@@ -48,7 +48,8 @@ galleries:
     caption: Tuas, Mar 09 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg
     caption: Berlayar Creek, Mar 20 Photo shared by Loh Kok Sheng on facebook.
-links_references: "**Links**\n- [Green Mussel (\n*Perna viridis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/158)\n\
+links_references: "### Links
+\n- [Green Mussel (\n*Perna viridis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/158)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [Green mussel (\n*Perna viridis*\n\
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83835)\nfrom SeaLife\
@@ -57,7 +58,8 @@ links_references: "**Links**\n- [Green Mussel (\n*Perna viridis*\n)](http://mang
   \ Fishery Purposes: The Living Marine Resources of the Western Central Pacific\n\
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
   on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  **References**\n- Stephane Bayen, Gareth Owen Thomas, Hian Kee Lee, Jeffrey Philip\
+  ### References
+\n- Stephane Bayen, Gareth Owen Thomas, Hian Kee Lee, Jeffrey Philip\
   \ Obbard. June 2004.\n[Organochlorine Pesticides and Heavy Metals in Green Mussel,\n\
   *Perna viridis*\nin Singapore](http://link.springer.com/article/10.1023/B:WATE.0000026524.99553.55)\n\
   . Water, Air, and Soil Pollution, Volume 155, Issue 1, pp 103\u2013116T\n- Tan Siong\

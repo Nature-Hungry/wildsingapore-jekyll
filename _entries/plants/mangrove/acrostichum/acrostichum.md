@@ -34,7 +34,8 @@ galleries:
     caption: Young fronds are green.
   - url: https://images.naturehungry.sg/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg
     caption: Sterile fronds have tapering pointed tips.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Piai Raya (
   *Acrostichum aureum*
@@ -72,7 +73,8 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tomlinson, P. B., 1986.
 

@@ -43,7 +43,8 @@ galleries:
     caption: Clown anemonefish
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
     caption: Tomato anemonefish
-links_references: "**Links**\n- [Field Guide to Anemone Fishes and their host Sea\
+links_references: "### Links
+\n- [Field Guide to Anemone Fishes and their host Sea\
   \ Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)\nby Dr Daphne G. Fautin\
   \ and Dr Gerald R. Allen: tons of information and photos of anemonefishes and their\
   \ sea anemone hosts. Lots of details about how anemonefish develop immunity to sea\
@@ -60,7 +61,8 @@ links_references: "**Links**\n- [Field Guide to Anemone Fishes and their host Se
   \ blog.\n- [Nemo leaves home: how far does he go?](http://wildshores.blogspot.com/2009/03/nemo-leaves-home-how-far-does-he-go.html)\n\
   - [Acid oceans confuse baby nemos](http://wildshores.blogspot.com/2009/02/acid-oceans-confuse-baby-nemos.html)\n\
   - [Clown anemonefishes need rainforests](http://wildshores.blogspot.com/2008/08/clown-anemonefishes-need-rainforests.html)\n\
-  : about how these fishes find their way to a suitable sea anemone host\n\n**References**\n\
+  : about how these fishes find their way to a suitable sea anemone host\n\n### References
+\n\
   - Toh Chay Hoon. 11 April 2014.\n*Spawn of the saddleback anemonefish*\n. Singapore\
   \ Biodiversity Records 2014: 96.\n- Jeffrey K. Y. Low. 2013.\n*More noteworthy fishes\
   \ observed in the Singapore Straits*\n. Nature in Singapore, 6: 31\u201337.\n- Toh\
@@ -163,7 +165,9 @@ Unfortunately, these fishes are taken in large numbers from the wild for the aqu
 There have been some success in breeding anemonefish for the aquarium trade. Although captive bred anemonefish are hardier, they are more expensive. Harvesting from the wild will probably continue so long as there are unscrupulous traders and aquarists.
 Thus, anemonefishes continue to be unsustainably harvested from the wild. The pressure on wild populations has risen tremendously due to the huge demand following the popular "Finding Nemo" cartoon.
 
-**Status and threats:**
+ ## Status and threats
+
+
 All our anemonefishes are 'Vulnerable' in the Red List of threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists and overfishing can also have an impact on local populations. According to the Singapore Red Data Book, "habitat protection and strict policing against illegal collection are required" to conserve our anemonefishes.
 
 ---

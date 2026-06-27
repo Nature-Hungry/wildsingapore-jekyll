@@ -135,7 +135,8 @@ galleries:
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/100530pbklks2m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Polka-dot Sea Slug
 
@@ -170,7 +171,8 @@ links_references: '**Links**
   [*Jorunna funebris*](http://rmbr.nus.edu.sg/nudibranch/nudipages/funebris.html)
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

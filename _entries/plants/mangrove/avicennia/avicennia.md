@@ -49,7 +49,8 @@ galleries:
     caption: Large flowers, crowded together.
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg
     caption: Fruits oval with pointed tip smooth.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Api-api (
   *Avicennia*
@@ -88,7 +89,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -162,7 +164,9 @@ is named after Ibn Sina (980-1037 AD), a Persian physician-philosopher who gaine
 
 According to Burkill, the tree provides an "indifferent firewood" and the timber often too twisted to be of use. However, he reported it was widely used to smoke fish as it gave "an agreeable flavour" and also for smoking rubber. The 'seeds' are also eaten in various ways by various coastal natives with much treatment such as boiling then soaking or sun drying or roasting in order to make them more palatable. The leaves are fed to cattle in the Red Sea, Persian Gulf and India as well as Australia. Medical uses include the resin for toothache, as a contraceptive, an aphrodisiac. The ash from burnt wood is used to make soap as there is a large amount of alkali in it.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Avicennia marina*
 is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 

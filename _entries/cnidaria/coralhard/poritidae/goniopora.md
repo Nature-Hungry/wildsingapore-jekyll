@@ -22,7 +22,7 @@ galleries:
   gallery1:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg
     caption: Larger polyps of Anemone coral compared with smaller Small goniopora
-      coral.
+     coral.
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3a.jpg
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3b.jpg
@@ -47,7 +47,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonsmall/080510smkd3101m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -71,7 +72,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

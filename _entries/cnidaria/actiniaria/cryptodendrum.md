@@ -138,7 +138,8 @@ galleries:
     caption: Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/220201brkvc2.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cryptodendrum adhaesivum*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Cryptodendrum&subgenus=&species=adhaesivum&subspecies=&synseniorid=48)
 
@@ -154,7 +155,8 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -233,7 +235,9 @@ sp.) live with these anemones such as
 *Amphiprion bicinctus, A. clarkii and A. xanthurus*
 . But none of these have so far been observed on the Pizza anemones we've seen on the intertidal during low tide.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is listed as Critically Endangered in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

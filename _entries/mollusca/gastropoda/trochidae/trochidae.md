@@ -39,7 +39,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/umbonium/050402cjg3983m3.jpg
     caption: Button snails
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)
 
@@ -76,7 +77,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Toh Chay Hoon, Tan Siong Kiat & Martyn E. Y. Low. 10 January 2014.
 
@@ -153,7 +155,9 @@ Top shells graze the algae that thrive on the rocks, scraping this off with thei
 
 The shell is lined with mother-of-pearl. Larger species are collected for food and their shells that are made into ornaments and pearl buttons. This is still a significant industry in some Pacific Islands and effort is being made to establish a susbtainable method of farming these snails.
 
-**Status and threats:**
+ ## Status and threats
+
+
 [Button snails](umbonium)
 are listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 

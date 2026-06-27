@@ -66,7 +66,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/apogonidae/melas/161117rlhlks8.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Black cardinalfish (
   *Apogonichthyoides melas*
@@ -80,7 +81,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Jeffrey K. Y. Low. 23 October 2015.
 

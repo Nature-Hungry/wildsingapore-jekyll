@@ -101,7 +101,8 @@ galleries:
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/nigra/210428slulks2.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -116,7 +117,8 @@ links_references: '**Links**
   *[Phyllidelia nigra](http://rmbr.nus.edu.sg/nudibranch/nudipages/nigra.html)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

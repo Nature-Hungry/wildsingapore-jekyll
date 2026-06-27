@@ -51,7 +51,8 @@ galleries:
     caption: Changi, Sep 10 Photo shared by Neo Mei Lin on her blog .
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/peronella/230605chg7lks1.jpg
     caption: Changi, Sep 10 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)
 
@@ -69,7 +70,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

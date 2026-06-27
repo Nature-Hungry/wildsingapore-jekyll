@@ -61,7 +61,8 @@ galleries:
     caption: Pulau Salu, Jun 10 Photo shared by James Koh on flickr .
   - url: https://images.naturehungry.sg/vertebrates/snakes/laticauda/140617tblks1m3.JPG
     caption: Terumbu Benban, Jun 14 Photos shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Yellow-lipped Sea Kraits](http://singaporesnakes.blogspot.com/search/label/Yellow-lipped%20Sea%20Krait)
 
@@ -85,7 +86,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
 
@@ -185,7 +187,9 @@ It eats fishes and fish eggs. Eels are among their favourite prey. It has been s
 **Sea snake babies:**
 These snakes generally breed on coral atolls and rocky islets where they may gather in large groups to do so. The reef flat at Pulau Sudong used to be a well known nesting ground for the snake until it was reclaimed. The mother snake lays 5-9/7-13 eggs, in caves and grottos. The babies look just like their parents.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our sea snakes are listed as 'Endangered' on the Red List of threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

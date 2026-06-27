@@ -35,7 +35,8 @@ galleries:
     caption: Smallhead dragonet
   - url: https://images.naturehungry.sg/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m3.jpg
     caption: Kuiter's dragonet
-links_references: '**Links**
+links_references: '### Links
+
 
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
 
@@ -98,7 +99,8 @@ links_references: '**Links**
   : Technical fact sheet on the family.
 
 
-  **References**
+  ### References
+
 
   - Toh Chay Hoon & Kelvin K. P. Lim.
 

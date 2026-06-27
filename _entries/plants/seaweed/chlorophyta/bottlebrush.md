@@ -32,7 +32,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Caulerpa webbiana*](http://www.algaebase.org/search/species/detail/?species_id=4537)
 
@@ -43,7 +44,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Huisman, John M. 2000.
 

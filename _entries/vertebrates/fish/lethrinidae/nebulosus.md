@@ -24,7 +24,8 @@ order: Acanthuriformes
 subfamily: Lethrininae
 updated: Sep 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/nebulosus/100710sisd8119m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spangled emperor (*Lethrinus nebulosus*)](http://www.fishbase.org/summary/speciessummary.php?id=1846)from[FishBase](http://www.fishbase.org/):
   Technical fact sheet.
@@ -35,7 +36,8 @@ links_references: '**Links**
   the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.*Marine Fishes of South-East Asia: A Field Guide for Anglers
   and Divers*. Periplus Editions. 292 pp.

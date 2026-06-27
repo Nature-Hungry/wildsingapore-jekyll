@@ -35,7 +35,8 @@ galleries:
     caption: Pulau Semakau, Aug 11 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/arachnida/hyllus/251213prprqo4.jpg
     caption: Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Heavy jumper (*Hyllus diardi*)](http://habitatnews.nus.edu.sg/guidebooks/spiders/text/Hyllus_diardi)
   Koh, Joseph K. H., 1989. A Guide to Common Singapore Spiders. Singapore Science
@@ -46,7 +47,8 @@ links_references: '**Links**
   Diversity). Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
   National Council on the Environment. 163pp.

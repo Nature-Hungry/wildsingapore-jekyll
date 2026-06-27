@@ -94,7 +94,8 @@ galleries:
   gallery13:
   - url: https://images.naturehungry.sg/vertebrates/fish/ophichthidae/evermann/140713tsmkmn.jpg
     caption: Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Ophichthus lithinus](http://www.fishbase.us/Summary/SpeciesSummary.php?ID=64829&AT=Ebi)*
 

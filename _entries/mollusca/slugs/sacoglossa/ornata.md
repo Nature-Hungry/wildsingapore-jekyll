@@ -21,7 +21,8 @@ superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Oct 2019
 coverimg: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Leaf Slug*Elysia*](http://mangrove.nus.edu.sg/pub/seashore/text/151.htm)Tan,
   Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -34,7 +35,8 @@ links_references: '**Links**
   some slugs retain the chloroplasts from their food.
 
 
-  **References**
+  ### References
+
 
   - K. R. Jensen.*Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern
   coasts of Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey:

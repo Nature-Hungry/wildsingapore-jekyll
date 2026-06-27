@@ -47,7 +47,8 @@ galleries:
     caption: Pulau Salu, Jun 10
   - url: https://images.naturehungry.sg/porifera/bloborange/100810sngd9944m3.jpg
     caption: Pulau Senang, Aug 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Mycale*](http://www.sealifebase.fisheries.ubc.ca/nomenclature/SpeciesList.php?genus=Mycale)
 
@@ -58,7 +59,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

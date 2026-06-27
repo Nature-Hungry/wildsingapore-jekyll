@@ -43,7 +43,8 @@ galleries:
     caption: Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/hypnea/100403tbbd0676m3.jpg
     caption: Beting Bemban Besar, Apr 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Hypnea*](http://www.algaebase.org/search/genus/detail/?genus_id=32938)
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

@@ -37,7 +37,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/nigroviridis/200819ecptch5.jpg
     caption: East Coast Park, Aug 20 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spotted Green Puffer (
   *Tetraodon nigroviridis*
@@ -78,7 +79,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Andrew Tay & Caitlin Wind. 6 December 2013.
 

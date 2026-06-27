@@ -63,7 +63,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/leucosiidae/leucosiidae/080310smklksm3.jpg
     caption: Leucosia craniolaris Pulau Semakau, Mar 08 Photo shared by Loh Kok Sheng
       on his blog
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pebble crabs (Family Leucosiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2061)
 
@@ -78,7 +79,8 @@ links_references: '**Links**
   in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - P. K. L. Ng & H. Komatsu. 29 June 2016.
 
@@ -146,7 +148,9 @@ According to the Singapore Red Data Book, the Rubble crab (*Favus granulatus*) i
 *Alox somphos*
 , a related species in another genus was also first described from Singapore.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our pebble crabs are listed as 'Endangered' on the Red List of threatened animals of Singapore.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 

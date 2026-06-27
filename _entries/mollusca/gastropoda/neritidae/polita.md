@@ -45,7 +45,8 @@ galleries:
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/polita/260104trmyls2b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Polished nerite (
   *Nerita polita*
@@ -65,7 +66,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

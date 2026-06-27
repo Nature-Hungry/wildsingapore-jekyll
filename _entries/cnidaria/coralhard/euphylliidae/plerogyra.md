@@ -61,14 +61,16 @@ galleries:
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/121115tsmklks1.JPG
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Physogyra lichtensteini*](https://www.sealifebase.org/summary/Physogyra-lichtensteini.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -131,7 +133,9 @@ species. Here's more on
 species](euphyllia)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 This coral is not listed amont the threatened animals of Singapore. But it is listed globally Near Threatened
 [by the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0)
 . Although it is widespread and common throughout its range, it is heavily harvested for the aquarium trade and has suffered extensive reduction of coral reef habitat due to a combination of threats.

@@ -3,7 +3,7 @@ title: 'Branching anchor corals '
 description: Fact sheet of Branching anchor corals  on the shores of Singapore
 summary: Colonies 10-20cm. Corallites trumpet-shaped. Tentacles with U-shaped tips. Colours green, brown and purple with white or bluish tips. Seen on our Southern shores.
 keywords: branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae,
-  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
+ coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Euphylliidae
@@ -58,7 +58,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paraancora/130427tptlks.JPG
     caption: Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on flickr
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -78,7 +79,8 @@ links_references: '**Links**
   on SeaLife Base: Technical factsheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
@@ -138,7 +140,9 @@ species. Here's more on
 species](euphyllia)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 This coral is listed as globally Vulnerable
 [by the IUCN](http://www.iucnredlist.org/)
 . Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

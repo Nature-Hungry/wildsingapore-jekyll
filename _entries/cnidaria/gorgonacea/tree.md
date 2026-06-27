@@ -51,7 +51,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/tree/210502tptlks7.jpg
     caption: Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on facenook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Melithea*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Melithaea)
 
@@ -76,7 +77,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

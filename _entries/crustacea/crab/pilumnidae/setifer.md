@@ -50,7 +50,8 @@ galleries:
   gallery4:
   - url: https://farm4.staticflickr.com/3766/8911338681_fbe4a946c2_z.jpg
     caption: 1 Jun 2013 Video clip shared by Marcus Ng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Actumnus setifer*](http://www.sealifebase.ca/summary/Actumnus-setifer.html)
 
@@ -65,7 +66,8 @@ links_references: '**Links**
   on Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Johnson, P.R., Davie, P.J.F., Neil, D.T. & Fellegara, I.
 

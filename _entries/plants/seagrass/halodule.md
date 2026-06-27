@@ -41,7 +41,8 @@ galleries:
     caption: Broad Halodule. Cyrene Reefs, Aug 11
   - url: https://images.naturehungry.sg/plants/seagrass/halodule/110830cyrd0555m6la.jpg
     caption: Skinny Halodule. Cyrene Reefs, Aug 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
 
@@ -64,7 +65,8 @@ links_references: '**Links**
   ''stores'' its seeds in the sediments.
 
 
-  **References**
+  ### References
+
 
   - Waycott, Michelle (et. al). 2004.
 
@@ -146,7 +148,9 @@ Needle seagrass has separate male and female plants. The flowers are tiny, usual
 ## Role in habitat
 Although tiny, needle seagrass grows rapidly and densely from its underground stems. Forming a mat, it traps, builds up, and stabilises sediments. This allows other seagrasses to establish themselves and provides a more stable environment for burrowing creatures. Needle seagrass is also one of the seagrasses preferred by dugongs.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Halodule pinifolia*
 is listed as 'Critically Endangered' while
 *Halodule uninervis*

@@ -74,7 +74,8 @@ galleries:
     caption: Terumbu Pempang Tengah, May 11
   - url: https://images.naturehungry.sg/vertebrates/fish/muraenidae/tile/110517tptrl1m3a.jpg
     caption: Photo shared by Russel Low on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Estuarine Moray (
   *Gymnothorax tile*

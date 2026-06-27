@@ -84,7 +84,8 @@ for free download
 
 ---
 
-**References**
+### References
+
 - Tan, K. S. & L. M. Chou, 2000.
 *A Guide to the Common Seashells of Singapore*
 . Singapore Science Centre. 160 pp.

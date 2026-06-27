@@ -55,7 +55,8 @@ galleries:
     caption: Spurred turban snail
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
     caption: Tapestry turban snail
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Dwarf Turban Shell (
   *Turbo brunneus*
@@ -87,7 +88,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Chan Sow Yan & Leo Nguang.
 
@@ -192,7 +194,9 @@ Turban shells graze the algae that thrive on the rocks, scraping this off with t
 
 In our region, the larger turban snails are collected for food and their mother-of-pearl shell. The large Giant green turban snail (*Turbo mamoratus*) is collected for food and its shell carved into ornaments and jewellery. In recent years, heavy commercial exploitation has depleted local populations.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Tapestry turban shell (*Turbo petholatus*) is listed as 'Endangered' on the Red List of the threatened animals of Singapore. It has a smooth, brightly coloured shell in brown, green and yellow fine lines. According to the Singapore Red Data book: "Although never abundant, this species could be found up until the early 1970's but is now extremely rare. It needs to be protected from shell collectors".
 
 ---

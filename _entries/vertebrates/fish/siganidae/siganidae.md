@@ -37,7 +37,8 @@ galleries:
     caption: Orange-spotted rabbitfish
   - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg
     caption: Streaked rabbitfish
-links_references: '**Links**
+links_references: '### Links
+
 
   - [White-spotted Rabbitfish (
   *Siganus canaliculatus*
@@ -137,7 +138,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Jeffrey K. Y. Low.
 

@@ -26,8 +26,10 @@ tribe: Syzygieae
 updated: Feb 11
 coverimg: https://images.naturehungry.sg/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg
 links_references: "**Acknowledgements** \nWith grateful thanks to Teo Siyang and Bian\
-  \ Tan for identifying\nthis plant. \n \n**Links**\n- *[Syzygium zeylanicum](http://floraofsingapore.wordpress.com/2010/06/27/syzygium-zeylanicum/)*on\
-  \ Total Vascular Flora of Singapore Online: photos and fact sheet.\n\n**References**\n\
+  \ Tan for identifying\nthis plant. \n \n### Links
+\n- *[Syzygium zeylanicum](http://floraofsingapore.wordpress.com/2010/06/27/syzygium-zeylanicum/)*on\
+  \ Total Vascular Flora of Singapore Online: photos and fact sheet.\n\n### References
+\n\
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:\
   \ Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.\
   \ Singapore University Press. 222 pp.\n\n- Corners, E. J. H., 1997.*[Wayside Trees\

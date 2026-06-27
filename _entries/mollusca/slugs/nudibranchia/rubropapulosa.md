@@ -75,7 +75,8 @@ galleries:
     caption: Beting Bemban Besar, Aug 12 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/100130brkd8690m3.jpg
     caption: Terumbu Berkas, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Gymnodoris rubropapulosa](http://www.seaslugforum.net/find/gymnrubr)*
 
@@ -104,7 +105,8 @@ links_references: '**Links**
   *[Gymnodoris rubropapulosa](http://rmbr.nus.edu.sg/nudibranch/nudipages/rubropapulosa.html)*
 
 
-  **References**
+  ### References
+
 
   - Tan Yee Keat. 26 June 2015.
 

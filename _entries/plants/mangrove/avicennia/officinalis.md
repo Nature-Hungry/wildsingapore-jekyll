@@ -41,7 +41,8 @@ galleries:
     caption: Pollinated by flies? Chek Jawa, Aug 03
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/officinalis/090614ubnd4319m3a.jpg
     caption: Pulau Ubin, Jun 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Api-api ludat (
   *Avicennia officinalis*
@@ -76,7 +77,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

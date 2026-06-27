@@ -51,7 +51,8 @@ galleries:
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on his flickr.
   - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/251221pndrqo4.jpg
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove horseshoe crab *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076)
   Ng, Peter K. L. & N. Sivasothi, 1999. *[A Guide to the Mangroves of Singapore II
@@ -68,7 +69,8 @@ links_references: '**Links**
   on taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore Red Data
   Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
@@ -108,7 +110,9 @@ The underside is sometimes encrusted with [Flat slipper snails](../../mollusca/g
 
 **Sometimes confused with** the [Coastal horseshoe crab](tachypleus) (*Tachypleus gigas*). More on [how to tell them apart](limulidae).
 
-**Status and threats:**
+ ## Status and threats
+
+
 This horseshoe crab is listed as 'Vulnerable' in the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "It is still relatively common in intact mangroves, and should survive as long as there are enough such habitats conserved."
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

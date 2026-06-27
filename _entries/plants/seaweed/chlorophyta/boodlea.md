@@ -44,7 +44,8 @@ galleries:
       .
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/boodlea/210428sluvc1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Boodlea*](http://www.algaebase.org/search/genus/detail/?genus_id=35931)
 
@@ -55,7 +56,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

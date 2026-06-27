@@ -20,7 +20,8 @@ order: Centrarchiformes
 suborder: Terapontoidei
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/vertebrates/fish/terapontidae/jarbua/110730tmftd7695m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Crescent perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272),[Banded
   Perch (*Terapon theraps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273)
@@ -42,7 +43,8 @@ links_references: '**Links**
   on the Australian Museum Online website: factsheets with photos and descriptions
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

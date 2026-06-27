@@ -47,7 +47,8 @@ galleries:
     caption: Cyrene Reef, Jun 11
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk3.JPG
     caption: Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Globular helmet shell (
   *Semicassis bisulcata*
@@ -65,7 +66,8 @@ links_references: '**Links**
   by Des Beechey Research Associate, Australian Museum:
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

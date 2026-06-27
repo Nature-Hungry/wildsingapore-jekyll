@@ -33,7 +33,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3b.jpg
     caption: Flared shell opening with spout-like tip.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Girdled horn snail (
   *Cerithidea cingulata*
@@ -53,7 +54,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

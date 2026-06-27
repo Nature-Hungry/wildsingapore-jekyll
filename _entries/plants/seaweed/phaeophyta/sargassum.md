@@ -89,7 +89,8 @@ galleries:
     caption: Pulau Biola, Dec 09
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/sargassum/091204pawd0011m3.jpg
     caption: Pulau Pawai, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sargassum](http://mangrove.nus.edu.sg/pub/seashore/text/105)
 
@@ -116,7 +117,8 @@ links_references: '**Links**
   (Fucales: Sargassaceae) Sargassum weed on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

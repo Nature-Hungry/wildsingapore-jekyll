@@ -32,14 +32,16 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/pyramidellidae/otopleura/120618tmmn1m3.jpg
     caption: Tanah Merah, Jun 12 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Otopleura auriscati*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=141427&genusname=Otopleura&speciesname=auriscati)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat. 31 Aug 2017.
 

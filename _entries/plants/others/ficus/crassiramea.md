@@ -43,7 +43,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
-links_references: '**References**
+links_references: '### References
+
 
   - Ng, Angie et. al. 2005.*A guide to the fabulous figs of Singapore*. Singapore
   Science Centre.152 pp.
@@ -73,7 +74,9 @@ in the past.
 
 It is considered a strangling fig that can grow large. Leaves elliptical, stiff and leathery (15-20cm long). New leaves are sheated in dark pink stipules. The figs grow in leaf axils (1.5-1.8cm wide) and ripen to a brilliant orange. The figs can take six months to ripen. According to Corners, the figs are half covered or more by large, shiny, hard, resinous yellow bracts at the base. Bark pinkish brown.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg)

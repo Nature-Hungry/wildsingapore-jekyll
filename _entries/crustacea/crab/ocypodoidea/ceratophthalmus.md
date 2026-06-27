@@ -76,7 +76,8 @@ galleries:
   gallery8:
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg
     caption: Small SIsters, Aug 21 Photo shared by Jianlin Liu on facebook .
-links_references: "**Links**\n- [Ghost Crab (\n*Ocypoda*\nsp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)\n\
+links_references: "### Links
+\n- [Ghost Crab (\n*Ocypoda*\nsp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)\n\
   with brief details on\n*Ocypode ceratophthalmus*\nand\n*Ocypode cordimana*\nTan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [Horned ghost crab (\n*Ocypode\
@@ -91,7 +92,8 @@ links_references: "**Links**\n- [Ghost Crab (\n*Ocypoda*\nsp.)](http://mangrove.
   \ performance, and the Ghost crab ranks among the top fastest terrestrial animals.\n\
   - From the wild shores of singapore blog\n- [Ghosts as an indicator of life on our\
   \ shores](http://wildshores.blogspot.com/2010/01/ghosts-as-indicator-of-life-on-our.html)\n\
-  \n**References**\n- Shirley S. L. Lim* & Adeline Y. P. Yong.\n*Rapid population\
+  \n### References
+\n- Shirley S. L. Lim* & Adeline Y. P. Yong.\n*Rapid population\
   \ recovery of Ocypode ceratophthalmus (Pallas, 1772) (Crustacea: Brachyura: Ocypodidae)\
   \ after an oil spill in Singapore*\n. 26 June 2015. Raffles Bulletin of Zoology\
   \ 63: 270\u2013278.\n- Martin Stevens Cheo Pei Rong Peter A. Todd,\n*Colour change\
@@ -166,7 +168,9 @@ At low tide, this scavenger is very active at night, scurrying everywhere on the
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
-**Status and threats:**
+ ## Status and threats
+
+
 Our Horn-eyed ghost crabs are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. As they settle near the high water mark, they are also impacted by floating litter that accumulates at this level.
 
 ---

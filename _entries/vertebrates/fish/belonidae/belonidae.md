@@ -53,7 +53,8 @@ galleries:
     caption: Pulau Hantu, Dec 25 Photo shared by Lon Voon Ong on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/belonidae/belonidae/130808cyrlks.JPG
     caption: Cyrene Reef, Aug 13 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spot-tail Needlefish (
   *Strongylura strongylura*
@@ -136,7 +137,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Kelvin K. P. Lim. 26 February 2016.
 

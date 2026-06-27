@@ -43,14 +43,16 @@ galleries:
     caption: Pasir Ris Park, Dec 18 Photo shared by Carol Phillips on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
     caption: Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on facebook .
-links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+links_references: "### Links
+\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: including descriptions and photos of various bubble snails.\n\
   - [*Hydatina albocincta*](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=albocincta)\n\
   and\n*[Hydatina zonata](http://www.sealifebase.org/summary/SpeciesSummary.php??genusname=Hydatina&speciesname=zonata)*\n\
   on SeaLife Base.\n- [Family Hydatinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Hydatinidae.html)\n\
   on\n[The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)\n\
   at Washington State University Tri-Cities Natural History Museum website: brief\
-  \ description and photos.\n\n**References**\n- Tan Siong Kiat. 24 July 2015.\n*A\
+  \ description and photos.\n\n### References
+\n- Tan Siong Kiat. 24 July 2015.\n*A\
   \ record of the white banded bubble Hydatina albocincta in Singapore*\n. Singapore\
   \ Biodiversity Records 2015: 104\n- Tan SK, Low MEY, Nguang LHS & Toh CH (2014)\n\
   *Singapore Mollusca: 8. The family Aplustridae (Gastropoda: Heterobranchia: Acteonoidea)*\n\

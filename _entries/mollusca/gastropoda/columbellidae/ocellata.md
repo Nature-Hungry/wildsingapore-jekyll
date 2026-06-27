@@ -37,7 +37,8 @@ galleries:
     caption: Pulau Semakau East, Jan 16 Photo shared by Richard Kuah on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/ocellata/091202sudik.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pigeon or Dove Shell (
   *Pyrene*
@@ -55,7 +56,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

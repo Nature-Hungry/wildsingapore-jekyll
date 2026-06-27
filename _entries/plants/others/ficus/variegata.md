@@ -23,13 +23,15 @@ order: Rosales
 tribe: Ficeae
 updated: Nov 10
 coverimg: https://images.naturehungry.sg/plants/others/ficus/variegata/091213ubnd5873m6l.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ficus variegata*](http://floraofsingapore.wordpress.com/2010/06/18/ficus-variegata/)on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Angie et. al. 2005.*A guide to the fabulous figs of Singapore*. Singapore
   Science Centre.152 pp.

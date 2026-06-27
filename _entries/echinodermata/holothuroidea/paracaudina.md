@@ -46,7 +46,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/paracaudina/221226ecpgky1.jpg
     caption: East Coast (G), Dec 2022 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Paracaudina australis](http://species-identification.org/species.php?species_group=nasc&id=118)*
 
@@ -54,7 +55,8 @@ links_references: '**Links**
   fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

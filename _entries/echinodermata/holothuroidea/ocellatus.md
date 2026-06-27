@@ -43,7 +43,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/ocellatus/220201brktch1.jpg
     caption: Pulau Berkas, Feb 21 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stichopus ocellatus*
 
@@ -64,7 +65,8 @@ links_references: '**Links**
   , by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 
@@ -104,7 +106,9 @@ This large yellow sea cucumber with little 'eye-spots' is sometimes seen near li
 
 It is among the sea cucumbers harvested for food.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This sea cucumber is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

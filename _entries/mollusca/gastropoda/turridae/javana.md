@@ -34,7 +34,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turridae/turridae/150617ecpbsmn1m3.jpg
     caption: East Coast Park Big Splash, Jun 15 Photo shared by Marcus Ng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Javanese turrid (
   *Turricula javana*
@@ -54,7 +55,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

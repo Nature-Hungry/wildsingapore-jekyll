@@ -48,7 +48,8 @@ galleries:
     caption: Pasir Ris Park (E), Jan 26 Photo shared by Zen Xuan He on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/articulata/260103prpezxh2.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Common nerite (
   *Nerita lineata*
@@ -78,7 +79,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

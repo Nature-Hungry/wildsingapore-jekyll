@@ -34,7 +34,8 @@ galleries:
       13
   - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/120219smkd7218m3b.jpg
     caption: Pulau Semakau, Feb 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bakau pasir (
   *Rhizophora stylosa*](http://mangrove.nus.edu.sg/guidebooks/text/1071)
@@ -101,7 +102,9 @@ has a longer style.
 
 According to Giesen, it is used as timber, firewood and to produce charcoal. The Australian aborigines use it to make boomerangs, spears and ceremonial objects. The fruit is used to make a light wine and a concoction to treat blood in the urine.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore. It is threatened by habitat destruction and oil spills.
 
 ![](https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg)

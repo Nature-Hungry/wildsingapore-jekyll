@@ -18,7 +18,8 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 12
 coverimg: https://images.naturehungry.sg/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Avrainvillea*](http://mangrove.nus.edu.sg/pub/seashore/text/102)
 
@@ -47,7 +48,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

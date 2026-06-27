@@ -31,7 +31,8 @@ galleries:
     caption: Sentosa, Nov 08
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg
     caption: Terumbu Selegie, Jun 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Lobophora variegata*](http://www.algaebase.org/search/species/detail/?species_id=27002)
 
@@ -42,7 +43,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

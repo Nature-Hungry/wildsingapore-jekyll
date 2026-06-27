@@ -45,7 +45,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - Tan, S.K. & Clements, R. (2008)
 

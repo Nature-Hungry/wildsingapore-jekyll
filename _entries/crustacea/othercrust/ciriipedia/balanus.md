@@ -44,7 +44,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg
     caption: East Coast Park, Jul 16 on a sea fan. Photo shared by Loh Kok Sheng on
       his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Balanus amphitrite*](https://wiki.nus.edu.sg/display/TAX/Balanus+amphitrite+-+Purple+Acorn+Barnacle)
 
@@ -78,7 +79,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

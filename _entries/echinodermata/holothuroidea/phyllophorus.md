@@ -59,7 +59,8 @@ galleries:
     caption: Kusu Island, Sep 10 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/phyllophorus/110220lazlks.JPG
     caption: Lazarus Island, Feb 11 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sea cucumbers](http://mangrove.nus.edu.sg/pub/seashore/text/222)
 
@@ -76,7 +77,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 
@@ -133,7 +135,9 @@ Those found above ground tend to be round, sometimes inflated into translucent w
 **What does it eat?**
 It gathers edible bits from the water with mucus-covered feeding tentacles.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Tennis-ball sea cucumber (*Phyllophorus spiculata*) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. In Singapore, the main threat is habitat loss due to reclamation or human activities along the coast that pollute the water.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

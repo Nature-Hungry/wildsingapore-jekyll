@@ -71,7 +71,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/plagusiidae/plagusia/161117rlhlks3.jpg
     caption: Raffles Lighthouse, Nov 16 Photo shared by Loh Kok Sheng on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tuberculated Sally-light-foot (
   *Plagusia squamosa*
@@ -92,7 +93,8 @@ links_references: '**Links**
   in Crabs of Japan on Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Christoph D. Schubart and Peter K. L. Ng,
 

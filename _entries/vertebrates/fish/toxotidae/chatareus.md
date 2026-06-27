@@ -31,7 +31,8 @@ galleries:
     caption: Changi Jetty, Dec 09
   - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Feb 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Toxotes chatareus](https://florafaunaweb.nparks.gov.sg/special-pages/animal-detail.aspx?id=1232)*
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   with groove on the roof and shape of tongue.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

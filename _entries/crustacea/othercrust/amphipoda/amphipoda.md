@@ -48,7 +48,8 @@ galleries:
     caption: Sisters Island, May 12 Photo shared by James Koh on his blog .
   - url: https://images.naturehungry.sg/crustacea/othercrust/amphipoda/amphipoda/120506sisd1130m3.jpg
     caption: Sisters, May 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sandhoppers (Order Amphipoda)](http://mangrove.nus.edu.sg/pub/seashore/text/178)
 
@@ -81,7 +82,8 @@ links_references: '**Links**
   - [World Amphipoda Database](http://www.marinespecies.org/amphipoda/)
 
 
-  **References**
+  ### References
+
 
   - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.
 

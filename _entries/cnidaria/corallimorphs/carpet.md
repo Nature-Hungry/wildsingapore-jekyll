@@ -53,7 +53,8 @@ galleries:
     caption: Terumbu Semakau, May 10 Photo shared by James Koh on his blog .
   - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/250812tbmn3.jpg
     caption: Terumbu Bemban, Aug 25 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corallimorpharia](https://singapore.biodiversity.online/taxon/A-Cnid-Anth-Corallimorpharia)
 
@@ -64,7 +65,8 @@ links_references: '**Links**
   - Carpet corallimorphs by Oh Ren Min, 05 Mar 2019 on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -125,7 +127,9 @@ can also look like
 [White-tip corallimorphs](whitetip)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

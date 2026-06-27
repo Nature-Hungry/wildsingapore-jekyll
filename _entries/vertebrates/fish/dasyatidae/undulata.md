@@ -34,7 +34,8 @@ galleries:
     caption: Chek Jawa, Dec 10 Photo shared by Rene Ong on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/undulata/101200cjro2m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Leopard whipray (
   *Himantura undulata*

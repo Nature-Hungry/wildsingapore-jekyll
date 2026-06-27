@@ -42,7 +42,8 @@ galleries:
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/mangrove/091205sudik2.jpg
     caption: Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove periwinkle (
   *Littoraria*
@@ -64,7 +65,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

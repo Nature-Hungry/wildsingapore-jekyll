@@ -32,7 +32,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg
     caption: Seletar, Jun 02
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Enigma oyster (
   *Enigmoia aenigmatica*
@@ -61,7 +62,8 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Sigurdsson, J.B. & Sundari, G.
 

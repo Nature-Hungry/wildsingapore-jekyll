@@ -38,14 +38,16 @@ galleries:
     caption: Chek Jawa, Nov 09
   - url: https://images.naturehungry.sg/plants/others/ixora/congesta/091128cjd4610m6l.jpg
     caption: Chek Jawa, Nov 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Ixora congesta](http://floraofsingapore.wordpress.com/2010/05/02/ixora-congesta/)*
 
   on Total Vascular Flora of Singapore Online: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan, Hugh T.W. and T. Morgany. 2001.
 

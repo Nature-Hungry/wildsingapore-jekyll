@@ -21,7 +21,8 @@ order: Corallinales
 suborder: Corallinineae
 updated: Aug 08
 coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Red Encrusting Algae](http://mangrove.nus.edu.sg/pub/seashore/text/106.htm)Tan,
   Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -37,7 +38,8 @@ links_references: '**Links**
   the US Geological Survey website: photos of some coralline algae
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*.
   National Council on the Environment. 163pp.

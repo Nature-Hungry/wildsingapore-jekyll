@@ -39,7 +39,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/anacanthus/110221tmmn.jpg
     caption: Tanah Merah, Feb 11 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bearded leatherjacket (
   *Anacanthus barbatus*
@@ -63,7 +64,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Sam Shu Qin.
 

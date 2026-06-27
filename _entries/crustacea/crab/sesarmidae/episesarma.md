@@ -54,7 +54,8 @@ galleries:
     caption: Chek Jawa, Sep 12 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG
     caption: Pasir Ris Park, Dec 14 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sesarmine crabs](http://mangrove.nus.edu.sg/guidebooks/text/2048)
 
@@ -99,7 +100,8 @@ links_references: '**Links**
   . Hariz. 2017. Taxo4254, Wiki.nus.
 
 
-  **References**
+  ### References
+
 
   - Lee B. Y., Ng N. K. & P. K. L. Ng.
 

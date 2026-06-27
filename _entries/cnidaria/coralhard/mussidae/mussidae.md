@@ -33,14 +33,16 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/symphyllia/080816sisd9640m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 

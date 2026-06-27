@@ -119,7 +119,8 @@ galleries:
   gallery15:
   - url: https://live.staticflickr.com/8006/28765538656_873772655b_z.jpg
     caption: Hairy crabs about to mate?
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Hairy Crab (
   *Pilumnus vespertilio*
@@ -145,7 +146,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008. Systema Brachyurorum:
   Part 1. An annotated checklist of extant Brachyuran crabs of the world. The Raffles
@@ -240,7 +242,9 @@ The Common hairy crab eats mainly seaweed. It may also eat toxic
 [zoanthids](../../../cnidaria/others/zoanthid/zoanthid)
 (colonial anemones) and this makes the crab mildly poisonous. Various hairy crabs on our shores have been observed nibbling on hard seaweeds, sponges and even appearing to snack on bristleworms, carrying a clam into a burrow. Also possibly having a taste of a nudibranch and dragging a seahare into its burrow leaving a trail of purple dye from the panicking seahare.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Several of our hairy crabs are listed among the threatened animals of Singapore.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 

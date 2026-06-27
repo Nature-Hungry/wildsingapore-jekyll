@@ -52,7 +52,8 @@ galleries:
     caption: Sentosa, Apr 13 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/annulata/201213sjivc1.jpg
     caption: St John's Island, Dec 20 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Charybdis annulata*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83583)
 
@@ -67,7 +68,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

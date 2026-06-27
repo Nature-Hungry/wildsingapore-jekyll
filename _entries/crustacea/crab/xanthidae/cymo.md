@@ -49,7 +49,8 @@ galleries:
     caption: Cyrene Reef, Feb 16 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/160608cyrmn4.jpg
     caption: Cyrene Reef, Jun 16 Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Hairy coral crab (
   *Cymo andreossyi*
@@ -63,7 +64,8 @@ links_references: '**Links**
   Crabs of Japan, on Marine Species Identification Portal.
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -111,7 +113,9 @@ include the
 [Bandit coral crab](../trapezioidea/bandit)
 (*Tetralia nigrolineata*).
 
-**Status and threats:**
+ ## Status and threats
+
+
 *Cymo andreossyi*
 is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

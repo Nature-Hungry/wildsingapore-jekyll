@@ -36,7 +36,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/spondylidae/spondylidae/210629bbbvc6.jpg
     caption: Beting Bemban Besar, Jun 21 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - Family Spondylidae in the Bivalves section by J.M. Poutiers in the FAO Species
   Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
@@ -47,7 +48,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

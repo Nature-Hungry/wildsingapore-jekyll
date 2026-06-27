@@ -44,7 +44,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/barbatia/200709bbbvc3.jpg
     caption: Beting Bemban Besar, Jul 20 Photo shared by Vincent Choo on facebook
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *Barbatia*
 
@@ -56,7 +57,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

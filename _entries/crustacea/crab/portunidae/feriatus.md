@@ -49,7 +49,8 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/feriatus/240723chgerg1.jpg
     caption: Hiding under a Pearly anemone . Changi East (Lost Coast), Jul 24 Photo
       shared by Rachael Goh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
 
@@ -90,7 +91,8 @@ links_references: '**Links**
   by Samantha Chan Asian Scientist 27 Sep 2011
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

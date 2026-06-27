@@ -70,7 +70,8 @@ galleries:
     caption: St John's Island, Feb 13 Photo shared by Loh Kok Sheng on his blog.
   - url: https://images.naturehungry.sg/crustacea/crab/parthenopidae/common/110203sjilks.JPG
     caption: St John's Island, Feb 11 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Parthenope](http://mangrove.nus.edu.sg/pub/seashore/text/200)
 
@@ -81,7 +82,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
@@ -174,7 +176,9 @@ sp. They are difficult to identify in the field.
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Elbow crab food:**
 The elbow crab eats worms and small snails and clams.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of our elbow crabs are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

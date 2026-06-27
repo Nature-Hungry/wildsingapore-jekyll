@@ -25,7 +25,8 @@ subtribe: Crininae
 inat_id: 161124
 updated: Nov 10
 coverimg: https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Crinum asiaticum*](http://floraofsingapore.wordpress.com/2010/08/08/crinum-asiaticum/)on
   Total Vascular Flora of Singapore Online: photos and fact sheet.
@@ -37,7 +38,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan.1998,*[The Concise Flora of Singapore II:
   Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*Singapore
@@ -92,7 +94,9 @@ The plant arises from an underground, fleshy bulb. From this grows a rounded and
 
 According to Burkill, it is poisonous and medicinal uses include inducing vomiting when wounded by a poison arrow. The leaves are used by Malays in a poultice to treat fevers, headaches, swellings. Boiling the plant results in a lotion for general use on the body. According to Wee, the crushed leaves are used to wash piles. Mixed with honey they are applied to wounds and abscesses.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg)

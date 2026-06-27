@@ -77,7 +77,8 @@ galleries:
   gallery9:
   - url: https://images.naturehungry.sg/crustacea/crab/dromiidae/dromiidae/180815bbbjll3.jpg
     caption: Beting Bemban Besar, Aug 18 Photo shared by Jianlin Liu on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Sponge Crab (
   *Cryptodromia*
@@ -91,7 +92,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

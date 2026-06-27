@@ -35,7 +35,8 @@ galleries:
     caption: Egg capsules?
   - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
     caption: Feeding on Little black mussels ? Lim Chu Kang, Aug 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Drill (
   *Thais gradata*
@@ -67,7 +68,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Chan Sow-Yan & Lau Wing Lup. 30 June 2020.
 

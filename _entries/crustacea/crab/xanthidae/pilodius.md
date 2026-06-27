@@ -36,7 +36,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pilodius Crab (
   *Pilodius*
@@ -50,7 +51,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 

@@ -103,7 +103,8 @@ galleries:
     caption: Beting Bemban Besar, Nov 14 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/boholiensis/100130brklks9m3.jpg
     caption: Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -120,7 +121,8 @@ links_references: '**Links**
   *[Discodoris boholiensis](http://slugsite.us/bow/nudwk239)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

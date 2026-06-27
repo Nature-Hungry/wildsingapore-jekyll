@@ -29,14 +29,16 @@ galleries:
     caption: Anemone corals
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3.jpg
     caption: Small goniopora corals
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

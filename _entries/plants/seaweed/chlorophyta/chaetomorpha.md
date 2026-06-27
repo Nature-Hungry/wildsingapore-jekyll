@@ -35,7 +35,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/chaetomorpha/110323tsmkd7615m3b.jpg
     caption: Terumbu Semakau, Mar 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Chaetomorpha*
 
@@ -60,7 +61,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

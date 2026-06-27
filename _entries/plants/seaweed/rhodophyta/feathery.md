@@ -40,7 +40,8 @@ galleries:
     caption: Pulau Semakau, Sep 05
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/feathery/080802sjid8693m3.jpg
     caption: St. John's Island, Aug 08
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Spyridia filamentosa*](http://www.algaebase.org/search/species/detail/?species_id=487)
 
@@ -51,7 +52,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

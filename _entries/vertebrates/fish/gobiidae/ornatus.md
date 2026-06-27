@@ -60,7 +60,8 @@ galleries:
     caption: Big Sisters, Aug 25 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/250811jngal5.jpg
     caption: Pulau Jong, Aug 25 Photo shared by Adriane Lee on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Ornate goby (
   *Istigobius ornatus*
@@ -88,7 +89,8 @@ links_references: '**Links**
   from the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

@@ -30,7 +30,8 @@ galleries:
     caption: Seletar, Jun 02
   - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/anadara/050427tmg5176m3.jpg
     caption: Tanah Merah, Apr 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Blood cockle (
   *Anandara granosa*
@@ -76,7 +77,8 @@ links_references: '**Links**
   (Arcoida: Arcidae) Blood Cockles on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -116,7 +116,8 @@ galleries:
     caption: Bleaching. Pulau Senang, Jun 10
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg
     caption: With anemone shrimp. Photo shared by Loh Kok Sheng on his flickr
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stichodactyla mertensii*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Stichodactyla&subgenus=&species=Mertensii&subspecies=&synseniorid=116&nameid=1243)
 
@@ -199,7 +200,9 @@ sp.) including
 [Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris)
 .
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is listed as Endangered in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

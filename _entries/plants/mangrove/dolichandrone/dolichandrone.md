@@ -40,7 +40,8 @@ galleries:
     caption: Opened pods. Pulau Ubin, Jul 09
   - url: https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7052m3.jpg
     caption: Unopened pod. Sungei Buloh Wetland Reserve, Feb 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Dolichandrone spathacea](http://floraofsingapore.wordpress.com/2011/02/22/dolichandrone-spathacea/)
 
@@ -71,7 +72,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -144,7 +146,9 @@ Pods long curling bean-like (25-60cm long) and contain many seeds. The pods are 
 According to Burkill, the wood is light and thus was prefered by the Javanese for making saddles. It is also used in floats for fishing nets and for wooden shoes in the Philippines. According to Giersen, it is used as firewood, and also for making traditional '
 *wayang kulit*
 ' (shadow puppet) masks in Indonesia. Tea brewed from the leaves are used to treat mouth infections.
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' on the Red List of threatened plants of SIngapore.
 
 *![](https://images.naturehungry.sg/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg)*

@@ -31,7 +31,8 @@ galleries:
     caption: Admiralty Park, Mar 11
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/sadanundio/110307admd6820m6l.jpg
     caption: Admiralty Park, Mar 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Grey knight-goby (
   *Stigmatogobius sadanundio*
@@ -60,7 +61,8 @@ links_references: '**Links**
   from EcologyAsia.
 
 
-  **References**
+  ### References
+
 
   - Larson, Helen K and Kelvin K. P. Lim. 2005.
 

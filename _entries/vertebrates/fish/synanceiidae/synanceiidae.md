@@ -28,7 +28,8 @@ galleries:
     caption: Stargazer waspfish Trachicephalus uranoscopus Changi, Jun 12
   - url: https://images.naturehungry.sg/vertebrates/fish/synanceiidae/others/120606chgmn2.jpg
     caption: Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Hollow-cheek Stonefish (
   *Synanceia horrida*
@@ -121,7 +122,8 @@ links_references: '**Links**
   of these fishes on the move.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

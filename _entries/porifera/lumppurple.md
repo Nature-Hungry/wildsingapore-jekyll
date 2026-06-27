@@ -30,7 +30,8 @@ galleries:
     caption: Pulau Tekukor, Mar 24 Photo shared by Rachael Goh on facebook .
   - url: https://images.naturehungry.sg/porifera/lumpypurple/100617tblks1m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
 
@@ -41,7 +42,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

@@ -54,7 +54,8 @@ galleries:
     caption: Dark Diana conch
   - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
     caption: Spider conch
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140)
 
@@ -88,7 +89,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat t & Martyn E. Y. Low. 31 Oct 2017.
 
@@ -197,7 +199,9 @@ and
 [Spider conch](lambis)
 were also eaten. The larger Spider conch is also collected and killed for its beautifully shaped and coloured shell.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The
 [Black-lipped conch](urceus)
 and

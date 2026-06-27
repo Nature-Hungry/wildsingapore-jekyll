@@ -56,7 +56,8 @@ galleries:
   gallery6:
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/palaemon/070701hntmn.jpg
     caption: Pulau Hantu, Jul 07 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Glass Shrimp (
   *Palaemon*
@@ -81,7 +82,8 @@ links_references: '**Links**
   . Singapore Science Centre. 168 pp.
 
 
-  **References**
+  ### References
+
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 

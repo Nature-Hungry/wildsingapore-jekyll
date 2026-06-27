@@ -71,7 +71,8 @@ galleries:
     caption: Marina East, Dec 2025 Photo shared by Kelvin Yong on facebook .
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/100103tkkjk9m3.jpg
     caption: Pulau Tekukor, Jan 10 Photo shared by James Koh on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Banded bead anemone (
   *Epiactis*
@@ -85,7 +86,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.

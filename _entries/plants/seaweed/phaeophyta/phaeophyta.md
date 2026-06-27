@@ -32,7 +32,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Algae](http://mangrove.nus.edu.sg/pub/seashore/flora)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   : LOTS of very technical information.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

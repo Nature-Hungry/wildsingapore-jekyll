@@ -58,7 +58,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/220504hntvc1.jpg
     caption: Pulau Hantu, May 22 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -85,7 +86,8 @@ links_references: '**Links**
   [*Actinocyclus verrucosus*](http://slugsite.us/bow/nudwk336)
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

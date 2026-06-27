@@ -74,7 +74,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/pocilloporidae/pocillopora/091231biod7099m3.jpg
     caption: Pulau Biola, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -98,7 +99,8 @@ links_references: '**Links**
   (Scleractinia: Pocilloporiidae) Cauliflower coral on Taxo4254.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 

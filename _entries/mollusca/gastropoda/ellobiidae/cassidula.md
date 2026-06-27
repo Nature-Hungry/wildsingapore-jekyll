@@ -29,7 +29,8 @@ galleries:
     caption: Berlayar Creek, Mar 09
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg
     caption: Berlayar Creek, Mar 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Belongkeng (Family Ellobiidae)](http://mangrove.nus.edu.sg/guidebooks/text/2090)
 
@@ -48,7 +49,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

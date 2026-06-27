@@ -48,14 +48,16 @@ galleries:
   - url: http://farm9.staticflickr.com/8378/8453465066_cc5b5b069d_z.jpg
     caption: 24 Jan 2013, Comprehensive Marine Biodiversity Survey Photo shared by
       Arthur Anker on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Paguristes longirostris](http://www.sealifebase.org/summary/Paguristes-longirostris.html)*
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Dwi Listyo Rahayu, 2000.
 

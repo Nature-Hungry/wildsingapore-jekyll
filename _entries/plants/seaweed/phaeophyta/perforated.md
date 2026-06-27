@@ -30,7 +30,8 @@ galleries:
     caption: Pulau Hantu, Jan 12
   - url: https://images.naturehungry.sg/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Hydroclathrus clathratus*](http://www.algaebase.org/search/species/detail/?species_id=832&sk=0&from=results)
 
@@ -45,7 +46,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

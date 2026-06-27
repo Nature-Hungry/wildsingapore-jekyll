@@ -51,7 +51,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/columbellidae/netted/220102biovc4.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Vincent Choo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Pardalina testudinaria*](http://seashellsofnsw.org.au/Columbellidae/Pages/Pardalina_testudinaria)
 
@@ -67,7 +68,8 @@ links_references: '**Links**
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

@@ -1,6 +1,6 @@
 ---
-title: Long mushroom  corals
-description: Fact sheet of Long mushroom  corals on the shores of Singapore
+title: Long mushroom corals
+description: Fact sheet of Long mushroom corals on the shores of Singapore
 keywords: long, fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo

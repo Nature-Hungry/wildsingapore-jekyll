@@ -77,7 +77,8 @@ galleries:
   gallery9:
   - url: https://images.naturehungry.sg/vertebrates/fish/haemulidae/gibbosus/091204pawikw6m3.jpg
     caption: Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Brown Sweetlips or Harry Hotlips (
   *Plectorhinchus gibbosus*
@@ -106,7 +107,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

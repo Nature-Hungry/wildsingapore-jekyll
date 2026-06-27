@@ -46,7 +46,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/bumpyface/190221nsrctsc1.jpg
     caption: On a spiky sea pen. East Coast Park, Feb 19 Photo shared by Teo Say Chong
       on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   sp.9](http://www.seaslugforum.net/find/armisp9)
 
 
-  **References**
+  ### References
+
 
   - Debelius, Helmut, 2001.
 

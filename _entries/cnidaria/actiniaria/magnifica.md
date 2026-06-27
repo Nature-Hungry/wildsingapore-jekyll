@@ -130,7 +130,8 @@ galleries:
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/magnifica/220201brklks8.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Heteractis magnifica*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Heteractis&subgenus=&species=magnifica&subspecies=&synseniorid=83)
 
@@ -154,7 +155,8 @@ links_references: '**Links**
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -253,7 +255,9 @@ These anemones is sometimes seen in clusters of many individuals crammed togethe
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Magnificently Tough**
 **:**
 During mass coral bleaching in 2010 and 2016, they were not seen to be bleaching. But during the 2024 global mass coral bleaching, a few were seen bleaching or stressed. The majority, however, seemed normal.
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery6 %}

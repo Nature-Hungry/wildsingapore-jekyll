@@ -132,7 +132,8 @@ sp.
 
 ---
 
-**References**
+### References
+
 - Toh Chay Hoon. 27 May 2016.
 *New Singapore record of sea slug Odontoglaja mosaica*
 . Singapore Biodiversity Records 2016: 66

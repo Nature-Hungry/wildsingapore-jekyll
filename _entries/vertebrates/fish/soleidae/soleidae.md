@@ -59,7 +59,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
 
@@ -147,7 +148,8 @@ links_references: '**Links**
   on the wild shores of singapore blog: about the toxin produced by the Moses sole.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

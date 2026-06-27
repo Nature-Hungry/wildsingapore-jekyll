@@ -33,14 +33,16 @@ galleries:
     caption: Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3b.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Heliacus variegatus*](http://www.sealifebase.fisheries.ubc.ca/summary/Heliacus-variegatus.html)
 
   on SeaLife Base: technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

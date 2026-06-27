@@ -30,7 +30,8 @@ galleries:
     caption: Sunken pit at the tip of the bumps.
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/corny/110422tbd9744m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Palisada perforata*](http://www.algaebase.org/search/species/detail/?species_id=133994)
 
@@ -41,7 +42,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

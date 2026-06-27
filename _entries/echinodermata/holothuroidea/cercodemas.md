@@ -26,10 +26,12 @@ subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
 coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
-links_references: "**Links**\n- [*Cercodemas\n  anceps*](http://www.sealifebase.org/summary/Cercodemas-ancepsl)\n\
+links_references: "### Links
+\n- [*Cercodemas\n  anceps*](http://www.sealifebase.org/summary/Cercodemas-ancepsl)\n\
   \  on SeaLife Base: Technical fact sheet.\n- [*Pentacta\n  anceps*](http://species-identification.org/species.php?species_group=nasc&id=89&menuentry=soorten)\
   \ in North Australian Sea Cucumbers on the Marine\n  Species Identification Portal:\
-  \ Technical fact sheet.\n\n**References**\n- Lane, David\n  J.W. and Didier Vandenspiegel.\
+  \ Technical fact sheet.\n\n### References
+\n- Lane, David\n  J.W. and Didier Vandenspiegel.\
   \ 2003*. A\n  Guide to Sea Stars and Other Echinoderms of Singapore*.\n  Singapore\
   \ Science Centre. 187pp.\n"
 galleries:
@@ -107,14 +109,16 @@ for free download
 **Other sightings on Singapore shores**
 
 ---
-{% include img-wrap-group.html items=page.galleries.gallery4 %}**Links**
+{% include img-wrap-group.html items=page.galleries.gallery4 %}### Links
+
 
 - [*Cercodemas anceps*](http://www.sealifebase.org/summary/Cercodemas-anceps.html)
 on SeaLife Base: Technical fact sheet.
 - [*Pentacta anceps*](http://species-identification.org/species.php?species_group=nasc&id=89&menuentry=soorten)
 in North Australian Sea Cucumbers on the Marine Species Identification Portal: Technical fact sheet.
 
-**References**
+### References
+
 
 - Lane, David J.W. and Didier Vandenspiegel. 2003
 *. A Guide to Sea Stars and Other Echinoderms of Singapore*

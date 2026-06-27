@@ -125,7 +125,8 @@ galleries:
   gallery18:
   - url: https://images.naturehungry.sg/vertebrates/fish/pseudochromidae/subducens/210428slutch3.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Carpet eel-blenny (
   *Congrogadus subducens*
@@ -164,7 +165,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Tan Yee Keat.
 
@@ -285,7 +287,9 @@ Carpet eel-blennies lay their eggs in small clumps.
 
 Although large, the Carpet eel-blenny is not eaten by people. It is, however, harvested from the wild for the live aquarium trade and sold as "wolf eels". But they are not the most popular aquarium fish, as they tend to eat their tankmates.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Other dottybacks are more popular in the aquarium trade. Harvesting may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested from the sea, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Poaching by hobbyists also have an impact on local populations.
 
 ---

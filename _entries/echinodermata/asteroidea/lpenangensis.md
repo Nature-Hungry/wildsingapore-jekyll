@@ -37,14 +37,16 @@ galleries:
     caption: Changi Creek, Jan 21
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/lpenangensis/210100chgsafmn1a.jpg
     caption: Photo shared by Marcus Ng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Luidia penangensis*](http://www.sealifebase.org/summary/Luidia-penangensis.html)
 
   on SeaLife Base: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

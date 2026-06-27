@@ -23,7 +23,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg
     caption: Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on
       his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Crocodylus porosus*](http://taxo4254.wikispaces.com/Crocodylus+porosus)
 
@@ -49,7 +50,8 @@ links_references: '**Links**
   - [Crocodile! What should I do?!](http://wildshores.blogspot.sg/2013/12/crocodile-what-should-i-do.html)
 
 
-  **References**
+  ### References
+
 
   - Marcus Ng and Robert W. Mendyk. 2012.
 

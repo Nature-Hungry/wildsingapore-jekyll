@@ -52,7 +52,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Sonneratia alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4739)
 
@@ -90,7 +91,8 @@ links_references: '**Links**
   by Lim Gaik Kee from Sahabat Alam Malaysia in NatureWatch
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

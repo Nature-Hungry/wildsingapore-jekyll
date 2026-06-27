@@ -45,7 +45,8 @@ galleries:
     caption: Chek Jawa, Aug 09
   - url: https://images.naturehungry.sg/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
     caption: Fruit elliptical. Pulau Ubin, Jan 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Xylocarpus moluccensis*](http://mangrove.nus.edu.sg/guidebooks/text/1077)
 
@@ -69,7 +70,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -136,7 +138,9 @@ Flowers tiny white to pinkish in clusters on an inflorescence. Fruit oval (not g
 
 According to Giesen, the timber is moderately light and soft, but strong and seasons well. It is used in construction of houses and boats. In Java, also for the handles of traditional daggers called 'kris'. It is also used as firewood. Traditional medicinal uses include the seeds for treating stomachaches, fruits to increase appetite, bark tannin for intestinal lailments. The bark is also used to tan fishing nets.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.
 
 ---

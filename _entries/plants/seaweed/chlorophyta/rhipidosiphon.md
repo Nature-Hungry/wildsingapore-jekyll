@@ -31,7 +31,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/plants/seaweed/chlorophyta/rhipidosiphon/250726cyrtl2.jpg
     caption: Cyrene, Jul 25 Photo shared by Tammy Lim on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Rhipidosiphon javensis*](http://www.algaebase.org/search/species/detail/?species_id=4561)
 
@@ -42,7 +43,8 @@ links_references: '**Links**
   : Photos and technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

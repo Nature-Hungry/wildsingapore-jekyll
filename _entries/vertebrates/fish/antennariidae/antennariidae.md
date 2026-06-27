@@ -39,7 +39,8 @@ galleries:
     caption: Black frogfish
   - url: https://images.naturehungry.sg/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg
     caption: Spotted-tail frogfish
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Spotted-tail frogfish (
   *Lophiocharon trisignatus*
@@ -89,7 +90,8 @@ links_references: '**Links**
   : Technical fact sheet on the family, including fact sheets on individual species.
 
 
-  **References**
+  ### References
+
 
   - Tan Tsu Soo & Toh Chay Hoon. 31 October 2019.
 

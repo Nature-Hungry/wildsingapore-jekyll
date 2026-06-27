@@ -43,7 +43,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
-links_references: '**References**
+links_references: '### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,*[The Concise Flora of Singapore:
   Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
@@ -80,7 +81,9 @@ and Corners called it
 A small tree. Fleshy leaves narrow and oval (5-7cm). Flowers small in clusters, male flowers a little larger than the female flowers.
 Fruits resemble small limes (1-2cm), with three 'shoulders', green turning bright orange and splitting revealing the thin white pulp surrounding blackish brown seeds.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.
 
 ![](https://images.naturehungry.sg/plants/coastal/suregada/multiflora/090912chgbwd0535m6l.jpg)

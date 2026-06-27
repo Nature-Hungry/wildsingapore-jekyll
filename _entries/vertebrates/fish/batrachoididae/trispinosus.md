@@ -76,7 +76,8 @@ galleries:
   gallery10:
   - url: https://images.naturehungry.sg/vertebrates/fish/batrachoididae/trispinosus/210428slulks1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Three-spined Toadfish (
   *Batrachomoeus trispinosus*
@@ -142,7 +143,8 @@ links_references: '**Links**
   History, Washington D.C., USA on the FAO website (pdf).
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

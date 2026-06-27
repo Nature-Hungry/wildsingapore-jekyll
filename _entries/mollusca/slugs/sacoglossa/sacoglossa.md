@@ -67,14 +67,16 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg
     caption: Singapore bivalve slug
-links_references: "**Links**\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+links_references: "### Links
+\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman:\n[solar powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow)\n\
   : about how some slugs retain the chloroplasts from their food. Including a description\
   \ of\n[how a slug sucked out](http://www.seaslugforum.net/display.cfm?id=12583)\n\
   contents of algae.\n- [How does the solar-powered slug work?](http://wildshores.blogspot.com/2008/11/how-does-solar-powered-slug-work.html)\n\
   on the wild shores of singapore blog.\n- [Solar-Powered Slugs Are Not Solar-Powered](http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/)\n\
   by Ed Yong, Not Exactly Rocket Science 20 Nov 2013 on the National Geographic website.\n\
-  \n**References**\n- Toh Chay Hoon. 29 April 2016. New Singapore record of sea slug\n\
+  \n### References
+\n- Toh Chay Hoon. 29 April 2016. New Singapore record of sea slug\n\
   *Placida cremoniana*\n. Singapore Biodiversity Records 2016: 58\n- K. R. Jensen.\
   \ Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore.\
   \ 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International\
@@ -133,7 +135,9 @@ suggest something more complicated is going on. Some sacoglossans also recycle t
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Baby Sacoglossa:**
 These slugs are simultaneous hermaphrodites, that is, each animal has both male and female reproductive organs at the same time. They practice internal fertilisation. When two slugs mate, they may both act as males, extending the penis (usually a white tube that emerges from the side of the neck). Some may insert the penis into the female genital pore, others may simply pierce the partner anywhere in the body. They lay eggs in ribbons.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our sacoglossans are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.
 
 ---

@@ -31,7 +31,8 @@ galleries:
     caption: Pasir Ris, Apr 09
   - url: https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090425prpd0367m3.jpg
     caption: Pasir Ris, Apr 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Ardisia elliptica*](http://floraofsingapore.wordpress.com/2010/04/16/ardisia-elliptica/)
 
@@ -50,7 +51,8 @@ links_references: '**Links**
   spread as a noxious invasive weed in the Pacific Islands.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -119,7 +121,9 @@ According to Tomlinson, from the structure of the flowers and the fact that thes
 According to Burkill, the young shoots were eaten in the Malay Peninsula. Medicinal uses include boiled leaves or roots used to treat heartache. Another Malay name is '
 *Daun bisa hati'*
 or 'Heartache Leaf'. According to Wee, the Malays use a decoction of the leaves to treat heart pain. According to Giersen, the leaves are used to treat scabies and intestinal worms.
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore. But in other parts of the world outside its natural range, this plant is considered an invasive introduced weed. Its ability to tolerate shade causes it to form dense carpets which exclude native plants.
 
 ![](https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg)

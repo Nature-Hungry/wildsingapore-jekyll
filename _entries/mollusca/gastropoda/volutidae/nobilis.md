@@ -21,13 +21,15 @@ subfamily: Amoriinae
 tribe: Melonini
 updated: Sep 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Noble volute (*Cymbiola nobilis*)](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=205)on
   the NParks Flora and Fauna website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
   of Singapore*(pdf), Lee Kong Chian Natural History Museum, National University of
@@ -181,7 +183,9 @@ is no free-swimming larval stage the snail has a restricted range and local popu
 
 Called 'kilah' in Malay, the Noble volute is edible. It is also 'often collected for its attractive shell.
 
-**Status and threats:**
+ ## Status and threats
+
+
 
 The Noble volute is listed as 'Vulnerable' on the Red List of threatened animals of Singapore due to habitat loss. It was previously abundant in Singapore but is now considered vulnerable due to habitat degradation and overcollection for food and for its attractive shell.
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.

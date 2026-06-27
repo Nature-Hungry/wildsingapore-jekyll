@@ -1,6 +1,6 @@
 ---
-title: 'Fungia mushroom  corals '
-description: Fact sheet of Fungia mushroom  corals  on the shores of Singapore
+title: 'Fungia mushroom corals '
+description: Fact sheet of Fungia mushroom corals  on the shores of Singapore
 keywords: fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
@@ -33,7 +33,8 @@ galleries:
     caption: Circular mushroom coral
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
     caption: Circular mushroom coral
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   on SeaLife Base: Technical factsheet.
 
 
-  **References**
+  ### References
+
 
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
 
@@ -141,7 +143,9 @@ has its tentacles retracted.
 *Heliofungia*
 has large, rounded teeth on the skeleton walls and very long cylindrical tentacles.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Some of
 *Fungia*
 species recorded for Singapore are listed as threatened on the

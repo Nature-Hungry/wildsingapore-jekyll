@@ -1,0 +1,56 @@
+---
+title: "Hard corals on Singapore shores"
+label: "Crinkled or lumpy corals"
+description: ""
+keywords: ""
+layout: default
+attributes:
+- 128
+- 134
+- 158
+- 151
+- 154
+- 139
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+---
+
+<p>Colony plate-shaped</p>
+<br>
+
+
+{% assign filtered_posts = site.entries 
+    | where_exp: "item", "item.order == 'Scleractinia'"
+    | where_exp:  "item", "item.genus == 'Turbinaria'
+    or item.title == 'Hedgehog coral'
+    or item.title == 'Plate montipora coral'
+    or item.title == 'Elephant-nose plate coral'
+    or item.title == 'Ringed plate coral'
+    or item.title == 'Ridged plate coral'
+    or item.title == 'Bracket mushroom coral'
+    or item.title == 'Lithophyllon mushroom coral'
+    "
+
+%}
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+</div>
+
+
+
+
+
+

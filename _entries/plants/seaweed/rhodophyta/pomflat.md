@@ -51,7 +51,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomflat/100131slud8870m3.jpg
     caption: Terumbu Salu, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Amphiroa*](http://www.algaebase.org/search/genus/detail/?genus_id=H9facef3001b8d7e1&-session=abv4:3BBD37D318d53140DFOr35D3FFEA)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

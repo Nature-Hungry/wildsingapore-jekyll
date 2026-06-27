@@ -37,7 +37,8 @@ galleries:
     caption: Calyx lobes bend backwards towards the stalk. Lim Chu Kang, Apr 09
   - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/alba/090412hntd9894m3.jpg
     caption: Opened fruit on the shore. Pulau Hantu, Apr 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Sonneratia alba*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=4739)
 
@@ -70,7 +71,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

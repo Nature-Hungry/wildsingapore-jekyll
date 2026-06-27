@@ -52,8 +52,10 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/sandstripe/220103tpljk1.jpg
     caption: Terumbu Pempang Laut, Jan 22 Photo shared by James Koh on facebook .
-links_references: "**Links**\n- *[Paracondylactis hertwigi](https://www.sealifebase.se/summary/Paracondylactis-hertwigi)*\n\
-  on SeaLife Base: technical fact sheet.\n\n**References**\n- Checklist of Cnidaria\
+links_references: "### Links
+\n- *[Paracondylactis hertwigi](https://www.sealifebase.se/summary/Paracondylactis-hertwigi)*\n\
+  on SeaLife Base: technical fact sheet.\n\n### References
+\n- Checklist of Cnidaria\
   \ (non-Sclerectinia) Species with their Category of Threat Status for Singapore\
   \ by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,\
   \ D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data\
@@ -92,7 +94,9 @@ This small anemone is often seen on our Northern shores, on soft silty sand near
 Diameter with tentacles 3-4cm. It has about 40 semi-transparent tentacles that taper to a pointed tip. On the upper side of the tentacles, there is a pattern of white bars across a pair of dark parallel lines that run the length of each tentacle. The oral disk has a pattern of radiating stripes and white bars. The edge of the mouth has dark-and-light bars.
 Body column smooth without large bumps (verrucae), although there are a few bumps near the oral disk.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

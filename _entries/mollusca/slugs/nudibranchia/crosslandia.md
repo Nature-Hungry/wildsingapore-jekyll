@@ -28,13 +28,15 @@ suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [The Sea Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: including
   descriptions and photos of*[Crosslandia daedali](http://www.seaslugforum.net/find/crosdaed)*
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs
   of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University

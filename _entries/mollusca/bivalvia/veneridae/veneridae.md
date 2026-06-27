@@ -23,7 +23,8 @@ updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
 links_references: "**Acknowledgements** \nWith grateful thanks to Andre Sartori from\
   \ [eBivalvia](http://ebivalvia.lifedesks.org/)\non EOL's Life Desk for identifying\
-  \ some of the Venus clams. \n \n**Links**\n- [Clams (*Marcia marmorata*)](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm),[Kepah\
+  \ some of the Venus clams. \n \n### Links
+\n- [Clams (*Marcia marmorata*)](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm),[Kepah\
   \ (*Meretrix meretrix)*](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm)Ng,\
   \ Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal\
   \ Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre.\
@@ -36,7 +37,8 @@ links_references: "**Acknowledgements** \nWith grateful thanks to Andre Sartori 
   \ the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources\
   \ of the Western Central Pacific[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)on\
   \ the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  **References**\n- Chan Sow-Yan & Lau Wing Lup. 30 April 2020.*Sightings of the long-leaf\
+  ### References
+\n- Chan Sow-Yan & Lau Wing Lup. 30 April 2020.*Sightings of the long-leaf\
   \ irus clam, Irus irus, in Singapore*. Singapore Biodiversity Records 2020: 49-52\
   \ ISSN 2345-7597\n\n- Tan Siong Kiat, Chan Sow-Yan & Lau Wing Lup. 31 October 2019.*Sowerby\u2019\
   s venus clam, Lioconcha sowerbyi, a new record for Singapore*, Singapore Biodiversity\
@@ -138,7 +140,9 @@ Many of the commercially important clams are venus clams. Some are also used as 
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our venus clams are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.
 
 ---

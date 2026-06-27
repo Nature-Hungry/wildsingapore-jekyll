@@ -82,7 +82,7 @@ galleries:
     caption: Honeycomb hexa coral Colony boulder-shaped.
   - url: https://images.naturehungry.sg/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg
     caption: Corallites hexagonal with shared walls, a smooth surface in between the
-      corallites.
+     corallites.
   - url: https://images.naturehungry.sg/faviidae/hexa/hexacolumn/060102sisg3674m3b.jpg
     caption: Corallites may jut out with thick, shared walls, forming irregular, sharp
       angled, usually hexagonal cells.
@@ -103,8 +103,9 @@ galleries:
   - url: https://images.naturehungry.sg/faviidae/maze/others/050611kusg7740m3a.jpg
     caption: Corallites with shared walls often thick forming long meandering valleys,
       maze-like or hexagonal patterns that are coarser than other kinds of maze favid
-      corals.
-links_references: '**Links**
+     corals.
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
@@ -120,7 +121,8 @@ links_references: '**Links**
   Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 

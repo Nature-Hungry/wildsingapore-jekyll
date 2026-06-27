@@ -43,7 +43,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Uranoscopidae (Stargazers)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=378)
 
@@ -84,7 +85,8 @@ links_references: '**Links**
   a fish net.
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui and Chan Sow Yan.
 

@@ -48,7 +48,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/lethrinidae/lentjan/160409sjilks2.JPG
     caption: St John's Island, Apr 16 Photo shared by Loh Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Pink-eared emperor (Lethrinus lentjan)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/313)
 
@@ -75,7 +76,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

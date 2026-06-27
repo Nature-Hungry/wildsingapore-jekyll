@@ -34,7 +34,8 @@ galleries:
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/snakes/prasina/251231prprqo1.jpg
     caption: Pasir Ris Park, Jan 26 Photo shared by Rui Quan Oh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Oriental Whip Snakes](http://singaporesnakes.blogspot.com/search/label/Oriental%20Whip%20Snake)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   on the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Lim, Kelvin K. P. & Francis L K Lim, 1992.
 

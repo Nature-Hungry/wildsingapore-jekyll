@@ -64,7 +64,8 @@ galleries:
     caption: Pulau Tekukor, Mar 24 Photo shared by Richard Kuah on facebook .
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/africana/121113smklks.JPG
     caption: Pulau Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Afrocucumis africana*](http://www.sealifebase.org/summary/Afrocucumis-africana.html)
 
@@ -76,7 +77,8 @@ links_references: '**Links**
   fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Teo, S., L. C. S. Ng, S. M. Suen, A. F. S. L. Lok & P. X. Ng, 2010.
 

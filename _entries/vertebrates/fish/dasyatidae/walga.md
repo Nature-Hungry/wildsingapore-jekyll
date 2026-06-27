@@ -49,7 +49,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/150830hntmn.jpg
     caption: Pulau Hantu, Aug 15 Photo shared by Marcus Ng on flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove Whipray (
   *Himantura walga*
@@ -79,7 +80,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Marcus F. C. Ng. 18 September 2015.
 

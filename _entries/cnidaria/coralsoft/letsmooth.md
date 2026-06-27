@@ -40,7 +40,8 @@ galleries:
     caption: Pulau Sudong, Dec 09
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letsmooth/100601slud4730m3.jpg
     caption: Pulau Salu, Jun 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Sinularia*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Sinularia)
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   on the Netherlands Centre for Biodiversity website: photos.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -133,7 +135,9 @@ The surface of the common leathery tissue is usually smooth as there are only au
 (*Lobophytum*
 sp.) which have siphonozooids and thus has a pimply common tissue.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -47,7 +47,8 @@ galleries:
     caption: Kusu Island, Jun 24 Photo shared by Kelvin Yong on facebook .
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/whip/240527srplks3.jpg
     caption: Sentosa Serapong, May 24 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Junceella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Junceella)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

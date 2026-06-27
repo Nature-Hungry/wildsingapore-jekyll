@@ -41,7 +41,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/240114kusrk1a.jpg
     caption: Kusu Island, Jan 24 Photo shared by Richard Kuah on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Ovate Sole (
   *Solea ovata*

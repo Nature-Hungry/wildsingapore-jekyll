@@ -31,7 +31,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks6l.jpg
     caption: Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on flickr
       .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Yellowtail or Vermiculated angelfish (
   *Chaetodontoplus mesoleucus*
@@ -49,7 +50,8 @@ links_references: '**Links**
   from the IUCN Red List.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

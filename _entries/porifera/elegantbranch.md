@@ -28,7 +28,8 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/porifera/elegantbranch/160125obslks1.jpg
     caption: Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Haliclona*](http://www.sealifebase.fisheries.ubc.ca/summary/FamilySummary.php?ID=2641)
 
@@ -39,7 +40,8 @@ links_references: '**Links**
   on the World Porifera Database.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

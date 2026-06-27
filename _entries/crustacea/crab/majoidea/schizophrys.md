@@ -71,7 +71,8 @@ galleries:
     caption: Raffles Lighthouse, Jul 06
   - url: https://images.naturehungry.sg/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3d.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Velcro and Decorator crab of the Family Majidae](http://mangrove.nus.edu.sg/pub/seashore/text/188)
 
@@ -104,7 +105,8 @@ links_references: '**Links**
   and on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

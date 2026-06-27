@@ -69,7 +69,8 @@ galleries:
     caption: Tanah Merah, Aug 09 Photo shared by James Koh on his blog .
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/sepiolida/090806tmjk11m3.jpg
     caption: Tanah Merah, Jul 09 Photo shared by James Koh on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Sepiolidae](http://www.sealifebase.fisheries.ubc.ca/Summary/FamilySummary.php?ID=1899)
 
@@ -100,7 +101,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

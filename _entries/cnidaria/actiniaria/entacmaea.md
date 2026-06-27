@@ -136,7 +136,8 @@ galleries:
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/220201brklks9.jpg
     caption: Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Entacmea quadricolor*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail_for_nosyn.cfm?genus=Entacmea&subgenus=&species=quadricolor&subspecies=)
 
@@ -166,7 +167,8 @@ links_references: '**Links**
   ****
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -255,14 +257,18 @@ sp.) including
 *A. fuscocaudatus, A. latezonatus, A. melanopus, A. polymnus*
 (juvenile). So far, only the Tomato anemonefish has been seen on the bubble tip anemones on the intertidal.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses
 
 Unfortunately, this beautiful anemone is collected for the live aquarium trade.
 
-**Status and threats:**
+ ## Status and threats
+
+
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore. But the anemone fishes that rely on them are on the Red List. However, like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
 ---

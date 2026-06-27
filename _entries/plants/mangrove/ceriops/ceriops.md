@@ -39,7 +39,8 @@ galleries:
     caption: Flowers small, a few on one stalk.
   - url: https://images.naturehungry.sg/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg
     caption: Brown 'fruit' has textured surface. Red collar on 'ripe' propagule.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tengar (
   *Ceriops tagal*
@@ -63,7 +64,8 @@ links_references: '**Links**
   on the NParks Flora and Fauna website: photos and fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -129,7 +131,9 @@ sp.) have a flattened knife-like stipule (leaf bud at the tip of a branch). For 
 
 Tengar (*Ceriops tagal*) is valued as timber, firewood and a source of dyes. It is also used in traditional medicine.
 
-**Status and threats:**
+ ## Status and threats
+
+
 [Tengar putih](tagal)
 (*Ceriops tagal*) is listed as 'Vulnerable' and
 [Tengar merah](zippeliana)

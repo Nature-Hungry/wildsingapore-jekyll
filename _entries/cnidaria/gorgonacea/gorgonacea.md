@@ -123,7 +123,9 @@ have also been seen clinging to sea fans. Some of these small animals prey on th
 
 Gorgonians, especially fan-shaped ones, are harvested for the live aquarium trade or sold dried as ornaments. "Red coral" that is harvested for jewellery is a gorgonian that is found in the Mediterranean Sea and Sea of Japan. Gorgonians are notoriously difficult to maintain artificially in an aquarium and may release toxins that kill off tank mates.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Gorgonians are not listed among the endangered animals of Singapore. However, like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and overharvesting also have an impact on local populations. Abandoned fishing lines can also uproot living sea fans.
 
 ---
@@ -305,7 +307,8 @@ sp. (see Sea whip)
 
 ---
 
-**References**
+### References
+
 
 - Fabricius, Katharina and Philip Alderslade, 2001.
 *Soft Corals and Sea Fans*

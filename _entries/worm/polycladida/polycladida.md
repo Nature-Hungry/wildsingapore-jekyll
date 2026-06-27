@@ -164,7 +164,8 @@ zone:
 links_references: "**Acknowledgement** \nWith grateful thanks to Leslie H. Harris\
   \ of the [Natural\nHistory Museum of Los Angeles County](http://www.nhm.org/) for\
   \ comments on and identifying\nsome of these flatworms.Grateful thanks to Rene Ong\
-  \ for sharing details and identifying the flatworms on this page.**Links**\n- [Marine\
+  \ for sharing details and identifying the flatworms on this page.### Links
+\n- [Marine\
   \ flatworms](http://mangrove.nus.edu.sg/pub/seashore/text/124.htm)Tan, Leo W. H.\
   \ & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Mangrove flatworms (Platyhelminthes)](http://mangrove.nus.edu.sg/guidebooks/text/2002.htm)Ng,\
@@ -174,7 +175,8 @@ links_references: "**Acknowledgement** \nWith grateful thanks to Leslie H. Harri
   \ Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: Introduction to flatworms\
   \ with lots of examples of nudibranchs and slugs mistaken for flatworms and visa\
   \ versa.\n\n- [Platyhelminthes in YOU](http://wildshores.blogspot.com/2009/02/platyhelminthes-in-you.html)on\
-  \ the wild shores of singapore blog.\n\n**References**\n- Samantha Jia Wen Tong\
+  \ the wild shores of singapore blog.\n\n### References
+\n- Samantha Jia Wen Tong\
   \ and Rene S.L. Ong.*[Mating behavior, spawning, parental care, and embryonic development\
   \ of some marine pseudocerotid flatworms (Platyhelminthes: Rhabditophora: Polycladida)\
   \ in Singapore](https://doi.org/10.1111/ivb.12293)*. 27 June 2020. Invertebrate\
@@ -305,7 +307,9 @@ on
 **Fragile worms:**
 Flatworms are very delicate and tear easily when handled. So please avoid touching them.
 
-**Status and threats:**
+ ## Status and threats
+
+
 None of our flatworms are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, flatworms are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and overcollection of their food source can also have an impact on local populations.
 
 ---

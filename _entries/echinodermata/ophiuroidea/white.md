@@ -104,7 +104,8 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
 
-**References**
+### References
+
 
 - Tan Heok Hui & Tan Siong Kiat. 12 December 2014.
 *Commensal animals of a soft coral tree in the Singapore Strait: Ball flowery coral tree, Dendronephthya sp.; False cowrie, Margovula marginata; Coral shell, Coralliophila rubrococcinea; Brittlestar, unidentified*

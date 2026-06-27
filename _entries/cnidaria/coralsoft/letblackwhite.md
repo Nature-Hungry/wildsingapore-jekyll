@@ -18,15 +18,17 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
 coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Cladiella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cladiella)on[Reef
-  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)on
+ corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)on
   the[Marine Species Identification Portal](http://species-identification.org/index.php):
   Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
@@ -139,7 +141,9 @@ and
 *Klyxum*
 species.
 
-**Status and threats:**
+ ## Status and threats
+
+
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

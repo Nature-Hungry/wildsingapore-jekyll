@@ -31,14 +31,16 @@ galleries:
     caption: Thin disk coral
   - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
     caption: Encrusting disk coral
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

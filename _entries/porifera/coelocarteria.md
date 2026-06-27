@@ -44,7 +44,8 @@ galleries:
     caption: Terumbu Berkas, Jan 10
   - url: https://images.naturehungry.sg/porifera/coelocarteria/100131slud8828m3.jpg
     caption: Terumbu Salu, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Coelocarteria singaporensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Coelocarteria-singaporensis.html)
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

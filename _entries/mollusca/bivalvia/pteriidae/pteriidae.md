@@ -39,7 +39,8 @@ galleries:
     caption: Leaf oyster
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg
     caption: Elongated toothed oyster
-links_references: '**Links**
+links_references: '### Links
+
 
   - Family Pteriidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
   Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
@@ -49,7 +50,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Chan Sow-Yan & Lau Wing Lup. 30 October 2020.
 

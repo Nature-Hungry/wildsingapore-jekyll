@@ -37,7 +37,8 @@ galleries:
   - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120511tpld3253m3.jpg
     caption: Scale worms are tiny and often overlooked. Terumbu Pempang Laut, May
       12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Segmented Worms (Phylum Annelida)](http://mangrove.nus.edu.sg/pub/seashore/text/126)
 
@@ -91,7 +92,8 @@ links_references: '**Links**
   at the fascinating larvae of bristleworms.
 
 
-  **References**
+  ### References
+
 
   - Lee Yen-ling & Morgany Thangavelu. 31 Mar 2017.
 
@@ -224,7 +226,9 @@ Bristleworms are eaten by many creatures higher up in the food chain. Shorebirds
 
 Fishermen sometimes dig out bristleworms to use as bait.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---

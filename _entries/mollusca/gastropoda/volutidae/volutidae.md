@@ -54,7 +54,8 @@ galleries:
     caption: Noble volute
   - url: https://images.naturehungry.sg/mollusca/gastropoda/volutidae/melo/050820bbg1813m3.jpg
     caption: Baler volute
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Melon or Baler Shell (*Cymbium melo*)](http://mangrove.nus.edu.sg/pub/seashore/text/144)
   Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
@@ -75,7 +76,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010 *Preliminary Checklist of The Molluscs
   of Singapore* (pdf), Raffles Museum of Biodiversity Research, National University
@@ -148,7 +150,9 @@ Even after it dies, the snails shell continues to provide shelter! Many of the N
 
 Called 'kilah' in Malay, the Noble volute is edible. It is also 'often collected for its attractive shell. The Baler shell was also eaten and its empty shell used by fishermen to scoop water out of their boats, as well as to scoop sugar, salt and flour in markets.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The [Noble volute](nobilis) is listed as 'Vulnerable' and [Baler shell](melo) as 'Endangered' on the Red List of threatened animals of Singapore due to habitat loss. The Noble volute was previously abundant in Singapore but is now considered vulnerable due to habitat degradation and overcollection for food and for its attractive shell.
 
 ---

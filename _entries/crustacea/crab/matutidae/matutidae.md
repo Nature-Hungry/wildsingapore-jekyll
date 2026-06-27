@@ -54,7 +54,8 @@ galleries:
     caption: Spotted moon crab
   - url: https://images.naturehungry.sg/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg
     caption: Flower moon crab
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Moon Crab (
   *Matuta lunaris*
@@ -68,7 +69,8 @@ links_references: '**Links**
   . The Singapore Science Centre, Singapore. 160 pp.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
@@ -142,7 +144,9 @@ They eat worms, clams and other small animals, foraging more actively at night. 
 
 These crabs are eaten in some other countries.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Our moon crabs are not listed among the threatened animals of Singapore.
 However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.
 Trampling by careless visitors also have an impact on local populations.

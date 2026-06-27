@@ -34,7 +34,8 @@ galleries:
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg
     caption: Pandan Mangroves, Dec 25 Photo shared by Rui Quan Oh on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mud creepers (
   *Cerithidea obtusa*
@@ -76,7 +77,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

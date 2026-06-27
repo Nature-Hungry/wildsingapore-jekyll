@@ -39,7 +39,8 @@ galleries:
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14a.jpg
     caption: An ovulid snail on the sea fan.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Subergorgia suberosa*](http://www.sealifebase.fisheries.ubc.ca/summary/Subergorgia-suberosa.html)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   : Technical fact sheet and photos.
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

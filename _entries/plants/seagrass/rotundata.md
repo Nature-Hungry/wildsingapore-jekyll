@@ -39,7 +39,8 @@ galleries:
     caption: Tanah Merah, Sep 11
   - url: https://images.naturehungry.sg/plants/seagrass/rotundata/110929tmftd1579m6l.jpg
     caption: Tanah Merah, Sep 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - McKenzie, L.J., Yaakub, S.M., and Yoshida, R.L. (2007).
 
@@ -53,7 +54,8 @@ links_references: '**Links**
   on the Seagrass-Watch website.
 
 
-  **References**
+  ### References
+
 
   - Waycott, Michelle (et. al). 2004.
 
@@ -133,7 +135,9 @@ and
 *Halodule*
 are not available.
 
-**Status and threats:**
+ ## Status and threats
+
+
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/seagrass/rotundata/090627cjd5679m6l.jpg)*

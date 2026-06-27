@@ -57,7 +57,8 @@ galleries:
   gallery10:
   - url: https://images.naturehungry.sg/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg
     caption: Tanah Merah, Jan 10 Photo shared by James Koh on flickr .
-links_references: "**Links**\n- [Doublelined Tongue-Sole (\n*Paraplagusia bilineata*\n\
+links_references: "### Links
+\n- [Doublelined Tongue-Sole (\n*Paraplagusia bilineata*\n\
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/390)\nand\n[Speckled\
   \ Tongue-Sole (\n*Cynoglossus puncticeps*\n)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/389)\n\
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide to the Common Marine Fishes\
@@ -76,7 +77,8 @@ links_references: "**Links**\n- [Doublelined Tongue-Sole (\n*Paraplagusia biline
   [FishBase](http://www.fishbase.org/)\n.\n- [Volume 4: Bony fishes part 2 (Mugilidae\
   \ to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)\nFAO Species Identification\
   \ Guide for Fishery Purposes The Living Marine Resources of the Western Central\
-  \ Pacific.\n\n**References**\n- Kelvin K. P. Lim & Tan Heok Hui.\n*Bleeker\u2019\
+  \ Pacific.\n\n### References
+\n- Kelvin K. P. Lim & Tan Heok Hui.\n*Bleeker\u2019\
   s fringelip tongue-sole at East Coast.*\n29 March 2018. Singapore Biodiversity Records\
   \ 2018: 33-34 ISSN 2345-7597. National University of Singaporec.\n"
 location:

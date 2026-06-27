@@ -44,7 +44,8 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg
     caption: ''
-links_references: '**Links**
+links_references: '### Links
+
 
   - Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
 
@@ -61,7 +62,8 @@ links_references: '**Links**
   : Technical fact sheet on the order, including a fact sheets on individual species.
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

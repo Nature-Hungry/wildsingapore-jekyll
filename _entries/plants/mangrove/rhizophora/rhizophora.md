@@ -49,7 +49,8 @@ galleries:
     caption: Very long hypocotyl.
   - url: https://images.naturehungry.sg/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg
     caption: Hypocotyl not so long.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Bakau (
   *Rhizophora*](http://mangrove.nus.edu.sg/guidebooks/text/1069)
@@ -120,7 +121,9 @@ According to Burkill, the trees are most used for firewood. One great advantage 
 [make charcoal](http://wildshores.blogspot.com/2009/04/how-is-charcoal-made-from-mangroves.html)
 . It is also valued as a source of tannins. In fact, the use of mangrove trees in tanning leather has been recorded by early Arab traders. Besides tanning leather, the bark was originally used by fishermen to toughen their fishing lines and ropes. The tree is much in demand for piling and house frames built near mangroves and swamps. As well as for building fishtraps.
 
-**Status and threats:**
+ ## Status and threats
+
+
 *R. stylosa*
 is listed as 'Vulnerable' on the Red List of endangered plants in Singapore.
 

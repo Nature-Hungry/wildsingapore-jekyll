@@ -65,7 +65,8 @@ galleries:
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/virgulata/110830cyrlks2.JPG
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on flickr .
-links_references: "**Links**\n- [Banded urchin (\n*Salmacis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
+links_references: "### Links
+\n- [Banded urchin (\n*Salmacis*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/223)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*A Guide to Seashore Life*\n. The Singapore\
   \ Science Centre, Singapore. 160 pp.\n- [*Salmacis virgulata*](http://www.sealifebase.org/summary/Salmacis-virgulata.html)\n\
   on SeaLife Base: Technical fact sheet.\n- P. Satheeshkumar,\n[First Record of Regular\

@@ -69,7 +69,8 @@ galleries:
     caption: St John's Island, Oct 25 Photo shared by Adriane Lee on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/241117cyrccn1.jpg
     caption: Cyrene, Nov 24 Photo shared by Che Cheng Neo on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Swimming crabs (Family Portunidae)](http://mangrove.nus.edu.sg/pub/seashore/text/201)
 
@@ -98,7 +99,8 @@ links_references: '**Links**
   on Crabs of Japan in Marine Species Identification Portal: Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 

@@ -93,7 +93,8 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/210428slulks10.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
   gallery12: null
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Tomato Anemonefish (*Amphiprion frenatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/338)Lim,
   Kelvin K. P. & Jeffrey K. Y. Low, 1998.*[A Guide to the Common Marine Fishes of
@@ -113,7 +114,8 @@ links_references: '**Links**
   by Dr Daphne G. Fautin and Dr Gerald R. Allen: brief fact sheet with photo.
 
 
-  **References**
+  ### References
+
 
   - Daisuke Taira. October 2017.
 
@@ -209,7 +211,9 @@ Unfortunately, these fishes are taken in large numbers from the wild for the aqu
 There have been some success in breeding anemonefish for the aquarium trade. Although captive bred anemonefish are hardier, they are more expensive. Harvesting from the wild will probably continue so long as there are unscrupulous traders and aquarists.
 Thus, anemonefishes continue to be unsustainably harvested from the wild. The pressure on wild populations has risen tremendously due to the huge demand following the popular "Finding Nemo" cartoon.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The Tomato anemonefish is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations. According to the Singapore Red Data Book, "habitat protection and strict policing against illegal collection are required" to conserve our anemonefishes.
 
 ---

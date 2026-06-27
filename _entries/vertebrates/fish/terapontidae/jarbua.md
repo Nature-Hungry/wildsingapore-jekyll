@@ -54,7 +54,8 @@ galleries:
     caption: Kusu Island, Jan 24 Photo shared by Liz Lim on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/terapontidae/jarbua/250331hntky1.jpg
     caption: Pulau Hantu, Apr 25 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Crescent perch (
   *Terapon jarbua*
@@ -95,7 +96,8 @@ links_references: '**Links**
   of the Western Central Pacific.
 
 
-  **References**
+  ### References
+
 
   - Allen, Gerry, 2000.
 

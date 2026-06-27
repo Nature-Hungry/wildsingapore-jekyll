@@ -44,7 +44,8 @@ galleries:
     caption: Terumbu Bemban, May 21 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/plants/seaweed/rhodophyta/pomthick/091204pawd5391m3.jpg
     caption: Pulau Pawai, Dec 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Galaxauraceae](http://www.algaebase.org/browse/taxonomy/detail/?taxonid=v8397b0dd6848acdb&-session=abv4:3BBD37D318d53140DFOr35D3FFEA)
 
@@ -62,7 +63,8 @@ links_references: '**Links**
   Phycologia (1990) Volume 29 (2), 150-172
 
 
-  **References**
+  ### References
+
 
   - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
   Tsai Min and Wang Luan Keng,

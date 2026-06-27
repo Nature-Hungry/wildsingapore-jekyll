@@ -33,7 +33,8 @@ galleries:
       Mar 09
   - url: https://images.naturehungry.sg/plants/mangrove/acrostichum/speciosum/110307admd6750m3.jpg
     caption: Fertile fronds. Admiralty Park, Mar 11
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Acrostichum speciosum](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1535)*
 
@@ -67,7 +68,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Tomlinson, P. B., 1986.
 

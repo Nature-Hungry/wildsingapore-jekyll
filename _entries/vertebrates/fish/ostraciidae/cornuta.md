@@ -65,7 +65,8 @@ galleries:
     caption: Cyrene Reef, Apr 18 Photo shared by Chris Wong on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cornuta/110731trylks4m3.jpg
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Longhorn cowfish (
   *Lactoria cornuta*
@@ -79,7 +80,8 @@ links_references: '**Links**
   : Technical fact sheet.
 
 
-  **References**
+  ### References
+
 
   - Lee Bee Yan & Jeremy W. L. Yeo. 28 Jul 2017.
 

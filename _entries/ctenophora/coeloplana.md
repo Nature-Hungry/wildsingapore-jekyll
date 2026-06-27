@@ -29,7 +29,8 @@ galleries:
     caption: Cyrene Reef, Jul 12
   - url: https://images.naturehungry.sg/ctenophora/coeloplana/120819cyrd0430m3.jpg
     caption: Cyrene Reef, Aug 12
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Benthic ctenophores](http://www.seaslugforum.net/find/ctenopho)
 
@@ -40,7 +41,8 @@ links_references: '**Links**
   on the wild shores of singapore
 
 
-  **References**
+  ### References
+
 
   - Fabricius, Katharina and Philip Alderslade, 2001.
 

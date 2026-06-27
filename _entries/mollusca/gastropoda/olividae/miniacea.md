@@ -47,7 +47,8 @@ galleries:
     caption: Sentosa Tg Rimau, Oct 25 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/260104trmyls3a.jpg
     caption: Sentosa Tg Rimau, Jan 26 Photo shared by Yan Le Su on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Redmouth olive (
   *Oliva miniacea*
@@ -77,7 +78,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -127,7 +129,9 @@ may look similar.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
-**Status and threats:**
+ ## Status and threats
+
+
 This olive snail is listed as 'Vulnerable' in the Red List of threatened animals of Singapore.
 
 **Species are difficult to positively identify without close examination.

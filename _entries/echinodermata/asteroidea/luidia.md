@@ -48,7 +48,8 @@ galleries:
     caption: 'Pointed tube feet: transparent.'
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg
     caption: Flat-topped, pillar-like structures called paxillae.
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Learning about
 
@@ -59,7 +60,8 @@ links_references: '**Links**
   by Dr Christopher Mah on Echinoblog.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003
 

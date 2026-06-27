@@ -35,7 +35,8 @@ galleries:
     caption: Dead specimen. Partridge sundial snail
   - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
     caption: Variegated sundial snail
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)
 
@@ -51,7 +52,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat & Chan Sow-Yan. 31 Aug 2017.
 
@@ -118,7 +120,9 @@ The snails are simultaneous hermaphrodites. Eggs are numerous, laid in capsules 
 
 They are occasionally collected by shrimp trawlers, consumed by fishermen and used as decorative items in the shellcraft industry.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The
 [Clear sundial snail](perspectiva)
 is listed as 'Endangered' in the Red List of threatened animals of Singapore. The original shores where they were found have been lost to reclamation.

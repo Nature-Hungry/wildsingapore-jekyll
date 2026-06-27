@@ -17,7 +17,8 @@ zone:
 - intertidal
 - marine
 genus: ''
-links_references: '**References**
+links_references: '### References
+
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
   Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the

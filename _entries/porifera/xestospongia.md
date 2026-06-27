@@ -66,7 +66,8 @@ galleries:
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/porifera/xestospongia/210428slulks6.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Xestospongia testudinaria*](http://www.sealifebase.fisheries.ubc.ca/summary/Xestospongia-testudinaria.html)
 
@@ -89,7 +90,8 @@ links_references: '**Links**
   on the wild shores of singapore blog.
 
 
-  **References**
+  ### References
+
 
   - Lim Swee Cheng, Nicole de Voogd and Tan Koh Siang. 2008.
 

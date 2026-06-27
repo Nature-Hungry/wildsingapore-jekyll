@@ -63,7 +63,8 @@ galleries:
     caption: Commensal snapping shrimp in sponges and under stones
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
     caption: White soft coral snapping shrimp in ball flowery soft corals
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Mangrove snapping prawns (
   *Alpheus*
@@ -106,7 +107,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017.
 
@@ -189,7 +191,9 @@ Some species live in symbiosis with corals, sponges, sea fans and other animals.
 **Colonial shrimps?**
 A kind of snapping shrimp (*Synalpheaus regalis*) that lives in sponges in the coral reefs of Belize were found to form colonies much like termites do. One 'queen' prawn produces all the members of the colony, which attack members of other colonies but are peaceful towards members of their own colony.
 
-**Status and threats:**
+ ## Status and threats
+
+
 Most of our snapping shrimps are not listed among the endangered animals of Singapore, except for the Crinoid snapping shrimp (*Synalpheus stimpsoni*).
 This tiny shrimp (about 1cm) lives in pairs on
 [feather stars](../../../echinodermata/crinoidea/crinoidea)

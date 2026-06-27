@@ -98,7 +98,8 @@ galleries:
     caption: Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/niloticus/100130brkd8718m3.jpg
     caption: Terumbu Berkas, Jan 10
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Family Trochidae](http://mangrove.nus.edu.sg/pub/seashore/text/134)
 
@@ -133,7 +134,8 @@ links_references: '**Links**
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 
@@ -205,7 +207,9 @@ It eats filamentous algae and generally avoids sandy bottoms and living corals.
 
 This large snail is the most economically important snail in the tropical West Pacific. Both as an important traditional food and a leading export item as the source of mother-of-pearl buttons and jewellery. Total annual harvest is estimated at 5-6 million tons. As a result of severe overfishing, in many places policies are in place to manage their harvest and aquaculture trials are underway.
 
-**Status and threats:**
+ ## Status and threats
+
+
 The snail used to be abundant in Singapore in the 1960's but is now listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Like other creatures of the intertidal zone, it is affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
 ---

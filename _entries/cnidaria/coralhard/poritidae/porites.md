@@ -62,14 +62,16 @@ galleries:
     caption: Branching pore coral
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
     caption: Boulder pore coral
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Corals of the World](http://www.coralsoftheworld.org/page/home/)
 
   with species factsheets.
 
 
-  **References**
+  ### References
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

@@ -28,14 +28,15 @@ order: Holothuriida
 subgenus: Mertensiothuria
 updated: Apr 2020
 coverimg: https://images.naturehungry.sg/echinodermata/holothuroidea/leucospilota/050808sntg0846m3.jpg
-links_references: '**Links**
+links_references: '### Links
+
 
   - *[Holothuria leucospilota](https://singapore.biodiversity.online/taxo4254/mainSpace/Holothuria%20leucospilota.html)*(Aspidochirotida:
   Holothuriidae) Black Sea Cucumber by Hazel Peh Huiqi, 2014, on taxo4254
 
 
   - *[Holothuria leucospilota](http://coralreef.nus.edu.sg/gallery/ot045.htm)*on the
-  Coral Reefs of Singapore website: photo and brief facts
+ coral Reefs of Singapore website: photo and brief facts
 
 
   - [*Holothuria leucospilota*(White threads fish)](http://www.sealifebase.org/summary/Holothuria-leucospilota.html)on
@@ -55,7 +56,8 @@ links_references: '**Links**
   by Steven W. Purcell, Yves Samyn and Chantal Conand, FAO Species Catalogue.
 
 
-  **References**
+  ### References
+
 
   - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
   Echinoderms of Singapore*. Singapore Science Centre. 187pp.
@@ -184,7 +186,9 @@ This sea cucumber is said to be a host to the pearl fish
 
 This sea cucumber does not have high commercial value and is not harvested for the food trade nor live aquarium trade, because of its thin skin and tendency to produce Cuvierian tubules when stressed. But there seems to be many studies investigating their biochemical properties.
 
-**Status and threats:**
+ ## Status and threats
+
+
 This sea cucumber is listed as 'Vulnerable' on the Red List of threatened animals in Singapore. Although globally, according to the FAO, "it has one of the broadest distributions of all holothurians, and it can be found in most tropical localities in the western central Pacific, Asia and most Indian Ocean regions"
 
 ---

@@ -43,14 +43,16 @@ galleries:
     caption: Chek Jawa, May 25 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/orientalis/050724bbg0228m3.jpg
     caption: Beting Bronok, Jul 05
-links_references: '**Links**
+links_references: '### Links
+
 
   - Toh Chay Hoon and Jianlin Liu Biodiversity Record: The nudibranch, Chromodoris
   orientalis, at Changi Beach, NATURE IN SINGAPORE 14: e2021077 31 August 2021 DOI:
   10.26107/NIS-2021-0077
 
 
-  **References**
+  ### References
+
 
   - Tan Siong Kiat and Henrietta P. M. Woo, 2010
 

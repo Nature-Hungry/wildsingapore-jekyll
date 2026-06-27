@@ -39,7 +39,8 @@ galleries:
     caption: Fruit pods. Mandai, Mar 11
   - url: https://images.naturehungry.sg/plants/mangrove/dischidia/dischidia/110317mndd7360m3b.jpg
     caption: Flower bud. Mandai, Mar 11 Chek Jawa, Sep 09
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Dischidia major*](http://floraofsingapore.wordpress.com/2010/05/13/dischidia-major/)
 
@@ -57,7 +58,8 @@ links_references: '**Links**
   of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
-  **References**
+  ### References
+
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 
@@ -108,7 +110,9 @@ There are other several other species of
 in Singapore.
 
 ****
-**Status and threats:**
+ ## Status and threats
+
+
 Many of our
 *Dischia*
 species are listed as 'Nationally Extinct' or 'Critically Endangered' on the Red List of threatened plants of Singapore.

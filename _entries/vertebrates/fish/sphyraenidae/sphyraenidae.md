@@ -49,7 +49,8 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
-links_references: "**Links**\n- [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352)\n\
+links_references: "### Links
+\n- [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352)\n\
   (\n*Sphyraena jello*\n) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide\
   \ to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
   . Singapore Science Centre. 163 pp.\n- [Family Sphyraenidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=360)\n\
@@ -59,7 +60,8 @@ links_references: "**Links**\n- [Pickhandle Barracuda](http://habitatnews.nus.ed
   from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet.\n- [Volume 4:\
   \ Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)\n\
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources\
-  \ of the Western Central Pacific.\n\n**References**\n- Zeehan Jaafar.\n*Great barracuda\
+  \ of the Western Central Pacific.\n\n### References
+\n- Zeehan Jaafar.\n*Great barracuda\
   \ at Sisters\u2019 Islands Marine Park*\n. 31 July 2019. Singapore Biodiversity\
   \ Records 2019: 91-92 ISSN 2345-7597. National University of Singapore.\n- Wee Y.C.\
   \ and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National\

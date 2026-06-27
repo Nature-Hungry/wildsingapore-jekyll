@@ -57,7 +57,8 @@ galleries:
     caption: Terumbu Pempang Tengah, May 11 Photo shared by Ivan Kwan on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/mullidae/upeneus/190902tryky1.jpg
     caption: Terumbu Raya, Sep 19 Photo shared by Kelvin Yong on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [Freckled goatfish (
   *Upeneus tragula*
@@ -128,7 +129,8 @@ links_references: '**Links**
   .
 
 
-  **References**
+  ### References
+
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 

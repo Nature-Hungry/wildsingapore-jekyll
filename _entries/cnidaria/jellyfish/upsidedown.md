@@ -66,7 +66,8 @@ galleries:
     caption: Pulau Semakau East, Jan 16 Shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/upsidedown/100403tbblks7m3.jpg
     caption: Beting Bemban Besar, Apr 10 Shared by Loh Kok Sheng on his flickr .
-links_references: '**Links**
+links_references: '### Links
+
 
   - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
   Status for Singapore*

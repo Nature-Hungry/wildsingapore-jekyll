@@ -64,7 +64,8 @@ galleries:
     caption: Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on his blog
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/stiliger/190707thntch1.jpg
     caption: Terumbu Hantu, Jul 19 Photo shared by Toh Chay Hoon on facebook .
-links_references: '**Links**
+links_references: '### Links
+
 
   - [*Stiliger smaragdinus*](http://www.seaslugforum.net/find/stilsmar)
 
@@ -75,7 +76,8 @@ links_references: '**Links**
   by Dr Bill Rudman: fact sheet
 
 
-  **References**
+  ### References
+
 
   - K. R. Jensen.
 
