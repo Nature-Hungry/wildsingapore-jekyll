@@ -1,8 +1,7 @@
 ---
 title: Mantis shrimps
 description: Fact sheet of Mantis shrimps on the shores of Singapore
-keywords: mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Gonodactylidae
 genus: ''
@@ -35,8 +34,7 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg
     caption: Changi, Jul 05
   - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg
-    caption: This is all that is usually seen of a mantis shrimp in hiding. Changi,
-      Jul 04
+    caption: This is all that is usually seen of a mantis shrimp in hiding. Changi, Jul 04
   gallery4:
   - url: https://images.naturehungry.sg/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg
     caption: Spearer mantis shrimp
@@ -57,8 +55,7 @@ links_references: '### Links
 
   - [Why the mantis shrimp is my new favourite animal](http://theoatmeal.com/comics/mantis_shrimp)
 
-  on the Oatmeal: a wondrously inspiring look at the marvelous features and lifestyle
-  of the mantis shrimp.
+  on the Oatmeal: a wondrously inspiring look at the marvelous features and lifestyle of the mantis shrimp.
 
   - [Mantis shrimp eyes may inspire better DVD and CD players](http://wildshores.blogspot.com/2009/10/mantis-shrimp-eyes-may-inspire-better.html)
 
@@ -72,8 +69,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Jones Diana S. and Gary J. Morgan, 2002.
 
@@ -89,8 +85,7 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-  of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
 
   Sea Challengers. 314pp.
 
@@ -101,8 +96,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They resemble familiar prawns and shrimps, but belong to a totally different group
-- Mantis shrimp can hurt you. Don't touch them! They have pincers modified into fearsome
-  weapons.
+- Mantis shrimp can hurt you. Don't touch them! They have pincers modified into fearsome weapons.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
@@ -110,6 +104,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Stomatopoda/Unipeltata/Gonodactylidae
 ---
 
 ## Where seen?

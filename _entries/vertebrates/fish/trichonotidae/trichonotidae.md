@@ -1,8 +1,7 @@
 ---
 title: Sand-divers
 description: Fact sheet of Sand-divers on the shores of Singapore
-keywords: sand, diver, fish, trichonotidae, trichonotus, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: sand, diver, fish, trichonotidae, trichonotus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -38,11 +37,9 @@ galleries:
     caption: Lower jaw slightly longer, Fine gold 'eyelashes'. Cyrene Reef, May 11
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/220616chgedc4.jpg
-    caption: Changi East (Lost Coast), Jun 22 Photo shared by Dayna Cheah on facebook
-      .
+    caption: Changi East (Lost Coast), Jun 22 Photo shared by Dayna Cheah on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/240723chgerk2a.jpg
-    caption: Changi East (Lost Coast), Jul 24 Photo shared by Richard Kuah on facebook
-      .
+    caption: Changi East (Lost Coast), Jul 24 Photo shared by Richard Kuah on facebook .
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/210529ecpgtch6a.jpg
     caption: East Coast Park Sailing Centre, May 21
@@ -50,8 +47,7 @@ galleries:
     caption: Photo shared by Toh Chay Hoon on facebook .
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/240509ecptt1.jpg
-    caption: East Coast Park Sailing Centre, May 24 Photo shared by Tommy Tan on facebook
-      .
+    caption: East Coast Park Sailing Centre, May 24 Photo shared by Tommy Tan on facebook .
   gallery6:
   - url: https://images.naturehungry.sg/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch1m3.jpg
     caption: Photo shared by Toh Chay Hoon on facebook .
@@ -103,6 +99,7 @@ zone:
 habitats:
 - sandy shore
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Trichonotoidei/Trichonotidae
 ---
 
 ## Where seen?

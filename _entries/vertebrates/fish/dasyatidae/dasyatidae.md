@@ -1,8 +1,7 @@
 ---
 title: Stingrays
 description: Fact sheet of Stingrays on the shores of Singapore
-keywords: sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Dasyatidae
 genus: ''
@@ -54,8 +53,7 @@ galleries:
     caption: Honeycomb whipray
   gallery8:
   - url: https://images.naturehungry.sg/vertebrates/fish/dasyatidae/220618tmftlks2.jpg
-    caption: Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry Terminal,
-      Jun 22 Photo shared by Loh Kok Sheng on facebook .
+    caption: Whitespotted whipray ( Himantura gerrardi ) Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on facebook .
 links_references: '### Links
 
 
@@ -129,8 +127,7 @@ links_references: '### Links
 
   - [Volume 3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   - [13 questions answered after I got stung by a stingray](https://theceruleansea.wordpress.com/2022/01/06/13-questions-answered-after-i-got-stung-by-a-stingray/)
 
@@ -206,6 +203,7 @@ zone:
 habitats:
 - mangrove
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Chondrichthyes/Myliobatiformes/Dasyatidae
 ---
 
 ## Where seen?

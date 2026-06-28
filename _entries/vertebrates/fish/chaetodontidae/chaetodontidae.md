@@ -1,9 +1,7 @@
 ---
 title: 'Butterflyfishes '
 description: Fact sheet of Butterflyfishes  on the shores of Singapore
-keywords: butterflyfish, butterfly, angel, bat, banner, fish, chaetodontidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: butterflyfish, butterfly, angel, bat, banner, fish, chaetodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chaetodontidae
 genus: ''
@@ -26,8 +24,7 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg
     caption: Pointed snout to nibble on small things. Sentosa, Oct 03
   - url: https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg
-    caption: Flattened sideways it's hard to spot from above or head on. Sentosa,
-      Oct 03
+    caption: Flattened sideways it's hard to spot from above or head on. Sentosa, Oct 03
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg
     caption: Some are seen among living corals. Tanah Merah, Jun 10
@@ -42,55 +39,7 @@ galleries:
     caption: Kite butterflyfish
   - url: https://images.naturehungry.sg/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
     caption: Eightband butterflyfish
-links_references: "### Links
-\n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A\
-  \ Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
-  . Singapore Science Centre. 163 pp.\n- Tan, Leo W. H. & Ng, Peter K. L., 1988.\n\
-  *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore\
-  \ Science Centre, Singapore. 160 pp.\n- [Butterflyfishes](http://ikanfish.wordpress.com/butterflyfishes/)\n\
-  on Reef Fishes of Singapore by Jeffrey Low.\n- [Family Chaetodontidae (Butterflyfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=343)\n\
-  and\n[*Chaetodon lineolatus*\n(Lined butterflyfish)](http://www.fishbase.org/summary/5564)\n\
-  and\n[*Chaetodon octofasciatus*\n(Eightband butterflyfish)](http://www.fishbase.org/summary/5570)\n\
-  and\n[*Chaetodon triangulum*\n(Triangle butterflyfish)](http://www.fishbase.org/summary/7805)\n\
-  and\n[*Chaetodon trifasciatus*\n(Melon butterflyfish)](http://www.fishbase.org/summary/5579)\n\
-  and\n[*Chaetodon unimaculatus*\n(Teardrop butterflyfish)](http://www.fishbase.org/summary/5581)\n\
-  and\n[*Chaetodon vagabundus*\n(Vagabond butterflyfish)](http://www.fishbase.org/summary/5582)\n\
-  and\n[*Chelmon rostratus*\n(Copperband butterflyfish)](http://www.fishbase.org/summary/5483)\n\
-  and\n[*Parachaetodon ocellatus*\n(Sixspine butterflyfish)](http://www.fishbase.org/summary/7887)\n\
-  and\n[*Coradion chrysozonus*\n(Goldengirdled coralfish)](http://www.fishbase.org/summary/5583)\n\
-  and\n[*Heniochus acuminatus*\n(Pennant coralfish)](http://www.fishbase.org/summary/5588)\n\
-  and\n[*Heniochus singularius*\n(Singular bannerfish)](http://www.fishbase.org/summary/5591)\n\
-  from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family.\n\
-  - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)\n\
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources\
-  \ of the Western Central Pacific.\n- [Butterflyfishes and coral diseases](http://wildshores.blogspot.com/2009/09/butterflyfishes-and-coral-disease.html)\n\
-  on the wild shores of singapore blog, 30 Sep 2009.\n- [Butter,,,Fly...Fish](http://cat64fish.wordpress.com/2011/08/25/butter-fly-fish-2/)\n\
-  on the Compressed Air Junkie blog, 25 Aug 2011.\n\n### References
-\n- Toh Chay Hoon,\
-  \ 31 October 2019.\n*Klein\u2019s butterflyfish (Chaetodon kleiniii) off Pulau Hantu*\n\
-  . Singapore Biodiversity Records 2019: 143 ISSN 2345-7597, National University of\
-  \ Singapore.\n- Jeffrey K. Y. Low.\n*A Singapore record of the raccoon butterflyfish,\
-  \ Chaetodon lunula*\n. 21 December 2018. Singapore Biodiversity Records 2018: 135\
-  \ ISSN 2345-7597. National University of Singapore.\n- Daisuke Taira. 31 May 2017.\n\
-  *New record of the masked bannerfish, Heniochus monoceros, in Singapore*\n. Singapore\
-  \ Biodiversity Records 2017: 60-61.\n- Tan Heok Hui & Kelvin K. P. Lim. 16 Jan 2015.\n\
-  *Blue-striped angelfish and longfin bannerfish from Singapore*\n. Singapore Biodiversity\
-  \ Records 201: 12-13 ISSN 2345-7597.\n- Tan Heok Hui & Kelvin K. P. Lim. 18 July\
-  \ 014.\n*Confirmed occurrence of the collare butterflyfish in Singapore, Chaetodon\
-  \ collare*\n. Singapore Biodiversity Records 2014: 190\n- Jeffrey K. Y. Low. 2013.\n\
-  *More noteworthy fishes observed in the Singapore Straits*\n. Nature in Singapore,\
-  \ 6: 31\u201337.\n- Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar,\
-  \ 2009.\n*Some note-worthy fishes observed in the Singapore Straits*\n. Nature in\
-  \ Singapore, 2: 77\u201382.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look\
-  \ at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n\
-  - Allen, Gerry, 2000.\n*Marine Fishes of South-East Asia: A Field Guide for Anglers\
-  \ and Divers*\n. Periplus Editions. 292 pp.\n- Kuiter, Rudie H. 2002.\n*Guide to\
-  \ Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*\nNew\
-  \ Holland Publishers. 434pp.\n- Lieske, Ewald and Robert Myers. 2001.\n*Coral Reef\
-  \ Fishes of the World*\nPeriplus Editions. 400pp.\n- Lim, S., P. Ng, L. Tan, & W.\
-  \ Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times of Labrador Beach*\n. Division\
-  \ of Biology, School of Science, Nanyang Technological University & Department of\
-  \ Zoology, the National University of Singapore. 160 pp.\n"
+links_references: "### Links \n- Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n. Singapore Science Centre. 163 pp.\n- Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore Science Centre, Singapore. 160 pp.\n- [Butterflyfishes](http://ikanfish.wordpress.com/butterflyfishes/)\non Reef Fishes of Singapore by Jeffrey Low.\n- [Family Chaetodontidae (Butterflyfishes)](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=343)\nand\n[*Chaetodon lineolatus*\n(Lined butterflyfish)](http://www.fishbase.org/summary/5564)\nand\n[*Chaetodon octofasciatus*\n(Eightband butterflyfish)](http://www.fishbase.org/summary/5570)\nand\n[*Chaetodon triangulum*\n(Triangle butterflyfish)](http://www.fishbase.org/summary/7805)\nand\n[*Chaetodon trifasciatus*\n(Melon butterflyfish)](http://www.fishbase.org/summary/5579)\nand\n[*Chaetodon unimaculatus*\n(Teardrop butterflyfish)](http://www.fishbase.org/summary/5581)\nand\n[*Chaetodon vagabundus*\n(Vagabond butterflyfish)](http://www.fishbase.org/summary/5582)\nand\n[*Chelmon rostratus*\n(Copperband butterflyfish)](http://www.fishbase.org/summary/5483)\nand\n[*Parachaetodon ocellatus*\n(Sixspine butterflyfish)](http://www.fishbase.org/summary/7887)\nand\n[*Coradion chrysozonus*\n(Goldengirdled coralfish)](http://www.fishbase.org/summary/5583)\nand\n[*Heniochus acuminatus*\n(Pennant coralfish)](http://www.fishbase.org/summary/5588)\nand\n[*Heniochus singularius*\n(Singular bannerfish)](http://www.fishbase.org/summary/5591)\nfrom\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family.\n- [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)\nFAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.\n- [Butterflyfishes and coral diseases](http://wildshores.blogspot.com/2009/09/butterflyfishes-and-coral-disease.html)\non the wild shores of singapore blog, 30 Sep 2009.\n- [Butter,,,Fly...Fish](http://cat64fish.wordpress.com/2011/08/25/butter-fly-fish-2/)\non the Compressed Air Junkie blog, 25 Aug 2011.\n\n### References \n- Toh Chay Hoon, 31 October 2019.\n*Klein\u2019s butterflyfish (Chaetodon kleiniii) off Pulau Hantu*\n. Singapore Biodiversity Records 2019: 143 ISSN 2345-7597, National University of Singapore.\n- Jeffrey K. Y. Low.\n*A Singapore record of the raccoon butterflyfish, Chaetodon lunula*\n. 21 December 2018. Singapore Biodiversity Records 2018: 135 ISSN 2345-7597. National University of Singapore.\n- Daisuke Taira. 31 May 2017.\n*New record of the masked bannerfish, Heniochus monoceros, in Singapore*\n. Singapore Biodiversity Records 2017: 60-61.\n- Tan Heok Hui & Kelvin K. P. Lim. 16 Jan 2015.\n*Blue-striped angelfish and longfin bannerfish from Singapore*\n. Singapore Biodiversity Records 201: 12-13 ISSN 2345-7597.\n- Tan Heok Hui & Kelvin K. P. Lim. 18 July 014.\n*Confirmed occurrence of the collare butterflyfish in Singapore, Chaetodon collare*\n. Singapore Biodiversity Records 2014: 190\n- Jeffrey K. Y. Low. 2013.\n*More noteworthy fishes observed in the Singapore Straits*\n. Nature in Singapore, 6: 31\u201337.\n- Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009.\n*Some note-worthy fishes observed in the Singapore Straits*\n. Nature in Singapore, 2: 77\u201382.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n- Allen, Gerry, 2000.\n*Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*\n. Periplus Editions. 292 pp.\n- Kuiter, Rudie H. 2002.\n*Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*\nNew Holland Publishers. 434pp.\n- Lieske, Ewald and Robert Myers. 2001.\n*Coral Reef Fishes of the World*\nPeriplus Editions. 400pp.\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times of Labrador Beach*\n. Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.\n"
 location:
 - tm
 - ecp
@@ -122,6 +71,7 @@ habitats:
 - seagrass meadow
 - coral rubble
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Chaetodontidae
 ---
 
 ## Where seen?

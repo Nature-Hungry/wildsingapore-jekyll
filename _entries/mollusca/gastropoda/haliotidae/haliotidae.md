@@ -1,10 +1,9 @@
 ---
 title: Abalone
 description: Fact sheet of Abalone on the shores of Singapore
-keywords: abalone, haliotidae, gastropod, mollusc, snail, shell, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: abalone, haliotidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Turbinidae
+family: Haliotidae
 genus: ''
 species: ''
 attributes: []
@@ -14,8 +13,7 @@ kingdom: Animalia
 phylum: Mollusca
 class: Gastropoda
 subclass: Vetigastropoda
-order: Trochida
-superfamily: Trochoidea
+order: Lepetellida
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg
 galleries:
@@ -47,8 +45,7 @@ galleries:
     caption: Photo shared by Jianlin Liu on facebook .
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/haliotidae/haliotidae/130628tpklksm6l.jpg
-    caption: Terumbu Pempang Kecil, Jun 13 Photo shared by Loh Kok Sheng on flickr
-      .
+    caption: Terumbu Pempang Kecil, Jun 13 Photo shared by Loh Kok Sheng on flickr .
 links_references: '### Links
 
 
@@ -66,8 +63,7 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief
-  fact sheet with photos.
+  at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
 
   - [Family Haliotidae](http://www.sealifebase.org/summary/FamilySummary.php?ID=2757)
 
@@ -112,6 +108,7 @@ zone:
 habitats:
 - coral rubble
 - coral reef
+permalink: /entries/Mollusca/Gastropoda/Lepetellida/Haliotidae
 ---
 
 ## Where seen?

@@ -1,9 +1,7 @@
 ---
 title: Mangrove ferns
 description: Fact sheet of Mangrove ferns on the shores of Singapore
-keywords: fern, acrostichum, aureum, speciosum, pteridaceae, mangrove, mangroves,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: fern, acrostichum, aureum, speciosum, pteridaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pteridaceae
 genus: ''
@@ -37,15 +35,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Piai Raya (
-  *Acrostichum aureum*
+  - [Piai Raya ( *Acrostichum aureum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1038)
 
   and
 
-  [Piai Lasu (
-  *Acrostichum speciosum*
+  [Piai Lasu ( *Acrostichum speciosum*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1039)
 
@@ -61,8 +57,7 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
-  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
   - [*Acrostichum aureum*](https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=1535)
 
@@ -86,8 +81,7 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
   - Wee Yeow Chin. 1983.
 
@@ -104,6 +98,7 @@ zone:
 habitats:
 - muddy shore
 - mangrove
+permalink: /entries/Tracheophyta/Polypodiopsida/Polypodiales/Pteridineae/Pteridaceae
 ---
 
 ## Where seen?

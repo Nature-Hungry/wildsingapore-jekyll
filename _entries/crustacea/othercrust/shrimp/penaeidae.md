@@ -5,8 +5,18 @@ keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, s
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Penaeidae
-genus: Family
-species: Penaeidae
+genus: ''
+species: ''
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Dendrobranchiata
+superfamily: Penaeoidea
 attributes: []
 updated: Feb 2020
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
@@ -161,13 +171,12 @@ The larger prawns are important commercially. Tiger prawns are widely aquacultur
 
 ---
 
-**Some Penaeid prawns on Singapore shores**
+## Penaeid prawns on Singapore shores
 
+{% assign filtered_posts = site.entries | where: "family", "Penaeidae" | where_exp: "item","item.title != page.title" %}
+{% include entry-summary-grid.html items=filtered_posts %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery2 %}
----
-{% include img-wrap-group.html items=page.galleries.gallery3 %}
----
+
 
 **Family Penaeidae recorded for Singapore**
 
@@ -187,13 +196,13 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 **Penaeid prawns awaiting identification**
 *Species are difficult to positively identify without close examination of small features. On this website, they are grouped by external features for convenience of display.*
 
-[Blue-tailed penaeid prawn](penbluetail)
+[Blue-tailed penaeid prawn](../penbluetail)
 
-[Banded penaeid prawn](penbanded)
+[Banded penaeid prawn](../penbanded)
 
-[Slender penaeid prawn](penslender)
+[Slender penaeid prawn](../penslender)
 
-[Speckled penaeid prawn](penspeckled)
+[Speckled penaeid prawn](../penspeckled)
 
 **Family Penaeidae**
 

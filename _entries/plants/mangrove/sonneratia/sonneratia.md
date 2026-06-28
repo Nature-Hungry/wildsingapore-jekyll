@@ -1,9 +1,7 @@
 ---
 title: 'Sonneratia '
 description: Fact sheet of Sonneratia  on the shores of Singapore
-keywords: sonneratia, lythraceae. sonneratiaceae, tree, mangrove, mangroves, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: sonneratia, lythraceae. sonneratiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Lythraceae
 genus: Sonneratia
@@ -25,8 +23,7 @@ galleries:
   - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
     caption: Atlas moth cocoon on Berembang. Pasir Ris Park, Jan 10
   - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/ovata/110531krjL1000195m3.jpg
-    caption: Ripe fruit falls and splits open releasing seeds. Kranji Nature Trail,
-      Jun 11
+    caption: Ripe fruit falls and splits open releasing seeds. Kranji Nature Trail, Jun 11
   gallery2:
   - url: https://images.naturehungry.sg/plants/mangrove/sonneratia/alba/121216ubnd2662m3.jpg
     caption: ''
@@ -81,8 +78,7 @@ links_references: '### Links
 
   - [Life in the mangroves](http://wetlands.sbwr.org.sg/text/00-7-1-5)
 
-  by Halilah Ahmad in Wetland: about the the Common long-tongued fruit bat (
-  *Macroglossus minimus*
+  by Halilah Ahmad in Wetland: about the the Common long-tongued fruit bat ( *Macroglossus minimus*
 
   ).
 
@@ -104,8 +100,7 @@ links_references: '### Links
 
   *Wayside Trees of Malaya: in two volumes*
 
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
-  1-38; volume 2: 477-861 pp., plates 139-236.
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
   - Tomlinson, P. B., 1986.
 
@@ -117,8 +112,7 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
   '
 authors:
@@ -127,6 +121,7 @@ zone:
 - intertidal
 habitats:
 - mangrove
+permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Myrtales/Lythraceae/Sonneratia
 ---
 
 ## Where seen?

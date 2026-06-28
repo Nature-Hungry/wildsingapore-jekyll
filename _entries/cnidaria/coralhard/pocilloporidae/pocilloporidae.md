@@ -1,8 +1,7 @@
 ---
 title: 'Pocilloporid corals '
 description: Fact sheet of Pocilloporid corals  on the shores of Singapore
-keywords: pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pocilloporidae
 genus: ''
@@ -38,13 +37,11 @@ links_references: '### Links
 
   - [Family Pocilloporidae](http://species-identification.org/species.php?species_group=corals&id=113&menuentry=groepen)
 
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
-  Technical fact sheet.
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
 
   - [Family Pocilloporidae](http://www.iucnredlist.org/apps/redlist/search)
 
-  (enter Pocilloporidae in search bar) on the IUCN Red List of Threatened Species
-  website: Technical fact sheet.
+  (enter Pocilloporidae in search bar) on the IUCN Red List of Threatened Species website: Technical fact sheet.
 
 
   ### References
@@ -52,8 +49,7 @@ links_references: '### Links
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
-  records*
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -118,6 +114,7 @@ zone:
 - marine
 habitats:
 - coral reef
+permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Pocilloporidae
 ---
 
 ## Where seen?

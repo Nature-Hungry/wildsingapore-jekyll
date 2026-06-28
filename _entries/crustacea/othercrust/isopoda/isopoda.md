@@ -1,8 +1,7 @@
 ---
 title: Marine isopods
 description: Fact sheet of Marine isopods on the shores of Singapore
-keywords: isopod, crustacea, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info
+keywords: isopod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: ''
 genus: ''
@@ -11,13 +10,19 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Peracarida
+order: Isopoda
 updated: Mar 2020
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
-    caption: Some unidentified beach isopods swarming over rotting fruit. East Coast,
-      Aug 09
+    caption: Some unidentified beach isopods swarming over rotting fruit. East Coast, Aug 09
   - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg
     caption: ''
   gallery2:
@@ -40,27 +45,7 @@ galleries:
   gallery5:
   - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg
     caption: Cyrene Reef, Aug 10 Photo shared by Marcus Ng on flickr .
-links_references: "### Links
-\n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\n\
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
-  . The Singapore Science Centre, Singapore. 160 pp.\n- [Warty pill-bug (\n*Sphaeroma\
-  \ terebrans*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2035)\nNg, Peter K.\
-  \ L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n\
-  . Singapore Science Centre. 168 pp.\n- [Isopods and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipods.html)\n\
-  on the\n[Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)\n\
-  by Keith Davey on the Marine Education Society of Australia website: Fact sheet,\
-  \ diagrams.\n\n### References
-\n- Niel L. Bruce, Melissa B. Martin, Kerry A. Hadfield\
-  \ & Barbara F. Nowak, Redescription of the fish parasitic \u201Ctongue biter\u201D\
-  \ Cymothoa rhina Schioedte & Meinert, 1884 (Crustacea: Isopoda: Cymothoidae) from\
-  \ Singapore, 29 June 2016, Raffles Bulletin of Zoology Supplement No. 34: 331\u2013\
-  342\n- Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.\n*Invertebrate\
-  \ Zoology*\nBrooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.\n- Lim,\
-  \ S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times\
-  \ of Labrador Beach.*\nDivision of Biology, School of Science, Nanyang Technological\
-  \ University & Department of Zoology, the National University of Singapore. 160\
-  \ pp.\n- Jones Diana S. and Gary J. Morgan, 2002.\n*A Field Guide to Crustaceans\
-  \ of Australian Waters*\n. Reed New Holland. 224 pp.\n"
+links_references: "### Links \n- [Order Isopoda](http://mangrove.nus.edu.sg/pub/seashore/text/177)\nTan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore Science Centre, Singapore. 160 pp.\n- [Warty pill-bug (\n*Sphaeroma terebrans*\n)](http://mangrove.nus.edu.sg/guidebooks/text/2035)\nNg, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science Centre. 168 pp.\n- [Isopods and amphipods](http://www.mesa.edu.au/friends/seashores/isopods_amphipods.html)\non the\n[Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)\nby Keith Davey on the Marine Education Society of Australia website: Fact sheet, diagrams.\n\n### References \n- Niel L. Bruce, Melissa B. Martin, Kerry A. Hadfield & Barbara F. Nowak, Redescription of the fish parasitic \u201Ctongue biter\u201D Cymothoa rhina Schioedte & Meinert, 1884 (Crustacea: Isopoda: Cymothoidae) from Singapore, 29 June 2016, Raffles Bulletin of Zoology Supplement No. 34: 331\u2013342\n- Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.\n*Invertebrate Zoology*\nBrooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times of Labrador Beach.*\nDivision of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.\n- Jones Diana S. and Gary J. Morgan, 2002.\n*A Field Guide to Crustaceans of Australian Waters*\n. Reed New Holland. 224 pp.\n"
 size:
 - 1.0
 authors:
@@ -68,6 +53,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Isopoda
 ---
 
 ## Where seen?

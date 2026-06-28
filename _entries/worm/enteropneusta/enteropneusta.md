@@ -1,8 +1,7 @@
 ---
 title: 'Acorn worms '
 description: Fact sheet of Acorn worms  on the shores of Singapore
-keywords: acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo
+keywords: acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
@@ -11,30 +10,26 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Hemichordata
+class: Enteropneusta
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg
 links_references: '### Links
 
 
-  - [Acorn worms](http://mangrove.nus.edu.sg/pub/seashore/text/225.htm)Tan, Leo W.
-  H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
-  The Singapore Science Centre, Singapore. 160 pp.
+  - [Acorn worms](http://mangrove.nus.edu.sg/pub/seashore/text/225.htm)Tan, Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
 
 
-  - [Class Enteropneusta](http://species-identification.org/species.php?species_group=zmns&id=118&menuentry=groepen)in
-  Zooplankton and Micronekton of the North Sea on the Marine Species Identification
-  Portal: Technical fact sheet.
+  - [Class Enteropneusta](http://species-identification.org/species.php?species_group=zmns&id=118&menuentry=groepen)in Zooplankton and Micronekton of the North Sea on the Marine Species Identification Portal: Technical fact sheet.
 
 
   ### References
 
 
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
-  of Thomson Learning Inc., 7th Edition. pp. 963
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
 
 
-  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill
-  Book Co., Singapore. 578 pp.'
+  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill Book Co., Singapore. 578 pp.'
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/worm/enteropneusta/enteropneusta/160508kusjt10.jpg
@@ -97,6 +92,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
+permalink: /entries/Hemichordata/Enteropneusta
 ---
 
 ## Where seen?

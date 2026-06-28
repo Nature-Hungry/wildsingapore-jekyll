@@ -1,8 +1,7 @@
 ---
 title: 'Top shell snails '
 description: Fact sheet of Top shell snails  on the shores of Singapore
-keywords: top, trochidae, gastropod, mollusc, snail, shell, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: top, trochidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Trochidae
 genus: ''
@@ -21,14 +20,11 @@ coverimg: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/maculatus
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/maculatus/050513labg6457m3.jpg
-    caption: The Spotted top shell snail has a large foot with tentacles fringing
-      the body mantle. Labrador, May 05
+    caption: The Spotted top shell snail has a large foot with tentacles fringing the body mantle. Labrador, May 05
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg
-    caption: The Toothed top shell snail also has a large foot with tentacles fringing
-      the body mantle. St. John's Island, Aug 05
+    caption: The Toothed top shell snail also has a large foot with tentacles fringing the body mantle. St. John's Island, Aug 05
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0110m3.jpg
-    caption: Tiny button snails have a long mobile foot and tentacles fringing the
-      body mantle. East Coast, Aug 12
+    caption: Tiny button snails have a long mobile foot and tentacles fringing the body mantle. East Coast, Aug 12
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/maculatus/020628lazcpd0833m3.jpg
     caption: Spotted top shell snail
@@ -56,8 +52,7 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief
-  fact sheet with photos.
+  at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
 
   - [Family Trochidae (Top Shells)](http://seashellsofnsw.org.au/Trochidae/Pages/Trochidae_intro)
 
@@ -65,12 +60,9 @@ links_references: '### Links
 
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
 
-  website by Des Beechey Research Associate, Australian Museum: family introductions
-  with photos of shells and detailed fact sheets for many species.
+  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
 
-  - Family Trochidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Trochidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -129,6 +121,7 @@ zone:
 - marine
 habitats:
 - rocky shore
+permalink: /entries/Mollusca/Gastropoda/Trochida/Trochidae
 ---
 
 ## Where seen?

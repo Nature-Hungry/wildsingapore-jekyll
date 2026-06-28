@@ -1,8 +1,7 @@
 ---
 title: Porcupinefishes
 description: Fact sheet of Porcupinefishes on the shores of Singapore
-keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 11
@@ -26,24 +25,20 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/diodontidae/diodontida
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
-    caption: Freckled porcupinefish (Diodon holacanthus ) Changi, Apr 20 Photo shared
-      by Adib Adris on Singapore Biodiversity Records.
+    caption: Freckled porcupinefish (Diodon holacanthus ) Changi, Apr 20 Photo shared by Adib Adris on Singapore Biodiversity Records.
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/diodontidae/diodontidae/200209cyrjt.jpg
-    caption: Black-blotched porcupinefish (Diodon liturosus ) Cyrene, Feb 20 Photo
-      shared by Jonathan Tan on facebook .
+    caption: Black-blotched porcupinefish (Diodon liturosus ) Cyrene, Feb 20 Photo shared by Jonathan Tan on facebook .
 links_references: '### Links
 
 
-  - [Longspine porcupinefish (
-  *Diodon holacanthus*
+  - [Longspine porcupinefish ( *Diodon holacanthus*
 
   )](https://www.fishbase.se/summary/Diodon-holocanthus.html)
 
   and
 
-  [Black-blotched porcupinefish (
-  *Diodon liturosus*
+  [Black-blotched porcupinefish ( *Diodon liturosus*
 
   )](https://www.fishbase.se/summary/6552)
 
@@ -83,6 +78,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Tetraodontoidei/Diodontidae
 ---
 
 ## Where seen?

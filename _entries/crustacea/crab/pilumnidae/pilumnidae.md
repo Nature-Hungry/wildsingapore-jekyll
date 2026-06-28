@@ -1,9 +1,7 @@
 ---
 title: 'Piluminid crabs '
 description: Fact sheet of Piluminid crabs  on the shores of Singapore
-keywords: pilumnid, crab, crustacea, pilumnus, pilumnidae, decapod, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: pilumnid, crab, crustacea, pilumnus, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pilumnidae
 genus: ''
@@ -37,31 +35,7 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG
     caption: Feather star crab
-links_references: "### Links
-\n- [Hairy Crab (\n*Pilumnus vespertilio*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/211)\n\
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
-  . The Singapore Science Centre, Singapore. 160 pp.\n\n### References
-\n- Tan Heok\
-  \ Hui. 16 May 2014.\n*Horned crinoid crab in the Singapore Straits, Ceratocarcinus\
-  \ longimanus*\n. Singapore Biodiversity Records 2014: 132.\n- Lee BY & Ng NK (2012)\n\
-  *New record of the mangrove crab, Heteropilumnus sasekumari (Serene, 1971) (Crustacea:\
-  \ Brachyura: Pilumnidae) from Singapore*\n. Nature in Singapore, 5: 57\u201359.\n\
-  - Tan HH (2012)\n*A recent Singapore record of the crinoid crab, Harrovia longipes\
-  \ Lanchester (Crustacea: Brachyura: Pilumnidae)*\n. Nature in Singapore, 5: 237\u2013\
-  240\n- Jose Christopher E. Mendoza, Peter K. L. Ng.\n*[Leelumnus radium,](https://mapress.com/j/zt/article/view/10850)*\n\
-  [a new genus and species of pilumnid crab from marine encrusting communities in\
-  \ Singapore (Crustacea: Decapoda: Brachyura: Pilumnidae)](https://mapress.com/j/zt/article/view/10850)\n\
-  . 5 Apr. 2011. Zootaxa Vol 2809, No 1.\n- Chou, L. M., 1998.\n*A Guide to the Coral\
-  \ Reef Life of Singapore*\n. Singapore Science Centre. 128 pages.\n- Lim, S., P.\
-  \ Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times of Labrador\
-  \ Beach.*\nDivision of Biology, School of Science, Nanyang Technological University\
-  \ & Department of Zoology, the National University of Singapore. 160 pp.\n- Davison,\
-  \ G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.\n*The Singapore Red Data Book:\
-  \ Threatened plants and animals of Singapore*\n. Nature Society (Singapore). 285\
-  \ pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n\
-  . National Council on the Environment. 163pp.\n- Jones Diana S. and Gary J. Morgan,\
-  \ 2002.\n*A Field Guide to Crustaceans of Australian Waters*\n. Reed New Holland.\
-  \ 224 pp.\n"
+links_references: "### Links \n- [Hairy Crab (\n*Pilumnus vespertilio*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/211)\nTan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore Science Centre, Singapore. 160 pp.\n\n### References \n- Tan Heok Hui. 16 May 2014.\n*Horned crinoid crab in the Singapore Straits, Ceratocarcinus longimanus*\n. Singapore Biodiversity Records 2014: 132.\n- Lee BY & Ng NK (2012)\n*New record of the mangrove crab, Heteropilumnus sasekumari (Serene, 1971) (Crustacea: Brachyura: Pilumnidae) from Singapore*\n. Nature in Singapore, 5: 57\u201359.\n- Tan HH (2012)\n*A recent Singapore record of the crinoid crab, Harrovia longipes Lanchester (Crustacea: Brachyura: Pilumnidae)*\n. Nature in Singapore, 5: 237\u2013240\n- Jose Christopher E. Mendoza, Peter K. L. Ng.\n*[Leelumnus radium,](https://mapress.com/j/zt/article/view/10850)*\n[a new genus and species of pilumnid crab from marine encrusting communities in Singapore (Crustacea: Decapoda: Brachyura: Pilumnidae)](https://mapress.com/j/zt/article/view/10850)\n. 5 Apr. 2011. Zootaxa Vol 2809, No 1.\n- Chou, L. M., 1998.\n*A Guide to the Coral Reef Life of Singapore*\n. Singapore Science Centre. 128 pages.\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times of Labrador Beach.*\nDivision of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.\n- Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.\n*The Singapore Red Data Book: Threatened plants and animals of Singapore*\n. Nature Society (Singapore). 285 pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n- Jones Diana S. and Gary J. Morgan, 2002.\n*A Field Guide to Crustaceans of Australian Waters*\n. Reed New Holland. 224 pp.\n"
 location:
 - cj
 - skd
@@ -92,6 +66,7 @@ zone:
 habitats:
 - coral rubble
 - coral reef
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Pilumnidae
 ---
 
 ## Where seen?

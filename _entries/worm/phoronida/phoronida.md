@@ -1,40 +1,31 @@
 ---
 title: Cerianthid phoronid worm
 description: Fact sheet of Cerianthid phoronid worm on the shores of Singapore
-keywords: ceriantharia, cerianthid, phoronid, worm, phoronis, australis, phoronida,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: ceriantharia, cerianthid, phoronid, worm, phoronis, australis, phoronida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: ''
+family: Phoronidae
 genus: ''
-species: Phoronis
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Phoronida
 updated: Oct 2019
 coverimg: https://images.naturehungry.sg/worm/phoronida/phoronida/030630chgd0017m3.jpg
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/photos/bullet2.gif
-    caption: if you learn only 3 things about them ... They are often seen near cerianthids.
-      They are shy and hide at the slightest sign of danger. Be quiet and wait for
-      them to emerge. They look like fanworms but belong to a different animal group.
-      Their tubes are made of chitin, the same substance that insect exoskeleton is
-      made of.
+    caption: if you learn only 3 things about them ... They are often seen near cerianthids. They are shy and hide at the slightest sign of danger. Be quiet and wait for them to emerge. They look like fanworms but belong to a different animal group. Their tubes are made of chitin, the same substance that insect exoskeleton is made of.
   - url: https://images.naturehungry.sg/photos/bullet2.gif
-    caption: They are often seen near cerianthids. They are shy and hide at the slightest
-      sign of danger. Be quiet and wait for them to emerge. They look like fanworms
-      but belong to a different animal group. Their tubes are made of chitin, the
-      same substance that insect exoskeleton is made of.
+    caption: They are often seen near cerianthids. They are shy and hide at the slightest sign of danger. Be quiet and wait for them to emerge. They look like fanworms but belong to a different animal group. Their tubes are made of chitin, the same substance that insect exoskeleton is made of.
   gallery2:
   - url: https://images.naturehungry.sg/worm/phoronida/phoronida/030630chgd0017m3.jpg
     caption: Changi, Jun 03
   - url: https://images.naturehungry.sg/worm/phoronida/phoronida/050823chgg2313m3c.jpg
     caption: Are the white stuff eggs? Changi, Aug 05
   - url: https://images.naturehungry.sg/worm/phoronida/phoronida/050823chgg2313m3.jpg
-    caption: The anus is at the top of the body in between the two 'fans'. Changi,
-      Aug 05
+    caption: The anus is at the top of the body in between the two 'fans'. Changi, Aug 05
   gallery3:
   - url: https://images.naturehungry.sg/worm/phoronida/phoronida/150319tusmn.jpg
     caption: Tuas, Mar 15 Photo shared by Marcus Ng on facebook .
@@ -100,6 +91,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Phoronida/Phoronidae
 ---
 
 ## Where seen?

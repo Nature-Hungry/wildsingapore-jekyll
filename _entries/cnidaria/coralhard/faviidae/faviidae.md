@@ -1,9 +1,7 @@
 ---
 title: 'Favid hard corals '
 description: Fact sheet of Favid hard corals  on the shores of Singapore
-keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Faviidae
 genus: ''
@@ -30,13 +28,11 @@ links_references: '### Links
 
   - [Family Faviidae](http://species-identification.org/species.php?species_group=corals&id=48&menuentry=groepen)
 
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
-  Technical fact sheet.
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
 
   - [Family Faviidae](http://www.iucnredlist.org/apps/redlist/search)
 
-  (enter Faviidae or species in search bar) on the IUCN Red List of Threatened Species
-  website: Technical fact sheet.
+  (enter Faviidae or species in search bar) on the IUCN Red List of Threatened Species website: Technical fact sheet.
 
 
   ### References
@@ -44,8 +40,7 @@ links_references: '### Links
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
-  records*
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -79,6 +74,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Faviidae
 ---
 
 ## Where seen?

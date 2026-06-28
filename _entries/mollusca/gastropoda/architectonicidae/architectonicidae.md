@@ -1,9 +1,7 @@
 ---
 title: 'Sundial snails '
 description: Fact sheet of Sundial snails  on the shores of Singapore
-keywords: sundial, architectonicidae, gastropod, mollusc, snail, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: sundial, architectonicidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Architectonicidae
 genus: ''
@@ -21,11 +19,9 @@ coverimg: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/p
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
-    caption: Laying egg string. St. John's Island, May 09 Photo shared by Loh Kok
-      Sheng on his blog .
+    caption: Laying egg string. St. John's Island, May 09 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
-    caption: Laying egg string. Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong
-      on flickr .
+    caption: Laying egg string. Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
     caption: St John's Island, Feb 13
   gallery2:
@@ -40,12 +36,9 @@ links_references: '### Links
 
   - [Family Architectonicidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Architectonicidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
 
-  - Family Architectonicidae in the Gastropods section by J.M. Poutiers in the FAO
-  Species Identification Guide for Fishery Purposes: The Living Marine Resources of
-  the Western Central Pacific
+  - Family Architectonicidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -87,8 +80,7 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-  of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
 
   Sea Challengers. 314pp.
 
@@ -102,6 +94,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Mollusca/Gastropoda/Architectonicidae
 ---
 
 ## Where seen?

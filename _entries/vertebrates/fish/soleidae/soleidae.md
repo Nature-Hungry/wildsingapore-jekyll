@@ -1,9 +1,7 @@
 ---
 title: Soles
 description: Fact sheet of Soles on the shores of Singapore
-keywords: flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Soleidae
 genus: ''
@@ -30,13 +28,11 @@ galleries:
     caption: Eating a worm!
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/130911sismn.jpg
-    caption: Pelagic juvenile sole. Sisters Island, Sep 13 Photo shared by Marcus
-      Ng on flickr .
+    caption: Pelagic juvenile sole. Sisters Island, Sep 13 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/soleidae/110505tmnbd0602.jpg
     caption: Unidentified juvenile sole. Tanah Merah, May 11
   - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/140501kusmn.jpg
-    caption: Unidentified juvenile sole. Kusu Island, May 14 Photo shared by Marcus
-      Ng on flickr .
+    caption: Unidentified juvenile sole. Kusu Island, May 14 Photo shared by Marcus Ng on flickr .
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg
     caption: Ovate sole
@@ -140,8 +136,7 @@ links_references: '### Links
 
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   - [How to avoid being eaten by a shark](http://wildshores.blogspot.com/2008/09/how-to-avoid-being-eaten-by-shark.html)
 
@@ -196,6 +191,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Soleidae
 ---
 
 ## Where seen?

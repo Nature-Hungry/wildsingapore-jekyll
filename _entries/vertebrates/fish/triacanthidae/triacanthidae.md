@@ -1,8 +1,7 @@
 ---
 title: Tripodfishes
 description: Fact sheet of Tripodfishes on the shores of Singapore
-keywords: tripodfish, tripod, fish, triacanthidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: tripodfish, tripod, fish, triacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -34,8 +33,7 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/triacanthidae/triacanthidae/050622cftg8073m6l.jpg
     caption: Disappears when seen from above! Changi, Jun 05
   - url: https://images.naturehungry.sg/vertebrates/fish/triacanthidae/triacanthidae/050818cftg1406m3.jpg
-    caption: About 2cm long, this juvenile has flaps on its pointed fins. Changi,
-      Aug 05 .
+    caption: About 2cm long, this juvenile has flaps on its pointed fins. Changi, Aug 05 .
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/triacanthidae/triacanthidae/201019cnyrk9.jpg
     caption: Coney Island, Oct 20 Shared by Richard Kuah on facebook .
@@ -67,8 +65,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Longtail Tripodfish (
-  *Tripodichthys blochii*
+  - [Longtail Tripodfish ( *Tripodichthys blochii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/391)
 
@@ -78,8 +75,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Tripodfish (
-  *Triacanthus*
+  - [Tripodfish ( *Triacanthus*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/238)
 
@@ -129,8 +125,7 @@ links_references: '### Links
 
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
 
   ### References
@@ -175,6 +170,7 @@ zone:
 habitats:
 - mangrove
 - seagrass meadow
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Triacanthodoidei/Triacanthidae
 ---
 
 ## Where seen?

@@ -1,8 +1,7 @@
 ---
 title: Needlefishes
 description: Fact sheet of Needlefishes on the shores of Singapore
-keywords: needlefish, needle, fish, belonidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info
+keywords: needlefish, needle, fish, belonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 attributes:
 - 9
@@ -41,8 +40,7 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/belonidae/belonidae/260218meky1.jpg
     caption: ''
   - url: https://images.naturehungry.sg/vertebrates/fish/belonidae/belonidae/260218meky1a.jpg
-    caption: Dead fish. Marina East, Feb 26 Photo shared by Kelvin Yong on facebook
-      .
+    caption: Dead fish. Marina East, Feb 26 Photo shared by Kelvin Yong on facebook .
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/belonidae/belonidae/150829lazlks.JPG
     caption: Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on flickr .
@@ -56,15 +54,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Spot-tail Needlefish (
-  *Strongylura strongylura*
+  - [Spot-tail Needlefish ( *Strongylura strongylura*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/242)
 
   and
 
-  [Banded/Slender Needlefish (
-  *Strongylura leiura*
+  [Banded/Slender Needlefish ( *Strongylura leiura*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/243)
 
@@ -74,8 +70,7 @@ links_references: '### Links
 
   . Singapore Science Centre.
 
-  - [Spot-tail needlefish (
-  *Strongylura strongylura*
+  - [Spot-tail needlefish ( *Strongylura strongylura*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2104)
 
@@ -133,8 +128,7 @@ links_references: '### Links
 
   - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
 
   ### References
@@ -193,6 +187,7 @@ zone:
 habitats:
 - mangrove
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Beloniformes/Belonidae
 ---
 
 ## Where seen?

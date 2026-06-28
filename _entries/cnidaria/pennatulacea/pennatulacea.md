@@ -1,36 +1,36 @@
 ---
 title: 'Sea pens '
 description: Fact sheet of Sea pens  on the shores of Singapore
-keywords: pen, seapen, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: pen, seapen, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Vertillidae
 genus: ''
 species: ''
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
+superfamily: Pennatuloidea
 attributes: []
 updated: Sep 2019
 coverimg: https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg
-    caption: The orange foot is visible in this Spiky sea fan that washed ashore.
-      Chek Jawa, Jul 05
+    caption: The orange foot is visible in this Spiky sea fan that washed ashore. Chek Jawa, Jul 05
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg
-    caption: Half dead sea pencil washed ashore, showing the stick-like skeleton in
-      the centre. Changi, May 06
+    caption: Half dead sea pencil washed ashore, showing the stick-like skeleton in the centre. Changi, May 06
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3c.jpg
     caption: Expanded and retracted polyps of a Flowery sea pen. Changi, May 05
   gallery3:
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/050726chgg0426m3.jpg
-    caption: Tiny porcelain crabs are often seen in pairs in a sea pen. Changi, Jul
-      05
+    caption: Tiny porcelain crabs are often seen in pairs in a sea pen. Changi, Jul 05
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg
-    caption: A nudibranch that eats sea pens is lurking near this one. Changi, Aug
-      19 Photo shared by Loh Kok Sheng on facebook .
+    caption: A nudibranch that eats sea pens is lurking near this one. Changi, Aug 19 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg
-    caption: Commensal shrimp on a sea pen. All that can often be seen are a pair
-      of eyes! Changi, May 05
+    caption: Commensal shrimp on a sea pen. All that can often be seen are a pair of eyes! Changi, May 05
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3.jpg
     caption: Flowery sea pen Family Veretillidae
@@ -68,13 +68,11 @@ links_references: '### Links
 
   - [Introduction to Pennatulacea](http://www.ucmp.berkeley.edu/cnidaria/pennatulacea.html)
 
-  on the Museum of Paleontology, University of California, Berkeley website: a brief
-  introduction with some photos.
+  on the Museum of Paleontology, University of California, Berkeley website: a brief introduction with some photos.
 
   - [Sea Pens](http://www.lanecc.edu/science/zonation/seapen)
 
-  on the Lane Community College website: short fact sheet on sea pens with lots of
-  photos.
+  on the Lane Community College website: short fact sheet on sea pens with lots of photos.
 
 
   ### References
@@ -114,6 +112,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+permalink: /entries/Cnidaria/Anthozoa/Scleralcyonacea/Vertillidae
 ---
 
 ## Where seen?

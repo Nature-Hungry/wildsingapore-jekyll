@@ -1,8 +1,7 @@
 ---
 title: 'Filefishes '
 description: Fact sheet of Filefishes  on the shores of Singapore
-keywords: filefish, file, fish, leather, jacket, monacanthidae, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: filefish, file, fish, leather, jacket, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Monacanthidae
 genus: ''
@@ -22,8 +21,7 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensi
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg
-    caption: The 'thorn' at the top of the head can be locked into place. There is
-      usually a flap under the body. Beting Bronok, Mar 07
+    caption: The 'thorn' at the top of the head can be locked into place. There is usually a flap under the body. Beting Bronok, Mar 07
   - url: https://images.naturehungry.sg/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg
     caption: Wrapped closely around a sponge. Chek Jawa, May 04
   gallery3:
@@ -128,11 +126,9 @@ links_references: '### Links
 
   : Technical fact sheet on the family, including fact sheets on individual species.
 
-  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles,
-  sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00)
+  - [Volume 6: Bony fishes part 4 (Labridae to Latimeriidae), estuarine crocodiles, sea turtles, sea snakes and marine mammals](http://www.fao.org/docrep/009/y0870e/y0870e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
 
   ### References
@@ -142,8 +138,7 @@ links_references: '### Links
 
   *Scrawled filefish, Aluterus scriptus, in the Singapore Strait*
 
-  . 31 May 2019. Singapore Biodiversity Records 2019: 73 ISSN 2345-7597. National
-  University of Singapore.
+  . 31 May 2019. Singapore Biodiversity Records 2019: 73 ISSN 2345-7597. National University of Singapore.
 
   - Abigayle Ng and Kelvin K. P. Lim . 7 February 2014.
 
@@ -213,6 +208,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Balistoidei/Monacanthidae
 ---
 
 ## Where seen?

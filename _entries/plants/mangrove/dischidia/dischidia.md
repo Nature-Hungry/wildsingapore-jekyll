@@ -1,9 +1,7 @@
 ---
 title: Mangrove ant-house plant
 description: Fact sheet of Mangrove ant-house plant on the shores of Singapore
-keywords: ant, house, dischidia, major, apocynaceae, asclepiadoideae, plant, tree,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: ant, house, dischidia, major, apocynaceae, asclepiadoideae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 18
@@ -54,8 +52,7 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
-  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
   ### References
@@ -71,8 +68,7 @@ links_references: '### Links
 
   *Wayside Trees of Malaya: in two volumes*
 
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
-  1-38; volume 2: 477-861 pp., plates 139-236.
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
   - Tomlinson, P. B., 1986.
 
@@ -94,6 +90,7 @@ zone:
 - intertidal
 habitats:
 - mangrove
+permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Gentianales/Apocynaceae/Asclepiadoideae/Dischidia
 ---
 
 ## Where seen?

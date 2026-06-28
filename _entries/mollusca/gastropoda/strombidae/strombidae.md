@@ -1,9 +1,7 @@
 ---
 title: 'Conch snails '
 description: Fact sheet of Conch snails  on the shores of Singapore
-keywords: gong, pearl, spider, conch, strombus, canarium, lambis, lambis, strombidae,
-  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+keywords: gong, pearl, spider, conch, strombus, canarium, lambis, lambis, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Strombidae
 genus: ''
@@ -33,8 +31,7 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg
     caption: Laying fine beige egg string. Tanah Merah, Jul 10
   - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/070704jngg1106m3.jpg
-    caption: A young Spider conch that hasn't developed spines on its shell yet. Pulau
-      Jong, Jul 07
+    caption: A young Spider conch that hasn't developed spines on its shell yet. Pulau Jong, Jul 07
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/140812chg4d8590.jpg
     caption: Harvesting Gong-gong, dragging box behind. Changi, Aug 14
@@ -59,11 +56,9 @@ links_references: '### Links
 
   - [Family Strombidae](http://mangrove.nus.edu.sg/pub/seashore/text/140)
 
-  including the Spider conch (
-  *Lambis lambis*
+  including the Spider conch ( *Lambis lambis*
 
-  ) and the Black-lipped Conch (
-  *Strombus urceus*
+  ) and the Black-lipped Conch ( *Strombus urceus*
 
   ). Tan, Leo W. H. & Ng, Peter K. L., 1988,
 
@@ -73,12 +68,9 @@ links_references: '### Links
 
   - [Family Strombidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Strombidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
 
-  - Family Strombidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Strombidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -106,8 +98,7 @@ links_references: '### Links
 
   - Chim, C. K., M. L. Neo & K. S. Loh, 2009.
 
-  *The status in Singapore of Strombus (Dolomena) marginatus sowerbyorum Visser &
-  Man In''t Veld, 2005 (Mollusca: Gastropoda: Strombidae)*
+  *The status in Singapore of Strombus (Dolomena) marginatus sowerbyorum Visser & Man In''t Veld, 2005 (Mollusca: Gastropoda: Strombidae)*
 
   . Nature in Singapore, 2: 379-384.
 
@@ -149,14 +140,14 @@ location:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - The conch is a lively snail that hops instead of creeping along the surface
-- 'Many of its features are adaptations to this hopping lifestyle: flared shell, large
-  eyes'
+- 'Many of its features are adaptations to this hopping lifestyle: flared shell, large eyes'
 - Many are edible.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
 - marine
+permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Strombidae
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

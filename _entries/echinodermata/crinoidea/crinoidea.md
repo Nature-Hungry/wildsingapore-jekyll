@@ -1,9 +1,7 @@
 ---
 title: Feather stars
 description: Fact sheet of Feather stars on the shores of Singapore
-keywords: feather, star, featherstar, crinoidea, crinoid, echinoderm, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: feather, star, featherstar, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -27,64 +25,46 @@ coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/red/150706srpd7
 links_references: '### Links
 
 
-  - [Class Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)Tan, Leo
-  W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
-  The Singapore Science Centre, Singapore. 160 pp.
+  - [Class Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)Tan, Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
 
 
   ### References
 
 
-  - C. G. Messing & T. S. Tay. 29 June 2016.*Extant Crinoidea (Echinodermata) of Singapore*.
-  The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658.
+  - C. G. Messing & T. S. Tay. 29 June 2016.*Extant Crinoidea (Echinodermata) of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 627-658.
 
 
-  - T. S. Tay & J. K. Y. Low. 29 June 2016.*Crinoid diversity in the subtidal non-coral
-  reef habitats of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No.
-  34 (Part I of II) Pp. 659-665.
+  - T. S. Tay & J. K. Y. Low. 29 June 2016.*Crinoid diversity in the subtidal non-coral reef habitats of Singapore*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 659-665.
 
 
-  - Charles Messing. 16 October 2015.*New record of the featherstar Cenometra bella
-  in Singapore*. Singapore Biodiversity Records 2015: 160
+  - Charles Messing. 16 October 2015.*New record of the featherstar Cenometra bella in Singapore*. Singapore Biodiversity Records 2015: 160
 
 
-  - C. G. Messing & T. S. Tay. 29 June 2016.*Extant Crinoidea (Echinodermata) of Singapore*.
-  [pdf] The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part II of II) Pp.
-  627-658.
+  - C. G. Messing & T. S. Tay. 29 June 2016.*Extant Crinoidea (Echinodermata) of Singapore*. [pdf] The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part II of II) Pp. 627-658.
 
 
-  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
-  Echinoderms of Singapore*. Singapore Science Centre. 187pp.
+  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other Echinoderms of Singapore*. Singapore Science Centre. 187pp.
 
 
-  - Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red Data Book: Threatened Plants
-  and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.
+  - Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.
 
 
-  - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
+  - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*. National Council on the Environment. 163pp.
 
 
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
-  of Thomson Learning Inc., 7th Edition. pp. 963
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
 
 
-  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill
-  Book Co., Singapore. 578 pp.
+  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill Book Co., Singapore. 578 pp.
 
 
-  - Hendler, Gordon, John E. Miller, David L. Pawson and Porter M. Kier, 1995.*Sea
-  Stars, Sea Urchins, and Allies: Echinoderms of Florida and the Caribbean*. Smithsonian
-  Institution Press. 390 pp.
+  - Hendler, Gordon, John E. Miller, David L. Pawson and Porter M. Kier, 1995.*Sea Stars, Sea Urchins, and Allies: Echinoderms of Florida and the Caribbean*. Smithsonian Institution Press. 390 pp.
 
 
-  - Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow
-  water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*. Times
-  Edition, Singapore. 144 pp.
+  - Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*. Times Edition, Singapore. 144 pp.
 
 
-  - Coleman, Neville. undated.*Sea Stars of Australasia and their relatives*. Neville
-  Coleman''s World of Water, Australia. 64pp.'
+  - Coleman, Neville. undated.*Sea Stars of Australasia and their relatives*. Neville Coleman''s World of Water, Australia. 64pp.'
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/echinodermata/crinoidea/red/150706srpd7354.jpg
@@ -147,6 +127,7 @@ zone:
 - marine
 habitats:
 - coral reef
+permalink: /entries/Echinodermata/Crinozoa/Crinoidea/Comatulida/Colobometridae
 ---
 
 ## Where seen?

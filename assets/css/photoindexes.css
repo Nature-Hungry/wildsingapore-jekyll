@@ -41,7 +41,8 @@
     display:flex;
     flex-wrap: wrap;
     width: 100%;
-    gap:2rem;
+    gap:1rem;
+    margin:1rem 0;
 }
 .entry-summary-grid-item{
     width:240px;
@@ -51,6 +52,8 @@
 .entry-summary-grid-item .img-container{
     width:100%;
     aspect-ratio: 1;
+    margin:0;
+    margin-bottom:rem;
 }
 
 .entry-summary-grid img{

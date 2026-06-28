@@ -1,9 +1,7 @@
 ---
 title: Worm snails
 description: Fact sheet of Worm snails on the shores of Singapore
-keywords: worm, vermetid, vermetidae, gastropod, mollusc, snail, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: worm, vermetid, vermetidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Vermetidae
 genus: ''
@@ -31,8 +29,7 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/vermetidae/vermetidae/020617tuscpd0757m3.jpg
     caption: Feeding with mucus strands? Raffles Marina, Jun 02
   - url: https://images.naturehungry.sg/mollusca/gastropoda/vermetidae/vermetidae/120604pgld3575m6la.jpg
-    caption: Often, the shell is covered in encrusting lifeforms and only the shell
-      opening is seen. Punggol, Jun 12
+    caption: Often, the shell is covered in encrusting lifeforms and only the shell opening is seen. Punggol, Jun 12
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/vermetidae/vermetidae/201020prpalks8.jpg
     caption: Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on facebook .
@@ -43,16 +40,13 @@ links_references: '### Links
 
   - [Vermetidae and other ''Worm shells"](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Vermetidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
 
   - [Worms that ain''t.. Vermetid Snails In Marine Aquaria](http://www.reefs.org/library/aquarium_net/0897/0897_8.html)
 
   by Ron Shimek on Aquarium.Net: lots of scientific details about Vermetids.
 
-  - Family Vermitidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Vermitidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -90,14 +84,14 @@ size:
 - 10.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Although they look like worms, they are actually snails! They filter feed at high
-  tide, gathering bits with a 'net'
+- Although they look like worms, they are actually snails! They filter feed at high tide, gathering bits with a 'net'
 - Look for them on large boulders and other hard surfaces.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
 - marine
+permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Vermetidae
 ---
 
 ## Where seen?

@@ -1,8 +1,7 @@
 ---
 title: 'Helmet and Bonnet snails '
 description: Fact sheet of Helmet and Bonnet snails  on the shores of Singapore
-keywords: cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cassidae
 genus: ''
@@ -30,8 +29,7 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg
     caption: Half buried next to a Cake sand dollar. East Coast Park, Jul 15
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
-    caption: The 'burn' marks on the test of this recently dead sea urchin might have
-      been made by a Helmet snail!
+    caption: The 'burn' marks on the test of this recently dead sea urchin might have been made by a Helmet snail!
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
     caption: Changi, May 08
   gallery3:
@@ -46,8 +44,7 @@ links_references: '### Links
 
   - [Family Cassidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cassidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
 
   - [Family Cassidae](http://seashellsofnsw.org.au/Cassidae/Pages/cassidae_intro)
 
@@ -57,9 +54,7 @@ links_references: '### Links
 
   by Des Beechey Research Associate, Australian Museum.
 
-  - Family Cassidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Cassidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -120,6 +115,7 @@ zone:
 - marine
 habitats:
 - sandy shore
+permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Cassidae
 ---
 
 ## Where seen?

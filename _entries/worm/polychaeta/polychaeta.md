@@ -1,8 +1,7 @@
 ---
 title: Bristleworms
 description: Fact sheet of Bristleworms on the shores of Singapore
-keywords: bristle, worm, bristleworm, polychaete, annelid, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: bristle, worm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Sabellidae
 genus: ''
@@ -25,18 +24,14 @@ galleries:
   - url: https://images.naturehungry.sg/worm/polychaeta/reef/040804skdd4129m3b.jpg
     caption: Bristles on the sides of the worm
   - url: https://images.naturehungry.sg/worm/polychaeta/diopatra/040702cjd1447m3.jpg
-    caption: This tiny tubeworm has eyes, tentacles, and feathery appendages on the
-      sides that act as gills. Changi, Jul 04
+    caption: This tiny tubeworm has eyes, tentacles, and feathery appendages on the sides that act as gills. Changi, Jul 04
   gallery3:
   - url: https://images.naturehungry.sg/worm/polychaeta/chloeia/050412tusd2407m3.jpg
-    caption: This fireworm swims actively and has really elaborate bristles. Raffles
-      Marina, Apr 05
+    caption: This fireworm swims actively and has really elaborate bristles. Raffles Marina, Apr 05
   - url: https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/040830hntd5883m3.jpg
-    caption: Fanworms are bristleworms with a delicate fan of feathery tentacles on
-      their heads. Pulau Hantu, Aug 04
+    caption: Fanworms are bristleworms with a delicate fan of feathery tentacles on their heads. Pulau Hantu, Aug 04
   - url: https://images.naturehungry.sg/worm/polychaeta/scaleworm/120511tpld3253m3.jpg
-    caption: Scale worms are tiny and often overlooked. Terumbu Pempang Laut, May
-      12
+    caption: Scale worms are tiny and often overlooked. Terumbu Pempang Laut, May 12
 links_references: '### Links
 
 
@@ -58,8 +53,7 @@ links_references: '### Links
 
   - [A Guide to Singapore Polychaetes](http://rmbr.nus.edu.sg/polychaete/)
 
-  by Lim Yun Ping 1997-2000 on the Raffles Museum of Biodiversity Research website:
-  fact sheets and photos of polychaetes found in Singapore.
+  by Lim Yun Ping 1997-2000 on the Raffles Museum of Biodiversity Research website: fact sheets and photos of polychaetes found in Singapore.
 
   - [Worms](http://www.mesa.edu.au/friends/seashores/worms.html)
 
@@ -67,9 +61,7 @@ links_references: '### Links
 
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
 
-  by Keith Davey on the Marine Education Society of Australia website: an introduction
-  to worms (annelids, sipunculids) with explanations of the major parts of their bodies
-  and their lifestyles. Check out the animation of a
+  by Keith Davey on the Marine Education Society of Australia website: an introduction to worms (annelids, sipunculids) with explanations of the major parts of their bodies and their lifestyles. Check out the animation of a
 
   [predatory annelid worm catching its prey](http://www.mesa.edu.au/friends/seashores/worm_feeds.html)
 
@@ -77,19 +69,15 @@ links_references: '### Links
 
   - [Marine Sedentary Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/sedentary/)
 
-  on the City University of Hong Kong website: about polychaetes and tubeworms, with
-  fact sheets and photos on lots of species.
+  on the City University of Hong Kong website: about polychaetes and tubeworms, with fact sheets and photos on lots of species.
 
   - [Marine Errant Polychaetes in Hong Kong](http://personal.cityu.edu.hk/%7Ebhworm/errant/)
 
-  by P L Chan, 2000 on the City University of Hong Kong website: introduction to polychaetes,
-  description and photos of major families, identification key, glossary, references
-  and links.
+  by P L Chan, 2000 on the City University of Hong Kong website: introduction to polychaetes, description and photos of major families, identification key, glossary, references and links.
 
   - [Bristleworms and their larvae](http://www.microscopy-uk.org.uk/mag/artmar99/polych.html)
 
-  by by Wim van Egmond on the Microscopy UK website: lots of lovely super close look
-  at the fascinating larvae of bristleworms.
+  by by Wim van Egmond on the Microscopy UK website: lots of lovely super close look at the fascinating larvae of bristleworms.
 
 
   ### References
@@ -115,8 +103,7 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-  of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
 
   Sea Challengers. 314pp.
 
@@ -154,6 +141,7 @@ habitats:
 - muddy shore
 - coral rubble
 - coral reef
+permalink: /entries/Annelida/Polychaeta/Sabellida/Sabellidae
 ---
 
 ## Where seen?

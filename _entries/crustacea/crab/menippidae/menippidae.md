@@ -1,9 +1,7 @@
 ---
 title: Stone
 description: Fact sheet of Stone on the shores of Singapore
-keywords: stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Menippidae
 genus: ''
@@ -53,6 +51,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Menippidae
 ---
 
 ## Where seen?

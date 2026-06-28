@@ -1,9 +1,7 @@
 ---
 title: 'Serengan '
 description: Fact sheet of Serengan  on the shores of Singapore
-keywords: serengan, flemingia, strobilifera, fabaceae, plant, tree, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: serengan, flemingia, strobilifera, fabaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 18
@@ -28,17 +26,13 @@ coverimg: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/0
 links_references: '### Links
 
 
-  - [*Flemingia strobilifera*](http://www.hear.org/pier/species/flemingia_strobilifera.htm)on
-  the Pacific Islands Ecosystems at Risk website: fact sheet of this plant which is
-  considered an invasic in the Pacific Islands.
+  - [*Flemingia strobilifera*](http://www.hear.org/pier/species/flemingia_strobilifera.htm)on the Pacific Islands Ecosystems at Risk website: fact sheet of this plant which is considered an invasic in the Pacific Islands.
 
 
   ### References
 
 
-  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.'
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg
@@ -62,6 +56,7 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Fabales/Fabaceae/Faboideae/Flemingia
 ---
 
 ## Where seen?

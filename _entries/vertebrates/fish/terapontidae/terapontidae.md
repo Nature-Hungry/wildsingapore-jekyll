@@ -1,9 +1,7 @@
 ---
 title: Perch
 description: Fact sheet of Perch on the shores of Singapore
-keywords: grunter, perch, fish, teraponidae, theraponidae, therapontidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: grunter, perch, fish, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Terapontidae
 genus: ''
@@ -23,24 +21,11 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/terapontidae/jarbua/11
 links_references: '### Links
 
 
-  - [Crescent perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272),[Banded
-  Perch (*Terapon theraps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273)
-  and [Trumpeter Perch (*Pelates quadrilineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/271)
-  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A Guide to the Common Marine Fishes
-  of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
-  Science Centre. 163 pp.
+  - [Crescent perch (*Terapon jarbua*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/272),[Banded Perch (*Terapon theraps*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273) and [Trumpeter Perch (*Pelates quadrilineatus*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/271) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998. *[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore Science Centre. 163 pp.
 
-  - [Family Terapontidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=299)and
-  [*Helotes sexlineatus*(Six-lined trumpeter)](http://www.fishbase.org/summary/14940)
-  and [*Pelates quadrilineatus*  (Fourlined terapon)](http://www.fishbase.org/summary/7945)
-  and [*Terapon jarbua*(Jarbua terapon)](http://www.fishbase.org/summary/4458) and
-  [*Terapon puta* (Small-scaled terapon)](http://www.fishbase.org/summary/7946) and
-  [*Terapon theraps* (Largescaled terapon)](http://www.fishbase.org/summary/4829)
-  from [FishBase](http://www.fishbase.org/) : Technical fact sheet.
+  - [Family Terapontidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=299)and [*Helotes sexlineatus*(Six-lined trumpeter)](http://www.fishbase.org/summary/14940) and [*Pelates quadrilineatus*  (Fourlined terapon)](http://www.fishbase.org/summary/7945) and [*Terapon jarbua*(Jarbua terapon)](http://www.fishbase.org/summary/4458) and [*Terapon puta* (Small-scaled terapon)](http://www.fishbase.org/summary/7946) and [*Terapon theraps* (Largescaled terapon)](http://www.fishbase.org/summary/4829) from [FishBase](http://www.fishbase.org/) : Technical fact sheet.
 
-  - [Cresent perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua)
-  on the [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
-  on the Australian Museum Online website: factsheets with photos and descriptions
+  - [Cresent perch (*Terapon jarbua*)](http://www.amonline.net.au/fishes/fishfacts/fish/tjarbua) on the [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/) on the Australian Museum Online website: factsheets with photos and descriptions
 
 
   ### References
@@ -74,8 +59,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   '
 location:
@@ -92,6 +76,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Centrarchiformes/Terapontoidei/Terapontidae
 ---
 
 ## Where seen?

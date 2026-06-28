@@ -1,8 +1,7 @@
 ---
 title: Rabbitfishes
 description: Fact sheet of Rabbitfishes on the shores of Singapore
-keywords: rabbitfish, rabbit, fish, siganidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: rabbitfish, rabbit, fish, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Siganidae
 genus: ''
@@ -21,15 +20,12 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatu
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
-    caption: Juveniles often seen among Sargassum. There are two here, can you spot
-      them? Changi, Apr 07
+    caption: Juveniles often seen among Sargassum. There are two here, can you spot them? Changi, Apr 07
   - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
-    caption: 'Spines on the dorsal fin raised: these can inject a painful venom. Chek
-      Jawa, Aug 02'
+    caption: 'Spines on the dorsal fin raised: these can inject a painful venom. Chek Jawa, Aug 02'
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg
-    caption: Rabbitfishes are often seen trapped in fishing nets. Terumbu Semakau,
-      Jun 11
+    caption: Rabbitfishes are often seen trapped in fishing nets. Terumbu Semakau, Jun 11
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg
     caption: White-spotted rabbitfish
@@ -40,15 +36,13 @@ galleries:
 links_references: '### Links
 
 
-  - [White-spotted Rabbitfish (
-  *Siganus canaliculatus*
+  - [White-spotted Rabbitfish ( *Siganus canaliculatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379)
 
   and
 
-  [Double-barred Rabbitfish (
-  *Siganus virgatus*
+  [Double-barred Rabbitfish ( *Siganus virgatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/380)
 
@@ -134,8 +128,7 @@ links_references: '### Links
 
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
 
   ### References
@@ -145,8 +138,7 @@ links_references: '### Links
 
   *Foxface rabbitfish, Siganus vulpinus, in the Singapore Strait*
 
-  . 28 June 2019. Singapore Biodiversity Records 2019: 79 ISSN 2345-7597. National
-  University of Singapore.
+  . 28 June 2019. Singapore Biodiversity Records 2019: 79 ISSN 2345-7597. National University of Singapore.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -210,6 +202,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Siganidae
 ---
 
 ## Where seen?

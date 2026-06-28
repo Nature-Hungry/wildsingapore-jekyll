@@ -1,8 +1,7 @@
 ---
 title: 'Figs '
 description: Fact sheet of Figs  on the shores of Singapore
-keywords: fig, ficus, moraceae, tree, plant, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: fig, ficus, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Moraceae
 genus: Ficus
@@ -40,18 +39,14 @@ zone:
 links_references: '### References
 
 
-  - Ng, Angie et. al. 2005.*A guide to the fabulous figs of Singapore*. Singapore
-  Science Centre.152 pp.
+  - Ng, Angie et. al. 2005.*A guide to the fabulous figs of Singapore*. Singapore Science Centre.152 pp.
 
 
-  - Corners, E. J. H., 1997.*[Wayside Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
-  1-38; volume 2: 477-861 pp., plates 139-236.
+  - Corners, E. J. H., 1997.*[Wayside Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*. Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
 
-  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.'
+  - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*. 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.'
+permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Rosales/Moraceae/Ficus
 ---
 
 ## Where seen?

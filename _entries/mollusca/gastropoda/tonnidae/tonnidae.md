@@ -1,8 +1,7 @@
 ---
 title: Tun shell snails
 description: Fact sheet of Tun shell snails on the shores of Singapore
-keywords: tun, tonnidae, gastropod, mollusc, snail, shell, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: tun, tonnidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 23
@@ -36,11 +35,9 @@ galleries:
     caption: ''
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/120605cjlks.JPG
-    caption: Empty shell. Chek Jawa, Jun 12 Photo shared by Loh Kok Sheng on flickr
-      .
+    caption: Empty shell. Chek Jawa, Jun 12 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/130808cyrlks1m3.jpg
-    caption: Empty shell. Cyrene, Aug 13 Photo shared by Loh Kok Sheng on his blog
-      .
+    caption: Empty shell. Cyrene, Aug 13 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/tonnidae/tonnidae/110804cyrL1070318m3.jpg
     caption: Shell occupied by a hemit crab. Cyrene, Aug 11
 links_references: '### Links
@@ -48,12 +45,9 @@ links_references: '### Links
 
   - [Family Tonnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Tonnidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
 
-  - Family Tonnidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Tonnidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -89,6 +83,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
+permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Tonnidae
 ---
 
 ## Where seen?

@@ -1,9 +1,7 @@
 ---
 title: 'Moon snails '
 description: Fact sheet of Moon snails  on the shores of Singapore
-keywords: moon, snail, shell, naticidae, natica, policines, gastropod, mollusc, sand,
-  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: moon, snail, shell, naticidae, natica, policines, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Naticidae
@@ -22,19 +20,16 @@ coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/11
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
-    caption: The Ball moon snail, like most moon snails, can deflate the huge body
-      and retract completely into the shell. Changi, May 11
+    caption: The Ball moon snail, like most moon snails, can deflate the huge body and retract completely into the shell. Changi, May 11
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
     caption: Siphon (upper left) and tentcles
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/060614ecpd3194m3.jpg
-    caption: Tiny button snails leaping away from a hunting moon snail. East Coast,
-      Jun 06
+    caption: Tiny button snails leaping away from a hunting moon snail. East Coast, Jun 06
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg
     caption: A moon snail with a bivalve enveloped in its foot. Changi, Aug 12
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/101011chgd2129m3c.jpg
-    caption: Clam shell with hole neatly drilled, possibly by a moon snail? Changi,
-      Oct 10
+    caption: Clam shell with hole neatly drilled, possibly by a moon snail? Changi, Oct 10
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/noid/110705chgd5864m3.jpg
     caption: Bivalve escaping a moon snail! Changi, Jul 11
@@ -49,11 +44,9 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/tigrina/080916tusd0464.jpg
     caption: Two snails, mating? or trying to eat the same thing? Tuas, Sep 08
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
-    caption: 'Sand collar: egg mass of a moon snail. more photos of sand collars.
-      Pulau Sekudu, Jul 03'
+    caption: 'Sand collar: egg mass of a moon snail. more photos of sand collars. Pulau Sekudu, Jul 03'
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
-    caption: 'Sand collar: egg mass of a moon snail. more photos of sand collars.
-      Chek Jawa, Nov 04'
+    caption: 'Sand collar: egg mass of a moon snail. more photos of sand collars. Chek Jawa, Nov 04'
   gallery7:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/050511cftg6255m3.jpg
     caption: ''
@@ -114,8 +107,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Moon Snail (
-  *Polinices*
+  - [Moon Snail ( *Polinices*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)
 
@@ -127,13 +119,11 @@ links_references: '### Links
 
   - [Moon snails](http://www.seaslugforum.net/naticid)
 
-  on the Sea Slug Forum by Dr Bill Rudman: brief fact sheet with lovely photo of a
-  colourful moon snail.
+  on the Sea Slug Forum by Dr Bill Rudman: brief fact sheet with lovely photo of a colourful moon snail.
 
   - [Family Naticidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Naticidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet on moon snails with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on moon snails with photos.
 
   - [Family Naticidae (Sand or Moon Snails)](http://seashellsofnsw.org.au/Naticidae/Pages/Naticidae_Intro)
 
@@ -141,12 +131,9 @@ links_references: '### Links
 
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
 
-  website by Des Beechey Research Associate, Australian Museum: family introductions
-  with photos of shells and detailed fact sheets for many species.
+  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
 
-  - Family Naticidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Naticidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -223,8 +210,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - Moon snails usually hunt and rest under the sand
-- Look for trails in the sand! They are fierce predators that hunt other snails and
-  clams
+- Look for trails in the sand! They are fierce predators that hunt other snails and clams
 - The body of a moon snail can inflate to many times the size of its shell.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -233,6 +219,7 @@ zone:
 - marine
 habitats:
 - sandy shore
+permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Naticidae
 ---
 
 ## Where seen?

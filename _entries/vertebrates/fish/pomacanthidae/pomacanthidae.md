@@ -1,8 +1,7 @@
 ---
 title: Angelfishes
 description: Fact sheet of Angelfishes on the shores of Singapore
-keywords: angelfish, angel,  fish, pomacanthidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: angelfish, angel,  fish, pomacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pomacanthidae
 genus: ''
@@ -21,8 +20,7 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/mesoleuc
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
-    caption: Yellowtail or Vermiculated anglefish caught in a fish trap. Kusu Island,
-      Jun 04
+    caption: Yellowtail or Vermiculated anglefish caught in a fish trap. Kusu Island, Jun 04
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
     caption: The juvenile looks very different. Tanah Merah, Apr 11
   gallery2:
@@ -89,8 +87,7 @@ links_references: '### Links
 
   - *Semicircle angelfish (Pomacanthus semicirculatus) off Pulau Hantu,*
 
-  29 November 2019, Toh Chay Hoon, Singapore Biodiversity Records 2019: 147 ISSN 2345-7597,
-  National University of Singapore.
+  29 November 2019, Toh Chay Hoon, Singapore Biodiversity Records 2019: 147 ISSN 2345-7597, National University of Singapore.
 
   - Tan Heok Hui & Kelvin K. P. Lim. 16 Jan 2015.
 
@@ -132,8 +129,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   '
 location:
@@ -144,6 +140,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Pomacanthidae
 ---
 
 ## Where seen?

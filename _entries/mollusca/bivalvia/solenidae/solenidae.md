@@ -1,8 +1,7 @@
 ---
 title: 'Razor clams '
 description: Fact sheet of Razor clams  on the shores of Singapore
-keywords: razor, clam, shell, solenidae, bivalve, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: razor, clam, shell, solenidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Solenidae
 genus: ''
@@ -24,8 +23,7 @@ coverimg: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/0
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
-    caption: Razor clam ( Solen brevisiima ) Foot burrowing in (left) and siphon extended
-      (right). Chek Jawa, Jan 04
+    caption: Razor clam ( Solen brevisiima ) Foot burrowing in (left) and siphon extended (right). Chek Jawa, Jan 04
   - url: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg
     caption: Siphon of a large buried razor clam Changi, Jul 11
   gallery3:
@@ -43,11 +41,9 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief
-  description and photos.
+  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
 
-  - Family Solenidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Solenidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -85,6 +81,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
+permalink: /entries/Mollusca/Bivalvia/Adapedonta/Solenidae
 ---
 
 ## Where seen?

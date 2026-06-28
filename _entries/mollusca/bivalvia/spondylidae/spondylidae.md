@@ -1,9 +1,7 @@
 ---
 title: Thorny oyster
 description: Fact sheet of Thorny oyster on the shores of Singapore
-keywords: thorny, oyster, spondylus, spondylidae, bivalve, mollusc, clam, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: thorny, oyster, spondylus, spondylidae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Spondylidae
 genus: Spondylus
@@ -31,17 +29,13 @@ galleries:
     caption: Mantle revealed in this submerged clam. Tanah Merah, Dec 10
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/spondylidae/spondylidae/210502tptvc10.jpg
-    caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook
-      .
+    caption: Terumbu Pempang Tengah, May 21 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/spondylidae/spondylidae/210629bbbvc6.jpg
-    caption: Beting Bemban Besar, Jun 21 Photo shared by Vincent Choo on facebook
-      .
+    caption: Beting Bemban Besar, Jun 21 Photo shared by Vincent Choo on facebook .
 links_references: '### Links
 
 
-  - Family Spondylidae in the Bivalves section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Spondylidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -86,6 +80,7 @@ zone:
 - marine
 habitats:
 - coral reef
+permalink: /entries/Mollusca/Bivalvia/Pectinida/Spondylidae/Spondylinae/Spondylus
 ---
 
 ## Where seen?

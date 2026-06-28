@@ -1,9 +1,7 @@
 ---
 title: Belongkeng or Mangrove ear snails
 description: Fact sheet of Belongkeng or Mangrove ear snails on the shores of Singapore
-keywords: belongkeng, snail, ellobiidae, melampidae, gastropod, mollusc, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: belongkeng, snail, ellobiidae, melampidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ellobiidae
 genus: ''
@@ -27,8 +25,7 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg
     caption: Two different kinds of Belongkeng snails Pasir Ris, Jun 10
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
-    caption: Sometimes seen in small groups on mangrove tree trunks. Sungei Buloh
-      Besar, Apr 11
+    caption: Sometimes seen in small groups on mangrove tree trunks. Sungei Buloh Besar, Apr 11
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
     caption: Banded mangrove ear snail
@@ -58,16 +55,13 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Mangrove land snail (
-  *Ellobium aurismidae*
+  - [Mangrove land snail ( *Ellobium aurismidae*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=208)
 
   on the NParks Flora and Fauna website.
 
-  - Family Ellobiidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Ellobiidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -142,6 +136,7 @@ zone:
 - marine
 habitats:
 - mangrove
+permalink: /entries/Mollusca/Gastropoda/Ellobiida/Ellobiidae
 ---
 
 ## Where seen?

@@ -1,9 +1,7 @@
 ---
 title: True cockles
 description: Fact sheet of True cockles on the shores of Singapore
-keywords: true, cockle, shell, clam, cardiidae bivalve, mollusc, clam, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: true, cockle, shell, clam, cardiidae bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cardiidae
 genus: ''
@@ -44,11 +42,9 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief
-  description and photos.
+  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
 
-  - Family Cardiidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Cardiidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -108,6 +104,7 @@ zone:
 habitats:
 - sandy shore
 - muddy shore
+permalink: /entries/Mollusca/Bivalvia/Cardiida/Cardiidae
 ---
 
 ## Where seen?

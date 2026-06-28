@@ -1,9 +1,7 @@
 ---
 title: 'Periwinkles '
 description: Fact sheet of Periwinkles  on the shores of Singapore
-keywords: periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Littorinidae
 genus: ''
@@ -24,8 +22,7 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
     caption: Several kinds of periwinkles may be found together. Chek Jawa, Aug 05
   - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
-    caption: Like other snails, they have a broad foot and tentacles . Chek Jawa,
-      May 05
+    caption: Like other snails, they have a broad foot and tentacles . Chek Jawa, May 05
   - url: https://images.naturehungry.sg/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg
     caption: A thin operculum. Labrador, May 05
   gallery3:
@@ -48,8 +45,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Mangrove periwinkle (
-  *Littoraria*
+  - [Mangrove periwinkle ( *Littoraria*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080)
 
@@ -69,8 +65,7 @@ links_references: '### Links
 
   - [Family Littorinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Littorinidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet on periwinkles with photos
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on periwinkles with photos
 
   - [Periwinkles, Conniwinks and Clusterwinks (Littorinids)](http://www.mesa.edu.au/friends/seashores/littorinids.html)
 
@@ -78,12 +73,9 @@ links_references: '### Links
 
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
 
-  by Keith Davey on the Marine Education Society of Australia website: Fact sheet
-  on these shells and details on various species found in Australia.
+  by Keith Davey on the Marine Education Society of Australia website: Fact sheet on these shells and details on various species found in Australia.
 
-  - Family Littorinidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Littorinidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -91,8 +83,7 @@ links_references: '### Links
 
   - [How does a periwinkle survive out of water if it has gills?](http://www.madsci.org/posts/archives/aug97/872032656.Zo.r.html)
 
-  on the Mad Scientist Network website: a lovely answer that explains how gills and
-  lungs work.
+  on the Mad Scientist Network website: a lovely answer that explains how gills and lungs work.
 
   - *[Littoraria articulata](https://singapore.biodiversity.online/taxo4254/mainSpace/Littoraria%20articulata.html)*
 
@@ -116,8 +107,7 @@ links_references: '### Links
 
   - Su-Li Lee and Shirley S. L. Lim. 31 August 2009.
 
-  *Vertical zonation and heat tolerance of three littorinid gastropods on a rocky
-  shore at Tanjung Chek Jawa, Singapore*
+  *Vertical zonation and heat tolerance of three littorinid gastropods on a rocky shore at Tanjung Chek Jawa, Singapore*
 
   . The Raffles Bulletin Of Zoology, 57 (2), 551-560.
 
@@ -131,8 +121,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
 
-  Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -180,6 +169,7 @@ zone:
 - marine
 habitats:
 - mangrove
+permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Littorinidae
 ---
 
 ## Where seen?

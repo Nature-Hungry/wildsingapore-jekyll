@@ -1,9 +1,7 @@
 ---
 title: 'Spider crabs '
 description: Fact sheet of Spider crabs  on the shores of Singapore
-keywords: spider, crab, spider crab, majidae, majoidea, decapod, crustacea, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info,  photo
+keywords: spider, crab, spider crab, majidae, majoidea, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo
 layout: entry
 family: Majidae
 genus: ''
@@ -67,8 +65,7 @@ links_references: '### Links
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
-  of the world*
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
 
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
 
@@ -76,8 +73,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
 
-  Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -105,8 +101,7 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-  of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
 
   Sea Challengers. 314pp.
 
@@ -128,6 +123,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Majidae
 ---
 
 ## Where seen?

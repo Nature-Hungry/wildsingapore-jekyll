@@ -12,6 +12,7 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Nemertea
 updated: Jan 2020
 coverimg: https://images.naturehungry.sg/worm/nemertea/redreef/060212sisg4839m3.jpg
 galleries:

@@ -1,9 +1,7 @@
 ---
 title: 'Euphyllid corals '
 description: Fact sheet of Euphyllid corals  on the shores of Singapore
-keywords: euphyllia, euphyllidae, caryophyliidae, coral, hard, scleractinia, cnidaria,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: euphyllia, euphyllidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Euphylliidae
 genus: ''
@@ -44,8 +42,7 @@ links_references: '### Links
 
   - [Family Euphylliidae](http://species-identification.org/species.php?species_group=corals&id=43&menuentry=groepen)
 
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
-  Technical fact sheet.
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
 
 
   ### References
@@ -53,8 +50,7 @@ links_references: '### Links
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
-  records*
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -105,6 +101,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Euphylliidae
 ---
 
 ## Where seen?

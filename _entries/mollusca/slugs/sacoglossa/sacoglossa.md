@@ -1,9 +1,7 @@
 ---
 title: Sap-sucking slugs
 description: Fact sheet of Sap-sucking slugs on the shores of Singapore
-keywords: slug, seaslug, sap, sucking, sacoglossan, opisthobranch, gastropod, mollusc,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: slug, seaslug, sap, sucking, sacoglossan, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Caliphyllidae
 genus: ''
@@ -33,12 +31,10 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg
     caption: Halimeda slugs resemble the seaweed that they eat! Labrador Mar 05
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
-    caption: Bryopsis slugs are ometimes seen in large numbers on the seaweed that
-      they eat. Sisters Island, May 12
+    caption: Bryopsis slugs are ometimes seen in large numbers on the seaweed that they eat. Sisters Island, May 12
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/volvatella/120620sntd5712m3.jpg
-    caption: Smaller 'male' Volvatella slug with a larger hermaphrodite slug. Sentosa,
-      Jun 12
+    caption: Smaller 'male' Volvatella slug with a larger hermaphrodite slug. Sentosa, Jun 12
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/ornata/050529sjig7206m3.jpg
     caption: Mating Ornate leaf slugs . St. John's Island, May 05
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg
@@ -67,42 +63,13 @@ galleries:
   gallery7:
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg
     caption: Singapore bivalve slug
-links_references: "### Links
-\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
-  by Dr Bill Rudman:\n[solar powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow)\n\
-  : about how some slugs retain the chloroplasts from their food. Including a description\
-  \ of\n[how a slug sucked out](http://www.seaslugforum.net/display.cfm?id=12583)\n\
-  contents of algae.\n- [How does the solar-powered slug work?](http://wildshores.blogspot.com/2008/11/how-does-solar-powered-slug-work.html)\n\
-  on the wild shores of singapore blog.\n- [Solar-Powered Slugs Are Not Solar-Powered](http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/)\n\
-  by Ed Yong, Not Exactly Rocket Science 20 Nov 2013 on the National Geographic website.\n\
-  \n### References
-\n- Toh Chay Hoon. 29 April 2016. New Singapore record of sea slug\n\
-  *Placida cremoniana*\n. Singapore Biodiversity Records 2016: 58\n- K. R. Jensen.\
-  \ Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore.\
-  \ 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International\
-  \ Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.\n\
-  - Kathe R. Jensen. 30 Dec 2009. Sacoglossa (Mollusca: Gastropoda: Opisthobranchia)\
-  \ from Singapore. The Raffles Bulletin of Zoology, Supplement 22: 207-223.\n- Cornelis\
-  \ (Kees) Swennen. Large Mangrove-dwelling\n*Elysia*\nspecies in Asia, with descriptions\
-  \ of two new species (Gastropoda: Opistobranchia: Sacoglossa). 28 Feb 2011. The\
-  \ Raffles Bulletin of Zoology 2011 59(1): 29\u201337\n- Tan Siong Kiat and Henrietta\
-  \ P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf),\
-  \ Raffles Museum of Biodiversity Research, National University of Singapore.\n-\
-  \ Debelius, Helmut, 2001.\n*Nudibranchs and Sea Snails: Indo-Pacific Field Guide*\n\
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.\n- Wells, Fred E. and Clayton W. Bryce.\
-  \ 2000.\n*Slugs of Western Australia: A guide to the species from the Indian to\
-  \ West Pacific Oceans*\n. Western Australian Museum. 184 pp.\n- Coleman, Neville.\
-  \ 2001.\n*1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*\n. Neville Coleman's\
-  \ Underwater Geographic Pty Ltd, Australia.144pp.\n- Humann, Paul and Ned Deloach.\
-  \ 2010.\n*Reef Creature Identification: Tropical Pacific*\nNew World Publications.\
-  \ 497pp.\n- Kuiter, Rudie H and Helmut Debelius. 2009.\n*World Atlas of Marine Fauna*\n\
-  . IKAN-Unterwasserachiv. 723pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First\
-  \ Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n"
+links_references: "### Links \n- [The Sea Slug Forum](http://www.seaslugforum.net/)\nby Dr Bill Rudman:\n[solar powered slugs](http://www.seaslugforum.net/factsheet.cfm?base=solarpow)\n: about how some slugs retain the chloroplasts from their food. Including a description of\n[how a slug sucked out](http://www.seaslugforum.net/display.cfm?id=12583)\ncontents of algae.\n- [How does the solar-powered slug work?](http://wildshores.blogspot.com/2008/11/how-does-solar-powered-slug-work.html)\non the wild shores of singapore blog.\n- [Solar-Powered Slugs Are Not Solar-Powered](http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-are-not-solar-powered/)\nby Ed Yong, Not Exactly Rocket Science 20 Nov 2013 on the National Geographic website.\n\n### References \n- Toh Chay Hoon. 29 April 2016. New Singapore record of sea slug\n*Placida cremoniana*\n. Singapore Biodiversity Records 2016: 58\n- K. R. Jensen. Sacoglossa (Mollusca: Gastropoda: Heterobranchia) from northern coasts of Singapore. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 226-249.\n- Kathe R. Jensen. 30 Dec 2009. Sacoglossa (Mollusca: Gastropoda: Opisthobranchia) from Singapore. The Raffles Bulletin of Zoology, Supplement 22: 207-223.\n- Cornelis (Kees) Swennen. Large Mangrove-dwelling\n*Elysia*\nspecies in Asia, with descriptions of two new species (Gastropoda: Opistobranchia: Sacoglossa). 28 Feb 2011. The Raffles Bulletin of Zoology 2011 59(1): 29\u201337\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.\n- Debelius, Helmut, 2001.\n*Nudibranchs and Sea Snails: Indo-Pacific Field Guide*\nIKAN-Unterwasserachiv, Frankfurt. 321 pp.\n- Wells, Fred E. and Clayton W. Bryce. 2000.\n*Slugs of Western Australia: A guide to the species from the Indian to West Pacific Oceans*\n. Western Australian Museum. 184 pp.\n- Coleman, Neville. 2001.\n*1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*\n. Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.\n- Humann, Paul and Ned Deloach. 2010.\n*Reef Creature Identification: Tropical Pacific*\nNew World Publications. 497pp.\n- Kuiter, Rudie H and Helmut Debelius. 2009.\n*World Atlas of Marine Fauna*\n. IKAN-Unterwasserachiv. 723pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n"
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
 - marine
+permalink: /entries/Mollusca/Gastropoda/Caliphyllidae
 ---
 
 ## Where seen?

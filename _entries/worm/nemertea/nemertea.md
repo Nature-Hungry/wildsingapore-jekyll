@@ -1,9 +1,7 @@
 ---
 title: Ribbon worms
 description: Fact sheet of Ribbon worms on the shores of Singapore
-keywords: ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Geonemertidae
 genus: Phylum
@@ -45,8 +43,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Mangrove ribbon worm (
-  *Pantinonemertes*
+  - [Mangrove ribbon worm ( *Pantinonemertes*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2003)
 
@@ -78,8 +75,7 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-  of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
 
   Sea Challengers. 314pp.
 
@@ -116,6 +112,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+permalink: /entries/Geonemertidae/Phylum
 ---
 
 ## Where seen?

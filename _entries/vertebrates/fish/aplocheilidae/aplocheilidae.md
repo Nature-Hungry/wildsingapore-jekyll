@@ -1,9 +1,7 @@
 ---
 title: Rivulines
 description: Fact sheet of Rivulines on the shores of Singapore
-keywords: white, spot, tin, head, killifish, killi, aplocheilus, panchax, aplocheilidae,
-  fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: white, spot, tin, head, killifish, killi, aplocheilus, panchax, aplocheilidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -33,8 +31,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Whitespot/Tinhead (
-  *Aplocheilus panchax*
+  - [Whitespot/Tinhead ( *Aplocheilus panchax*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/244)
 
@@ -44,8 +41,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Whitespot (
-  *Aplocheilus panchax*
+  - [Whitespot ( *Aplocheilus panchax*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2104)
 
@@ -59,8 +55,7 @@ links_references: '### Links
 
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
 
-  - [Whitespot (
-  *Aplocheilus panchax*
+  - [Whitespot ( *Aplocheilus panchax*
 
   )](http://www.ecologyasia.com/verts/fishes/whitespot)
 
@@ -70,8 +65,7 @@ links_references: '### Links
 
   (Killifishes) and
 
-  [Blue panchax (
-  *Aplocheilus panchax*
+  [Blue panchax ( *Aplocheilus panchax*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=4756)
 
@@ -91,8 +85,7 @@ links_references: '### Links
 
   - Yeo, D. C. J. & K. K. P. Lim. 25 November 2010.
 
-  *Aplocheilus lineatus, a non-native killifish (Actinopterygii: Cyprinodontiformes:
-  Aplocheilidae) in Singapore*
+  *Aplocheilus lineatus, a non-native killifish (Actinopterygii: Cyprinodontiformes: Aplocheilidae) in Singapore*
 
   . Nature in Singapore, 3: 327-332.
 
@@ -109,6 +102,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Cyprinodontiformes/Aplocheiloidei/Aplocheilidae/Aplocheilus
 ---
 
 **What are Rivulines?**

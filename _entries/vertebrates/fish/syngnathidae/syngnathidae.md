@@ -1,8 +1,7 @@
 ---
 title: 'Pipefishes '
 description: Fact sheet of Pipefishes  on the shores of Singapore
-keywords: pipefish, pipe, fish, horse, seahorse, syngnathidae, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: pipefish, pipe, fish, horse, seahorse, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Syngnathidae
 genus: ''
@@ -22,13 +21,11 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/0908
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
-    caption: Often seen in a pair. Flexible tail used to hang onto objects. Tanah
-      Merah, Aug 09
+    caption: Often seen in a pair. Flexible tail used to hang onto objects. Tanah Merah, Aug 09
   - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
     caption: The Alligator pipefish also has a rehensile tail. Cyrene Reef, May 08
   - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
-    caption: Mobile eyes can move while the body remains still. Toothless jaws used
-      like a straw. Changi, Jul 07
+    caption: Mobile eyes can move while the body remains still. Toothless jaws used like a straw. Changi, Jul 07
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
     caption: Very pregnant seahorse papa. Sisters Island, Mar 12
@@ -43,8 +40,7 @@ links_references: '### Links
 
   ,
 
-  [Seahorse (
-  *Hippocampus*
+  [Seahorse ( *Hippocampus*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)
 
@@ -56,15 +52,13 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Blue-speckled Pipefish (
-  *Hippichthys cyanospilus*
+  - [Blue-speckled Pipefish ( *Hippichthys cyanospilus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/250)
 
   ,
 
-  [Spotted Seahorse (
-  *Hippocampus kuda*
+  [Spotted Seahorse ( *Hippocampus kuda*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248)
 
@@ -133,8 +127,7 @@ location:
 - cyr
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- The males look after the eggs! They are globally endangered due to overharvesting
-  for the traditional medicine trade
+- The males look after the eggs! They are globally endangered due to overharvesting for the traditional medicine trade
 - They are hard to spot and can't move fast
 - Watch your step or you might step on one!
 authors:
@@ -144,6 +137,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Syngnathiformes/Syngnathoidei/Syngnathidae
 ---
 
 ## Where seen?

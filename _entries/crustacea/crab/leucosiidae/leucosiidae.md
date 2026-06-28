@@ -1,8 +1,7 @@
 ---
 title: 'Pebble crabs '
 description: Fact sheet of Pebble crabs  on the shores of Singapore
-keywords: pebble, crab, leucosiidae, decapod, crustacea, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: pebble, crab, leucosiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -49,8 +48,7 @@ galleries:
     caption: Chek Jawa, Dec 19 Photo shared by Adrianne Lee on facebook .
   gallery4:
   - url: https://images.naturehungry.sg/crustacea/crab/leucosiidae/leucosiidae/150618tmfthpy1m3.jpg
-    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Heng Pei Yan on facebook
-      .
+    caption: Tanah Merah Ferry Terminal, Jun 15 Photo shared by Heng Pei Yan on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/leucosiidae/leucosiidae/210529ecpblks5.jpg
     caption: East Coast Park, May 21 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/leucosiidae/leucosiidae/251011tgrlks2.jpg
@@ -61,8 +59,7 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/leucosiidae/leucosiidae/090529sjilks.jpg
     caption: St John's Island, May 09 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/crustacea/crab/leucosiidae/leucosiidae/080310smklksm3.jpg
-    caption: Leucosia craniolaris Pulau Semakau, Mar 08 Photo shared by Loh Kok Sheng
-      on his blog
+    caption: Leucosia craniolaris Pulau Semakau, Mar 08 Photo shared by Loh Kok Sheng on his blog
 links_references: '### Links
 
 
@@ -84,8 +81,7 @@ links_references: '### Links
 
   - P. K. L. Ng & H. Komatsu. 29 June 2016.
 
-  *Nursia tohae, a new species of coral rubble mimic crab (Crustacea: Brachyura: Leucosiidae)
-  from the Philippines and Singapore*
+  *Nursia tohae, a new species of coral rubble mimic crab (Crustacea: Brachyura: Leucosiidae) from the Philippines and Singapore*
 
   . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 519-527.
 
@@ -97,8 +93,7 @@ links_references: '### Links
 
   - Chen H.-L and Peter K. L. Ng. 2003.
 
-  *On new species of Leucosiidae (Crustacea: Decapoda: Brachyura) from Singapore and
-  the South China Sea*
+  *On new species of Leucosiidae (Crustacea: Decapoda: Brachyura) from Singapore and the South China Sea*
 
   . The Raffles Bulletin of Zoology. 51 (1): 61-69
 
@@ -135,6 +130,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Leucosiidae
 ---
 
 ## Where seen?

@@ -1,8 +1,7 @@
 ---
 title: Barracudas
 description: Fact sheet of Barracudas on the shores of Singapore
-keywords: barracuda, sphyraenidae, fish, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: barracuda, sphyraenidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -44,32 +43,11 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg
     caption: Pulau Semakau, Apr 08 Photo shared by Marcus Ng on his flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg
-    caption: Pulau Semakau (South), Dec 24 Photo shared by Eugene Tan on facebook
-      .
+    caption: Pulau Semakau (South), Dec 24 Photo shared by Eugene Tan on facebook .
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
     caption: Terumbu Raya, Jul 11 Photo shared by Lok Kok Sheng on his blog .
-links_references: "### Links
-\n- [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352)\n\
-  (\n*Sphyraena jello*\n) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide\
-  \ to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n\
-  . Singapore Science Centre. 163 pp.\n- [Family Sphyraenidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=360)\n\
-  (Barracudas) and\n[*Sphyraena barracuda*\n(Great barracuda)](http://www.fishbase.org/summary/1235)\n\
-  and\n[*Sphyraena jello*\n(Pickhandle barracuda)](http://www.fishbase.org/summary/4827)\n\
-  and\n[*Sphyraena obtusata*\n(Obtuse barracuda)](http://www.fishbase.org/summary/4493)\n\
-  from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet.\n- [Volume 4:\
-  \ Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)\n\
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources\
-  \ of the Western Central Pacific.\n\n### References
-\n- Zeehan Jaafar.\n*Great barracuda\
-  \ at Sisters\u2019 Islands Marine Park*\n. 31 July 2019. Singapore Biodiversity\
-  \ Records 2019: 91-92 ISSN 2345-7597. National University of Singapore.\n- Wee Y.C.\
-  \ and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National\
-  \ Council on the Environment. 163pp.\n- Allen, Gerry, 2000.\n*Marine Fishes of South-East\
-  \ Asia: A Field Guide for Anglers and Divers*\n. Periplus Editions. 292 pp.\n- Kuiter,\
-  \ Rudie H. 2002.\n*Guide to Sea Fishes of Australia: A Comprehensive Reference for\
-  \ Divers & Fishermen*\nNew Holland Publishers. 434pp.\n- Lieske, Ewald and Robert\
-  \ Myers. 2001.\n*Coral Reef Fishes of the World*\nPeriplus Editions. 400pp.\n"
+links_references: "### Links \n- [Pickhandle Barracuda](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/352)\n(\n*Sphyraena jello*\n) Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n. Singapore Science Centre. 163 pp.\n- [Family Sphyraenidae](http://www.fishbase.org/Summary/FamilySummary.php?ID=360)\n(Barracudas) and\n[*Sphyraena barracuda*\n(Great barracuda)](http://www.fishbase.org/summary/1235)\nand\n[*Sphyraena jello*\n(Pickhandle barracuda)](http://www.fishbase.org/summary/4827)\nand\n[*Sphyraena obtusata*\n(Obtuse barracuda)](http://www.fishbase.org/summary/4493)\nfrom\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet.\n- [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)\nFAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.\n\n### References \n- Zeehan Jaafar.\n*Great barracuda at Sisters\u2019 Islands Marine Park*\n. 31 July 2019. Singapore Biodiversity Records 2019: 91-92 ISSN 2345-7597. National University of Singapore.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n- Allen, Gerry, 2000.\n*Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*\n. Periplus Editions. 292 pp.\n- Kuiter, Rudie H. 2002.\n*Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*\nNew Holland Publishers. 434pp.\n- Lieske, Ewald and Robert Myers. 2001.\n*Coral Reef Fishes of the World*\nPeriplus Editions. 400pp.\n"
 location:
 - cj
 - tm
@@ -90,6 +68,7 @@ habitats:
 - mangrove
 - seagrass meadow
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Centropomoidei/Sphyraenidae
 ---
 
 ## Where seen?

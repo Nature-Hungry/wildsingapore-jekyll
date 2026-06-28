@@ -1,29 +1,29 @@
 ---
 title: Spoon worms
 description: Fact sheet of Spoon worms on the shores of Singapore
-keywords: spoon, worm, spoonworm, echiura, echiuran, annelid, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: spoon, worm, spoonworm, echiura, echiuran, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
-genus: Class
-species: Echiura
+genus: ''
+species: ''
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Echiura
 attributes: []
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/worm/echiura/echiura/080801chgd8555m3.jpg
 links_references: '### Links
 
 
-  - [Introduction to the Echiura: Spoon Worms and Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiura.html)on
-  the[Phylogeny Wing](http://www.ucmp.berkeley.edu/exhibit/phylogeny.html)on the[Museum
-  of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/)website:
-  fossil record, life history and ecology, systematics and more on morphology.
+  - [Introduction to the Echiura: Spoon Worms and Innkeepers](http://www.ucmp.berkeley.edu/annelida/echiura.html)on the[Phylogeny Wing](http://www.ucmp.berkeley.edu/exhibit/phylogeny.html)on the[Museum of Paleontology, University of California Berkeley](http://www.ucmp.berkeley.edu/)website: fossil record, life history and ecology, systematics and more on morphology.
 
 
   ### References
 
 
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
-  of Thomson Learning Inc., 7th Edition. pp. 963'
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963'
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/worm/echiura/echiura/080801chgd8555m3.jpg
@@ -42,8 +42,7 @@ galleries:
     caption: Pasir Ris Park, Jan 26 Photo shared by Zen Xuan He on facebook .
   gallery4:
   - url: https://images.naturehungry.sg/worm/echiura/echiura/240722lygrk2.jpg
-    caption: Changi (Fairy Point), Jul 24 Photo shared by Richard Kuah on facebook
-      .
+    caption: Changi (Fairy Point), Jul 24 Photo shared by Richard Kuah on facebook .
   - url: https://images.naturehungry.sg/worm/echiura/echiura/120703chgmn.jpg
     caption: Changi, Jul 12 Photo shared by Marcus Ng on flickr .
   gallery5:
@@ -68,6 +67,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+permalink: /entries/Annelida/Polychaeta
 ---
 
 ## Where seen?

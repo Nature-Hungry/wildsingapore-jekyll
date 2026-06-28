@@ -1,8 +1,7 @@
 ---
 title: Gobies
 description: Fact sheet of Gobies on the shores of Singapore
-keywords: goby, fish, gobiidae, mudskipper, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: goby, fish, gobiidae, mudskipper, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Gobiidae
 genus: ''
@@ -26,18 +25,14 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/ornatus/050607chgg7251m3.jpg
     caption: But most are well camouflaged. Changi, Jul 05
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
-    caption: The Broad barred acropora goby lives only in Acropora corals. Pulau Hantu,
-      Feb 10
+    caption: The Broad barred acropora goby lives only in Acropora corals. Pulau Hantu, Feb 10
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
-    caption: Many-banded snapping shrimp with a young Saddled shrimp-goby . Labrador,
-      May 05
+    caption: Many-banded snapping shrimp with a young Saddled shrimp-goby . Labrador, May 05
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg
-    caption: Many-banded snapping shrimp with an adult Saddled shrimp-goby . Pulau
-      Semakau, Feb 09 Photos shared by Tang Hung Bun.
+    caption: Many-banded snapping shrimp with an adult Saddled shrimp-goby . Pulau Semakau, Feb 09 Photos shared by Tang Hung Bun.
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
-    caption: Many-banded snapping shrimp with a Pink-speckled shrimp-goby . Kusu Island,
-      Aug 08
+    caption: Many-banded snapping shrimp with a Pink-speckled shrimp-goby . Kusu Island, Aug 08
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
     caption: Mudskippers are gobies too! Pulau Ubin, Apr 13
@@ -47,8 +42,7 @@ galleries:
     caption: The Crocodile flathead goby looks different! Changi, Jun 10
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
-    caption: Seen on a sea whip . Chek Jawa, Jun 23 Photo shared by Kelvin Yong on
-      facebook .
+    caption: Seen on a sea whip . Chek Jawa, Jun 23 Photo shared by Kelvin Yong on facebook .
   gallery6:
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/caninus/100913prpd1556m3.jpg
     caption: Green-shouldered goby
@@ -87,67 +81,7 @@ galleries:
     caption: Java fatnose goby
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg
     caption: Grey knight goby
-links_references: "### Links
-\n- [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106)\n\
-  Ng, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II\
-  \ (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science\
-  \ Centre. 168 pp.\n- [Gobies, mudskippers and their relatives](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151)\n\
-  Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide to the Common Marine Fishes\
-  \ of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n. Singapore\
-  \ Science Centre. 163 pp.\n- [Family Gobiidae](http://mangrove.nus.edu.sg/pub/seashore/text/245)\n\
-  and\n[Mudskippers](http://mangrove.nus.edu.sg/pub/seashore/text/246)\nTan, Leo W.\
-  \ H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
-  . The Singapore Science Centre, Singapore. 160 pp.\n- [Family Gobiidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=405)\n\
-  (Gobies) from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the\
-  \ family, including fact sheet on\n[*Trimmatom nanus*](http://www.fishbase.org/summary/SpeciesSummary.php?id=25620)\n\
-  the smallest fish and vertebrate\n- [Tiniest reef fishes warn of risks to reefs](http://wildshores.blogspot.com/2009/08/tiniest-reef-fishes-warn-of-risks-to.html)\n\
-  on the wild shores of singapore blog.\n\n### References
-\n- Tan Heok Hui & Kelvin\
-  \ K. P. Lim. 31 July 2019.\n*New Singapore record of the goby, Pseudogobius yanamensis*\n\
-  . Singapore Biodiversity Records 2019: 88 ISSN 2345-7597, National University of\
-  \ Singapore.\n- Daisuke Taira.\n*Decorative lagoon-goby in the Singapore Strait*\n\
-  . 31 August 2018. Singapore Biodiversity Records 2018: 90 ISSN 2345-7597. National\
-  \ University of Singapore.\n- Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul\
-  \ 2017.\n*Brown drombus goby found in burrows with snapping shrimps*\n. Singapore\
-  \ Biodiversity Records 2017: 98-99.\n- Helen K. Larson, Zeehan Jaafar and Kelvin\
-  \ K. P. Lim. 29 June 2016.\n*An updated checklist of the gobioid fishes of Singapore*\n\
-  . Raffles Bulletin of Zoology Supplement No. 34: 744\u2013757.\n- Marcus F. C. Ng.\
-  \ 31 August 2016.\n*Saddled shrimp-goby At Sentosa, Cryptocentrus maudae*\n. Singapore\
-  \ Biodiversity Records 2016: 111\n- Koh Kwan Siong. 29 July 2016.\n*Bluespot shrimp-goby\
-  \ off Pulau Hantu, Cryptocentrus cyanospilotus*\n. Singapore Biodiversity Records\
-  \ 2016: 100\n- Tan Heok Hui. 6 March 2015.\n*Green-spotted goby at West Coast marsh\
-  \ pond, Acentrogobius janthinopterus*\n. Singapore Biodiversity Records 2015: 34\n\
-  - Gina Tan & Zeehan Jaafar. 24 April 2015.\n*New record of ornate slippery goby\
-  \ Lubricogobius ornatus in Singapore*\n. Singapore Biodiversity Records 2015: 53\n\
-  - Tan Heok Hui. 30 January 2015.\n*Nape-banded coral goby from Terumbu Berkas, Priolepis\
-  \ nuchifasciata*\n. Singapore Biodiversity Records 2015: 22\n- Ria Tan & Kelvin\
-  \ K. P. Lim. 26 December 2014.\n*Lagoon shrimp-goby at eastern Johor Straits, Cryptocentrus\
-  \ cyanotaenia*\n. Singapore Biodiversity Records 2014: 334.\n- Tan Heok Hui, Low\
-  \ Bi Wei & Jonathan Ho. 11 July 2014.\n*Lesser bumblebee goby in Upper Seletar Reservoir,\
-  \ Brachygobius sabanus*\n. Singapore Biodiversity Records 2014: 185.\n- Helen K.\
-  \ Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 Feb 2008.\n*An annotated checklist\
-  \ of the gobioid fishes of Singapore*\n. Raffles Bulletin of Zoology 56(1): 135\u2013\
-  155\n- Tan Heok Hui. 30 Jan 2015.\n*Nape-banded coral goby from Terumbu Berkas*\n\
-  . Singapore Biodiversity Records 2015: 22\n- Zeehan Jaafar & Helen K. Larson. 24\
-  \ Apr 2015.\n*New record of ornate slippery goby Lubricogobius ornatus in Singapore*\n\
-  . Singapore Biodiversity Records 2015: 53\n- Tan Heok Hui. 6 Mar 2015.\n*Green-spotted\
-  \ goby at West Coast marsh pond*\n. Singapore Biodiversity Records 2015: 34.\n-\
-  \ Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009.\n*Some note-worthy\
-  \ fishes observed in the Singapore Straits*\n. Nature in Singapore, 2: 77\u2013\
-  82.\n- Heng Pei Yan & Kelvin K. P. Lim. 15 November 2013.\n*Some noteworthy reef\
-  \ fishes at Pulau Hantu: Ventral-barred shrimp-goby, Cryptocentrus sericus*\n. Singapore\
-  \ Biodiversity Records 2013: 65-67.\n- Larson, Helen K and Kelvin K. P. Lim. 2005.\n\
-  *A Guide to Gobies of Singapore*\n. Singapore Science Centre. 164pp.\n- Wee Y.C.\
-  \ and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National\
-  \ Council on the Environment. 163pp.\n- Allen, Gerry, 2000.\n*Marine Fishes of South-East\
-  \ Asia: A Field Guide for Anglers and Divers*\n. Periplus Editions. 292 pp.\n- Kuiter,\
-  \ Rudie H. 2002.\n*Guide to Sea Fishes of Australia: A Comprehensive Reference for\
-  \ Divers & Fishermen*\nNew Holland Publishers. 434pp.\n- Lieske, Ewald and Robert\
-  \ Myers. 2001.\n*Coral Reef Fishes of the World*\nPeriplus Editions. 400pp.\n- Lim,\
-  \ S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times\
-  \ of Labrador Beach*\n. Division of Biology, School of Science, Nanyang Technological\
-  \ University & Department of Zoology, the National University of Singapore. 160\
-  \ pp.\n"
+links_references: "### Links \n- [Mudskippers](http://mangrove.nus.edu.sg/guidebooks/text/2106)\nNg, Peter K. L. & N. Sivasothi, 1999.\n*[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n. Singapore Science Centre. 168 pp.\n- [Gobies, mudskippers and their relatives](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/151)\nLim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.\n*[A Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*\n. Singapore Science Centre. 163 pp.\n- [Family Gobiidae](http://mangrove.nus.edu.sg/pub/seashore/text/245)\nand\n[Mudskippers](http://mangrove.nus.edu.sg/pub/seashore/text/246)\nTan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore Science Centre, Singapore. 160 pp.\n- [Family Gobiidae](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=405)\n(Gobies) from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet on the family, including fact sheet on\n[*Trimmatom nanus*](http://www.fishbase.org/summary/SpeciesSummary.php?id=25620)\nthe smallest fish and vertebrate\n- [Tiniest reef fishes warn of risks to reefs](http://wildshores.blogspot.com/2009/08/tiniest-reef-fishes-warn-of-risks-to.html)\non the wild shores of singapore blog.\n\n### References \n- Tan Heok Hui & Kelvin K. P. Lim. 31 July 2019.\n*New Singapore record of the goby, Pseudogobius yanamensis*\n. Singapore Biodiversity Records 2019: 88 ISSN 2345-7597, National University of Singapore.\n- Daisuke Taira.\n*Decorative lagoon-goby in the Singapore Strait*\n. 31 August 2018. Singapore Biodiversity Records 2018: 90 ISSN 2345-7597. National University of Singapore.\n- Tan Heok Hui (Changi), Zeehan Jaafar (Tuas). 28 Jul 2017.\n*Brown drombus goby found in burrows with snapping shrimps*\n. Singapore Biodiversity Records 2017: 98-99.\n- Helen K. Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 June 2016.\n*An updated checklist of the gobioid fishes of Singapore*\n. Raffles Bulletin of Zoology Supplement No. 34: 744\u2013757.\n- Marcus F. C. Ng. 31 August 2016.\n*Saddled shrimp-goby At Sentosa, Cryptocentrus maudae*\n. Singapore Biodiversity Records 2016: 111\n- Koh Kwan Siong. 29 July 2016.\n*Bluespot shrimp-goby off Pulau Hantu, Cryptocentrus cyanospilotus*\n. Singapore Biodiversity Records 2016: 100\n- Tan Heok Hui. 6 March 2015.\n*Green-spotted goby at West Coast marsh pond, Acentrogobius janthinopterus*\n. Singapore Biodiversity Records 2015: 34\n- Gina Tan & Zeehan Jaafar. 24 April 2015.\n*New record of ornate slippery goby Lubricogobius ornatus in Singapore*\n. Singapore Biodiversity Records 2015: 53\n- Tan Heok Hui. 30 January 2015.\n*Nape-banded coral goby from Terumbu Berkas, Priolepis nuchifasciata*\n. Singapore Biodiversity Records 2015: 22\n- Ria Tan & Kelvin K. P. Lim. 26 December 2014.\n*Lagoon shrimp-goby at eastern Johor Straits, Cryptocentrus cyanotaenia*\n. Singapore Biodiversity Records 2014: 334.\n- Tan Heok Hui, Low Bi Wei & Jonathan Ho. 11 July 2014.\n*Lesser bumblebee goby in Upper Seletar Reservoir, Brachygobius sabanus*\n. Singapore Biodiversity Records 2014: 185.\n- Helen K. Larson, Zeehan Jaafar and Kelvin K. P. Lim. 29 Feb 2008.\n*An annotated checklist of the gobioid fishes of Singapore*\n. Raffles Bulletin of Zoology 56(1): 135\u2013155\n- Tan Heok Hui. 30 Jan 2015.\n*Nape-banded coral goby from Terumbu Berkas*\n. Singapore Biodiversity Records 2015: 22\n- Zeehan Jaafar & Helen K. Larson. 24 Apr 2015.\n*New record of ornate slippery goby Lubricogobius ornatus in Singapore*\n. Singapore Biodiversity Records 2015: 53\n- Tan Heok Hui. 6 Mar 2015.\n*Green-spotted goby at West Coast marsh pond*\n. Singapore Biodiversity Records 2015: 34.\n- Jeffrey Low K. Y., Jani Isa Thuaibah Tanzil & Zeehan Jaafar, 2009.\n*Some note-worthy fishes observed in the Singapore Straits*\n. Nature in Singapore, 2: 77\u201382.\n- Heng Pei Yan & Kelvin K. P. Lim. 15 November 2013.\n*Some noteworthy reef fishes at Pulau Hantu: Ventral-barred shrimp-goby, Cryptocentrus sericus*\n. Singapore Biodiversity Records 2013: 65-67.\n- Larson, Helen K and Kelvin K. P. Lim. 2005.\n*A Guide to Gobies of Singapore*\n. Singapore Science Centre. 164pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n- Allen, Gerry, 2000.\n*Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*\n. Periplus Editions. 292 pp.\n- Kuiter, Rudie H. 2002.\n*Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen*\nNew Holland Publishers. 434pp.\n- Lieske, Ewald and Robert Myers. 2001.\n*Coral Reef Fishes of the World*\nPeriplus Editions. 400pp.\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times of Labrador Beach*\n. Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.\n"
 location:
 - prp
 - chg
@@ -158,8 +92,7 @@ size:
 - 10.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Gobies are the largest family of marine fishes with about 1,800 species! Some gobies
-  live with snapping shrimps, others in corals
+- Gobies are the largest family of marine fishes with about 1,800 species! Some gobies live with snapping shrimps, others in corals
 - They are well camouflaged
 - Watch your step!
 authors:
@@ -167,6 +100,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Gobioidei/Gobiidae
 ---
 
 ## Where seen?

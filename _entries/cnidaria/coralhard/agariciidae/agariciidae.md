@@ -1,8 +1,7 @@
 ---
 title: 'Agaricid corals '
 description: Fact sheet of Agaricid corals  on the shores of Singapore
-keywords: agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Agariciidae
 genus: ''
@@ -45,8 +44,7 @@ links_references: '### Links
 
   - [Family Agariciidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Agariciidae)
 
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal
-  with species factsheets.
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal with species factsheets.
 
   '
 location:
@@ -63,6 +61,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Agariciidae
 ---
 
 ## Where seen?

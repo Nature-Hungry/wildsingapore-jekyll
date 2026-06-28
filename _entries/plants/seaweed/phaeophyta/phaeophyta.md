@@ -1,8 +1,7 @@
 ---
 title: 'Brown seaweeds '
 description: Fact sheet of Brown seaweeds  on the shores of Singapore
-keywords: brown, seaweed, weed, algae, phaeophyceae, phaeophyta, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+keywords: brown, seaweed, weed, algae, phaeophyceae, phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 division: Phaeophyta
 family: ''
@@ -11,7 +10,9 @@ species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
-kingdom: Animalia
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
 updated: Aug 08
 coverimg: https://images.naturehungry.sg/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
 galleries:
@@ -61,8 +62,7 @@ links_references: '### Links
   ### References
 
 
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
-  Tsai Min and Wang Luan Keng,
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
 
   *A photographic guide to the marine algae of Singapore*
 
@@ -70,16 +70,13 @@ links_references: '### Links
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 
-  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
-  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
 
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 
   - A. C. Lee, Lawrence M. Liao and K. S. Tan.
 
-  [*New records of marine algae on artificial structures and intertidal flats in coastal
-  waters of Singapore*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)
+  [*New records of marine algae on artificial structures and intertidal flats in coastal waters of Singapore*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)
 
   . Pp. 5-40. in the Raffles Bulletin of Zoology.
 
@@ -87,8 +84,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Chou, L. M., 1998.
 
@@ -119,13 +115,13 @@ trivia_title: if you learn only three things about them ..
 trivia_items:
 - Large brown seaweeds are more common on our Southern than Northern shores
 - Lots of little animals often hide in large brown seaweeds
-- Look for them! Extracts of brown seaweeds are used extensively in our processed
-  food.
+- Look for them! Extracts of brown seaweeds are used extensively in our processed food.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
 - marine
+permalink: /entries/Ochrophyta/Phaeophyceae
 ---
 
 ## Where seen?

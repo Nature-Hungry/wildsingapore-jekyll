@@ -1,8 +1,7 @@
 ---
 title: 'Jeruju '
 description: Fact sheet of Jeruju  on the shores of Singapore
-keywords: holly, acanthus, acanthaceae, mangrove, mangroves, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: holly, acanthus, acanthaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 18
@@ -35,22 +34,19 @@ galleries:
 links_references: '### Links
 
 
-  - [Jeruju (
-  *Acanthus volubilis*
+  - [Jeruju ( *Acanthus volubilis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1047)
 
   ,
 
-  [Jeruju hitam (
-  *Acanthus ebracteatus*
+  [Jeruju hitam ( *Acanthus ebracteatus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1045)
 
   and
 
-  [Jeruju putih (
-  *Acanthus ilicifolius*
+  [Jeruju putih ( *Acanthus ilicifolius*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1046)
 
@@ -90,8 +86,7 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
-  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
   ### References
@@ -107,8 +102,7 @@ links_references: '### Links
 
   *Wayside Trees of Malaya: in two volumes*
 
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
-  1-38; volume 2: 477-861 pp., plates 139-236.
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
   - Tomlinson, P. B., 1986.
 
@@ -132,8 +126,7 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
   '
 size:
@@ -146,6 +139,7 @@ zone:
 - terrestrial
 habitats:
 - mangrove
+permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Lamiales/Acanthaceae/Acanthoideae/Acanthus
 ---
 
 ## Where seen?

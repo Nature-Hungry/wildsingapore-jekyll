@@ -1,11 +1,21 @@
 ---
 title: 'Hermit crabs '
 description: Fact sheet of Hermit crabs  on the shores of Singapore
-keywords: hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Crepidulidae
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
 genus: ''
 species: ''
 updated: Jan 2020
@@ -22,36 +32,30 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/noid/hermit.gif
     caption: What it looks like inside the shell!
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/070224cjd8511m3.jpg
-    caption: The same kind of hermit crab can live in a wide variety of shells. Chek
-      Jawa Feb 07
+    caption: The same kind of hermit crab can live in a wide variety of shells. Chek Jawa Feb 07
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/090606tmftd3303m3.jpg
     caption: Even a broken shell can be a hermit home. Tanah Merah, Jun 09
   gallery4:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/070602sjig9792m3.jpg
-    caption: Land hermit crabs may even live in land snail shells! St. John's Island,
-      Jun 07
+    caption: Land hermit crabs may even live in land snail shells! St. John's Island, Jun 07
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
-    caption: Hanging onto the shell of a snail so recently dead that whelks are still
-      cleaning it out! Tanah Merah, Feb 07
+    caption: Hanging onto the shell of a snail so recently dead that whelks are still cleaning it out! Tanah Merah, Feb 07
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/huddling/050428cftg5223m3.jpg
     caption: Even tiny Button shells are homes to tiny hermit crabs. Changi, Apr 05
   gallery5:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
-    caption: Tiny sea anemones may be found on a shell occupied by a hermit crab.
-      Changi, Apr 07
+    caption: Tiny sea anemones may be found on a shell occupied by a hermit crab. Changi, Apr 07
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
     caption: Others may have big sea anemones ! Changi, Apr 07
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg
-    caption: Slipper snails are often found on the inside of the shell occupied by
-      a hermit crab. Changi, Apr 05
+    caption: Slipper snails are often found on the inside of the shell occupied by a hermit crab. Changi, Apr 05
   gallery6:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3b.jpg
     caption: Tiny porcelain crabs Changi, Apr 05
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3d.jpg
     caption: Keelworms may build their tubes on the shell. Changi, Jun 05
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3b.jpg
-    caption: Little animals also bore into the shell, possibly boring sponges. Changi,
-      Aug 08
+    caption: Little animals also bore into the shell, possibly boring sponges. Changi, Aug 08
   gallery7:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3.jpg
     caption: Scale worms are sometimes seen on the shell. Changi, Aug 08
@@ -61,12 +65,10 @@ galleries:
     caption: Slipper snails and keelworms Changi, Jun 05
   gallery8:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/veryhairy/241116smksmn1.jpg
-    caption: With eggs inside the shell. Pulau Semakau (South), Nov 24 Photo shared
-      by Marcus Ng on facebook .
+    caption: With eggs inside the shell. Pulau Semakau (South), Nov 24 Photo shared by Marcus Ng on facebook .
   gallery9:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3.jpg
-    caption: Moult outside the shell, original hermit crab inside the shell? Changi,
-      Jul 05
+    caption: Moult outside the shell, original hermit crab inside the shell? Changi, Jul 05
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3a.jpg
     caption: Transparent eyes indicates this is a moult.
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/noid/040110cjd0043m3.jpg
@@ -119,15 +121,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Mangrove hermit crab (
-  *Diogenes*
+  - [Mangrove hermit crab ( *Diogenes*
 
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)
 
   and the
 
-  [Land hermit crab (
-  *Coenobita cavipes*
+  [Land hermit crab ( *Coenobita cavipes*
 
   ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
 
@@ -147,14 +147,11 @@ links_references: '### Links
 
   - [Hermit crabs and their allies](http://www.museum.vic.gov.au/crust/hermgall.html)
 
-  on the Marine Crustaceans of Southern Australia page on the Museum Victoria website:
-  an introduction including a section on their biology which has lots of labelled
-  diagrams, and photos and fact sheets on some hermits of Southern Australia.
+  on the Marine Crustaceans of Southern Australia page on the Museum Victoria website: an introduction including a section on their biology which has lots of labelled diagrams, and photos and fact sheets on some hermits of Southern Australia.
 
   - [A Catalog of The Hermit Crabs (Paguroidea) of Taiwan](http://biota.taibif.tw/node/9348)
 
-  on the BiotaTaiwanica website: detailed descriptions, drawings and photos of many
-  species.
+  on the BiotaTaiwanica website: detailed descriptions, drawings and photos of many species.
 
   - [Hermit crabs at the great shell exchange](http://wildshores.blogspot.com/2008/11/hermit-crabs-at-great-shell-exchange.html)
 
@@ -166,9 +163,7 @@ links_references: '### Links
 
   - D. L. Rahayu, H.-T. Shih & P. K. L. Ng. 29 June 2016.
 
-  *A new species of land hermit crab in the genus Coenobita Latreille, 1829 from Singapore,
-  Malaysia and Indonesia, previously confused with C. cavipes Stimpson, 1858 (Crustacea:
-  Decapoda: Anomura: Coenobitidae)*
+  *A new species of land hermit crab in the genus Coenobita Latreille, 1829 from Singapore, Malaysia and Indonesia, previously confused with C. cavipes Stimpson, 1858 (Crustacea: Decapoda: Anomura: Coenobitidae)*
 
   . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 470-488.
 
@@ -180,24 +175,19 @@ links_references: '### Links
 
   - D. L. Rahayu.
 
-  *New record and new species of the hermit crab genus Diogenes Dana, 1851 (Decapoda:
-  Anomura: Diogenidae) from Singapore*
+  *New record and new species of the hermit crab genus Diogenes Dana, 1851 (Decapoda: Anomura: Diogenidae) from Singapore*
 
-  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International
-  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 182-192.
+  . 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 182-192.
 
   - Dwi Listyo Rahayu, 2000.
 
-  *Hermit crabs from the South China Sea (Crustacea: Decapoda: Anomura: Diogenidae,
-  Paguridae, Parapaguridae)*
+  *Hermit crabs from the South China Sea (Crustacea: Decapoda: Anomura: Diogenidae, Paguridae, Parapaguridae)*
 
-  (pdf). The Raffles Bulletin of Zoology 2000 Supplement No. 8: 377-404. The National
-  University of Singapore.
+  (pdf). The Raffles Bulletin of Zoology 2000 Supplement No. 8: 377-404. The National University of Singapore.
 
   - Dwi Listyo Rahayu, 1996.
 
-  *Notes on littoral hermit crabs (Excluding Coenobitidae) (Crustacea: Decapoda: Anomura)
-  mainly from Singapore and Peninsular Malaysia*
+  *Notes on littoral hermit crabs (Excluding Coenobitidae) (Crustacea: Decapoda: Anomura) mainly from Singapore and Peninsular Malaysia*
 
   (pdf). The Raffles Bulletin of Zoology 1996 44(2): 335-355
 
@@ -211,8 +201,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
 
-  Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Chuang, S. H., 1961.
 
@@ -271,13 +260,13 @@ location:
 - rfl
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Don't take any shells home! Many other animals may live together with a hermit crab.
-  Don't take hermits home!
+- Don't take any shells home! Many other animals may live together with a hermit crab. Don't take hermits home!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
 - marine
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Anomura/Crepidulidae
 ---
 
 ## Where seen?

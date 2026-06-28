@@ -1,8 +1,7 @@
 ---
 title: 'Worm-eels '
 description: Fact sheet of Worm-eels  on the shores of Singapore
-keywords: worm, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info
+keywords: worm, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Ophichthidae
 genus: ''
@@ -30,15 +29,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Green worm-eel (
-  *Muraenichthys*
+  - [Green worm-eel ( *Muraenichthys*
 
   sp.)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/213)
 
   and
 
-  [Burrowing Snake-eel (
-  *Pisodonophis crancrivorus*
+  [Burrowing Snake-eel ( *Pisodonophis crancrivorus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/214)
 
@@ -149,6 +146,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Anguilliformes/Congroidei/Ophichthidae
 ---
 
 ## Where seen?

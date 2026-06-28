@@ -1,8 +1,7 @@
 ---
 title: Scorpionfishes
 description: Fact sheet of Scorpionfishes on the shores of Singapore
-keywords: scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Scorpaenidae
 genus: ''
@@ -24,8 +23,7 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
     caption: Perfectly camouflaged! Tanah Merah, Jul 11
   - url: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
-    caption: The Lionfish doesn't bother to hide! Pulau Hantu, Aug 15 Photo shared
-      by Loh Kok Sheng on his blog .
+    caption: The Lionfish doesn't bother to hide! Pulau Hantu, Aug 15 Photo shared by Loh Kok Sheng on his blog .
   gallery3:
   - url: https://images.naturehungry.sg/synanceiidae/horrida/060312hntd0311m3.jpg
     caption: The Stonefish is from a different family.
@@ -75,8 +73,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Allen, Gerry, 2000.
 
@@ -119,8 +116,7 @@ trivia_items:
 - They are well camouflaged
 - Look carefully to find them
 - Some have venomous spines
-- Don't handle them! Their venom is only used for protection from predators and not
-  to catch prey.
+- Don't handle them! Their venom is only used for protection from predators and not to catch prey.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
@@ -129,6 +125,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Perciformes/Scorpaenoidei/Scorpaenidae
 ---
 
 ## Where seen?

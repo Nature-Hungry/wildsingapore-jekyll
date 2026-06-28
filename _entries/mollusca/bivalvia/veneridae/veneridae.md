@@ -1,8 +1,7 @@
 ---
 title: Venus clams
 description: Fact sheet of Venus clams on the shores of Singapore
-keywords: venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Veneridae
 genus: ''
@@ -21,41 +20,7 @@ order: Venerida
 superfamily: Veneroidea
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
-links_references: "**Acknowledgements** \nWith grateful thanks to Andre Sartori from\
-  \ [eBivalvia](http://ebivalvia.lifedesks.org/)\non EOL's Life Desk for identifying\
-  \ some of the Venus clams. \n \n### Links
-\n- [Clams (*Marcia marmorata*)](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm),[Kepah\
-  \ (*Meretrix meretrix)*](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm)Ng,\
-  \ Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal\
-  \ Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre.\
-  \ 168 pp.\n\n- [Bivalves in general](http://mangrove.nus.edu.sg/pub/seashore/text/130b.htm)Tan,\
-  \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Family Veneridae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Veneridae.html)on[The\
-  \ Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)at\
-  \ Washington State University Tri-Cities Natural History Museum website:brief description\
-  \ and photos.\n\n- Family Veneridae in the Bivalves section by J.M. Poutiers in\
-  \ the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources\
-  \ of the Western Central Pacific[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)on\
-  \ the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  ### References
-\n- Chan Sow-Yan & Lau Wing Lup. 30 April 2020.*Sightings of the long-leaf\
-  \ irus clam, Irus irus, in Singapore*. Singapore Biodiversity Records 2020: 49-52\
-  \ ISSN 2345-7597\n\n- Tan Siong Kiat, Chan Sow-Yan & Lau Wing Lup. 31 October 2019.*Sowerby\u2019\
-  s venus clam, Lioconcha sowerbyi, a new record for Singapore*, Singapore Biodiversity\
-  \ Records 2019: 118-119 ISSN 2345-7597.\n\n- Tan Siong Kiat and Chan Sow-Yan. 31\
-  \ Oct 2017.*First Singapore record of Venus clam, Pitar lineolatus*. Singapore Biodiversity\
-  \ Records 2017: 142\n\n- Tan Siong Kiat. 31 Aug 2017.*Lyrate Asiatic hard clam,\
-  \ Meretrix lyrata, at Changi coast*. Singapore Biodiversity Records 2017: 142\n\n\
-  - Tan Siong Kiat. 31 Aug 2017.*Two species of venus clams new to Singapore: , Antigona\
-  \ chemnitzii and Hyphantosoma intricatum*. Singapore Biodiversity Records 2017:\
-  \ 114-115.\n\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist\
-  \ of The Molluscs of Singapore*(pdf), Raffles Museum of Biodiversity Research, National\
-  \ University of Singapore.\n\n- Tan, K. S. & L. M. Chou, 2000.*A Guide to the Common\
-  \ Seashells of Singapore*. Singapore Science Centre. 160 pp.\n\n- Wee Y.C. and Peter\
-  \ K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*. National Council on\
-  \ the Environment. 163pp.\n\n- Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red\
-  \ Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore),\
-  \ Singapore. 343 pp."
+links_references: "**Acknowledgements** \nWith grateful thanks to Andre Sartori from [eBivalvia](http://ebivalvia.lifedesks.org/)\non EOL's Life Desk for identifying some of the Venus clams. \n \n### Links \n- [Clams (*Marcia marmorata*)](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm),[Kepah (*Meretrix meretrix)*](http://mangrove.nus.edu.sg/guidebooks/text/2096.htm)Ng, Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre. 168 pp.\n\n- [Bivalves in general](http://mangrove.nus.edu.sg/pub/seashore/text/130b.htm)Tan, Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.\n\n- [Family Veneridae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Veneridae.html)on[The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)at Washington State University Tri-Cities Natural History Museum website:brief description and photos.\n\n- Family Veneridae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm)on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n### References \n- Chan Sow-Yan & Lau Wing Lup. 30 April 2020.*Sightings of the long-leaf irus clam, Irus irus, in Singapore*. Singapore Biodiversity Records 2020: 49-52 ISSN 2345-7597\n\n- Tan Siong Kiat, Chan Sow-Yan & Lau Wing Lup. 31 October 2019.*Sowerby\u2019s venus clam, Lioconcha sowerbyi, a new record for Singapore*, Singapore Biodiversity Records 2019: 118-119 ISSN 2345-7597.\n\n- Tan Siong Kiat and Chan Sow-Yan. 31 Oct 2017.*First Singapore record of Venus clam, Pitar lineolatus*. Singapore Biodiversity Records 2017: 142\n\n- Tan Siong Kiat. 31 Aug 2017.*Lyrate Asiatic hard clam, Meretrix lyrata, at Changi coast*. Singapore Biodiversity Records 2017: 142\n\n- Tan Siong Kiat. 31 Aug 2017.*Two species of venus clams new to Singapore: , Antigona chemnitzii and Hyphantosoma intricatum*. Singapore Biodiversity Records 2017: 114-115.\n\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist of The Molluscs of Singapore*(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.\n\n- Tan, K. S. & L. M. Chou, 2000.*A Guide to the Common Seashells of Singapore*. Singapore Science Centre. 160 pp.\n\n- Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*. National Council on the Environment. 163pp.\n\n- Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp."
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
@@ -109,6 +74,7 @@ habitats:
 - rocky shore
 - seagrass meadow
 - coral rubble
+permalink: /entries/Mollusca/Bivalvia/Venerida/Veneridae
 ---
 
 ## Where seen?

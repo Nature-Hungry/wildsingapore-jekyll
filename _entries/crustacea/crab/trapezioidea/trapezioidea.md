@@ -1,8 +1,7 @@
 ---
 title: 'Coral crabs '
 description: Fact sheet of Coral crabs  on the shores of Singapore
-keywords: coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Tetraliidae
 genus: ''
@@ -50,6 +49,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Tetraliidae
 ---
 
 ## Where seen?

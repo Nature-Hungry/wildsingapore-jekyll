@@ -1,8 +1,7 @@
 ---
 title: 'Soft corals '
 description: Fact sheet of Soft corals  on the shores of Singapore
-keywords: coral, soft, alcyonacea, cnidaria, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info
+keywords: coral, soft, alcyonacea, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Nephtheidae
 genus: ''
@@ -20,59 +19,40 @@ coverimg: https://images.naturehungry.sg/cnidaria/coralsoft/neppink/080705bbd692
 links_references: '### Links
 
 
-  - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm)Tan,
-  Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
-  The Singapore Science Centre, Singapore. 160 pp.
+  - [Soft corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm)Tan, Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
 
 
-  - [Soft corals shrug off poor image](http://www.reef.crc.org.au/publications/explore/feat18.html)on
-  the CRC Reef Centre website: preliminary findings of a study on the role of soft
- corals in offshore and inshore reefs, and some info on their applications in human
-  medicine.
+  - [Soft corals shrug off poor image](http://www.reef.crc.org.au/publications/explore/feat18.html)on the CRC Reef Centre website: preliminary findings of a study on the role of soft corals in offshore and inshore reefs, and some info on their applications in human medicine.
 
 
-  - [Painkillers from a soft coral](http://wildshores.blogspot.com/2009/08/pain-killers-from-soft-coral.html)on
-  the wild shores of singapore blog.
+  - [Painkillers from a soft coral](http://wildshores.blogspot.com/2009/08/pain-killers-from-soft-coral.html)on the wild shores of singapore blog.
 
 
   ### References
 
 
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
-  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
-  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024.*The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*. 3rd edition. National
-  Parks Board. 258 pp.
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024.*The Singapore Red Data Book: Threatened plants and animals of Singapore*. 3rd edition. National Parks Board. 258 pp.
 
 
-  - Y. Benayahu and L. M. Chou, 28 Feb 2010.*On some Octocorallia (Cnidaria: Anthozoa:
-  Alcyonacea) from Singapore, with a description of a new Cladiella species*. The
-  Raffles Bulletin of Zoology 58(1) Pp. 1-13.
+  - Y. Benayahu and L. M. Chou, 28 Feb 2010.*On some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore, with a description of a new Cladiella species*. The Raffles Bulletin of Zoology 58(1) Pp. 1-13.
 
 
-  - Borneman, Eric H. 2001.*Aquarium Corals: Selection, Husbandry and Natural History*T.F.
-  H Publications. 464 pp
+  - Borneman, Eric H. 2001.*Aquarium Corals: Selection, Husbandry and Natural History*T.F. H Publications. 464 pp
 
 
-  - Fabricius, Katharina and Philip Alderslade, 2001.*Soft Corals and Sea Fans*. Australian
-  Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy.
-  264 pp
+  - Fabricius, Katharina and Philip Alderslade, 2001.*Soft Corals and Sea Fans*. Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy. 264 pp
 
 
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
-  of Thomson Learning Inc., 7th Edition. pp. 963
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
 
 
-  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill
-  Book Co., Singapore. 578 pp.
+  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill Book Co., Singapore. 578 pp.
 
 
-  - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
+  - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*. National Council on the Environment. 163pp.
 
 
-  - Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red Data Book: Threatened Plants
-  and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.'
+  - Ng, P. K. L. & Y. C. Wee, 1994.*The Singapore Red Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.'
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
@@ -83,13 +63,11 @@ galleries:
     caption: St. John's Island, Aug 05 Polyps of a leathery coral
   gallery3:
   - url: https://images.naturehungry.sg/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg
-    caption: Tiny colourful brittle stars are sometimes seen in soft corals. Tuas,
-      Nov 03
+    caption: Tiny colourful brittle stars are sometimes seen in soft corals. Tuas, Nov 03
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
     caption: Often seen in a pair. Pulau Sekudu, May 12
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
-    caption: Tiny red nose shrimp are sometimes seen in numbers in flowery soft coral.
-      Tuas, Nov 03
+    caption: Tiny red nose shrimp are sometimes seen in numbers in flowery soft coral. Tuas, Nov 03
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
     caption: Leathery soft corals
@@ -131,6 +109,7 @@ zone:
 habitats:
 - coral rubble
 - coral reef
+permalink: /entries/Cnidaria/Anthozoa/Malacalcyonacea/Nephtheidae
 ---
 
 ## Where seen?

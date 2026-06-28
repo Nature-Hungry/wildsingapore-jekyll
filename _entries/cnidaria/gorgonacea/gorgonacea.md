@@ -1,9 +1,7 @@
 ---
 title: Sea fans or Gorgonians
 description: Fact sheet of Sea fans or Gorgonians on the shores of Singapore
-keywords: fan, whip, coral, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info
+keywords: fan, whip, coral, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Briareidae
 genus: ''
@@ -74,6 +72,7 @@ zone:
 - marine
 habitats:
 - coral reef
+permalink: /entries/Cnidaria/Anthozoa/Scleralcyonacea/Briareidae
 ---
 
 ## Where seen?

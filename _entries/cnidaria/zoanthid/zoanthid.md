@@ -1,9 +1,7 @@
 ---
 title: Zoanthids
 description: Fact sheet of Zoanthids on the shores of Singapore
-keywords: colonial, anemone, zoanthid, zoanthidae, anthozoa, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: colonial, anemone, zoanthid, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Zoanthidae
 genus: ''
@@ -26,32 +24,24 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/various/070518tkrg9365m3.jpg
     caption: Two kinds of zoanthids Pulau Tekukor, May 07
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/100711cyrd8239m3a.jpg
-    caption: Body column with oral disk edged with short tentacles. Cyrene Reef, Jul
-      10
+    caption: Body column with oral disk edged with short tentacles. Cyrene Reef, Jul 10
   gallery3:
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg
-    caption: Sometimes packed so tightly that they are mistaken for hard corals .
-      Chek Jawa, May 05
+    caption: Sometimes packed so tightly that they are mistaken for hard corals . Chek Jawa, May 05
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg
-    caption: At low tide with their tentacles retracted they look like a clump of
-      sausages. Chek Jawa, Aug 05
+    caption: At low tide with their tentacles retracted they look like a clump of sausages. Chek Jawa, Aug 05
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg
-    caption: Sea mat zoanthids have polyps too, embedded in a shared tissue. Kusu
-      Island, Oct 04
+    caption: Sea mat zoanthids have polyps too, embedded in a shared tissue. Kusu Island, Oct 04
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg
-    caption: Sea mat zoanthids ( Palythoa tuberculosa ) Polyps embedded in a shared
-      mat of tissue.
+    caption: Sea mat zoanthids ( Palythoa tuberculosa ) Polyps embedded in a shared mat of tissue.
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
-    caption: Broad zoanthids ( Palythoa mutuki ) Polyps with broad oral disk and long
-      body column.
+    caption: Broad zoanthids ( Palythoa mutuki ) Polyps with broad oral disk and long body column.
   gallery5:
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg
-    caption: Button zoanthids ( Zoanthus sp.) Polyps with small oral disk and long
-      body column.
+    caption: Button zoanthids ( Zoanthus sp.) Polyps with small oral disk and long body column.
   - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/pink/100130brkd8486m3a.jpg
-    caption: Pink button zoanthids ( Zoanthus vietnamensis ) Polyps with pink edges
-      at the top of the body column, more obvious in retracted polyp.
+    caption: Pink button zoanthids ( Zoanthus vietnamensis ) Polyps with pink edges at the top of the body column, more obvious in retracted polyp.
 links_references: '### Links
 
 
@@ -65,8 +55,7 @@ links_references: '### Links
 
   - [Palytoxin and zoanthids of death](http://wildshores.blogspot.com/2008/10/palytoxin-and-zoanthids-of-death.html)
 
-  on the wild shores of singapore blog: more links to the discovery, uses and abuses
-  of the toxin.
+  on the wild shores of singapore blog: more links to the discovery, uses and abuses of the toxin.
 
 
   ### References
@@ -93,9 +82,7 @@ links_references: '### Links
   '
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Don't touch them! They are small and may retract at low tide. Don't step on them!
-  Their leathery skin is partly made up of chitin, the same substance that insect
-  exoskeleton is made up of.
+- Don't touch them! They are small and may retract at low tide. Don't step on them! Their leathery skin is partly made up of chitin, the same substance that insect exoskeleton is made up of.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
@@ -104,6 +91,7 @@ zone:
 habitats:
 - rocky shore
 - coral reef
+permalink: /entries/Cnidaria/Anthozoa/Zoantharia/Brachycnemina/Zoanthidae
 ---
 
 ## Where seen?

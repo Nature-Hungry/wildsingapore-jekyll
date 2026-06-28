@@ -1,8 +1,7 @@
 ---
 title: Surf clams
 description: Fact sheet of Surf clams on the shores of Singapore
-keywords: donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Donacidae
 genus: ''
@@ -29,21 +28,7 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg
     caption: ''
-links_references: "### Links
-\n- *[Donax cuneatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86593)*\n\
-  and\n*[Donax faba](http://www.sealifebase.org/Summary/speciesSummary.php?ID=8660)*\n\
-  on SeaLife Base: Technical fact sheet.\n- Family Donacidae in the Bivalves section\
-  \ by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes:\
-  \ The Living Marine Resources of the Western Central Pacific\n[Volume 1: Seaweeds,\
-  \ corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
-  on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  ### References
-\n- Tan SK & Low MEY (2013)\n*Singapore Mollusca: 3. The Family Donacidae\
-  \ (Bivalvia: Veneroida: Tellinoidea)*\n. Nature in Singapore, 6: 257\u2013263.\n\
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs\
-  \ of Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National University\
-  \ of Singapore.\n- Tan, K. S. & L. M. Chou, 2000.\n*A Guide to the Common Seashells\
-  \ of Singapore*\n. Singapore Science Centre. 160 pp.\n"
+links_references: "### Links \n- *[Donax cuneatus](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86593)*\nand\n*[Donax faba](http://www.sealifebase.org/Summary/speciesSummary.php?ID=8660)*\non SeaLife Base: Technical fact sheet.\n- Family Donacidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific\n[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\non the Food and Agriculture Organization of the United Nations (FAO) website.\n\n### References \n- Tan SK & Low MEY (2013)\n*Singapore Mollusca: 3. The Family Donacidae (Bivalvia: Veneroida: Tellinoidea)*\n. Nature in Singapore, 6: 257\u2013263.\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.\n- Tan, K. S. & L. M. Chou, 2000.\n*A Guide to the Common Seashells of Singapore*\n. Singapore Science Centre. 160 pp.\n"
 location:
 - chg
 size:
@@ -56,6 +41,7 @@ zone:
 - marine
 habitats:
 - sandy shore
+permalink: /entries/Mollusca/Bivalvia/Cardiida/Donacidae
 ---
 
 ## Where seen?

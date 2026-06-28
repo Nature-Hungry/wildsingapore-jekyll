@@ -1,8 +1,7 @@
 ---
 title: 'Porcelain crabs '
 description: Fact sheet of Porcelain crabs  on the shores of Singapore
-keywords: porcelain, crab, porcellanidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: porcelain, crab, porcellanidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Porcellanidae
 genus: ''
@@ -28,8 +27,7 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg
     caption: Huge flat pincers.
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3a.jpg
-    caption: Long antennae emerging from outside instead of between the eyes. Changi,
-      Jun 08
+    caption: Long antennae emerging from outside instead of between the eyes. Changi, Jun 08
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/petrolisthes/050607chgg7319m3a.jpg
     caption: Last pair of legs folded on the sides of the body. Changi, Jun 05
   gallery3:
@@ -55,8 +53,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Porcelain Crab (
-  *Petrolisthes*
+  - [Porcelain Crab ( *Petrolisthes*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/184)
 
@@ -66,8 +63,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Mangrove porcelain crab (
-  *Petrolisthes kranjiensis*
+  - [Mangrove porcelain crab ( *Petrolisthes kranjiensis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2066)
 
@@ -79,8 +75,7 @@ links_references: '### Links
 
   - Krystal L. Rypien and A. Richard Palmer,
 
-  [The effects of sex, size and habitat on the incidence of puncture wounds in the
-  claws of the porcelain crab Petrolisthes cinctipes (Anomura: Porcellanidae)](http://www.bioone.org/doi/abs/10.1651/S-2728.1)
+  [The effects of sex, size and habitat on the incidence of puncture wounds in the claws of the porcelain crab Petrolisthes cinctipes (Anomura: Porcellanidae)](http://www.bioone.org/doi/abs/10.1651/S-2728.1)
 
   . Journal of Crustacean Biology 27(1):59-64. 2007 doi: http://dx.doi.org/10.1651/S-2728.1
 
@@ -96,8 +91,7 @@ links_references: '### Links
 
   - M. Osawa & P. K. L. Ng. 29 June 2016.
 
-  *Revision of Polyonyx pedalis Nobili, 1906 (Crustacea: Decapoda: Anomura: Porcellanidae),
-  with descriptions of three new species*
+  *Revision of Polyonyx pedalis Nobili, 1906 (Crustacea: Decapoda: Anomura: Porcellanidae), with descriptions of three new species*
 
   . The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part I of II) Pp. 499-518.
 
@@ -135,8 +129,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are NOT true crabs
 - 'Some differences from true crabs: only 3 pairs of walking legs, long antennae'
-- 'They drop their pincers when stressed, so don''t harass them Some live with other
-  animals: sea pens, hermit crabs.'
+- 'They drop their pincers when stressed, so don''t harass them Some live with other animals: sea pens, hermit crabs.'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
@@ -144,6 +137,7 @@ zone:
 - marine
 habitats:
 - rocky shore
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Anomura/Porcellanidae
 ---
 
 ## Where seen?

@@ -1,8 +1,7 @@
 ---
 title: Blennies
 description: Fact sheet of Blennies on the shores of Singapore
-keywords: blenny, fish, blenniidae, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+keywords: blenny, fish, blenniidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Blenniidae
 genus: ''
@@ -40,22 +39,19 @@ galleries:
 links_references: '### Links
 
 
-  - [Striped Fang-blenny (
-  *Meiacanthus grammistes*
+  - [Striped Fang-blenny ( *Meiacanthus grammistes*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/356)
 
   ,
 
-  [Whitebar Oyster-blenny (
-  *Omobranchus ferox*
+  [Whitebar Oyster-blenny ( *Omobranchus ferox*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/355)
 
   ,
 
-  [Variable Fang-blenny (
-  *Petroscirtes variabilis*
+  [Variable Fang-blenny ( *Petroscirtes variabilis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357)
 
@@ -149,8 +145,7 @@ links_references: '### Links
 
   *Shorthead fang-blenny in the Singapore Strait*
 
-  . 31 July 2018. Singapore Biodiversity Records 2018: 80 ISSN 2345-7597. National
-  University of Singapore.
+  . 31 July 2018. Singapore Biodiversity Records 2018: 80 ISSN 2345-7597. National University of Singapore.
 
   - Kelvin K. P. Lim and Victor G. Springer. 31 Oct 2017.
 
@@ -222,8 +217,7 @@ size:
 - 15.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Some can give a nasty bite! They lay their eggs in empty shells, so please put them
-  back where you found them
+- Some can give a nasty bite! They lay their eggs in empty shells, so please put them back where you found them
 - Some of them nibble on bigger living fishes!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -232,6 +226,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Blenniiformes/Blennioidei/Blenniidae
 ---
 
 ## Where seen?

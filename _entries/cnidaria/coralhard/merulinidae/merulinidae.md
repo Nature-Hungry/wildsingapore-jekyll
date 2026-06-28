@@ -1,9 +1,7 @@
 ---
 title: 'Merulinid corals '
 description: Fact sheet of Merulinid corals  on the shores of Singapore
-keywords: crispy, crust, merulinidae, coral, hard, scleractinia, cnidaria, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: crispy, crust, merulinidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: ''
@@ -41,8 +39,7 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg
     caption: Corallites large trumpet-shaped, long narrow flaring to oval opening.
   - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg
-    caption: Corallites a tiny circular ring often not packed tightly, with tiny bumps
-      between the corallites.
+    caption: Corallites a tiny circular ring often not packed tightly, with tiny bumps between the corallites.
   gallery4:
   - url: https://images.naturehungry.sg/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
     caption: Purple-and-white ring coral Colony boulder-shaped.
@@ -51,13 +48,11 @@ galleries:
   - url: https://images.naturehungry.sg/faviidae/ring/ringbig/060402ulrd1209m3.jpg
     caption: Big ring coral Colony boulder-shaped.
   - url: https://images.naturehungry.sg/faviidae/ring/ringpurplewhite/070420sntrd0236m3a.jpg
-    caption: Corallites a tiny ring often packed tightly, walls purple, polyps fleshy
-      white or greenish.
+    caption: Corallites a tiny ring often packed tightly, walls purple, polyps fleshy white or greenish.
   - url: https://images.naturehungry.sg/faviidae/ring/ringsmall/070102sisg7132m3c.jpg
     caption: Corallites small circular ring often packed tightly.
   - url: https://images.naturehungry.sg/faviidae/ring/ringbig/060402ulrd1209m3c.jpg
-    caption: Corallites large ring-shaped often squashed tightly so they may be oval
-      or bean-shaped.
+    caption: Corallites large ring-shaped often squashed tightly so they may be oval or bean-shaped.
   gallery5:
   - url: https://images.naturehungry.sg/faviidae/hexa/hexatiny/051103sisd6295m3.jpg
     caption: Tiny hexa coral Colony boulder-shaped.
@@ -70,22 +65,18 @@ galleries:
   - url: https://images.naturehungry.sg/faviidae/hexa/hexasmall/060527sjid2127m3.jpg
     caption: Corallites with shared walls that form small hexagonal cells.
   - url: https://images.naturehungry.sg/faviidae/hexa/hexatoothed/070322cyrd9119m3b.jpg
-    caption: Corallites with shared walls that form hexagonal cells. The walls have
-      relatively large 'teeth'.
+    caption: Corallites with shared walls that form hexagonal cells. The walls have relatively large 'teeth'.
   gallery6:
   - url: https://images.naturehungry.sg/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg
     caption: Smooth hexa coral Colony boulder-shaped.
   - url: https://images.naturehungry.sg/faviidae/hexa/hexacolumn/060102sisg3673m3.jpg
-    caption: Columnar hexa coral Colony encrusting or dome-shaped, with untidy lumps
-      or columns.
+    caption: Columnar hexa coral Colony encrusting or dome-shaped, with untidy lumps or columns.
   - url: https://images.naturehungry.sg/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg
     caption: Honeycomb hexa coral Colony boulder-shaped.
   - url: https://images.naturehungry.sg/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg
-    caption: Corallites hexagonal with shared walls, a smooth surface in between the
-     corallites.
+    caption: Corallites hexagonal with shared walls, a smooth surface in between the corallites.
   - url: https://images.naturehungry.sg/faviidae/hexa/hexacolumn/060102sisg3674m3b.jpg
-    caption: Corallites may jut out with thick, shared walls, forming irregular, sharp
-      angled, usually hexagonal cells.
+    caption: Corallites may jut out with thick, shared walls, forming irregular, sharp angled, usually hexagonal cells.
   - url: https://images.naturehungry.sg/faviidae/hexa/hexahoneycomb/050509hntg5989m3c.jpg
     caption: Corallites with thin, tall, shared walls that form large hexagonal cells.
   gallery7:
@@ -96,14 +87,11 @@ galleries:
   - url: https://images.naturehungry.sg/faviidae/maze/others/050611kusg7740m3.jpg
     caption: Other maze corals Colony encrusting or boulder-shaped.
   - url: https://images.naturehungry.sg/faviidae/hexa/mazehexa/050720sntg9545m3a.jpg
-    caption: Corallites with shared walls forming irregular hexagons or short maze-like
-      valleys.
+    caption: Corallites with shared walls forming irregular hexagons or short maze-like valleys.
   - url: https://images.naturehungry.sg/faviidae/maze/jigsaw/040605kuscd0015m3b.jpg
     caption: Corallites with shared parallel walls that form long meandering valleys.
   - url: https://images.naturehungry.sg/faviidae/maze/others/050611kusg7740m3a.jpg
-    caption: Corallites with shared walls often thick forming long meandering valleys,
-      maze-like or hexagonal patterns that are coarser than other kinds of maze favid
-     corals.
+    caption: Corallites with shared walls often thick forming long meandering valleys, maze-like or hexagonal patterns that are coarser than other kinds of maze favid corals.
 links_references: '### Links
 
 
@@ -117,8 +105,7 @@ links_references: '### Links
 
   - [Family Merulinidae](http://species-identification.org/species.php?species_group=corals&id=88&menuentry=groepen)
 
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
-  Technical fact sheet.
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
 
 
   ### References
@@ -126,8 +113,7 @@ links_references: '### Links
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
-  records*
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -162,6 +148,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Merulinidae
 ---
 
 ## Where seen?

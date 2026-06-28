@@ -1,9 +1,7 @@
 ---
 title: 'Bean cowries '
 description: Fact sheet of Bean cowries  on the shores of Singapore
-keywords: bean, cowry, cowrie, triviidae, trivirostra, gastropod, mollusc, snail,
-  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: bean, cowry, cowrie, triviidae, trivirostra, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Triviidae
 genus: ''
@@ -69,8 +67,7 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-  of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
 
   Sea Challengers. 314pp.
 
@@ -87,6 +84,7 @@ zone:
 - marine
 habitats:
 - coral reef
+permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Triviidae
 ---
 
 ## Where seen?

@@ -1,9 +1,7 @@
 ---
 title: 'Olive snails '
 description: Fact sheet of Olive snails  on the shores of Singapore
-keywords: olive, snail, shell, oliva, olividae, gastropod, mollusc, sand, collar,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: olive, snail, shell, oliva, olividae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Olividae
 genus: ''
@@ -24,38 +22,33 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
     caption: Changi, Jun 06
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/110829ecpd0062m6l.jpg
-    caption: Button snails leaping away from a burrowing Olive snail. East Coast Park,
-      Aug 11
+    caption: Button snails leaping away from a burrowing Olive snail. East Coast Park, Aug 11
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
     caption: Orange-mouth olive snail
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
-    caption: White lip ends at about half the shell opening length. Shell opening
-      orange or orangey.
+    caption: White lip ends at about half the shell opening length. Shell opening orange or orangey.
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
     caption: Spire flattened with short pointed tip.
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
     caption: Tigerish olive snail
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
-    caption: White lip ends at about half the shell opening length. Shell opening
-      purplish brown.
+    caption: White lip ends at about half the shell opening length. Shell opening purplish brown.
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
     caption: Spire conical.
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
     caption: Weasel olive snail
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg
-    caption: White lip ends at about half the shell opening length. Shell opening
-      violet.
+    caption: White lip ends at about half the shell opening length. Shell opening violet.
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg
     caption: Short conical spire.
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg
     caption: Common olive snail
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg
-    caption: White lip ends at less than half the shell opening length. Shell opening
-      violet.
+    caption: White lip ends at less than half the shell opening length. Shell opening violet.
   - url: https://images.naturehungry.sg/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg
     caption: Short conical spire.
 links_references: '### Links
@@ -63,11 +56,9 @@ links_references: '### Links
 
   - *New Singapore record of the olive shell, Oliva hanleyorum*
 
-  , 20 December 2019, Calvin Leow Jiah Jay, Singapore Biodiversity Records, 2019:
-  163 ISSN 2345-7597, National University of Singapore.
+  , 20 December 2019, Calvin Leow Jiah Jay, Singapore Biodiversity Records, 2019: 163 ISSN 2345-7597, National University of Singapore.
 
-  - [Orange-mouth olive snail (
-  *Olivia sericea*
+  - [Orange-mouth olive snail ( *Olivia sericea*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=202)
 
@@ -75,12 +66,9 @@ links_references: '### Links
 
   - [Family Olividae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Olividae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet on moon snails with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on moon snails with photos.
 
-  - Family Olividae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Olividae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -110,8 +98,7 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-  of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
 
   Sea Challengers. 314pp.
 
@@ -133,6 +120,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
+permalink: /entries/Mollusca/Gastropoda/Neogastropoda/Olividae
 ---
 
 ## Where seen?

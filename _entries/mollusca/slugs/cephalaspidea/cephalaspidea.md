@@ -1,9 +1,7 @@
 ---
 title: Headshield snails and slugs
 description: Fact sheet of Headshield snails and slugs on the shores of Singapore
-keywords: head, shield, slug, seaslug, bubble, shell, snail, cephalaspidea, opisthobranch,
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+keywords: head, shield, slug, seaslug, bubble, shell, snail, cephalaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aglajidae
 genus: ''
@@ -47,6 +45,7 @@ zone:
 habitats:
 - mangrove
 - seagrass meadow
+permalink: /entries/Mollusca/Gastropoda/Cephalaspidea/Aglajidae
 ---
 
 ## Where seen?

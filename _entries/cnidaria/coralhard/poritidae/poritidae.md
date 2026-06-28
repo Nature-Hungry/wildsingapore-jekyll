@@ -1,9 +1,7 @@
 ---
 title: 'Poritid corals '
 description: Fact sheet of Poritid corals  on the shores of Singapore
-keywords: pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Poritidae
 genus: ''
@@ -40,18 +38,13 @@ links_references: '### Links
   ### References
 
 
-  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
-  Status for Singapore*
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
 
-  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,
-  D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book:
-  Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663
-  pp.
+  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
-  records*
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -98,6 +91,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Poritidae
 ---
 
 ## Where seen?

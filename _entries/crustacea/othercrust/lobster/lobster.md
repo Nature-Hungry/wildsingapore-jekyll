@@ -1,9 +1,7 @@
 ---
 title: Lobsters and lobster-like crustaceans
-description: Fact sheet of Lobsters and lobster-like crustaceans on the shores of
-  Singapore
-keywords: prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info
+description: Fact sheet of Lobsters and lobster-like crustaceans on the shores of Singapore
+keywords: prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Palinuridae
 genus: ''
@@ -39,6 +37,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Achelata/Palinuridae
 ---
 
 ## Where seen?

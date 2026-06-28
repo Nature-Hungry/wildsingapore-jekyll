@@ -1,8 +1,7 @@
 ---
 title: Boxfishes
 description: Fact sheet of Boxfishes on the shores of Singapore
-keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ostraciidae
 genus: ''
@@ -30,8 +29,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Shortnose boxfish (
-  *Rhynchostracion nasus*
+  - [Shortnose boxfish ( *Rhynchostracion nasus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/399)
 
@@ -49,8 +47,7 @@ links_references: '### Links
 
   : Technical fact sheet on the family
 
-  - [Yellow Boxfish (
-  *Ostracion cubicus*
+  - [Yellow Boxfish ( *Ostracion cubicus*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/ocubicus)
 
@@ -64,8 +61,7 @@ links_references: '### Links
 
   *A shortsnout boxfish, Ostracion rhinorhynchos in the Singapore Strait*
 
-  . 31 July 2018. Singapore Biodiversity Records 2018: 76 ISSN 2345-7597. National
-  University of Singapore.
+  . 31 July 2018. Singapore Biodiversity Records 2018: 76 ISSN 2345-7597. National University of Singapore.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -106,6 +102,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Balistoidei/Ostraciidae
 ---
 
 ## Where seen?

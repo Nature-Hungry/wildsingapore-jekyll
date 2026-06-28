@@ -1,9 +1,7 @@
 ---
 title: 'Buta-buta '
 description: Fact sheet of Buta-buta  on the shores of Singapore
-keywords: blind, eye, buta, excoecaria, agallocha, euphorbiaceae, tree, mangrove,
-  mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: blind, eye, buta, excoecaria, agallocha, euphorbiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 16
@@ -63,8 +61,7 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
-  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
   - [Autumn colours on our shores](http://wildshores.blogspot.com/2009/03/autumn-colours-on-our-shores.html)
 
@@ -84,8 +81,7 @@ links_references: '### Links
 
   *Wayside Trees of Malaya: in two volumes*
 
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
-  1-38; volume 2: 477-861 pp., plates 139-236.
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
   - Tomlinson, P. B., 1986.
 
@@ -97,8 +93,7 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
   - Wee Yeow Chin. 1992.
 
@@ -118,6 +113,7 @@ habitats:
 - sandy shore
 - muddy shore
 - mangrove
+permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Malpighiales/Euphorbiaceae/Euphorbioideae/Excoecaria
 ---
 
 ## Where seen?

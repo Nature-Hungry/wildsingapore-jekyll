@@ -1,9 +1,7 @@
 ---
 title: Pisang-pisang
 description: Fact sheet of Pisang-pisang on the shores of Singapore
-keywords: pisang, kandelia, candel, rhizophoraceae, tree, mangrove, mangroves, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: pisang, kandelia, candel, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 18
@@ -43,8 +41,7 @@ links_references: '### Links
 
   on the NParks Flora and Fauna website: photos and fact sheet.
 
-  - [Pisang pisang (
-  *Kandelia candel*
+  - [Pisang pisang ( *Kandelia candel*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1064)
 
@@ -60,8 +57,7 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
-  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
   ### References
@@ -77,8 +73,7 @@ links_references: '### Links
 
   *Wayside Trees of Malaya: in two volumes*
 
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
-  1-38; volume 2: 477-861 pp., plates 139-236.
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
   - Tomlinson, P. B., 1986.
 
@@ -96,8 +91,7 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
   '
 size:
@@ -109,6 +103,7 @@ zone:
 - intertidal
 habitats:
 - mangrove
+permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Malpighiales/Rhizophoraceae/Kandelia
 ---
 
 ## Where seen?

@@ -1,8 +1,7 @@
 ---
 title: Sea catfishes
 description: Fact sheet of Sea catfishes on the shores of Singapore
-keywords: sea, catfish, cat, fish, ariidae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: sea, catfish, cat, fish, ariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -27,19 +26,15 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/ariidae/ariidae/040509
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg
-    caption: This large one (about 30cm) was caught by a fisherman. Pulau Sekudu,
-      May 04
+    caption: This large one (about 30cm) was caught by a fisherman. Pulau Sekudu, May 04
   - url: https://images.naturehungry.sg/vertebrates/fish/ariidae/ariidae/020101bcjd4293m3.jpg
-    caption: This large one (20cm) was trapped in a rock pool at low tide. Chek Jawa,
-      Jan 02
+    caption: This large one (20cm) was trapped in a rock pool at low tide. Chek Jawa, Jan 02
   - url: https://images.naturehungry.sg/vertebrates/fish/ariidae/ariidae/030608cjd0063m3.jpg
-    caption: Small ones (about 6cm) are sometimes seen in large numbers on the shores.
-      Chek Jawa, Jun 03
+    caption: Small ones (about 6cm) are sometimes seen in large numbers on the shores. Chek Jawa, Jun 03
 links_references: '### Links
 
 
-  - [Yellow Sea Catfish (
-  *Arius venosus*
+  - [Yellow Sea Catfish ( *Arius venosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/223)
 
@@ -133,6 +128,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Siluriformes/Siluroidei/Ariidae
 ---
 
 ## Where seen?

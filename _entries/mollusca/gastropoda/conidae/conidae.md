@@ -1,9 +1,7 @@
 ---
 title: 'Cone snails '
 description: Fact sheet of Cone snails  on the shores of Singapore
-keywords: cone, snail, shell, conus, conidae, gastropod, mollusc, sand, collar, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: cone, snail, shell, conus, conidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Conidae
 genus: ''
@@ -29,8 +27,7 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/190123lazay2.jpg
     caption: Lazarus, Jan 19 Photo shared by Abel Yeo on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/180731ecprk.jpg
-    caption: Conus caracteristicus East Coast Park, Jul 18 Photo shared by Royston
-      Koh Lai Peng on Singapore Biodiverity Records.
+    caption: Conus caracteristicus East Coast Park, Jul 18 Photo shared by Royston Koh Lai Peng on Singapore Biodiverity Records.
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/191127lazky4a.jpg
     caption: Lazarus, Nov 19 Photo shared by Kelvin Yong on facebook .
@@ -60,8 +57,7 @@ galleries:
     caption: Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook .
   gallery8:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/200705kusjll2.jpg
-    caption: Conus textile Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook
-      .
+    caption: Conus textile Kusu Island, Jul 20 Photo shared by Jianlin Liu on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/240114kusccn1b.jpg
     caption: Kusu Island, Jan 24 Photo shared by Che Cheng Neo on facebook .
   gallery9:
@@ -75,8 +71,7 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/251011ssisccn1.jpg
     caption: Small Sisters Island, Oct 25
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/251011ssisccn1a.jpg
-    caption: 'Photo shared by Che Cheng Neo on facebook Conus achatinus : ID by Yan
-      Le Su .'
+    caption: 'Photo shared by Che Cheng Neo on facebook Conus achatinus : ID by Yan Le Su .'
   gallery11:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/191028bsisvc2.jpg
     caption: Big Sisters Island, Oct 19 Photo shared by Vincent Choo on facebook .
@@ -84,8 +79,7 @@ galleries:
     caption: Big Sisters Island, Oct 19 Photo shared by Vincent Choo on facebook .
   gallery12:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/230705ssisky4.jpg
-    caption: Small Sisters Island, Jul 23 Photo shared by Kelvin Yong on facebook
-      .
+    caption: Small Sisters Island, Jul 23 Photo shared by Kelvin Yong on facebook .
   gallery13:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/171104cyrlks1.jpg
     caption: Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on facebook .
@@ -95,11 +89,9 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/220911cyrrk1.jpg
     caption: Cyrene, Sep 22 Photo shared by Richard Kuah on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/210810tpltch4.jpg
-    caption: Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on facebook
-      .
+    caption: Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/conidae/conidae/250712tplrk1.jpg
-    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook
-      .
+    caption: Terumbu Pempang Laut, Jul 25 Photo shared by Richard Kuah on facebook .
   gallery15:
   - url: https://live.staticflickr.com/912/40398360790_a0607e141b_z.jpg
     caption: Sisters Island, May 2018
@@ -108,15 +100,13 @@ links_references: '### Links
 
   - [Geography Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/251)
 
-  (
-  *Conus geographus*
+  ( *Conus geographus*
 
   ) and
 
   [Cone Shell](http://mangrove.nus.edu.sg/pub/seashore/text/148)
 
-  (
-  *Conus consors*
+  ( *Conus consors*
 
   ) Tan, Leo W. H. & Ng, Peter K. L., 1988.
 
@@ -124,15 +114,13 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Textile cone (
-  *Conus textile*
+  - [Textile cone ( *Conus textile*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=203)
 
   and
 
-  [Singed cone (
-  *Conus consors*
+  [Singed cone ( *Conus consors*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=204)
 
@@ -140,11 +128,9 @@ links_references: '### Links
 
   - [Family Conidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Conidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet on moon snails with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on moon snails with photos.
 
-  - Family Conidaein the Gastropods section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Conidaein the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -156,8 +142,7 @@ links_references: '### Links
 
   - *A sighting of the turtle cone shell, Conus achatinus*
 
-  , 22 January 2020, Calvin Jiah Jay Leow, Singapore Biodiversity Records, 2020: 8
-  ISSN 2345-7597, National University of Singapore.
+  , 22 January 2020, Calvin Jiah Jay Leow, Singapore Biodiversity Records, 2020: 8 ISSN 2345-7597, National University of Singapore.
 
 
   ### References
@@ -173,8 +158,7 @@ links_references: '### Links
 
   *Cone snail, Conus caracteristicus, at East Coast Park*
 
-  . 31 July 2018. Singapore Biodiversity Records 2018: 75 ISSN 2345-7597. National
-  University of Singapore.
+  . 31 July 2018. Singapore Biodiversity Records 2018: 75 ISSN 2345-7597. National University of Singapore.
 
   - Toh Chay Hoon and Tan Siong Kiat. 12 September 2014.
 
@@ -208,8 +192,7 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
-  of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
 
   Sea Challengers. 314pp.
 
@@ -233,6 +216,7 @@ zone:
 habitats:
 - rocky shore
 - coral reef
+permalink: /entries/Mollusca/Gastropoda/Neogastropoda/Conidae
 ---
 
 ## Where seen?

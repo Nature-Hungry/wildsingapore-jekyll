@@ -1,9 +1,7 @@
 ---
 title: 'Creeper snails '
 description: Fact sheet of Creeper snails  on the shores of Singapore
-keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cerithiidae
 genus: ''
@@ -28,11 +26,9 @@ galleries:
     caption: Operculum with only a few whorls.
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg
-    caption: Plain creeper snails sometimes seen in large numbers. Pasir Ris Park,
-      Aug 13
+    caption: Plain creeper snails sometimes seen in large numbers. Pasir Ris Park, Aug 13
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg
-    caption: Empty shells may be taken over by tiny huddling hermit crabs . St John's
-      Island, Jan 06
+    caption: Empty shells may be taken over by tiny huddling hermit crabs . St John's Island, Jan 06
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg
     caption: Plain creeper snails
@@ -46,8 +42,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Traill''s cerith (
-  *Cerithium trailli*
+  - [Traill''s cerith ( *Cerithium trailli*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=189)
 
@@ -55,12 +50,9 @@ links_references: '### Links
 
   - [Family Cerithiidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Cerithiidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief description and photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
 
-  - Family Cerithiidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Cerithiidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -68,8 +60,7 @@ links_references: '### Links
 
   - *Records of two cerithiopsid snails in Singapore*
 
-  , 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records,
-  2020: 9-10 ISSN 2345-7597, National University of Singapore.
+  , 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records, 2020: 9-10 ISSN 2345-7597, National University of Singapore.
 
 
   ### References
@@ -129,6 +120,7 @@ habitats:
 - sandy shore
 - coral rubble
 - coral reef
+permalink: /entries/Mollusca/Gastropoda/Cerithiidae
 ---
 
 ## Where seen?

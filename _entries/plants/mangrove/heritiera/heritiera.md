@@ -1,9 +1,7 @@
 ---
 title: Dungun
 description: Fact sheet of Dungun on the shores of Singapore
-keywords: dungun, heritiera, littoralis, malvaceae, sterculiaceae, tree, mangrove,
-  mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: dungun, heritiera, littoralis, malvaceae, sterculiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 16
@@ -49,8 +47,7 @@ links_references: '### Links
 
   on the NParks Flora and Fauna website: photos and fact sheet.
 
-  - [Dungun (
-  *Heritiera littoralis*
+  - [Dungun ( *Heritiera littoralis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1062)
 
@@ -66,8 +63,7 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
-  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
   ****
 
@@ -79,8 +75,7 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -104,8 +99,7 @@ links_references: '### Links
 
   *Wayside Trees of Malaya: in two volumes*
 
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
-  1-38; volume 2: 477-861 pp., plates 139-236.
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
   '
 size:
@@ -119,6 +113,7 @@ zone:
 habitats:
 - rocky shore
 - mangrove
+permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Malvales/Malvaceae/Sterculioideae/Heritiera
 ---
 
 ## Where seen?

@@ -1,8 +1,7 @@
 ---
 title: Sharks
 description: Fact sheet of Sharks on the shores of Singapore
-keywords: sharks, selachimorpha, selachii, elasmobranchii, fish, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: sharks, selachimorpha, selachii, elasmobranchii, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -30,37 +29,29 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/0702
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/070228hnttch2m3.jpg
-    caption: Bamboo shark spotted diving. Pulau Hantu, Feb 07 Photo shared by Toh
-      Chay Hoon on her blog .
+    caption: Bamboo shark spotted diving. Pulau Hantu, Feb 07 Photo shared by Toh Chay Hoon on her blog .
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/110626hntdn2m3.jpg
-    caption: The Bamboo shark is often seen by divers at Pulau Hantu. Pulau Hantu,
-      Jun 2011 Photo shared on the Hantu Blog .
+    caption: The Bamboo shark is often seen by divers at Pulau Hantu. Pulau Hantu, Jun 2011 Photo shared on the Hantu Blog .
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/100614bbtch8m3.jpg
-    caption: Baby bamboo shark! Beting Bronok, Jun 2010 Photo shared by Toh Chay Hoon
-      on her blog
+    caption: Baby bamboo shark! Beting Bronok, Jun 2010 Photo shared by Toh Chay Hoon on her blog
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/110528smks02448m6l.jpg
     caption: This Black-tipped reef shark was found dead . Pulau Semakau, May 11
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/120722cyrrl.jpg
-    caption: Sharks rushing in with the incoming tide. Cyrene Reef, Jul 12 Photo shared
-      by Russel Low on facebook .
+    caption: Sharks rushing in with the incoming tide. Cyrene Reef, Jul 12 Photo shared by Russel Low on facebook .
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/110719sntL1060905.jpg
     caption: Shark egg capsule? Washed ashore. Sentosa, Jul 11
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/180717tbll7.jpg
-    caption: Coral cat-shark sheltering under coral rubble during low tide. Terumbu
-      Bemban, Jul 18 Photo shared by Lisa Lim on facebook .
+    caption: Coral cat-shark sheltering under coral rubble during low tide. Terumbu Bemban, Jul 18 Photo shared by Lisa Lim on facebook .
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/251107tmftlks2.jpg
-    caption: Live Remora seen in a lagoon. Tanah Merah Ferry Terminal, Nov 25 Photo
-      shared by Loh Kok Sheng on facebook .
+    caption: Live Remora seen in a lagoon. Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/251107tmftlks2a.jpg
-    caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook
-      .
+    caption: Tanah Merah Ferry Terminal, Nov 25 Photo shared by Loh Kok Sheng on facebook .
   gallery6:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/130809smklks.jpg
-    caption: Three dead sharks in front of fishing net. Pulau Semakau, Aug 13 Photo
-      shared by Loh Kok Sheng on his blog .
+    caption: Three dead sharks in front of fishing net. Pulau Semakau, Aug 13 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/100711cyrd8266m3.jpg
     caption: Shark trapped in fishing net. Cyrene, Jul 10
   gallery7:
@@ -72,18 +63,15 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/170625bbll1.jpg
     caption: Beting Bronok, Jun 17 Photo shared by Lisa Lim on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/201029sisrk.jpg
-    caption: Black tipped reef shark outside the seawall. Sisters Island, Oct 20 Photo
-      shared by Richard Kuah on facebook .
+    caption: Black tipped reef shark outside the seawall. Sisters Island, Oct 20 Photo shared by Richard Kuah on facebook .
   gallery9:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/120805cyrjs1m3.jpg
-    caption: Black tipped reef shark with the incoming tide. Cyrene Reef, Aug 12 Photo
-      shared by Jocelyn Sze on her blog
+    caption: Black tipped reef shark with the incoming tide. Cyrene Reef, Aug 12 Photo shared by Jocelyn Sze on her blog
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/210821cyrdc1.jpg
     caption: Cyrene Reef, Aug 21 Photo shared by Dayna Cheah on facebook .
   gallery10:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/201018smksvc1.jpg
-    caption: Found dead at low tide. Pulau Semakau South, Oct 20 Photo shared by Vincent
-      Choo on facebook .
+    caption: Found dead at low tide. Pulau Semakau South, Oct 20 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/120805bbbrl.jpg
     caption: Beting Bemban Besar, Aug 12 Photo shared by Russel Low on facebook .
   gallery11:
@@ -91,8 +79,7 @@ galleries:
     caption: Terumbu Bemban, Apr 22 Photo shared by Tang Yong Jen on facebook .
   gallery12:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/240609tptky1.jpg
-    caption: Terumbu Pempang Tengah, Jun 24 From video shared by Kelvin Yong on facebook
-      .
+    caption: Terumbu Pempang Tengah, Jun 24 From video shared by Kelvin Yong on facebook .
   gallery13:
   - url: https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/220102biolks5a.jpg
     caption: Pulau Biola, Jan 22 Photo shared by Loh Kok Sheng on facebook .
@@ -109,23 +96,19 @@ links_references: '### Links
 
   - [*Carcharhinus melanopterus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Carcharhinus%20melanopterus.html)
 
-  (Carcharhiniformes: Carcharhinidae) Blacktip Reef Shark by Kok Wai Kit Jerome, 2012
-  on taxo4254.
+  (Carcharhiniformes: Carcharhinidae) Blacktip Reef Shark by Kok Wai Kit Jerome, 2012 on taxo4254.
 
   - *[Chiloscyllium plagiosum](https://singapore.biodiversity.online/taxo4254/mainSpace/Whitespotted%20Bamboo%20Shark.html)*
 
-  (Orectolobiformes: Hemiscylliidae) Whitespotted Bamboo Shark by Lin Yuan, 2015,
-  on taxo4254.
+  (Orectolobiformes: Hemiscylliidae) Whitespotted Bamboo Shark by Lin Yuan, 2015, on taxo4254.
 
-  - [*Sphyrna lewini*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sphyrna
-  lewini.html)
+  - [*Sphyrna lewini*](https://singapore.biodiversity.online/taxo4254/mainSpace/Sphyrna lewini.html)
 
   (Carcharhiniformes: Sphyrnidea) Scalloped Hammerhead by Li Xuezhi, 2013 on taxo4254.
 
   - From Mothership
 
-  - [Anglers at Changi catch & release bamboo shark because it is near-threatened
-  species,](https://mothership.sg/2020/08/bamboo-shark-released-anglers/)
+  - [Anglers at Changi catch & release bamboo shark because it is near-threatened species,](https://mothership.sg/2020/08/bamboo-shark-released-anglers/)
 
   7 Aug 2020.
 
@@ -147,8 +130,7 @@ links_references: '### Links
   ### References
 
 
-  - Chim Chee Kong, Lee Yen-ling, Samantha Tong, Teresa Tay & Rene Ong. 16 October
-  2015.
+  - Chim Chee Kong, Lee Yen-ling, Samantha Tong, Teresa Tay & Rene Ong. 16 October 2015.
 
   *Blacktip reef sharks caught in trammel nets at Lazarus Island*
 
@@ -188,8 +170,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   '
 location:
@@ -205,10 +186,8 @@ location:
 - rfl
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Sharks can still be found in Singapore waters! They will not harm humans if they
-  are left alone
-- As top predators, they play an important role in the health and balance of the marine
-  ecosystem.
+- Sharks can still be found in Singapore waters! They will not harm humans if they are left alone
+- As top predators, they play an important role in the health and balance of the marine ecosystem.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
@@ -216,6 +195,7 @@ zone:
 - marine
 habitats:
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Chondrichthyes/Orectolobiformes/Hemiscylliidae
 ---
 
 ## Where seen?

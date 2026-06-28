@@ -1,8 +1,7 @@
 ---
 title: Archerfishes
 description: Fact sheet of Archerfishes on the shores of Singapore
-keywords: acherfish, archer, fish, toxotidae, toxotes, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: acherfish, archer, fish, toxotidae, toxotes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Toxotidae
 genus: ''
@@ -22,8 +21,7 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/0
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
-    caption: Archerfishes hanging under the main bridge. Sungei Buloh Wetland Reserve,
-      Nov 04
+    caption: Archerfishes hanging under the main bridge. Sungei Buloh Wetland Reserve, Nov 04
   - url: https://images.naturehungry.sg/vertebrates/fish/toxotidae/jaculatrix/110205krjd5875m6l.jpg
     caption: Swimming at the surface among floating debris. Kranji, Feb 11
   gallery3:
@@ -39,8 +37,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Banded Archerfish (
-  *Toxotes jaculatrix*
+  - [Banded Archerfish ( *Toxotes jaculatrix*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324)
 
@@ -50,8 +47,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Archerfish (
-  *Toxotes jaculatrix*
+  - [Archerfish ( *Toxotes jaculatrix*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2105)
 
@@ -127,6 +123,7 @@ zone:
 - marine
 habitats:
 - mangrove
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Toxotoidei/Toxotidae
 ---
 
 ## Where seen?

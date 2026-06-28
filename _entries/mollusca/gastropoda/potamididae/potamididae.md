@@ -1,9 +1,7 @@
 ---
 title: 'Horn snails '
 description: Fact sheet of Horn snails  on the shores of Singapore
-keywords: horn, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc,
-  mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: horn, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Potamididae
 genus: ''
@@ -41,22 +39,19 @@ galleries:
 links_references: '### Links
 
 
-  - [Mud creepers (
-  *Cerithidea obtusa*
+  - [Mud creepers ( *Cerithidea obtusa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2081)
 
   ,
 
-  [Belitong (
-  *Terebralia sulcata*
+  [Belitong ( *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2082)
 
   ,
 
-  [Rodong/Berongan (
-  *Telescopium telescopium*
+  [Rodong/Berongan ( *Telescopium telescopium*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2084)
 
@@ -66,19 +61,15 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Telescope Creeper Shell (
-  *Telescopium telescopium*
+  - [Telescope Creeper Shell ( *Telescopium telescopium*
 
-  ), Obtuse creeper (
-  *Cerithidae obtusa*
+  ), Obtuse creeper ( *Cerithidae obtusa*
 
-  ), Sulcate creeper (
-  *Terebralia sulcata*
+  ), Sulcate creeper ( *Terebralia sulcata*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
 
-  [Creeper Shell (
-  *Batillaria zonalis*
+  [Creeper Shell ( *Batillaria zonalis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/138)
 
@@ -90,12 +81,9 @@ links_references: '### Links
 
   - [Family Potamididae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Potamididae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet on Nerites with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on Nerites with photos.
 
-  - Family Potamididae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Potamididae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -152,6 +140,7 @@ zone:
 - marine
 habitats:
 - mangrove
+permalink: /entries/Mollusca/Gastropoda/Potamididae
 ---
 
 ## Where seen?

@@ -12,6 +12,7 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Nemertea
 updated: Jan 2020
 coverimg: https://images.naturehungry.sg/worm/nemertea/short/100213tmd9299m3a.jpg
 galleries:

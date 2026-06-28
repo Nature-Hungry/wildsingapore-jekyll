@@ -1,9 +1,7 @@
 ---
 title: Red berry snail
 description: Fact sheet of Red berry snail on the shores of Singapore
-keywords: red, berry, snail, sphaerassiminea, assiminea, miniata, assimineidae, gastropod,
-  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: red, berry, snail, sphaerassiminea, assiminea, miniata, assimineidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Assimineidae
 genus: ''
@@ -43,8 +41,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Red berry snail (
-  *Sphaerassiminea miniata*
+  - [Red berry snail ( *Sphaerassiminea miniata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2083)
 
@@ -56,8 +53,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Red mangrove shell (
-  *Assiminaea brevicula*
+  - [Red mangrove shell ( *Assiminaea brevicula*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/152)
 
@@ -69,8 +65,7 @@ links_references: '### Links
 
   - *New Singapore record of the assiminid snail, Assiminea woodmasoniana*
 
-  , 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records,
-  2020: 11-12 ISSN 2345-7597, National University of Singapore.
+  , 22 January 2020, Chan Sow-Yan & Lau Wing Lup, Singapore Biodiversity Records, 2020: 11-12 ISSN 2345-7597, National University of Singapore.
 
 
   ### References
@@ -78,8 +73,7 @@ links_references: '### Links
 
   - Chan Sow-Yan & Lau Wing Lup. 27 March 2020.
 
-  *Confirmation of the occurrence of the Shiny assiminid snail, Assiminea nitida,
-  in Singapore*
+  *Confirmation of the occurrence of the Shiny assiminid snail, Assiminea nitida, in Singapore*
 
   . Singapore Biodiversity Records 2020: 34-36 ISSN 2345-7597
 
@@ -110,6 +104,7 @@ zone:
 - marine
 habitats:
 - mangrove
+permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Assimineidae
 ---
 
 ## Where seen?

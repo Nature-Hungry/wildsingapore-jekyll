@@ -1,10 +1,10 @@
 ---
 title: Giant clams
 description: Fact sheet of Giant clams on the shores of Singapore
-keywords: giant, clam, tridacninae, tridacnidae, bivalve, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: giant, clam, tridacninae, tridacnidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cardiidae
+subfamily: Tridacninae
 genus: ''
 species: ''
 attributes: []
@@ -24,15 +24,11 @@ coverimg: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
-    caption: The Fluted giant clam is usually firmly attached to a hard surface. Sisters
-      Island, Jan 04
+    caption: The Fluted giant clam is usually firmly attached to a hard surface. Sisters Island, Jan 04
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/210823smkevc3.jpg
-    caption: Shell is anchored by a large byssus mass that emerges from a gap at the
-      bottom. Seen here in this dead clam. Pulau Semakau (East), Aug 21 Photo shared
-      by Vincent Choo on facebook .
+    caption: Shell is anchored by a large byssus mass that emerges from a gap at the bottom. Seen here in this dead clam. Pulau Semakau (East), Aug 21 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
-    caption: The Burrowing giant clam are often embedded inside corals. Pulau Hantu,
-      Mar 05
+    caption: The Burrowing giant clam are often embedded inside corals. Pulau Hantu, Mar 05
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg
     caption: Burrowing giant clam. Pulau Hantu, Feb 06
@@ -52,47 +48,7 @@ galleries:
     caption: Fluted giant clam
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
     caption: Burrowing giant clam
-links_references: "### Links
-\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\n\
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
-  . The Singapore Science Centre, Singapore. 160 pp.\n- [Dr Neo Mei Lin's blog](https://meilin5giantclam.wordpress.com/about-2/)\n\
-  about her work on Giant clams.\n- [*Tridacna squamosa*\n(Veneroida: Cardiidae) Fluted\
-  \ giant clam](https://taxo4254.wikispaces.com/Tridacna+squamosa)\n, Tricia Poh Shi\
-  \ Min, 2015, on taxo4254.\n- [Family Tridacnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Tridacnidae.html)\n\
-  on\n[The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)\n\
-  at Washington State University Tri-Cities Natural History Museum website: brief\
-  \ description and photos.\n- Family Tridacnidae in the Bivalves section by J.M.\
-  \ Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living\
-  \ Marine Resources of the Western Central Pacific\n[Volume 1: Seaweeds, corals,\
-  \ bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\non the\
-  \ Food and Agriculture Organization of the United Nations (FAO) website.\n- [Do\
-  \ Giant clams trap divers in their shells?](http://psychedelic-nature.blogspot.com/2008/11/is-this-true.html)\n\
-  this myth dispelled on the Psychedelic Nature blog..\n- [Bid to repopulate giant\
-  \ clams on Singapore's reefs](http://wildsingaporenews.blogspot.sg/2012/04/bid-to-repopulate-giant-clams-on.html)\n\
-  Team of biologists aims to put back hundreds to add to marine diversity Jose Hong\
-  \ Straits Times 21 Apr 12;\n- On wild shores of singapore\n- [Dr Neo Mei Lin's talk\
-  \ about Giant clams](https://wildshores.blogspot.com/2020/05/dr-neo-mei-lin-shares-about-giant-clams.html)\n\
-  (28 May 2020)\n- [Giant clams eaten to extinction?](http://wildshores.blogspot.com/2008/09/giant-clams-eaten-to-extinction.html)\n\
-  \n### References
-\n- Mei Lin Neo and Peter A. Todd. 25 June 2013.\n*Conservation\
-  \ Status Reassessment of Giant Clams (Mollusca: Bivalvia: Tridacninae) in Singapore*\n\
-  . Nature in Singapore 2013 6: 125\u2013133\n- Mei Lin Neo, Paul L. A. Erftemeijer,\
-  \ Jan K. L. van Beek, Dirk S. van Maren, Serena L-M. Teo, Peter A. Todd. 13 March\
-  \ 2013.\n[Recruitment constraints in Singapore's fluted giant clam (Tridacna squamosa)\
-  \ population\u2014A dispersal model approach](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058819)\n\
-  . PLOS one.\n- M. L. Neo and Peter A. Todd. Jun 2012.\n*Giant clams (Mollusca: Bivalvia:\
-  \ Tridacninae) in Singapore: History, research and conservation*\n. Raffles Bulletin\
-  \ of Zoology 2012 Supplement No. 25: 67-78.\n- Mei Lin Neo, Peter A. Todd. 6 Mar\
-  \ 2012.\n[Population density and genetic structure of the giant clams Tridacna crocea\
-  \ and T. squamosa on Singapore\u2019s reefs](http://www.int-res.com/articles/ab2011/14/b014p265.pdf)\n\
-  . Aquatic Biology Vol. 14: 265\u2013275.\n- Tan Siong Kiat and Henrietta P. M. Woo,\
-  \ 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum\
-  \ of Biodiversity Research, National University of Singapore.\n- [Can artificial\
-  \ substrates enriched with crustose coralline algae enhance larval settlement and\
-  \ recruitment in the fluted giant clam (\n*Tridacna squamosa*\n)?](http://www.springerlink.com/content/q86201023445t0gp/?p=37e63309393a415fa89ff1e5bda94407&pi=0)\n\
-  a study of Singapore's fluted giant clams by Mei Lin Neo, Peter A. Todd, Serena\
-  \ Lay-Ming Teo and Loke Ming Chou on Hydrobiologia, Jun 2009.\n- James R. Guest,\
-  \ Peter A. Todd, Eugene Goh, Balasubramaniam S. Sivalonganathan,\n"
+links_references: "### Links \n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\nTan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore Science Centre, Singapore. 160 pp.\n- [Dr Neo Mei Lin's blog](https://meilin5giantclam.wordpress.com/about-2/)\nabout her work on Giant clams.\n- [*Tridacna squamosa*\n(Veneroida: Cardiidae) Fluted giant clam](https://taxo4254.wikispaces.com/Tridacna+squamosa)\n, Tricia Poh Shi Min, 2015, on taxo4254.\n- [Family Tridacnidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Tridacnidae.html)\non\n[The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)\nat Washington State University Tri-Cities Natural History Museum website: brief description and photos.\n- Family Tridacnidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific\n[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\non the Food and Agriculture Organization of the United Nations (FAO) website.\n- [Do Giant clams trap divers in their shells?](http://psychedelic-nature.blogspot.com/2008/11/is-this-true.html)\nthis myth dispelled on the Psychedelic Nature blog..\n- [Bid to repopulate giant clams on Singapore's reefs](http://wildsingaporenews.blogspot.sg/2012/04/bid-to-repopulate-giant-clams-on.html)\nTeam of biologists aims to put back hundreds to add to marine diversity Jose Hong Straits Times 21 Apr 12;\n- On wild shores of singapore\n- [Dr Neo Mei Lin's talk about Giant clams](https://wildshores.blogspot.com/2020/05/dr-neo-mei-lin-shares-about-giant-clams.html)\n(28 May 2020)\n- [Giant clams eaten to extinction?](http://wildshores.blogspot.com/2008/09/giant-clams-eaten-to-extinction.html)\n\n### References \n- Mei Lin Neo and Peter A. Todd. 25 June 2013.\n*Conservation Status Reassessment of Giant Clams (Mollusca: Bivalvia: Tridacninae) in Singapore*\n. Nature in Singapore 2013 6: 125\u2013133\n- Mei Lin Neo, Paul L. A. Erftemeijer, Jan K. L. van Beek, Dirk S. van Maren, Serena L-M. Teo, Peter A. Todd. 13 March 2013.\n[Recruitment constraints in Singapore's fluted giant clam (Tridacna squamosa) population\u2014A dispersal model approach](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058819)\n. PLOS one.\n- M. L. Neo and Peter A. Todd. Jun 2012.\n*Giant clams (Mollusca: Bivalvia: Tridacninae) in Singapore: History, research and conservation*\n. Raffles Bulletin of Zoology 2012 Supplement No. 25: 67-78.\n- Mei Lin Neo, Peter A. Todd. 6 Mar 2012.\n[Population density and genetic structure of the giant clams Tridacna crocea and T. squamosa on Singapore\u2019s reefs](http://www.int-res.com/articles/ab2011/14/b014p265.pdf)\n. Aquatic Biology Vol. 14: 265\u2013275.\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National University of Singapore.\n- [Can artificial substrates enriched with crustose coralline algae enhance larval settlement and recruitment in the fluted giant clam (\n*Tridacna squamosa*\n)?](http://www.springerlink.com/content/q86201023445t0gp/?p=37e63309393a415fa89ff1e5bda94407&pi=0)\na study of Singapore's fluted giant clams by Mei Lin Neo, Peter A. Todd, Serena Lay-Ming Teo and Loke Ming Chou on Hydrobiologia, Jun 2009.\n- James R. Guest, Peter A. Todd, Eugene Goh, Balasubramaniam S. Sivalonganathan,\n"
 location:
 - snt
 - laz
@@ -108,8 +64,7 @@ size:
 - 40.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are among the largest clams to have existed on Earth! They 'farm' algae in
-  their bodies
+- They are among the largest clams to have existed on Earth! They 'farm' algae in their bodies
 - The algae provides the clams food
 - They are globally endangered due to overcollection as a delicacy.
 authors:
@@ -119,6 +74,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+permalink: /entries/Mollusca/Bivalvia/Cardiida/Cardiidae/Tridacninae
 ---
 
 ## Where seen?

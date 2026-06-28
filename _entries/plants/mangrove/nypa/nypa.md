@@ -1,8 +1,7 @@
 ---
 title: 'Nipah     palm '
 description: Fact sheet of Nipah     palm  on the shores of Singapore
-keywords: nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 8
@@ -59,8 +58,7 @@ links_references: '### Links
 
   (Arecales: Arecaceae) Nipah Palm by Erika I. Halim, 2013 on taxo4254.
 
-  - [Nipah (
-  *Nypa fruticans*
+  - [Nipah ( *Nypa fruticans*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1068)
 
@@ -72,8 +70,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Nipah or Attap Palm (
-  *Nypa fruticans*
+  - [Nipah or Attap Palm ( *Nypa fruticans*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/109)
 
@@ -87,8 +84,7 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
-  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
   ### References
@@ -96,8 +92,7 @@ links_references: '### Links
 
   - Teo, S., W. F. Ang, A. F. S. L. Lok, B. R. Kurukulasuriya & H. T. W. Tan, 2010.
 
-  [The status and distribution of the nipah palm, Nypa fruticans Wurmb (Arecaceae),
-  in Singapore](http://rmbr.nus.edu.sg/nis/bulletin2010/2010nis045-052.pdf)
+  [The status and distribution of the nipah palm, Nypa fruticans Wurmb (Arecaceae), in Singapore](http://rmbr.nus.edu.sg/nis/bulletin2010/2010nis045-052.pdf)
 
   . Nature in Singapore, 3: 45-52.
 
@@ -117,8 +112,7 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -137,6 +131,7 @@ zone:
 - intertidal
 habitats:
 - mangrove
+permalink: /entries/Tracheophyta/Angiospermae/Liliopsida/Arecales/Arecaceae/Nypoideae/Nypa
 ---
 
 ## Where seen?

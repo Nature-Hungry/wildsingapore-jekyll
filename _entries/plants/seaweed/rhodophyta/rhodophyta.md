@@ -1,8 +1,7 @@
 ---
 title: 'Red seaweed '
 description: Fact sheet of Red seaweed  on the shores of Singapore
-keywords: red, seaweed, weed, algae, rhodophyceae, rhodophyta, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: red, seaweed, weed, algae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: ''
@@ -11,7 +10,8 @@ species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
-kingdom: Animalia
+kingdom: Plantae
+phylum: Rhodophyta
 updated: Dec 11
 coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg
 galleries:
@@ -69,8 +69,7 @@ links_references: '### Links
 
   *Porphyra*
 
-  has become a major industry in the Asian countries, especially China and Japan.
-  Have you ever wondered how they do it?
+  has become a major industry in the Asian countries, especially China and Japan. Have you ever wondered how they do it?
 
   - [Red seaweed protection against bleaching](http://wildshores.blogspot.com/2008/12/red-seaweeds-defence-against-bleaching.html)
 
@@ -80,8 +79,7 @@ links_references: '### Links
   ### References
 
 
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
-  Tsai Min and Wang Luan Keng,
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
 
   *A photographic guide to the marine algae of Singapore*
 
@@ -89,16 +87,13 @@ links_references: '### Links
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 
-  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
-  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
 
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
-  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 
   - A. C. Lee, Lawrence M. Liao and K. S. Tan.
 
-  [*New records of marine algae on artificial structures and intertidal flats in coastal
-  waters of Singapore*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)
+  [*New records of marine algae on artificial structures and intertidal flats in coastal waters of Singapore*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz005-040.pdf)
 
   . Pp. 5-40. in the Raffles Bulletin of Zoology.
 
@@ -106,8 +101,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Chou, L. M., 1998.
 
@@ -138,13 +132,13 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - Red seaweeds are not always red
 - They may be green, black, brown
-- The seaweed used in sushi is a red seaweed! Extracts of red seaweed are used in
-  our everyday processed food and products.
+- The seaweed used in sushi is a red seaweed! Extracts of red seaweed are used in our everyday processed food and products.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - intertidal
 - marine
+permalink: /entries/Rhodophyta
 ---
 
 ## Where seen?

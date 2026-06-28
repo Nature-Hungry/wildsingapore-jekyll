@@ -1,8 +1,7 @@
 ---
 title: Drills
 description: Fact sheet of Drills on the shores of Singapore
-keywords: drill, muricidae, gastropod, mollusc, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: drill, muricidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Muricidae
 genus: ''
@@ -46,8 +45,7 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
     caption: Egg capsules of Mangrove murex Kranji Nature Trail, Feb 11
   - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/muricidaenoid/210529epcnvc5.jpg
-    caption: Drill eating eggs laid by another animal? East Coast (PCN), May 21 Photo
-      shared by Vincent Choo on facebook .
+    caption: Drill eating eggs laid by another animal? East Coast (PCN), May 21 Photo shared by Vincent Choo on facebook .
   gallery6:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg
     caption: Elegant drills
@@ -79,11 +77,9 @@ galleries:
 links_references: '### Links
 
 
-  - [Drill (
-  *Thais gradata*
+  - [Drill ( *Thais gradata*
 
-  ) and Ketem (
-  *Chicoreus capucinus*
+  ) and Ketem ( *Chicoreus capucinus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2085)
 
@@ -93,11 +89,9 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Spiny Murex (
-  *Murex martineaus*
+  - [Spiny Murex ( *Murex martineaus*
 
-  ), Mangrove Murex (
-  *Chicoreus capucinus*
+  ), Mangrove Murex ( *Chicoreus capucinus*
 
   ), Thais and Morula](http://mangrove.nus.edu.sg/pub/seashore/text/146)
 
@@ -111,15 +105,13 @@ links_references: '### Links
 
   - Rugose Drupe by Wu Yuwei, 10 Apr 2019 on Taxo4254.
 
-  - [Ramose murex (
-  *Chicoreus ramosus*
+  - [Ramose murex ( *Chicoreus ramosus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=200)
 
   and
 
-  [Rare-spined murex (
-  *Murex trapa*
+  [Rare-spined murex ( *Murex trapa*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=195)
 
@@ -127,8 +119,7 @@ links_references: '### Links
 
   - [Family Muricidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Muricidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet on drills with photos
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on drills with photos
 
   - [Family Muricidae (Murex, Rock or Coral shells)](http://seashellsofnsw.org.au/Muricidae/Pages/muricidae_intro)
 
@@ -136,8 +127,7 @@ links_references: '### Links
 
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
 
-  website by Des Beechey Research Associate, Australian Museum: family introductions
-  with photos of shells and detailed fact sheets for many species.
+  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
 
   - [Murex shells (Family Muricidae)](http://www.mesa.edu.au/friends/seashores/murex_shells.html)
 
@@ -145,12 +135,9 @@ links_references: '### Links
 
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
 
-  by Keith Davey on the Marine Education Society of Australia website: Fact sheet
-  on drills and details on various species found in Australia.
+  by Keith Davey on the Marine Education Society of Australia website: Fact sheet on drills and details on various species found in Australia.
 
-  - Family Muricidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Muricidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -158,13 +145,11 @@ links_references: '### Links
 
   - [Use of molluscs for personal adornment](http://www.manandmollusc.net/beginners_uses/8.html)
 
-  on the Man and Molluscs website: an introduction to the wide range of dyes produced
-  by members of the Family Muricidae with links to photos of the shells.
+  on the Man and Molluscs website: an introduction to the wide range of dyes produced by members of the Family Muricidae with links to photos of the shells.
 
   - [Tyrian purple](http://www.chriscooksey.demon.co.uk/tyrian/)
 
-  : details about the chemical structure of the dye and how it was collected in the
-  past and a massive bibliography of further readings on the subject.
+  : details about the chemical structure of the dye and how it was collected in the past and a massive bibliography of further readings on the subject.
 
 
   ### References
@@ -180,13 +165,11 @@ links_references: '### Links
 
   *First record of Fearnley''s coral shell, Coralliophila fearnleyi, in Singapore*
 
-  . 31 March 2017. Singapore Biodiversity Records 2017: 35-36 ISSN 2345-7597. National
-  University of Singapore.
+  . 31 March 2017. Singapore Biodiversity Records 2017: 35-36 ISSN 2345-7597. National University of Singapore.
 
   - Ng Hiong Eng & Chan Sow Yan. 28 Apr 2017.
 
-  *Record of three marine snails from the Singapore Strait: Tenguella ceylonica and
-  Tenguella granulata*
+  *Record of three marine snails from the Singapore Strait: Tenguella ceylonica and Tenguella granulata*
 
   . Singapore Biodiversity Records 2017: 50.
 
@@ -204,8 +187,7 @@ links_references: '### Links
 
   - K.S. TAN and J.B. Sigurdsson.
 
-  *New species of Thais (Neogastropoda, Muricidae) from Singapore with a re-description
-  of Thais javanica (Philippi, 1848)*
+  *New species of Thais (Neogastropoda, Muricidae) from Singapore with a re-description of Thais javanica (Philippi, 1848)*
 
   . Journal of Molluscan Studies (1996) 62. 517-535.
 
@@ -266,6 +248,7 @@ zone:
 - marine
 habitats:
 - rocky shore
+permalink: /entries/Mollusca/Gastropoda/Neogastropoda/Muricidae
 ---
 
 ## Where seen?

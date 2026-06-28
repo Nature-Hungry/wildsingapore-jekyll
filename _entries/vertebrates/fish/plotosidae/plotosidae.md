@@ -1,9 +1,7 @@
 ---
 title: Eeltail catfishes
 description: Fact sheet of Eeltail catfishes on the shores of Singapore
-keywords: eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plotosidae
 genus: ''
@@ -40,8 +38,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Black eeltail catfish (
-  *Plotosus canius*
+  - [Black eeltail catfish ( *Plotosus canius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/236)
 
@@ -51,22 +48,19 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [White-lipped Eeltail Catfish (
-  *Paraplotosus albilabris*
+  - [White-lipped Eeltail Catfish ( *Paraplotosus albilabris*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/224)
 
   ,
 
-  [Black Eeltail Catfish (
-  *Plotosus canius*
+  [Black Eeltail Catfish ( *Plotosus canius*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/225)
 
   ,
 
-  [Striped Eeltail Catfish (
-  *Plotosus lineatus*
+  [Striped Eeltail Catfish ( *Plotosus lineatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226)
 
@@ -86,15 +80,13 @@ links_references: '### Links
 
   and
 
-  [Gray eel-catfish (
-  *Plotosus canius*
+  [Gray eel-catfish ( *Plotosus canius*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=8167)
 
   and
 
-  [Striped eel-catfish (
-  *Plotosus lineatus*
+  [Striped eel-catfish ( *Plotosus lineatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706)
 
@@ -178,6 +170,7 @@ habitats:
 - seagrass meadow
 - coral rubble
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Siluriformes/Siluroidei/Plotosidae
 ---
 
 ## Where seen?

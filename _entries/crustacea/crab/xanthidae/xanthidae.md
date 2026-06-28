@@ -1,8 +1,7 @@
 ---
 title: 'Xanthid crabs '
 description: Fact sheet of Xanthid crabs  on the shores of Singapore
-keywords: round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Xanthidae
 genus: ''
@@ -28,8 +27,7 @@ coverimg: https://images.naturehungry.sg/crustacea/crab/xanthidae/pictor/070615s
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
-    caption: The Mosaic reef crab is the most poisonous crab on our shores. Sentosa,
-      Jun 07
+    caption: The Mosaic reef crab is the most poisonous crab on our shores. Sentosa, Jun 07
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg
     caption: Floral egg crab eating a fish. Sentosa, Sep 04
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/integerrimus/090606tmftd3138m3.jpg
@@ -60,37 +58,7 @@ galleries:
     caption: Ruby reef crab
   - url: https://images.naturehungry.sg/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg
     caption: Hairy coral crab
-links_references: "### Links
-\n- [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)\n\
-  ,\n*[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*\n,\n*[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*\n\
-  ,\n[Common Rock Crab (\n*Leptodius*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/208)\n\
-  ,\n*[Actaeodes mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210)*\n,\n\
-  [Red Egg Crab (\n*Atergatis integerrimus*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/209)\n\
-  Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
-  . The Singapore Science Centre, Singapore. 160 pp.\n- [Tetrodotoxin ...an ancient\
-  \ alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv)\nby Jim Johnson\
-  \ on Molecule of the Month of the School of Chemistry, University of Bristol website:\
-  \ lots of details about the toxin's effects, creatures that carry it and how it\
-  \ came about, with LOTS of links to more about tetrodotoxin.\n\n### References
-\n\
-  - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.\n*Systema Brachyurorum:\
-  \ Part 1. An annotated checklist of extant Brachyuran crabs of the world*\n[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)\n\
-  The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.\n- Lim,\
-  \ S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times\
-  \ of Labrador Beach.*\nDivision of Biology, School of Science, Nanyang Technological\
-  \ University & Department of Zoology, the National University of Singapore. 160\
-  \ pp.\n- Gopalakrishnakone P., 1990.\n*A Colour Guide to Dangerous Animals*\n. Venom\
-  \ & Toxin Research Group, Faculty of Medicine, National University of Singapore.\
-  \ 156 pp.\n- Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.\n*The Singapore\
-  \ Red Data Book: Threatened plants and animals of Singapore*\n. Nature Society (Singapore).\
-  \ 285 pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in\
-  \ Singapore*\n. National Council on the Environment. 163pp.\n- Jones Diana S. and\
-  \ Gary J. Morgan, 2002.\n*A Field Guide to Crustaceans of Australian Waters*\n.\
-  \ Reed New Holland. 224 pp.\n- Debelius, Helmut, 2001.\n*Crustacea Guide of the\
-  \ World: Atlantic Ocean, Indian Ocean, Pacific Ocean*\nIKAN-Unterwasserachiv, Frankfurt.\
-  \ 321 pp.\n- Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.\n\
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai\u2019\
-  'i exclusive of the vertebrates*\nSea Challengers. 314pp.\n"
+links_references: "### Links \n- [Poisonous Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252)\n,\n*[Liomera](http://mangrove.nus.edu.sg/pub/seashore/text/206)*\n,\n*[Pilodius](http://mangrove.nus.edu.sg/pub/seashore/text/207)*\n,\n[Common Rock Crab (\n*Leptodius*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/208)\n,\n*[Actaeodes mutatus](http://mangrove.nus.edu.sg/pub/seashore/text/210)*\n,\n[Red Egg Crab (\n*Atergatis integerrimus*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/209)\nTan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n. The Singapore Science Centre, Singapore. 160 pp.\n- [Tetrodotoxin ...an ancient alkaloid from the sea](http://www.chm.bris.ac.uk/motm/ttx/ttxv)\nby Jim Johnson on Molecule of the Month of the School of Chemistry, University of Bristol website: lots of details about the toxin's effects, creatures that carry it and how it came about, with LOTS of links to more about tetrodotoxin.\n\n### References \n- Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.\n*Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*\n[.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)\nThe Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.\n- Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.\n*Rhythm of the Sea: The Life and Times of Labrador Beach.*\nDivision of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.\n- Gopalakrishnakone P., 1990.\n*A Colour Guide to Dangerous Animals*\n. Venom & Toxin Research Group, Faculty of Medicine, National University of Singapore. 156 pp.\n- Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.\n*The Singapore Red Data Book: Threatened plants and animals of Singapore*\n. Nature Society (Singapore). 285 pp.\n- Wee Y.C. and Peter K. L. Ng. 1994.\n*A First Look at Biodiversity in Singapore*\n. National Council on the Environment. 163pp.\n- Jones Diana S. and Gary J. Morgan, 2002.\n*A Field Guide to Crustaceans of Australian Waters*\n. Reed New Holland. 224 pp.\n- Debelius, Helmut, 2001.\n*Crustacea Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean*\nIKAN-Unterwasserachiv, Frankfurt. 321 pp.\n- Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.\n*Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawai\u2019'i exclusive of the vertebrates*\nSea Challengers. 314pp.\n"
 location:
 - lab
 size:
@@ -108,6 +76,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Xanthidae
 ---
 
 ## Where seen?

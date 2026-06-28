@@ -1,8 +1,7 @@
 ---
 title: 'Sesarmid crabs '
 description: Fact sheet of Sesarmid crabs  on the shores of Singapore
-keywords: sesarmid, crab, sesarmidae, decapod, crustacea, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: sesarmid, crab, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Sesarmidae
 genus: ''
@@ -48,15 +47,13 @@ links_references: '### Links
 
   ,
 
-  [Tree-climbing/Vinegar crabs (
-  *Episesarma*
+  [Tree-climbing/Vinegar crabs ( *Episesarma*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2049)
 
   ,
 
-  [Mangrove tree-dwelling crab (
-  *Selatium brockii*
+  [Mangrove tree-dwelling crab ( *Selatium brockii*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2050)
 
@@ -98,8 +95,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
 
-  Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -140,6 +136,7 @@ zone:
 - marine
 habitats:
 - mangrove
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Sesarmidae
 ---
 
 ## Where seen?

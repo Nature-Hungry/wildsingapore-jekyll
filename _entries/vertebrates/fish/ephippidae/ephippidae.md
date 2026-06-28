@@ -1,8 +1,7 @@
 ---
 title: 'Batfishes '
 description: Fact sheet of Batfishes  on the shores of Singapore
-keywords: batfish, bat, fish, ephippidae, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: batfish, bat, fish, ephippidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 7
@@ -59,15 +58,13 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/ephippidae/platax/081114cyrlks06m3.JPG
     caption: Cyrene Reef, Nov 08 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/vertebrates/fish/ephippidae/platax/241116smksky2.jpg
-    caption: Pulau Semakau (South), Nov 24 Photo shared by Kelvin Yong on facebook
-      .
+    caption: Pulau Semakau (South), Nov 24 Photo shared by Kelvin Yong on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/ephippidae/platax/240526bbbrg1.jpg
     caption: Beting Bemban Besar, May 24 Photo shared by Rachael Goh on facebook .
 links_references: '### Links
 
 
-  - [Round-faced Batfish (
-  *Platax teira*
+  - [Round-faced Batfish ( *Platax teira*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/328)
 
@@ -105,8 +102,7 @@ links_references: '### Links
 
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
 
   ### References
@@ -149,6 +145,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Ephippidae
 ---
 
 ## Where seen?

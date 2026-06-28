@@ -1,9 +1,7 @@
 ---
 title: Sponge crab
 description: Fact sheet of Sponge crab on the shores of Singapore
-keywords: sponge, crab, sponge crab, cryptodromia, dromiidae, decapod, crustacea,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: sponge, crab, sponge crab, cryptodromia, dromiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
@@ -32,11 +30,9 @@ coverimg: https://images.naturehungry.sg/crustacea/crab/dromiidae/dromiidae/0508
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
-    caption: From above, looks like just another uninteresting blob . Chek Jawa, Aug
-      05
+    caption: From above, looks like just another uninteresting blob . Chek Jawa, Aug 05
   - url: https://images.naturehungry.sg/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
-    caption: From above, looks like just another uninteresting blob . Chek Jawa, Aug
-      05
+    caption: From above, looks like just another uninteresting blob . Chek Jawa, Aug 05
   - url: https://images.naturehungry.sg/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
     caption: The crab is underneath!
   gallery3:
@@ -53,8 +49,7 @@ galleries:
     caption: Changi, Dec 17 Photo shared by Loh Kok Sheng on facebook .
   gallery5:
   - url: https://images.naturehungry.sg/crustacea/crab/dromiidae/dromiidae/210628ecpBvc2.jpg
-    caption: East Coasr Park (B), Jun 21 Photo shared by Vincent Choo on facebook
-      .
+    caption: East Coasr Park (B), Jun 21 Photo shared by Vincent Choo on facebook .
   gallery6:
   - url: https://images.naturehungry.sg/crustacea/crab/dromiidae/dromiidae/100615tustch2m3.jpg
     caption: Tuas, Jun 10 Photo shared by Toh Chay Hoon on her blog .
@@ -80,8 +75,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Sponge Crab (
-  *Cryptodromia*
+  - [Sponge Crab ( *Cryptodromia*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/187)
 
@@ -97,8 +91,7 @@ links_references: '### Links
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
-  of the world*
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
 
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
 
@@ -106,8 +99,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -159,6 +151,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Dromiidae
 ---
 
 ## Where seen?

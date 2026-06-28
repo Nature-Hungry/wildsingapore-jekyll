@@ -1,8 +1,7 @@
 ---
 title: Api-api
 description: Fact sheet of Api-api on the shores of Singapore
-keywords: avicennia, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: avicennia, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Avicenniaceae
 genus: Avicennia
@@ -30,16 +29,14 @@ galleries:
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg
     caption: Leaves not so white underneath.
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg
-    caption: Large flowers, crowded together. Flower stalk squarish to leaf-bearing
-      portions.
+    caption: Large flowers, crowded together. Flower stalk squarish to leaf-bearing portions.
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg
     caption: Fruits oval smooth. Bluish never yellowish.
   gallery3:
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/030914cjd0030m3.jpg
     caption: Leaves underneath white and velvety.
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/090118smkd5726m3a.jpg
-    caption: Large flowers, crowded together. Flower stalk squarish NOT to leaf-bearing
-      portions.
+    caption: Large flowers, crowded together. Flower stalk squarish NOT to leaf-bearing portions.
   - url: https://images.naturehungry.sg/plants/mangrove/avicennia/rumphiana/030914cjd0030m3b.jpg
     caption: Fruits oval usually wrinkly.
   gallery4:
@@ -52,8 +49,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Api-api (
-  *Avicennia*
+  - [Api-api ( *Avicennia*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1049)
 
@@ -85,8 +81,7 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
-  of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
   ### References
@@ -102,8 +97,7 @@ links_references: '### Links
 
   *Wayside Trees of Malaya: in two volumes*
 
-  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates
-  1-38; volume 2: 477-861 pp., plates 139-236.
+  . Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
 
   - Tomlinson, P. B., 1986.
 
@@ -127,8 +121,7 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
-  Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
   '
 size:
@@ -142,6 +135,7 @@ zone:
 habitats:
 - muddy shore
 - mangrove
+permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Lamiales/Avicenniaceae/Avicennioideae/Avicennia
 ---
 
 ## Where seen?

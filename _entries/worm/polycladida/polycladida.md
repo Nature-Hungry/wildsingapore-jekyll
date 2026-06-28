@@ -1,14 +1,17 @@
 ---
 title: Marine flatworms
 description: Fact sheet of Marine flatworms on the shores of Singapore
-keywords: flat, worm, flatworm, polycladida, polyclad, turbellaria, platyhelminthes,  field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info
+keywords: flat, worm, flatworm, polycladida, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 attributes: []
-family: Callioplanidae
-genus: Order
-species: Polycladida
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+family: ''
+genus: ''
+species: ''
 updated: Feb 2020
 coverimg: https://images.naturehungry.sg/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
 galleries:
@@ -18,113 +21,88 @@ galleries:
   - url: https://images.naturehungry.sg/worm/polycladida/silt/100215sisd9466m3.jpg
     caption: Some may be nearly transparent! Sisters Island, Feb 10
   - url: https://images.naturehungry.sg/worm/polycladida/baibaiye/050709skdg9312m3a.jpg
-    caption: Pseudo tentacles made out folded edges of the body margin. Mouth is on
-      the underside. Pulau Sekudu, Jul 05
+    caption: Pseudo tentacles made out folded edges of the body margin. Mouth is on the underside. Pulau Sekudu, Jul 05
   gallery3:
   - url: https://live.staticflickr.com/828/27333526027_54c0f6d7b2_z.jpg
     caption: ''
   gallery4:
   - url: https://images.naturehungry.sg/worm/polycladida/bedfordi/060130hntg4262m3.jpg
-    caption: The mouth of a flatworm may be towards the middle of the underside of
-      the body. Pulau Hantu, Jan 06
+    caption: The mouth of a flatworm may be towards the middle of the underside of the body. Pulau Hantu, Jan 06
   - url: https://images.naturehungry.sg/worm/polycladida/indicus/080619chgd5684m3.jpg
     caption: Eating Yellow clustered bead ascidians ? Changi, Jun 08
   - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/050112smkd9730m3.jpg
-    caption: Bigger flatworms may undulate the sides of their bodies to 'swim'. Pulau
-      Semakau, Jan 05
+    caption: Bigger flatworms may undulate the sides of their bodies to 'swim'. Pulau Semakau, Jan 05
   gallery5:
   - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/170625bbd3587m3.jpg
     caption: Two worms 'penis fencing'. Beting Bronok, Jun 17
   - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/100130brklks6m3.jpg
-    caption: '''Penis fencing'' Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng
-      on his flickr .'
+    caption: '''Penis fencing'' Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his flickr .'
   - url: https://images.naturehungry.sg/worm/polycladida/acanthozoon/100617tblks4m3.JPG
-    caption: '''Penis fencing'' Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng
-      on his blog .'
+    caption: '''Penis fencing'' Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his blog .'
   gallery6:
   - url: https://images.naturehungry.sg/worm/polycladida/others/140913pgllks1m3.JPG
-    caption: Possibly Stylochid Punggol, Sep 14 Photo shared by Loh Kok Sheng on his
-      blog .
+    caption: Possibly Stylochid Punggol, Sep 14 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/worm/polycladida/others/110105sellks.jpg
     caption: Stylochid 8 Seletar, Jan 11 Photo shared by Loh Kok Sheng on flickr
   - url: https://images.naturehungry.sg/worm/polycladida/others/140114cjlks1m3.JPG
-    caption: Pseudocerotidae 2 Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on
-      his blog .
+    caption: Pseudocerotidae 2 Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on his blog .
   gallery7:
   - url: https://images.naturehungry.sg/worm/polycladida/others/150221sjilks1m3.JPG
-    caption: Pseudocerotidae St John's Island, Mar 13 Photo shared by Loh Kok Sheng
-      on his blog .
+    caption: Pseudocerotidae St John's Island, Mar 13 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/worm/polycladida/others/120818lazlks1m3.JPG
-    caption: Pseudobiceros hymanae Seringat Kias, Aug 12 Photo shared by Loh Kok Sheng
-      on his blog .
+    caption: Pseudobiceros hymanae Seringat Kias, Aug 12 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/worm/polycladida/others/230221tryjll1.jpg
-    caption: Pseudobiceros hymanae Terumbu Raya, Feb 23 Photo shared by Jianlin Liu
-      on facebook .
+    caption: Pseudobiceros hymanae Terumbu Raya, Feb 23 Photo shared by Jianlin Liu on facebook .
   gallery8:
   - url: https://images.naturehungry.sg/worm/polycladida/others/181224sntlks1.jpg
-    caption: Pseudoceros cf cruentus Sentosa, Dec 18 Photo shared by Loh Kok Sheng
-      on facebook .
+    caption: Pseudoceros cf cruentus Sentosa, Dec 18 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/others/211108ecpjll1.jpg
-    caption: Pseudoceros cf cruentus East Coast Park, Nov 21 Photo shared by Jianlin
-      Liu on facebook .
+    caption: Pseudoceros cf cruentus East Coast Park, Nov 21 Photo shared by Jianlin Liu on facebook .
   gallery9:
   - url: https://images.naturehungry.sg/worm/polycladida/others/141011hntlks1.JPG
-    caption: Tytthosoceros sp. 2 Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng
-      on flickr .
+    caption: Tytthosoceros sp. 2 Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/worm/polycladida/others/141011hntlks2.JPG
-    caption: Tytthosoceros sp. 2 Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng
-      on flickr .
+    caption: Tytthosoceros sp. 2 Pulau Hantu, Oct 14 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/worm/polycladida/others/200209cyrjll1.jpg
-    caption: Pseudobiceros hymanae Cyrene, Feb 20 Photo shared by JIanlin Liu on facebook
-      .
+    caption: Pseudobiceros hymanae Cyrene, Feb 20 Photo shared by JIanlin Liu on facebook .
   gallery10:
   - url: https://images.naturehungry.sg/worm/polycladida/others/200210blylks1.jpg
-    caption: Eurylepta sp. Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on
-      facebook .
+    caption: Eurylepta sp. Berlayar Creek, Feb 20 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/others/241019lazvc1.jpg
-    caption: Eurylepta sp. Lazarus, Oct 24 Photo shared by Vincent Choo on facebook
-      .
+    caption: Eurylepta sp. Lazarus, Oct 24 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/others/181125tptgt.jpg
-    caption: Maritigrella sp Terumbu Pempang Tengah, Nov 18 Photo shared by Gina Tan
-      on facebook .
+    caption: Maritigrella sp Terumbu Pempang Tengah, Nov 18 Photo shared by Gina Tan on facebook .
   gallery11:
   - url: https://images.naturehungry.sg/worm/polycladida/others/201117chg7lks2.jpg
-    caption: Pseudoceros cf stimpsoni Changi, Nov 20 Photo shared by Loh Kok Sheng
-      on facebook .
+    caption: Pseudoceros cf stimpsoni Changi, Nov 20 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/others/240528tslvc1.jpg
     caption: Terumbu Selegie, May 24 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/others/250201bsisvc2.jpg
     caption: Big Sisters Island, Feb 25 Photo shared by Vincent Choo on facebook .
   gallery12:
   - url: https://images.naturehungry.sg/worm/polycladida/others/140809hntlks1m3.JPG
-    caption: Acanthozoon/Thysanozoon sp. 2 Pulau Hantu, Aug 14 Photo shared by Loh
-      Kok Sheng on his blog .
+    caption: Acanthozoon/Thysanozoon sp. 2 Pulau Hantu, Aug 14 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/worm/polycladida/others/140809hntlks2m3.JPG
     caption: Underside.
   gallery13:
   - url: https://images.naturehungry.sg/worm/polycladida/others/251207hntky2b.jpg
-    caption: About 2cm Pulau Hantu, Dec 25 Photo shared by Kelvin Yong on facebook
-      .
+    caption: About 2cm Pulau Hantu, Dec 25 Photo shared by Kelvin Yong on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/others/251207hntky2c.jpg
     caption: ''
   - url: https://images.naturehungry.sg/worm/polycladida/others/251207hntky2d.jpg
     caption: ''
   gallery14:
   - url: https://images.naturehungry.sg/worm/polycladida/others/210213bsismn1.jpg
-    caption: Thysanozoon nigrum Big Sisters Island, Feb 21 Photo shared by Marcus
-      Ng on facebook .
+    caption: Thysanozoon nigrum Big Sisters Island, Feb 21 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/others/210213bsisjc3.jpg
-    caption: Thysanozoon nigropapillosum Big Sisters Island, Feb 21 Photo shared by
-      Joleen Chan on facebook .
+    caption: Thysanozoon nigropapillosum Big Sisters Island, Feb 21 Photo shared by Joleen Chan on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/others/260202smkerk1.jpg
-    caption: Thysanozoon nigropapillosum Pulau Semakau East, Feb 26 Photo shared by
-      Richard Kuah on facebook .
+    caption: Thysanozoon nigropapillosum Pulau Semakau East, Feb 26 Photo shared by Richard Kuah on facebook .
   gallery15:
   - url: https://images.naturehungry.sg/worm/polycladida/others/171008srgjll2a.jpg
     caption: ''
   - url: https://images.naturehungry.sg/worm/polycladida/others/171008srgjll2.jpg
-    caption: Thysanozoon nigropapillosum Seringat-Kias, Oct 17 Photo shared by Jianlin
-      Liu on facebook .
+    caption: Thysanozoon nigropapillosum Seringat-Kias, Oct 17 Photo shared by Jianlin Liu on facebook .
   gallery16:
   - url: https://images.naturehungry.sg/worm/polycladida/others/130210sislks1m3.JPG
     caption: Sisters Island, Feb 13 Photo shared by Loh Kok Sheng on his blog .
@@ -132,20 +110,17 @@ galleries:
     caption: Underside.
   gallery17:
   - url: https://images.naturehungry.sg/worm/polycladida/others/150720smknlks2m3.jpg
-    caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook
-      .
+    caption: Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/worm/polycladida/others/090510hntlks1mn3.JPG
     caption: Pulau Hantu, May 09 Photo shared by Loh Kok Sheng on his blog .
   - url: https://images.naturehungry.sg/worm/polycladida/others/210428slujll1a.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
   gallery18:
   - url: https://images.naturehungry.sg/worm/polycladida/others/210810tplmn1.jpg
-    caption: Pseuobiceros bajae (ID by Rene Ong). Terumbu Pempang Laut, Aug 21 Photo
-      shared by Marcus Ng on facebook .
+    caption: Pseuobiceros bajae (ID by Rene Ong). Terumbu Pempang Laut, Aug 21 Photo shared by Marcus Ng on facebook .
   gallery19:
   - url: https://images.naturehungry.sg/worm/polycladida/others/110606cyrlks1m3.JPG
-    caption: Planocerid 7 Cyrene Reef, Jun 11 Photo shared by Loh Kok Sheng on his
-      blog .
+    caption: Planocerid 7 Cyrene Reef, Jun 11 Photo shared by Loh Kok Sheng on his blog .
 size:
 - 1.0
 - 8.0
@@ -161,68 +136,8 @@ authors:
 zone:
 - intertidal
 - marine
-links_references: "**Acknowledgement** \nWith grateful thanks to Leslie H. Harris\
-  \ of the [Natural\nHistory Museum of Los Angeles County](http://www.nhm.org/) for\
-  \ comments on and identifying\nsome of these flatworms.Grateful thanks to Rene Ong\
-  \ for sharing details and identifying the flatworms on this page.### Links
-\n- [Marine\
-  \ flatworms](http://mangrove.nus.edu.sg/pub/seashore/text/124.htm)Tan, Leo W. H.\
-  \ & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Mangrove flatworms (Platyhelminthes)](http://mangrove.nus.edu.sg/guidebooks/text/2002.htm)Ng,\
-  \ Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal\
-  \ Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre.\
-  \ 168 pp.\n\n- [Flatworms](http://www.seaslugforum.net/find/flatworm)on[The Sea\
-  \ Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: Introduction to flatworms\
-  \ with lots of examples of nudibranchs and slugs mistaken for flatworms and visa\
-  \ versa.\n\n- [Platyhelminthes in YOU](http://wildshores.blogspot.com/2009/02/platyhelminthes-in-you.html)on\
-  \ the wild shores of singapore blog.\n\n### References
-\n- Samantha Jia Wen Tong\
-  \ and Rene S.L. Ong.*[Mating behavior, spawning, parental care, and embryonic development\
-  \ of some marine pseudocerotid flatworms (Platyhelminthes: Rhabditophora: Polycladida)\
-  \ in Singapore](https://doi.org/10.1111/ivb.12293)*. 27 June 2020. Invertebrate\
-  \ Biology.\n\n- *Seven new records of marine polyclads for Singapore.*Rene Ong,\
-  \ Loh Koh Sheng, Ng Boon Leong, Tan Tsu Soo & Toh Chay Hoon. 30 April 2020. Singapore\
-  \ Biodiversity Records 2020: 43-44 ISSN 2345-7597.\n\n- *A marine flatworm, Pseudobiceros\
-  \ hymanae, at Cyrene Reef*. Jianlin Liu and Rene S. L. Ong. 27 March 2020. Singapore\
-  \ Biodiversity Records 2020: 28 ISSN 2345-7597\n\n- Rene S.L. Ong and Samantha J.W.\
-  \ Tong. 29 October 2018.*A preliminary checklist and photographic catalogue of polyclad\
-  \ flatworms recorded from Singapore.*Nature in Singapore 2018 11: 77\u2013125.\n\
-  \n- Rene S. L. Ong, D. Marcela Bola\xF1os and Samantha J.W. Tong, 19 June 2018.*New\
-  \ records of marine flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore.*Nature\
-  \ in Singapore 2018 11: 53\u201362.\n\n- D. M. Bola\xF1os, B. Q. Gan & R. S. L.\
-  \ Ong. 29 Jun 2016.*First records of pseudocerotid flatworms (Platyhelminthes: Polycladida:\
-  \ Cotylea) from Singapore: A taxonomic report with remarks on colour variation*.\
-  \ The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.\n\n- Rene\
-  \ Ong, Samantha Tong & Teresa Stephanie Tay. 13 November 2015.*Marine flatworms\
-  \ at Seringat Kias*. Singapore Biodiversity Records 2015: 182-184\n\n- Chim C. K.,\
-  \ R. S. L. Ong & Gan B. Q.*Penis fencing, spawning, parental care and embryonic\
-  \ development in the cotylean flatworm Pseudoceros indicus (Platyhelminthes: Polycladida:\
-  \ Pseudocerotidae) from Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity\
-  \ Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology\
-  \ 2015 Supplement No. 31, Pp. 60-67.\n\n- Tan Yee Keat. 26 June 2015.*Apparent mimicry\
-  \ of marine flatworm and nudibranch: Marine flatworm, Pseudoceros sp.; Nudibranch,\
-  \ Gymnodoris impudica*. Singapore Biodiversity Records 2015: 85-86.\n\n- Newman,\
-  \ L.J. & Cannon, L.R.G. 1997.*Nine new species of Pseudobiceros (Platyhelminthes:\
-  \ Polycladida) from Indo-Pacific*. The Raffles Bulletin of Zoology 45(2): 341-368.\n\
-  \n- Newman, L.J. & Cannon, L.R.G. 1995.*Colour pattern variation in the tropical\
-  \ flatworm, Pseudoceros (Platyhelminthes: Polycladida), with descriptions of three\
-  \ new species*. The Raffles Bulletin of Zoology 43(2): 435-446.\n\n- Newman, L.J.\
-  \ & Cannon, L.R.G. 1998.*Pseudoceros (Platyhelminthes: Polycladida) from the Indo-Pacific\
-  \ with twelve new species from Australia and Papua New Guinea*. The Raffles Bulletin\
-  \ of Zoology 46(2): 293-323.\n\n- Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew,\
-  \ 2008.*The Singapore Red Data Book: Threatened plants and animals of Singapore*.\
-  \ Nature Society (Singapore). 285 pp.\n\n- Newman, Leslie and Lester Cannon. 2003.*Marine\
-  \ Flatworms: The World of Polyclads*. CSIRO Publishing. 97pp.\n\n- Humann, Paul\
-  \ and Ned Deloach. 2010.*Reef Creature Identification: Tropical Pacific*New World\
-  \ Publications. 497pp.\n\n- Kuiter, Rudie H and Helmut Debelius. 2009.*World Atlas\
-  \ of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.\n\n- Gosliner, Terrence M., David\
-  \ W. Behrens and Gary C. Williams. 1996.*Coral Reef Animals of the Indo-Pacific:\
-  \ Animal life from Africa to Hawaii exclusive of the vertebrates*Sea Challengers.\
-  \ 314pp.\n\n- Allen, Gerald R and Roger Steene. 2002.*Indo-Pacific Coral Reef Field\
-  \ Guide*. Tropical Reef Research. 378pp.\n\n- Edward E. Ruppert, Richard S. Fox,\
-  \ Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc.,\
-  \ 7th Edition. pp. 963\n\n- Pechenik, Jan A., 2005.*Biology of the Invertebrates*.\
-  \ 5thedition. McGraw-Hill Book Co., Singapore. 578 pp."
+links_references: "**Acknowledgement** \nWith grateful thanks to Leslie H. Harris of the [Natural\nHistory Museum of Los Angeles County](http://www.nhm.org/) for comments on and identifying\nsome of these flatworms.Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.### Links \n- [Marine flatworms](http://mangrove.nus.edu.sg/pub/seashore/text/124.htm)Tan, Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.\n\n- [Mangrove flatworms (Platyhelminthes)](http://mangrove.nus.edu.sg/guidebooks/text/2002.htm)Ng, Peter K. L. & N. Sivasothi, 1999.*[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre. 168 pp.\n\n- [Flatworms](http://www.seaslugforum.net/find/flatworm)on[The Sea Slug Forum](http://www.seaslugforum.net/)by Dr Bill Rudman: Introduction to flatworms with lots of examples of nudibranchs and slugs mistaken for flatworms and visa versa.\n\n- [Platyhelminthes in YOU](http://wildshores.blogspot.com/2009/02/platyhelminthes-in-you.html)on the wild shores of singapore blog.\n\n### References \n- Samantha Jia Wen Tong and Rene S.L. Ong.*[Mating behavior, spawning, parental care, and embryonic development of some marine pseudocerotid flatworms (Platyhelminthes: Rhabditophora: Polycladida) in Singapore](https://doi.org/10.1111/ivb.12293)*. 27 June 2020. Invertebrate Biology.\n\n- *Seven new records of marine polyclads for Singapore.*Rene Ong, Loh Koh Sheng, Ng Boon Leong, Tan Tsu Soo & Toh Chay Hoon. 30 April 2020. Singapore Biodiversity Records 2020: 43-44 ISSN 2345-7597.\n\n- *A marine flatworm, Pseudobiceros hymanae, at Cyrene Reef*. Jianlin Liu and Rene S. L. Ong. 27 March 2020. Singapore Biodiversity Records 2020: 28 ISSN 2345-7597\n\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.*A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.*Nature in Singapore 2018 11: 77\u2013125.\n\n- Rene S. L. Ong, D. Marcela Bola\xF1os and Samantha J.W. Tong, 19 June 2018.*New records of marine flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore.*Nature in Singapore 2018 11: 53\u201362.\n\n- D. M. Bola\xF1os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.*First records of pseudocerotid flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with remarks on colour variation*. The Raffles Bulletin of Zoology Supplement No. 34: 130-169 Pp. 130-169.\n\n- Rene Ong, Samantha Tong & Teresa Stephanie Tay. 13 November 2015.*Marine flatworms at Seringat Kias*. Singapore Biodiversity Records 2015: 182-184\n\n- Chim C. K., R. S. L. Ong & Gan B. Q.*Penis fencing, spawning, parental care and embryonic development in the cotylean flatworm Pseudoceros indicus (Platyhelminthes: Polycladida: Pseudocerotidae) from Singapore*. 10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 60-67.\n\n- Tan Yee Keat. 26 June 2015.*Apparent mimicry of marine flatworm and nudibranch: Marine flatworm, Pseudoceros sp.; Nudibranch, Gymnodoris impudica*. Singapore Biodiversity Records 2015: 85-86.\n\n- Newman, L.J. & Cannon, L.R.G. 1997.*Nine new species of Pseudobiceros (Platyhelminthes: Polycladida) from Indo-Pacific*. The Raffles Bulletin of Zoology 45(2): 341-368.\n\n- Newman, L.J. & Cannon, L.R.G. 1995.*Colour pattern variation in the tropical flatworm, Pseudoceros (Platyhelminthes: Polycladida), with descriptions of three new species*. The Raffles Bulletin of Zoology 43(2): 435-446.\n\n- Newman, L.J. & Cannon, L.R.G. 1998.*Pseudoceros (Platyhelminthes: Polycladida) from the Indo-Pacific with twelve new species from Australia and Papua New Guinea*. The Raffles Bulletin of Zoology 46(2): 293-323.\n\n- Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285 pp.\n\n- Newman, Leslie and Lester Cannon. 2003.*Marine Flatworms: The World of Polyclads*. CSIRO Publishing. 97pp.\n\n- Humann, Paul and Ned Deloach. 2010.*Reef Creature Identification: Tropical Pacific*New World Publications. 497pp.\n\n- Kuiter, Rudie H and Helmut Debelius. 2009.*World Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.\n\n- Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*Sea Challengers. 314pp.\n\n- Allen, Gerald R and Roger Steene. 2002.*Indo-Pacific Coral Reef Field Guide*. Tropical Reef Research. 378pp.\n\n- Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963\n\n- Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill Book Co., Singapore. 578 pp."
+permalink: /entries/Platyhelminthes/Rhabditophora/Polycladida
 ---
 
 ## Where seen?

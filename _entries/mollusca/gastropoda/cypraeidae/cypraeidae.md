@@ -1,9 +1,7 @@
 ---
 title: Cowries
 description: Fact sheet of Cowries on the shores of Singapore
-keywords: cowrie, cypraeidae, cypraea, gastropod, mollusc, snail, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: cowrie, cypraeidae, cypraea, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Cypraeidae
@@ -22,25 +20,21 @@ coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliari
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
-    caption: When covered with the 'hairy' mantle they are often mistaken for slugs
-      Pulau Sekudu, Jul 04
+    caption: When covered with the 'hairy' mantle they are often mistaken for slugs Pulau Sekudu, Jul 04
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/arabica/050625labg8705m3.jpg
     caption: The animal with tentacles and broad foot. Labrador, Jun 05
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
-    caption: The 'toothed' shell opening is only seen when the animal is completelyretracted.
-      Changi, Jul 02
+    caption: The 'toothed' shell opening is only seen when the animal is completelyretracted. Changi, Jul 02
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/noid/090210tmd6904m3.jpg
     caption: A broken shell shows the internal structure of a typical cowrie.
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/noid/240212sjivc6.jpg
-    caption: Young cowrie, has not developed 'teeth' at the shell opening yet. St
-      John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
+    caption: Young cowrie, has not developed 'teeth' at the shell opening yet. St John's Island, Feb 24 Photo shared by Vincent Choo on facebook .
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg
     caption: Eggs turn dark grey as they mature. Chek Jawa, Oct 03
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
-    caption: Mama cowrie under a rock, protecting her egg mass with her foot. Sentosa,
-      Apr 10
+    caption: Mama cowrie under a rock, protecting her egg mass with her foot. Sentosa, Apr 10
   gallery5:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
     caption: Wandering cowrie
@@ -75,8 +69,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Wandering Cowrie (
-  *Cypraea errones*
+  - [Wandering Cowrie ( *Cypraea errones*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/141)
 
@@ -92,8 +85,7 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief
-  description and photos.
+  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
 
   - [Family Cypraeidae (Cowry Shells)](http://seashellsofnsw.org.au/Cypraeidae/Pages/cypraeidae_intro)
 
@@ -101,12 +93,9 @@ links_references: '### Links
 
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
 
-  website by Des Beechey Research Associate, Australian Museum: family introductions
-  with photos of shells and detailed fact sheets for many species.
+  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
 
-  - Family Cypraeidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Cypraeidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -174,6 +163,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Cypraeidae
 ---
 
 ## Where seen?

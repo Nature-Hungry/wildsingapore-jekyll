@@ -1,8 +1,7 @@
 ---
 title: Prawns and shrimps
 description: Fact sheet of Prawns and shrimps on the shores of Singapore
-keywords: prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info
+keywords: prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 genus: ''
 species: ''
@@ -22,14 +21,11 @@ coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
-    caption: The Blue-tail prawn like other shrimps contracts its abdomen to swim
-      backwards.
+    caption: The Blue-tail prawn like other shrimps contracts its abdomen to swim backwards.
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
-    caption: Red-nose shrimps are also found among seaweeds, and living hard and soft
-     corals.
+    caption: Red-nose shrimps are also found among seaweeds, and living hard and soft corals.
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
-    caption: A tiny transparent commensal shrimp , several seen on a Thorny sea cucumber
-      . Beting Bronok, Aug 05
+    caption: A tiny transparent commensal shrimp , several seen on a Thorny sea cucumber . Beting Bronok, Aug 05
   gallery3:
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/meta1.gif
     caption: larvae
@@ -39,11 +35,9 @@ galleries:
     caption: adult
   gallery4:
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
-    caption: White snapping shrimps live in Ball flowery soft corals. Beting Bronok,
-      May 11
+    caption: White snapping shrimps live in Ball flowery soft corals. Beting Bronok, May 11
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
-    caption: A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby
-      . Kusu Island, Aug 08
+    caption: A Many-band snapping shrimp sharing a burrow with a Pink-speckled shrimp-goby . Kusu Island, Aug 08
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
     caption: A pair of Five-spot anemone shrimps is commonly found in our carpet anemones.
   gallery5:
@@ -79,20 +73,17 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Marine prawns (
-  *Penaeus and Metapenaeus*
+  - [Marine prawns ( *Penaeus and Metapenaeus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2038)
 
   ,
 
-  [Estuarine prawn (
-  *Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037)
+  [Estuarine prawn ( *Macrobrachium equidens)*](http://mangrove.nus.edu.sg/guidebooks/text/2037)
 
   ,
 
-  [Mangrove hairy-handed prawn (
-  *Caridina propinqua*
+  [Mangrove hairy-handed prawn ( *Caridina propinqua*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2039)
 
@@ -118,8 +109,7 @@ links_references: '### Links
 
   . Nature Society (Singapore). 285 pp.
 
-  - Ong, Jin Eong & Gong, Wooi Khoon (eds.), 2001. The Encyclopedia of Malaysia (Vol.
-  6): The Seas Didier Millet, Malaysia. 144 pp.
+  - Ong, Jin Eong & Gong, Wooi Khoon (eds.), 2001. The Encyclopedia of Malaysia (Vol. 6): The Seas Didier Millet, Malaysia. 144 pp.
 
   '
 size:
@@ -134,6 +124,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda
 ---
 
 ## Where seen?

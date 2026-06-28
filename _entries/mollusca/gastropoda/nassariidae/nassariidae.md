@@ -1,9 +1,7 @@
 ---
 title: Whelks
 description: Fact sheet of Whelks on the shores of Singapore
-keywords: whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Nassariidae
 genus: ''
@@ -24,14 +22,12 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
     caption: With a large barnacle on the shell. Changi, May 08
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg
-    caption: Burrowing just beneath the sand with siphon sticking out. Changi, Aug
-      05
+    caption: Burrowing just beneath the sand with siphon sticking out. Changi, Aug 05
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg
     caption: With a pair of tiny sea anemone hitch-hikers. Chek Jawa, Apr 04
   gallery3:
   - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
-    caption: Whelks cleaning out a recently dead snail while a hermit crab waits patiently.
-      Tanah Merah, Feb 07
+    caption: Whelks cleaning out a recently dead snail while a hermit crab waits patiently. Tanah Merah, Feb 07
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg
     caption: Whelk Joy! Dead fish! Chek Jawa, Sep 03
   - url: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg
@@ -56,8 +52,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Mud whelk (
-  *Nassarius jacksonianus*
+  - [Mud whelk ( *Nassarius jacksonianus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2087)
 
@@ -69,8 +64,7 @@ links_references: '### Links
 
   - [Family Nassariidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Nassariidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief fact sheet with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
 
   - [Family Nassariidae (Dog whelks)](http://seashellsofnsw.org.au/Nassariidae/Pages/nassariidae_intro)
 
@@ -78,12 +72,9 @@ links_references: '### Links
 
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
 
-  website by Des Beechey Research Associate, Australian Museum: family introductions
-  with photos of shells and detailed fact sheets for many species.
+  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
 
-  - Family Nassariidae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Nassariidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -154,8 +145,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - These tiny snails are scavengers
-- When you see a dead thing, look for them! The siphon of a whelk can be as long as
-  its body
+- When you see a dead thing, look for them! The siphon of a whelk can be as long as its body
 - Sometimes, a tiny sea anemone hitches a ride on the shell of a living whelk.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -166,6 +156,7 @@ habitats:
 - sandy shore
 - muddy shore
 - seagrass meadow
+permalink: /entries/Mollusca/Gastropoda/Neogastropoda/Nassariidae
 ---
 
 ## Where seen?

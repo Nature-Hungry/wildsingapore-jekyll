@@ -1,8 +1,7 @@
 ---
 title: Halfbeaks
 description: Fact sheet of Halfbeaks on the shores of Singapore
-keywords: halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Hemiramphidae
 genus: ''
@@ -21,14 +20,12 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
-    caption: The lower jaw is many times longer than the upper jaw. Sungei Buloh,
-      Dec 03
+    caption: The lower jaw is many times longer than the upper jaw. Sungei Buloh, Dec 03
   - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/broadnose/060130hntg4333m3.jpg
     caption: A young halfbeak? Pulau Hantu, Jan 06
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876m6l.jpg
-    caption: At high tide, often seen under mangrove vegetation. Sungei Buloh, Feb
-      11
+    caption: At high tide, often seen under mangrove vegetation. Sungei Buloh, Feb 11
   - url: https://images.naturehungry.sg/vertebrates/fish/hemiramphidae/twig/100429prpd1877.jpg
     caption: Shadow cast resembles a twig. Pasir Ris, Apr 10
   gallery4:
@@ -75,8 +72,7 @@ links_references: '### Links
 
   - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific
 
   - [*Dermogenys collettei*](https://singapore.biodiversity.online/taxo4254/mainSpace/Dermogenys%20collettei.html)
 
@@ -126,6 +122,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Beloniformes/Hemiramphidae
 ---
 
 ## Where seen?

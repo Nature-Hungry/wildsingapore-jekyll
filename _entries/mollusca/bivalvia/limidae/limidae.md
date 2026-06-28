@@ -1,8 +1,7 @@
 ---
 title: 'File clams '
 description: Fact sheet of File clams  on the shores of Singapore
-keywords: file,  shell,  clam, limidae, shell, bivalve, mollusc, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: file,  shell,  clam, limidae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Limidae
 genus: ''
@@ -27,11 +26,9 @@ galleries:
     caption: Common file clam stuck to a rock. Sisters Island, Aug 12
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/230806tbrk4.jpg
-    caption: Super tiny one! Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on
-      facebook .
+    caption: Super tiny one! Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/201019sjijk1b.jpg
-    caption: Swimming file clam wedged in a crevice. St John's Island, Oct 20 Photo
-      shared by James Koh on flickr .
+    caption: Swimming file clam wedged in a crevice. St John's Island, Oct 20 Photo shared by James Koh on flickr .
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/limidae/limidae/120721tptd8018m3.jpg
     caption: Swimming file clam
@@ -42,11 +39,9 @@ links_references: '### Links
 
   - [Family Limidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Limidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
-  Natural History Museum website: brief description and photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
 
-  - [File shells (
-  *Lima lima*
+  - [File shells ( *Lima lima*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/162)
 
@@ -56,8 +51,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - Family Limidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
-  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Limidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -116,6 +110,7 @@ zone:
 - marine
 habitats:
 - coral reef
+permalink: /entries/Mollusca/Bivalvia/Limida/Limidae
 ---
 
 ## Where seen?

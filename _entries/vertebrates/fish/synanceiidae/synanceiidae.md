@@ -1,9 +1,7 @@
 ---
 title: Stonefishes
 description: Fact sheet of Stonefishes on the shores of Singapore
-keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Synanceiidae
 genus: ''
@@ -31,8 +29,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Hollow-cheek Stonefish (
-  *Synanceia horrida*
+  - [Hollow-cheek Stonefish ( *Synanceia horrida*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256)
 
@@ -42,8 +39,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Stonefish (
-  *Synanceia horrida*
+  - [Stonefish ( *Synanceia horrida*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/231)
 
@@ -109,8 +105,7 @@ links_references: '### Links
 
   : Technical fact sheet.
 
-  - [Reef Stonefish (
-  *Synanceia verrucosa*
+  - [Reef Stonefish ( *Synanceia verrucosa*
 
   )](http://www.amonline.net.au/fishes/students/focus/sverruc)
 
@@ -118,8 +113,7 @@ links_references: '### Links
 
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
 
-  on the Australian Museum Online website: fact sheet with photos and video clips
-  of these fishes on the move.
+  on the Australian Museum Online website: fact sheet with photos and video clips of these fishes on the move.
 
 
   ### References
@@ -171,6 +165,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Perciformes/Scorpaenoidei/Synanceiidae
 ---
 
 ## Where seen?

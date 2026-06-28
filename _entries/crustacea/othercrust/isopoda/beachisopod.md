@@ -11,6 +11,13 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Peracarida
+order: Isopoda
 updated: Mar 2020
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
 galleries:

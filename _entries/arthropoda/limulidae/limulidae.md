@@ -1,9 +1,7 @@
 ---
 title: 'Horseshoe crabs '
 description: Fact sheet of Horseshoe crabs  on the shores of Singapore
-keywords: horseshoe, king, crab, limulidae,  xiphosura, merostomata, chelicerate,
-  arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: horseshoe, king, crab, limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Limulidae
 genus: ''
@@ -27,29 +25,23 @@ coverimg: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/050527s
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - They are NOT crabs. They are more closely related to spiders than crabs.
-- They don't use their tail to sting people. Don't dangle them by their tail. They
-  will be helpless if the tail is broken.
-- They provided a substance used to test human medications. Singapore scientists made
-  breakthroughs in cloning this substance.
+- They don't use their tail to sting people. Don't dangle them by their tail. They will be helpless if the tail is broken.
+- They provided a substance used to test human medications. Singapore scientists made breakthroughs in cloning this substance.
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
-    caption: Often seen in a pair, the smaller male on top and behind the larger female.
-      Pulau Sarimbun, May 05
+    caption: Often seen in a pair, the smaller male on top and behind the larger female. Pulau Sarimbun, May 05
   - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg
-    caption: Using its tail to flip over to the right side. Note the white slipper
-      snails stuck on the underside. Chek Jawa, Aug 07
+    caption: Using its tail to flip over to the right side. Note the white slipper snails stuck on the underside. Chek Jawa, Aug 07
   - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg
     caption: Often entangled in abandoned drift nets. Changi, Oct 07
   gallery2:
   - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg
-    caption: Males have modified front legs to hold on to the female. Chek Jawa, Mar
-      11
+    caption: Males have modified front legs to hold on to the female. Chek Jawa, Mar 11
   - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg
     caption: Females don't have modified front legs. Chek Jawa, Mar 11
   - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
-    caption: Juvenile horseshoe crab. Kranji, Jun 08 Horseshoe crab eggs seen in sand.
-      Mandai, Apr 11
+    caption: Juvenile horseshoe crab. Kranji, Jun 08 Horseshoe crab eggs seen in sand. Mandai, Apr 11
   gallery3:
   - url: https://images.naturehungry.sg/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg
     caption: ''
@@ -71,49 +63,77 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg
     caption: ''
-links_references: | 
-  ### Links
+links_references: '### Links
+
   - [Tai Ho Wan: breeding and nursery ground of horseshoe crabs](http://www.hku.hk/ecology/porcupine/por20/arthropods) by Terence Ching-wai Fong on the University of Hong Kong website: a study of breeding of *Tachypleus* and *Carcinoscorpius*.
+
   - [Nursery beaches for Horseshoe crabs in Hong Kong](http://www.hku.hk/ecology/porcupine/por18/crabs) by Huang Qin, Helen Chiu and Brian Morton on the Porcupine Homepage of the Department of Ecology & Biodiversity, The University of Hong Kong website: examines some of the possible causes of the decline in horseshoe crabs in Hong Kong.
+
   - [Oldest Horseshoe Crab Fossil Discovered](http://wildsingaporenews.blogspot.com/2008/01/oldest-horseshoe-crab-fossil-discovered.html) Jeanna Bryner, LiveScience Yahoo News 28 Jan 08;
+
 
   **About the Singapore breakthrough in cloning Factor C**
 
+
   - [Saving the horseshoe crab: A synthetic alternative to horseshoe crab blood](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006607). PLOS Biology.
 
-  **More about Singapore's horseshoe crabs**
+
+  **More about Singapore''s horseshoe crabs**
+
 
   - [Project to save horseshoe crab wins green prize in Singapore](http://wildsingaporenews.blogspot.sg/2017/02/project-to-save-horseshoe-crab-wins.html) Toh Wen Li, Straits Times 23 Feb 17.
+
   - [Nature Society on mission to save horseshoe crabs](http://wildsingaporenews.blogspot.sg/2016/10/nature-society-on-mission-to-save.html) To conserve them better, society finds out more about the animals, urges other countries to do so too, Audrey Tan Straits Times 10 Oct 16
+
   - [Nature Society horseshoe crab survey](http://wildsingaporenews.blogspot.sg/2012/03/nature-society-horseshoe-crab-survey.html) Keeping tabs on coastal scavengers, Nature Society survey finds all stages of horseshoe crab along the shores, Jose Hong Straits Times 31 Mar 12.
+
   - Oh Rui Ying, Rachel, 2011. [*Carcinoscorpius rotundicauda* (Xiphosura: Limulidae) Mangrove Horseshoe Crab](https://taxo4254.wikispaces.com/Carcinoscorpius+rotundicauda). Taxo4254.
+
   - [Distribution and abundance of horseshoe crabs *Tachypleus gigas* and *Carcinoscorpius rotundicauda* around the main island of Singapore](http://www.int-res.com/articles/ab_oa/b013p127.pdf) Lesley Cartwright-Taylor, Yap Von Bing, Hsu Chia Chi, Lou Sieu Tee, Aquatic Biology Vol. 13: 127-136, 2011 doi: 10.3354/ab00346
+
   - [Mangrove horseshoe crab
+
   *Carcinoscorpius rotundicauda*](http://mangrove.nus.edu.sg/guidebooks/text/2076) Ng, Peter K. L. & N. Sivasothi, 1999.
+
   *[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*. Singapore Science Centre. 168 pp.
+
   - [Horseshoe Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/175) Tan, Leo W. H. & Ng, Peter K. L., 1988.
+
   *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
+
   - [Horseshoe Crabs of Kranji blog](http://mangrove.nus.edu.sg/research/fionahong/blog/) : The trials and tribulations of an undergraduate research project on mangrove horseshoe crabs by Fiona Hong.
-  - [More than 100 horsehoe crabs rescued from gill net at Mandai](http://habitatnews.nus.edu.sg/index.php?entry=/marine/20050313-mandaihorseshoecrabrelease.txt) on Siva's habitatnews blog illustrating one of the many threats to our horseshoe crabs.
+
+  - [More than 100 horsehoe crabs rescued from gill net at Mandai](http://habitatnews.nus.edu.sg/index.php?entry=/marine/20050313-mandaihorseshoecrabrelease.txt) on Siva''s habitatnews blog illustrating one of the many threats to our horseshoe crabs.
+
   - On the wild shores of singapore blog
+
   - [Results of Horseshoe Crab Survey by Nature Society (Singapore)](http://wildshores.blogspot.sg/2009/05/results-of-horseshoe-crab-survey-by.html)
+
   - [Bivalve Workshop at Kranji with horseshoe crab rescue](http://wildshores.blogspot.sg/2012/07/bivalve-workshop-at-kranji-with.html)
+
   - [Horseshoe crab eggs seen at Mandai mangroves!](http://wildshores.blogspot.sg/2011/04/horseshoe-crab-eggs-seen-at-mandai.html)
+
   - [Horseshoe crabs at Kranji: what are they up to?](http://wildshores.blogspot.sg/2011/02/horseshoe-crabs-at-kranji-what-are-they.html)
+
 
   **About other horseshoe crab species not found in Singapore**
 
+
   - [US bans harves of horseshoe crabs to save rare shore bird](http://wildsingaporenews.blogspot.com/2008/03/us-bans-harves-of-horseshoe-crabs-to.html) Jon Hurdle, Reuters 25 Mar 08;
+
   - [East coast horseshoe crabs poised for recovery](http://wildsingaporenews.blogspot.com/2008/05/east-coast-horseshoe-crabs-poised-for.html) Jon Hurdle, Reuters 27 May 08;
+
 
 
   ### References
 
 
+
   - Ng, P. K. L. & Y. C. Wee, 1994. *The Singapore Red Data Book: Threatened Plants
+
   and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.
 
-  
+  '
 size:
 - 15.0
 - 25.0
@@ -124,6 +144,7 @@ zone:
 - marine
 habitats:
 - mangrove
+permalink: /entries/Arthropoda/Chelicerata/Merostomata/Xiphosurida/Limulidae
 ---
 
 ## Where seen?

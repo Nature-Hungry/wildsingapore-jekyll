@@ -1,13 +1,15 @@
 ---
 title: 'Ulimid snails '
 description: Fact sheet of Ulimid snails  on the shores of Singapore
-keywords: ulimid, shell, snail, eulimidae, gastropod, mollusc, mangrove, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: ulimid, shell, snail, eulimidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Eulimidae
-genus: Family
-species: Eulimidae
+genus: ''
+species: ''
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
 attributes: []
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
@@ -37,15 +39,12 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/150123chg7mn.jpg
     caption: Changi, Jan 15 Photo shared by Marcus Ng on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG
-    caption: East Coast Park, Feb 16 On a Painted sand star . Photo shared by Loh
-      Kok Sheng on flickr .
+    caption: East Coast Park, Feb 16 On a Painted sand star . Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg
-    caption: East Coast, Jun 09 On a sea cucumber . Photo shared by James Koh on flickr
-      .
+    caption: East Coast, Jun 09 On a sea cucumber . Photo shared by James Koh on flickr .
   gallery5:
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
-    caption: Cyrene, May 17 On White Salmacis urchin . Photo shared on Singapore Biodiversity
-      Records.
+    caption: Cyrene, May 17 On White Salmacis urchin . Photo shared on Singapore Biodiversity Records.
 location:
 - prp
 - chg
@@ -61,6 +60,7 @@ authors:
 zone:
 - intertidal
 - marine
+permalink: /entries/Mollusca/Gastropoda/Eulimidae
 ---
 
 ## Where seen?

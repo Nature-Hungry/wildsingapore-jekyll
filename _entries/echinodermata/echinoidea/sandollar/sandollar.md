@@ -1,8 +1,7 @@
 ---
 title: 'Sand dollars '
 description: Fact sheet of Sand dollars  on the shores of Singapore
-keywords: sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Clypeasteridae
@@ -25,67 +24,47 @@ coverimg: https://live.staticflickr.com/65535/50504169572_521278a4a2_z.jpg
 links_references: '### Links
 
 
-  - [Class Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)Tan, Leo
-  W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.
-  The Singapore Science Centre, Singapore. 160 pp.
+  - [Class Echinoidea](http://mangrove.nus.edu.sg/pub/seashore/text/223.htm)Tan, Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
 
 
-  - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)by
-  Dr. Andrew B. Smith on the London Natural History Museum website: everything you
-  could possibly want to know about sand dollars and sea urchins with lots of large
-  close-up images and explanatory diagrams.
+  - [The Echinoid Directory](http://www.nhm.ac.uk/research-curation/projects/echinoid-directory/)by Dr. Andrew B. Smith on the London Natural History Museum website: everything you could possibly want to know about sand dollars and sea urchins with lots of large close-up images and explanatory diagrams.
 
 
-  - [What are those Holes in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollars.html)The
-  Airplane-Sand Dollar Connection! on the Echinoblog: a great explanation of the function
-  of lunules.
+  - [What are those Holes in Sand Dollars for?](http://echinoblog.blogspot.com/2009/01/what-are-those-holes-in-sand-dollars.html)The Airplane-Sand Dollar Connection! on the Echinoblog: a great explanation of the function of lunules.
 
 
   ### References
 
 
-  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other
-  Echinoderms of Singapore*. Singapore Science Centre. 187pp.
+  - Lane, David J.W. and Didier Vandenspiegel. 2003*. A Guide to Sea Stars and Other Echinoderms of Singapore*. Singapore Science Centre. 187pp.
 
 
-  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data
-  Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
-  pp.
+  - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.*The Singapore Red Data Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285 pp.
 
 
-  - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
+  - Wee Y.C. and Peter K. L. Ng. 1994.*A First Look at Biodiversity in Singapore*. National Council on the Environment. 163pp.
 
 
-  - Miskelly, Ashely. 2002.*Sea Urchins of Australia and the Indo-Pacific*. Capricornia
-  Publications. 180pp.
+  - Miskelly, Ashely. 2002.*Sea Urchins of Australia and the Indo-Pacific*. Capricornia Publications. 180pp.
 
 
-  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole
-  of Thomson Learning Inc., 7th Edition. pp. 963
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
 
 
-  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill
-  Book Co., Singapore. 578 pp.
+  - Pechenik, Jan A., 2005.*Biology of the Invertebrates*. 5thedition. McGraw-Hill Book Co., Singapore. 578 pp.
 
 
-  - Hendler, Gordon, John E. Miller, David L. Pawson and Porter M. Kier, 1995.*Sea
-  Stars, Sea Urchins, and Allies: Echinoderms of Florida and the Caribbean*. Smithsonian
-  Institution Press. 390 pp.
+  - Hendler, Gordon, John E. Miller, David L. Pawson and Porter M. Kier, 1995.*Sea Stars, Sea Urchins, and Allies: Echinoderms of Florida and the Caribbean*. Smithsonian Institution Press. 390 pp.
 
 
-  - Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow
-  water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*. Times
-  Edition, Singapore. 144 pp.
+  - Schoppe, Sabine, 2000.*Echinoderms of the Philippines: A guide to common shallow water sea stars, brittle stars, sea urchins, sea cucumbers and feather stars*. Times Edition, Singapore. 144 pp.
 
 
-  - Coleman, Neville. undated.*Sea Stars of Australasia and their relatives*. Neville
-  Coleman''s World of Water, Australia. 64pp.'
+  - Coleman, Neville. undated.*Sea Stars of Australasia and their relatives*. Neville Coleman''s World of Water, Australia. 64pp.'
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
-    caption: A sand dollar can move quite far under wet sand. Lazarus Island, Jun
-      09
+    caption: A sand dollar can move quite far under wet sand. Lazarus Island, Jun 09
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
     caption: Living sand dollars, not moving under sand. Lazarus Island, Jun 09
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg
@@ -98,11 +77,9 @@ galleries:
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
     caption: Underside of test
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg
-    caption: Shape and features of a sand dollar is often more obvious in a dead one.
-      Seringat-Kias, Jun 09
+    caption: Shape and features of a sand dollar is often more obvious in a dead one. Seringat-Kias, Jun 09
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
-    caption: The petalloid is made up of holes where tube feet emerge. This is more
-      obvious in the skeleton of a dead sand dollar. Changi, Jun 06
+    caption: The petalloid is made up of holes where tube feet emerge. This is more obvious in the skeleton of a dead sand dollar. Changi, Jun 06
   - url: https://images.naturehungry.sg/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
     caption: The central mouth is on the underside. Changi, Jun 06
   gallery4:
@@ -114,11 +91,9 @@ galleries:
     caption: A dead sand dollar has no spines. Chek Jawa, Nov 02
   gallery5:
   - url: https://images.naturehungry.sg/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
-    caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared
-      by Marcus Ng on flickr .
+    caption: Being eaten by a Knobbly sea star ? Cyrene Reef, May 11 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
-    caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek
-      Jawa Feb 04
+    caption: Cake sand dollar being swallowed by a Haddon's carpet anemone . Chek Jawa Feb 04
   - url: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
     caption: Grey bonnet snail eating a Cake sand dollar. Cyrene, Aug 11
   gallery7:
@@ -150,8 +125,7 @@ location:
 - lfa
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Sand dollars are alive! They are animals. Don't step on them! They are related to
-  sea stars and have five-part symmetry
+- Sand dollars are alive! They are animals. Don't step on them! They are related to sea stars and have five-part symmetry
 - Living sand dollars have tiny moving spines that tickle when you hold them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -161,6 +135,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
+permalink: /entries/Echinodermata/Echinozoa/Echinoidea/Clypeasteroida/Clypeasterina/Clypeasteridae
 ---
 
 ## Where seen?

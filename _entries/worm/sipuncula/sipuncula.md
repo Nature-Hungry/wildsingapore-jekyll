@@ -1,8 +1,7 @@
 ---
 title: Peanut worms
 description: Fact sheet of Peanut worms on the shores of Singapore
-keywords: peanut, worm, sipuncula, sipunculida, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: peanut, worm, sipuncula, sipunculida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Phascolosomatidae
@@ -98,9 +97,7 @@ links_references: '### Links
 
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
 
-  by Keith Davey on the Marine Education Society of Australia website: an introduction
-  to worms including sipunculids with explanations of the major parts of their bodies
-  and their lifestyles, and fact sheet on a peanut worm found in Australia.
+  by Keith Davey on the Marine Education Society of Australia website: an introduction to worms including sipunculids with explanations of the major parts of their bodies and their lifestyles, and fact sheet on a peanut worm found in Australia.
 
 
   ### References
@@ -171,6 +168,7 @@ habitats:
 - muddy shore
 - mangrove
 - seagrass meadow
+permalink: /entries/Annelida/Sipuncula/Phascolosomatidae
 ---
 
 ## Where seen?

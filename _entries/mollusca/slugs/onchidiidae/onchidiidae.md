@@ -1,9 +1,7 @@
 ---
 title: 'Onch slugs '
 description: Fact sheet of Onch slugs  on the shores of Singapore
-keywords: pulmonata, pulmonate, slug, seaslug, onch, onchidium, peronium, onchidiidae,
-  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
-  singapore, facts, fact sheet, info, photo
+keywords: pulmonata, pulmonate, slug, seaslug, onch, onchidium, peronium, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Onchidiidae
 genus: ''
@@ -34,11 +32,9 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg
     caption: Raffles Lighthouse, Jul 06
   - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg
-    caption: Leaving behind a grazed patch, and a trail of 'processed algae' Raffles
-      Lighthouse, Jul 06
+    caption: Leaving behind a grazed patch, and a trail of 'processed algae' Raffles Lighthouse, Jul 06
   - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg
-    caption: One pair of tentacles and a pair of oral flaps at the mouth on the underside.
-      Raffles Lighthouse, Jul 06
+    caption: One pair of tentacles and a pair of oral flaps at the mouth on the underside. Raffles Lighthouse, Jul 06
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3.jpg
     caption: Underside.
@@ -99,8 +95,7 @@ links_references: '### Links
 
   [The Sea Slug Forum](http://www.seaslugforum.net/)
 
-  by Dr Bill Rudman: a brief intro to Onchs with lots of emails queries and photos
-  and Dr Rudman''s responses to them.
+  by Dr Bill Rudman: a brief intro to Onchs with lots of emails queries and photos and Dr Rudman''s responses to them.
 
 
   ### References
@@ -124,8 +119,7 @@ links_references: '### Links
 
   - Benoit Dayrat,
 
-  [Review of the current knowledge of the systematics of Onchidiidae (Mollusca: Gastropoda:
-  Pulmonata) with a checklist of nominal species](http://campillos.ucmerced.edu/%7Ebdayrat/PDF%20of%20Papers/Dayrat%20Zootaxa%202009.pdf)
+  [Review of the current knowledge of the systematics of Onchidiidae (Mollusca: Gastropoda: Pulmonata) with a checklist of nominal species](http://campillos.ucmerced.edu/%7Ebdayrat/PDF%20of%20Papers/Dayrat%20Zootaxa%202009.pdf)
 
   Zootaxa 2068: 1-26 (2009) (pdf)
 
@@ -160,8 +154,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - Onchs are very well camouflaged
-- Don't step on them! Onchs graze on alge on the rock, see the bare patches on the
-  rock? They are snails without shells, and hermaphrodites.
+- Don't step on them! Onchs graze on alge on the rock, see the bare patches on the rock? They are snails without shells, and hermaphrodites.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
@@ -169,6 +162,7 @@ zone:
 - marine
 habitats:
 - mangrove
+permalink: /entries/Mollusca/Gastropoda/Systellommatophora/Onchidiidae
 ---
 
 ## Where seen?

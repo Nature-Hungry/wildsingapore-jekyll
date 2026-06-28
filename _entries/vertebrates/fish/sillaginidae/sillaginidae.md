@@ -1,8 +1,7 @@
 ---
 title: 'Whitings '
 description: Fact sheet of Whitings  on the shores of Singapore
-keywords: sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -63,8 +62,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Pasir or Silver Sand Whiting (
-  *Sillago sihama*
+  - [Pasir or Silver Sand Whiting ( *Sillago sihama*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/281)
 
@@ -106,8 +104,7 @@ links_references: '### Links
 
   [Coastal Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/index.html)
 
-  by Keiichi Matsuura, Seishi Kimura and Teguh Peristiwady on the National Science
-  Museum, Tokyo website: factsheets with photos and descriptions.
+  by Keiichi Matsuura, Seishi Kimura and Teguh Peristiwady on the National Science Museum, Tokyo website: factsheets with photos and descriptions.
 
 
   ### References
@@ -159,6 +156,7 @@ zone:
 habitats:
 - sandy shore
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Sillaginidae
 ---
 
 ## Where seen?

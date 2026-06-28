@@ -1,8 +1,7 @@
 ---
 title: 'Grapsid crabs '
 description: Fact sheet of Grapsid crabs  on the shores of Singapore
-keywords: grapsus, crab, grapsidae, decapod, crustacea, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: grapsus, crab, grapsidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Grapsidae
 genus: ''
@@ -34,8 +33,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Purple climber crabs (
-  *Metopograpsus*
+  - [Purple climber crabs ( *Metopograpsus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2047)
 
@@ -61,8 +59,7 @@ links_references: '### Links
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
-  of the world*
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
 
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
 
@@ -70,8 +67,7 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
 
-  Division of Biology, School of Science, Nanyang Technological University & Department
-  of Zoology, the National University of Singapore. 160 pp.
+  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -117,6 +113,7 @@ zone:
 habitats:
 - rocky shore
 - mangrove
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Grapsidae
 ---
 
 ## Where seen?

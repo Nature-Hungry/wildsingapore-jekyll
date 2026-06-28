@@ -1,10 +1,9 @@
 ---
 title: Flatfishes
 description: Fact sheet of Flatfishes on the shores of Singapore
-keywords: flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Paralichthyidae
+family: ''
 genus: ''
 species: ''
 attributes: []
@@ -22,28 +21,19 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/photos/bullet2.gif
-    caption: if you learn only 3 things about them ... They are 'one-sided' fishes
-      as adults, but start life looking like other 'normal' fishes. Their transformation
-      is fascinating. They can crawl slowly using the fins that border the body edge.
-      They are well camouflaged and some are tiny. Don't step on them!
+    caption: if you learn only 3 things about them ... They are 'one-sided' fishes as adults, but start life looking like other 'normal' fishes. Their transformation is fascinating. They can crawl slowly using the fins that border the body edge. They are well camouflaged and some are tiny. Don't step on them!
   - url: https://images.naturehungry.sg/photos/bullet2.gif
-    caption: They are 'one-sided' fishes as adults, but start life looking like other
-      'normal' fishes. Their transformation is fascinating. They can crawl slowly
-      using the fins that border the body edge. They are well camouflaged and some
-      are tiny. Don't step on them!
+    caption: They are 'one-sided' fishes as adults, but start life looking like other 'normal' fishes. Their transformation is fascinating. They can crawl slowly using the fins that border the body edge. They are well camouflaged and some are tiny. Don't step on them!
   gallery2:
   - url: https://images.naturehungry.sg/soleidae/commersonnii/040120cjd0035m3.jpg
-    caption: All that can be seen of the huge buried fish are its eyes! Chek Jawa,
-      Jan 04
+    caption: All that can be seen of the huge buried fish are its eyes! Chek Jawa, Jan 04
   - url: https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg
     caption: The underside is usually pale and unmarked.
   - url: https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg
-    caption: The pectoral fin on the underside is usually reduced. The mouth on the
-      underside may bristle with tentacles and teeth!
+    caption: The pectoral fin on the underside is usually reduced. The mouth on the underside may bristle with tentacles and teeth!
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg
-    caption: Juvenile flatfish. St John's Island, Oct 20 Photo shared by Vincent Choo
-      on facebook .
+    caption: Juvenile flatfish. St John's Island, Oct 20 Photo shared by Vincent Choo on facebook .
   - url: https://images.naturehungry.sg/soleidae/110505tmnbd0602.jpg
     caption: Unidentified juvenile Sole? Tanah Merah, May 11
   gallery4:
@@ -80,8 +70,7 @@ links_references: '### Links
 
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
-  of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
 
   - [Cock-eyed fish: how did it get to be that way?](http://wildshores.blogspot.com/2008/09/cock-eyed-fish-how-did-it-get-that-way.html)
 
@@ -142,6 +131,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei
 ---
 
 ## Where seen?

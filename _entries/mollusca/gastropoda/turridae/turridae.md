@@ -1,9 +1,7 @@
 ---
 title: Turrid snails
 description: Fact sheet of Turrid snails on the shores of Singapore
-keywords: turrid, turricula, turridae, gastropod, mollusc, snail, shell, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: turrid, turricula, turridae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Turridae
 genus: ''
@@ -27,8 +25,7 @@ galleries:
     caption: Turricula javana Chek Jawa, Sep 10
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turridae/turridae/180616bblks8.jpg
-    caption: Turris nadaensis Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng
-      on facebook .
+    caption: Turris nadaensis Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turridae/turridae/180616bblks8a.jpg
     caption: ''
 links_references: '### Links
@@ -36,8 +33,7 @@ links_references: '### Links
 
   - *A turrid shell, Turris undosa, at Lazarus Island*
 
-  , 29 November 2019, Calvin Leow Jiah Jay, Singapore Biodiversity Records 2019: 154
-  ISSN 2345-7597, National University of Singapore.
+  , 29 November 2019, Calvin Leow Jiah Jay, Singapore Biodiversity Records 2019: 154 ISSN 2345-7597, National University of Singapore.
 
   - [Family Turridae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Turridae.html)
 
@@ -45,8 +41,7 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief
-  fact sheet with photos.
+  at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
 
   - [Family Turridae](http://seashellsofnsw.org.au/Turridae/Pages/Turridae_intro)
 
@@ -54,12 +49,9 @@ links_references: '### Links
 
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
 
-  website by Des Beechey Research Associate, Australian Museum: family introductions
-  with photos of shells and detailed fact sheets for many species.
+  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
 
-  - Family Turridae in the Gastropods section by J.M. Poutiers in the FAO Species
-  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
-  Central Pacific
+  - Family Turridae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -93,6 +85,7 @@ zone:
 - marine
 habitats:
 - sandy shore
+permalink: /entries/Mollusca/Gastropoda/Neogastropoda/Turridae
 ---
 
 ## Where seen?

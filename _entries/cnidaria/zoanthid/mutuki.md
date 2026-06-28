@@ -9,7 +9,7 @@ layout: entry
 attributes:
 - 6
 - 88
-family: Zonathidae
+family: Zoanathidae
 genus: Palythoa
 species: mutuki
 inat_id: 195490
