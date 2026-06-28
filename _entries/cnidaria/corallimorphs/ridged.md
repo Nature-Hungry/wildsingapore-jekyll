@@ -77,7 +77,8 @@ These little ridged disk-like animal is sometimes seen on our Southern shores, g
 
 Each polyp about 4-5cm in diameter, in a group of 5-10. Oral disk has a ridged surface. In some the ridges form a maze-like pattern, in others the ridges radiate in a straight line from the central mouth. The mouth is usually held upturned. Colours seen a uniform unpatterned brown, dark to orangey or pinkish brown.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

@@ -93,7 +93,8 @@ On Cyrene in 2020, small clusters of the mussel were seen. They were mostly dead
 [Reef murex snails](../../gastropoda/muricidae/chicoreus)
 appeared to be feeding on them.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 According to Tan Koh Siang, in the 1970s,

@@ -74,7 +74,8 @@ var
 *murtoni*
 is a variety of this fig that is said to "yield uncommonly well to tapping". Sadly, Burkill reports this variety had been tapped out of existence in southern Sumatra.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Ficus consociata*

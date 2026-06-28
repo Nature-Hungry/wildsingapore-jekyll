@@ -242,7 +242,8 @@ This harmless sea cucumber is among those collected as a Chinese delicacy. They 
 
 Collection of sea cucumbers has been a traditional activity for centuries by coastal peoples in many parts of the world ranging from Madagascar to the Philippines. However, the recent high market price of this delicacy has resulted in increased collection in last 20 years. Some edible sea cucumbers are globally threatened by over-collection. In some areas, such sea cucumbers have become scarce. In others, specimens collected are smaller and have to be harvested from deeper waters. Efforts to culture edible sea cucumbers have only just started.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Garlic bread sea cucumber is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It is threatened by habitat loss due to coastal development. Overcollection can also have an impact on local populations. According to the

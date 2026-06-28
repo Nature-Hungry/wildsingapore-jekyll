@@ -70,7 +70,8 @@ This large jellyfish is sometimes seen on some of our shores. Usually alone, not
 
 Bell about 10cm in diameter with fat sausage-like oral arms. The arms do not have a long 'tail'.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

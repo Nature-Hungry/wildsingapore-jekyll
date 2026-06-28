@@ -143,7 +143,8 @@ Like other drills (Family Muricidae) the Rare-spined murex snail can drill throu
 
 It is sometimes collected as food by coastal dwellers (e.g., in Malaysia) and for its shell for the shell trade.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This snail is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It is now seldom seen. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.

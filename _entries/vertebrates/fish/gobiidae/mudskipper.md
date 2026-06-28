@@ -196,7 +196,8 @@ The
 [Giant mudskipper](schlosseri)
 is eaten in some places such as Taiwan. They are caught with nets strung at ground level, or with cast-nets.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Giant mudskipper is listed among the threatened animals of Singapore, mainly due to habitat loss. Our other mudskippers are not listed as endangered. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution.

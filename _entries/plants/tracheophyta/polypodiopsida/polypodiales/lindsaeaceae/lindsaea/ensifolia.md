@@ -28,11 +28,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lindsaeaceae\lindsaea\ensifolia/P5140089 (17).jpg
 title: Graceful Necklace Fern
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lindsaeaceae\lindsaea\ensifolia/DSC00272 (13).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

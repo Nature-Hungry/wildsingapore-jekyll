@@ -124,7 +124,8 @@ Dove snails lay hemi-spherical eggs under rocks and other nooks and crannies.
 
 They are mainly collected for their colourful shells often made into necklaces for the tourist souvenir trade, although sometimes used for food.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our dove snails are listed among the threatened animals of Singapore due to habitat loss. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and overcollection can also have an impact on local populations.

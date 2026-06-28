@@ -169,7 +169,8 @@ rmed with sharp spines, the pincers extend and retract much faster than an eye b
 
 Many different species seen in Singapore of the Family Squillidae look similar and are hard to distinguish in the field.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our mantis shrimps are not listed as endangered. However,

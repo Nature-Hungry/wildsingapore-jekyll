@@ -132,7 +132,8 @@ The Sea teak is a conifer. That is, it produces seeds but no flowers. Instead, i
 
 According to Burkill, the timber is small but still used for house building, carts and various other uses. Indeed, the Malay name for the tree is Jati Laut (translating to Sea teak) as well as Setada or Sentada. Burkill notes that medicinal uses possibly ascribed to it include the use of the leaves as an alternative to treat rheumatism and painful joints.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore. With the loss of our natural coastal habitats and mangroves, this once common plant is also becoming increasingly rare. Joseph Lai has recently recorded Sea teak at

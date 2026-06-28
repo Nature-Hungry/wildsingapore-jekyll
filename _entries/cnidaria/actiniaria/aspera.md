@@ -105,7 +105,8 @@ Sometimes confused with the
 [Glass anemone](dofleinia)
 which has more transparent tentacles that lack the small brown spots and has black rings where the tentacles attach to the oral disk, the oral disk does not have dark brown blotches, and does not have many rows of sticky bumps on the body column.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

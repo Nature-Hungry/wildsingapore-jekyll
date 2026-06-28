@@ -24,11 +24,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC04791 (11).jpg
 title: Fragrant Ixora
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC02127 (13).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

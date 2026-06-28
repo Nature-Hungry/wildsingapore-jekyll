@@ -116,7 +116,8 @@ Fruit small teardrop shaped (about 1cm) with one seed, ripening yellow. The cork
 
 According to Giersen, the husk of the fruit is said to be used to stupefy fish. It is also used as firewood.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This plant is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.

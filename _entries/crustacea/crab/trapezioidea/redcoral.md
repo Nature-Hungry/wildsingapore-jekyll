@@ -166,7 +166,8 @@ This crab lives only in
 (*Pocillopora*
 sp.). The crab feeds on the mucus produced by the coral, gathering these with the minute comb-like structures at the tips of their feet. In turn, it protects the coral from predators such as the Crown-of-Thorns sea star and sea snails that eat corals. It discourages the sea star by using its sharp pincers to nip at the sensitive tube feet of the sea star.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Red coral crab is listed as 'Vulnerable' in our Red List of threatened animals of Singapore.

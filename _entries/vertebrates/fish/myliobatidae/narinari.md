@@ -122,7 +122,8 @@ It feeds on clams but also eats shrimps, crabs, octopus, worms, snails and small
 ## Human uses
 
 The fish is eaten by humans and the tail is sometimes used as a decorative item. It is commonly caught in trawl nets and gillnets.
- ## Status and threats
+ 
+## Status and threats
 
 
 Although the Eagle ray is not listed in Singapore's Red List, on the international IUCN Red List it is classified as Near Threatened. The fish naturally reproduces slowly and is threatened mainly by overfishing

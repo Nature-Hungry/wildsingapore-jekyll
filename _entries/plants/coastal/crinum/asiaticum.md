@@ -94,7 +94,8 @@ The plant arises from an underground, fleshy bulb. From this grows a rounded and
 
 According to Burkill, it is poisonous and medicinal uses include inducing vomiting when wounded by a poison arrow. The leaves are used by Malays in a poultice to treat fevers, headaches, swellings. Boiling the plant results in a lotion for general use on the body. According to Wee, the crushed leaves are used to wash piles. Mixed with honey they are applied to wounds and abscesses.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.

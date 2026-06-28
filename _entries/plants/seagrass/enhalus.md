@@ -232,7 +232,8 @@ and snails. The mat of rhizomes also provides shelter for many small animals.
 
 The seeds are eaten by traditional people living on the coasts of Australia and the Philippines. Eaten raw, they are said to taste like water chestnuts. A durable fibre useful for fishing nets is also made from it.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.

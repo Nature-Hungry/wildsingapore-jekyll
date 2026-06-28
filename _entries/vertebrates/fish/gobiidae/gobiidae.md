@@ -216,7 +216,8 @@ Gobies are generally not eaten, although it is said that large
 [mudskippers](mudskipper)
 are eaten in places like Taiwan. Some of the more colourful gobies are collected for the live aquarium trade.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our gobies are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection by hobbyists can also have an impact on local populations.

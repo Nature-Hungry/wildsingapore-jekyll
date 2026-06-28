@@ -106,7 +106,8 @@ This large yellow sea cucumber with little 'eye-spots' is sometimes seen near li
 
 It is among the sea cucumbers harvested for food.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This sea cucumber is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

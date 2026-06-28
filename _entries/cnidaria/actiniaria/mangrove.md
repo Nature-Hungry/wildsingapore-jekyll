@@ -97,7 +97,8 @@ This beautiful anemone with 'petals' around its mouth is sometimes seen on our N
 
 Diameter with tentacles expanded 3-6cm. Tentacles many, with pointed tips, generally pale white to beige, some with broad, diffuse bands. One upper ring of longer, thicker tentacles. Below, another ring of many shorter, thinner tentacles. Oral disk often with darker margin. Mouth ringed with pale petal-like structures. Body column may be pale or dark, is smooth with fine white stripes. It can tuck its tentacles into its body column.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

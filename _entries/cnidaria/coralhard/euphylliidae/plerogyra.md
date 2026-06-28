@@ -133,7 +133,8 @@ species. Here's more on
 species](euphyllia)
 .
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This coral is not listed amont the threatened animals of Singapore. But it is listed globally Near Threatened

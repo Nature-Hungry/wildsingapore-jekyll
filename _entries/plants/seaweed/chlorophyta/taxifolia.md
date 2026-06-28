@@ -216,7 +216,8 @@ This green seaweed is reported to be edible, to have antibacterial and antifunga
 *Caulerpa*
 species produce toxins to protect themselves from browsing fish. This also makes them toxic to humans.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This seaweed is native to the tropical waters of the Caribbean and Indo-Pacific.

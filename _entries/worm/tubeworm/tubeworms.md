@@ -206,7 +206,8 @@ may also help anchor sediments. These tubeworms may live packed so closely toget
 
 Fishermen sometimes dig out tubeworms to use as bait.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection as bait can also have an impact on local populations.

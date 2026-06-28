@@ -181,7 +181,8 @@ Open flower 2-2.5cm long, petals white. Inflorescence variable usually shorter a
 
 According to Burkill, the Malays have many medicinal uses for the plants and do not distinguish among the species. These include the seeds a part of cures such as cough-mixtures, as deworming for children and cures for boils. The pounded seeds used as a poultice on boils. The juice of the leaves are used to preserve the hair, the roots are used in a cure for shingles. A Malay ritual also includes using the prickly leaves under the house to ward off evil from pregnant women and using the leaves as part of rituals to heal mad people. According to Giesen, the fruit is pounded and used as a blood purifier and dressing for burns. Leaves relieve rheumatism. A compress of the fruit or roots is sometimes applied in cases of snakebite and arrow poisoning. Seeds are said to be used to treat internal worms. The plant may also be used as fodder.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *A. ebracteatus*

@@ -65,7 +65,8 @@ Body width 8-10cm. The crab does look rather box-like with a semi-circular body 
 **What does it eat?**
 The pincers of box crabs are specialised for cracking open snail shells. The snail is gripped in the left pincer which has pointed claws. With the right pincer, which is stronger, the crab cuts pieces of the shell from the shell opening. Once the gap is big enough, the crab can enjoy its snail meal.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our box crabs are listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

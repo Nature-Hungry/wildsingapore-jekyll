@@ -191,7 +191,8 @@ Some species live in symbiosis with corals, sponges, sea fans and other animals.
 **Colonial shrimps?**
 A kind of snapping shrimp (*Synalpheaus regalis*) that lives in sponges in the coral reefs of Belize were found to form colonies much like termites do. One 'queen' prawn produces all the members of the colony, which attack members of other colonies but are peaceful towards members of their own colony.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Most of our snapping shrimps are not listed among the endangered animals of Singapore, except for the Crinoid snapping shrimp (*Synalpheus stimpsoni*).

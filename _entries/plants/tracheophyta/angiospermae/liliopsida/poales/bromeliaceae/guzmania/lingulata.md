@@ -19,11 +19,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\bromeliaceae\guzmania\lingulata/DSC07953 (10).jpg
 title: Scarlet Star
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\bromeliaceae\guzmania\lingulata/DSC07957 (10).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

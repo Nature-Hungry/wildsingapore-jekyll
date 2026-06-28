@@ -152,7 +152,8 @@ It is a mistaken belief that divers can be trapped underwater if the giant clam 
 
 Giant clams are considered a delicacy and in some places, an aphrodisiac. The large shells of these magnificent creatures are often turned into tacky souvenirs like ash-trays. There are efforts to cultivate giant clams on a commercial basis so as to reduce over-collection of wild clams.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Giant clams have been listed in CITES Appendix II since 1985. The

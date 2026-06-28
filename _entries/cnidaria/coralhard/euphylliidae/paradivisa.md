@@ -132,7 +132,8 @@ species. Here's more on
 *Euphyllia*
 species](euphyllia)
 .
- ## Status and threats
+ 
+## Status and threats
 
 
 This coral is listed as globally Vulnerable

@@ -157,7 +157,8 @@ Should the tiny snail die, the empty shell is often taken over by
 
 Some of the prettier species are collected for the shell trade.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Traill's creeper (*Cerithium trailli*) is listed as 'Endangered' on the Red List of the threatened animals of Singapore, as shores where it was originally found have been lost to reclamation. Like other creatures of the intertidal zone, Creeper snails are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.

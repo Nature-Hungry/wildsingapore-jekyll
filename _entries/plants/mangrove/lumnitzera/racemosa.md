@@ -145,7 +145,8 @@ According to Burkill, the timber has similar properties as that of
 [Teruntum merah](littorea)
 (*Lumnitzera littorea*) but because it is a smaller plant it is less useful.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.

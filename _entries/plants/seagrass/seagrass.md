@@ -292,6 +292,7 @@ ways. They are woven into baskets, used to thatch roofs, stuffed into
 mattresses and used a fertiliser. A durable fibre useful for fishing
 nets is also made from the [Tape seagrass](enhalus) (*Enhalus acoroides*). Modern rugs are also woven out of seagrasses.  
   
+
 ## Status and threats
 All our seagrasses
 are listed among the threatened plants of Singapore. Seagrasses are
@@ -349,9 +350,11 @@ Singapore Red Data Book: Threatened plants and animals of Singapore*.
 
 
  
-### Family Hydrocharitaceae (marine species only)
-{% assign hydrocharitaceae = site.entries | where: "family", "Hydrocharitaceae" %}
+<h3>Family Hydrocharitaceae (marine species only)</h3>
+{% assign hydrocharitaceae = site.entries | where: "family", "Hydrocharitaceae" | where_exp: "item", "item.zone contains 'intertidal'"%}
+<div style="display:flex;flex-direction:column;gap:1rem;">
 {% include entry-summary-rows.html items=hydrocharitaceae %}
+</div>
 <!-- [*Enhalus acoroides*](enhalus)*/Enhalus koenigii* (Tape seagrass)
 (VU: Vulnerable)  
   
@@ -368,9 +371,11 @@ seagrass) (VU: Vulnerable)
 (Sickle seagrass) (CR: Critically Endangered) -->
   
  
-**Family Cymodoceaceae**
- {% assign Cymodoceaceae = site.entries | where: "family", "Cymodoceaceae" %}
+<h3>Family Cymodoceaceae</h3>
+{% assign Cymodoceaceae = site.entries | where: "family", "Cymodoceaceae" %}
+<div style="display:flex;flex-direction:column;gap:1rem;">
 {% include entry-summary-rows.html items=Cymodoceaceae %}
+</div>
 <!-- *[Cymodocea rotundata](rotundata)* (Smooth ribbon seagrass)(CR:
 Critically Endangered) 
 *[Cymodocea serrulata](serrulata)*(Serrated ribbon seagrass)(EN:

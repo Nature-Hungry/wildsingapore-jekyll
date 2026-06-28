@@ -23,11 +23,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\cerbera\manghas/DSC02924 (10).jpg
 title: Sea Mango
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\cerbera\manghas/DSC03003 (10).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

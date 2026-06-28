@@ -130,7 +130,8 @@ Propagule slender (25-40cm long) and tapered at each end, capped by the persiste
 
 According to Burkill, the timber is too small for any real value and it only used for firewood.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.

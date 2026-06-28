@@ -281,7 +281,8 @@ Unfortunately, these fishes are taken in large numbers from the wild for the aqu
 
 There have been some success in breeding anemonefish for the aquarium trade. Although captive bred anemonefish are hardier, they are more expensive. Harvesting from the wild will probably continue so long as there are unscrupulous traders and aquarists.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Clown anemonefish is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book, "habitat protection and strict policing against illegal collection are required" to conserve our anemonefishes.

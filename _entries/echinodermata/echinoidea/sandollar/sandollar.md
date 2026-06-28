@@ -230,6 +230,7 @@ of the same species may be found in one place.
 
 ## Human uses: 
 Sand dollar eggs have been extensively studied to better understand cell division and thus some diseases such as cancer, which is associated with uncontrolled cell growth.
+
 ## Status and threats: 
 Some of our sand dollars are listed among the threatened animals of Singapore. The main threat is habitat loss due to reclamation or human activities along the coast that pollute the water. Like other creatures
 of the intertidal zone, they are affected by human activities such as reclamation

@@ -137,7 +137,8 @@ Like
 **What do they eat?**
 Like many other bivalves, file clams are filter feeders. They use their siphons to suck in water and filter out microscopic food. The water also brings fresh oxygen to the animal.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Common file clam is listed as "Vulnerable" on the Red List of threatened animals of Singapore.

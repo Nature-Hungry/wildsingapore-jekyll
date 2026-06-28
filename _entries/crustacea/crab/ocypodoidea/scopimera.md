@@ -175,7 +175,8 @@ As it processes sand, a little path is scraped out from the burrow entrance. Lit
 **Sand patterns:**
 Sand bubbler crabs are responsible for the delicate patterns of tiny balls on the sandy shores at low tide. The crabs emerge as soon as the tide recedes. You can almost tell how long the tide has been out by the patterns of their sand balls. The more intricate the pattern of sand balls, the longer the tide has been out.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+{% include img-wrap-group.html items=page.galleries.gallery3 %} 
+## Status and threats
 
 
 Our sand bubbler crabs are not listed among the threatened animals of Singapore.

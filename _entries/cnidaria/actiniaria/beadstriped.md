@@ -92,7 +92,8 @@ the
 [Banded bead anemone](beadbanded)
 , which is smaller than the Striped bead anemone. The Banded bead anemone is found in tight clusters of many individuals, while the Striped bead anemone may be seen alone or in loose clusters of a few individuals.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

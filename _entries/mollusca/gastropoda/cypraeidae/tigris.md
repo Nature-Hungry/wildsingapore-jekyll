@@ -167,7 +167,8 @@ a
 
 It is collected for food and the shell for the shell trade, where it is one of the favourites of shell collectors. Sadly, they are often over-collected, using destructive methods such as dynamite fishing. As a result, even elsewhere, it may be nearly extinct locally or confined to depths over 10 m.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Endangered' in the Red List of threatened animals of Singapore, which adds that although it is considered one of the most common coweries in the Indo-Pacific, and were found on Singapore's reefs in the past, it is now 'exceedingly rare'. The Red List goes on the suggest that sites need to be protected and over-collecting prevented.

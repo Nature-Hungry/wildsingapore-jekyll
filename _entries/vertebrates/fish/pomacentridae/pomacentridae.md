@@ -169,7 +169,8 @@ In many species, a nest site is prepared by one or both partners. The eggs are a
 
 Many members of this family are harvested from the wild for the live aquarium trade. Harvesting tropical scorpionfishes for the live aquarium trade may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures. Like other fish and creatures harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 [Anemonefishes](amphiprion)

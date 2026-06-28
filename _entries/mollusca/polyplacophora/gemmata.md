@@ -118,7 +118,8 @@ Up to 12cm long, the oval flattened body is covered with 8 overlapping plates al
 **What do they eat?**
 Like snails, chitons have a rough 'tongue' called a radula that is used to rasp off fine algae or other encrustations. They creep slowly about when submerged and at night. When exposed at low tide and during the day, they are usually motionless in some dark, wet hiding place.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Endangered' on the Red List of threatened animals of Singapore.

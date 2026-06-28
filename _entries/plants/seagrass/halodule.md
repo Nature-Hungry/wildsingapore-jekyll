@@ -148,7 +148,8 @@ Needle seagrass has separate male and female plants. The flowers are tiny, usual
 ## Role in habitat
 Although tiny, needle seagrass grows rapidly and densely from its underground stems. Forming a mat, it traps, builds up, and stabilises sediments. This allows other seagrasses to establish themselves and provides a more stable environment for burrowing creatures. Needle seagrass is also one of the seagrasses preferred by dugongs.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Halodule pinifolia*

@@ -122,7 +122,8 @@ This amazing technicolour sea cucumber is sometimes seen on our Northern shores,
 
 These beautiful sea cucumbers unfortunately are harvested for the aquarium trade. Ironically, they do not make good aquarium specimens as they are often toxic to their tank mates.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This sea cucumber is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

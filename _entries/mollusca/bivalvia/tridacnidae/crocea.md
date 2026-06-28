@@ -147,7 +147,8 @@ The two-part shell has shallow fluted sculpturing on the surface. When submerged
 
 Giant clams are considered a delicacy and in some places, an aphrodisiac. The large shells of these magnificent creatures are often turned into tacky souvenirs like ash-trays. There are efforts to cultivate giant clams on a commercial basis so as to reduce over-collection of wild clams.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.

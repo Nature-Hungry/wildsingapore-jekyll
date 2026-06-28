@@ -30,11 +30,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\caryota\mitis/DSC04992 (13).jpg
 title: Fishtail Palm
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\caryota\mitis/DSC05829 (08).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

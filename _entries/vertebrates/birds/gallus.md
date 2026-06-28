@@ -118,7 +118,8 @@ Sep 09*
 
 Red junglefowl are believed to have been domesticated thousands of years ago. It is said that they were first domesticated for cockfighting, later for religious ceremonies and only much later as food. Some chickens were bred for their feathers, which were used in ceremonial costumes. Like other domesticated animals, there are now many different breeds of chickens for various purposes from laying eggs, providing meat or just for their sheer beauty.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Red junglefowl is listed as 'Endangered' in the Red List of threatened animals of Singapore. They are not only affected by habitat loss but also by poaching and interbreeding with domesticated chickens. They are found from India to Southern China, throughout Southeast Asia to the Philippines and Bali.

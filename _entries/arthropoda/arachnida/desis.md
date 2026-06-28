@@ -171,6 +171,7 @@ These spiders have been seen clutching in their jaws all kinds of animals includ
 **Baby spiders:**
 Egg cocoons are placed in waterproofed tubes sealed with silk.
 
+
 ## Status and threats
 
 The Marine spider is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

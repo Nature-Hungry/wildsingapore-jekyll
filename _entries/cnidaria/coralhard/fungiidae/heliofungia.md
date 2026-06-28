@@ -167,7 +167,8 @@ When the tentacles are retracted, it resembles
 [Fungia mushroom corals](fungia)
 but Sunflower mushroom coral can be distinguished by the large, rounded teeth on the skeleton walls.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as globally Vulnerable

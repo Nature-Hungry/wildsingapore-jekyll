@@ -127,7 +127,8 @@ is more elongate and has a brown-stained shell opening. Thus its common name is 
 *S. aurisdianae*
 is collected for food where it is abundant. The shell is used in shellcraft. It is sold in local markets of the central and northern Philippines.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *S. aratrum*

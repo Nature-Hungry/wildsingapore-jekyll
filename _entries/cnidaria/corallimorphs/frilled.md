@@ -131,7 +131,8 @@ Short fine tentacles fringe the outer edge of the oral disk. On the disk itself,
 
 The underside is smooth and brown. The animal can tuck its oral disk into the body column when it is exposed out of water. Seen in a wide range of colours: from pale to bright green to blue, also with brown tentacles.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

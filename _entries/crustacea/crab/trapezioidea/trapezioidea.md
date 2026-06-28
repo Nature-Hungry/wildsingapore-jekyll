@@ -86,7 +86,8 @@ include the
 [Hairy coral crab](../xanthidae/cymo)
 (*Cymo andreossyi*)
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Red coral crab (*Trapezia cymodoce*) is listed as 'Vulnerable' in our Red List of threatened animals of Singapore. To protect these crabs, we need to protect their hard coral homes.

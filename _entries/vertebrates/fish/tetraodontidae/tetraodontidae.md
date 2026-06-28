@@ -200,7 +200,8 @@ Pufferfishes lay eggs in a nest and it is presumed that the nest is defended.
 
 Despite their toxic nature, pufferfishes are eaten in Japan as a delicacy.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our pufferfishes are not listed as among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.

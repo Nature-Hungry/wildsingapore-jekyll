@@ -123,6 +123,7 @@ Ascidians are probably not very tasty. As their bright colours suggest, some asc
 ## Human uses
 As ascidians are closely related to vertebrates, studying them helps us better understand the ancestry of vertebrates and our own biology. Large ascidians are eaten in places such as Chile, Europe and Japan, or used as bait.
 
+
 ## Status and threats
 Our ascidians are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors may also have an impact on local populations.
 

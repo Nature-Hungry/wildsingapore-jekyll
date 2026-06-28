@@ -171,7 +171,8 @@ the
 [how to tell apart large sea stars](cfbigstars)
 seen on our shores.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This star is listed as 'Vulnerable' in the Red List of threatened animals of Singapore.

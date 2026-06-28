@@ -164,7 +164,8 @@ According to Burkill, the leaves are used for roofing as is, or "a more skilful 
 
 Burkill describes the tapping process: A palm is fit to tap at 5 years of age or after its second flowering. When the fruit is forming, the stalk carrying it is beaten with a wooden mallet. After being bruised daily for a week, the stalk is tapped for its sap and the flow maintained by daily shaving off from the stump of the inflorescence. It is accepted that tapping over 50 years is possible. The sap ferments into alcohol, toddy, almost immediately as "bacteria of fermentation is in abundance" in the containers used to collect the sap. Nipah suger is not much made in Malaya because it contains "too much of a treacly substance that is difficult to eliminate". Toddy left to stand becomes vinegar in a fortnight, which is used to bleach Nipah leaves for the hat and mat industry.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Vulnerable' in the Red List of threatened plants of Singapore. According to Davison, most of the localities where this palm is found is not in protected areas, so there is the danger of development wiping out populations. Only populations at Sungei Buloh, Pulau Ubin and Pulau Tekong are protected.

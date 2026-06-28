@@ -157,7 +157,8 @@ It is said to eat burrowing sea anemones and sea pens. The mouth region is lined
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby sundials:**
 It lays long egg strings.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Clear sundial snail is listed as 'Endangered' in the Red List of threatened animals of Singapore. The original shores where they were found have been lost to reclamation.

@@ -150,7 +150,8 @@ and other blob-like animals. Here's more on
 Button zoanthids
 harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals. Zoanthids may also feed on bacteria, algae and dissolved substances in the water. There are also reports that they may capture edible food bits from the water, while others report that they do not capture plankton.
 
-{% include img-wrap-group.html items=page.galleries.gallery4 %} ## Status and threats
+{% include img-wrap-group.html items=page.galleries.gallery4 %} 
+## Status and threats
 
 
 Button zoanthids are not listed among the threatened animals of Singapore. However, like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and poaching by hobbyists also have an impact on local populations.

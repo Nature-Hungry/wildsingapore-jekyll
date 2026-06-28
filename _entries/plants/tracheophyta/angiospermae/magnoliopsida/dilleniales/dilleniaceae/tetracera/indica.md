@@ -32,11 +32,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\dilleniales\dilleniaceae\tetracera\indica/PB240136 (24).jpg
 title: Akar Mempelas
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\dilleniales\dilleniaceae\tetracera\indica/DSC07432 (08).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

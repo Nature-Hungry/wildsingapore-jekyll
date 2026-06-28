@@ -116,7 +116,8 @@ might be the accepted current name.
 
 Colony about 10-15cm, sometimes much larger. Polyps about 1cm in diameter, on stalks about 1cm long emerging from low to tubular mounds (calyces). The eight skinny tentacles have short thin brown branches in 1 row on both sides of each tentacle. Oral disk and tentacles white, greenish or bluish. The polyps emerge through calyces embedded in a common tissue that encrusts hard surfaces. The polyps don't pulsate and can slowly retract completely leaving only the calyces which leave a bumpy surface on the common tissue. The tissue is mangenta purple due to the colour of the sclerites (tiny spikes of calcium carbonate). The animals harbour symbiotic algae (zooxanthellae) and is thus more common in clearer waters.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

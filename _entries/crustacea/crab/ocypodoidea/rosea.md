@@ -77,7 +77,8 @@ This small fiddler crab with a rather short and stout enlarged pincer is rarely 
 
 Body width 1-1.5cm. Body squarish. The male fiddler crab's enlarged pincer length about the same as the body width. The enlarged pincer's outer palm is pimply with a groove on the lower edge to the immovable finger. The tips of the fingers are short, and there isn't a wide gape between the upper and lower finger. The palm is red, pink or purplish, the fingers are white. Body colours and patterns vary: black with white or bluish speckles, or blotches. Eyes black or dark red on long stalks pale to bright red, walking legs short black.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Rosy fiddler crab is listed as 'Endangered' in the Red List of threatened animals of Singapore.

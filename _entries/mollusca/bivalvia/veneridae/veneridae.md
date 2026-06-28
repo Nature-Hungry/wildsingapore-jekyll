@@ -140,7 +140,8 @@ Many of the commercially important clams are venus clams. Some are also used as 
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our venus clams are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams.

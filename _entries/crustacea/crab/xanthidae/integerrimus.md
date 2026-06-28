@@ -275,7 +275,8 @@ and should not be eaten.
 [big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This crab is listed as 'Vulnerable' in the Red Data list of threatened animals of Singapore.

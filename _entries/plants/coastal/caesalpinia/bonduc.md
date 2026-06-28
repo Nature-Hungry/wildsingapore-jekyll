@@ -122,7 +122,8 @@ A coarse climbing vine (5-15m long) to a prickly shrub. The compound leaf is bip
 
 According to Giesen, root is used to treat stomach aches and to stimulate the appetite.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.

@@ -148,7 +148,8 @@ sp.).
 
 In the Philippines, the shells are used to make ornaments.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This animal is listed as "Vulnerable" on the Red List of threatened animals of Singapore.

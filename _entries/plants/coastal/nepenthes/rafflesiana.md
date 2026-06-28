@@ -106,7 +106,8 @@ Despite the treacherous nature of the pitcher, the Nepenthes Crab Spider (*Misum
 
 According to Burkill, the tough stems of pitcher plants (species not specified) are used in rope making, while the roots are used to treat stomach aches, dysentery and in poultices. The stem may be used to treat coughs and fevers.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The plant is listed as 'Vulnerable' in the Red List of threatened plants of Singapore.

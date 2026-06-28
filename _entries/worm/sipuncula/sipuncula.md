@@ -197,7 +197,8 @@ Peanut worms have separate genders, releasing eggs and sperm simultaneously into
 
 Peanut worms were once so plentiful in Singapore that they were collected and fed to ducks.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.

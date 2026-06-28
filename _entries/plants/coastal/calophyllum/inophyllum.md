@@ -156,7 +156,8 @@ A relative of this plant, the Bintangor Tree (*Calophyllum lanigerum*
 var.
 *austrocoriaceum*) produced a new compound, Calanolide A, that was found highly effective in controlling the AIDS virus in the laboratory. The compound was extracted from a twig and fruit of a tree growing in Sarawak, Malaysia. Calanolide A has since been synthesised and is still being tested as an AIDS control.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.

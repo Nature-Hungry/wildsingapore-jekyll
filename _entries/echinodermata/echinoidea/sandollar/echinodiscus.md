@@ -138,7 +138,8 @@ The Keyhole sand dollar got its common name from the intriguing slot-shaped hole
 **Dead or alive?**
 Sand dollars may appear dead, but they are very much alive. A living sand dollar is covered with fine spines and appears velvety. The skeleton (test) of a dead one is smooth, without any spines, and the details of skeleton can be seen more clearly. The skeleton is fragile and will shatter at the slightest pressure.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+{% include img-wrap-group.html items=page.galleries.gallery3 %} 
+## Status and threats
 
 
 The Keyhole sand dollar is listed as 'Vulnerable' in the Red List of threatened animals of Singapore. An uncommon species restricted to very few sites mainly in the Pulau Ubin-Pulau Tekong area, it is threatened by habitat loss due to coastal development.

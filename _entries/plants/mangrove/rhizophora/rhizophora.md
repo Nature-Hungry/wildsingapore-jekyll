@@ -121,7 +121,8 @@ According to Burkill, the trees are most used for firewood. One great advantage 
 [make charcoal](http://wildshores.blogspot.com/2009/04/how-is-charcoal-made-from-mangroves.html)
 . It is also valued as a source of tannins. In fact, the use of mangrove trees in tanning leather has been recorded by early Arab traders. Besides tanning leather, the bark was originally used by fishermen to toughen their fishing lines and ropes. The tree is much in demand for piling and house frames built near mangroves and swamps. As well as for building fishtraps.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *R. stylosa*

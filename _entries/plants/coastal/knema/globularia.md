@@ -100,7 +100,8 @@ Fruits globular (1-2cm) with a thin skin, when ripe, splitting to reveal a brigh
 
 According to Burkill, the wood is not durable but it is sometimes used for rafters.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Previously thought to be extinct, with the discoveries of some trees in Pulau Ubin and St. John's Island it is now listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.

@@ -205,7 +205,8 @@ sp.) including
 
 Unfortunately, these beautiful animals are harvested from the wild for the live aquarium trade, although they are difficult to maintain in captivity.
 ****
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is listed as Endangered in Singapore.

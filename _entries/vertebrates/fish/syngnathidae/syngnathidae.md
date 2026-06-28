@@ -168,7 +168,8 @@ In many members of this family, the male carries the eggs. In some species, the 
 
 Pipefishes and seahorses are used in traditional Chinese medicine. Some species are also caught for the live aquarium trade.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 These fishes are threatened by habitat disturbance and destruction from reclamation, pollution and activities that increase sedimentation. They are also threatened with over-collection for the traditional Chinese medicine and live aquarium trade. They are naturally uncommon because they reproduce slowly and usually seldom travel far from one spot. Usually, in the wild only a handful of babies survive from each batch of eggs. Being slow swimmers without a free-swimming larval stage, they don't spread quickly to new places. Being slow-moving and defenceless, they are easily collected.

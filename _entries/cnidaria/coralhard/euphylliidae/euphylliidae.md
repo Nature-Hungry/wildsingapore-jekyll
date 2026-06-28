@@ -130,7 +130,8 @@ species](euphyllia)
 
 **What do they eat?**
 All members of Family Euphyllidae harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies. The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals. It is believed this additional source of nutrients from the zooxanthellae help hard corals produce their hard skeletons and thus expand their size faster.
- ## Status and threats
+ 
+## Status and threats
 
 
 All Euphyllid corals recorded for Singapore are listed as globally threatened

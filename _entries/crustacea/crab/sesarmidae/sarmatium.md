@@ -106,7 +106,8 @@ Body width 3-8cm. It has a round body and flat legs with pointed tips. The pince
 **What does it eat?**
 It eats mangrove leaves, dragging these into its burrow to eat them in peace and quiet.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This crab is listed as 'Endangered' in the Red List of threatened animals of Singapore.

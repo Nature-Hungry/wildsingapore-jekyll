@@ -26,11 +26,12 @@ title: Fragrant Flatsedge
 other_names:
 - Rusty Flatsedge
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\odoratus/DSC00246 (11).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

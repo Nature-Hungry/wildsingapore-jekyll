@@ -149,7 +149,8 @@ Diameter to about 25cm. The circular shell is greyish sometimes brown. Identifie
 **Sometimes confused with** the [Mangrove horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*). More on [how to tell them apart](limulidae).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
- ## Status and threats
+ 
+## Status and threats
 
 
 The Coastal horseshoe crab is listed as 'Endangered' on the Red List of threatened animals of Singapore. It is mainly threatened by habitat loss.

@@ -153,7 +153,8 @@ Gong-gong may gather in groups to mate and lay eggs - in fine long strings. Fema
 
 Where common it is commercially harvested for food in many parts of Southeast Asia. In the Philippines, the shells are traditionally used by fishermen as sinkers for nets.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.

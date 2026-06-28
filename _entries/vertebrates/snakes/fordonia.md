@@ -108,7 +108,8 @@ It eats mainly hard-shelled crabs, hunting for and capturing them in the crab bu
 **Baby snakes:**
 Mama snake gives birth to live young in litters of 6-15.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The snake is listed as 'Endangered' on the Red List of threatened animals of Singapore.

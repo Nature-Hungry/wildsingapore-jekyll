@@ -117,7 +117,8 @@ It eats sponges, ascidians and zooplankton.
 
 This fish is unfortunately harvested from the wild for the live aquarium trade.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Although the fish is not listed among the threatened animals of Singapore, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over collection by hobbyists and overfishing can also have an impact on local populations.

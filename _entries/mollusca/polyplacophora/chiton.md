@@ -177,7 +177,8 @@ A chiton has no eyes, tentacles and in fact, the head is described as "poorly de
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**What do they eat?**
 Like snails, chitons have a rough 'tongue' called a radula that is used to rasp off fine algae or other encrustations. They creep slowly about when submerged and at night. When exposed at low tide and during the day, they are usually motionless in some dark, wet hiding place.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 A large chiton found on our shores, the [Jewelled chiton](gemmata) (*Acanthopleura gemmata*) is listed as 'Endangered' on the Red List of threatened animals of Singapore.

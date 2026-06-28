@@ -118,7 +118,8 @@ species and
 
 Body width 1cm. Body somewhat hexagonal, with long legs and long narrow pincers. Its colours and patterns usually perfectly match its feather star host. Usually, only crab is found in each feather star.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our

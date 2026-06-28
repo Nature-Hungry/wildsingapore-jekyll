@@ -255,7 +255,8 @@ These anemones is sometimes seen in clusters of many individuals crammed togethe
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Magnificently Tough**
 **:**
 During mass coral bleaching in 2010 and 2016, they were not seen to be bleaching. But during the 2024 global mass coral bleaching, a few were seen bleaching or stressed. The majority, however, seemed normal.
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

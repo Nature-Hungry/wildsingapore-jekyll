@@ -102,7 +102,8 @@ Tiny ones are common but overlooked as they look like bits of dirt or junk among
 
 Most have highly elongated pincers that stick way out from the sides of its body. Others have less obvious 'elbows'.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Some of our elbow crabs are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.

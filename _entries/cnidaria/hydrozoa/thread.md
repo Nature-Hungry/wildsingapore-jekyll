@@ -96,7 +96,8 @@ This small jellyfish sometimes seen on stranded on our shores. Several may be se
 
 Bell about 5-8cm, long thin thread-like tentacles from the edges of the bell 10-15cm long. Bell has radiating white patterns. Those washed ashore look like blobs of jelly.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

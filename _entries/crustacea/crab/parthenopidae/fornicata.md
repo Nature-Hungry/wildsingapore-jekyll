@@ -104,7 +104,8 @@ This strange crab is sometimes seen on our northern shores.
 
 Body width about 6cm. A domed body covers the spindly walking legs. Eyes tiny and close together at the top of a rather triangular head. The pincers are large and angular.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This crab is listed as 'Endangered' on the Red List of threatened animals of Singapore.

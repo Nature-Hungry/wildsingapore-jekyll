@@ -238,7 +238,8 @@ It is said that in the past, people collected the long, golden byssus threads of
 
 Some other species of fan clams have byssus hairs that are so similar to human hair that people refuse to eat the animals.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Some of our fan clams are listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

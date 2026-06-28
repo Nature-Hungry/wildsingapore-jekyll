@@ -88,7 +88,8 @@ It eats fruits and drinks nectar. A fruit bat may travel nearly 100km in a singl
 **Baby bats:**
 Mama bat gives birth to one young which weighs about 11gms at birth. She carries her young with her all the time, even as she flies, for about 45-50 days.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is not listed among our threatened animals.

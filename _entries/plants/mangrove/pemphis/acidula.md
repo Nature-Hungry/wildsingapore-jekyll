@@ -107,7 +107,8 @@ Corners says the plant 'is abundant where it grows' but is a 'very local tree' i
 
 There was a 4m tall Mentigi tree at Changi but it was toppled in a storm in Nov 2006.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.

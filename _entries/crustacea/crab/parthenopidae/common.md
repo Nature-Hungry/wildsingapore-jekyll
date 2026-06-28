@@ -176,7 +176,8 @@ sp. They are difficult to identify in the field.
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Elbow crab food:**
 The elbow crab eats worms and small snails and clams.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Some of our elbow crabs are listed among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.

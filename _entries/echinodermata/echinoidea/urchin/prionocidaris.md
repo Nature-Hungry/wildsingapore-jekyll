@@ -113,7 +113,8 @@ In some, the longer spines are covered sediments. Sometimes,
 [tiny brittle stars](../../ophiuroidea/tinycolourful)
 are seen wrapped around its spines. Or encrusting ascidians may grow on the spines.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Prionocidaris baculosa*

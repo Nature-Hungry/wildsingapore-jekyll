@@ -108,7 +108,8 @@ The flat underside white or beige with a dark blotch at the edge. Small notched 
 
 It is occasionally collected for food and shellcraft.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This snail is listed as 'Vulnerable' in the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Highly abundant in the 1960's, populations have declined drastically due to the loss of mature mangrove habitats."

@@ -159,7 +159,8 @@ This clam is collected and in some places cultivated. Its lustrous shells are ma
 
 In the Philippines, they are made into chandeliers and wind chimes. In 1991, the clam ranked fifth among the major fishery exports of the country bringing in US$35 million. Overexploitation began in the late 1970s until the clam disappeared in the late 1980s due to world demand. Among other causes of depletion are destructive methods of fishing and gathering with methods such as trawling, use of mechanical rakes and dredges and compressor diving. Efforts to reintroduce and farm the clam is constrained by continued illegal harvesting.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.

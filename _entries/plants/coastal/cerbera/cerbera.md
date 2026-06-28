@@ -112,7 +112,8 @@ According to Burkill, only the seeds are poisonous and no other part of the plan
 
 According to Corners, the fruits are poisonous and native medicinal uses are made of the bark, leaves and oil extracted from the seeds. According to Tomlinson, some native societies use the fruits as a means of committing suicide. According to Wee, the tree contains cerberin or cerberoside. According to Giesen, cerberin is similar in structure to digoxin, found in foxglove, which kills by blocking calcium ion channels in heart muscles and disrupting the heartbeat. More ominiously, it is also suspected of being used in an increasing number of murder cases. The bark, sap and leaves are used as a purgative, and for inducing abortion.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Cerbera odollam*

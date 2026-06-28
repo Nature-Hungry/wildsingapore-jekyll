@@ -159,7 +159,8 @@ on
 
 Mantis shrimp are said to be edible but not worth collecting commercially because they hard to catch. Their solitary and anti-social nature makes them impossible to farm. They are also not popular for the aquarium trade as they are ferocious predators. Smashers also can damage aquariums. However, mantis shrimp in the wild are attractive subjects for divers and other visitors to marine habitats.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our mantis shrimps are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection by hobbyists also have an impact on local populations.

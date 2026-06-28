@@ -175,7 +175,8 @@ Diameter with tentacles expanded 4-5cm. One ring of 16 tentacles that are thick 
 [how to tell apart sausage-like creatures](../../glossary/sausage)
 .
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

@@ -22,11 +22,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/Hybrid_cultivar1.jpg
 title: Sweet Basil
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09157 (15).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

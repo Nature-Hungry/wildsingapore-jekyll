@@ -139,7 +139,8 @@ About 10cm in diameter with arms. Each arm branched into coiling 'tendrils' that
 **Baskets at home:**
 According to David Lane, juveniles are often found on sea fans, while adults are typically found under large corals and crevices during the day, but at night climb up to an elevated point to unfurl their arms into the current.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Euryale aspersa*

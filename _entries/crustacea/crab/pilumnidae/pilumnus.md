@@ -242,7 +242,8 @@ The Common hairy crab eats mainly seaweed. It may also eat toxic
 [zoanthids](../../../cnidaria/others/zoanthid/zoanthid)
 (colonial anemones) and this makes the crab mildly poisonous. Various hairy crabs on our shores have been observed nibbling on hard seaweeds, sponges and even appearing to snack on bristleworms, carrying a clam into a burrow. Also possibly having a taste of a nudibranch and dragging a seahare into its burrow leaving a trail of purple dye from the panicking seahare.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Several of our hairy crabs are listed among the threatened animals of Singapore.

@@ -98,7 +98,8 @@ A small tree or a shrub (2-3m tall) with an umbrella-like rosette of leaves at t
 
 The tree has many traditional medicinal uses. According to Corners, the bark and especially the roots are 'exceedingly bitter' and the bark was used as one of the native remedies for malaria. According to Burkill, the bark is also used in a tonic for after childbirth. It is also pounded and used externally for headaches, wounds, ulcers and sores.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore. Elsewhere, the plant is also threatened by over-collection for the traditional herbal trade.

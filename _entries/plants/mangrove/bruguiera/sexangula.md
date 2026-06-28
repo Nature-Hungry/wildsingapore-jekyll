@@ -120,7 +120,8 @@ According to the NParks Flora and Fauna website, the tree is the preferred local
 
 According to Burkill, the developing embryo is cooked, soaked overnight and then eaten. Juice from the fruits may be used to treat sore eyes, shingles or treat burns. According to Giersen, the heavy to very heavy timber is hard and strong. Used for poles as well as firewood and charcoal. In Sulawesi, the fruits are eaten after they are soaked and boiled.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore

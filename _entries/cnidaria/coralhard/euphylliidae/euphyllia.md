@@ -159,7 +159,8 @@ Euphyllia corals have separate male and female colonies (not all corals do), and
 
 These corals are among those taken for the live aquarium trade, often in unsustainable numbers.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 All Euphyllid corals recorded for Singapore are listed as globally threatened

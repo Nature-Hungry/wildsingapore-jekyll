@@ -163,7 +163,8 @@ have also been seen hunting them. Other large animals probably also snack on the
 
 Sadly, these beautiful tiny animals are collected, killed and their shells sold as cheap curios and for handicrafts. In the Philippines they are commonly gathered as food. Vendors traditionally provide the buyer with an aromatic thorn from the Acacia to pry the meat out.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Button snails were highly abundant in Singapore in the 1960's, but populations have declined drastically as their habitats have since become degraded or were lost. They are now listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Trampling by careless visitors and overcollection can also have an impact on local populations.

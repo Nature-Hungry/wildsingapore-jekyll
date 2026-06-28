@@ -223,7 +223,8 @@ Sea hares do not live long as large, mature adults, rarely longer than a year. T
 
 It is said that some Pacific Islanders eat sea hares. Yet again, there are reports of dogs being poisoned after eating sea hares. It appears that the algae that the sea hares eat may be responsible for the toxins.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our sea hares are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.

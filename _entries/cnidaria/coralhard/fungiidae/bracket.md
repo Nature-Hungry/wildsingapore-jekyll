@@ -162,7 +162,8 @@ Flat plate-like 30-40cm in diameter, attached at the base but wavy at the edges.
 **May be confused with**
 other plate-like corals.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Podabacia motuporensis*

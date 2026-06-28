@@ -116,7 +116,8 @@ It hunts small warm-blooded animals and has pits on the upper lip to detect its 
 **Python babies:**
 Mama snake lays many eggs (124 is the record) and incubates them for three months. The babies look just like their parents.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The snake is considered common and are not listed among the threatened animals of Singapore. However, like other creatures of the shores, they are affected by human activities such as reclamation and pollution.

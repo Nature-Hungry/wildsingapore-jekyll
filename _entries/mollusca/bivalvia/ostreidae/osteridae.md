@@ -134,7 +134,8 @@ Oysters have been farmed for centuries. Basically, young oysters are kept in cag
 **Got pearl inside?**
 Valuable pearls are found in only a small group of oysters. While other kinds of oysters (and even snails) may produce pearls, these are often not pretty enough to be of commercial value. So please DO NOT vandalise our oysters in the vain hope of finding a valuable pearl.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our oysters are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations of young clams. Oysters on disturbed shores are often vandalised by thoughtless people.

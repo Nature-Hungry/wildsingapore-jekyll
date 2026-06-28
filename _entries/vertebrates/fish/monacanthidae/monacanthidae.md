@@ -247,7 +247,8 @@ Many filefishes lay eggs that settle on the bottom, onto a site prepared and gua
 
 Filefishes are edible and eaten in some traditional dishes. Unlike most other edible fishes which are scaled before we eat them, for filefishes, the rough skin has to be 'peeled' off first.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our filefishes are listed among the threatened animals of Singapore. However, l

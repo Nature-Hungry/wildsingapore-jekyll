@@ -318,7 +318,8 @@ There is not much information on how Carpet anemones reproduce. Small carpet ane
 
 Unfortunately, these anemones are harvested for the live aquarium trade. Like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

@@ -143,7 +143,8 @@ has its tentacles retracted.
 *Heliofungia*
 has large, rounded teeth on the skeleton walls and very long cylindrical tentacles.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Some of

@@ -117,7 +117,8 @@ Fruits spherical, small (8-10cm) and appear in clusters when young. Unripe fruit
 
 According to Giesen, among its uses are the wood for handles of traditional knives (kris) and in building boats, the bark for tanning and dyeing cloth. The seeds are used to treat stomachache.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The tree is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.

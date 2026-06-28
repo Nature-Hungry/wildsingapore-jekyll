@@ -162,7 +162,8 @@ Zoanthids generally reproduce asexually: new polyps bud to enlarge the colony. H
 
 Palytoxin, the poison extracted from a zoanthid, has been used to better understand how our body works and may provide better treatment of hypertension, heart disease and other disorders. Zoanthids are also a popular item in the live aquarium trade, although their toxins make them dangerous to handle.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Zoanthids are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and overcollection also have an impact on local populations.

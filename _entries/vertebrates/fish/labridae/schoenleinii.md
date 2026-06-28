@@ -133,7 +133,8 @@ It rests on the bottom during the day and forages at night, often by overturning
 
 It heavily fished for for the live seafood trade. It is also highly sought after by recreational fishermen throughout its distribution.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Black-spot tuskfish is currently being considered for listing on the IUCN Red List of internationally threatened fishes.

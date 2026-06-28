@@ -344,7 +344,8 @@ Land hermit crabs belong to the Family Coenobitidae which includes the largest h
 **Role in the ecosystem:**
 Hermit crabs are eaten by many animals higher up in the food chain. Bigger crabs and birds can pry them out of their shells to eat them. Many small animals live with hermit crabs (see above). Many hermit crabs are scavengers and help quickly recycle dead matter on the shores.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The

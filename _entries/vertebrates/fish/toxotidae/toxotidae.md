@@ -173,7 +173,8 @@ Archerfishes control populations of their prey. They are also food for others hi
 
 Two Southeast Asian species are collected for the aquarium fish trade. They are not bred in captivity. In Kew Gardens, Archer fishes are kept in ponds with tropical waterlilies to help keep down small insect pests and aphids!
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our archerfishes are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Although they are still fairly common, they are threatened by the destruction of mangroves and by collection for the pet trade.

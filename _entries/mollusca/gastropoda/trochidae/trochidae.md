@@ -155,7 +155,8 @@ Top shells graze the algae that thrive on the rocks, scraping this off with thei
 
 The shell is lined with mother-of-pearl. Larger species are collected for food and their shells that are made into ornaments and pearl buttons. This is still a significant industry in some Pacific Islands and effort is being made to establish a susbtainable method of farming these snails.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 [Button snails](umbonium)

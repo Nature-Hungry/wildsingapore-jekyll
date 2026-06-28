@@ -135,7 +135,8 @@ According to Tomlinson, it is found in inner mangrove fringes and river banks an
 
 According to Giersen, the heavy to very heavy timber is hard and strong, and easily worked and finishes well. But it is perishable when exposed or in contact with the ground, and often found in small size. It produces good charcoal, firewood and pulp. The germinating seedling is sometimes eaten as a vegetable.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This plant is listed as 'Endangered' on the Red List of threatened plants of Singapore. It is threatened by habitat degradation.

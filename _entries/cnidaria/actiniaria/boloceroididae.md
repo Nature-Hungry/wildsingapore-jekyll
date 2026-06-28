@@ -224,7 +224,8 @@ The swimming anemone can purposely drop of its tentacles if it is threatened. Th
 The swimming anemone
 harbours symbiotic single-celled algae (called zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the anemone, which in return provides the algae with shelter and minerals.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

@@ -110,7 +110,8 @@ The underside is sometimes encrusted with [Flat slipper snails](../../mollusca/g
 
 **Sometimes confused with** the [Coastal horseshoe crab](tachypleus) (*Tachypleus gigas*). More on [how to tell them apart](limulidae).
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This horseshoe crab is listed as 'Vulnerable' in the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "It is still relatively common in intact mangroves, and should survive as long as there are enough such habitats conserved."

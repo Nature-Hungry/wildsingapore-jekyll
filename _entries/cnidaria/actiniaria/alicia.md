@@ -132,7 +132,8 @@ when their tentacles are expanded. Unlike Alicia anemones, cerianthids live in a
 [corallimorphs](../others/corallimorphs/corallimorph)
 , which tend to occur in clusters of many individuals while Alicia anemones are usually found alone.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

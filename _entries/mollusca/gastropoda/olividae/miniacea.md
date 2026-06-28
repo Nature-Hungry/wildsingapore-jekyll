@@ -129,7 +129,8 @@ may look similar.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
- ## Status and threats
+ 
+## Status and threats
 
 
 This olive snail is listed as 'Vulnerable' in the Red List of threatened animals of Singapore.

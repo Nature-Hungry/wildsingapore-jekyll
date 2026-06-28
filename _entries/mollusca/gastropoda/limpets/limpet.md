@@ -317,7 +317,8 @@ limpets lay eggs in circular or coiling jelly-like masses that contain thousands
 
 Large limpets are often harvested as food by coastal dwellers.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our limpets are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.

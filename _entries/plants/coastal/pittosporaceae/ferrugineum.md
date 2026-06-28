@@ -63,7 +63,8 @@ Corners describes it as "an insignificant little tree unless its branches are we
 
 According to Burkill, the leaves and roots are used in poulticing for malaria. The leaves and fruit are also used as fish poison.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This tree is listed as 'Vulnerable' in the Red List of threatened plants of Singapore.

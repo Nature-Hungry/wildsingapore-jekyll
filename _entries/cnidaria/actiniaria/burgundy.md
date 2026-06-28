@@ -102,7 +102,8 @@ This large, fat, dark red anemone has its stronghold at Punggol. Here, many are 
 
 Diameter with tentacles expanded 5-8cm. Body, oral disk and tentacles the same dark red, burgundy colour. Sometimes with five pale or yellowish spots or bars around the mouth. Many short tapered tentacles. Body column thick and short and densely covered with regular rows of small non-sticky bumps. The animal attaches with its broad foot to smooth hard surfaces below the low water line. When exposed at low spring tide, it tucks its tentacles into its body column.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

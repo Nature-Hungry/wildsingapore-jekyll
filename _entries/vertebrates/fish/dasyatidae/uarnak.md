@@ -119,7 +119,8 @@ Small fishes, clams, crabs, shrimps, worms and jellyfishes
 
 It is commonly caught although not esteemed as a food fish.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as Vulnerable on the IUCN Red List due to its slow rate of reproduction, overfishing, and loss of its preferred shallow water inshore habitats.

@@ -38,11 +38,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ranunculales\menispermaceae\cyclea\laxiflora/P9060332 (24).jpg
 title: '-'
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ranunculales\menispermaceae\cyclea\laxiflora/P4010196 (25).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

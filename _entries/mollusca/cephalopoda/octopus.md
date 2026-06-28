@@ -283,7 +283,8 @@ The eggs do not hatch into free-swimming larvae. Instead, miniature octopuses em
 
 Octopuses are widely eaten in Asia. They are caught in many ways, including by lines, in pots or by trawling.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our octopuses are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also affect local populations.

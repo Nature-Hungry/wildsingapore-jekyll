@@ -193,7 +193,8 @@ It's difficult to tell this seahorse apart from the
 **Pregnant fathers:**
 Seahorses reproduce in a peculiar way. It is male that carries the eggs in his body and thus becomes 'pregnant'. The female lays her eggs in his pouch. Emerging from the eggs, the babies hatch as miniature seahorses and may remain in the pouch for a while before the father goes into 'labour' and ejects them out of the pouch.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+{% include img-wrap-group.html items=page.galleries.gallery3 %} 
+## Status and threats
 
 
 Seahorses are listed as CITES II (which means their international trade is monitored) and are considered globally vulnerable.

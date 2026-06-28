@@ -156,7 +156,8 @@ practically exclude each other in habitat and have never been collected in exact
 
 According to Burkill, the timber is hard and durable, and thus sought after for marine pilings as well as bridges, wharves, parts of canoes and other household items. There are reports that pier posts made of the tree were still sound after 20-50 years. When first cut it smells of roses. But large-sized timber is rare. It is also used as firewood.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.

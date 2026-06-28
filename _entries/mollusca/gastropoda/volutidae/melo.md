@@ -189,7 +189,8 @@ bail out water from 'sampans' (little boats used by fishermen), also to measure 
 
 "Pearls" may form inside this snail when something enters the snail's shell and gets covered by shell material. The "pearl" is not lustrous as it contains no nacre, but are usually very round and can be as large as a golf ball. The colours of the "pearl" tend to fade over time so they are not considered precious gems.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Baler volute is listed as 'Endangered' in the Red List of threatened animals of Singapore due to habitat loss. Also threatened by indiscriminate fishing with nets. It is also eaten. Wildfilms had an encounter with a collector who

@@ -311,7 +311,8 @@ Voracious predators, some drills are considered a pest on oyster farms in Taiwan
 Recently, drills have become useful as bioindicators of pollutants in the environment, such as for anti-fouling chemicals used to prevent encrusting animals from growing on ships and other installations in the sea.
 The toxins kill drill larvae, or result in deformities in adults.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Chicoreus ramosus*

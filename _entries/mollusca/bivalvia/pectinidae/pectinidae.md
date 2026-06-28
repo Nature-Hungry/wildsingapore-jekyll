@@ -160,7 +160,8 @@ Larger scallop species are harvested for seafood. Usually what is eaten is only 
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our scallops are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also affect local populations.

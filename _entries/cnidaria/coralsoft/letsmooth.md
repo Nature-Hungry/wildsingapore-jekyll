@@ -135,7 +135,8 @@ The surface of the common leathery tissue is usually smooth as there are only au
 (*Lobophytum*
 sp.) which have siphonozooids and thus has a pimply common tissue.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

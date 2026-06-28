@@ -127,7 +127,8 @@ There are also small anemones that hitch a ride on
 [a shell occupied by a hermit crab](hermitsmall)
 .
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

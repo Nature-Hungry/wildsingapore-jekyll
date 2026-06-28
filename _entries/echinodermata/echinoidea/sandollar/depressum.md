@@ -169,7 +169,8 @@ Body diameter 4-6cm. Usually somewhat pentagonal rather than circular. On the up
 **Dead or alive?**
 Sand dollars may appear dead, but they are very much alive. A living sand dollar is covered with fine spines and appears velvety. The skeleton (test) of a dead one is smooth, without any spines, and the details of skeleton can be seen more clearly. The skeleton is fragile and will shatter at the slightest pressure.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This sand dollar is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

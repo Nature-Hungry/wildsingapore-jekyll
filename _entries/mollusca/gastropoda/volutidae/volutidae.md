@@ -150,7 +150,8 @@ Even after it dies, the snails shell continues to provide shelter! Many of the N
 
 Called 'kilah' in Malay, the Noble volute is edible. It is also 'often collected for its attractive shell. The Baler shell was also eaten and its empty shell used by fishermen to scoop water out of their boats, as well as to scoop sugar, salt and flour in markets.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The [Noble volute](nobilis) is listed as 'Vulnerable' and [Baler shell](melo) as 'Endangered' on the Red List of threatened animals of Singapore due to habitat loss. The Noble volute was previously abundant in Singapore but is now considered vulnerable due to habitat degradation and overcollection for food and for its attractive shell.

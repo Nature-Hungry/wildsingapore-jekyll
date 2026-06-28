@@ -157,7 +157,8 @@ When a male Fiddler crab succeeds in persuading a female to mate with him, they 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
 Fiddler crabs are eaten by many animals higher up in the food chain. The Kingfisher is among the birds that might snack on them.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Rosy fiddler crab (*Uca rosea*) is listed among the threatened animals of Singapore. While the other species of Fiddler crabs are not listed as endangered

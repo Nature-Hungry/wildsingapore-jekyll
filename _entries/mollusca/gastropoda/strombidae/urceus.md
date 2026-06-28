@@ -175,7 +175,8 @@ This narrow conch with black lips is sometimes seen in seagrass areas on our sho
 
 The snails are actively collected in the Philippines and often sold in the markets of northern Luzon. Shell frequently used to make decorative items.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Black-lipped conch is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be abundant in the 1970s.

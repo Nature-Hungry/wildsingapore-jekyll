@@ -159,7 +159,8 @@ The Dubious nerite lays white circular egg capsules that are miniature versions 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 This tiny snail grazes on algae.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This beautiful snail is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Populations along the original shores have been wiped out by reclamation."

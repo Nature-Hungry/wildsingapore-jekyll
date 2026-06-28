@@ -21,11 +21,12 @@ title: Dwarf Four-leaf Clover
 other_names:
 - Water Clover
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\salviniales\marsileaceae\marsilea\crenata/DSC08245 (11).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

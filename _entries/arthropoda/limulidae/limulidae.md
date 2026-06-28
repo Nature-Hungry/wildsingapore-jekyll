@@ -177,7 +177,8 @@ Horseshoe crab blood has a substance that is so sensitive to bacteria that purif
 
 Horseshoe crabs have also contributed in other ways to human health. Much of the basic principles of vision is based on studies of the horseshoe crab's eyes.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The [Coastal horseshoe crab](tachypleus) (*Tachypleus gigas*) is listed as 'Endangered' and the [Mangrove horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*) as 'Vulnerable' on the Red List of threatened animals of Singapore. Populations of these ancient creatures in Singapore have been severely reduced over the last two decades due to habitat loss.

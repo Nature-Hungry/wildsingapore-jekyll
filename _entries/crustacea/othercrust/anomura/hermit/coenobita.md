@@ -188,7 +188,8 @@ The hermit crab is a scavenger and also eats plants. It may go far inland to for
 **Shells not enough?**
 Often, those seen are found in shells that are too small for the animal. The poor hermit crab often can't retract all the way into the shell, and a part of it is still sticking out. This is possibly because high up on the shore, there aren't enough empty shells that are suitably large. The lack of suitably large shells on our shores may limit the population of these amazing animals. The land hermit crab is now considered rare on mainland Singapore.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+{% include img-wrap-group.html items=page.galleries.gallery3 %} 
+## Status and threats
 
 
 Our land hermit crabs are listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Singapore's more accessible beaches are regularly cleaned of any debris that washes up on the high tide mark. But this is where land hermit crabs find shelter, food and new shells. Deprived of their habitat, these endearing animals are no longer commonly encountered on our beaches.

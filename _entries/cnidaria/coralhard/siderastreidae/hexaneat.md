@@ -104,7 +104,8 @@ and
 *Leptastrea transversa*
 may also appear similar.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This coral is listed as globally Near Threatened

@@ -158,7 +158,8 @@ Olive snails are predators. They feed on other snails, small crustaceans and als
 
 Although sometimes collected for food, they are mainly collected for their attractive shells for the shell trade.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The

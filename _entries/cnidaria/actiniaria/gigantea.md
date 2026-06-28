@@ -225,7 +225,8 @@ There is not much information on how Carpet anemones reproduce.
 
 Unfortunately, these beautiful anemones are harvested for the live aqurium trade.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

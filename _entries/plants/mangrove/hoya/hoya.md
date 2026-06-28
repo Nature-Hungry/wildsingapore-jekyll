@@ -112,7 +112,8 @@ are vines, those in our mangroves are climbing twining vines that can be many me
 
 According to Burkill, uses include the latex to stimulate digestion. According to Hugh Tan, the poisonous latex is used in Malaysia to ease painful catfish stings, in hot baths to treat rheumatism and to cure coughs and asthma.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Many of our hoyas are listed in the Red List of threatened plants of Singapore. The mangrove

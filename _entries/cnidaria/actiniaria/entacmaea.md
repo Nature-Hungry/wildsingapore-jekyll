@@ -257,7 +257,8 @@ sp.) including
 *A. fuscocaudatus, A. latezonatus, A. melanopus, A. polymnus*
 (juvenile). So far, only the Tomato anemonefish has been seen on the bubble tip anemones on the intertidal.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
@@ -266,7 +267,8 @@ As at 2024, it is assessed not to be approaching the criteria for being listed a
 
 Unfortunately, this beautiful anemone is collected for the live aquarium trade.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore. But the anemone fishes that rely on them are on the Red List. However, like other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully.

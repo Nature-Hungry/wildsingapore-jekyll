@@ -93,7 +93,8 @@ Feeds mainly on fish, as well as cephalopods (octopus, squid and cuttlefish).
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Dolphin babies:**
 Baby dolphins are about 100cm long at birth and suckle on their mother's milk for about two years.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This dolphin is listed as 'Endangered' in the Red List of threatened animals of Singapore. Like many other marine mammals, these dolphins are threatened by drowning in fishing lines and fishing nets. They are also affected by pollution and loss of feeding habitats due to reclamation, coastal development and human activities on our coasts and seas.

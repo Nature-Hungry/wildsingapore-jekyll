@@ -193,7 +193,8 @@ A mushroom coral is often home to different kinds of small animals from shrimps 
 **Baby mushrooms:**
 Some species of mushroom corals can reproduce by special asexual reproduction. A daughter colony (anthocauli) is formed when a part of the parent's skeleton loses its calcium (decalcification) resulting in clones that develop on the parent's body and become self-sufficient before detaching from the parent.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Sunflower mushroom coral (*Heliofungia actiniformis*) and some other mushroom corals are listed as threatened on the

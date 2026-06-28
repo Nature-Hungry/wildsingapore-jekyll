@@ -259,7 +259,8 @@ Leathery corals harbour microscopic, single-celled symbiotic algae (zooxanthella
 
 Leathery soft corals are considered toxic in the live aquarium trade. They produce substances that inhibit or stunt the growth of hard corals nearby.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our leathery soft corals are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors also have an impact on local populations.

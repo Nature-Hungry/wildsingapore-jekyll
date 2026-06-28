@@ -120,7 +120,8 @@ or Ketapang (*Terminalia catappa*). Thus one of its Malay names is 'Ketapang pas
 
 According to Giesen, the bark is used to treat dysentery as well as applied to wounds. The fragrant flowers were strung into garlands. The timber is used in Fiji for house blocks, although it is considered of little value elsewhere. The bark is used in traditional medicine in some places.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This tree is listed as 'Endangered' in the Red List of threatened plants of Singapore.

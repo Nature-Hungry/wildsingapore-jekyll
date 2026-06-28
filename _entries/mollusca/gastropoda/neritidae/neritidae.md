@@ -152,7 +152,8 @@ Nerites have separate genders and engage in internal fertilisation. They have a 
 
 They are gathered as food by coastal dwellers. Some species of nerites are eaten raw or toasted. The shell is also used in shell craft.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The tiny and beautifully marked

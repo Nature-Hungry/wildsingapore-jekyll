@@ -135,7 +135,8 @@ suggest something more complicated is going on. Some sacoglossans also recycle t
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Baby Sacoglossa:**
 These slugs are simultaneous hermaphrodites, that is, each animal has both male and female reproductive organs at the same time. They practice internal fertilisation. When two slugs mate, they may both act as males, extending the penis (usually a white tube that emerges from the side of the neck). Some may insert the penis into the female genital pore, others may simply pierce the partner anywhere in the body. They lay eggs in ribbons.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our sacoglossans are listed among the endangered animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.

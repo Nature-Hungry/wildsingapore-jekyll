@@ -99,7 +99,8 @@ About 1cm. The shell is white, oval with regular parallel ridges all around the 
 **What do they eat?**
 Bean cowries are believed to be predatory, feeding on compound ascidians.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Trivirostra oryza oryza*

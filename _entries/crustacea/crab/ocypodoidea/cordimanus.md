@@ -118,7 +118,8 @@ Body width about 5cm. Body squarish box-like. Pale greyish blue without dark mar
 the
 [Horn-eyed ghost crab](ceratophthalmus)
 (*Ocypode ceratophthalmus*): the Smooth-eyed ghost crab lacks 'horns' on its eyes and seems a little slower and less skittish. It lacks ridges on the inner palm. But juvenile Long-eyed ghost crabs also lack 'horns' and tend to remain immobile when spotted.
- ## Status and threats
+ 
+## Status and threats
 
 
 The Smooth-eyed ghost crab is listed as 'Vulnerable' in the Red List of threatened animals of Singapore.

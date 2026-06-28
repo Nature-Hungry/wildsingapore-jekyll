@@ -159,7 +159,8 @@ Sea mussels are among the favourite seafood of people everywhere. The
 [red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our sea mussels are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and overcollection can also affect local populations.

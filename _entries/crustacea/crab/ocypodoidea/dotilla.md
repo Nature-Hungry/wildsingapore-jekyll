@@ -195,7 +195,8 @@ in wet semi-fluid sand builds an 'igloo' of sand pellets by rotating itself, in 
 The soldier crab eats the thin coating of detritus on sand grains. Sand grains are scraped up with the downward pointing pincers and brought to the mouthparts that then sift out any tiny food particles.
 The shifted sand is then discarded in a little ball. The bigger untidy balls are sand pellets dug out of the burrow.
 
-{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+{% include img-wrap-group.html items=page.galleries.gallery3 %} 
+## Status and threats
 
 
 One of our soldier crab species (*Dotilla myctiroides*) is listed among the threatened animals of Singapore due to loss of our natural beaches. While somewhat common on Chek Jawa, they are not commonly seen elsewhere in Singapore.

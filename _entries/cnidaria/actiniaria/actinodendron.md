@@ -192,7 +192,8 @@ Do not touch the sea anemone.
 **Fiery friends:**
 Usually, we don't see symbiotic animals living in a Fire anemone. But once, a [Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis) (*Periclimenes brevicarpalis*) was seen in a Fire anemone.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

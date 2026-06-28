@@ -29,11 +29,12 @@ title: Singapore Fern
 other_names:
 - Paku Biawak
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\tectariaceae\tectaria\singaporiana/DSC05287 (08).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

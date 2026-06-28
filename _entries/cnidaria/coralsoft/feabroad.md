@@ -132,7 +132,8 @@ Polyps from beige, pink, pale powder blue to bright blue, the entire animal the 
 
 The animals harbour high densities of symbiotic algae (zooxanthellae) and thus can be found in clearer water or higher up on the intertidal zone.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

@@ -257,7 +257,8 @@ Cone snails are predators. They feed on worms, other snails and small fishes. Ma
 
 Cone snails are mainly collected for their attractive shells for the shell trade. Research on their toxins have resulted in some medical applications to help humans cope with pain and diseases.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Textile cone (*Conus textile*) is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be found in Singapore coral reef areas up till the 1970s but is now extremely rare. The Singed cone (*Conus consor*) is also listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It used to be the most common cone species seen in Singapore's rocky shores in the past, but now seldom seen due to degradation or reclamation of natural rocky shores.

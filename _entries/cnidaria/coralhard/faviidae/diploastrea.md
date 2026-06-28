@@ -154,7 +154,8 @@ may appear similar.
 
 Colonies 15-30cm, elsewhere recorded to grow up to 5m wide and 2m tall. The colonies are said to be usually dome-shaped but may become almost spherical boulders. Some seen were encrusting. The corallites (1cm) are similarly-sized neat domes with a small central opening. Neat narrow ridges on the corallite radiate out in regular rays. The corallites are regularly spaced out for an overall pattern that is neat and tidy. The large polyp tentacles are said to emerge at night. Colours seen include brown, purplish, pinkish-brown sometimes with a bluish tinge.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This coral is listed as globally Near Threatened

@@ -177,7 +177,8 @@ other long mushroom corals. Here's more on how to
 [tell apart elongated mushroom hard corals](cflong)
 .
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Ctenactis albitentaculata*

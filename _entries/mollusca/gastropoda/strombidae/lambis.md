@@ -228,7 +228,8 @@ The long spines on its shell are found only on adults and gives it its common na
 
 Where common, it is often collected for food by coastal populations, and the shell used in shellcraft. Appears in markets in the northern Philippines and in Fiji Islands.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The spider conch is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: it is "rare and no longer as abundant as in the 1960's". Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection for their shells can also have an impact on local populations.

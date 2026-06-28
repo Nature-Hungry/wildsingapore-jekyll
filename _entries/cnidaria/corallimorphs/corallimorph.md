@@ -166,7 +166,8 @@ Corallimorphs can reproduce by budding or by fission, in which the parent divide
 
 ## Role in habitat
 Corallimorphs are secondary colonisers that rapidly cover empty spaces in a reef, e.g., dead corals. Corallimorphs are more resistant against pollutants and are thus used as indicators of pollution.
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, none of our corallimorphs are listed among the endangered animals of Singapore. Some are listed as

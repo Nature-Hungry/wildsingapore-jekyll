@@ -193,7 +193,8 @@ are sometimes seen on them too.
 **Pecked to death?**
 On Chek Jawa, many sand dollars are observed flipped over with their undersides broken. From the prints around the sand dollars, it seems they were flipped and pecked by birds. Strangely, some sand dollars are flipped but unpecked. Perhaps only egg-bearing females are pecked?
 
-{% include img-wrap-group.html items=page.galleries.gallery5 %} ## Status and threats
+{% include img-wrap-group.html items=page.galleries.gallery5 %} 
+## Status and threats
 
 
 The Cake sand dollar is not listed among the threatened animals of Singapore. The main threat is habitat loss due to reclamation or human activities along the coast that pollute the water. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.

@@ -96,7 +96,8 @@ It eats insects such as beetles, flies and ants.
 **Baby lizards:**
 Mama lizard lays 1-4 large, spindle-shaped eggs which are buried in the soil.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is not listed among our threatened animals. But it is no longer as commonly seen as in the past. It has been displaced by the more aggressive

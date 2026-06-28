@@ -235,7 +235,8 @@ sp.) live with these anemones such as
 *Amphiprion bicinctus, A. clarkii and A. xanthurus*
 . But none of these have so far been observed on the Pizza anemones we've seen on the intertidal during low tide.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is listed as Critically Endangered in Singapore.

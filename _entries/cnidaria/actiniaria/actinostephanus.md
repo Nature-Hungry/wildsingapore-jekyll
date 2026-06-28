@@ -174,7 +174,8 @@ As its sinister appearance suggests, it has a powerful and nasty sting.
 **How to stay safe:**
 Do not touch the sea anemone.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

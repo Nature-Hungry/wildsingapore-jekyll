@@ -163,7 +163,8 @@ It eats mainly fish, but also turtles, crustaceans and clams and snails.
 **Otter babies:**
 Babies are born in a litter of 1-2, in a den dun in the river bank. The young stay with the parents in a family group for some time.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Smooth-coated otter is listed as 'Critically Endangered' in the Red List of threatened animals of Singapore.

@@ -183,7 +183,8 @@ Some porcelain crabs live with other animals. One kind of porcelain crab lives o
 [a shell occupied by a hermit crab](../hermit/clibanarius)
 , with tubeworms, in the siphons of bivalves, among the tentacles of sea anemones, on or inside sponges, or up the backside of a sea cucumber!
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Some of our porcelain crabs listed among the threatened animals of Singapore.

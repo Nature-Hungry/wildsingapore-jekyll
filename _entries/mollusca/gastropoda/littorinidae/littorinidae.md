@@ -209,7 +209,8 @@ In periwinkles, the genders are separate and they practice internal fertilisatio
 
 In our region, they are collected for subsistence food by coastal dwellers and for shellcraft. Large periwinkles are eaten in temperate countries such as England. In fact, the name 'periwinkle' comes from the Old English for 'penny winkle' as they were then sold for a penny per handful. They were also used as jewellery.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our Periwinkles are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, the rest of our Periwinkles are affected by human activities such as reclamation and pollution. Trampling by careless visitors and overcollection can also have an impact on local populations.

@@ -138,7 +138,8 @@ Flowers tiny white to pinkish in clusters on an inflorescence. Fruit oval (not g
 
 According to Giesen, the timber is moderately light and soft, but strong and seasons well. It is used in construction of houses and boats. In Java, also for the handles of traditional daggers called 'kris'. It is also used as firewood. Traditional medicinal uses include the seeds for treating stomachaches, fruits to increase appetite, bark tannin for intestinal lailments. The bark is also used to tan fishing nets.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.

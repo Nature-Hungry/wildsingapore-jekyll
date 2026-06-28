@@ -109,7 +109,8 @@ the
 [Very long armed brittle star](longipeda)
 (*Macrophiothrix longipeda*) which also has very long arms but lacks the blue lines and has flatter spines.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Blue-lined brittle star is listed among the threatened animals of Singapore.

@@ -136,7 +136,8 @@ The colony has both feeding polyps (autozooids) and water pumping polyps (siphon
 (*Sinularia*
 sp.) which does not have siphonozooids and thus has a smooth common tissue.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

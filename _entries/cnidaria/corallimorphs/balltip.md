@@ -141,7 +141,8 @@ This small animal with little balls at the tips of its transparent tentacles is 
 
 Diameter with tentacles extended 1.5-4cm. Tentacles many, long thin, transparent with a ball-shaped tip that is usually white or a bright colour. Body column smooth, colours seen include brown, orange, red, pink, bright blue. Oral disk usually brown with whitish or paler centre. Central mouth conical, often pale and usually protruding even when the tentacles are tucked into the body column.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

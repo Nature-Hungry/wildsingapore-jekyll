@@ -177,6 +177,7 @@ The [Swimming anemone](boloceroididae) can regenerate a new anemone from a dropp
 
 Unfortunately, these beautiful creatures are popular in the live aquarium trade and many are harvested from the wild for this trade. Studies of their fascinating structures have medical applications, such as the use of their stingers to [inject substances through human skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html).
 
+
 ## Status and threats:
 
 A few of our anemones are listed among the endangered animals of Singapore. Llike other animals harvested for the live aquarium trade, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed successfully. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and over-collection also have an impact on local populations.

@@ -131,7 +131,8 @@ Fruits are cresent-shaped pods (8-10cm) fleshy ribbed in a pair, described as re
 
 According to Burkill, the leaves are eaten in salads in the Moluccas, but "apparently this use does not extend to Malaya". According to Ang et al, this plant was recently found to contain substances that have antibacterial properties against fish diseases.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This climber is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore. This is because it is estimated that there are fewer than 50 mature individuals left in the wild with some evidence of decline and fragmentation of its natural habitat.

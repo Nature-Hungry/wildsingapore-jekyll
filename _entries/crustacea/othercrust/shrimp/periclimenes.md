@@ -110,7 +110,8 @@ These transparent shrimps are often seen living on other animals such as sea ane
 
 Unfortunately, these amazing shrimps are popular in the live aquarium trade and thus harvested from wild reefs to supply the trade.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Some of our commensal shrimps are listed as 'Vulnerable' on the Red List of threatened animals of Singapore. Llike other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection by hobbyists also have an impact on local populations.

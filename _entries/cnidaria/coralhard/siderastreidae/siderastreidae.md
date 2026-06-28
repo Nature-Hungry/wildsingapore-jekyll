@@ -87,7 +87,8 @@ zone:
 These hard corals with tiny to small corallites are often seen on many of our shores.
 
 ****
- ## Status and threats
+ 
+## Status and threats
 
 
 *[Pseudosiderastrea tayami](hexaneat)*

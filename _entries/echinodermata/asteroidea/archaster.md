@@ -244,7 +244,8 @@ A tiny parastic snail (*Parvioris fulvescens*) is said to be sometimes found on 
 **Is our sea star special?**
 According to the Singapore Red Data Book, the form found in Singapore is larger than other examples elsewhere in the west Pacific and may be a distinct variety of subspecies.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Although plentiful in the past, common sea stars are now listed as 'Vulnerable' on the Red List of threatened animals in Singapore due to habitat loss and overcollection. Their mating behaviour suggests that a certain population density is required for them to be able to reproduce successfully. In the past in Singapore, the common sea star was often collected as a teaching aid in zoology and biology. This practice can threaten the population if it results in overcollection.

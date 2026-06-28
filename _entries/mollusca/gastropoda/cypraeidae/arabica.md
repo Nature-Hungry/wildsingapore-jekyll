@@ -232,7 +232,8 @@ It is collected for food by coastal dwellers and the shell is used for shellcraf
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery3 %} ## Status and threats
+{% include img-wrap-group.html items=page.galleries.gallery3 %} 
+## Status and threats
 
 
 It is listed as 'Vulnerable' on the Red List of threatened animals of Singapore, due to habitat loss and overcollection. According to the Singapore Red Data Book: although "specimens can still be found they are much less abundant than in the 1960's."

@@ -86,7 +86,8 @@ This small anemone with branching tentacles is sometimes seen in soft mudflats n
 
 Diameter with tentacles expanded about 2cm. Few transparent tentacles. Each tentacle is branched at least once ending in tapering tips, with narrow white rings where the tentacles branch or attach to the oral disk. Oral disk tiny. Body column pale with fine white stripes.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is listed as Critically Endangered in Singapore.

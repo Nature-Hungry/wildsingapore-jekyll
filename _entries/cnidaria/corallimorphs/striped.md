@@ -59,7 +59,8 @@ These little brown disk-shaped animal with stripes is sometimes encountered on o
 
 Each polyp about 3-4cm in diameter, sometimes seen in groups of 5-10. Brown with paler or white stripes. Tentacles few, very short sparsely along the stripes. The edge of the oral disk smooth. The mouth is usually held upturned.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

@@ -155,7 +155,8 @@ The crab is more active at night. At this time, there are few predators above th
 **What does it eat?**
 The crab is a scavenger, eating any dead plants or animals that it comes across.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Leaf porter crabs are not listed among the threatened animals of Singapore.

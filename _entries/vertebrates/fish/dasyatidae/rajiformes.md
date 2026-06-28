@@ -171,7 +171,8 @@ Stingrays are a popular seafood dish in Singapore. The large pectoral fins are b
 [Blue-spotted fantail ray](lymma)
 is also popular in the live aquarium trade although it does not do well in captivity.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our Stingrays are not listed as endangered. However, throughout its range, the

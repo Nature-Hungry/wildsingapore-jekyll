@@ -211,7 +211,8 @@ The attached sponges and algae often continue to grow. Tiny animals might settle
 
 **What does it eat?**
 Relying on its disguise, the crab moves slowly, feeding on small creatures. Its dainty narrow feeding pincers are often the only parts of its body left unadorned.
- ## Status and threats
+ 
+## Status and threats
 
 
 This crab is listed as 'Vulnerable' on the Red List of threatened animals of Singapore. It is popular in the aquarium trade and the Singapore Red Data Book states that its collection from Singapore should be controlled or stopped.

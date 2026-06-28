@@ -94,7 +94,8 @@ Propagule develops on the parent plant: the hypocotyl is cigar-shaped (9-22cm lo
 
 According to Tomlinson, the small flowers are pollinated by day flying insects such as butterflies. The petals of the flower hold loose pollen and are under tension. When probed at the base, the petal unzips to scatter a cloud of pollen over the head of the visiting insect.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This plant is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore, as well as globally on the IUCN Red List.

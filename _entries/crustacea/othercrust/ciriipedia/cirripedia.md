@@ -226,7 +226,8 @@ The barnacles' tendency to accumulate heavy metals in their plates, however, mak
 The strong glue that barnacles use to cement themselves to the rock has been studied for use in dentistry for a similar protein cement to fit dentures. The glue has amazing properties: it hardens quickly under water and continues to work under pressure, in strong acids or alkalis and temperatures up to 225degC (440degF). The glue is so strong that even after the barnacle dies, its 'shell' stays stuck to the rock.
 ****
 It is a common misconception that barnacles are used to make the popular local dish of oyster omelette or 'or luak'. The ingredient in that dish is indeed oysters and NOT barnacles.
- ## Status and threats
+ 
+## Status and threats
 
 
 Our barnacles are not listed as endangered.

@@ -144,7 +144,8 @@ Sometimes, tiny
 [ctenophores](../../ctenophora/coeloplana)
 may be seen on large colonies, so well camouflaged that they are often found by the long fine strings that they produce.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

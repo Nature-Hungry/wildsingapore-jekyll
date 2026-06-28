@@ -105,7 +105,8 @@ The female broods her young. Fertilisation is internal and the mother snail has 
 **What does it eat?**
 It grazes on microalgae growing on the rocks.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Planaxis snails are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors can also have an impact on local populations.

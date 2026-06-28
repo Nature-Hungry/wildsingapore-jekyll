@@ -307,7 +307,8 @@ on
 **Fragile worms:**
 Flatworms are very delicate and tear easily when handled. So please avoid touching them.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 None of our flatworms are listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, flatworms are affected by human activities such as reclamation and pollution. Trampling by careless visitors, and overcollection of their food source can also have an impact on local populations.

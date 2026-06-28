@@ -112,7 +112,8 @@ other leafy hard corals like
 (*Pavona*
 sp.).
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This coral is listed as globally Vulnerable

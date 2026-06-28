@@ -243,7 +243,8 @@ Moray eels have razor sharp teeth and powerful bites that can cause serious lace
 
 Some species are havested for the aquarium trade. Some species have poisonous flesh which causes ciguatera poisoning and should thus not be eaten.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Moray eels are not listed among the threatened animals of Singapore. However, like other fish and creatures harvested from the wild, most die before they can reach the retailers. Without professional care, most die soon after they are sold. Those that do survive are unlikely to breed. Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over-collection can also have an impact on local populations.

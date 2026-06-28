@@ -144,7 +144,8 @@ This strange animal is a bivalve that is tubular. It is sometimes seen among sea
 
 About 12cm long.The broader end is perforated with tiny holes and this is usually buried in the ground with the narrow tip facing the surface. Siphons emerge from the narrow tip. The broader end
 resembles a watering can, hence its common name. There are two tiny oval shapes which is all that remains of the two valves of this strange bivalve.
- ## Status and threats
+ 
+## Status and threats
 
 
 This animal is listed as "Presumed Nationally Extinct" on the Red List of threatened animals of Singapore. But

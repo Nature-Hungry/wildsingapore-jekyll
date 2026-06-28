@@ -119,7 +119,8 @@ Tiny blobs less than 0.5cm. At low tide, they usually tuck their tentacles into 
 
 This is considered one of the most widely distributed anemone in the world and was probably dispersed by ships. The anemone can reproduce by budding off from the base and by dividing into two.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.

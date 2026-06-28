@@ -90,7 +90,8 @@ are somewhat arbitrary.
 **What do they eat?**
 All members of Family Agariciidae harbour microscopic, single-celled symbiotic algae (zooxanthellae). The algae undergo photosynthesis to produce food from sunlight. The food produced is shared with the host, which in return provides the algae with shelter and minerals. It is believed this additional source of nutrients from the zooxanthellae help hard corals produce their hard skeletons and thus expand their size faster.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Some of our Agaricid corals are listed as threatened on the

@@ -147,7 +147,8 @@ According to Davison, apparently it feeds during the night and rests in deeper w
 **Dugong babies:**
 The mother dugong gives birth in shallow waters, usually to a single calf. The calf clings to the mother's back as she grazes. She suckles her baby for up to 18 months. The juvenile might stay with her for another year after that. It is almost impossible for the baby to survive if its mother dies. Dugongs reproduce slowly, taking 9-10 years to reach sexual maturity and give birth only every 3-7 years. They can live up to 70 years.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Dugong is listed as 'Critically Endangered' in the Red List of threatened animals of Singapore.

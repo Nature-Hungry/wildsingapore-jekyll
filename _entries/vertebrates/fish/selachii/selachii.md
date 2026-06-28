@@ -249,7 +249,8 @@ In most shark species, baby sharks develop inside the mother who eventually 'giv
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Shark friends:**
 The remora aka 'sharksucker' is often seen stuck onto sharks as well as other large marine animals, and even boats. The first dorsal fin is modificed into a sucker with slats that open and close to create suction. The remora can swim well on its own.
 
-{% include img-wrap-group.html items=page.galleries.gallery5 %} ## Status and threats
+{% include img-wrap-group.html items=page.galleries.gallery5 %} 
+## Status and threats
 
 
 In Singapore, our sharks are threatened by over fishing

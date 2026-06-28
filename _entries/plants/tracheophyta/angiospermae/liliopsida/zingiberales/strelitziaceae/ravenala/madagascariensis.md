@@ -22,11 +22,12 @@ title: Traveller's Palm
 other_names:
 - Traveller's Tree
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\strelitziaceae\ravenala\madagascariensis/DSC09349 (08).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

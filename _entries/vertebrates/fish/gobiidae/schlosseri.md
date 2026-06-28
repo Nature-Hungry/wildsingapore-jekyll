@@ -127,7 +127,8 @@ In turn, the fish is preyed upon by the
 [Dog-faced water snake](../../snakes/cerberus)
 , and birds such as herons, kingfishers. The fish is often seen with mosquitoes biting parts of its body above water.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Giant mudskipper is listed among the threatened animals of Singapore, mainly due to habitat loss. Indeed, it is only common where suitable habitat occurs, and such habitats are disappearing.

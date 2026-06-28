@@ -136,7 +136,8 @@ Fruit oval, flattened circular or egg-shaped ("always as long as it is wide" acc
 
 According to Giesen, the fruits are eaten, leaves fed to livestock while the wood produces good-quality pulp for paper production. In traditional medicine, the bark resin is used as a contraceptive and the leaves used to treat burns.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.

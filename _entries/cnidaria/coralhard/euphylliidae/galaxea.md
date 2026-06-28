@@ -194,7 +194,8 @@ has a unique method of reproducing. There are two types of colonies. One type is
 
 These corals are among those taken for the live aquarium trade. They often do poorly in captivity. They are fragile and break easily, and collection techniques usually result in poor specimens that quickly die from disease. In addition, their habit of producing sweeper tentacles make them poor tank-mates.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Galaxea astreata*

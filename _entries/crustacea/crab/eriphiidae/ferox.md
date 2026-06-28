@@ -239,7 +239,8 @@ similar crabs in the same habitat. Here's more on how to tell apart
 [big crabs with big pincers](../../bigpincer)
 seen on the rocky shores and coral rubble.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This crab is listed as 'Vulnerable' on the Red List of threatened animals of Singapore.

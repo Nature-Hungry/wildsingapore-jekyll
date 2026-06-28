@@ -132,7 +132,8 @@ Once they leave his pouch, he does not look after them. In fact, his mate is oft
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Human (ab)uses:**
 Seahorses are used in traditional Chinese medicine. Many species are also caught for the live aquarium trade or dried and sold as cheap curious and souvenirs. See below for some of the issues surrounding the harvesting of wild seahorses.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Seahorses are listed as CITES II (which means their international trade is monitored) and are considered globally vulnerable.

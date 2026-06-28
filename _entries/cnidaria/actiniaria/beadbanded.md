@@ -170,6 +170,7 @@ Compared to
 *A. dixoniana*
 , individuals are larger with a darker body column, more conspicuous verrucae and the bumps around the top of the body column under the tentacles (called acrorhagi) have white tips.
 
+
 ## Status and threats:
 As at 2024,
 *A. handi, A. dixoniana, A. nigrescens*

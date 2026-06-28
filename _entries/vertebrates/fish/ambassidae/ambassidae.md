@@ -116,7 +116,8 @@ They eat tiny crustaceans such as ostracods and copepods, insects and sometimes 
 
 Perchlets are eaten in some places and sold fresh or salted. Some are used as an ingredient in making fish sauce. They are also used as bait.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our perchlets are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Over fishing can also have an impact on local populations.

@@ -110,7 +110,8 @@ A stout anemone that is sometimes seen on our Northern and Southern shores. Usua
 Diameter 6-8cm. Body column very long (50cm or longer).
 Tentacles very short hardly extending beyond the oral disk. Rows of tiny bumps on the oral disk. Body column pale, smooth with a short row of large circular bumps near the top. It can tuck its oral disk partially into the body column. Colours seen include grey, beige, pink.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.

@@ -172,7 +172,8 @@ This beautifully sculptured giant clam is sometimes seen on our undisturbed Sout
 
 Giant clams are considered a delicacy and in some places, an aphrodisiac. The large shells of these magnificent creatures are often turned into tacky souvenirs like ash-trays. There are efforts to cultivate giant clams on a commercial basis so as to reduce over-collection of wild clams.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The Fluted giant clam (*Tridacna squamosa*) is listed as 'Endangered' on the Red List of threatened animals of Singapore. According to the Singapore Red Data Book: "Large specimens have virtually disappeared from our shores. Young specimens are occasionally but infrequently seen".

@@ -101,7 +101,8 @@ the more common
 [Sendudok](../../others/melastoma/malabathricum)
 (*Melastoma malabathricum*).
 
- ## Status and threats
+ 
+## Status and threats
 
 
 According to Burkill, the edible fruit may be made into jams and used in tarts. The fruits are also used to treat dysentery, diarrhoea. The roots and leaves also used to treat diarrhoea, stomach aches and as a tonic after childbirth. The leaves are also used to treat wounds. Tar from its wood is used to blacken teeth and eyebrows.

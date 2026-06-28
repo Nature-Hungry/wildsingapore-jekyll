@@ -147,7 +147,8 @@ To about 12cm. Body flat, circular disk-shaped, snout slightly pointed. 8 black 
 **What does it eat?**
 According to FishBase, it eats only coral polyps. But the IUCN Red List says there are currently no data on its diet, but it is strongly coral dependent.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Unfortunately these beautiful fishes are popular in the live aquarium trade although they are considered difficult to keep and feed. It is said it often starves to death when in captivity.

@@ -150,7 +150,8 @@ species and
 
 According to Burkill, the bark is used as a 'fish poison', i.e., to stun fish and scoop them up. He identifies the toxin as a saponin. The seeds also contain the same poison. The leaves were eaten by poor people in the Moluccas raw or cooked, while women wore the scented flowers in their hair. According to Giersen, the wood is used to make charcoal. The flowers are probably an important source of nectar for local honey industries.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This plant is listed as 'Endangered' in the Red List of threatened plants of Singapore. It is threatened by habitat loss and oil spills.

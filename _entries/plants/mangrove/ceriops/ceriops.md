@@ -131,7 +131,8 @@ sp.) have a flattened knife-like stipule (leaf bud at the tip of a branch). For 
 
 Tengar (*Ceriops tagal*) is valued as timber, firewood and a source of dyes. It is also used in traditional medicine.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 [Tengar putih](tagal)

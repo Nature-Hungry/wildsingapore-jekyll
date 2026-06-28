@@ -168,7 +168,8 @@ At low tide, this scavenger is very active at night, scurrying everywhere on the
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
- ## Status and threats
+ 
+## Status and threats
 
 
 Our Horn-eyed ghost crabs are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. As they settle near the high water mark, they are also impacted by floating litter that accumulates at this level.

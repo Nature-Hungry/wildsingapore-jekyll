@@ -198,6 +198,7 @@ for small algae to grow on. Tiny snails graze on this algae. These
 in turn are eaten by larger creatures. In this way, seagrasses contribute
 to the rich biodiversity on the shores.  
   
+
 ## Status and threats
 It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 

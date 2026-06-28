@@ -109,7 +109,8 @@ A thorny shrub to about 3m tall, or scrambling plant. Leaves leathery, arranged 
 
 The plant is valued by the Malays for medicinal purposes. According to Burkill, the roots are used to treat abdominal pains, and in childbirth treatment. A lotion of it is used to treat syphilis.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.

@@ -33,6 +33,7 @@
     .attributes-row{
         display:flex;
         gap:2rem;
+        margin-top:1rem;
     }
 
     .attribute{
@@ -41,7 +42,6 @@
         align-items: center;
         justify-content: center;
         gap:0.5rem;
-        margin-top:1rem;
     }
     .attribute p{
         margin:0;

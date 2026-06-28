@@ -96,7 +96,8 @@ is found in mangrove habitats under small intertidal rocks on mud and sandy mud.
 **What does it eat?**
 It grazes on algae, detritus, small animals and the biofilm found on the surface of the stone.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This sea star is listed as 'Vulnerable' in the Red List of threatened animals of Singapore.

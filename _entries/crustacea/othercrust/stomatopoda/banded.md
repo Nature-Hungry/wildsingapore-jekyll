@@ -81,7 +81,8 @@ rmed with sharp spines, the pincers extend and retract much faster than an eye b
 
 These shrimps are believed to live in monogamus pairs
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our mantis shrimps are not listed as endangered. However,

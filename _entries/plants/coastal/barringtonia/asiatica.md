@@ -136,7 +136,8 @@ spp. and
 
 The tree contains a toxin called saponin, concentrated mainly in the seeds but also found in other parts. According to Burkill, the fruits are used as a fish poison. They are pulped and thrown into the river to stun fish. According to Wee, the heated leaves are used in the Philippines to treat stomache and rheumatism and the seeds used to get rid of tapeworms. According to Giesen, juice from the seeds are used to seal paper umbrellas and to kill lice and other external parasites.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This tree is listed as 'Critically Endangered' in the Red List of threatened plants of Singapore.

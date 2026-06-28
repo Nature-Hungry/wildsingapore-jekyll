@@ -182,7 +182,8 @@ To increase in size, the plant-like form buds new polyps and branches. Some spec
 
 Hydroids may also reproduce in a more complicated way. In some hydroid species, the plant-like form produces tiny jellyfish-like forms (medusa) that break off from the branches and swim away. These forms are reproductively mature adults. Each hydroid usually produces either all male or all female medusa. The medusa produces eggs or sperm that are released into the water. For most hydroid species, however, the plant-like form does not release medusae. Instead, these egg- or sperm-producing forms remain attached to the branches. In yet other hydroids, the free-swimming reproductively mature medusa may bud off more genetically identical medusa before engaging in actual reproduction. Fertilised eggs eventually hatch into free-swimming planula larvae that eventually settle down onto a surface and growing into a new branching colony.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 There is inadequate information as at 2024 to make an informed assesment of the conservation status of recorded hydroids in Singapore.

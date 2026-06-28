@@ -212,7 +212,8 @@ The ray gives birth to live young.
 
 This stingray is harvested commercially as seafood. It is also considered an important gamefish for recreational fishermen. Small specimens are also taken for the aquarium trade, although they don't do well in captivity.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Throughout its range, the Blue-spotted fantail ray is under pressure from over collection for the aquarium trade and destruction of its reef habitat. It is considered near threatened.

@@ -138,7 +138,8 @@ species. More on how to tell apart
 [hard corals with big rings and fleshy tissue](../cfbigring)
 .
 
- ## Status and threats
+ 
+## Status and threats
 
 
 *Caulastrea echinulata*

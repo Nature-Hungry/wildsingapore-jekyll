@@ -117,7 +117,8 @@ Fruit globular (1cm), green ripening to pinkish then yellow and black.
 
 According to Burkill, the wood is very hard and heavy and good for house posts, rafters. It is an excellent fuel and makes good charcoal. After cutting, the stump coppices well. The fruit is said to be 'just edible'. In India, the leaves were used for a yellow dye. The leaves are part of a 'decoction of considerable reputation' in India for the treatment of gonorrhoea. The bark is used to poultice bruises.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 It is listed as 'Endangered' on the Red List of threatened plants of Singapore.

@@ -46,11 +46,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\liliales\smilacaceae\smilax\setosa/P1080091 (22).jpg
 title: Sarsaparilla Vine
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\liliales\smilacaceae\smilax\setosa/DSC03112 (18).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -196,7 +196,8 @@ Tripodfish are adapted for sandy or muddy coastal areas. Here, they hunt for sma
 
 Tripodfish are generally not considered good eating. When caught by trawlers together with other more marketable fish, tripodfish are considered trash. They are wastefully thrown back, often dead. In some places, however, such 'trash' fish are converted into fish meal or fertiliser. One species, the Short-nosed tripodfish (*Triacanthus biaculeatus*) is said to be used in traditional Chinese medicine.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our Tripodfishes are not listed among the threatened animals of Singapore. However, l

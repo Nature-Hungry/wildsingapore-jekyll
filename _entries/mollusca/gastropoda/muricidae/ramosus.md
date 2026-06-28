@@ -155,7 +155,8 @@ It feeds on clams and snails and is considered a pest on pearl oyster beds.
 
 It is actively collected in some parts of the world.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 This snail is listed as 'Endangered' on the Red List of threatened animals of Singapore.

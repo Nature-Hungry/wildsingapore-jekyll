@@ -185,7 +185,8 @@ Soft corals can reproduce asexually: budding of new polyps enlarges the colony. 
 
 Soft corals protect themselves with unusual substances which are being studied for possible anti-cancer properties. Soft corals are also harvested from the wild for the aquarium trade. Living coral reefs, however, are worth far more to humans when they left alone. Reefs bring in tourists which generate business beyond the shore (e.g., hotels, restaurants and travel-related industries).
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Like other creatures of the sea, soft corals are threatened by human activities that degrade or destroy the habitat.

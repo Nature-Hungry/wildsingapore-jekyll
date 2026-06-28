@@ -23,11 +23,12 @@ galleries:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\acuminata/Hybrid_cultivar1.jpg
 title: Banana
 authors:
-- Ong Kwan Han
+- '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\acuminata/DSC09182 (08).jpg
+updated: July 2024
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -120,7 +120,8 @@ The snails are simultaneous hermaphrodites. Eggs are numerous, laid in capsules 
 
 They are occasionally collected by shrimp trawlers, consumed by fishermen and used as decorative items in the shellcraft industry.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 The

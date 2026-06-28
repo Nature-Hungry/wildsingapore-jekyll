@@ -146,7 +146,8 @@ Unfortunately, the
 [Velcro crab](retusa)
 (*Camposcia retusa*) is among those sold in the live aquarium trade.
 Some large spider crabs in temperate seas are important commercially as seafood. They are harvested by the ton. These include the Canadian snow crab (*Chionoecetes opilio*) which can have a body width of about 16cm, leg span of 90cm, and weigh more than 1kg; and the European spiny spider crab (*Maja squinado*) which can have a body width of 8.5-20cm and pincers up to 1m long!
- ## Status and threats
+ 
+## Status and threats
 
 
 One of our spider crabs are listed among the threatened animals in Singapore.

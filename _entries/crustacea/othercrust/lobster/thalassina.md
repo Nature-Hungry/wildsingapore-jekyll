@@ -190,7 +190,8 @@ also appear to grow better on these mounds. The condominium comes complete with 
 
 Mud lobsters are eaten in some Pacific Islands such as Fiji. In our part of the world, they are considered a nuinsance by fish and prawn farmers as their digging activities undermine the bunds (raised edges of mud) that surround fish and prawn ponds.
 
- ## Status and threats
+ 
+## Status and threats
 
 
 Our mud lobsters are listed as 'Endangered' on the Red List of threatened animals of Singapore, as their preferred habitats are lost or degraded. If they disappear, so will their 'condos' and the plants and animals living there. L
