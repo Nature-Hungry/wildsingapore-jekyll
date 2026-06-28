@@ -20,9 +20,7 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries 
-    | where_exp: "item", "item.genus != ''"
-    | where_exp:  "item", "item.genus == 'Acropora'  
+{% assign filtered_posts = site.entries  | where_exp: "item", "item.genus != ''" | where_exp:  "item", "item.genus == 'Acropora'  
     or item.title == 'Crinkled sandpaper coral'
     or item.title == 'Ridged montipora coral'
     or item.title == 'Branching montipora coral'

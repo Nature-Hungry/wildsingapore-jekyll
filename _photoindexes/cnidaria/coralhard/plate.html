@@ -23,9 +23,7 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries 
-    | where_exp: "item", "item.order == 'Scleractinia'"
-    | where_exp:  "item", "item.genus == 'Turbinaria'
+{% assign filtered_posts = site.entries  | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", "item.genus == 'Turbinaria'
     or item.title == 'Hedgehog coral'
     or item.title == 'Plate montipora coral'
     or item.title == 'Elephant-nose plate coral'

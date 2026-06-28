@@ -22,8 +22,7 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries 
-    | where_exp:  "item", "item.title == 'Lettuce coral'
+{% assign filtered_posts = site.entries | where_exp:  "item", "item.title == 'Lettuce coral'
     or item.title == 'Castle coral'
     or item.title == 'Carnation corals'
     or item.title == 'Cabbage coral'

@@ -23,8 +23,7 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries 
-    | where_exp:  "item", "item.title == 'Branching pore coral'
+{% assign filtered_posts = site.entries  | where_exp:  "item", "item.title == 'Branching pore coral'
     or item.title == 'Crinkled sandpaper coral'
     or item.title == 'Ridged montipora coral'
     or item.title == 'Castle coral'

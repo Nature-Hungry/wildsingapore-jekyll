@@ -23,9 +23,7 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries 
-    | where_exp: "item", "item.order == 'Scleractinia'"
-    | where_exp:  "item", "
+{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", "
     item.title == 'Zebra coral'
     or item.title == 'Meteor coral'
     or item.title == 'Pock-marked coral'
