@@ -23,17 +23,7 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries  | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", "item.genus == 'Turbinaria'
-    or item.title == 'Hedgehog coral'
-    or item.title == 'Plate montipora coral'
-    or item.title == 'Elephant-nose plate coral'
-    or item.title == 'Ringed plate coral'
-    or item.title == 'Ridged plate coral'
-    or item.title == 'Bracket mushroom coral'
-    or item.title == 'Lithophyllon mushroom coral'
-    "
-
-%}
+{% assign filtered_posts = site.entries  | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", "item.genus == 'Turbinaria' or item.title == 'Hedgehog coral' or item.title == 'Plate montipora coral' or item.title == 'Elephant-nose plate coral' or item.title == 'Ringed plate coral' or item.title == 'Ridged plate coral' or item.title == 'Bracket mushroom coral' or item.title == 'Lithophyllon mushroom coral' " %}
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));

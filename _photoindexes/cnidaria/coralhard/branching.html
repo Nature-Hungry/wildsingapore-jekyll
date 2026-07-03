@@ -20,16 +20,7 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries  | where_exp: "item", "item.genus != ''" | where_exp:  "item", "item.genus == 'Acropora'  
-    or item.title == 'Crinkled sandpaper coral'
-    or item.title == 'Ridged montipora coral'
-    or item.title == 'Branching montipora coral'
-    or item.title == 'Branching pore coral'
-    or item.title == 'Branching horn coral'
-    or item.title == 'Cauliflower corals'
-    "
-
-%}
+{% assign filtered_posts = site.entries  | where_exp: "item", "item.genus != ''" | where_exp:  "item", "item.genus == 'Acropora'   or item.title == 'Crinkled sandpaper coral' or item.title == 'Ridged montipora coral' or item.title == 'Branching montipora coral' or item.title == 'Branching pore coral' or item.title == 'Branching horn coral' or item.title == 'Cauliflower corals' "%}
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
