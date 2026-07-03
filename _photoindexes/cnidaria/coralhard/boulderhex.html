@@ -23,7 +23,7 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", " item.title == 'Zebra coral' or item.title == 'Meteor coral' or item.title == 'Pock-marked coral' or item.title == 'Trumpet coral' or item.title == 'Lobed brain coral' or item.title == 'Moon coral' or item.title == 'Small ring coral' or item.title == 'Big ring coral' or item.title == 'Purple-and-white ring coral' or item.title == 'Small goniopora coral"%}
+{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", " item.title == 'Zebra coral' or item.title == 'Meteor coral' or item.title == 'Pock-marked coral' or item.title == 'Trumpet coral' or item.title == 'Lobed brain coral' or item.title == 'Moon coral' or item.title == 'Small ring coral' or item.title == 'Big ring coral' or item.title == 'Purple-and-white ring coral' or item.title == 'Small goniopora coral'"%}
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
