@@ -23,7 +23,9 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", " item.title == 'Circular mushroom coral' or item.title == 'Sunflower mushroom coral' or item.title == 'Feather mushroom coral' or item.title == 'Oval fungia mushroom coral' or item.title == 'Tongue mushroom coral' or item.title == 'Mole mushroom coral' or item.title == 'Cabbage coral' "%}
+{% assign target_corals = "Circular mushroom coral, Sunflower mushroom coral, Feather mushroom coral, Oval fungia mushroom coral, Tongue mushroom coral, Mole mushroom coral, Cabbage coral" | split: ", " %}
+
+{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp: "item", "target_corals contains item.title" %}
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));

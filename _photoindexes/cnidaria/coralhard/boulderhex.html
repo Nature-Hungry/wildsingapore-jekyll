@@ -22,8 +22,10 @@ coverimgs:
 <p>Colony boulder-shaped, corallites hexagonal</p>
 <br>
 
+{% assign target_titles = "Zebra coral, Meteor coral, Pock-marked coral, Trumpet coral, Lobed brain coral, Moon coral, Small ring coral, Big ring coral, Purple-and-white ring coral, Small goniopora coral" | split: ", " %}
 
-{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", " item.title == 'Zebra coral' or item.title == 'Meteor coral' or item.title == 'Pock-marked coral' or item.title == 'Trumpet coral' or item.title == 'Lobed brain coral' or item.title == 'Moon coral' or item.title == 'Small ring coral' or item.title == 'Big ring coral' or item.title == 'Purple-and-white ring coral' or item.title == 'Small goniopora coral'"%}
+{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp: "item", "target_titles contains item.title" %}
+
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));

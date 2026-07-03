@@ -23,7 +23,9 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries  | where_exp:  "item", "item.title == 'Branching pore coral' or item.title == 'Crinkled sandpaper coral' or item.title == 'Ridged montipora coral' or item.title == 'Castle coral' "%}
+{% assign target_corals = "Branching pore coral, Crinkled sandpaper coral, Ridged montipora coral, Castle coral" | split: ", " %}
+
+{% assign filtered_posts = site.entries | where_exp: "item", "target_corals contains item.title" %}
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));

@@ -21,8 +21,9 @@ coverimgs:
 <p>Colony leafy, carnation- or cabbage-like</p>
 <br>
 
+{% assign target_corals = "Lettuce coral, Castle coral, Carnation corals, Cabbage coral, Flowery disk coral, Ruffled disk coral" | split: ", " %}
 
-{% assign filtered_posts = site.entries | where_exp:  "item", "item.title == 'Lettuce coral' or item.title == 'Castle coral' or item.title == 'Carnation corals' or item.title == 'Cabbage coral' or item.title == 'Flowery disk coral' or item.title == 'Ruffled disk coral'"%}
+{% assign filtered_posts = site.entries | where_exp: "item", "target_corals contains item.title" %}
 
 <div style="
     display:grid;

@@ -23,7 +23,9 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries  | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", "item.genus == 'Turbinaria' or item.title == 'Hedgehog coral' or item.title == 'Plate montipora coral' or item.title == 'Elephant-nose plate coral' or item.title == 'Ringed plate coral' or item.title == 'Ridged plate coral' or item.title == 'Bracket mushroom coral' or item.title == 'Lithophyllon mushroom coral' " %}
+{% assign target_titles = "Hedgehog coral, Plate montipora coral, Elephant-nose plate coral, Ringed plate coral, Ridged plate coral, Bracket mushroom coral, Lithophyllon mushroom coral" | split: ", " %}
+
+{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp: "item", "item.genus == 'Turbinaria' or target_titles contains item.title" %}
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));

@@ -23,7 +23,9 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", "item.title == 'Lobed brain coral' or item.title == 'Grooved brain coral' or item.title == 'Cabbage coral' or item.title == 'Jigsaw maze corals' or item.title == 'Other maze corals'"%}
+{% assign target_corals = "Lobed brain coral, Grooved brain coral, Cabbage coral, Jigsaw maze corals, Other maze corals" | split: ", " %}
+
+{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp: "item", "target_corals contains item.title" %}
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));

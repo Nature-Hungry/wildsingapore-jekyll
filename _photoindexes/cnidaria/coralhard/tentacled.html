@@ -22,7 +22,9 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries | where_exp: "item", "item.genus != '' and item.title != 'Euphyllia corals'"| where_exp:  "item", "item.family == 'Euphylliidae'  or item.title == 'Sunflower mushroom coral'"%}
+{% assign target_titles = "Sunflower mushroom coral" | split: ", " %}
+
+{% assign filtered_posts = site.entries | where_exp: "item", "item.genus != '' and item.title != 'Euphyllia corals'" | where_exp: "item", "item.family == 'Euphylliidae' or target_titles contains item.title" %}
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));

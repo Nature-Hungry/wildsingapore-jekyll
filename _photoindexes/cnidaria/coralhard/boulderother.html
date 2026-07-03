@@ -23,7 +23,9 @@ coverimgs:
 <br>
 
 
-{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", " item.title == 'Galaxy corals' or item.title == 'Pebble coral' or item.title == 'Meteor coral' or item.title == 'Boulder sandpaper coral' or item.title == 'Boulder horn coral'" %}
+{% assign target_corals = "Galaxy corals, Pebble coral, Meteor coral, Boulder sandpaper coral, Boulder horn coral" | split: ", " %}
+
+{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp: "item", "target_corals contains item.title" %}
 <div style="
     display:grid;
     grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
