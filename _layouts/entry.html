@@ -9,10 +9,48 @@
 <link rel="stylesheet" href="/assets/css/entry.css">
 
 
+
     <!-- Page content -->
     <main class="page-content" id="main-content" style="
         
     ">
+    <div id="sticky-header">
+        {% if page.previous.url %}
+             <a href="{{page.previous.url}}"><i class="ti ti-chevron-left"></i><div class="text">{{page.previous.title}}</div></a>
+         {% else %}
+            <div></div>
+         {% endif %}
+        <div class="sticky-header-content">
+          <h3>{{page.title}}</h3>
+          {% if page.genus != '' and page.genus %}
+                    <p class="scientific-name">{{page.genus}} {{page.species | default: "sp."}}</p>
+                {% elsif page.subfamily != '' and page.subfamily%}
+                    <p class="scientific-name">Subfamily {{page.subfamily}}</p>
+                {% elsif page.family != '' and page.family%}
+                    <p class="scientific-name">Family {{page.family}}</p>
+                {% elsif page.suborder and page.suborder != '' %}
+                    <p class="scientific-name">Suborder {{page.suborder}}</p>
+                {% elsif page.order != '' and page.order %}
+                    <p class="scientific-name">Order {{page.order}}</p>
+                {% elsif page.class != ''  and page.class %}
+                    <p class="scientific-name">Class {{page.class}}</p>
+                {% elsif page.subphylum != '' and page.subphylum %}
+                    <p class="scientific-name">Subphylum {{page.subphylum}}</p>
+                {% elsif page.phylum != '' and page.phylum %}
+                    <p class="scientific-name">Phylum {{page.phylum}}</p>
+                {% else %}
+                    <p class="scientific-name">Kingdom {{page.kingdom}}</p>
+                {% endif %}
+        </div>
+
+         {% if page.next.url %}
+            <a href="{{page.next.url}}"><div class="text">{{page.next.title}}</div> <i class="ti ti-chevron-right"></i></a>
+          {% else %}
+            <div></div>
+         {% endif %}
+      </div>
+
+      
       <section class="species-head">
             <div class="species-head-left">
                 <div class="other-images">
@@ -44,6 +82,8 @@
                 <h1>{{page.title}}</h1>
                 {% if page.genus != '' and page.genus %}
                     <p class="scientific-name">{{page.genus}} {{page.species | default: "sp."}}</p>
+                {% elsif page.subfamily != '' and page.subfamily%}
+                    <p class="scientific-name">Subfamily {{page.subfamily}}</p>
                 {% elsif page.family != '' and page.family%}
                     <p class="scientific-name">Family {{page.family}}</p>
                 {% elsif page.suborder and page.suborder != '' %}
@@ -92,6 +132,20 @@
           </div>
        
       </section>
+
+      <div class="post-nav">
+        {% if page.previous.url %}
+             <a href="{{page.previous.url}}"><i class="ti ti-chevron-left"></i><div class="text">{{page.previous.title}}</div></a>
+         {% else %}
+            <div></div>
+         {% endif %}
+
+         {% if page.next.url %}
+            <a href="{{page.next.url}}"><div class="text">{{page.next.title}}</div> <i class="ti ti-chevron-right"></i></a>
+          {% else %}
+            <div></div>
+         {% endif %}
+      </div>
 
       <section id="content-section">
         <aside class="sidebar">
@@ -411,6 +465,27 @@ document.addEventListener("DOMContentLoaded", () => {
   // Start observing all structural page sections
   headings.forEach((h) => observer.observe(h));
 });
+
+
+
+
+const entrytitle = document.getElementsByClassName("post-nav")[0];
+const stickyheader = document.getElementById("sticky-header")
+
+
+function handleScroll() {
+  const rect = entrytitle.getBoundingClientRect();
+  
+  // rect.top is negative when the top of the H1 has scrolled past the top of the screen
+  if (rect.top <= 0) {
+    stickyheader.classList.add('visible');
+  } else {
+    stickyheader.classList.remove('visible');
+  }
+}
+
+// Listen for scroll events to continuously check position
+window.addEventListener('scroll', handleScroll);
 </script>
 
 {% include global/footer.html %}

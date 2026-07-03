@@ -1,5 +1,5 @@
 ---
-title: 'Galaxy corals '
+title: Galaxy corals
 description: Fact sheet of Galaxy corals  on the shores of Singapore
 keywords: galaxy, galaxea, oculinidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact

@@ -17,6 +17,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Gobioidei
+subfamily: Oxudercinae
 updated: Sep 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
 galleries:
@@ -156,6 +157,7 @@ habitats:
 - rocky shore
 - mangrove
 - coral reef
+permalink: /entries/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Gobioidei/Gobiidae/Oxudercinae
 ---
 
 ## Where seen?

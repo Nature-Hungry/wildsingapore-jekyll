@@ -177,21 +177,9 @@ layout: none
         </div>
     </div>
 
-    {% assign random_posts = site.entries | sample: 4 %}
 
     <div class="random-container">
-        {% for post in random_posts %}
-            <a class="random" href="{{post.url}}">
-                {% if post.coverimg %}
-                    <img src={{post.coverimg}} alt="">
-                {%else%}
-                    <img src="https://placehold.co/600x400/png" alt="">
-                {%endif%}
-                <p class="caption">{{post.title}}</p>
-
-            </a>
         
-        {% endfor %}
        
         
     </div>

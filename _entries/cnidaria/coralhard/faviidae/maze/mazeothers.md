@@ -1,5 +1,5 @@
 ---
-title: 'Other maze corals '
+title: Other maze corals
 description: Fact sheet of Other maze corals  on the shores of Singapore
 keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,

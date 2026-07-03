@@ -1,0 +1,53 @@
+---
+title: "Hard corals on Singapore shores"
+label: "Boulder corals with hexagonal corallites"
+description: ""
+keywords: ""
+layout: default
+attributes:
+- 128
+- 134
+- 141
+- 145
+- 151
+- 158
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+---
+
+<p>Colony boulder-shaped, corallite brain and maze patterns</p>
+<br>
+
+
+{% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp:  "item", "
+    item.title == 'Lobed brain coral'
+    or item.title == 'Grooved brain coral'
+    or item.title == 'Cabbage coral'
+    or item.title == 'Jigsaw maze corals'
+    or item.title == 'Other maze corals'
+    "
+
+%}
+<div style="
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
+    gap:1rem;
+"
+>
+{% for post in filtered_posts %}
+
+    {% include entry-summary-rows.html item=post %}
+
+{% endfor %}
+</div>
+
+
+
+
+
+
+
