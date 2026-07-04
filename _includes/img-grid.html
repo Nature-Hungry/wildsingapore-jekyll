@@ -19,7 +19,7 @@
     <div class="img-container" style="{{style}}">
         <img src="{{item.url}}" alt="">
         <div class="caption">
-        {{item.caption}}
+        {{item.caption | markdownify}}
         </div>
     </div>
     {% endfor %}

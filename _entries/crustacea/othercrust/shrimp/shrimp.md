@@ -124,7 +124,6 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda
 ---
 
 ## Where seen?

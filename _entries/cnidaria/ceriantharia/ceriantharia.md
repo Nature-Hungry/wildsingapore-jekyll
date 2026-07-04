@@ -98,6 +98,7 @@ habitats:
 - sandy shore
 - muddy shore
 - seagrass meadow
+permalink: /entries/Cnidaria/Anthozoa/Spirularia/Cerianthidae
 ---
 
 ## Where seen?

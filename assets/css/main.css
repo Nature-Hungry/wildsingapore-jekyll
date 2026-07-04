@@ -376,7 +376,7 @@ nav{
 h1, h2, h1 *{
   font-family:   var(--font-header);
   line-height:   1.25;
-  margin-top:    1.5rem;
+  margin-top:    1rem;
   margin-bottom: 0.5rem;
   color:         var(--color-text);
 }
@@ -392,8 +392,8 @@ h1 {
 /* Section heading → rose */
 h2 {
   font-size:   2rem;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
+  font-weight: 100;
+  margin-bottom: 1rem;
 }
 
 /* Sub-section → navy */
@@ -409,7 +409,7 @@ h6 { font-size: 0.85rem; font-weight: 700; color: var(--color-text-muted); }
 /* ── Body text ───────────────────────────────────────────────────────────── */
 p { 
   font-family: 'Comfortaa';
-  margin-bottom: 0.8rem;
+  margin-bottom: 1rem;
   line-height: 1.6rem;
   letter-spacing: 0.1px;
 }
@@ -1079,6 +1079,7 @@ li { margin-bottom: 0.5rem; }
 }
 .img-container .caption p{
   margin:0;
+  line-height: 1.2rem;
 }
 
 hr{

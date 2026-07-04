@@ -123,9 +123,9 @@
                 <div class="attributes-row" style="gap:1rem">
                   {% for a in page.habitats %}
                     
-                    <div class="attribute">
+                    <a href="/wildfacts/concepts/habitats/{{a | replace: ' ', '-'}}" class="attribute">
                         <div class="attribute-icon custom-icon icon-{{a | replace: ' ', '-'}}"></div>
-                    </div>
+                    </a>
                     
                   {% endfor %}
                 </div>
