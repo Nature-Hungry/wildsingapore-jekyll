@@ -15,6 +15,9 @@ species: ''
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Echinodermata
+subphylum: Crinozoa
+class: Crinoidea
 updated: Sep 2019
 coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/brown/190520hntlks4.jpg
 galleries:

@@ -8,18 +8,13 @@ attributes:
 - 103
 - 104
 - 106
-family: Colobometridae
-genus: ''
-species: ''
+
 inat_id: 135315
 stateofmatter: Life
 kingdom: Animalia
 phylum: Echinodermata
 subphylum: Crinozoa
 class: Crinoidea
-subclass: Articulata
-order: Comatulida
-superfamily: Himerometroidea
 updated: Apr 2020
 coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/red/150706srpd7354.jpg
 links_references: '### Links

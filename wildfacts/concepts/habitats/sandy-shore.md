@@ -3,28 +3,30 @@ title: "Sandy shores of Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "sandy, intertidal, zone, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+galleries:
+  gallery1:
+  - url: "https://live.staticflickr.com/2315/2290480453_0ccb5b19f2_z.jpg"
+    caption: "Large sandy shores at East Coast Park are alive with cool animals!"
+  gallery2:
+  - url: "https://images.naturehungry.sg/worm/tubeworm/tubeworm/020224bcjd7117m3.jpg"
+    caption: "[Tubeworms](/entries/worm/tubeworm/tubeworms) may be found in vast stretches of the sandy shore."
+  - url: "https://images.naturehungry.sg/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg"
+    caption: "'Craters' left behind by feeding stingrays? *Chek Jawa, May 02*"
+  - url: "https://images.naturehungry.sg/mollusca/gastropoda/trochidae/umbonium/111028chged2810.jpg"
+    caption: "Tiny [button snails](../mollusca/gastropoda/trochidae/umbonium) leaping away from a hunting [moon snail](../mollusca/gastropoda/naticidae/naticidae).  *Changi East, Oct 11*"
 ---
-[ecosystems](ecosystems)
-| [rocky](rocky) | sandy | [seagrass](../plants/seagrass/seagrass)
-| [coral rubble](rubble) | [coral
-reef](../cnidaria/coralhard/coralhard)
-[index](indexl)
-of concepts
-**Sandy
-shore ecosystem***updated
-Dec 2019*
+
+
+Updated Dec 2019*
 
 ---
 
-A natural sandy
-shore may appear dead, but is actually full of life if you take a
-closer look!  
-  
-Sandy ecosystems may be found near the high water mark, as well as
+A natural sandy shore may appear dead, but is actually full of life if you take a
+closer look! Sandy ecosystems may be found near the high water mark, as well as
 on large sand bars that may form further away from 'dry land'.  
   
-**What is sand?** Sand is made up
-of broken bits of rocks and shells and bones of sea creatures. Together,
+## What is sand?
+Sand is made up of broken bits of rocks and shells and bones of sea creatures. Together,
 sand grains form an entire galaxy of invisible life in the sand. Each
 grain is surrounded by a thin film of water. Swimming about in this
 film are microscopic lifeforms. These microscopic lifeforms are eaten
@@ -38,29 +40,31 @@ shifting sand grains provide an unstable substrate and there is less
 nutrients. But shores which are a little muddy or silty will have
 more plants.  
   
-**Where are the animals?** Underground!
-Most sand-dwellers burrow deep into the sand to stay moist and cool
+## Where are the animals? 
+Underground! Most sand-dwellers burrow deep into the sand to stay moist and cool
 at low tide. Here, they are also safer from predators. Living in sand
 is like living in moving sandpaper. Sand particles are abrasive and
 move with the currents. Many sand dwellers thus live in protective
 tubes or shells.
-[![City shores: the East Coast](https://live.staticflickr.com/2315/2290480453_0ccb5b19f2_z.jpg)](https://www.flickr.com/photos/wildsingapore/2290480453 "City shores: the East Coast")*Large sandy shores at East Coast Park are alive with cool animals!*
-**Home in the sand:** A stretch of
-natural sandy shores may be home to a vast variety of animals. On
-the surface, the most obvious large animals may be [peacock
-anemones](../cnidaria/others/ceriantharia/ceriantharia) and [carpet
-anemones](../cnidaria/actiniaria/haddoni). You may also see busy [fiddler
-crabs](../crustacea/crab/ocypodoidea/uca), [sand
-bubbler crabs](../crustacea/crab/ocypodoidea/scopimera) and [soldier
-crabs](../crustacea/crab/ocypodoidea/dotilla). More placid [sand
-dollars](../echinodermata/echinoidea/sandollar/sandollar) and [Common
-sea stars](../echinodermata/asteroidea/archaster) may be just beneath the surface. As well as large [Ball
-sea cucumbers](../echinodermata/holothuroidea/phyllophorus) and tiny [Button
-shells](../mollusca/gastropoda/trochidae/umbonium). Burrowing deeper into the sand are a wide variety of [clams](../mollusca/bivalvia),
-as well as [tubeworms](../worm/tubeworm/tubeworms).  
+
+
+{% include img-grid.html items=page.galleries.gallery1 %}
+
+
+## Home in the sand
+A stretch of natural sandy shores may be home to a vast variety of animals. On
+the surface, the most obvious large animals may be [peacock anemones](/entries/Cnidaria/Anthozoa/Spirularia/Cerianthidae) and [carpet anemones](/entries/cnidaria/actiniaria/haddoni). You may also see busy [fiddler
+crabs](/entries/crustacea/crab/ocypodoidea/uca), [sand
+bubbler crabs](/entries/crustacea/crab/ocypodoidea/scopimera) and [soldier
+crabs](/entries/crustacea/crab/ocypodoidea/dotilla). More placid [sand
+dollars](/entries/echinodermata/echinoidea/sandollar/sandollar) and [Common
+sea stars](/entries/echinodermata/asteroidea/archaster) may be just beneath the surface. As well as large [Ball
+sea cucumbers](/entries/echinodermata/holothuroidea/phyllophorus) and tiny [Button
+shells](/entries/mollusca/gastropoda/trochidae/umbonium). Burrowing deeper into the sand are a wide variety of [clams](/entries/mollusca/bivalvia),
+as well as [tubeworms](/entries/worm/tubeworm/tubeworms).  
   
 Sometimes, you may come across ['craters'
-in the sandy shore](../vertebrates/fish/dasyatidae/dasyatidae). These are believed to be created by sting
+in the sandy shore](/entries/vertebrates/fish/dasyatidae/dasyatidae). These are believed to be created by sting
 rays who stir up the sand during high tide in search for buried prey.  
   
  **Please be gentle** when looking
@@ -68,19 +72,13 @@ at animals on the sand bar. Don't dig up animals, they may get hurt.
 If you pick up animals found on or near the sand surface, be sure
 to put them back exactly the way you found them.
 
-![](../worm/tubeworm/tubeworm/020224bcjd7117m3.jpg)  
-[Tubeworms](../worm/tubeworm/tubeworms)
-may be found in vast   
-stretches of the sandy shore.
 
-*![](../vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg)*'Craters' left behind by feeding stingrays? *Chek Jawa, May 02*
+{% include img-grid.html items=page.galleries.gallery2 %}
 
-![](../mollusca/gastropoda/trochidae/umbonium/111028chged2810.jpg)Tiny [button snails](../mollusca/gastropoda/trochidae/umbonium) leaping away  
-from a hunting [moon snail](../mollusca/gastropoda/naticidae/naticidae).  
-*Changi East, Oct 11*
 
-**Where can we explore natural sandy shores
-in Singapore?** There are few natural sandy shores left in
+
+## Where can we explore natural sandy shores in Singapore?
+There are few natural sandy shores left in
 Singapore as most of these [have been reclaimed](loss).
 Among our northern islands, there are natural sandy shores on [Pulau
 Ubin](https://images.naturehungry.sg/ubin/indexl), the most famous being the one at [Chek

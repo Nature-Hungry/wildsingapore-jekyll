@@ -1,10 +1,9 @@
 ---
-title: 'Sand dollars '
+title: 'Sand dollars'
 description: Fact sheet of Sand dollars  on the shores of Singapore
 keywords: sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
-family: Clypeasteridae
 genus: ''
 species: ''
 inat_id: 47546
@@ -13,12 +12,6 @@ kingdom: Animalia
 phylum: Echinodermata
 subphylum: Echinozoa
 class: Echinoidea
-subclass: Euechinoidea
-infraclass: Irregularia
-subterclass: Neognathostomata
-superorder: Luminacea
-order: Clypeasteroida
-suborder: Clypeasterina
 updated: Apr 2020
 coverimg: https://live.staticflickr.com/65535/50504169572_521278a4a2_z.jpg
 links_references: '### Links
@@ -135,7 +128,6 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
-permalink: /entries/Echinodermata/Echinozoa/Echinoidea/Clypeasteroida/Clypeasterina/Clypeasteridae
 ---
 
 ## Where seen?

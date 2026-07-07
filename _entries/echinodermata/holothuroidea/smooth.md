@@ -102,6 +102,9 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+size:
+- 10.0
+- 15.0
 ---
 
 ## Where seen?

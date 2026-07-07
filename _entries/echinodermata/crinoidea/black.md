@@ -11,10 +11,13 @@ attributes:
 - 92
 family: ''
 genus: ''
-species: identification*
+species: ''
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Echinodermata
+subphylum: Crinozoa
+class: Crinoidea
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/echinodermata/crinoidea/black/050821bbg1995m3.jpg
 galleries:

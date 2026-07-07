@@ -34,7 +34,7 @@
             🔲 Adapt from original fi.htm pages
             🔲 Create new photoindexes
             🔲 Assign features to photoindexes
-	🔲 New pages that reflect the goals of the new site
+   🔲 New pages that reflect the goals of the new site
       🔲 Make a Difference pages
          🟡 For Individuals
             🟡 Index page
@@ -51,6 +51,7 @@
    🔲 Add a search engine in the "For Teachers" page
       🔲 Add classroom activities with proper YAML headers
    🔲 Vector art and background illustrations
+
 # The Future 
     🔲 Client-server architecture
       🔲 Features
