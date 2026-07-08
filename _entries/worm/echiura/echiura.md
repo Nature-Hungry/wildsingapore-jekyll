@@ -67,7 +67,6 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Annelida/Polychaeta
 ---
 
 ## Where seen?

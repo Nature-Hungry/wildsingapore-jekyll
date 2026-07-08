@@ -12,11 +12,7 @@ inat_id: 50584
 stateofmatter: Life
 kingdom: Animalia
 phylum: Mollusca
-class: Bivalvia
-subclass: Autobranchia
-infraclass: Pteriomorphia
-order: Ostreida
-superfamily: Pinnoidea
+class: Polyplacophora
 updated: Jun 2020
 coverimg: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg
 trivia_title: if you learn only 3 things about them ...

@@ -3,22 +3,22 @@ title: Photo index of sea slugs on Singapore shores
 child_pages:
 - label: "<a href=\"slugfi7.htm\">small \n            slugs</a> &lt;5cm"
   images:
-  - url: slugs/nudibranchia/gymnodorisblack/080702prpd6489m.jpg
-  - url: slugs/nudibranchia/rubropapulosa/050918smkg2720m.jpg
-  - url: slugs/nudibranchia/lineolata/050917smkg2532ma.jpg
-  - url: slugs/nudibranchia/hypselodoris/020629chgd1310m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/gymnodorisblack/080702prpd6489m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/lineolata/050917smkg2532ma.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hypselodoris/020629chgd1310m.jpg
 - label: "<a href=\"slugfi6.htm\">large \n            slugs</a> &gt;5cm"
   images:
-  - url: slugs/nudibranchia/atromarginata/050529sjig7134m.jpg
-  - url: slugs/nudibranchia/boholiensis/030420skdd0254m.jpg
-  - url: slugs/nudibranchia/funebris/040509skdbd0114m.jpg
-  - url: slugs/nudibranchia/sinuatum/050917smkg2515m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/atromarginata/050529sjig7134m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/boholiensis/030420skdd0254m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/040509skdbd0114m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m.jpg
 - label: "<a href=\"slugfi9.htm\">very \n            large slugs</a> &gt;10cm"
   images:
-  - url: slugs/nudibranchia/boholiensis/060212sisg4800m.jpg
-  - url: slugs/nudibranchia/villosa/050526cjg6776m.jpg
-  - url: slugs/nudibranchia/spongiosa/020713cjd2437m.jpg
-  - url: slugs/nudibranchia/actinocyclus/040520sntbd0052m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/boholiensis/060212sisg4800m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/villosa/050526cjg6776m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/spongiosa/020713cjd2437m.jpg
+  - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m.jpg
 layout: default
 ---
 {% for row in page.child_pages %}<div class="photo-index-images-text-row">

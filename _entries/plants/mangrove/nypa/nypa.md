@@ -1,5 +1,5 @@
 ---
-title: 'Nipah     palm '
+title: 'Nipah palm '
 description: Fact sheet of Nipah     palm  on the shores of Singapore
 keywords: nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

@@ -4,30 +4,30 @@ child_pages:
 - label: "<a href=\"bivalviafi1.htm\">small \n            clams</a> <br/>\n      \
     \      (less than 8cm) "
   images:
-  - url: bivalvia/veneridae/forked/070323skdg8233m.jpg
-  - url: bivalvia/mytilidae/viridis/031207cjd0034m.jpg
-  - url: bivalvia/arcidae/anadara/020710chgd1615m.jpg
-  - url: bivalvia/veneridae/ribbed/070204hntg7547m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/forked/070323skdg8233m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/arcidae/anadara/020710chgd1615m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m.jpg
 - label: "<a href=\"bivalviafi2.htm\">large \n            clams</a> <br/>\n      \
     \      (8cm and more)"
   images:
-  - url: bivalvia/pinnidae/pinnidae/050511cftg6307ma.jpg
-  - url: bivalvia/tridacnidae/squamosa/040123sisd0129m.jpg
-  - url: bivalvia/tridacnidae/crocea/050312hntg3342m.jpg
-  - url: bivalvia/placunidae/placuna/050609cftg7550m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307ma.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/placunidae/placuna/050609cftg7550m.jpg
 - label: "<a href=\"bivalviafi3.htm\">odd-shaped \n            clams</a>"
   images:
-  - url: bivalvia/cardiidae/cardissa/050918smkg2708m.jpg
-  - url: bivalvia/solenidae/solenidae/040120cjd0014m.jpg
-  - url: bivalvia/pteriidae/pteriidae/050724bbd5353m.jpg
-  - url: bivalvia/clavagellidae/brechites/070702chgg0937m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/cardiidae/cardissa/050918smkg2708m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/050724bbd5353m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/clavagellidae/brechites/070702chgg0937m.jpg
 - label: "<a href=\"bivalviafi4.htm\">clams \n            with one side stuck</a>\
     \ <br/>\n            to a rock or other hard surface"
   images:
-  - url: bivalvia/ostreidae/saccostrea/030814skdd0217m.jpg
-  - url: bivalvia/ostreidae/plain/041031cjd7933m.jpg
-  - url: bivalvia/anomiidae/understone/020616cjd0734m.jpg
-  - url: bivalvia/ostreidae/zigzag/050611kusd3993ma.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/saccostrea/030814skdd0217m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/plain/041031cjd7933m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/anomiidae/understone/020616cjd0734m.jpg
+  - url: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993ma.jpg
 layout: default
 ---
 {% for row in page.child_pages %}<div class="photo-index-images-text-row">

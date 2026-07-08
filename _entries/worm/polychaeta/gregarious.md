@@ -11,6 +11,8 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/worm/polychaeta/gregarious/120111chgs01917m3.jpg
 galleries:

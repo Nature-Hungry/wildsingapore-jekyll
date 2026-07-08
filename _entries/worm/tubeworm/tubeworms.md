@@ -4,18 +4,13 @@ description: Fact sheet of Tubeworms on the shores of Singapore
 keywords: tube, worm, tubeworm, bristle, polychaete, annelida, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Vermetidae
 genus: ''
 species: ''
 attributes: []
-inat_id: 51437
 stateofmatter: Life
 kingdom: Animalia
-phylum: Mollusca
-class: Gastropoda
-subclass: Caenogastropoda
-order: Littorinimorpha
-superfamily: Vermetoidea
+phylum: Annelida
+class: Polychaeta
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
 galleries:

@@ -1,0 +1,44 @@
+---
+title: Other animals
+attributes:
+- 130
+- 129
+- 131
+- 132
+- 133
+- 134
+- 137
+- 143
+- 144
+- 148
+- 149
+- 150
+coverimgs:
+- https://images.naturehungry.sg/worm/sipuncula/sipuncula/031122cjd0011m.jpg
+- https://images.naturehungry.sg/worm/polychaeta/reef/040804skdd4129m.jpg
+- https://images.naturehungry.sg/worm/polychaeta/gregarious/060129skdg4109m.jpg
+- https://images.naturehungry.sg/worm/polychaeta/sabellidae/banded/060611cjd2781m.jpg
+- https://images.naturehungry.sg/worm/polycladida/acanthozoon/060625bbd3443m.jpg
+child_pages:
+- label: "<a href=\"/photoindexes/ascidians\">Ascidians</a>"
+  images:
+  - url: https://images.naturehungry.sg/ascidiacea/polycarpa/031223tused0036m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/jelly/100726chgd9196m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/greengumdrop/050820bbg1769m3.jpg
+  - url: https://images.naturehungry.sg/ascidiacea/rockslime/060129skdg4122m3.jpg
+- label: "<a href=\"/entries/bryozoa/bryozoan\">Byrozoans</a>"
+  images:
+  - url: https://images.naturehungry.sg/bryozoa/bryozoannoid/101223pgllsk1.JPG
+  - url: https://images.naturehungry.sg/bryozoa/bryozoannoid/091203ubnd4954m3b.jpg
+  - url: https://images.naturehungry.sg/bryozoa/bryozoannoid/091203ubnd4946m3.jpg
+  - url: https://images.naturehungry.sg/bryozoa/glass/111030skdd3345m3.jpg
+layout: default
+---
+{% for row in page.child_pages %}<div class="photo-index-images-text-row">
+{% include img-grid.html items=row.images cols=4 %}
+  <div>
+    <p>{{ row.label | markdownify}}</p>
+  
+  </div>
+</div>
+{% endfor %}

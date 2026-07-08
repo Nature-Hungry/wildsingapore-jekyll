@@ -9,6 +9,9 @@
     gap:2rem;
 }
 
+.hide{
+    display:none;
+}
 .justify-between{
     justify-content: space-between;
 }

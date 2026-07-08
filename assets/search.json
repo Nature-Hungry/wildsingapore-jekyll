@@ -21,6 +21,7 @@ layout: none
   "genus": {{ post.genus | jsonify }},
   "inat_id": {{ post.inat_id | jsonify }},
   "zone": {{ post.zone | jsonify }},
+  "habitats": {{ post.habitats | jsonify }},
   "search_text": {{
     post.title
     | append: ' '

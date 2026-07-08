@@ -1,5 +1,5 @@
 ---
-title: 'Coralline red algae '
+title: Coralline red algae
 description: Fact sheet of Coralline red algae  on the shores of Singapore
 keywords: encrusting, coralline, red, seaweed, weed, algae, rhodophyta, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,

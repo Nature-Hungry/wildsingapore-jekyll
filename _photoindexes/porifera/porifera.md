@@ -3,28 +3,28 @@ title: Photo index of sponges on Singapore shores
 child_pages:
 - label: "<a href=\"poriferafi1.htm\">branching \n            or lumpy</a>"
   images:
-  - url: branchblack/050806skdd5505m.jpg
-  - url: sprawlorange/041214smkd8859m.jpg
-  - url: chocolate/050509hntd3170m.jpg
-  - url: lumpypink/050709skdg9251m.jpg
+  - url: https://images.naturehungry.sg/porifera/branchblack/050806skdd5505m.jpg
+  - url: https://images.naturehungry.sg/porifera/sprawlorange/041214smkd8859m.jpg
+  - url: https://images.naturehungry.sg/porifera/chocolate/050509hntd3170m.jpg
+  - url: https://images.naturehungry.sg/porifera/lumpypink/050709skdg9251m.jpg
 - label: <a href="poriferafi2.htm">encrusting</a>
   images:
-  - url: spatula/050413labg4698m.jpg
-  - url: smoothblue/050808sntg0856m.jpg
-  - url: meltedchoc/080522cjd5881m.jpg
-  - url: encrustprickly/051204sisg3279m.jpg
+  - url: https://images.naturehungry.sg/porifera/spatula/050413labg4698m.jpg
+  - url: https://images.naturehungry.sg/porifera/smoothblue/050808sntg0856m.jpg
+  - url: https://images.naturehungry.sg/porifera/meltedchoc/080522cjd5881m.jpg
+  - url: https://images.naturehungry.sg/porifera/encrustprickly/051204sisg3279m.jpg
 - label: "<a href=\"poriferafi3.htm\">balls, \n            vases</a>"
   images:
-  - url: potyellow/050312hntg3326m.jpg
-  - url: ../echinodermata/ophiuroidea/tinysponge/050623cjg8307m.jpg
-  - url: xestospongia/050510tusg6111m.jpg
-  - url: ballprickly/040803tusd3982m.jpg
+  - url: https://images.naturehungry.sg/porifera/potyellow/050312hntg3326m.jpg
+  - url: https://images.naturehungry.sg/porifera/../echinodermata/ophiuroidea/tinysponge/050623cjg8307m.jpg
+  - url: https://images.naturehungry.sg/porifera/xestospongia/050510tusg6111m.jpg
+  - url: https://images.naturehungry.sg/porifera/ballprickly/040803tusd3982m.jpg
 - label: "<a href=\"poriferafi4.htm\">other \n            shapes</a>"
   images:
-  - url: oceanapia/050526cjg6896m.jpg
-  - url: horn/050526cjg6829m.jpg
-  - url: coelocarteria/050309smkd1532m.jpg
-  - url: manyconed/101106burs00338m.jpg
+  - url: https://images.naturehungry.sg/porifera/oceanapia/050526cjg6896m.jpg
+  - url: https://images.naturehungry.sg/porifera/horn/050526cjg6829m.jpg
+  - url: https://images.naturehungry.sg/porifera/coelocarteria/050309smkd1532m.jpg
+  - url: https://images.naturehungry.sg/porifera/manyconed/101106burs00338m.jpg
 layout: default
 ---
 {% for row in page.child_pages %}<div class="photo-index-images-text-row">
