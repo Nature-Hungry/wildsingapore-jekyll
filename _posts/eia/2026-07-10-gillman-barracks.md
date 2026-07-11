@@ -5,6 +5,8 @@ keywords: "EIA, development, HDB, gillman barracks"
 date: 2026-07-10
 ---
 
+Gillman Barracks is known to some as a night hangout spot, with many bars and atas restaurants. Most of the visitors go there for the food after work hours, and also to visit the small art exhibitions there.
+
 Download the EIA here:
 - [Executive Summary (2MB)](https://www.hdb.gov.sg/-/media/about-us/our-role/plan-and-design-towns/planning-with-the-environment-in-mind/Gillman-Barracks-EIA_Executive-Summary_Final.pdf?sc_lang=en&hash=EEBFE26D71E99AADCF54273911998FC7)
 - [Main Report (16MB)](https://www.hdb.gov.sg/-/media/about-us/our-role/plan-and-design-towns/planning-with-the-environment-in-mind/Gillman-Barracks-EIA_Main-Report_Final.pdf?sc_lang=en&hash=F39C3771B929A88413A126364C6A331B)
