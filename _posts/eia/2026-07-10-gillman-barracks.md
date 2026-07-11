@@ -3,6 +3,7 @@ title: EIA for HBD Development at Gillman Barracks
 description: "HDB wants to develop the forest at Gillman Barracks, and completed an EIA to assess the development's impacts."
 keywords: "EIA, development, HDB, gillman barracks"
 date: 2026-07-10
+layout: post
 ---
 
 Gillman Barracks is known to some as a night hangout spot, with many bars and atas restaurants. Most of the visitors go there for the food after work hours, and also to visit the small art exhibitions there.

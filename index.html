@@ -12,6 +12,28 @@ layout: none
             justify-content: center;
             align-items: center;
             gap:2rem;
+            margin:0;
+        }
+
+        section{
+            min-height:400px;
+            height:fit-content;
+            margin-top:6rem;
+        }
+        .article-summary-item{
+            background-color: white;
+            margin-bottom:1rem;
+            display:block;
+            color:var(--color-text);
+            border-bottom:1px solid var(--color-border);
+            padding-bottom: 1rem;
+        }
+        .article-summary-item h3{
+            font-weight: bold;
+        }
+        .article-summary-item p{
+            margin:0;
+            font-weight: lighter;
         }
         .text-container{
             margin-top:2rem;
@@ -20,7 +42,6 @@ layout: none
             justify-content: center;
             align-items: center;
             gap:4rem;
-            height: 60%;
             width: 100%;
         }
         .flex{
@@ -183,6 +204,17 @@ layout: none
        
         
     </div>
+</section>
+
+<section>
+    <h2 class="text-center">Recent articles</h2>
+    <br>
+  {% for post in site.posts limit: 5 %}
+    <a href="{{ post.url | relative_url }}" class="article-summary-item">
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.excerpt }}</p>
+    </a>
+  {% endfor %}
 </section>
 
 
