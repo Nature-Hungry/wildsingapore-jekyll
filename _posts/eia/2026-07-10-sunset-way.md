@@ -4,7 +4,15 @@ description: "HDB wants to develop Maju Forest, and completed an EIA to assess t
 keywords: "EIA, development, HDB, gillman barracks"
 date: 2026-07-10
 layout: post
+coverimg: "https://images.naturehungry.sg/photos/posts/Maju%20Forest/_1011624.jpg"
 ---
+
+<div style="clear: both; display: block; max-height: 400px; width: 100%; margin-bottom: 20px;">
+  <img src="https://images.naturehungry.sg/photos/posts/Maju%20Forest/_1011624.jpg" 
+       alt="Maju Forest" 
+       style="max-height: 400px; width: auto; display: block; object-fit: contain; margin: 0 auto;">
+</div>
+
 
 Maju Forest is a very important site due to its high ecological value. It holds countless Conservation Significant (CS) plants. 
 
