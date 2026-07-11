@@ -5,4 +5,4 @@ keywords: "urban heat, climate change, hot weather, singapore, facts, fact sheet
 layout: default
 ---
 
-Urban Heat Island Effect (UHIE) is a phenomenon 
+Urban Heat Island (UHI) is a phenomenon that occurs when a city is densely built up. Urban areas create large vast amounts of impervious concrete surfaces, which affect 
