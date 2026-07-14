@@ -8,18 +8,47 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
 <link rel="stylesheet" href="/assets/css/entry.css">
 
+<style>
+    .post-cover-container{
+        max-height: 600px;
+        height:50vh;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        gap:1rem;
+        margin-bottom: 2rem;
+    }
+    .post-cover-img{
+        height:100%;    
+        width: auto;
+        object-fit: cover;
+    }
 
+    .post-head{
+        border-bottom:1px solid var(--color-border);
+        margin-bottom:2rem;
+        text-align: center;
+        padding:0 4rem;
+    }
+
+    @media screen and (max-width: 500px) {
+        .post-head{
+            padding:0rem;
+        }
+    }
+</style>
 
     <!-- Page content -->
     <main class="page-content" id="main-content" style="
         
     ">
-    
-        <div style="
-            border-bottom:1px solid var(--color-border);
-            margin-bottom:2rem;
+        {% if page.coverimg %}
+        <div class="post-cover-container">
+            <img class="post-cover-img" src="{{page.coverimg}}">
+        </div>
+        {% endif %}
         
-        ">
+        <div class="post-head">
             <h1 style="color:var(--color-text)">{{page.title}}</h1>
             <p>{{ page.date | date: "%d %B %Y" }}</p>
         </div>
