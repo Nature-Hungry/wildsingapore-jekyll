@@ -15,6 +15,9 @@ species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Ceriantharia
 updated: Mar 2020
 coverimg: https://images.naturehungry.sg/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
 galleries:

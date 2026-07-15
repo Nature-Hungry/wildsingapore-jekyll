@@ -20,6 +20,10 @@ species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
 updated: Nov 2019
 coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/star/070603sntrg0036m3.jpg
 galleries:

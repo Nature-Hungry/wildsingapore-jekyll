@@ -17,6 +17,7 @@ class: Anthozoa
 subclass: Ceriantharia
 order: Spirularia
 updated: Dec 2019
+hideFromPhotoindex: true
 coverimg: https://images.naturehungry.sg/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
 galleries:
   gallery2:

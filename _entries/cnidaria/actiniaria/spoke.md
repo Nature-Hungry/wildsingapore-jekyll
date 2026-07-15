@@ -20,6 +20,10 @@ species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
 updated: Nov 2019
 coverimg: https://images.naturehungry.sg/cnidaria/actiniaria/spoke/050509hntg5945m3.jpg
 galleries:
@@ -76,6 +80,9 @@ zone:
 - marine
 habitats:
 - sandy shore
+size:
+- 3.0
+- 5.0
 ---
 
 ## Where seen?

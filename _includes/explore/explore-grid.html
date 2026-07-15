@@ -147,6 +147,14 @@ let habitat = "all"
 input.value = initialQuery
 
 
+const filters = document.getElementsByClassName("filters")[0]
+zonehabitat = {
+  "terrestrial":["mangrove","rocky shore", "sandy shore","coastal forest", "native forest", "exotic forest", "grassland", "scrubland", "urban park", "built-up"],
+  "freshwater": ["freshwater swamp", "freshwater marsh"],
+  "intertidal": ["mangrove", "mudflat", "rocky shore", "sandy shore", "seagrass meadow", "coral rubble"],
+  "marine": ["seagrass meadow", "coral reef", "coral rubble"]
+}
+
 
 
 
@@ -206,7 +214,8 @@ function init(){
 
       results = json
 
-    
+      
+
       filterResults()
       renderResults()
 
@@ -240,6 +249,7 @@ function init(){
   })
 
   window.addEventListener('pageshow', (event) => {
+    
   console.log("Page show")
   overlay.classList.remove('show');
   
@@ -502,15 +512,9 @@ function updateTaxaFilters(value, checked){
 
 
 
-const filters = document.getElementsByClassName("filters")[0]
-zonehabitat = {
-  "terrestrial":["mangrove","rocky shore", "sandy shore","coastal forest", "native forest", "exotic forest", "grassland", "scrubland", "urban park", "built-up"],
-  "freshwater": ["freshwater swamp", "freshwater marsh"],
-  "intertidal": ["mangrove", "mudflat", "rocky shore", "sandy shore", "seagrass meadow", "coral rubble"],
-  "marine": ["seagrass meadow", "coral reef", "coral rubble"]
-}
-filters.addEventListener('change', e=>{
-  console.log(e.target.name , e.target.value)
+
+function filtersEvent(e){
+console.log(e.target.name , e.target.value)
   if(e.target.name == "zone"){
     zone = e.target.value
   }
@@ -540,7 +544,8 @@ filters.addEventListener('change', e=>{
   updateURL()
   filterResults()
   renderResults()
-})
+}
+filters.addEventListener('change', filtersEvent)
 
 
 tree.addEventListener('change', e => {

@@ -9,7 +9,11 @@ attributes:
 - 4
 - 6
 - 88
-family: updated Nov 2019
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Ceriantharia
 genus: ''
 species: identification*
 updated: Nov 2019

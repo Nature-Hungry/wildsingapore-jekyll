@@ -15,6 +15,9 @@ species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Ceriantharia
 updated: Nov 2019
 coverimg: https://images.naturehungry.sg/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
 galleries:

@@ -23,41 +23,41 @@ child_pages:
   - url: "https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/040123sisd0133m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/040701chgd1385m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/040828skdd5545ma.jpg"
-- label: "[Diameter < 3-5cm Long tentacles]()"
+- label: "[Diameter < 3-5cm Long tentacles](/photoindexes/cnidaria/actiniara/anemone_3-5_long)"
   images:
   - url: "https://images.naturehungry.sg/cnidaria/actiniaria/sandstripe/060429skdd1375m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/actiniaria/spoke/050509hntg5945m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/actiniaria/star/060401ulrd0828m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/actiniaria/mangrove/060627krjd3666ma.jpg"
-- label: "[Diameter < 3-5cm Short tentacles]()<br>"
+- label: "[Diameter < 3-5cm Short tentacles](/photoindexes/cnidaria/actiniara/anemone_3-5_short)<br>"
   images:
   - url: "https://images.naturehungry.sg/cnidaria/others/corallimorphs/whitetip/120721tptd7882m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/others/corallimorphs/ridged/050807sjid5570m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070ma.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/others/corallimorphs/stubby/040705sisd2131m.jpg"
  
-- label: "[Diameter 5-10cm]()<br>"
+- label: "[Diameter 5-10cm](/photoindexes/cnidaria/actiniara/anemone_5-10)<br>"
   images:
   - url: "https://images.naturehungry.sg/cnidaria/actiniaria/boloceroididae/060624skdg6189m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/actiniaria/tiger/050818chgg1345m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/actiniaria/pearly/091206tmd5757m.jpg"
   - url: "https://images.naturehungry.sg/cnidaria/actiniaria/pimply/080408chgd0640m.jpg"
 
-- label: "[Diameter > 10cm smooth tentacles]()<br>"
+- label: "[Diameter > 10cm smooth tentacles](/photoindexes/cnidaria/actiniara/anemone_10_smooth)<br>"
   images:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/gigantea/040606kusg0481m.jpg
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/actinostephanus/090210trysvpd0133m.jpg
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/doreensis/050821bbd5815m.jpg
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/entacmaea/040410sisbd017m.jpg
 
-- label: "[Diameter > 10cm frilly tentacles]()<br>"
+- label: "[Diameter > 10cm frilly tentacles](/photoindexes/cnidaria/actiniara/anemone_10_frilly)<br>"
   images:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/cryptodendrum/060811rlhd5835m.jpg
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/actinodendron/030714bbd0002m.jpg
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/band/050808sntg0904m.jpg
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/phymanthus/sixpoint/070602sjig9829m.jpg
   
-- label: "[Cerianthids]()<br>also known as peacock or tube anemones"
+- label: "[Cerianthids](/photoindexes/cnidaria/actiniara/cerianthids)<br>also known as peacock or tube anemones"
   images:
   - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/030927cjd0058m.jpg
   - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/040701chgd1388m.jpg
@@ -70,7 +70,6 @@ child_pages:
 a central mouth; a ring of tentacles, or a disk covered with short tentacles (sometimes just bumps).
 on sand, stuck to hard surfaces (stones, seagrasses, other animals).
 
-<p> Other cnidarians <a href="">text index</a> | <a href="">photo index</a> </p>
 
 <br>
 {% for row in page.child_pages %}
