@@ -28,3 +28,4 @@ Environmental Impact Assessments (EIAs) are large documents, typically spanning 
 The plants provide the physical structure to the site's ecosystem. So the type of plant and their growth forms affect what animals can live there. In an EIA, you will see a habitat map showing the site being cut up into different colours, each colour representing a classification of vegetation type. Examples include Grassland, Shrubland, Exotic-dominated Secondary Forest, Native-dominated Secondary Forest, Abandoned Land Forest, and many more. You will see 
 
 ### Animals (Fauna)
+

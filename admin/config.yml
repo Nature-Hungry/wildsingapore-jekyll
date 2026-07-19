@@ -2,24 +2,25 @@ backend:
   name: github
   repo: Nature-Hungry/wildsingapore-jekyll
   branch: main
-  base_url: https://www.naturehungry.sg
-  api_root: https://www.naturehungry.sg/api/v3
+  auth_endpoint: auth
   commit_messages:
-    create: Create {{collection}} “{{slug}}”
-    update: Update {{collection}} “{{slug}}”
-    delete: Delete {{collection}} “{{slug}}”
-    uploadMedia: Upload “{{path}}”
-    deleteMedia: Delete “{{path}}”
-    openAuthoring: '{{message}}'
+    create: Create {{collection}} "{{slug}}"
+    update: Update {{collection}} "{{slug}}"
+    delete: Delete {{collection}} "{{slug}}"
+    uploadMedia: Upload "{{path}}"
+    deleteMedia: Delete "{{path}}"
+
+media_libraries:
+  cloudflare_r2:
+    access_key_id: ${{ secrets.CLOUDFLARE_ACCESS_KEY_ID }}
+    bucket: nature-hungry
+    account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    public_url: https://images.naturehungry.sg
+    prefix: cms-uploads/ # Optional
+    jurisdiction: default # Optional; 'default' | 'eu' | 'fedramp'
 
 site_url: https://www.naturehungry.sg
 publish_mode: editorial_workflow
-
-# local_backend: true
-search: false
-media_folder: /public/media # Where media files will be saved
-public_folder: /media # Where Jekyll will look for them
-public_url: 'https://images.naturehungry.sg' # The base URL for media files
 
 collections:
   - name: "entries"
