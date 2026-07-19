@@ -143,7 +143,7 @@ Flowers small (2-3cm) in dense bunches, bright red with five tiny petals (the st
 The small fruits are ribbed, corky and float, and dispersed by water. Each fruit contains one seed.
 
 **Sometimes mistaken for**
-[Chengam](../scyphiphora/hydrophyllacea)
+[Chengam](../../scyphiphora/hydrophyllacea)
 (*Scyphiphora hydrophyllacea*) which has its leaves arranged in a spiral.
 
 According to Giesen, although occurring throughout Malaysia and Indonesia,

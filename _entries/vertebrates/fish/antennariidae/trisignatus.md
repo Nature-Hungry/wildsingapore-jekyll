@@ -206,7 +206,7 @@ Like others in the family, it has a lure at the top of the head to attract prey 
 
 **Sometimes mistaken for**
 stonefish and scorpionfishes. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish)
+[how to tell apart fishes that look like stones](../../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

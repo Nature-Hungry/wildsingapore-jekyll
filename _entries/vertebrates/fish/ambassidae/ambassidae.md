@@ -98,7 +98,7 @@ To about 10cm. Body nearly transparent covered with thin scales. Thus it is some
 (*Ambassis kopsii*) are commonly seen often in a large group of many individuals. To about 10cm, those seen about 5-8cm. A silvery almost transparent body. There is a distinctive black mark on the tip of the dorsal fin.
 
 **Sometimes confused with**
-[Mojarras](../gerreidae/gerreidae)
+[Mojarras](../../gerreidae/gerreidae)
 (Family Gerreidae) which have a single dorsal fin that is not deeply notched.
 ****
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -138,11 +138,11 @@ Halfbeaks belong to the Family Hemiramphidae. According to
 To about 10cm long. Body long and stick-like; generally cylindrical. The halfbeak is so named because its lower jaw is much longer, while its upper jaw is short and triangular. 'Hemi' means half; while 'rhamphos' means beak or bill in Greek. The jaws have several rows of small teeth and the tip of the long, spike-like lower jaw is often brightly coloured. The eyes are relatively large and scales are large too.
 
 **Sometimes mistaken for**
-[needlefishes](../belonidae/belonidae)
+[needlefishes](../../belonidae/belonidae)
 . Needlefishes (Family Belonidae) are usually much longer. The jaws of needlefishes are also elongated and both the upper and lower jaws are of equal length and usually filled with sharp teeth.
-[Young barracuda](../sphyraenidae/sphyraenidae)
+[Young barracuda](../../sphyraenidae/sphyraenidae)
 (Family Sphyraenidae) also appear similar at first glance. Here's more on
-[how to tell apart stick-like fishes](../cfstick)
+[how to tell apart stick-like fishes](../../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Surface dwellers:**

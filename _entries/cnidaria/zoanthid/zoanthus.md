@@ -140,11 +140,11 @@ Sometimes, the individual polyps are so tightly packed that the polyp takes on a
 
 **Sometimes confused**
 with
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 ,
-[ascidians](../../../ascidiacea/ascidiacea)
+[ascidians](../../../../ascidiacea/ascidiacea)
 and other blob-like animals. Here's more on
-[how to tell apart blob-like animals](../../../glossary/blobs)
+[how to tell apart blob-like animals](../../../../glossary/blobs)
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
 Button zoanthids

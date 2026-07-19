@@ -174,7 +174,7 @@ This beautiful snail was seen on sandy areas near lush seagrass meadows. Elsewhe
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 According to Tan, it feeds on sea urchins but according to Poutiers it feeds on sand dollars. On our shores, they have been seen on top of
-[Cake sand dollars](../../../echinodermata/echinoidea/sandollar/arachnoides)
+[Cake sand dollars](../../../../echinodermata/echinoidea/sandollar/arachnoides)
 , and when the sand dollar is examined, a hole is seen in the sand dollar skeleton. This suggests the snail bored the hole. For more gruesome feeding details, see
 [Family Cassidae](cassidae)
 .

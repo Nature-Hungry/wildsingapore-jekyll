@@ -124,15 +124,15 @@ makes this fish quite unmistakable. Indeed, the most amazing feature of anemonef
 On our intertidal, the
 [Clown anemonefish](ocellaris)
 is often seen in
-[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea)
+[Giant carpet anemones](../../../../cnidaria/actiniaria/gigantea)
 . It is also sometimes in
-[Magnificent anemones](../../../cnidaria/actiniaria/magnifica)
+[Magnificent anemones](../../../../cnidaria/actiniaria/magnifica)
 and
-[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii)
+[Merten's carpet anemones](../../../../cnidaria/actiniaria/mertensii)
 . While the
 [Tomato anemonefish](frenatus)
 is mainly found in
-[Bubble-tip anemones](../../../cnidaria/actiniaria/entacmaea)
+[Bubble-tip anemones](../../../../cnidaria/actiniaria/entacmaea)
 .
 
 Experiments suggest anemonefishes may protect their host anemones from predatory fishes such as butterflyfish. They may also clean the anemone of parasites and remove dead tissues of the sea anemone. Their swimming action may also increase water circulation around the sea anemone and remove sediments that would foul the sea anemone. Some studies suggest anemonefishes attract other fishes that are captured and eaten by the sea anemone.

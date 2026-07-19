@@ -70,11 +70,11 @@ This large snake-like fish is sometimes seen foraging in shallow water of the in
 About 30cm long. A long tubular body pale with a dark stripe along the length at the top. A pair of small rounded pectoral fins. Head large, with small eyes near the tip of the head. It has a pointed tail. Body pattern uniform, those seen were bluish or pinkish grey, beige and yellow. The dorsal fin dark, forming a dark strip along the body length.
 
 **Sometimes mistaken for**
-[worms](../../../worm/worm)
+[worms](../../../../worm/worm)
 or
-[sea snakes](../../snakes/hydrophiidae/laticauda)
+[sea snakes](../../../snakes/hydrophiidae/laticauda)
 . Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

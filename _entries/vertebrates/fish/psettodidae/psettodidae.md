@@ -101,7 +101,7 @@ permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronecto
 The Indian halibut (*Psettodes erumei*) is sometimes seen on some of our shores, often near seagrasses.
 **What are halibuts?**
 They are
-[flatfishes](../pleuronectiformes/pleuronectiformes)
+[flatfishes](../../pleuronectiformes/pleuronectiformes)
 that belong to the Family Psettodidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.php?ID=437)
 : the family has 1 genera and 3 species found in West Africa and the Indo-West Pacific. They are considered the most primitive of the flatfishes for some of their body characteristics and their habit of often swimming in an upright position. The only species that occurs in our region is the Indian halibut (*Psettodes erumei*).
@@ -112,9 +112,9 @@ The Indian halibut grows to about 60cm, the one seen was about 20cm long. Eyes s
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes)
+[flatfishes](../../pleuronectiformes/pleuronectiformes)
 . Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
+[how to tell apart the flatfish families](../../pleuronectiformes/pleuronectiformes1)
 commonly seen.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

@@ -177,13 +177,13 @@ The mud lobster plays a key role in sustaining life in a mangrove. It is believe
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Mud lobster 'Condo':**
 A mud lobster mound can be as tall as 2m above the ground! The mud lobster mound is drier than its surroundings so it makes a perfect home for other animals. Many animals can be found in living in these 'high-rise' mounds, creating their own burrows in the mound, sometimes complete with chimneys. 'Condo' dwellers include
-[snakes](../../../vertebrates/snakes/granulatus)
+[snakes](../../../../vertebrates/snakes/granulatus)
 ,
-[crabs](../../crab/sesarmidae/sesarmidae)
+[crabs](../../../crab/sesarmidae/sesarmidae)
 , ants, spiders, worms, clams and shrimps. Some
-[plants](../../../plants/mangrove/mangroves)
+[plants](../../../../plants/mangrove/mangroves)
 also appear to grow better on these mounds. The condominium comes complete with swimming pool! Water is trapped in the mound system forming pools. At low tide, these shelter aquatic animals such as
-[mudskippers](../../../vertebrates/fish/gobiidae/mudskipper)
+[mudskippers](../../../../vertebrates/fish/gobiidae/mudskipper)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses

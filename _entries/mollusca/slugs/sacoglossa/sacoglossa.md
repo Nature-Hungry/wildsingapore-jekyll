@@ -77,10 +77,10 @@ These slugs come in a wide range of shapes from minute to large, and some are co
 
 **What are leaf slugs?**
 Sap-sucking slugs belong to
-[Phylum Mollusca](../../mollusca)
+[Phylum Mollusca](../../../mollusca)
 and
-[Class Gastropoda](../../gastropoda)
-like other snails. Like many other sea slugs ([Subclass Opistobranchia](../../slug)), sap-sucking slugs lack external shells as adults. Sacoglossans are also called sap-sucking slugs because this is what they do (see below).
+[Class Gastropoda](../../../gastropoda)
+like other snails. Like many other sea slugs ([Subclass Opistobranchia](../../../slug)), sap-sucking slugs lack external shells as adults. Sacoglossans are also called sap-sucking slugs because this is what they do (see below).
 
 ## Features
 
@@ -88,7 +88,7 @@ Sap-sucking slugs come in a wide variety of shapes and sizes. Many are tiny (1cm
 
 **Sometimes confused with**
 other sea slugs that appear similar but belong to different orders. Here's more on how to tell apart
-[sap-sucking slugs from other sea slugs](../../nudiharesac)
+[sap-sucking slugs from other sea slugs](../../../nudiharesac)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**

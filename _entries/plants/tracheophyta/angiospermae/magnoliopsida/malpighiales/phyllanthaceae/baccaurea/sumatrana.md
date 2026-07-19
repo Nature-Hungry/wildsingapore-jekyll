@@ -13,28 +13,41 @@ subfamily: Antidesmatoideae
 tribe: Scepeae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220003 (23).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220005 (23).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220012 (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220003
+      (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220005
+      (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220012
+      (23).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220008 (23).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220013 (23).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220006 (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220008
+      (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220013
+      (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220006
+      (23).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/PA260508 (19).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/PA260503 (19).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220011 (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/PA260508
+      (19).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/PA260503
+      (19).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220011
+      (23).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/PA260514 (19).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/PA260504 (19).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/PA260514
+      (19).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/PA260504
+      (19).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220003 (23).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\baccaurea\sumatrana/P4220003
+  (23).jpg
 updated: July 2024
+rdb: CR
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

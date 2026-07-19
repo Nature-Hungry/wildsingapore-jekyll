@@ -14,21 +14,33 @@ tribe: Vinceae
 subtribe: Kopsiinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04575 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04578 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04582 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04575
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04578
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04582
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04577 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04580 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04583 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04577
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04580
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04583
+      (09).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04584 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00944 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00942 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04584
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00944
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00942
+      (14).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00948 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00947 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00940 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00948
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00947
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC00940
+      (14).jpg
 title: Singapore Kopsia
 other_names:
 - White Kopsia
@@ -37,8 +49,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04575 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\kopsia\singapurensis/DSC04575
+  (09).jpg
 updated: July 2024
+rdb: CR
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

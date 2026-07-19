@@ -124,7 +124,7 @@ Small grapsid crabs are commonly seen on many of our rocky shores and mangroves,
 Body width 4-6cm. Grapsid crabs are adapted for scrambling over rocks and other slippery surfaces. Many can stay out of the water for some time. Grapsid crabs are also sometimes called Shore crabs. They have well-developed hooks on the tips of their long legs that grip these surfaces. Their bodies and legs are flattened, allowing them to squeeze deep into narrow cracks and crevices. In some species, males have larger pincers than females.
 
 The
-[Rafting crab](../plagusiidae/plagusia)
+[Rafting crab](../../plagusiidae/plagusia)
 (*Plagusia squamosa*) is sometimes mistaken for a grapsid crab. But it belongs to another family.
 
 **What do they eat?**

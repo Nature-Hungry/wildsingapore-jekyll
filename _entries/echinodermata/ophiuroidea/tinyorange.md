@@ -93,7 +93,7 @@ zone:
 
 ## Where seen?
 These tiny brittle stars are sometimes seen on
-[Asparagus soft corals](../../cnidaria/coralsoft/nephtheidae)
+[Asparagus soft corals](../../../cnidaria/coralsoft/nephtheidae)
 , various soft corals and other cnidarians. A single host can be home to many of these tiny brittle stars.
 
 ## Features

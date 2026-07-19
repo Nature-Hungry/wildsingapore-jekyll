@@ -184,9 +184,9 @@ Those seen about 3-5cm, grows to about 10cm. These fishes are bottom-dwellers. I
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken**
 for
-[flatheads](../platycephalidae/platycephalidae)
+[flatheads](../../platycephalidae/platycephalidae)
 (Family Platycephalidae). Here's more on
-[how to tell apart fish with flat heads](../cfflatheads)
+[how to tell apart fish with flat heads](../../cfflatheads)
 .
 
 **What do they eat?**

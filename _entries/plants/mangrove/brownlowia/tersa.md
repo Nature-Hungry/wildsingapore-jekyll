@@ -102,7 +102,7 @@ habitats:
 
 ## Where seen?
 A rather drab shrub that is often overlooked. Some can be seen at Sungei Buloh Wetland Reserve, Kranji Nature Trail, Mandai mangroves and at Woodlands Park. Elsewhere, it is also considered rare, although it can be abundant where it is found. It is said to grow in relatively sunny locations in mangrove swamps, and along creeks where mud is accreting. Also found on sandy shores or firm mud, along with
-[Nipah palm](../nypa/nypa)
+[Nipah palm](../../nypa/nypa)
 (*Nypa fruticans*).
 
 It is also called 'Durian laut' in Malay which means 'Durian of the sea' probably because the green-above-silvery-below leaves resemble those of the Durian tree. Other than that, it doesn't have much resemblance to the true Durian tree.

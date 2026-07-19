@@ -119,7 +119,7 @@ Small ones are sometimes seen on our undisturbed reefs, under rocks and rubble.
 4-7cm long, the shell resembles a limpet, flat semi-spherical oval, resembles an ear especially from the underside. There are 5-10 small holes on the upper edge of the shell. The animal has a large fleshy foot edged with fine tentacles, and lacks an operculum. It has large eyes on short stalks, and a pair of long tentacles. The inside of the shell is shiny and pearly, the outside is often well camouflaged with encrustations.
 
 **Sometimes confused with**
-[limpets](../limpets/limpet)
+[limpets](../../limpets/limpet)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

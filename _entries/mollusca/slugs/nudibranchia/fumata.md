@@ -186,7 +186,7 @@ has 5-6 large bushy feathery branching gills that when expanded, may cover the w
 
 **What does it eat?**
 It eat
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 . It lacks a radula and jaws so it can't rasp or chew its food sponge. Instead, it secretes digestive juices onto the sponge and then sucks up the softened sponge with a long tube. Sort of like a sponge slurpee!
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

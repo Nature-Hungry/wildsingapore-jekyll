@@ -152,7 +152,7 @@ While
 ## Features
 
 A tree generally with knee roots, sometimes without. Leaves eye-shaped, shiny green and stiff, lacking the tiny black spots on the underside that is typical of
-*[Rhizophora](../rhizophora/rhizophora)*
+*[Rhizophora](../../rhizophora/rhizophora)*
 . Flowers small, usually with cup-shaped calyx. Petals thin and fringed with hairs. The stamens are enclosed in pairs in a 'pouched petal'. When triggered, the pouch explodes, dousing the pollinator with pollen. Propagule develops on the parent plant and may be long and thin or thick and short depending on the species.
 
 ## Human uses

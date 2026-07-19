@@ -140,7 +140,7 @@ Even those who find worms icky will be delighted by these elegant feathery creat
 Fanworms are segmented worms belonging to Family Sabllidae, Class
 [Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. The segmented portion of the fanworm is usually well hidden inside the tube like other
-[tubeworms](../tubeworm/tubeworms)
+[tubeworms](../../tubeworm/tubeworms)
 .
 
 **fanworm features:**
@@ -162,7 +162,7 @@ It moulds the string with a special fleshy fold of tissue near the top of its bo
 Feather-duster or 'Christmas tree fanworms' more familiar to divers belong to
 [Family Serpulidae](serpulidae)
 . These worms build hard tubes out of calcium, while fanworms' don't. Feather duster worms usually have an operculum to cover the tube opening, while fanworms don't. More on how to tell apart
-[animals with a ring of feathery tentacles](../../glossary/feathery)
+[animals with a ring of feathery tentacles](../../../glossary/feathery)
 .
 ## Human uses
 

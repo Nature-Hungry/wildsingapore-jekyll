@@ -166,7 +166,7 @@ Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
 in red are those listed as threatened
 on the
-[IUCN global list](../faviidae/ring/www.iucnredlist.org)
+[IUCN global list](../../faviidae/ring/www.iucnredlist.org)
 .
 
 **[Family Merulinidae](merulinidae)

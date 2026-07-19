@@ -122,7 +122,7 @@ species are identified by the arrangement of the spines along their arms.
 These small sea stars are carnivores! They hunt clams and snails, but also eat any small creatures that are buried in the sand. They find buried prey by the substances they release. These sea stars don't push their stomachs out of their mouths. Instead, they swallow their prey whole. It may take several days to digest their prey. They spit out any indigestible bits such as the shells.
 
 Sometimes, many tiny white snails are found on the upperside of a sand sea star. These are
-[parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae)
+[parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
 (Family Eulimidae).
 
 ---

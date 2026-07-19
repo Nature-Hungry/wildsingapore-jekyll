@@ -169,9 +169,9 @@ like crabs and shrimps. But they belong to a different group, their own Class Ci
 Barnacles are often mistaken for snails because of their hard 'shells'. However, barnacles as actually crustaceans. The larvae of barnacles are shrimp-like and swim freely. As it develops, the larvae eventually glues itself head down onto a hard surface and develops a conical outer shell-like structure made up of several plates (wall plates). There is an opening at the centre of this 'shell'. At low tide, the opening is sealed by a door (operculum) made up of a pair of plates. A barnacle without these plates is a dead barnacle! Some barnacles species can be identified by the shape of the operculum plates and number of wall plates.
 
 **Sometimes confused with**
-[limpets](../../../mollusca/gastropoda/limpets/limpet)
+[limpets](../../../../mollusca/gastropoda/limpets/limpet)
 which are snails. Here's more on how to tell apart
-[shelled animals found on rocks.](../../../glossary/limpetbarnacle){% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
+[shelled animals found on rocks.](../../../../glossary/limpetbarnacle){% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
 When the tide comes in, barnacles open up their plates and extend their feathery, segmented legs to gather plankton from the water. The legs form a basket that scoops inwards where mouthparts scrape the edible particles off the legs and transfer these particles to the mouth. 'Cirripedia' means 'hairy foot'
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Barnacle babies:**
@@ -192,7 +192,7 @@ on
 
 **Barnacle zonation:**
 An ideal spot for a barnacle is lower down the rock where it gets wet more often. The further up a rock a barnacle settles, the hardier the barnacle must be to withstand longer periods out of water and the heat of the sun. There is competition among barnacle larvae for the best spots on a rock to settle down on. Each species of barnacle survives best in a spot where it does better than its competitors. As a result, different species of barnacles are found in
-[distinct zones](../../../concepts/zonation)
+[distinct zones](../../../../concepts/zonation)
 on a rock.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Strange barnacles:**
@@ -202,7 +202,7 @@ sp.](lepas)
 has white plates and clumps of this species often attached to floating objections like boats or snail shells. Some barnacles
 [burrow into living corals](coral)
 , others may be found
-[in sponges](../../../porifera/chocolate)
+[in sponges](../../../../porifera/chocolate)
 .
 
 Some barnacles have become parasites that live inside other animals. Parasitic barnacles such as
@@ -212,9 +212,9 @@ grow through the body of the host crab like a root system. The parasite does not
 
 ## Role in habitat
 Despite their protective plates that are strongly glued down, barnacles are eaten by crabs, snails such as
-[drills](../../../mollusca/gastropoda/muricidae/muricidae)
+[drills](../../../../mollusca/gastropoda/muricidae/muricidae)
 and the
-[Spiral melongena snail](../../../mollusca/gastropoda/melogenidae/cochlidium)
+[Spiral melongena snail](../../../../mollusca/gastropoda/melogenidae/cochlidium)
 and other predators. Dead barnacle shells provide hiding places for many small creatures. Sometimes you might see tiny mussels, small periwinkles and other animals hiding in the hollow shell of a dead barnacle.
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}## Human uses

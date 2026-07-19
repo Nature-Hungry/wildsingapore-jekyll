@@ -174,7 +174,7 @@ Those seen 6-20cm, but said to reach up to 58cm. Tiny ones about 2cm long have a
 for other flatheads in the Family such as
 *Thysanophrys*
 sp. As well as other flattened fishes that live on the sea bottom. Here's more on
-[how to tell apart fishes with flat heads](../cfflatheads)
+[how to tell apart fishes with flat heads](../../cfflatheads)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

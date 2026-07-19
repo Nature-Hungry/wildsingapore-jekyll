@@ -90,7 +90,7 @@ This large angular brown mussel is usually only sometimes seen in small numbers 
 
 **What eats them:**
 On Cyrene in 2020, small clusters of the mussel were seen. They were mostly dead (empty shells) and
-[Reef murex snails](../../gastropoda/muricidae/chicoreus)
+[Reef murex snails](../../../gastropoda/muricidae/chicoreus)
 appeared to be feeding on them.
 
  

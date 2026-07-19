@@ -13,23 +13,32 @@ family: Polypodiaceae
 subfamily: Platycerioideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08902 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08903 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08909 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08902
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08903
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08909
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08908 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08829 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08828 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08908
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08829
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08828
+      (08).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08906 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08906
+      (08).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08902 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\polypodiaceae\pyrrosia\longifolia/DSC08902
+  (08).jpg
 updated: July 2024
+rdb: Lc
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

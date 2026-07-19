@@ -138,7 +138,7 @@ sp.) which has much longer spines and is not often seen on the Northern shores.
 
 **Prickly Home:**
 Sometimes, an
-[Urchin-mouth worm](../../../worm/polychaeta/oxydromus)
+[Urchin-mouth worm](../../../../worm/polychaeta/oxydromus)
 is seen curled around the mouth of the sea urchin.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

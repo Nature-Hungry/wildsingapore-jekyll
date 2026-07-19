@@ -13,33 +13,50 @@ subfamily: Annonoideae
 tribe: Xylopieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03588 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03595 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03592 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03588
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03595
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03592
+      (11).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03589 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03587 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03612 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03589
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03587
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03612
+      (11).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03594 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC04668 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00407 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03594
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC04668
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00407
+      (14).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00408 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00406 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC04671 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00408
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00406
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC04671
+      (11).jpg
   gallery5:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00412 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00409 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00411 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00412
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00409
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC00411
+      (14).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03588 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\suaveolens/DSC03588
+  (11).jpg
 updated: July 2024
+rdb: LC
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

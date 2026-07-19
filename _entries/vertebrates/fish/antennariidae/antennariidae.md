@@ -176,7 +176,7 @@ Frogfishes come in a wide variety of colours and patterns. Some species are brig
 
 **Sometimes mistaken for**
 stonefish and scorpionfish. Unlike those fishes, the frogfish is harmless. Here's more on
-[how to tell apart fishes that look like stones.](../cfstonefish){% include img-wrap-group.html items=page.galleries.gallery2 %}**Fishing with a lure:**
+[how to tell apart fishes that look like stones.](../../cfstonefish){% include img-wrap-group.html items=page.galleries.gallery2 %}**Fishing with a lure:**
 The frogfish literally lures prey to come closer. The lure is at the top of its head, just above its very large, upward facing mouth.The lure is made up of the first spine of the dorsal fin. The spine is modified into a rod or stalk (called the illicium) tipped with a fleshy, fluffy or otherwise attractive bit (called the esca). This bit is wriggled, jerked and waved about so it appears to be a helpless and tasty little morsel. While the fish itself remains motionless, looking like just another lump of rock or other harmless thing. Unsuspecting creatures that attempt to eat the lure are instead eaten by the frogfish! Each frogfish species usually targets a specific prey and each species has a lure that resembles something the targeted prey would find tasty. When not in use, the lure is safely flattened against the head.
 
 The victim is usually swallowed whole in one gulp of the frogfish's huge mouth. The frogfish can hugely expand its mouth in less than a second, making it among the fastest capture in the animal kingdom.

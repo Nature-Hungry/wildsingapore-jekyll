@@ -152,7 +152,7 @@ An upright chain (5-10cm long) of joined up coin-like flattened segments. Each c
 
 **Living on halimeda:**
 The keen-eyed observer may spot the tiny
-[Halimeda slugs](../../../mollusca/slugs/sacoglossa/pusilla)
+[Halimeda slugs](../../../../mollusca/slugs/sacoglossa/pusilla)
 (*Elysiella pusilla*) found on this seaweed. The slugs are difficult to spot as they usually the same colour as the seaweed or somewhat translucent.
 
 During one

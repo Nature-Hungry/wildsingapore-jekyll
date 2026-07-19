@@ -120,7 +120,7 @@ is listed among our nudibranchs but Dr Bill Rudman's website says they are only 
 
 **What do they eat?**
 They eat
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 , each Hypselodoris species usually specialising in a particular species of sponge. Although tiny, apparently they can feed voraciously. They eat the sponge tissues and leave the hard bits (spicules) of the sponge behind as a skeleton.
 *Dysidea*
 sp. is a sponge they have been recorded feeding on.

@@ -226,6 +226,7 @@ const random_sample = [
 {% for post in random_posts %}
 {
   "title": {{ post.title | jsonify }},
+  "scientificname": "{{ post.genus }} {{post.species}}",
   "url": {{ post.url | jsonify }}, 
   "coverimg": {{ post.smallcoverimg | default: post.coverimg | jsonify }}, 
   
@@ -250,7 +251,7 @@ randomPosts.forEach(post => {
     html += `
      <a class="random" href="${post.url}">
         <img src="${post.coverimg}" alt="">
-        <p class="caption">${post.title}</p>
+        <p class="caption">${post.title == '-' ? post.scientificname : post.title}</p>
 
     </a>
     `;

@@ -128,9 +128,9 @@ These little disk-shaped animals are commonly encountered on our Southern shores
 
 **What are corallimorphs?**
 Corallimorphs are
-[Cnidarians](../../cnidaria)
+[Cnidarians](../../../cnidaria)
 that belong to the same
-[Class Anthozoa](../../anthozoa)
+[Class Anthozoa](../../../anthozoa)
 as sea anemones. There are about 50 species of known corallimorphs. They are found in all parts of the ocean, from shallow to deep waters, from the tropics to even the poles. Some deeper water species can reach 1m in diameter!
 
 ## Features
@@ -151,14 +151,14 @@ Corallimorphs come in a wide range of colours and textures on the oral disk.
 Most corallimorphs harbour zooxanthellae (symbiotic algae) inside their bodies. The symbiotic algae carry out photosynthesis and may contribute nutrients to the host. Corallimorphs also filter feed, trapping edible bits in mucus that coats their bodies.
 
 Corallimorphs also have
-[stingers like other Cnidarians](../../cnidaria)
+[stingers like other Cnidarians](../../../cnidaria)
 . Some large corallimorphs can reach 30cm across or more and can eat fishes! These fishes are trapped in the muscular oral disc, similar to the way a Venus Flytrap plant catches its prey.
 
 Corallimorphs also produce toxins that seem to injure or kill hard corals or other encrusting organisms that settle near them.
 
 **Corallimorph friends:**
 Animals such as
-[acoel flatworms](../../../worm/acoela/acoela)
+[acoel flatworms](../../../../worm/acoela/acoela)
 and tiny shrimps are sometimes seen on corallimorphs.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Corallimorph babies:**

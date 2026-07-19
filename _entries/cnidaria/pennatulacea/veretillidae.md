@@ -131,7 +131,7 @@ When exposed at low tide, the autozooids can retract completely and the fat cent
 
 **Sometimes confused with**
 other sausage-shaped animals. Here's more on
-[how to tell apart sausage-shaped animals](../../../glossary/sausage)
+[how to tell apart sausage-shaped animals](../../../../glossary/sausage)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Pen pals:**

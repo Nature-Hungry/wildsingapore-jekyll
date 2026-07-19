@@ -75,7 +75,7 @@ zone:
 
 ## Where seen?
 This small flatworm is sometimes seen on
-[Beige sheet asicidians](../../ascidiacea/beige)
+[Beige sheet asicidians](../../../ascidiacea/beige)
 that are growing under rocks. So far, only seen on our Northern shores.
 
 ## Features

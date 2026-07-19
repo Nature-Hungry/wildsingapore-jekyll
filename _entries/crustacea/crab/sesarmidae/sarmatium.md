@@ -96,7 +96,7 @@ zone:
 
 ## Where seen?
 This spherical crab is seldom seen outside the
-[Mud lobster mounds](../../othercrust/lobster/thalassina)
+[Mud lobster mounds](../../../othercrust/lobster/thalassina)
 where it lives.
 
 ## Features

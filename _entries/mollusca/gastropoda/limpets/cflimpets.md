@@ -62,4 +62,4 @@ may look very similar from above, especially when the shell is covered with encr
 ---
 
 how to tell apart
-[animals with conical shells found on rocks](../../../glossary/limpetbarnacle)
+[animals with conical shells found on rocks](../../../../glossary/limpetbarnacle)

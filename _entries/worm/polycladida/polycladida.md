@@ -145,17 +145,17 @@ Marine flatworms are ferocious predators that glide around the shores like liqui
 
 **What are flatworms?**
 Unlike
-[bristleworms](../polychaeta/polychaeta)
+[bristleworms](../../polychaeta/polychaeta)
 and earthworms which are segmented and belong to Phylum Annelida, flatworms are unsegmented worms belonging to the Phylum Platyhelminthes. 'Platyhelminthes' means 'flat worm'. There are about 18,500 species of flatworms, but only about 16% of these are free-living flatworms. Most members of this Phylum are internal parasites. These infest fish and other animals including humans; such as tapeworms and liver flukes.
 
 Marine flatworms belonging to the Order Polycladida, however, are not parasites. They are free-living flatworms that earn an honest living by hunting down and eating other animals.
 
 **Sometimes confused with:**
-[nudibranchs](../../mollusca/nudibranchia)
+[nudibranchs](../../../mollusca/nudibranchia)
 and
-[slugs](../../mollusca/slug)
+[slugs](../../../mollusca/slug)
 . More on
-[how to tell them apart](../../glossary/flatwormslug)
+[how to tell them apart](../../../glossary/flatwormslug)
 .
 
 ## Features
@@ -178,17 +178,17 @@ Flatworms have a central nervous system and a simple brain to co-ordinate their 
 
 **Rainbow Worms:**
 Flatworms come in a bewildering variety of colours and patterns. Some of these colours are due to the colour of the prey they have eaten, showing through their gut. Those with bright colours that contrast with their surroundings probably serve as a warning of their distasteful nature. Flatworms can contain powerful toxins. Others have colours and patterns that blend with the background. These and smaller ones are simply overlooked. Some flatworms mimic other animals such as
-[nudibranchs](../../mollusca/nudibranchia)
+[nudibranchs](../../../mollusca/nudibranchia)
 (or perhaps visa versa).
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
 Many flatworms are carnivores that prey on tiny animals (protozoa, copepods,
-[worms](../worm)) or feed on immobile animals such as
-[bryozoans](../../bryozoa/bryozoan)
+[worms](../../worm)) or feed on immobile animals such as
+[bryozoans](../../../bryozoa/bryozoan)
 ,
-[ascidians](../../ascidiacea/ascidiacea)
+[ascidians](../../../ascidiacea/ascidiacea)
 and molluscs. Being flat, they slip easily between the shells of
-[bivalves](../../mollusca/bivalvia)
+[bivalves](../../../mollusca/bivalvia)
 and some flatworms are considered pests of oyster farms. Some are scavengers, feeding on dead animals.
 
 **Flatworms on the hunt:**

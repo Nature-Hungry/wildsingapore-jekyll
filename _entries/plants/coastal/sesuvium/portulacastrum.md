@@ -97,7 +97,7 @@ According to Burkill, the fresh leaves make a very good vegetable, but only afte
 ![](https://images.naturehungry.sg/ipomoea/pescaprae/090118smkd5798m3.jpg)
 
 Growing with
-[Beach morning glory](../ipomoea/pescaprae)
+[Beach morning glory](../../ipomoea/pescaprae)
 .
 *Pulau Semakau, Jan 09*
 

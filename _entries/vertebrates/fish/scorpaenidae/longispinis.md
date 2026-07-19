@@ -166,11 +166,11 @@ This little waspfish is commonly seen on many of our shores, among coral rubble 
 
 **Sometimes mistaken for**
 a
-[stonefish](../synanceiidae/horrida)
+[stonefish](../../synanceiidae/horrida)
 (Family Synanceiidae) or the
-[False scorpionfish](../centrogenyidae/vaigiensis)
+[False scorpionfish](../../centrogenyidae/vaigiensis)
 (*Centrogenys vaigiensis*), a grouper, which looks very similar. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish)
+[how to tell apart fishes that look like stones](../../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

@@ -126,7 +126,7 @@ To about 40cm in diameter, those seen about 15-20cm. Body kite-shaped with round
 
 **Sometimes mistaken for**
 a
-[horseshoe crab](../../../arthropoda/limulidae/limulidae)
+[horseshoe crab](../../../../arthropoda/limulidae/limulidae)
 and visa versa. In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. The
 [Blue-spotted fantail ray](lymma)
 (*Taeniura lymma*) has bright and prominent spots and is more commonly seen near reefs.

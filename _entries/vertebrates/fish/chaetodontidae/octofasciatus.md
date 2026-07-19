@@ -141,7 +141,7 @@ This disc-shaped fish with eight bars is sometimes seen on some of our Southern 
 ## Features
 
 To about 12cm. Body flat, circular disk-shaped, snout slightly pointed. 8 black bands, sometimes a broad black horizontal bar between the middle narrow bars, sometimes yellowish or brownish between 2 pair of bands nearer the tail. Yellow pectoral fins, yellowish base of fins, belly and mouth. White-ringed black spot at the base of the tail. Juveniles often seen in groups among branching corals such as
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
+[Acropora corals](../../../../cnidaria/coralhard/acroporidae/acropora)
 . Adults seen in pairs.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

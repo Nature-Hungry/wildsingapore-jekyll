@@ -13,24 +13,34 @@ family: Dryopteridaceae
 subfamily: Elaphoglossoideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03630 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03628 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03633 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03630
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03628
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03633
+      (11).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03632 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC00090 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC00091 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03632
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC00090
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC00091
+      (10).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC00088 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03634 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC00088
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03634
+      (11).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03630 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\teratophyllum\ludens/DSC03630
+  (11).jpg
 updated: July 2024
+rdb: CR
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

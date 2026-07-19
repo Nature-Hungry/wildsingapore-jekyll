@@ -156,7 +156,7 @@ A new segment develops from the top and can appear rapidly, within 1-2 days! In 
 These seaweeds can relocate their chlorophyll (the green pigment used in photosynthesis). At night, chlorophyll might be concentrated in the centre of the segment. As a result, the seaweed may appear white.
 
 In addition to calcium carbonate, they also have chemicals that protect them from herbivores. Despite this, some slugs like the
-[Halimeda slug](../../../mollusca/slugs/sacoglossa/pusilla)
+[Halimeda slug](../../../../mollusca/slugs/sacoglossa/pusilla)
 (*Elysiella pusilla*) actually eat the seaweed and incorporates these chemicals into their tissues to protect themselves!
 
 The calcium carbonate released from dead

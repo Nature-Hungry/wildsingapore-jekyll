@@ -53,7 +53,7 @@ The clam or its empty shells are sometimes seen on some of our shores. The dead 
 
 **Surfer dudes!**
 Surf clams actually do surf the waves! They migrate up and down the shore by floating with the waves and then rapidly burying themselves with their strong foot. By doing so, they are able to move up and down the shore with the tides thus exploiting food found in the different shore zones. This also helps them avoid predators such as
-[Moon snails](../../gastropoda/naticidae/naticidae)
+[Moon snails](../../../gastropoda/naticidae/naticidae)
 (Family Naticidae).
 
 **What do they eat?**

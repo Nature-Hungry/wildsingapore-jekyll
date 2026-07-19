@@ -141,7 +141,7 @@ The colony has both autozooids and siphonozooids. Autozooid polyps have long sle
 During mass coral bleaching, this leathery soft coral not only bleaches but is sometimes also seen to 'melt'. Large holes form in the common tissue so the colony resembles melting cheese. Eventually, the result is that the colony divides into several smaller blobs. Perhaps one way of ensuring at least one of the blobs survives the bleaching event?
 
 Sometimes, tiny
-[ctenophores](../../ctenophora/coeloplana)
+[ctenophores](../../../ctenophora/coeloplana)
 may be seen on large colonies, so well camouflaged that they are often found by the long fine strings that they produce.
 
  

@@ -198,7 +198,7 @@ permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronecto
 These large flatfishes are seen on some of our shores, on sandy areas near seagrasses or near coral reefs.
 **What are large-tooth flounders?**
 Large-tooth flounders are
-[flatfishes](../pleuronectiformes/pleuronectiformes)
+[flatfishes](../../pleuronectiformes/pleuronectiformes)
 belonging to the Family Paralichthyidae (they were previously placed in Family Bothidae).
 According to
 [FishBase](http://fishbase.sinica.edu.tw/Summary/FamilySummary.cfm?ID=514)
@@ -210,13 +210,13 @@ Grows to about 40cm long, those seen about 15-20cm. Body flat but typical fish-s
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes)
+[flatfishes](../../pleuronectiformes/pleuronectiformes)
 . The
-[Oriental sole](../soleidae/orientalis)
+[Oriental sole](../../soleidae/orientalis)
 looks very similar but it is right-eyed. The
-[Three-spot flounder](../bothidae/polyophthalmus)
+[Three-spot flounder](../../bothidae/polyophthalmus)
 looks similar, is left-eyed too, but is more circular and has three large spots. Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
+[how to tell apart the flatfish families](../../pleuronectiformes/pleuronectiformes1)
 commonly seen.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

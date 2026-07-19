@@ -99,9 +99,9 @@ This little cowrie is sometimes seen on our Southern shores among coral rubble n
 Shell cylindrical, generally pale blue with 4 very pale brown bands and small brown speckles all over. There are four large rather triangular brown spots on the shell, two spots at the front end of the shell and two at the back end. The underside is white, the 'teeth' are raised and not coloured. The living animal has a dark to black mantle with white or pinkish spots.
 
 When the shell is completely covered in its mantle, it is sometimes mistaken for a
-[sea slug](../../slug)
+[sea slug](../../../slug)
 . Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
+[how to tell apart slugs and animals that look like slugs](../../../../glossary/flatwormslug)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

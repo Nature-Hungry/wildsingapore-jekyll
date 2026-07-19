@@ -44,7 +44,7 @@ zone:
 
 ## Where seen?
 This tiny elongated snail is sometimes seen on
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
+[sea fans](../../../../cnidaria/others/gorgonacea/gorgonacea)
 on our Northern shores.
 
 ## Features

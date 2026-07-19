@@ -132,9 +132,9 @@ Tiny creeper snails are common on our shores but often overlooked. They may be f
 2 2.5cm. Shell long and narrow, distinguished by an upturned siphonal canal at the opening that looks like a little spout. This protects the siphon as the snail hides just beneath the sand. The shell opening is oval, and the operculum is made of a horny material usually brown usually with only a few whorls.
 
 **Sometimes confused with**
-[Horn snails](../potamididae/potamididae)
+[Horn snails](../../potamididae/potamididae)
 (Family Potamididae) which also have an operculum made of a horny material but with a tight spiral pattern. Horn snails have siphonal canals that are less pronounced and they are generally larger than Creeper snails. More on
-[how to tell these snails apart](../certihpotamid)
+[how to tell these snails apart](../../certihpotamid)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**
@@ -142,7 +142,7 @@ Creeper snails are often found in groups of many individuals packed close to one
 
 ## Role in habitat
 Should the tiny snail die, the empty shell is often taken over by
-[tiny hermit crabs](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
+[tiny hermit crabs](../..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses

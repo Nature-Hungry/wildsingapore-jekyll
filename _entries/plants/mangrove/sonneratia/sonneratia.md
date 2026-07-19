@@ -139,7 +139,7 @@ The flowers open at dusk emitting a smell of sour milk or butter and last only o
 
 **No durians without mangroves!**
 According to Tomlinson, a study in west Malaysia found that
-[Durian flowers](../../fruittrees/durio/zibethinus)
+[Durian flowers](../../../fruittrees/durio/zibethinus)
 are pollinated almost entirely by a single species of bat
 *Eonycterus spelaea*
 . This bat roosts primarily in limestone caves and are fast flyers that range up to 50km each night in search of pollen and nectar from a wide variety of plants. Their range include mangroves and

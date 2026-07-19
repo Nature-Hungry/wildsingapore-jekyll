@@ -134,7 +134,7 @@ Sea mussels belong to the Family Mytilidae.
 ## Features
 
 The two-part shell is generally tear-drop shaped (rounded at one end and pointed at the other). Although thin, the shell is quite strong. Instead of gluing down one valve to a rock like
-[oysters](../ostreidae/osteridae)
+[oysters](../../ostreidae/osteridae)
 do, mussels attach themselves with byssus threads.
 
 Sea mussels are often found in colonies of a large number of individuals.
@@ -150,7 +150,7 @@ Like most other bivalves, sea mussels are filter feeders. At high tide, they ope
 Sea mussels are among the favourite seafood of people everywhere. The
 [Green mussel](viridis)
 (*Perna viridis*) is farmed in many parts of Southeast Asia. In colder seas, they are among key food sources. Like other filter-feeding clams, however, sea mussels may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
+[red tide and other harmful algal blooms](../../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 
  

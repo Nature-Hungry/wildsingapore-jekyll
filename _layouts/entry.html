@@ -23,7 +23,7 @@
         <div class="sticky-header-content">
           <h3>{{page.title}}</h3>
           {% if page.genus != '' and page.genus %}
-                    <p class="scientific-name">{{page.genus}} {{page.species | default: "sp."}}</p>
+                    <p class="scientific-name">{{page.genus}} {{page.species | default: ""}}</p>
                 {% elsif page.subfamily != '' and page.subfamily%}
                     <p class="scientific-name">Subfamily {{page.subfamily}}</p>
                 {% elsif page.family != '' and page.family%}
@@ -104,9 +104,10 @@
 
                 {% if page.size %}
                 <p>
-                    {{page.size[0]}}
-                    {% if page.size[1] %}
-                        - {{page.size[1]}}
+                    {% assign sizes = page.size | join: "," | split: "," | sort %}
+                    {{sizes[0]}}
+                    {% if sizes[1] %}
+                        - {{sizes[1]}}
                     {% endif %}
                     cm
                 </p>

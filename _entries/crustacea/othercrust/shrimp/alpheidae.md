@@ -185,7 +185,7 @@ The snapping sound is not the result of the finger hitting the socket, i.e., not
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Shrimpy friends:**
 Some species live in symbiosis with corals, sponges, sea fans and other animals. The most amazing must be
-[the relationship between the snapping shrimp and goby](../../../vertebrates/fish/gobiidae/shrimpgoby)
+[the relationship between the snapping shrimp and goby](../../../../vertebrates/fish/gobiidae/shrimpgoby)
 . The shrimp goby lives in the same burrow with a snapping shrimp. With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home. The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby. When the goby darts into the burrow, the shrimp is right behind it!
 
 **Colonial shrimps?**
@@ -197,7 +197,7 @@ A kind of snapping shrimp (*Synalpheaus regalis*) that lives in sponges in the c
 
 Most of our snapping shrimps are not listed among the endangered animals of Singapore, except for the Crinoid snapping shrimp (*Synalpheus stimpsoni*).
 This tiny shrimp (about 1cm) lives in pairs on
-[feather stars](../../../echinodermata/crinoidea/crinoidea)
+[feather stars](../../../../echinodermata/crinoidea/crinoidea)
 (crinoids), feeding off the mucus of its host. It is threatened by reef destruction and siltation.
 
 ---

@@ -163,12 +163,12 @@ This large sea hare is sometimes seen near reefs on our Southern shores. Often, 
 
 **What do they eat?**
 Like other sea hares, they graze on seaweeds. Some accounts say they prefer red seaweeds but will feed on others if their preferred food is not available. Other accounts say they feed on green seaweed. Some of seaweeds identified as their food include
-*[Udotea](../../../plants/seaweed/chlorophyta/udotea)
+*[Udotea](../../../../plants/seaweed/chlorophyta/udotea)
 , Rhinocephalus,
-[Caulerpa](../../../plants/seaweed/chlorophyta/caulerpa)
+[Caulerpa](../../../../plants/seaweed/chlorophyta/caulerpa)
 , Penicillu*
 s and
-*[Halimeda](../../../plants/seaweed/chlorophyta/halimeda)
+*[Halimeda](../../../../plants/seaweed/chlorophyta/halimeda)
 .*{% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

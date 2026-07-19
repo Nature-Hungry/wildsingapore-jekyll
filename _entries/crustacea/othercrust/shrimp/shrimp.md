@@ -170,7 +170,7 @@ Shrimps are numerous and eaten by a wide variety of larger creatures. In coral r
 ## Human uses
 
 Shrimps and prawns are relished food by people everywhere. In Asia, shrimps are eaten in many ways. Besides the usual dishes made from whole shrimps, they may also be dried, or made into paste ('belachan') or mixtures ('cincaluk'). Tiny shrimps are used as condiments, and shrimps flavour crackers, balls and other delicacies. While traditional farming and harvesting methods are sustainable, large-scale commercial prawn farms and prawn trawling are more destructive and unsustainable.
-[More about prawn farming](../../../concepts/prawnfarms)
+[More about prawn farming](../../../../concepts/prawnfarms)
 and trawling.
 ****
  
@@ -210,13 +210,13 @@ Some of our shrimps and prawns are listed among the threatened animals of Singap
 
 ---
 
-**[Family Penaeidae](../penaeidae)
+**[Family Penaeidae](../../penaeidae)
 (penaeid prawns)**
 with list of species recorded for Singapore
 
 ### Infraorder Caridea
  
-- **[Family Alpheidae](../alpheidae) (snapping shrimps)** with list of species recorded for Singapore
+- **[Family Alpheidae](../../alpheidae) (snapping shrimps)** with list of species recorded for Singapore
 
 - **Family Atyidae (freshwater shrimps)**
   *Most members of this family are freshwater shrimps*
@@ -232,10 +232,10 @@ with list of species recorded for Singapore
   - <span style="color:red">Caridina temasek(Temasek shrimp) (EN: Endangered)</span>
 
 
-- **[Family Hippolytidae](../hippolytidae) (humpbacked shrimps, cleaner shrimps, saron shrimps)**with list of species recorded for Singapore
+- **[Family Hippolytidae](../../hippolytidae) (humpbacked shrimps, cleaner shrimps, saron shrimps)**with list of species recorded for Singapore
 
 
-- **[Family Palaemonidae](../palaemonidae) (glass shrimps and commensal shrimps)**with list of species recorded for Singapore
+- **[Family Palaemonidae](../../palaemonidae) (glass shrimps and commensal shrimps)**with list of species recorded for Singapore
 
 
 

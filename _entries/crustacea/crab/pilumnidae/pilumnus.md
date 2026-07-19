@@ -239,7 +239,7 @@ The Common hairy crab (*Pilumnus vespertilio*) is the most commonly encountered 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 The Common hairy crab eats mainly seaweed. It may also eat toxic
-[zoanthids](../../../cnidaria/others/zoanthid/zoanthid)
+[zoanthids](../../../../cnidaria/others/zoanthid/zoanthid)
 (colonial anemones) and this makes the crab mildly poisonous. Various hairy crabs on our shores have been observed nibbling on hard seaweeds, sponges and even appearing to snack on bristleworms, carrying a clam into a burrow. Also possibly having a taste of a nudibranch and dragging a seahare into its burrow leaving a trail of purple dye from the panicking seahare.
 
  

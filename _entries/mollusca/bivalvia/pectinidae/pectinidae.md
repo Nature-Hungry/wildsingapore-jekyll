@@ -154,7 +154,7 @@ Like most other bivalves, scallops are filter feeders. When submerged, a scallop
 {% include img-wrap-group.html items=page.galleries.gallery2 %}## Human uses
 
 Larger scallop species are harvested for seafood. Usually what is eaten is only the adductor muscle that holds the two valves together. Our wild scallops are much too small to yield the kind of scallops you can buy at the supermarket. The flesh of the adductor muscle is sweet because it contains a high amount of gylcogen. Like other filter-feeding clams, however, scallops may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
+[red tide and other harmful algal blooms](../../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 
  

@@ -120,7 +120,7 @@ In members of the Famliy Volutidae, the male fertilises the female internally. T
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 
 **Role in the habitat:**
-Even after it dies, the snails shell continues to provide shelter! Many of the Noble volute shells contain a [hermit crab](../../../crustacea/othercrust/anomura/hermit/hermit) instead of the living snail. The hermit crabs need the shell more than we do so we should not collect these shells even if they are empty. Sometimes, [octopuses](../../cephalopoda/bigseagrass) are seen sheltering in the empty shells too.
+Even after it dies, the snails shell continues to provide shelter! Many of the Noble volute shells contain a [hermit crab](../../../../crustacea/othercrust/anomura/hermit/hermit) instead of the living snail. The hermit crabs need the shell more than we do so we should not collect these shells even if they are empty. Sometimes, [octopuses](../../../cephalopoda/bigseagrass) are seen sheltering in the empty shells too.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Human uses:**
 

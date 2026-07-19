@@ -183,7 +183,7 @@ The tentacles are close to one another at the circumference of the oral disk, an
 other large sea anemones and similar large cnidarians. Here's more on how to tell apart
 [large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians)
+[large 'hairy' cnidarians](../../cflargecnidarians)
 .
 
 **Snaky friends:**
@@ -193,7 +193,7 @@ Several kinds of animals have been associated with snaky anemones including
 [anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/palaemonidae)
 (*Periclimenes*
 sp.) and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
+[anemonefishes](../../../vertebrates/fish/pomacentridae/amphiprion)
 (*Amphiprion*
 sp.) including
 *A. biaculeatus, A. clarkii*

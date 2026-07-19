@@ -217,10 +217,10 @@ The following are the two commonly seen murex snails found on and near our reefs
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 Like other drills in the Family Muricidae, this snail can also drill through shells. They are said to feed extensively on the
-[venus clam](../../bivalvia/veneridae/veneridae)
+[venus clam](../../../bivalvia/veneridae/veneridae)
 *Gafrarium*
 (Family Veneridae) by drilling a neat hole through the shell. We have often seen them suspiciously clasping a
-[Bazillion snail](../batillariidae/zonalis)
+[Bazillion snail](../../batillariidae/zonalis)
 (*Batillaria zonalis*).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby drills**

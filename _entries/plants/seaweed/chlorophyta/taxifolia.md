@@ -202,11 +202,11 @@ This beautiful feathery green seaweed is commonly seen on many of our shores, gr
 
 **Sometimes confused with**
 other feathery green seaweeds or with
-[seagrasses](../../seagrass/seagrass)
+[seagrasses](../../../seagrass/seagrass)
 . Here's more on
 [how to tell apart different feathery green seaweeds](cffeathery)
 and how to tell apart
-[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
+[feathery green seaweeds and seagrasses](../../../../glossary/seagrassweed)
 .
 
 ## Human uses

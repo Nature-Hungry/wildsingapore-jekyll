@@ -79,7 +79,7 @@ Up to 2cm in diameter. Shell thick and coiled to form an overall conical shape. 
 
 **What does it eat?**
 It feeds on
-[zoanthids](../../../cnidaria/others/zoanthid/zoanthid)
+[zoanthids](../../../../cnidaria/others/zoanthid/zoanthid)
 and is said to be always found in close association with zoanthids.
 
 **Baby sundials:**

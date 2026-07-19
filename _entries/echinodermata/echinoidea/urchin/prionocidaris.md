@@ -110,7 +110,7 @@ This beautiful pink urchin with unique spiny spines is seasonally common on some
 Body diameter 4-5cm. It has spines on its spines! The thick spines are long (4-5cm to 10-12cm), armed with small spines and may be colourful and banded in pink and yellow or beige. Because of its thick spines, it is sometimes called the Pencil sea urchin. Several different kinds of spines may be seen even on the same sea urchin. On the upper side, some long spines have sharp tips and sharp small spines. Other long spines may be blunt or or even square-tipped and have blunt small spines. On the upperside, there are five short, sharp pointed spines usually held crossed over one another forming a tent over the centre of the body. Long tube feet may emerge from the sides of the spherical body when the sea urchin is submerged in water. On the underside, the mouth is surrounded by short flattened blunt spines. Other longer spines on the underside have blunt tips too, possibly used for burrowing?
 
 In some, the longer spines are covered sediments. Sometimes,
-[tiny brittle stars](../../ophiuroidea/tinycolourful)
+[tiny brittle stars](../../../ophiuroidea/tinycolourful)
 are seen wrapped around its spines. Or encrusting ascidians may grow on the spines.
 
  

@@ -159,14 +159,14 @@ species.
 
 Lumpy blobby Codium green seaweed
 **may be confused with**
-[Puffy brown seaweed](../phaeophyta/colpomenia)
+[Puffy brown seaweed](../../phaeophyta/colpomenia)
 (*Colpomenia sinuosa*) which is golden brown.
 
 ## Role in habitat
 Some
 *Codium*
 species are eaten by
-[sea turtles](../../../vertebrates/reptilia/seaturtle)
+[sea turtles](../../../../vertebrates/reptilia/seaturtle)
 .
 
 **Invasive Codium:**

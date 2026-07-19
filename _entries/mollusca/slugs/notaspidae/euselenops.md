@@ -136,7 +136,7 @@ The slug is adapted for living in a sandy habitat. A broad foot and flattened bo
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Sometimes mistaken for**
 a
-[squid or cuttlefish](../../cephalopoda/squid)
+[squid or cuttlefish](../../../cephalopoda/squid)
 .
 
 **What does it eat?**

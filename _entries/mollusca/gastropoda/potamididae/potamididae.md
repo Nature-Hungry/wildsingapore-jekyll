@@ -154,9 +154,9 @@ Here's more on
 .
 
 **Sometimes confused with**
-[Creeper snails](../cerithiidae/cerithiidae)
+[Creeper snails](../../cerithiidae/cerithiidae)
 (Family Cerithiidae) which also have an operculum made of a horny material but with only a few whorls. Horn snails have siphonal canals that are less pronounced and they are generally larger than Creeper snails. More on
-[how to tell these snails apart](../certihpotamid)
+[how to tell these snails apart](../../certihpotamid)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**

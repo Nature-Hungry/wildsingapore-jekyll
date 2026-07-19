@@ -119,7 +119,7 @@ Fern seagrass is found only in South China Sea region including the coasts of no
 This beautiful seagrass has tiny leaves that grow in opposite pairs on a long thin stem, forming a flat fern-like overall shape. 10-20 pairs of leaves may form on the stem, new leaves growing from the tip while older leaves at the bottom drop off. Each leaf is about 2cm long and 0.4cm wide, with tiny serrations on the edges and a small one-sided fold at the base. (Some books refer to these leaves as leaflets). The entire stem is about 4-6cm long. Its rhizomes (underground stems) are thin, sometimes woody.
 
 **Sometimes confused with**
-[feathery seaweeds](../seaweed/chlorophytafi2)
+[feathery seaweeds](../../seaweed/chlorophytafi2)
 . Seaweeds are not true plants and have a different internal structure from all seagrasses.
 
 **Flowers and fruits:**

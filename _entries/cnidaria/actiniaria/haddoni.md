@@ -250,7 +250,7 @@ other carpet anemones and other large anemones. Here's more on how to tell apart
 and
 [large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians)
+[large 'hairy' cnidarians](../../cflargecnidarians)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Stinging carpet!**
@@ -269,7 +269,7 @@ Besides the symbiotic algae that lives inside the their tentacles several kinds 
 sp.), and fishes such as
 *Dascyllus trimaculatus*
 and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
+[anemonefishes](../../../vertebrates/fish/pomacentridae/amphiprion)
 (*Amphiprion*
 sp.) including
 *A. akindynos, A. clarkii, A. fuscocaudatus, A. polymnus, A. sebae, A. xanthurus.*
@@ -281,11 +281,11 @@ sp.),
 (*Periclimenes brevicarpalis*).
 
 Other animals have been observed taking shelter under these anemones, such as crabs and snapping shrimps.
-[Ball sea cucumbers](../../echinodermata/holothuroidea/phyllophorus)
+[Ball sea cucumbers](../../../echinodermata/holothuroidea/phyllophorus)
 are often found buried near carpet anemones. Also seen were
-[Kite butterflyfish](../../vertebrates/fish/chaetodontidae/ocellatus)
+[Kite butterflyfish](../../../vertebrates/fish/chaetodontidae/ocellatus)
 (*Parachaetodon ocellatus*) and
-[Chequered cardinalfish](../../vertebrates/fish/apogonidae/margaritophorus)
+[Chequered cardinalfish](../../../vertebrates/fish/apogonidae/margaritophorus)
 (*Apogon margaritophorus*) swimming near, but not touching, carpet anemones. Sometimes small groups of small Kite butterflyfishes are seen near carpet anemones.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Should I 'save' animals trapped in a carpet anemone?**
@@ -305,7 +305,7 @@ Carpet anemones probably usually stay in one spot. However, they can uproot them
 
 **Bleaching carpet anemones:**
 Carpet anemones do suffer from bleaching, turning pale or flourescent colours when the symbiotic algae leave them. This happens when they are stressed. Stresses include elevated seawater temperatures for an extended time (which causes
-[mass coral bleaching](../coralhard/coralhard)). As well as other extreme changes in water conditions due to pollution or other causes.
+[mass coral bleaching](../../coralhard/coralhard)). As well as other extreme changes in water conditions due to pollution or other causes.
 [In 2007](https://iyor08singapore.blogspot.com/2008/01/chek-jawa-death-and-life-in-2007.html)
 , there was mass bleaching of carpet anemones on Chek Jawa, believed to be due to prolonged and high rain fall upstream in the Johor River. The exreme and prolonged fall in salinity caused the carpet anemones to not only bleach but also balloon up and explode.
 

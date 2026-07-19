@@ -258,11 +258,11 @@ Our clown anemonefish (*Amphiprion ocellaris*) is sometimes called the False clo
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Home Sweet Anemone Home:**
 On our intertidal, the fish is often seen in
-[Giant carpet anemones](../../../cnidaria/actiniaria/gigantea)
+[Giant carpet anemones](../../../../cnidaria/actiniaria/gigantea)
 . It is also sometimes in
-[Magnificent anemones](../../../cnidaria/actiniaria/magnifica)
+[Magnificent anemones](../../../../cnidaria/actiniaria/magnifica)
 and
-[Merten's carpet anemones](../../../cnidaria/actiniaria/mertensii)
+[Merten's carpet anemones](../../../../cnidaria/actiniaria/mertensii)
 .
 
 The anemonefish may sometimes be seen stranded at low tide near its anemone home. It is probably best to leave it alone and NOT try to 'rescue' it by putting it in a pool of water far away from its anemone home. These fishes are adapted to surviving at low tide and it is best that they are are close as possible to their anemone home when the tide turns. As the water rushes in, so do predators which will quickly eat up a defenceless anemonefish far from its protective anemone.

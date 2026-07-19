@@ -71,7 +71,7 @@ Among our favourite fruits, the Chiku tree is often planted in gardens. Those se
 A small tree (to about 10m). Leaves oval with pointed tips (6-15cm long) arranged in a spiral at the branch tips. Flowers small, white with brownish or greyish woolly calyx. The fruit is oval or round (6-7cm). The sweet flesh is pinkish white to reddish brown and encloses about 10 black seeds. Bark light grey becoming shallowly fissured.
 
 The fruits are relished by bats. I've observed a steady stream of
-[Common fruit bat](../../../vertebrates/mammals/brachyotis)
+[Common fruit bat](../../../../vertebrates/mammals/brachyotis)
 (*Cynopterus brachyotis*) feasting on a fruiting Chiku tree. Each bat clings onto the fruit that is almost as large as itself, and gorges it.
 
 ## Human uses

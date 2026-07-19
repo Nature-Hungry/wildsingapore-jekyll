@@ -129,7 +129,7 @@ habitats:
 This large animal with a thin translucent shell is still commonly encountered on our Northern shores, and some of our Southern shores. Among seagrass meadows, lying loose on the ground.
 Elsewhere, abundant in muddy habitats such as quiet lagoons, protected bays and mangrove lagoons.
 Previously grouped with the
-[Family Anomiidae](../anomiidae/anomiidae)
+[Family Anomiidae](../../anomiidae/anomiidae)
 (Jingle shell clams), the Window-pane clam is now in Family Placunidae.
 
 ## Features
@@ -150,7 +150,7 @@ Like other bivalves, Window-pane clams are filter feeders. When submerged, the s
 
 **Living on a Window:**
 Hard surfaces are scarce in the habitat where the Window-pane clams live. So seaweeds and many animals have been seen growing on the shells of a living Window-pane clams: corals, ascidians, scallops. Pea crabs may also live inside the Window-pane clam. The living clam may be carried by a
-[sea urchin](../../../echinodermata/echinoidea/urchin/urchin)
+[sea urchin](../../../../echinodermata/echinoidea/urchin/urchin)
 as an umbrella, or as a shelter for all kinds of animals from tiny hermit crabs, to larger octopuses.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}## Human uses

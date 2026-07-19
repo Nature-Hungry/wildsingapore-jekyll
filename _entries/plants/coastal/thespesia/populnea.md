@@ -90,7 +90,7 @@ habitats:
 
 ## Where seen?
 Not as commonly seen as the
-[Sea hibiscus](../hibiscus/tiliaceus)
+[Sea hibiscus](../../hibiscus/tiliaceus)
 (*Hibiscus tiliceaus*), this similar looking plant is sometimes seen on our shores and near our mangroves. Elsewhere, it is found on beaches, sandy and rocky coasts as well as back mangroves. It has a wide distribution as the seeds can stay alive in seawater for many months.
 
 ## Features
@@ -106,7 +106,7 @@ The fruit is the primary means of dispersal, although the seeds may also float. 
 ## Human uses
 
 According to Burkill, thoughout much of the Pacific, the tree is considered sacred and planted near temples. He suggests this is because the tree was so important to sea-faring people. It is used interchangeably with the
-[Sea hibiscus](../hibiscus/tiliaceus)
+[Sea hibiscus](../../hibiscus/tiliaceus)
 (*Hibiscus tiliceaus*) for cordage. The timber is hard and Fiji natives praise it as being "almost indestructible underwater". In the Philippines it is prized for making musical instruments. According to Hugh Tan, oil is extracted from the seeds and gum from the bark, while an orange-yellow dye is extracted from the wood.
 
 *![](https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg)

@@ -133,11 +133,11 @@ sp.), broad zoanthids are generally found in smaller clusters with fewer individ
 
 **Sometimes confused**
 with
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 ,
-[ascidians](../../../ascidiacea/ascidiacea)
+[ascidians](../../../../ascidiacea/ascidiacea)
 and other blob-like animals. Here's more on
-[how to tell apart blob-like animals](../../../glossary/blobs)
+[how to tell apart blob-like animals](../../../../glossary/blobs)
 .
 
 **What does it eat?**

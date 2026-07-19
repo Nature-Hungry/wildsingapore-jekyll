@@ -219,7 +219,7 @@ To 12cm, those seen about 7cm. An irregular curved yellow or white line along th
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 **What does it eat?**
 It feeds on small creatures that live on the bottom such as
-[amphipods](..//wildfacts/guides/crustacea/crustacea/othercrust/amphipoda/amphipoda)
+[amphipods](../..//wildfacts/guides/crustacea/crustacea/othercrust/amphipoda/amphipoda)
 , worms and snails.
 
 **Species are difficult to positively identify without close examination.

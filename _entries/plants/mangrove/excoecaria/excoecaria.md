@@ -132,7 +132,7 @@ Flowers are tiny (less than 1mm). Trees bear either male or female flowers, neve
 The fruits are small (less than 1cm) three-lobed, green turning black as they ripen into dry capsules. Each capsule is made up of three portions, containing tiny dark to black seeds.
 
 The colourful
-[Mangrove shield bug](../../../insecta/calliphara)
+[Mangrove shield bug](../../../../insecta/calliphara)
 (*Calliphara nobilis*) feeds on the seeds of this tree and is often seen in large numbers when the tree is fruiting. It is the preferred local food plant for the caterpillars of the moths,
 *Achaea janatas*
 ,

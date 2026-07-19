@@ -165,9 +165,9 @@ Large ones have a deep cavity in the centre so they are generally vase- or barre
 barrel may be paler to white.
 
 The outside of the sponge is often covered with tiny beige
-[Spionid sponge worms](../worm/polychaeta/spionidae)
+[Spionid sponge worms](../../worm/polychaeta/spionidae)
 (Family Spionidae). Sometimes
-[synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge)
+[synaptid sea cucumbers](../../echinodermata/holothuroidea/synsponge)
 are also seen draped on the outside.
 
 It it not correct to refer to this sponge as the

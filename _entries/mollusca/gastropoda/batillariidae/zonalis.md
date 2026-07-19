@@ -133,10 +133,10 @@ large, flared with upturned spout at the tip
 Sometimes, they are seen in 'bands' of many individuals. Small ones have been seen floating on the water surface with the broad foot.
 
 **Sometimes mistaken for**
-[Creeper snails](../cerithiidae/cerithiidae)
+[Creeper snails](../../cerithiidae/cerithiidae)
 (Family Cerithiidae).
 More on
-[how to tell these snails apart](../certihpotamid)
+[how to tell these snails apart](../../certihpotamid)
 .
 
 **What does it eat?**

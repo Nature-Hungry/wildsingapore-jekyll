@@ -96,7 +96,7 @@ This large 'groovy' snail is commonly seen, usually in clustered together in lar
 means 'grooved'). Colour blackish to cream sometimes with white or yellowish spots. Shell opening wide, inner surface white sometimes with dark purple grooves. Operculum thin, horn-like material and dark coloured. Body pale, small foot with a pale underside dark mottled pattern above, long tentacles with dark bands.
 
 **Sometimes confused with**
-[Periwinkle snails](../littorinidae/littorinidae)
+[Periwinkle snails](../../littorinidae/littorinidae)
 which are found in similar habitats. But Periwinkles are much smaller, have thinner shells and don't have strong spiralling cords like the Planaxis snail.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Baby planaxis:**

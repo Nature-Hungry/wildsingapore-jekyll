@@ -112,7 +112,7 @@ This beautiful tree with pretty pink-eyed white flowers is rare. Even in the pas
 Tree up to 15-20m tall, but in Singapore usually shorter. Produces a white sap from all broken plant parts. Bark fissured, flaky, grey to brown with lenticels.
 
 Leaves oval (12-30cm long) dark green and glossy, held in dense spirals at the tips of the twigs. Leaves generally smaller than that of the more common
-[Yellow-eyed Pong pong tree](odollam)
+[Yellow-eyed Pong pong tree](../../odollam)
 (*Cerbera odollam*).
 
 Flowers (3-4.5cm) white with pink centre, first orange pink then reddish pink. The flowers appear at the tips of the twigs.
@@ -123,9 +123,7 @@ It is the caterpillar host-plant of the King Crow butterfly (*Euploea phaenareta
 
 ## Human uses
 
-See the fact sheets on
-*[Cerbera](cerbera)*
-[species in general](cerbera)
+See the fact sheets on [Cerbera species in general](../../cerbera)
 for more about their uses.
 
  

@@ -164,7 +164,7 @@ habitats:
 
 ## Where seen?
 This beautiful hard coral is rarely seen on our shores, and usually seen alone. The Cabbage coral is said to be found with other free-living corals like
-[mushroom corals](../fungiidae/fungiidae)
+[mushroom corals](../../fungiidae/fungiidae)
 (Family Fungidae) in muddy bottoms of protected lagoons, in seagrass beds, and sandy bottoms near the base of reefs. It used to be in the Family Trachyphylliidae.
 
 ## Features

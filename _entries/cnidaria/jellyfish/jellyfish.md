@@ -156,13 +156,13 @@ Almost everyone knows what a jellyfish looks like! These blobs of jelly are crea
 
 **What are jellyfish?**
 Despite their name, they are not fish and are more closely related to sea anemones and corals. They are
-[Cnidarians](../../cnidaria)
+[Cnidarians](../../../cnidaria)
 (Phylum Cnidaria).
 
 Jellyfish may belong to various groups within the Phylum Cnidaria. Many cnidarians undergo a life cycle in which they take a jellyfish-like form (the medusa) in one stage, and a stationary sea anemone-like form (the polyp) in another stage.
 
 Other cnidarians only take the form of a jellyfish in their life cycle and don't take on the stationary form. These include members of the Class Scyphozoa; Class Cubozoa (which includes the highly venomous box jellies);
-[Class Hydrozoa](../hydrozoa/hydrozoa)
+[Class Hydrozoa](../../hydrozoa/hydrozoa)
 (which includes the highly venomous Portuguese-Man-of-War in the Order Siphonophora which is a colony and not a solitary animal like other jellyfish). In Class Scyphozoa and Class Cubozoa, the jellyfish form is the dominant and most conspicuous form in the life cycle.
 
 ## Features

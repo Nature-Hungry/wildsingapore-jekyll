@@ -91,9 +91,9 @@ This hard corals with short crinkly branches is commonly seen on many of our Sou
 Colonies 15-30cm, overall rounded shapes, made up of short branches that are irregular, crinkled-looking. Some may have branches that are fat and angular, others flattened and more leaf-like. The tiny corallites don't stick much out of the surface and merely give the skeleton a granular texture which gives the common name. When the polyp is retracted, the tiny holes of the corallite look like tiny petals of a flower. Polyps tiny (0.2cm) with short pointy tentacles. With the tentacles extended, the colony has a furry look. Colours seen include pale blue, green and brown.
 
 Among the branches can be seen tiny shrimps,
-[tiny clams](../../../mollusca/bivalvia/pectinidae/coral)
+[tiny clams](../../../../mollusca/bivalvia/pectinidae/coral)
 and sometimes,
-[fan worms](../../../worm/polychaeta/sabellidae)
+[fan worms](../../../../worm/polychaeta/sabellidae)
 .
 
 **

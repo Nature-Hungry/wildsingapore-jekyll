@@ -128,9 +128,9 @@ This small flatworm is sometimes seen on our Southern shores, on coral rubble ne
 
 **What does it eat?**
 It has been seen on colonial
-[ascidians](../../ascidiacea/ascidiacea)
+[ascidians](../../../ascidiacea/ascidiacea)
 , including the
-[pink ascidian](../../ascidiacea/pink)
+[pink ascidian](../../../ascidiacea/pink)
 .
 
 **Sometimes mistaken for**

@@ -108,9 +108,9 @@ Like a blue race-car with a colourful line along the side, this stunning flatwor
 
 **What does it eat?**
 It eats colonial
-[ascidians](../../ascidiacea/ascidiacea)
+[ascidians](../../../ascidiacea/ascidiacea)
 , possibly the
-[pink ascidian](../../ascidiacea/pink)
+[pink ascidian](../../../ascidiacea/pink)
 . It may have a more generalised diet, preying on a variety of ascidians.
 
 **Sometimes mistaken for**

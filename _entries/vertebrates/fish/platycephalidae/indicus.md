@@ -122,7 +122,7 @@ These rather large flatheads are sometimes seen on some of our shores on muddy a
 
 **Sometimes mistaken**
 for other flattened fishes that live on the sea bottom. Here's more on
-[how to tell apart fishes with flat heads](../cfflatheads)
+[how to tell apart fishes with flat heads](../../cfflatheads)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -128,13 +128,13 @@ which are also small, but black and while they may also produce a kind of 'nest'
 Sometimes, small
 [Green mussels](viridis)
 (*Perna viridis*) are seen growing among the tinier nest mussels. Animals seen on the mussels include
-[Drills](../../gastropoda/muricidae/muricidae)
+[Drills](../../../gastropoda/muricidae/muricidae)
 ,
-[Sand stars](../../../echinodermata/asteroidea/astropecten)
+[Sand stars](../../../../echinodermata/asteroidea/astropecten)
 ,
-[flatworms](../../../worm/polycladida/polycladida)
+[flatworms](../../../../worm/polycladida/polycladida)
 : possibly eating them? Several times,
-[Hairy spoon seagrass](../../../plants/seagrass/decipiens)
+[Hairy spoon seagrass](../../../../plants/seagrass/decipiens)
 were seen growing on nest mussel beds.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses

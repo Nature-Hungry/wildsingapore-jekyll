@@ -114,7 +114,7 @@ Flowers small (2cm) in a cluster (20-40cm long), scented, showy bright yellow wi
 The fruits (4-7cm long) are flat smooth pods (not prickly) with a beak which contain a large black seed. Green ripening to black.
 
 **Sometimes mistaken for**
-[Maiden's jealousy](../tristellateia/australasiae)
+[Maiden's jealousy](../../tristellateia/australasiae)
 (*Tristellateia australasiae*) especially when in bloom.
 
 ## Human uses

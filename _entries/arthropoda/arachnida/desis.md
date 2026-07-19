@@ -166,7 +166,7 @@ This energetic little spider is commonly seen on many of our shores at low tide:
 Body to about 1cm long. Its head and huge jaws are smooth maroon, body and legs are furry, greyish sometimes with a pink tinge. At high tide, it hides in air pockets among crevices of submerged rocks, waterproofing these with a mat of silk. It emerges at low tide to hunt. It can 'walk' on water, scuttling rapidly over the water. Hairy feet and long legs, which distribute its weight, prevents it from breaking the water surface tension.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
-These spiders have been seen clutching in their jaws all kinds of animals including [shore crickets](../insecta/cricketshore), [sea slaters](../crustacea/othercrust/isopoda/ligia) and little shrimps.
+These spiders have been seen clutching in their jaws all kinds of animals including [shore crickets](../../insecta/cricketshore), [sea slaters](../../crustacea/othercrust/isopoda/ligia) and little shrimps.
 
 **Baby spiders:**
 Egg cocoons are placed in waterproofed tubes sealed with silk.

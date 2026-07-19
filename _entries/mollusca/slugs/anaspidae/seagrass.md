@@ -89,7 +89,7 @@ habitats:
 
 ## Where seen?
 This tiny slug is sometimes seen in numbers on
-[Tape seagrass](../../../plants/seagrass/enhalus)
+[Tape seagrass](../../../../plants/seagrass/enhalus)
 on our Southern shores.
 
 ## Features

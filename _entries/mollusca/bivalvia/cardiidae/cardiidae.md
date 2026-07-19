@@ -113,7 +113,7 @@ These animals usually burrow shallowly in sandy to muddy bottoms.
 
 **What are true cockles?**
 True cockles belong to Family Cardiidae. There about 200 species of true cockles. These include the magnificent
-[Giant clams](../tridacnidae/tridacnidae)
+[Giant clams](../../tridacnidae/tridacnidae)
 in subfamily Tridacninae.
 
 ## Features
@@ -199,7 +199,7 @@ Vepricardium multispinosum
 Vepricardium sinense*
 
 **^
-[Subfamily Tridacninae](../tridacnidae/tridacnidae)**
+[Subfamily Tridacninae](../../tridacnidae/tridacnidae)**
 (Giant clams) including species recorded for Singapore.
 
 ---

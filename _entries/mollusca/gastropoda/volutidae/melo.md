@@ -176,7 +176,7 @@ is rather thin and quite fragile for such a large snail
 This predator and hunts other snails, moving about on the surface. Like other volutes, it uses its large foot to enclose the prey. So far, we have seen them eating
 [Noble volutes](nobilis)
 and also
-[Gong-gong snail](../strombidae/canarium)
+[Gong-gong snail](../../strombidae/canarium)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Volute babies:**

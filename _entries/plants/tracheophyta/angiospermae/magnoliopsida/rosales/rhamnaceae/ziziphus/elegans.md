@@ -12,24 +12,34 @@ family: Rhamnaceae
 tribe: Paliureae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07160 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07163 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07161 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07160
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07163
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07161
+      (13).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07162 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07170 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07168 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07162
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07170
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07168
+      (13).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07175 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07176 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07175
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07176
+      (13).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07160 (13).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rhamnaceae\ziziphus\elegans/DSC07160
+  (13).jpg
 updated: July 2024
+rdb: CR
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

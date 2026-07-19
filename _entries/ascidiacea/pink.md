@@ -87,7 +87,7 @@ Clusters of a few irregular blobs about 1-2cm long usually bright pink. Sometime
 
 In Serina Lee's article, the photo of *Eudistoma laysani* closely resembles these animals.
 
-The [Racing-stripe flatworm](../worm/polycladida/bifurcus) (*Pseudoceros bifurcus*) and other flatworms have been seen on top of it. Possibly eating the ascidians.
+The [Racing-stripe flatworm](../../worm/polycladida/bifurcus) (*Pseudoceros bifurcus*) and other flatworms have been seen on top of it. Possibly eating the ascidians.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 *Species are difficult to positively identify without dissection and examination of internal parts. On this website, they are grouped by external features for convenience of display.*

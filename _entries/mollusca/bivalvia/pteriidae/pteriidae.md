@@ -104,7 +104,7 @@ permalink: /entries/Mollusca/Bivalvia/Ostreida/Pteriidae
 
 ## Where seen?
 These strangely shaped clams grow attached to other animals like
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
+[sea fans](../../../../cnidaria/others/gorgonacea/gorgonacea)
 and sponges, as well as mangrove trees.
 
 **What are winged oysters?**

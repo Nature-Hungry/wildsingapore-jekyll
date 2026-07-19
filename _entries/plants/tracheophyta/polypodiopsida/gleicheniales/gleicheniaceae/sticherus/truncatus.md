@@ -11,21 +11,29 @@ order: Gleicheniales
 family: Gleicheniaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05513 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05503 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05509 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05513
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05503
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05509
+      (11).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05510 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC09190 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05501 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05510
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC09190
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05501
+      (11).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05513 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\gleicheniales\gleicheniaceae\sticherus\truncatus/DSC05513
+  (11).jpg
 updated: July 2024
+rdb: VU
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

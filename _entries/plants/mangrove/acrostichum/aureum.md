@@ -104,7 +104,7 @@ habitats:
 
 ## Where seen?
 This humungous fern is often seen in back mangroves, flourishing on
-[mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
+[mud lobster mounds](../..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 and other higher ground along the coasts including reclaimed land. According to Giersen, it does not tolerate as much inundation by seawater as
 [Piai lasu](speciosum)
 (*A. speciosum*), and prefers bright, sunny areas. In cleared mangroves, this fern can dominate and thus considered a nuisance plant.

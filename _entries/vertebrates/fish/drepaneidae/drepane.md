@@ -83,7 +83,7 @@ Adults usually 25cm, to 45cm long. Flat rhomboid body silvery. Juvenile brown wi
 
 **Sometimes confused:**
 Juveniles may be mistaken for
-[Brown sweetlips](../haemulidae/gibbosus)
+[Brown sweetlips](../../haemulidae/gibbosus)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

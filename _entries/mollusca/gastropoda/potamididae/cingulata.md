@@ -101,7 +101,7 @@ This small snail is sometimes seen in large numbers in shallow sheltered places 
 2-3cm. Shell conical with spirals of large beads. Shell opening large and flared with a spout-like tip. Operculum thin, dark with tight spirals.
 
 **Sometimes confused with**
-[Bazillion snails](../batillariidae/zonalis)
+[Bazillion snails](../../batillariidae/zonalis)
 which does not have flared shell opening and spout-like tip.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

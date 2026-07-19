@@ -122,7 +122,7 @@ To 35cm. Highly elongated fish with a long body flattened sideways, and a long l
 
 **Sometimes mistaken for**
 other fishes that resemble sticks. Here's more on
-[how to tell apart stick-like fishes](../cfstick)
+[how to tell apart stick-like fishes](../../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

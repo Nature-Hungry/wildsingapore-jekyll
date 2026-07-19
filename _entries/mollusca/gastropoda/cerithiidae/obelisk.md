@@ -128,7 +128,7 @@ This large creeper snail with an elegant shell is commonly seen on our Southern 
 3-7cm long. Shell conical with a pattern of white spiralling large notched bumps with fine ridges of dashed dots in between. Shell opening large with flared lip and upturned spout at tip. Operculum made out of a horn-like material, whorls not easily seen. Animal with mottled body.
 
 They are preyed upon by other snails such as
-[Drills](../muricidae/muricidae)
+[Drills](../../muricidae/muricidae)
 as well as by crabs.
 
 ## Human uses

@@ -227,7 +227,7 @@ Long tentacles (5-8cm) densely cover the oral disk. The tentacles are finger-lik
 other large sea anemones and similar large cnidarians. Here's more on how to tell apart
 [large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians)
+[large 'hairy' cnidarians](../../cflargecnidarians)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
@@ -241,10 +241,10 @@ nemone shrimps like the
 fishes such as
 *Dascyllus trimaculatus*
 and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
+[anemonefishes](../../../vertebrates/fish/pomacentridae/amphiprion)
 including
 *A. akallopisos, A. bicinctus, A. clarkii, A. nigripes,
-[A. ocellaris](../../vertebrates/fish/pomacentridae/ocellaris)*
+[A. ocellaris](../../../vertebrates/fish/pomacentridae/ocellaris)*
 (Clown anemonefish)
 *, A. percula, A. perideraion, A. xanthurus.*
 

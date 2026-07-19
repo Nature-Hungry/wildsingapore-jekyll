@@ -187,7 +187,7 @@ Epinephelus urodelus=**Cephalopholis urodeta*
 
 ****now in Family Centrogenyidae (False scorpionfishes)**
 
-*[Centrogenys vaigiensis](../centrogenyidae/vaigiensis)*
+*[Centrogenys vaigiensis](../../centrogenyidae/vaigiensis)*
 (False scorpionfish)
 
 ---

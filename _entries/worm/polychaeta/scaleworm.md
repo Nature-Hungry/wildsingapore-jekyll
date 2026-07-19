@@ -137,7 +137,7 @@ About 1cm long. The worm is flat and broad with lots of short hairy bristles alo
 
 **Sometimes mistaken for**
 a
-[chiton](../../mollusca/polyplacophora/chiton)
+[chiton](../../../mollusca/polyplacophora/chiton)
 , which is a mollusc with overlapping scales but lack the tentacles at the head and bristles along the side of the body.
 
 **What does it eat?**

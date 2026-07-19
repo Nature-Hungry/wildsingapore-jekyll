@@ -147,7 +147,7 @@ the
 
 **What does it eat?**
 It is eats
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 .
 
 ---

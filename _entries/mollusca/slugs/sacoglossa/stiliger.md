@@ -122,7 +122,7 @@ zone:
 
 ## Where seen?
 This tiny slug is sometimes seen on
-[Caulerpa green seaweed](../../../plants/seaweed/chlorophyta/caulerpa)
+[Caulerpa green seaweed](../../../../plants/seaweed/chlorophyta/caulerpa)
 (*Caulerpa*
 sp.).
 

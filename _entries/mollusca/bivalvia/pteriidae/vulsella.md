@@ -47,7 +47,7 @@ zone:
 
 ## Where seen?
 This clam is deeply embedded in a sponge, with only the shell opening appearing as a slit on the surface of the sponge. It was previously in
-[Family Malleidae](../malleidae/malleidae)
+[Family Malleidae](../../malleidae/malleidae)
 (Hammer oysters).
 
 ## Features

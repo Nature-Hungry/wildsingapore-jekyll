@@ -4,8 +4,8 @@ description: Fact sheet of Pong pong tree on the shores of Singapore
 keywords: pong, cerbera, odollam, manghas, apocynaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Apocynaceae
-genus: ''
-species: Cerbera
+genus: 'Cerbera'
+species: ''
 attributes: []
 inat_id: 47362
 stateofmatter: Life
@@ -51,11 +51,14 @@ links_references: '### Links
 
   - Wee Yeow Chin. 1992.*[A Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre. 160pp.'
 galleries:
+
   gallery1:
+  - url: "https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090711sjid7241m3.jpg"
+    caption: "Planted in a park. \n *Changi, Apr 09"
   - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg
     caption: Sisters Island, Aug 09 Changi, Apr 09
-  - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/091115ubnd4199m6l.jpg
-    caption: Fruit germinating on the high shore. Pulau Ubin, Nov 09
+  
+  
   gallery2:
   - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg
     caption: Yellow-eyed pong pong tree ( Cerbera odollam )
@@ -70,16 +73,20 @@ galleries:
     caption: Flower with pink eye.
   - url: https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090726smkf2939m3a.jpg
     caption: Fruits oblong, mango-shaped. Often paired.
+  gallery4:
+    - url: "https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg"
+      caption: "Growing wild. \n *Pulau Semakau, Jan 09*"
+    - url: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/091115ubnd4199m6l.jpg
+      caption: Fruit germinating on the high shore. Pulau Ubin, Nov 09
 size:
 - 1500.0
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
-permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Gentianales/Apocynaceae
 ---
 
-**
+
 ## Where seen?
 The Yellow-eyed pong pong tree is a commonly planted tree in our parks and roadsides and is also sometimes seen growing wild on our shores. But the beautiful Pink-eyed pong pong tree is rare and only sometimes seen on our shores and coastal forests.
 
@@ -104,23 +111,18 @@ is listed as 'Vulnerable' while
 *Cerbera manghas*
 is listed as 'Critically Endangered' on the Red List of threatened plants of Singapore.
 
-![](https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg)
 
-Growing wild.
-*Pulau Semakau, Jan 09
 
-![](https://images.naturehungry.sg/plants/coastal/cerbera/manghas/090711sjid7241m3.jpg)*
-Planted in a park.
-**Changi, Apr 09**
+
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
-
-****Pong pong trees on Singapore shores****
-
+## Pong pong trees on Singapore shores
 ---
-{% include img-wrap-group.html items=page.galleries.gallery2 %}
+[Yellow-eyed pong pong](../../odollam)
+{% include img-grid.html items=page.galleries.gallery2 %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery3 %}
+[Pink-eyed pong pong](../../manghas)
+{% include img-grid.html items=page.galleries.gallery3 %}
 ---
-{% include img-wrap-group.html items=page.galleries.gallery4 %}

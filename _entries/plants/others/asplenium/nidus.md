@@ -54,7 +54,7 @@ The frond is fresh green, a broad and very long ribbon (50-150cm) with slightly 
 
 ## Role in habitat
 The fern is such a rich source of water and nutrients, that often, other ferns and plants may grow on it. Sometimes,
-[small bats](../../../vertebrates/mammals/brachyotis)
+[small bats](../../../../vertebrates/mammals/brachyotis)
 may roost under the fern, chewing off some of the inner portions of the 'skirt' of dead leaves to create a cosy 'umbrella' for themselves. The Spotted Wood owl may also nest in this fern.
 
 ## Human uses

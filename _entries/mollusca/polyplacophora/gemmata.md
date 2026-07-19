@@ -111,7 +111,7 @@ It has been seen on natural rocky shores on our Southern shores. Many were also 
 
 Up to 12cm long, the oval flattened body is covered with 8 overlapping plates along the centre. A thick, stiff mantle forms a girdle around the plates to the body edges. The girdle is covered with bristles.
 
-**Sometimes mistaken for** a [scale worm](../../worm/polychaeta/scaleworm) which is a polychaete worm that also has overlapping scales but has well developed tentacles and rows of bristles along the sides of the body.
+**Sometimes mistaken for** a [scale worm](../../../worm/polychaeta/scaleworm) which is a polychaete worm that also has overlapping scales but has well developed tentacles and rows of bristles along the sides of the body.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -14,11 +14,15 @@ tribe: Zoysieae
 subtribe: Zoysiinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280141 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280143 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280138 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280141
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280143
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280138
+      (24).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280140 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280140
+      (24).jpg
 title: Carpet Grass
 other_names:
 - Manila Grass
@@ -27,8 +31,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280141 (24).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\zoysia\matrella/P7280141
+  (24).jpg
 updated: July 2024
+rdb: Lc
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

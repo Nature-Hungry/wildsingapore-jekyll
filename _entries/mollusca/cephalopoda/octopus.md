@@ -233,9 +233,9 @@ Most people are surprised to hear that octopuses are quite commonly encountered 
 
 **What are octopuses?**
 Octopuses are
-[molluscs](../mollusca)
+[molluscs](../../mollusca)
 (Phylum Mollusca) like snails, slugs and clams; and
-[cephalopods](../cephalopoda)
+[cephalopods](../../cephalopoda)
 (Class Cephalopoda) which include
 [squids and cuttlefish](squid)
 . The correct plural term for octopus is octopuses and not octopi ([more here](http://grammarist.com/usage/octopi-octopuses/)).

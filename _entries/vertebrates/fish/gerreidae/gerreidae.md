@@ -179,10 +179,10 @@ The Common mojarra is the most commonly seen of the family on the intertidal.
 Those seen about 5-10cm, can grow to 25cm. Body slender, long and silvery. Head with scales but with a smooth upper surface. The tail fin is deeply forked. Dorsal fin single with long and blackish tip and not deeply notched. Juveniles have 7-8 dusky diagonal bars which disappear as they grow older.
 
 **Sometimes confused with**
-[Perchlets](../ambassidae/kopsii)
+[Perchlets](../../ambassidae/kopsii)
 that have a deeply notched dorsal fin, that Mojarras lack.
 More on
-[how to tell apart small silvery fishes](../cfsilvery)
+[how to tell apart small silvery fishes](../../cfsilvery)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

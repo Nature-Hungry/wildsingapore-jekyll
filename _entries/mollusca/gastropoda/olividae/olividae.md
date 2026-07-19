@@ -129,11 +129,11 @@ These bullet-shaped snails are sometimes seen on the silty sandy shores near sea
 ## Features
 
 2-5cm. Shell cylindrical and looks like an olive. The shell opening is narrow and many members of this family do not have an operculum. Like a
-[cowrie](../cypraeidae/cypraeidae)
+[cowrie](../../cypraeidae/cypraeidae)
 , the living olive snail envelopes its shell in its mantle. This is why the shell is so glossy. Most are burrowers that live in the sand. Relying mostly on the sense of smell to find their prey, their eyes are greatly reduced or absent. Olive snails are notoriously variable in colour, even within the same species.
 
 **Sometimes confused with**
-[Cone snails](../conidae/conidae)
+[Cone snails](../../conidae/conidae)
 (Family Conidae) which can be
 **DEADLY**
 and

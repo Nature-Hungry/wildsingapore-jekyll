@@ -13,21 +13,29 @@ subfamily: Cyperoideae
 tribe: Cypereae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC06604 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC07614 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC06606 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC06604
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC07614
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC06606
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC06303 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC07613 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC07617 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC06303
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC07613
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC07617
+      (15).jpg
 title: Shortleaf Spikesedge
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC06604 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\cyperaceae\cyperus\brevifolius/DSC06604
+  (10).jpg
 updated: July 2024
+rdb: VU
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

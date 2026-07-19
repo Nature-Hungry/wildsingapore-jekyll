@@ -99,7 +99,7 @@ habitats:
 
 ## Where seen?
 The more delicate and elegant of our mangrove ferns, it is often seen in back mangroves, flourishing on
-[mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
+[mud lobster mounds](../..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 and other higher ground, usually in the shade. Compared to
 [Piai raya](aureum)
 (*A. aureum*), it is found in areas more frequently inundated by tides.

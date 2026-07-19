@@ -146,7 +146,7 @@ has a few but large low rounded bumps (called tubercles).
 has many large rounded turbercles.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Sometimes mistaken for**
-[onch slugs](../onchidiidae/onchidiidae)
+[onch slugs](../../onchidiidae/onchidiidae)
 (Family Onchididae). Onchs don't have feathery gills on their backs and are much flatter than this nudibranch.
 
 **What do they eat?**

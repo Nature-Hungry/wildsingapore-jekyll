@@ -115,7 +115,7 @@ This beautiful snail is sometimes seen on Cyrene and Changi, on sandy areas.
 
 **What does it eat?**
 According to Gosliner, it presumably feeds on heart urchins including the
-[Tiny maretia heart urchin](../../../echinodermata/echinoidea/hearturchin/planulata)
+[Tiny maretia heart urchin](../../../../echinodermata/echinoidea/hearturchin/planulata)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

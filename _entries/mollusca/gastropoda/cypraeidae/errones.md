@@ -164,9 +164,9 @@ the
 .
 
 When the shell is completely covered in its mantle, it is sometimes mistaken for a
-[sea slug](../../slug)
+[sea slug](../../../slug)
 . Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
+[how to tell apart slugs and animals that look like slugs](../../../../glossary/flatwormslug)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Leave cowries alone:**

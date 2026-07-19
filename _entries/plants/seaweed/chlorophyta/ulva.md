@@ -202,12 +202,12 @@ Transparent blade: reproducing?
 
 *![](https://images.naturehungry.sg/echinodermata/echinoidea/urchin/temnopleurus/080703chgd6690m3.jpg)*
 Tiny
-[black sea urchin](../../../echinodermata/echinoidea/urchin/temnopleurus)
+[black sea urchin](../../../../echinodermata/echinoidea/urchin/temnopleurus)
 in sea lettuce.
 *Changi, Jul 08
 
 ![](https://images.naturehungry.sg/vertebrates/fish/syngnathidae/seagrass/050426cftg5087m3d.jpg)*
-[Pipefish](../../../vertebrates/fish/syngnathidae/seagrass)
+[Pipefish](../../../../vertebrates/fish/syngnathidae/seagrass)
 camouflaged on sea lettuce.
 *Changi, Apr 05*
 

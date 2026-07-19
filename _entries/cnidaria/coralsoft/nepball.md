@@ -108,15 +108,15 @@ This spherical soft coral is seen on our Northern shores. On coral rubble.
 Out of water, the colony spherical about 6-10cm in diameter. When submerged, may appear tubular or cylindrical. The colony has a fat central 'trunk' with many short branches. Polyps only found at these branch tips forming umbrella shaped clusters, which overall forms a spherical shape. Polyps tiny (0.5cm or smaller) with eight white branched tentacle, often surrounded by clusters with tiny spikes. The common tissue white or transparent, with white sclerites (tiny bits of calcium) embedded in the tissues. May be pink or orange near the polyp clusters.
 **Flowery friends:**
 Small animals seen in this soft coral include
-[false cowries](../../mollusca/gastropoda/ovulidae/softcoral)
+[false cowries](../../../mollusca/gastropoda/ovulidae/softcoral)
 , tiny shrimps,
 [white soft coral snapping shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alphballsoft)
 ,
 [porcelain crabs](/wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/commensal)
 and
-[tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
+[tiny colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 and large
-[Ghost brittle stars](../../echinodermata/ophiuroidea/white)
+[Ghost brittle stars](../../../echinodermata/ophiuroidea/white)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

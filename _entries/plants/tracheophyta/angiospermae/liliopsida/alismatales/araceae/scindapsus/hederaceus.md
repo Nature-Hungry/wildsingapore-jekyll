@@ -13,24 +13,34 @@ subfamily: Monsteroideae
 tribe: Monstereae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150409 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150410 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150411 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150409
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150410
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150411
+      (24).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150412 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150413 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/DSC08144 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150412
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150413
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/DSC08144
+      (08).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/DSC02022 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/DSC02024 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/DSC02022
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/DSC02024
+      (09).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150409 (24).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\scindapsus\hederaceus/P8150409
+  (24).jpg
 updated: July 2024
+rdb: Lc
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

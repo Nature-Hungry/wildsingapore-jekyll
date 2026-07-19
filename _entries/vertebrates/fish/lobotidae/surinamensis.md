@@ -112,7 +112,7 @@ This fish floats on its side with its head down, so it resembles a drifting leaf
 
 **May be mistaken for**
 the
-[Brown sweetlips](../haemulidae/gibbosus)
+[Brown sweetlips](../../haemulidae/gibbosus)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

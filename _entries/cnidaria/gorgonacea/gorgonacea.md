@@ -80,7 +80,7 @@ Most people are surprised to learn that sea fans are still quite commonly seen o
 
 **What are gorgonians?**
 These beautiful delicate creatures are often mistaken for plants. Gorgonians belong to
-[Phylum Cnidaria](../../cnidaria)
+[Phylum Cnidaria](../../../cnidaria)
 which includes the more familiar sea anemones, hard corals and jellyfishes. Gorgonians are members of the soft coral group (Subclass Alcyonaria/Octocorallia). There are about 18 families of gorgonians.
 
 ## Features
@@ -110,12 +110,12 @@ Gorgonians sometimes also reproduce by budding off new polyps to enlarge the col
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Role in habitat
 All kinds of small animals live on gorgonians including tunicates, barnacles,
-[clams](../../../mollusca/bivalvia/pteriidae/seafan)
+[clams](../../../../mollusca/bivalvia/pteriidae/seafan)
 , snails (such as the
-[ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae)), tiny shrimps,
-[brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
+[ovulids](../../../../mollusca/gastropoda/ovulidae/ovulidae)), tiny shrimps,
+[brittle stars](../../../../echinodermata/ophiuroidea/tinycolourful)
 and gobies.
-[Hermit crabs](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/banded)
+[Hermit crabs](../..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/banded)
 have also been seen clinging to sea fans. Some of these small animals prey on the sea fan. These animals usually take on the shape and colour of their host. Squids may also lay their eggs on sea fans.
 
 ## Human uses
@@ -162,7 +162,7 @@ Groups from Fabricius, Katharina and Philip Alderslade, 2001.
 **Family Briareidae**
 
 [*Briareum*
-sp.](../../coralsoft/feafine)
+sp.](../../../coralsoft/feafine)
 (Fine feathery soft corals)
 
 *Briareum excavatum*

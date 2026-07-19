@@ -117,11 +117,11 @@ Soft corals are commonly seen on many of our shores. Some resemble flowery bushe
 
 **What are soft corals?**
 Soft corals belong to
-[Phylum Cnidaria](../cnidaria)
+[Phylum Cnidaria](../../cnidaria)
 which includes the more familiar sea anemones, hard corals and jellyfishes. Soft corals are members of the Subclass Alcyonaria/ Octocorallia that includes
-[gorgonians](../others/gorgonacea/gorgonacea)
+[gorgonians](../../others/gorgonacea/gorgonacea)
 and
-[sea pens](../others/pennatulacea/pennatulacea)
+[sea pens](../../others/pennatulacea/pennatulacea)
 .
 
 Within this Subclass, the Order Alcyonacea includes
@@ -139,9 +139,9 @@ Soft coral polyps have 8 (or multiple of 8) tentacles that are pinnate (branched
 have two kinds of polyps: Autozooids have long stalks with eight branched tentacles and emerge from the shared leathery tissue. Siphonozooids may be much shorter polyps or don't even emerge from the shared tissue and function as water pumps for the colony.
 
 **Sometimes mistaken for**
-[sea anemones](../actiniaria/actiniaria)
+[sea anemones](../../actiniaria/actiniaria)
 . Some large sea anemones and large leathery and flowery soft corals may be mistaken for one another. Here's more on
-[how to tell apart large 'hairy' disk-like animals](../cflargecnidarians)
+[how to tell apart large 'hairy' disk-like animals](../../cflargecnidarians)
 on the shore.
 
 **Soft support:**
@@ -237,7 +237,7 @@ sp.
 ? (Fine feathery soft corals)
 
 Some
-[Gorgonians](../others/gorgonacea/gorgonacea)
+[Gorgonians](../../others/gorgonacea/gorgonacea)
 are included in this group
 
 ---
@@ -245,7 +245,7 @@ are included in this group
 **Threatened soft corals of Singapore**
 
 see list of
-[threatened cnidarians](../cnidaria)
+[threatened cnidarians](../../cnidaria)
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery8 %}

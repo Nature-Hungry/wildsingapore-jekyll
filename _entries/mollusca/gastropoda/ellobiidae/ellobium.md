@@ -101,7 +101,7 @@ habitats:
 
 ## Where seen?
 This large snail is sometimes seen in our back mangroves. Sometimes, their empty shells are washed ashore on beaches near mangroves. It breathes air (instead of through gills like most other marine snails). Elsewhere, they are also found in
-[Nipah palm](../../../plants/mangrove/nypa/nypa)
+[Nipah palm](../../../../plants/mangrove/nypa/nypa)
 groves.
 
 ## Features

@@ -211,7 +211,7 @@ Often mistaken for leafy seaweed, this slug is seen on all our shores. However, 
 
 **What does it eat?**
 This slug is believed to eat the
-[Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis)
+[Hairy green seaweed](../../../../plants/seaweed/chlorophyta/bryopsis)
 (*Bryopsis*
 sp.) Indeed, leaf slugs are commonly seen there is a bloom of this green feathery seaweed on the shores. See details in the
 [Family Elysiidae](elysiidae)

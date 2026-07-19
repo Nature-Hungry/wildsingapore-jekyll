@@ -117,11 +117,11 @@ This rather chubby ray with a stumpy tail was seen on Changi several times, amon
 
 **What are electric rays?**
 Electric rays are
-[rays](../dasyatidae/rajiformes)
+[rays](../../dasyatidae/rajiformes)
 belonging to Order Torpediniformes. Some scientists group these fishes in the Family Narcinidae which according to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=503)
 has 9 genera and 24 species. They are found in the Atlantic, Indian and Pacific Oceans. Numbfishes are different from
-[stingrays](../dasyatidae/dasyatidae)
+[stingrays](../../dasyatidae/dasyatidae)
 that belong to the Family Dasyatidae.
 
 ## Features

@@ -108,9 +108,9 @@ Among the longest sea cucumbers is a synaptid,
 which can reach up to 3m long!
 
 **Sometimes mistaken for**
-[worms](../../worm/worm)
+[worms](../../../worm/worm)
 . Here's more on
-[how to tell apart worm-like animals](../../glossary/wormy)
+[how to tell apart worm-like animals](../../../glossary/wormy)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

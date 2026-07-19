@@ -63,7 +63,7 @@ This elegant colony of tiny animals is sometimes seen on our Northern shores, bu
 ## Features
 
 Each 'frond' 10-15cm long with regularly spaced branches that form a large elegant fern-like shape. Usually bright orange, but sometimes covered with encrusting organisms. This hydroid is eaten by the
-[Cuthona nudibranch](../../../mollusca/slugs/nudibranchia/sibogae)
+[Cuthona nudibranch](../../../../mollusca/slugs/nudibranchia/sibogae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

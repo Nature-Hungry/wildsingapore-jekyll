@@ -103,9 +103,9 @@ This small synaptid sea cucumber is commonly seen in groups on all kinds of spon
 5-8cm long, can stretch out 15cm. Body cylindrical, thin skinned. Some are smooth, others with bumps in four rows along the body. Colours uniformly white, pink, purple (ranging from lilac to mauve and deep purple). Some with darker stripes made up of tiny dashes. Feeding tentacles short and feathery, often also with stripes.
 
 **Sometimes mistaken for**
-[worms](../../worm/worm)
+[worms](../../../worm/worm)
 . Here's more on
-[how to tell apart worm-like animals](../../glossary/wormy)
+[how to tell apart worm-like animals](../../../glossary/wormy)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

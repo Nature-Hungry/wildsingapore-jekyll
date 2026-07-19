@@ -95,9 +95,9 @@ This spotted snake-like fish is sometimes seen on our Northern shores, near reef
 To about 60cm. Body a cylinder flattened sideways, pinkish brown with large dark brown roundish blotches. No pelvic or pectoral fins. Dorsal and anal fins extend over the entire length of the long body and are continuous with the tail fin, resulting in the typical eel-like profile. Instead of scales, it has thick, smooth skin. Jaws large strong and filled with lots of sharp teeth. Eyes small. A pair of tubular nostrils at the tip of the snout, and small circular gill openings. It swims by undulating its muscular body in S-shapes, rather like a snake.
 
 **Sometimes mistaken for**
-[sea snakes](../../snakes/hydrophiidae/laticauda)
+[sea snakes](../../../snakes/hydrophiidae/laticauda)
 . Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

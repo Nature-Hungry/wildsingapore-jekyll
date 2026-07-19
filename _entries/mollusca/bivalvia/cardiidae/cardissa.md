@@ -155,7 +155,7 @@ This intriguing clam is sometimes seen on our Southern shores, near reefs. Somet
 **What does it eat?**
 Unlike most other bivalves, the heart cockle harbours symbiotic zooxanthellae (a kind of single-celled algae) in its body. The zooxanthellae produce food through photosynthesis which it shares with the clam. To maximise the productivity of its "farm", the upperside of its shell has translucent 'windows' to let sunlight through the shell.
 In this habit, it is similar to
-[Giant clams](../tridacnidae/tridacnidae)
+[Giant clams](../../tridacnidae/tridacnidae)
 . It also filter feeds - when submerged, it opens the valves on the underside slightly and sucks in water to filter out edible bits.
 
 ## Human uses

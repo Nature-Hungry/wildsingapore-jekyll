@@ -155,9 +155,9 @@ These rotund little squids are sometimes seen on our Northern shores on sandy ar
 
 **What are bobtail and bottletail squids?**
 They are
-[molluscs](../mollusca)
+[molluscs](../../mollusca)
 (Phylum Mollusca) like snails, slugs and clams; and
-[cephalopods](../cephalopoda)
+[cephalopods](../../cephalopoda)
 (Class Cephalopoda) which include
 [octopuses](octopus)
 . They belong to the Suborder Sepiolida. Bobtail squids belong to the Family Sepiolidae while Bottletail squids belong to the Family Sepiadariidae.

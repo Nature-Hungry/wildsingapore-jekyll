@@ -88,7 +88,7 @@ habitats:
 
 ## Where seen?
 This snail is sometimes seen in sandy sheltered man-made lagoons on our Southern shores. Often, a pair or a handful are seen among the more numerous
-[Bazillion snails](../potamididae/zonalis)
+[Bazillion snails](../../potamididae/zonalis)
 . According to Abbott, it is uncommon. It is among the larger of the
 [pyramid snails](pyramidellidae)
 , which are mostly very tiny parasitic snails.

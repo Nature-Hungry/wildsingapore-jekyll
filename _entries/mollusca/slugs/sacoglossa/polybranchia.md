@@ -100,7 +100,7 @@ or
 
 **What does it eat?**
 Like other sap-sucking slugs, it eats seaweeds. It is believed that the colour of the animal varies with the colour of the seaweed that it last ate. Thus, they may be green, brown or red. They may be transparent if they haven't eaten much. On Cyrene Reef, several individuals were seen nestled in a large clump of
-*[Caulerpa racemosa](../../../plants/seaweed/chlorophyta/racemosa)*
+*[Caulerpa racemosa](../../../../plants/seaweed/chlorophyta/racemosa)*
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -196,9 +196,9 @@ species.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Leathery lunch:**
-[Spindle cowries](../../../mollusca/gastropoda/ovulidae/ovulidae)
+[Spindle cowries](../../../../mollusca/gastropoda/ovulidae/ovulidae)
 eat sea fans and one was seen on a Leathery sea fan.
-[Sea fan winged oysters](../../../mollusca/bivalvia/pteriidae/seafan)
+[Sea fan winged oysters](../../../../mollusca/bivalvia/pteriidae/seafan)
 also settle on the branches of sea fans..
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

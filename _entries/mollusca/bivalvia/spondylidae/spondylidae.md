@@ -85,7 +85,7 @@ permalink: /entries/Mollusca/Bivalvia/Pectinida/Spondylidae/Spondylinae/Spondylu
 
 ## Where seen?
 This rather large clam with spikes is sometimes seen near reefs, stuck to rocks or dead corals. It is not a true oyster, which belong to
-[Family Ostreidae](../ostreidae/osteridae)
+[Family Ostreidae](../../ostreidae/osteridae)
 .
 
 ## Features

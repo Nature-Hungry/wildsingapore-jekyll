@@ -235,7 +235,7 @@ Ring corals
 *amicorum**
 
 *[**Caulastrea**](caulastraea)*
-**[sp.](../merulinidae/caulastraea)
+**[sp.](../../merulinidae/caulastraea)
 (Trumpet corals)**
 with list of species recorded for Singapore.
 *[****](hydnophora)
@@ -246,7 +246,7 @@ with list of species recorded for Singapore.
 with list of species recorded for Singapore.
 *[****](hydnophora)*
 [***Echinopora***](echinopora)
-**[sp.](../merulinidae/echinopora)
+**[sp.](../../merulinidae/echinopora)
 (Hedgehog corals)**
 with list of species recorded for Singapore.
 *[****](hydnophora)

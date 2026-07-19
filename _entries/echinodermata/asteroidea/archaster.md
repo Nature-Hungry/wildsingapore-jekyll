@@ -238,7 +238,7 @@ Juveniles are found in prop roots of mangroves and gradually inhabits sandy shor
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}**Living on a star:**
 A tiny parastic snail (*Parvioris fulvescens*) is said to be sometimes found on the underside of the common sea star. Here's some of the parasitic
-[Ulimid snails](../../mollusca/gastropoda/eulimidae/eulimidae)
+[Ulimid snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
 (Family Eulimidae) seen on our Common sea stars.
 
 **Is our sea star special?**

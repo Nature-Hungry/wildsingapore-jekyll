@@ -134,7 +134,7 @@ This large, handsome whelk is usually seen prowling alone on sandy and muddy are
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Hitching on a whelk:**
 This whelk is sometimes seen with a large barnacle or two on the shell. Sometime also a tiny
-[sea anemone.](../../../cnidaria/actiniaria/snail)
+[sea anemone.](../../../../cnidaria/actiniaria/snail)
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---

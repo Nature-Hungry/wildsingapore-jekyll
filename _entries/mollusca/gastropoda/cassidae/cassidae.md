@@ -143,7 +143,7 @@ website says that most helmet shells live buried in the sand by day, coming out 
 On our shores, the
 [Grey bonnet snail](glaucum)
 has been seen on top of a
-[Cake sand dollar](../../../echinodermata/echinoidea/sandollar/arachnoides)
+[Cake sand dollar](../../../../echinodermata/echinoidea/sandollar/arachnoides)
 , and when the sand dollar is examined, a hole is seen in the sand dollar skeleton. This suggests the snail bored the hole.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby helmets:**

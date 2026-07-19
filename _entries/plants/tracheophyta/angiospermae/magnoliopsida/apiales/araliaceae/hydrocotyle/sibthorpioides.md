@@ -12,12 +12,17 @@ family: Araliaceae
 subfamily: Hydrocotyloideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/DSC03131 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/DSC03137 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/DSC03130 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/DSC03131
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/DSC03137
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/DSC03130
+      (16).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/P5130236 (17).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/P5130240 (17).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/P5130236
+      (17).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/P5130240
+      (17).jpg
 title: Asiatic Pennywort
 other_names:
 - Water Pennywort
@@ -26,8 +31,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/DSC03131 (16).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\hydrocotyle\sibthorpioides/DSC03131
+  (16).jpg
 updated: July 2024
+rdb: LC
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

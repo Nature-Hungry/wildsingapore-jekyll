@@ -203,7 +203,7 @@ zone:
 
 ## Where seen?
 This tiny and superbly camouflaged slug is often found on
-[solitary fan green seaweeds](../../../plants/seaweed/chlorophyta/avrerecta)
+[solitary fan green seaweeds](../../../../plants/seaweed/chlorophyta/avrerecta)
 (*Avrainvillea*
 sp.) which they feed on. At low tide, many slugs are often seen on one sea fan, usually clustered near the base of this seaweed. It was previously in Family Limapontiidae. Divers sometimes call it 'Shaun the Sheep'.
 

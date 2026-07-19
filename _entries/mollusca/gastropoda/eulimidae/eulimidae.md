@@ -74,15 +74,15 @@ These tiny snails are sometimes seen on echinoderms such as sea stars, sea cucum
 These are parasitic snails that feed on their host. Apparently, they stick their proboscis through the body wall and suck on the host's body fluids.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}So far, these have been seen on the
-[Plain sand star](../../../echinodermata/asteroidea/sandplain)
+[Plain sand star](../../../../echinodermata/asteroidea/sandplain)
 ,
-[Painted sand star](../../../echinodermata/asteroidea/sandpainted)
+[Painted sand star](../../../../echinodermata/asteroidea/sandpainted)
 and
-[Common sea star](../../../echinodermata/asteroidea/archaster)
+[Common sea star](../../../../echinodermata/asteroidea/archaster)
 . Stuck on the upper side of the sea star, sometimes in between the arms in the 'arm pit' of the sea star. Also on a
-[Thorny sea cucumber](../../../echinodermata/holothuroidea/colochirus)
+[Thorny sea cucumber](../../../../echinodermata/holothuroidea/colochirus)
 . As well as on
-[White sea urchins](../../../echinodermata/echinoidea/urchin/salmacis)
+[White sea urchins](../../../../echinodermata/echinoidea/urchin/salmacis)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

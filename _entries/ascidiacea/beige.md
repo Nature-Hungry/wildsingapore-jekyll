@@ -80,7 +80,7 @@ Colony irregular in outline, about 5-10cm in diameter, found near the mid-water 
 In Serina Lee's article, photos of *Didemnum psammatodes* closely resemble these animals, including a close up of "fecal pellets and oral siphons marked with rings of spicules on the surface of colony". According to other descriptions, the colour of *Didemnum psammatodes* comes from the dense packing of fecal pellets throughout the colony.
 
 **What eats them?**
-Various kinds of [flatworms](../worm/polycladida/polycladida)
+Various kinds of [flatworms](/entries/worm/polycladida/polycladida)
 (Order Polycladida) are sometimes seen on the sheets, possibly eating them.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

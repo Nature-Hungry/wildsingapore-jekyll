@@ -162,7 +162,7 @@ According to the NParks Flora and Fauna website, Berembang is the preferred loca
 [*Sonneratia*](sonneratia)
 in general).
 The
-[Atlas moth](../../../insecta/atlas)
+[Atlas moth](../../../../insecta/atlas)
 (*Attacus atlas*) has been seen feeding on the tree.
 
 ## Human uses

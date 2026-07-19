@@ -14,16 +14,24 @@ tribe: Inuleae
 subtribe: Plucheinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC01685 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC00327 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC01240 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC01685
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC00327
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC01240
+      (11).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC01241 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC00332 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC04691 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC01241
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC00332
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC04691
+      (08).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC09907 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC00329 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC09907
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC00329
+      (09).jpg
 title: Indian Fleabane
 other_names:
 - Indian Camphorweed
@@ -33,8 +41,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC01685 (12).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\pluchea\indica/DSC01685
+  (12).jpg
 updated: July 2024
+rdb: Lc
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

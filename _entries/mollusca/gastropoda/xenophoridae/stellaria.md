@@ -87,7 +87,7 @@ Only the empty shells of these snails have been seen washed up on our shores. It
 
 The Family Xenophoridae are called carrier shell snails because they cement bits of shells of other snails and clams onto their own shell. The living snail has a very long proboscis which it uses to attach these bits to its own shell. See a [photo of a snail doing this](http://shells.tricity.wsu.edu/ArcherdShellCollection/Illustrations/Xenophora_Live.html).
 
-**Sometimes confused with** [turban snails](../turbinidae/turbinidae) (Family Turbinidae). Unlike turban snails, carrier shell snails do not have shiny mother-of pearl on the inside of the shell.
+**Sometimes confused with** [turban snails](../../turbinidae/turbinidae) (Family Turbinidae). Unlike turban snails, carrier shell snails do not have shiny mother-of pearl on the inside of the shell.
 
 ## Human uses
 

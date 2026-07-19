@@ -218,7 +218,7 @@ Toadfishes belong to the Family Batrachoididae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=189)
 : the family has 19 genera and 69 species. They are found in the Atlantic, Indian and Pacific oceans.
 'Batrachos' means 'frog' in Greek and members of the toadfish family do indeed croak when distressed. They make these sounds by vibrating the swim bladder. They are commonly called toadfishes instead of frogfishes because the
-[Frogfish](../antennariidae/antennariidae)
+[Frogfish](../../antennariidae/antennariidae)
 is another kind of fish.
 
 ## Features
@@ -232,7 +232,7 @@ looks similar and lacks this pit.
 
 **Sometimes mistaken for**
 stonefish and scorpionfishes. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish)
+[how to tell apart fishes that look like stones](../../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Don't touch the Toad!**

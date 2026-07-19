@@ -165,7 +165,7 @@ Young Black tiger prawns live in mangroves and estuarine areas. Young Green tige
 ## Human uses
 
 The larger prawns are important commercially. Tiger prawns are widely aquacultured and often raised unsustainably. More about the
-[impact of prawn farming](../../../concepts/prawnfarms)
+[impact of prawn farming](../../../../concepts/prawnfarms)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -196,13 +196,13 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 **Penaeid prawns awaiting identification**
 *Species are difficult to positively identify without close examination of small features. On this website, they are grouped by external features for convenience of display.*
 
-[Blue-tailed penaeid prawn](../penbluetail)
+[Blue-tailed penaeid prawn](../../penbluetail)
 
-[Banded penaeid prawn](../penbanded)
+[Banded penaeid prawn](../../penbanded)
 
-[Slender penaeid prawn](../penslender)
+[Slender penaeid prawn](../../penslender)
 
-[Speckled penaeid prawn](../penspeckled)
+[Speckled penaeid prawn](../../penspeckled)
 
 **Family Penaeidae**
 

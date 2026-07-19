@@ -96,7 +96,7 @@ permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Vermetidae
 
 ## Where seen?
 These odd-looking snails are seen coiled on rocks, stones and other hard surfaces. Commonly seen on our Northern shores. Often, the snail shell is covered with encrusting lifeforms, so only the shell opening is visible. Some snails of the
-[Family Turritellidae](../turritellidae/turritella)
+[Family Turritellidae](../../turritellidae/turritella)
 also build coiling shells.
 
 ## Features
@@ -104,9 +104,9 @@ also build coiling shells.
 Tube opening 1-2cm in diameter, coils 10cm long or more. This amazing snail is NOT a worm. It builds a thin hard tube on hard surfaces. The worm snail has a pair of short thick tentacles, and a short foot. Some species of worm snails have a thin operculum attached to the foot that is used to seal the shell opening, others don't. As young snails, the shell they produce appears 'normal', and are free-living and unattached. But they soon attach to a hard surface and the shell produced becomes meandering and coiling.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Sometimes confused with**
-[keelworms](../../../worm/polychaeta/serpulidae)
+[keelworms](../../../../worm/polychaeta/serpulidae)
 (Phylum Annelida, Class Polychaeta) which are segmented worms that also build coiling hard shells on hard surfaces. Tubes made by worms such as keelworms are dull on the inside and made up of two layers. Tube worms have segmented bodies. Tubes made by snails such as vermetids are glossy on the inside because of a deposit of nacre, and made up of three layers. Vermetid snails do not have segmented bodies. Here's more on how to tell apart
-[animals that make hard coiling tubes](../../../glossary/tubehard)
+[animals that make hard coiling tubes](../../../../glossary/tubehard)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What does it eat?**

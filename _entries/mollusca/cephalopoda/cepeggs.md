@@ -85,7 +85,7 @@ zone:
 
 ## Where seen?
 These egg capsules are seen on many of our shores and can be seasonally common. These capsules were probably produced by
-[cephalopods](../cephalopoda)
+[cephalopods](../../cephalopoda)
 which includes
 [octopuses](octopus)
 ,
@@ -94,9 +94,9 @@ which includes
 
 ## Features:
 Some take the form of small tear-drop shaped capsules (1.5-2cm) joined together to form a 'string' about 10-15cm long. The entire assembly is usually attached to a firm structure or surface such as a
-[tubeworm](../../worm/tubeworm/tubeworms)
+[tubeworm](../../../worm/tubeworm/tubeworms)
 's tube or
-[sea fans](../../cnidaria/others/gorgonacea/gorgonacea)
+[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
 (gorgonians). Some are also attached to seaweeds. The capsules are black but become transparent just before the babies emerge as miniatures of the adults.
 
 Other egg capsules look like white sausage-shaped capsules 6-8cm long. Usually seen in a bunch of several 'sausages' attached to large masses of seaweeds.

@@ -70,7 +70,7 @@ Diameter with tentacles expanded 4-5cm. One ring of 20 tentacles that are thick 
 (*Metapeachia tropica*) which far more common. It looks similar but has a cream-colored body column and 16 tentacles.
 
 An 'uprooted' Peachia anemone is often mistaken for a sea cucumber or a worm. Here's more on
-[how to tell apart sausage-like creatures](../../glossary/sausage)
+[how to tell apart sausage-like creatures](../../../glossary/sausage)
 .
 
  

@@ -104,12 +104,12 @@ species.
 It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
 
 **Sometime confused with**
-[Neat hexa corals](../../siderastreidae/hexaneat)
+[Neat hexa corals](../../../siderastreidae/hexaneat)
 (*Pseudosiderastrea tayami*) which has more conical corallites with a narrow 'base'.
 Another coral with honeycomb shaped corallites is
 *Gardineroseris planulata*
 of
-[Family Agariciidae](../../agariciidae/agariciidae)
+[Family Agariciidae](../../../agariciidae/agariciidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

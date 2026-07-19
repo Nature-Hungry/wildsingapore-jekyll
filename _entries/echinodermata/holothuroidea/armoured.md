@@ -91,9 +91,9 @@ About 1cm long. Body oval with distinct flat underside. Upperside covered with h
 
 **Sometimes mistaken for**
 a tiny colony of
-[hard corals](../../cnidaria/coralhard/coralhard)
+[hard corals](../../../cnidaria/coralhard/coralhard)
 or a hard
-[ascidian](../../ascidiacea/ascidiacea)
+[ascidian](../../../ascidiacea/ascidiacea)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

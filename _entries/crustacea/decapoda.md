@@ -99,7 +99,7 @@ are Anomurans.
 **Why are there so many 'dead' crabs?** You might come across what
 appears to be dead crabs strewn among the seagrass or on the sand
 bars. These are often not dead crabs but merely their discarded skins!
-Like other [arthropods](../arthropoda/arthropoda),
+Like other [arthropods](../../arthropoda/arthropoda),
 crustaceans have a hard exoskeleton (external skeleton) and need to shed
 their exoskeleton in order to grow bigger. Called moulting, this also
 allows the animal to regenerate lost limbs. More about [moulting](moulting).

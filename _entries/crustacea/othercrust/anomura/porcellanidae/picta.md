@@ -124,7 +124,7 @@ zone:
 
 ## Where seen?
 This polka-dotted porcelain crab is often seen in pairs in
-[sea pens](../../../../cnidaria/others/pennatulacea/pennatulacea)
+[sea pens](../../../../../cnidaria/others/pennatulacea/pennatulacea)
 that are commonly seen on our Northern shores. It was previously known as
 *Porcellanella picta*
 .
@@ -135,10 +135,10 @@ Body width 1cm or less. Body oval and smooth, with pink dots circled in black or
 
 **Sea pen friend:**
 It is found on
-[Spiky sea pens](../../../../cnidaria/others/pennatulacea/spiky)
+[Spiky sea pens](../../../../../cnidaria/others/pennatulacea/spiky)
 (*Pteroides*
 sp.). often a pair but sometimes many more. One was also seen in a
-[Sea pencil](../../../../cnidaria/others/pennatulacea/pencil)
+[Sea pencil](../../../../../cnidaria/others/pennatulacea/pencil)
 .
 
  

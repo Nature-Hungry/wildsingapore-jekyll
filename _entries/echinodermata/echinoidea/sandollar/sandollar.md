@@ -134,9 +134,9 @@ habitats:
 Sand dollars are seen on many of our sandy shores and can be particularly common on Chek Jawa, Tanah Merah and some Southern shores. Usually half buried in the sand. Some kinds of sand dollars are more commonly seen near seagrasses.
 **What are sand dollars?**
 Sand dollars are animals! Seeing one for the first time, it may be hard to believe that these are living creatures. They are so flat and appear lifeless. Sand dollars belong to Phylum
-[Echinodermata](../../echinodermata)
+[Echinodermata](../../../echinodermata)
 and Class
-[Echinoidea](../echinoidea)
+[Echinoidea](../../echinoidea)
 which includes sea urchins and heart urchins.
 
 ## Features
@@ -171,11 +171,11 @@ got its common name from the intriguing slot-shaped holes in the body (called lu
 
 **What eats sand dollars?**
 Some snails such as the
-[Grey bonnet](../../../mollusca/gastropoda/cassidae/glaucum)
+[Grey bonnet](../../../../mollusca/gastropoda/cassidae/glaucum)
 are believed to feed on sand dollars. They are sometimes seen on top of a sand dollar. A
-[Knobbly sea star](../../asteroidea/protoreaster)
+[Knobbly sea star](../../../asteroidea/protoreaster)
 was seen with its stomach stuck to a sand dollar. A
-[Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni)
+[Haddon's carpet anemone](../../../../cnidaria/actiniaria/haddoni)
 was also seen in the process of engulfing one.
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}

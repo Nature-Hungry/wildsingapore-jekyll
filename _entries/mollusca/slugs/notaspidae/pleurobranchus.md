@@ -164,7 +164,7 @@ This humungous slug is sometimes seen, near reefs and seagrass areas. Sometimes 
 Although it is not known what this species eats, other species of
 *Pleurobranchus*
 are reported to feed on ascidians. Indeed, on our shores large numbers are sometimes seen among dense beds of
-[Green gum drop ascidians](../../../ascidiacea/greengumdrop)
+[Green gum drop ascidians](../../../../ascidiacea/greengumdrop)
 .
 
 **What eats it?**

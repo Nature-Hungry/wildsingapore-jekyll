@@ -167,15 +167,15 @@ permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Ovulidae
 
 ## Where seen?
 These amazing snails are seen on our
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
+[sea fans](../../../../cnidaria/others/gorgonacea/gorgonacea)
 and
-[flowery soft corals](../../../cnidaria/coralsoft/nephtheidae)
+[flowery soft corals](../../../../cnidaria/coralsoft/nephtheidae)
 , particularly on our Northern shores.
 
 ## Features
 
 1-3cm. These snails have shells that resemble those of the
-[cowries](../cypraeidae/cypraeidae)
+[cowries](../../cypraeidae/cypraeidae)
 (Family Cypraeidae) and are thus sometimes called False cowries. Some also have long narrow shells with pointy tips at both ends that resemble a spinning spindle and are thus also called Spindle cowries. The ovulid shell is usually plain, unmarked and white.
 
 Compared to true cowries, ovulid shells lack strong teeth and are usually elongated. Like the true cowries, the adult ovulid doesn't have an operculum. Ovulids also cover the shell with their mantle. The mantle usually has the same colour and texture as the animal that they live on. Some also accumulate in their mantle, the toxic chemicals from their prey.

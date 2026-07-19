@@ -239,7 +239,7 @@ has a white body with fine black lines and a white line along the inner edge of 
 
 **What does it eat?**
 It eats sponges, including the
-[Silvery blue sponge](../../../porifera/spatula)
+[Silvery blue sponge](../../../../porifera/spatula)
 .
 
 Members of the Family Chromodorididae absorb the toxic chemicals in their sponge food and incorporate these chemicals into the mantle glands on their backs where they repel predators.

@@ -78,16 +78,16 @@ This rock-like fish is seldom seen, usually our southern shores on coral rubble 
 ## Features
 
 15-30cm long with a humped back. Small eyes that don't stick out of the head, with small shallow depression near the eyes, not as large and deep as the true
-[Hollow-cheeked stonefish](../synanceiidae/horrida)
+[Hollow-cheeked stonefish](../../synanceiidae/horrida)
 (*Synanceia horrida*). Wide horizontal mouth on a large rather flattened head. Large pectoral fins sometimes colourful. Spiky dorsal fin which carries venomous stings but it is not as dangerous as the real stonefish. When disturbed, it waddles away awkwardly on its pectoral fins.
 
 **Sometimes mistaken for**
 a
-[stonefish](../synanceiidae/horrida)
+[stonefish](../../synanceiidae/horrida)
 (Family Synanceiidae) or the
-[False scorpionfish](../centrogenyidae/vaigiensis)
+[False scorpionfish](../../centrogenyidae/vaigiensis)
 (*Centrogenys vaigiensis*), a grouper, which looks very similar. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish)
+[how to tell apart fishes that look like stones](../../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

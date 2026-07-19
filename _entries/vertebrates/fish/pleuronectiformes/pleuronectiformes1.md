@@ -78,5 +78,5 @@ commonly seen on our shores
 ---
 
 how to tell apart
-- [flatworms and slugs](../../../glossary/flatwormslug)
-- [fishes with flat heads](../cfflatheads)
+- [flatworms and slugs](../../../../glossary/flatwormslug)
+- [fishes with flat heads](../../cfflatheads)

@@ -149,7 +149,7 @@ habitats:
 
 ## Where seen?
 This stunning snail is rare and thus a delight to encounter. It is sometimes seen on our undisturbed Northern shores, near living reefs. It is said to be usually found on live coral colonies, particularly table-forming
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
+[Acropora corals](../../../../cnidaria/coralhard/acroporidae/acropora)
 . Other accounts suggest it is also found in seagrass meadows, and sand and rubble.
 
 ## Features
@@ -158,9 +158,9 @@ This stunning snail is rare and thus a delight to encounter. It is sometimes see
 
 **Sometimes mistaken for**
 a
-[sea slug](../../slug)
+[sea slug](../../../slug)
 . When the shell is completely covered in its mantle, it is sometimes mistaken for a sea slug. Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
+[how to tell apart slugs and animals that look like slugs](../../../../glossary/flatwormslug)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ## Human uses

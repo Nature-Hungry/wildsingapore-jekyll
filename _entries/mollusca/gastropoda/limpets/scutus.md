@@ -164,9 +164,9 @@ is the only other species so far listed for Singapore.
 The hoof-shield limpet is a true limpet and breathes with gills. Unlike other members of the Family Fissurellidae, a hoof-shield limpet doesn't have a hole at the top of its shell.
 
 **Sometimes confused with**
-[slugs](../../slug)
+[slugs](../../../slug)
 which are snails without shells. Here's more on how to tell apart
-[slugs and other slug-like animals](../../../glossary/flatwormslug)
+[slugs and other slug-like animals](../../../../glossary/flatwormslug)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What do they eat?**

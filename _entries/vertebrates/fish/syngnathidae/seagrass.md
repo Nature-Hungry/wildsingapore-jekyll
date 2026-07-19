@@ -179,7 +179,7 @@ This skinny long fish can be seasonally abundant in seagrass areas on our Northe
 
 **Sometimes mistaken for**
 other fishes that resemble twigs and roots. Here's more on
-[how to tell apart stick-like fishes](../cfstick)
+[how to tell apart stick-like fishes](../../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

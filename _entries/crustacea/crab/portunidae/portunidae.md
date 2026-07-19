@@ -221,7 +221,7 @@ They eat fish, worms, other crustaceans (including other crabs), clams and snail
 
 **Swimming Babies:**
 Like other crabs, swimming crabs often mate when the female is
-[moulting](../../moulting)
+[moulting](../../../moulting)
 .
 
 **Monstrous crabs:**

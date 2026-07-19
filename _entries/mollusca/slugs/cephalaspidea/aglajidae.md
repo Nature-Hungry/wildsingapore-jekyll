@@ -62,11 +62,11 @@ Long, cylindrical body with a pair of 'wings' (called parapodia) which fold over
 
 **What do they eat?**
 Some tailed slugs are carnivores and eat their prey whole, crushing them with hard calcareous plates in the gizzard. Their prey include other slugs,
-[flatworms](../../../worm/polycladida/polycladida)
+[flatworms](../../../../worm/polycladida/polycladida)
 ,
-[acoel flatworms](../../../worm/acoela/acoela)
+[acoel flatworms](../../../../worm/acoela/acoela)
 and
-[polychaete worms](../../../worm/polychaeta/polychaeta)
+[polychaete worms](../../../../worm/polychaeta/polychaeta)
 . Some have well developed structures to track down their prey by following the prey's mucous trail. Others are herbivores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

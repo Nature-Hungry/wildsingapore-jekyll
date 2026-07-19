@@ -201,7 +201,7 @@ This magnificent worm can be commonly encountered on our Southern shores among l
 
 **What are giant reef worms?**
 They are segmented
-[worms](../worm)
+[worms](../../worm)
 belonging to the Family Eunicidae, Class
 [Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Eunicid worms are commonly encountered on all our shores. They range from tiny ones only 1cm or shorter but include some of the longest polychaetes. Some members of Family Eunicidae can reach 6m with more than a thousand segments! These worms can live for several years. Most Eunicids are carnivorous. Some live in tubes, others may live in rocky habitats, burrow into coralline rock or limestone, or burrow into sand and mud.
@@ -214,10 +214,10 @@ Young giant reef worms crawl about freely, but as they get older, they make a si
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
 It appears to eat seaweed. It creeps cautiously out of its hiding place then quickly snatches a mouthful before retracting back instantly. Among the seaweeds we have observed being gathered by the worm include:
-[Hairy green seaweed](../../plants/seaweed/chlorophyta/bryopsis)
+[Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis)
 (*Bryopsis*
 sp.) and
-[Sargassum seaweed](../../plants/seaweed/phaeophyta/sargassum)
+[Sargassum seaweed](../../../plants/seaweed/phaeophyta/sargassum)
 (*Sargassum*
 sp.). Although it seems to have ferocious jaws, these are probably used more to ensure a good grip on the food item. They have not been observed eating animals.
 

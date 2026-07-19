@@ -62,7 +62,7 @@ zone:
 
 ## Where seen?
 This small white snapping shrimp is often found in
-[Ball flowery soft corals](../../../cnidaria/coralsoft/nepball)
+[Ball flowery soft corals](../../../../cnidaria/coralsoft/nepball)
 (Family Nephtheidae). Often found in pairs.
 
 ## Features

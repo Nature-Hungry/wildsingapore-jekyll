@@ -128,14 +128,14 @@ Usually hidden by the fleshy tissue, the 'hollow' structure of the branches prov
 
 **Sometimes confused with**
 some species of
-[Lobed brain corals](../mussidae/lobophyllia)
+[Lobed brain corals](../../mussidae/lobophyllia)
 (*Lobophyllia*
 sp.) that may also have branching corallites with circular openings. Other corals that may appear similar include:
 *Barabattoia*
 and some
 *Favia*
 species. More on how to tell apart
-[hard corals with big rings and fleshy tissue](../cfbigring)
+[hard corals with big rings and fleshy tissue](../../cfbigring)
 .
 
  
@@ -181,7 +181,7 @@ Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
 in red are those listed as threatened
 on the
-[IUCN global list](../faviidae/www.iucnredlist.org)
+[IUCN global list](../../faviidae/www.iucnredlist.org)
 .
 
 **[Family Merulinidae](merulinidae)

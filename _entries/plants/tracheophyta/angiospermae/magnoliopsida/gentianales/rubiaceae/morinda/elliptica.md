@@ -13,23 +13,36 @@ subfamily: Rubioideae
 tribe: Morindeae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC08642 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC08646 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC02787 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC08642
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC08646
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC02787
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC02788 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC02801 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC06977 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC02788
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC02801
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC06977
+      (15).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC02797 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC08651 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC06979 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC02797
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC08651
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC06979
+      (15).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/P4220025 (23).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/P4220024 (23).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC06987 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/P4220025
+      (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/P4220024
+      (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC06987
+      (15).jpg
   gallery5:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/P4220017 (23).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/P4220017
+      (23).jpg
 title: Black Morinda
 other_names:
 - Lalang Tree
@@ -38,8 +51,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC08642 (16).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\morinda\elliptica/DSC08642
+  (16).jpg
 updated: July 2024
+rdb: EN
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -11,23 +11,36 @@ order: Vitales
 family: Vitaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09650 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC06871 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09654 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09650
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC06871
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09654
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC04845 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC02302 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09651 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC04845
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC02302
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09651
+      (08).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC05024 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09653 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC02310 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC05024
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09653
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC02310
+      (12).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC08078 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC05655 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC05023 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC08078
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC05655
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC05023
+      (09).jpg
   gallery5:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC02313 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC02313
+      (12).jpg
 title: Bushkiller
 other_names:
 - Sorrel Vine
@@ -36,8 +49,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09650 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\vitales\vitaceae\causonis\japonica/DSC09650
+  (08).jpg
 updated: July 2024
+rdb: EN
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

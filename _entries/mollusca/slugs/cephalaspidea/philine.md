@@ -82,7 +82,7 @@ habitats:
 
 ## Where seen?
 This strange slug is sometimes seen in clean sandy shores and sand bars. It reminds of 'attap chee', the fruit of the
-[Nipah palm](../../../plants/mangrove/nypa/nypa)
+[Nipah palm](../../../../plants/mangrove/nypa/nypa)
 that is eaten in local desserts such as 'ice-kacang'.
 
 ## Features

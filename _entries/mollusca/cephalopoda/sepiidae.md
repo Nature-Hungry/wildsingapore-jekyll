@@ -100,9 +100,9 @@ These rotund and chubby animals are seasonally common on many of our shores, usu
 
 **What are cuttlefish?**
 Cuttlefish are not fish! They are
-[molluscs](../mollusca)
+[molluscs](../../mollusca)
 (Phylum Mollusca) like snails, slugs and clams; and
-[cephalopods](../cephalopoda)
+[cephalopods](../../cephalopoda)
 (Class Cephalopoda) which include
 [octopuses](octopus)
 . They belong to the Order Sepiida. The family has more than 100 species many of which are only identified from the internal cuttlebones.
@@ -113,7 +113,7 @@ Cuttlefish are not fish! They are
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Disappearing Ink:**
 Like other cephalopods, the cuttlefish can squirt ink that distracts predators and clouds up the water. More about this in the fact sheet on
-[cephalopods](../cephalopoda)
+[cephalopods](../../cephalopoda)
 .
 
 ## Human uses

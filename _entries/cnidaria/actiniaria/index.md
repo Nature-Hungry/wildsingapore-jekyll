@@ -117,7 +117,7 @@ A wide variety of anemones can be seen on all our shores. Tiny anemones often we
 
 ## What are sea anemones?
 
-Sea anemones are to [Phylum Cnidaria](../cnidaria), which includes jellyfishes and corals. Anemones belong to the [Class Anthozoa](../anthozoa) that includes [cerianthids](../others/ceriantharia/ceriantharia) and [hard corals](../coralhard/coralhard). There are about 1,350 known species of anemones. They are found from deep to shallow waters, attached to hard surfaces or burrowing into the ground.
+Sea anemones are to [Phylum Cnidaria](../../cnidaria), which includes jellyfishes and corals. Anemones belong to the [Class Anthozoa](../../anthozoa) that includes [cerianthids](../../others/ceriantharia/ceriantharia) and [hard corals](../../coralhard/coralhard). There are about 1,350 known species of anemones. They are found from deep to shallow waters, attached to hard surfaces or burrowing into the ground.
 
 ## Features:
 
@@ -141,15 +141,15 @@ In most anemones, the body column can retract towards the base to hide from pred
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 
-**Sometimes mistaken for** [soft corals](../coralsoft/coralsoft). Some large anemones and large leathery and flowery soft corals may be mistaken for one another. Here's more on [how to tell apart large soft cnidarians](../cflargecnidarians) on the shore.
+**Sometimes mistaken for** [soft corals](../../coralsoft/coralsoft). Some large anemones and large leathery and flowery soft corals may be mistaken for one another. Here's more on [how to tell apart large soft cnidarians](../../cflargecnidarians) on the shore.
 
-Some animals look like anemones but are not, e.g., [cerianthids](../others/ceriantharia/ceriantharia), [corallimorphs](../others/corallimorphs/corallimorph) and [zoanthids](../others/zoanthid/zoanthid). Here's more on [how to tell apart animals with a ring of smooth tentacles](../cfringtentacles).
+Some animals look like anemones but are not, e.g., [cerianthids](../../others/ceriantharia/ceriantharia), [corallimorphs](../../others/corallimorphs/corallimorph) and [zoanthids](../../others/zoanthid/zoanthid). Here's more on [how to tell apart animals with a ring of smooth tentacles](../../cfringtentacles).
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 
 ## What do they eat?
 
-Anemones may use their tentacles or mucus to trap small particles, detritus and plankton from the water. Larger anemones can capture and swallow prey such as fishes whole. Anemones have [stingers like other cnidarians](../cnidaria). Prey is captured and immobilised with these stingers. Tentacles may push larger prey into the central mouth. The edges of the mouth may be inflated into 'lips' that pucker to hold prey as it is swallowed. The mouth and body column can expand wide to accommodate the prey whole. Or the anemone may fold its oral disk over the prey. Like other cnidarians, the anemone lacks an anus. So it has to spit out any indigestible bits through the mouth.
+Anemones may use their tentacles or mucus to trap small particles, detritus and plankton from the water. Larger anemones can capture and swallow prey such as fishes whole. Anemones have [stingers like other cnidarians](../../cnidaria). Prey is captured and immobilised with these stingers. Tentacles may push larger prey into the central mouth. The edges of the mouth may be inflated into 'lips' that pucker to hold prey as it is swallowed. The mouth and body column can expand wide to accommodate the prey whole. Or the anemone may fold its oral disk over the prey. Like other cnidarians, the anemone lacks an anus. So it has to spit out any indigestible bits through the mouth.
 
 ### Farm in their arms
 
@@ -157,7 +157,7 @@ Many anemones also harbour symbiotic single-celled algae (called zooxanthellae) 
 
 ### Anemone friends
 
-Some anemones may live with other animals such as [hermit crabs](hermitsmall) and [living snails](snail). Other animals have adapted to live among the tentacles of anemones. The [Anemonefish](../../vertebrates/fish/pomacentridae/amphiprion) (*Amphiprion* sp.) is coated with mucus that does not trigger off the host anemone's stingers. Other creatures that also make their homes in anemones include [anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/palaemonidae) (*Periclimenes* sp.).
+Some anemones may live with other animals such as [hermit crabs](hermitsmall) and [living snails](snail). Other animals have adapted to live among the tentacles of anemones. The [Anemonefish](../../../vertebrates/fish/pomacentridae/amphiprion) (*Amphiprion* sp.) is coated with mucus that does not trigger off the host anemone's stingers. Other creatures that also make their homes in anemones include [anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/palaemonidae) (*Periclimenes* sp.).
 
 ### Should I 'save' animals trapped in an anemone?
 
@@ -186,7 +186,7 @@ A few of our anemones are listed among the endangered animals of Singapore. Llik
 
 **Order Actiniaria recorded for Singapore**
 
-[text index](../cnidariaindex) and [photo index]({{ site.url }}/wildfacts/guides/cnidaria/actiniaria/anemonefi) of sea anemones seen on Singapore shores
+[text index](../../cnidariaindex) and [photo index]({{ site.url }}/wildfacts/guides/cnidaria/actiniaria/anemonefi) of sea anemones seen on Singapore shores
 Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
 
 Anemones listed in the Red Data Book 2024 which are NOT on this website

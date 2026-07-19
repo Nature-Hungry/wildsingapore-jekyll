@@ -174,7 +174,7 @@ These gruesome looking fishes can sting painfully.
 Stonefishes belong to Family Synanceiidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=578)
 : the family has 9 genera and 31 species. They are found in the Indo-Pacific oceans. They are sometimes classified as members of the
-[Family Scorpaenidae](../scorpaenidae/scorpaenidae)
+[Family Scorpaenidae](../../scorpaenidae/scorpaenidae)
 .
 ****
 
@@ -192,7 +192,7 @@ The
 
 **Sometimes mistaken for**
 scorpionfishes. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish)
+[how to tell apart fishes that look like stones](../../cfstonefish)
 .
 
 ---

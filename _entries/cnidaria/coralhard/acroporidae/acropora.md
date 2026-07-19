@@ -178,7 +178,7 @@ Polyps tiny (0.2-0.5cm), with long tapering tentacles. When fully extended, the 
 
 **Sometimes mistaken for**
 branching
-[pocilloporid corals](../pocilloporidae/pocilloporidae)
+[pocilloporid corals](../../pocilloporidae/pocilloporidae)
 (Family Pocilloporidae).
 
 There are probably several different species on these pages. It's hard to distinguish them without close examination of small features. On this website, they are grouped by large external features for convenience of display.

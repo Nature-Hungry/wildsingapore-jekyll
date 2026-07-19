@@ -84,7 +84,7 @@ These beautiful snail is sometimes seen on our Northern shores. It was previousl
 
 **What does it eat?**
 It feeds exclusively on
-[Spaghetti worms](../../../worm/polychaeta/spaghetti)
+[Spaghetti worms](../../../../worm/polychaeta/spaghetti)
 (Family Cirratulidae), swallowing them whole and incorporating the toxins of their prey for their own defence.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

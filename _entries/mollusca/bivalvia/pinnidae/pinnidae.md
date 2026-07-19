@@ -216,7 +216,7 @@ sp.) and small snapping shrimps are sometimes found living inside these clams. T
 ## Human uses
 
 Fan clams are edible and were once plentiful in Singapore and collected as food. Like other filter-feeding clams, however, fan clams may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
+[red tide and other harmful algal blooms](../../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
 It is said that in the past, people collected the long, golden byssus threads of the Noble pen shell (*Pinna nobilis*), a fan clam found in the Mediterranean. The threads were woven into a delicate and fine 'cloth of gold'. Some suggest that the 'Golden Fleece' of Greek mythology was made out of the byssus threads of this clam.

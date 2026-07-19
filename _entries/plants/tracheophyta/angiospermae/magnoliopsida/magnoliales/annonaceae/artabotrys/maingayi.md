@@ -13,21 +13,29 @@ subfamily: Annonoideae
 tribe: Xylopieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010503 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010514 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010509 (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010503
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010514
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010509
+      (25).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010505 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010510 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010512 (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010505
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010510
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010512
+      (25).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010503 (25).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\artabotrys\maingayi/P4010503
+  (25).jpg
 updated: July 2024
+rdb: vu
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

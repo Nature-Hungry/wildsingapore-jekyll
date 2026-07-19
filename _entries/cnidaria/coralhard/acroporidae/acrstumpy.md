@@ -89,7 +89,7 @@ This hard coral with rather stumpy branches and large axial corallites is someti
 Colonies 10-25cm. Short, thick stumpy branches forming a squat bush-like shape. The branches don't interlock. Generally, the axial corallite at the growing tip is very prominent and circular with a depression in the centre so it resembles a round bead. The radial corallites are smoothly rounded and form a rosette around the axial corallite. The radial corallites are regularly arranged along the branch. Colours generally brown.
 
 The coral often has various animals hidden among the branches. These include the
-[Broad-barred acropora goby](../../../vertebrates/fish/gobiidae/histrio)
+[Broad-barred acropora goby](../../../../vertebrates/fish/gobiidae/histrio)
 (*Gobiodon histrio*), shrimps and clams.
 
 There are probably several different species on this page. It's hard to distinguish them without close examination of small features and they are grouped by large external features for convenience of display.

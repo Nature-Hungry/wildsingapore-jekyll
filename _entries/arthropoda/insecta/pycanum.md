@@ -52,7 +52,7 @@ zone:
 ---
 
 ## Where seen?
-These brightly coloured bugs are sometimes seen on [Simpoh air](../plants/others/dillenia/suffruticosa) (*Dillenia suffruticosa*) which they are believed to feed on.
+These brightly coloured bugs are sometimes seen on [Simpoh air](../../plants/others/dillenia/suffruticosa) (*Dillenia suffruticosa*) which they are believed to feed on.
 
 **What are shield bugs?**
 They are True Bugs that belong to Order Hemiptera. All members of the Family Tessaratomidae feed on plants, sucking the sap. Some are agricultural pests, some can produce defensive chemicals. Some also look after their eggs.

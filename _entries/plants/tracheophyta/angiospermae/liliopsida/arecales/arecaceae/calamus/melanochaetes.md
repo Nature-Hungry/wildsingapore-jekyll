@@ -13,32 +13,48 @@ subfamily: Calamoideae
 tribe: Calameae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06720 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05813 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05807 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06720
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05813
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05807
+      (16).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05809 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC03565 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05814 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05809
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC03565
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05814
+      (16).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05797 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC07229 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06718 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05797
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC07229
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06718
+      (11).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC07228 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06704 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05812 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC07228
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06704
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05812
+      (16).jpg
   gallery5:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06706 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05810 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06706
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC05810
+      (16).jpg
 title: Giant Devil Palm
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06720 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\arecales\arecaceae\calamus\melanochaetes/DSC06720
+  (11).jpg
 updated: July 2024
+rdb: VU
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

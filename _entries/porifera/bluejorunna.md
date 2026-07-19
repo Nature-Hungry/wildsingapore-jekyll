@@ -129,7 +129,7 @@ This bright blue sponge is sometimes seen on some of our shores. On coral rubble
 About 6-10cm sometimes larger. Is generally encrusting, with small (5cm in diameter) knobs and bumps all over. Each knob or lump has a large hole at the tip with a narrow membraneous lip, seen when the sponge is submerged. Texture somewhat rough. Usually electric blue.
 
 It appears to be among the favourite food of the
-[Polka-dot nudibranch](../mollusca/slugs/nudibranchia/funebris)
+[Polka-dot nudibranch](../../mollusca/slugs/nudibranchia/funebris)
 (*Jorunna funebris*) and this nudibranch is often seen laying egg masses near the sponge.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

@@ -122,10 +122,10 @@ the very similar looking
 the
 [Stone crab](hardwickii)
 (*Myomenippe hardwickii*) and
-[Red egg crab](../xanthidae/integerrimus)
+[Red egg crab](../../xanthidae/integerrimus)
 (*Atergatis integerrimus*).
 Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer)
+[big crabs with big pincers](../../../bigpincer)
 seen on our rocky shores and coral rubble.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

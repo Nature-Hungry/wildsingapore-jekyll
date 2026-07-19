@@ -79,7 +79,7 @@ permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Faviidae
 
 ## Where seen?
 Due to a revision of coral groupings, all previous members of Family Faviidae have been placed under different families, most in
-[Family Merulinidae](../merulinidae/merulinidae)
+[Family Merulinidae](../../merulinidae/merulinidae)
 .
 
 ---

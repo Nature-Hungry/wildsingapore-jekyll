@@ -139,11 +139,11 @@ habitats:
 Tubeworms are common on all our shores and near mangroves. They are most obvious on sand bars and flat shores (sandy or muddy) where they stick out of the surface in large numbers. In seagrass areas, some are found in large numbers in mounds that can be 1m or more wide. Their tubes can extend quite deep into the ground, only a little bit of the tube sticks out of the ground. At low tide, the worm may be even deeper still. Some tubeworms can give a nasty bite. Please don't dig up tubes to try to see the worm.
 **What are tubeworms?**
 There are many kinds of
-[worms](../worm)
+[worms](../../worm)
 on our shores. Worms that create tubes and live inside them are called tubeworms. But these are not necessarily closely related to one another. And not all animals that live in tubes are worms (see below).
 
 Most tubeworms are segmented
-[bristleworms](../polychaeta/polychaeta)
+[bristleworms](../../polychaeta/polychaeta)
 (Phylum Annelida, Class Polychaeta). Some of these bristleworms have little hooks on their sides to help them move up and down their tubes. Others have reduced or no bristles. They are often beautifully iridescent.
 
 Some have tentacles on their heads to filter feed at high tide or to sweep the surroundings for edible titbits. Others have powerful jaws that can give a nasty bite. They are ferocious predators that seize passing prey while most of their bodies remain safely inside their tubes.
@@ -154,37 +154,37 @@ Tubes are so cosy that other creatures may move in with the worm! Such creatures
 
 **Made of worm snot!**
 Some tubes are thin and delicate and look more like roots of plants, others are translucent that look like drinking straws, while some are as thick as rubber tubing. The tube diameter ranges from 0.2-1cm. Part of the tube from 1-10cm may stick out of the surface, although the entire tube that is buried is usually a lot longer. Most tubes found in the ground are made with mucus. To strengthen their tubes, some worms mix in sand, bits of shells or other debris. Some worms such as
-[keelworms](../polychaeta/serpulidae)
+[keelworms](../../polychaeta/serpulidae)
 build tubes made of calcium carbonate on hard surfaces. The
-[Giant reef worm](../polychaeta/giant)
+[Giant reef worm](../../polychaeta/giant)
 (*Eunice aphroditois*) builds a paper tube in crevices in coral rubble or even living coral.
 
 Some like the
-[Solitary tubeworm](../polychaeta/diopatra)
+[Solitary tubeworm](../../polychaeta/diopatra)
 (*Diopatra*
 sp.) may incorporate a leaf at the top of the tube. This may help to reduce water loss or transmit the vibrations of nearby predators or prey.
 
 Some tubeworms live close together in large numbers. The hundreds of tubes of the tiny
-[Gregarious tubeworm](../polychaeta/gregarious)
+[Gregarious tubeworm](../../polychaeta/gregarious)
 may form furry carpets that cover several metres of sand.
 
-[Fanworms](../polychaeta/sabellidae)
+[Fanworms](../../polychaeta/sabellidae)
 and
-[keelworms](../polychaeta/serpulidae)
+[keelworms](../../polychaeta/serpulidae)
 are other kinds of worms that live in tubes too.
 
 **Sometimes confused with**
 other animals that build tubes to live in but which are NOT worms. These include
-[peacock anemones](../../cnidaria/others/ceriantharia/ceriantharia)
+[peacock anemones](../../../cnidaria/others/ceriantharia/ceriantharia)
 and
-[vermetid snails](../../mollusca/gastropoda/vermetidae/vermetidae)
+[vermetid snails](../../../mollusca/gastropoda/vermetidae/vermetidae)
 . More on
-[how to tell apart hard tubes](../../glossary/tubehard)
+[how to tell apart hard tubes](../../../glossary/tubehard)
 made by worms from those made by other animals.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Why live in a tube?**
 A tube provides some protection from the abrasive sand, as well as most predators. It is also a lair from which predatory worms can hide to catch passing prey. Tubes may go quite deep to where it remains moist and cool at low tide. Tubes that project some distance above the bottom may allow the worms to reach clean, oxygenated water above a muddy or sandy bottom. Building a tube on a hard surface also allows worms to live in places where they cannot burrow (see
-[keelworms](../polychaeta/serpulidae)).
+[keelworms](../../polychaeta/serpulidae)).
 
 **Tubeworm babies:**
 Most tubeworms have separate genders. In some, eggs and sperm are released into the water simultaneously where they are fertilised. In others, eggs are retained or brooded within their tubes. Some eggs develop into free-swimming larvae that drift with the plankton before settling down and developing into new tubeworms.
@@ -194,7 +194,7 @@ Most tubeworms have separate genders. In some, eggs and sperm are released into 
 Tubeworms are eaten by many animals higher up in the food chain. Many kinds of shorebirds, for example, feed on worms, including tubeworms, for sustenance to make their long migratory journeys.
 
 The tubes of
-[Gregarious tubeworms](../polychaeta/gregarious)
+[Gregarious tubeworms](../../polychaeta/gregarious)
 may also help anchor sediments. These tubeworms may live packed so closely together that they form mounds up to 1m or more across! These mounds trap pools of water at low tide for small creatures to shelter in. Thesetubeworms are often seen in areas with seagrass. Perhaps these worms anchor the sediments that allow seagrasses to grow, or visa versa?
 
 ## Human uses
@@ -209,9 +209,9 @@ Like other creatures of the intertidal zone, they are affected by human activiti
 
 **Other tube-makers:**
 Not all animals that live in tubes are correctly called worms. Some other animals that build and live in tubes include:
-[peacock anemones](../../cnidaria/others/ceriantharia/ceriantharia)
+[peacock anemones](../../../cnidaria/others/ceriantharia/ceriantharia)
 (Order Ceriantharia, Phylum Cnidaria) that build soft leathery tubes;
-[vermetid snails](../../mollusca/gastropoda/vermetidae/vermetidae)
+[vermetid snails](../../../mollusca/gastropoda/vermetidae/vermetidae)
 (Family Vermetidae, Class Gastropoda, Phylum Mollusca) that build hard chalky tubes.
 
 ---
@@ -228,23 +228,23 @@ Worms that build tubes may belong to a wide range of groups. These include:
 
 **Phylum Annelida
 
-[Class Polychaeta](../polychaeta/polychaeta)**
+[Class Polychaeta](../../polychaeta/polychaeta)**
 (bristleworms)
 
 **Tubeworms commonly seen awaiting identification**
 
-[Gregarius tubeworms](../polychaeta/gregarious)
+[Gregarius tubeworms](../../polychaeta/gregarious)
 
 **Family Onuphidae**
 
-*[Diopatra](../polychaeta/diopatra)*
-[sp.](../polychaeta/diopatra)
+*[Diopatra](../../polychaeta/diopatra)*
+[sp.](../../polychaeta/diopatra)
 (Solitary tubeworms)
 
-[**Family Sabellidae**](../polychaeta/sabellidae)
+[**Family Sabellidae**](../../polychaeta/sabellidae)
 (fanworms)
 
-[**Family Serpulidae**](../polychaeta/serpulidae)
+[**Family Serpulidae**](../../polychaeta/serpulidae)
 (keelworms)
 
 ---

@@ -54,10 +54,10 @@ permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brach
 
 ## Where seen?
 These tiny crabs are only found in living branching hard corals such as
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
+[Acropora corals](../../../../cnidaria/coralhard/acroporidae/acropora)
 (*Acropora*
 sp.) and
-[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
+[Cauliflower corals](../../../../cnidaria/coralhard/pocilloporidae/pocillopora)
 (*Pocillopora*
 sp.). They are well hidden and quick, and thus hard to spot and photograph.
 
@@ -70,20 +70,20 @@ Usually a pair of male and female are found in one coral colony. The females are
 The
 [Red coral crab](redcoral)
 (*Trapezia cymodoce*) lives only in
-[Cauliflower corals](../../../cnidaria/coralhard/pocilloporidae/pocillopora)
+[Cauliflower corals](../../../../cnidaria/coralhard/pocilloporidae/pocillopora)
 (*Pocillopora*
 sp.).
 
 The
 [Bandit coral crab](bandit)
 (*Tetralia nigrolineata*) lives only in
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
+[Acropora corals](../../../../cnidaria/coralhard/acroporidae/acropora)
 (*Acropora*
 sp.).
 
 **Other tiny crabs that live in corals**
 include the
-[Hairy coral crab](../xanthidae/cymo)
+[Hairy coral crab](../../xanthidae/cymo)
 (*Cymo andreossyi*)
 
  

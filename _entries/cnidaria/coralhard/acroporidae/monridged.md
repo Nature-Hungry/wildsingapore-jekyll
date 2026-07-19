@@ -85,11 +85,11 @@ Colonies seen 15-20cm, sometimes much larger. Branches, columns or knobs arising
 
 **May be mistaken for**
 some branching
-[Pore coral species](../poritidae/porbranch)
+[Pore coral species](../../poritidae/porbranch)
 which look similar. For convenience of display, all branching species that resemble Montipora are featured here.
 
 At Sentosa Serapong, large colonies of these corals are often festooned with many
-[Red feather stars](../../../echinodermata/crinoidea/red)
+[Red feather stars](../../../../echinodermata/crinoidea/red)
 .
 
 There are probably several different species on this page. It's hard to distinguish them without close examination of small features and they are grouped by large external features for convenience of display.

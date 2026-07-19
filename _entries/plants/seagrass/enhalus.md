@@ -220,12 +220,12 @@ The fruit is round to tear-drop shaped and large (4-6cm in diameter) with dark, 
 
 ## Role in habitat
 Tape seagrass is believed to be among the main food of the Dugong (*Dugong dugon*). On the seagrass blade grows a wide variety of tiny encrusting animals like
-[green gum drop ascidians](../../ascidiacea/greengumdrop)
+[green gum drop ascidians](../../../ascidiacea/greengumdrop)
 and
-[seagrass hydroids](../../cnidaria/others/hydrozoa/seagrass)
+[seagrass hydroids](../../../cnidaria/others/hydrozoa/seagrass)
 and egg capsules.
 Tiny algae often grows on the leaves of this seagrass, providing food for grazing creatures such as the
-[Seagrass sea hare](../../mollusca/slugs/anaspidae/seagrass)
+[Seagrass sea hare](../../../mollusca/slugs/anaspidae/seagrass)
 and snails. The mat of rhizomes also provides shelter for many small animals.
 
 ## Human uses

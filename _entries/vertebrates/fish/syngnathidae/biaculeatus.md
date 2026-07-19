@@ -133,7 +133,7 @@ habitats:
 
 ## Where seen?
 This fat pipefish is sometimes seen on our Southern shores. Many were discovered during a seine net survey of Cyrene Reef among thickets of long among
-[Tape seagrasses](../../../plants/seagrass/enhalus)
+[Tape seagrasses](../../../../plants/seagrass/enhalus)
 . It is generally found in sheltered coastal shallows among seagrasses and seaweeds.
 
 ## Features
@@ -142,7 +142,7 @@ This fat pipefish is sometimes seen on our Southern shores. Many were discovered
 
 **Sometimes mistaken for**
 other fishes that resemble sticks and twigs. Here's more on
-[how to tell apart stick-like fishes](../cfstick)
+[how to tell apart stick-like fishes](../../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

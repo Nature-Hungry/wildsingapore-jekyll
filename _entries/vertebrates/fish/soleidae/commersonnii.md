@@ -75,7 +75,7 @@ Those seen about 20cm, grows to about 30cm long. Eyes on right side. Body elonga
 
 **What does it eat?**
 In Singapore, those seen appear to eat long
-[bristleworms](../../../worm/polychaeta/polychaeta)
+[bristleworms](../../../../worm/polychaeta/polychaeta)
 . Elsewhere, it is said to hunt small animals living on the bottom of the sea, especially small crustaceans.
 
 ## Human uses

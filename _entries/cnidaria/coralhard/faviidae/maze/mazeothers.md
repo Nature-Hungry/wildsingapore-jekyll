@@ -83,7 +83,7 @@ species.
 It's hard to distinguish them without close examination of small features and they are grouped by large external features for convenience of display.
 
 **Sometimes mistaken for**
-[Brain corals](../../mussidae/mussidae)
+[Brain corals](../../../mussidae/mussidae)
 (Family Lobophylliidae) which tend to have much thicker corallite walls which can have large 'teeth'.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

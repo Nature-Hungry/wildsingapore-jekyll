@@ -174,16 +174,16 @@ A feathery structure 5-7cm long. The central 'stem' of the feathery structure is
 
 **Sometimes confused with**
 other feathery green seaweeds or with
-[seagrasses](../../seagrass/seagrass)
+[seagrasses](../../../seagrass/seagrass)
 . Here's more on
 [how to tell apart different feathery green seaweeds](cffeathery)
 and how to tell apart
-[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
+[feathery green seaweeds and seagrasses](../../../../glossary/seagrassweed)
 .
 
 ## Role in habitat
 The seaweed is said to be eaten by some species of
-[sea hares](../../../mollusca/slugs/anaspidae/anaspidea)
+[sea hares](../../../../mollusca/slugs/anaspidae/anaspidea)
 .
 
 ## Human uses

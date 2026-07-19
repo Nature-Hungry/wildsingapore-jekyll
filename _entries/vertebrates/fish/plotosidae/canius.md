@@ -153,11 +153,11 @@ Adults can reach 90cm-1.5m long, those seen at low tide on our shores usually mu
 . The adults of these two eeltail catfishes may appear similar as the stripes on the Striped eeltail catfish fades with age. In Black eeltail catfish adults, the long barbels at the top of the snout can extend past the eyes. These barbels don't extend past the eyes in adult Striped eeltail catfishes. So far, those tiny juveniles seen schooling in dense balls on our shores turn out to be Striped eeltail catfishes.
 
 **Sometimes mistaken for**
-[sea snakes](../../snakes/hydrophiidae/laticauda)
+[sea snakes](../../../snakes/hydrophiidae/laticauda)
 or
-[eels](../muraenidae/muraenidae)
+[eels](../../muraenidae/muraenidae)
 (Family Muraenidae). Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

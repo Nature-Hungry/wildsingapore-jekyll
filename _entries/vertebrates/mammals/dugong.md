@@ -138,7 +138,7 @@ A dugong's mouth faces downwards to munch on seagrass and it has large, grinding
 the manatee. The natural range of the manatee is in the tropical coasts of the Americas and Western Africa. While the dugong's natural range is from Eastern Africa, the Red Sea, through India and Southeast Asia to Australia. While the manatee has a circular tail fluke, dugongs have a forked tail fluke.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What does it eat?**
-[Seagrass](../../../wildshores/vertebrata/others/g002)
+[Seagrass](../../../../wildshores/vertebrata/others/g002)
 is the dugong's main food.
 So not surprisingly, it is also sometimes called the Sea Cow! It pulls out a mouthful of seagrasses with its thick lips, shakes it to get rid of the sand and then swallows. Dugong feeding trails are formed when dugongs chomp up seagrasses including their roots, leaving a shallow meandering furrow of about equal width and depth. A dugong often 'cultivates' a favourite patch of seagrass by cropping it frequently. This promotes faster growth of young tender leaves which the dugong prefers to eat.
 The dugong one of the few large animals that can digest fresh seagrass.

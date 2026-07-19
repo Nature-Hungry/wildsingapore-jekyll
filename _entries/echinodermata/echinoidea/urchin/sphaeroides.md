@@ -177,9 +177,9 @@ Examination of tests (skeleton of a dead sea urchin) suggest that large snails m
 
 **Home on an urchin:**
 Some animals live on this prickly animal. This includes
-[Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
+[Parasitic snails](../../../../mollusca/gastropoda/eulimidae/eulimidae)
 , the Zebra crab and sometimes, the
-[Urchin-mouth worm](../../../worm/polychaeta/oxydromus)
+[Urchin-mouth worm](../../../../worm/polychaeta/oxydromus)
 is found curled around the mouth.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

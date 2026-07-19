@@ -123,9 +123,9 @@ According to Ng, this species is distinguished from the other dragonets of Singa
 
 **Sometimes mistaken**
 for
-[flatheads](../platycephalidae/platycephalidae)
+[flatheads](../../platycephalidae/platycephalidae)
 (Family Platycephalidae). Here's more on
-[how to tell apart fish with flat heads](../cfflatheads)
+[how to tell apart fish with flat heads](../../cfflatheads)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

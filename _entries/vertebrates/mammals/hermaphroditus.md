@@ -137,7 +137,7 @@ It is also called the Toddycat for its apparent fondness for stealiing the sap c
 
 **Civet-processed coffee:**
 'Kopi Luwak' is a type of expensive gourmet coffee made from coffee beans that have been 'processed' by a civet cat. In nature, the civet cat eats
-[coffee beans](../../plants/fruittrees/coffea/coffea)
+[coffee beans](../../../plants/fruittrees/coffea/coffea)
 , among many other natural food. The coffee beans which are excreted by the civet cat are collected to be made into coffee for humans to drink. Unfortunately, growing demand has resulted in cruel abuse of civet cats to produce this coffee. The civet cats are caged, fed nothing but coffee beans and poorly looked after.
 **Please do NOT support Kopi Luwak!**
 More details on the

@@ -136,7 +136,7 @@ zone:
 This tiny slug is sometimes seen on
 [Caulerpa seaweeds](https://images.naturehungry.sg/plants/seaweed/chlorophyta/caulerpa)
 such as
-[Bell sea grape seaweeds](../../../plants/seaweed/chlorophyta/bell)
+[Bell sea grape seaweeds](../../../../plants/seaweed/chlorophyta/bell)
 and
 [Delicate feathery green seaweed](https://images.naturehungry.sg/plants/seaweed/chlorophyta/sertularioides)
 on some of our shores. Several slugs may be seen on one clump of seaweed. It was first described as a new species in July 2015 and named after Singapore.

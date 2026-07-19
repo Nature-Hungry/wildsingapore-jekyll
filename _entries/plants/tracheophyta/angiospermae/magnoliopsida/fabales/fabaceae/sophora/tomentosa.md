@@ -13,19 +13,29 @@ subfamily: Faboideae
 tribe: Sophoreae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050103 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050117 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050115 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050103
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050117
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050115
+      (24).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050109 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050118 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050121 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050109
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050118
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050121
+      (24).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050119 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050104 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050124 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050119
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050104
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050124
+      (24).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050116 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050116
+      (24).jpg
 title: Berembang
 other_names:
 - Mangrove Apple
@@ -34,8 +44,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050103 (24).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\fabales\fabaceae\sophora\tomentosa/PA050103
+  (24).jpg
 updated: July 2024
+rdb: CR
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -124,11 +124,11 @@ Scales are rough. These bottom-dwelling fishes over 'walk' over the sand by undu
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes)
+[flatfishes](../../pleuronectiformes/pleuronectiformes)
 . The
-[Large-toothed flounder](../paralichthyidae/paralichthyidae)
+[Large-toothed flounder](../../paralichthyidae/paralichthyidae)
 (Family Paralichthyidae) looks very similar but it is left-eyed. Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
+[how to tell apart the flatfish families](../../pleuronectiformes/pleuronectiformes1)
 commonly seen.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

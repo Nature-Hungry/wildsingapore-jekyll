@@ -110,7 +110,7 @@ Besides humans, other animals that relish them include fishes, crabs and octopus
 ## Human uses
 
 Green mussels are considered the economically most important mussel in our region. They are farmed in many parts of Southeast Asia as seafood. They grow fast and in dense numbers. Like other filter-feeding clams, however, mussels may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
+[red tide and other harmful algal blooms](../../../../plants/seaweed/redtide)
 . During such times, the mussels concentrate toxins and people who eat them may get seriously ill.
 
 Outside its natural range of the Asia-Pacific region, the Green mussel is considered an introduced pest and an unwelcome invasive species. There, unchecked by natural predators, the mussels multiply rapidly and clog industrial pipes, foul aquaculture and disturb local ecosystems.

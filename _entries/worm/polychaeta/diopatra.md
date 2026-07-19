@@ -130,7 +130,7 @@ Like rubber hoses sticking out of the ground, the sturdy tubes of this worm are 
 Solitary tubeworms are segmented bristleworms belonging to the Family Onuphidae, Class
 [Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm. Most members of the Family Onuphidae build tubes. Some of them carry the tubes around, others are stationary but can leave their tubes. Not all tubeworms are polychaetes and not all polychaetes are tubeworms. More about
-[tubeworms in general](../tubeworm/tubeworms)
+[tubeworms in general](../../tubeworm/tubeworms)
 .
 
 ## Features

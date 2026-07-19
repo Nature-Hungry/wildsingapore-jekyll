@@ -185,7 +185,7 @@ This delightfully bobbled nudibranch with electric blue spots is sometimes seen 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 It eats sponges, possibly
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 that live in murky, mucky sites. It lacks a radula and jaws so it can't rasp or chew its food sponge. Instead, it secretes digestive juices onto the sponge and then sucks up the softened sponge. How is it the juices don't leak away into the surrounding water?
 [Dr Bill Rudman](http://www.seaslugforum.net/showall/denddeni)
 explainshow structures around the mouth might help it form a seal around the feeding site.

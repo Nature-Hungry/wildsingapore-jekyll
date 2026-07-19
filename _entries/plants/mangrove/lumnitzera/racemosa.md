@@ -130,7 +130,7 @@ Leaves spoon-shaped (2-10cm), scalloped edge and a small notch at the tip, thick
 The small fruits are ribbed, fibrous and float, and dispersed by water. Each fruit contains one seed.
 
 **Sometimes mistaken for**
-[Chengam](../scyphiphora/hydrophyllacea)
+[Chengam](../../scyphiphora/hydrophyllacea)
 (*Scyphiphora hydrophyllacea*).
 
 According to Giesen, although occurring throughout Malaysia and Indonesia,

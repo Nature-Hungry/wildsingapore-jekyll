@@ -179,7 +179,7 @@ A young cowrie's first shell is a narrow spiral. As it matures, it encloses this
 
 **Marvellous mantle:**
 When alive and moving around, the cowrie usually encloses its shell with its mantle (a part of its body). The mantle may have a different colour and pattern from the shell and is often also 'textured' with tiny projections. When the shell is covered by the mantle, a cowrie is sometimes mistaken for a slug. Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
+[how to tell apart slugs and animals that look like slugs](../../../../glossary/flatwormslug)
 .
 
 The fleshy mantle is a highly specialised organ. It is the main architect of the glossy shell, as it lays down a layer of pearl-like substances as well as the colour and patterns. It also repairs and enlarges the shell and protects it from algae and encrusting animals. This is why a cowrie shell is so shiny and smooth. When disturbed, the entire mantle retracts into the shell.
@@ -187,7 +187,7 @@ The fleshy mantle is a highly specialised organ. It is the main architect of the
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 **What do they eat?**
 As a group, cowries eat a wide variety of things from algae,
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 to scavenging and carnivorous cowries that eat other snails. Each has a radula adapted to its particular prey. Most cowries live in the intertidal zone, hiding during the day and emerging to feed at night. A cowrie has a pair of tentacles and a siphon, which is part of the mantle modified for breathing and sampling the water to look for food and mates.
 
 **Cowrie babies:**

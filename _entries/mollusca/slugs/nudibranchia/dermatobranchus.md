@@ -178,9 +178,9 @@ sp.) which are much larger.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 According to Bill Rudman some species eat
-[soft corals](../../../cnidaria/coralsoft/coralsoft)
+[soft corals](../../../../cnidaria/coralsoft/coralsoft)
 and
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
+[sea fans](../../../../cnidaria/others/gorgonacea/gorgonacea)
 .
 
 ---

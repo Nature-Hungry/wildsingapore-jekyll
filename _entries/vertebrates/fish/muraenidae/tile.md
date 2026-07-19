@@ -135,7 +135,7 @@ To about 60cm, those seen were about 15-30cm. Body long and cylindrical, only so
 
 **Sometimes mistaken for**
 sea snakes or eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ## Human uses

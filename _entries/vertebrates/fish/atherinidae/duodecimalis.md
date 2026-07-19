@@ -203,7 +203,7 @@ Silversides belong to Family Atherinidae. According to
 
 **Sometimes confused with**
 other small silvery fishes. More on
-[how to tell apart small silvery fishes](../cfsilvery)
+[how to tell apart small silvery fishes](../../cfsilvery)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

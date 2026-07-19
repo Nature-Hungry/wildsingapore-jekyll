@@ -178,11 +178,11 @@ This small worm-like fish is often seen near coral rubble where there are lots o
 To about 20cm long, those seen were about 10-12cm. Body long narrow tubular. It is superbly adapted for burrowing in sand and hunting in small holes and crevices. It has no scales, no pectoral fins. Eyes and mouth are small, the snout is pointed and nostrils downward pointing. The tail tip is bony and sharp so it can burrow quickly, both forwards and backwards! It swims by moving the body in S-shapes, rather like a sea snake.
 
 **Sometimes mistaken for**
-[worms](../../../worm/worm)
+[worms](../../../../worm/worm)
 or
-[sea snakes](../../snakes/hydrophiidae/laticauda)
+[sea snakes](../../../snakes/hydrophiidae/laticauda)
 . Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

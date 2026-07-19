@@ -13,25 +13,36 @@ subfamily: Aroideae
 tribe: Aglaonemateae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC09995 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/P7310149 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC07856 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC09995
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/P7310149
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC07856
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC07855 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC06404 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC03096 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC07855
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC06404
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC03096
+      (10).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC09996 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/P7310155 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/P7310152 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC09996
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/P7310155
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/P7310152
+      (24).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC09995 (13).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\aglaonema\nebulosum/DSC09995
+  (13).jpg
 updated: July 2024
+rdb: EN
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

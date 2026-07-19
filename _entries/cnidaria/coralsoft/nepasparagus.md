@@ -126,14 +126,14 @@ Colony bushy 15-20cm to 50cm. Colony is branched with thick study 'stems' emergi
 [Smooth flowery soft corals](nepsmooth)
 (*Litophyton*
 sp.). It may also resemble the
-[Fire anemone](../actiniaria/actinodendron)
+[Fire anemone](../../actiniaria/actinodendron)
 which, unlike the soft coral, has white stripes radiating from the centre of the oral disk.
 
 **Flowery friends:**
 Sometimes, tiny transparent
 [red nose shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/rednose)
 and
-[tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
+[tiny colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 can be seen on this soft coral.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

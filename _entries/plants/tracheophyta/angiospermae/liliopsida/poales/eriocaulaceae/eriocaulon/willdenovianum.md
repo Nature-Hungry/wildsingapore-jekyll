@@ -11,19 +11,25 @@ order: Poales
 family: Eriocaulaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC01221 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC01111 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC08960 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC01221
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC01111
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC08960
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC01108 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC01108
+      (11).jpg
 title: Pipewort
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC01221 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\eriocaulaceae\eriocaulon\willdenovianum/DSC01221
+  (11).jpg
 updated: July 2024
+rdb: VU
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

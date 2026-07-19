@@ -147,7 +147,7 @@ permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Pomacanth
 These fishes are rarely seen naturally on the shore at low tide. They are more often encountered by divers in deeper waters. Those we've seen were sadly captured in fish traps or already in a fish tank.
 
 **What are angelfishes?**
-They belong to Family Pomacanthidae which has 9 genera and 74 species. They are found in the Atlantic, Indian and Pacific oceans. They are closely related to the butterflyfishes ([Family Chaetodontidae](../chaetodontidae/chaetodontidae)) and were previously placed in the butterflyfish family.
+They belong to Family Pomacanthidae which has 9 genera and 74 species. They are found in the Atlantic, Indian and Pacific oceans. They are closely related to the butterflyfishes ([Family Chaetodontidae](../../chaetodontidae/chaetodontidae)) and were previously placed in the butterflyfish family.
 
 ## Features
 

@@ -198,7 +198,7 @@ permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronecto
 Some of these flatfishes really do look like the sole of a shoe! Others have pretty patterns. They are often seen on our Northern shores, sometimes also on our Southern shores. Usually in sandy areas near seagrass meadows.
 **What are soles?**
 Soles are
-[flatfishes](../pleuronectiformes/pleuronectiformes)
+[flatfishes](../../pleuronectiformes/pleuronectiformes)
 that belong to the Family Soleidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=441)
 : the family has 22 genera and 89 species. They are found mainly from Europe to Australia and Japan. The Latin 'solea' means 'sandal'.
@@ -216,9 +216,9 @@ Some soles such as the
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes)
+[flatfishes](../../pleuronectiformes/pleuronectiformes)
 . Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
+[how to tell apart the flatfish families](../../pleuronectiformes/pleuronectiformes1)
 commonly seen.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**

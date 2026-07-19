@@ -191,7 +191,7 @@ other large anemones and similar large cnidarians. Here's more on how to tell ap
 and
 [large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians)
+[large 'hairy' cnidarians](../../cflargecnidarians)
 .
 
 **Carpet food:**
@@ -200,9 +200,9 @@ Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). Th
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Giant friends:**
 Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with giant carpet anemones. These include anemone shrimps (*Periclimenes*
 sp.), and fishes such as
-[Three-spot dascyllus](../../vertebrates/fish/pomacentridae/trimaculatus)
+[Three-spot dascyllus](../../../vertebrates/fish/pomacentridae/trimaculatus)
 and
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
+[anemonefishes](../../../vertebrates/fish/pomacentridae/amphiprion)
 (*Amphiprion*
 sp.) including
 *A. akindynos, A. bicinctus, A. clarkii, A. ocellaris*
@@ -211,7 +211,7 @@ sp.) including
 . But so far, the only animals observed on giant carpet anemones were: the
 [Peacock-tail anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 and the
-[Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris)
+[Clown anemonefish](../../../vertebrates/fish/pomacentridae/ocellaris)
 .
 
 **Stinging carpet!**

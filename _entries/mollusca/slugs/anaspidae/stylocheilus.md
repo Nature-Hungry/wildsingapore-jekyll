@@ -148,14 +148,14 @@ Body long with a long 'tail'. It is covered in tiny spiky projections that give 
 the
 [Hairy sea hare](geographica)
 which have flat thicker 'hair' and lack fine parallel lines. More on
-[how to tell apart hairy slugs and snails](../../hairyslugsnail)
+[how to tell apart hairy slugs and snails](../../../hairyslugsnail)
 .
 
 **What does it eat?**
 It feeds on
-[cyanobacteria](../../../plants/seaweed/cyanobacteria/cyanobacteria)
+[cyanobacteria](../../../../plants/seaweed/cyanobacteria/cyanobacteria)
 formerly known as the filamentous blue-green algae. These sea hares are preyed upon by the
-*[Gymnodoris](../nudibranchia/gymnodoris)*
+*[Gymnodoris](../../nudibranchia/gymnodoris)*
 nudibranch.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

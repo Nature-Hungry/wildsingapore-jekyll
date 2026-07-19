@@ -117,7 +117,7 @@ zone:
 
 ## Where seen?
 These tiny brittle stars are commonly seen in living
-[Chocolate sponges](../../porifera/suberites)
+[Chocolate sponges](../../../porifera/suberites)
 on many of our shores.
 They are sometimes also seen in other kinds of sponges.
 
@@ -129,9 +129,9 @@ Whole animal 1-2cm. 5-6 arms. Arms banded with short spines lying flat arong the
 tiny
 [brittle stars seen under stones](tinystone)
 and
-[bristleworms](../../worm/polychaeta/polychaeta)
+[bristleworms](../../../worm/polychaeta/polychaeta)
 . Here's more on
-[how to tell apart bristleworms and brittle stars](../../glossary/wormstar)
+[how to tell apart bristleworms and brittle stars](../../../glossary/wormstar)
 .
 
 **Baby brittle stars:**

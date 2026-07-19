@@ -119,12 +119,12 @@ Possible courtship behaviour was reported, with two fishes stayed close together
 An aggressive hunter, it eats crabs (one study found it prefers crabs) as well as prawns, worms and insects. It may even snack on smaller mudskippers, and one was observed eating a snake.
 [One study found](http://www.kmae-journal.org/articles/kmae/pdf/2012/02/kmae110093.pdf)
 that it eats mostly
-[fiddler crabs](..//wildfacts/guides/crustacea/crustacea/crab/ocypodoidea/uca)
+[fiddler crabs](../..//wildfacts/guides/crustacea/crustacea/crab/ocypodoidea/uca)
 , Medaka fish (*Oryzias*
 sp.) and juvenile fishes.
 
 In turn, the fish is preyed upon by the
-[Dog-faced water snake](../../snakes/cerberus)
+[Dog-faced water snake](../../../snakes/cerberus)
 , and birds such as herons, kingfishers. The fish is often seen with mosquitoes biting parts of its body above water.
 
  

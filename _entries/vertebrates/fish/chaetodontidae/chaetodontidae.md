@@ -164,11 +164,11 @@ Chaetodon vagabundus*
 **Batfishes**
 **
 Now listed under
-[Family Ephippidae](../ephippidae/ephippidae)
+[Family Ephippidae](../../ephippidae/ephippidae)
 
 **Angelfishes**
 
 Now listed under
-[Family Pomacanthidae](../pomacanthidae/pomacanthidae)
+[Family Pomacanthidae](../../pomacanthidae/pomacanthidae)
 
 ---

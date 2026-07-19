@@ -154,7 +154,7 @@ A recent study suggests this species comprises a cryptic species complex, with w
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 **What does it eat?**
 It eats
-[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa)
+[hydroids](../../../../cnidaria/others/hydrozoa/hydrozoa)
 *.*
 A large solitary hydroid,
 *Ralpharia*

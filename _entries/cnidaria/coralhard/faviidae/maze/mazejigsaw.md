@@ -90,7 +90,7 @@ species.
 It's hard to distinguish them without close examination of small features and they are grouped here by large external features for convenience of display.
 
 Merulind corals with corallites that form short hexagonal or crooked cells are grouped under
-[Maze hexagonal corals](../hexa/mazehexa)
+[Maze hexagonal corals](../../hexa/mazehexa)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

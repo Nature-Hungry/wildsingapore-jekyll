@@ -97,7 +97,7 @@ to
 , it feeds mainly on planktonic crustaceans, feeding at night in the evening and just before daybreak. Although there was
 [one observation](https://www.facebook.com/photo.php?fbid=10157563297018576&set=a.10157563301103576&type=1&theater)
 of one Orbicular cardinalfish "snapping up
-[Tropical silversides](../atherinidae/duodecimalis)
+[Tropical silversides](../../atherinidae/duodecimalis)
 using its tongue and rapidly swallowing the prey whole (like a frog eating a fly)."
 
 ## Human uses

@@ -185,11 +185,11 @@ To about 38cm, but those seen were 5-8cm long. Large triangular skin flap on the
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 It eats seagrass, seaweed and small crustaceans as well as immobile animals such as
-[bryozoans](../../../bryozoa/bryozoan)
+[bryozoans](../../../../bryozoa/bryozoan)
 ,
-[ascidians](../../../ascidiacea/ascidiacea)
+[ascidians](../../../../ascidiacea/ascidiacea)
 and
-[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa)
+[hydroids](../../../../cnidaria/others/hydrozoa/hydrozoa)
 .
 
 ## Human uses

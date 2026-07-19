@@ -180,16 +180,16 @@ habitats:
 
 ## Where seen?
 Among the largest
-[sea slugs](../../slug)
+[sea slugs](../../../slug)
 to be seen, sea hares may be commonly seen on our Northern and Southern shores in silty and sandy areas near seagrasses and with seaweeds. However, they appear to be seasonal. Sometimes they are everywhere, at other times, none are to be seen.
 
 **What are sea hares?**
 Sea hares are molluscs. They belong to
-[Phylum Mollusca](../../mollusca)
+[Phylum Mollusca](../../../mollusca)
 and
-[Class Gastropoda](../../gastropoda)
-like snails. Like many other sea slugs ([Subclass Opistobranchia](../../slug)), sea hares lack external shells as adults. Sea hares belong to Order Anaspidea and are NOT
-[nudibranchs](../../nudibranchia)
+[Class Gastropoda](../../../gastropoda)
+like snails. Like many other sea slugs ([Subclass Opistobranchia](../../../slug)), sea hares lack external shells as adults. Sea hares belong to Order Anaspidea and are NOT
+[nudibranchs](../../../nudibranchia)
 , which belong to a different Order Nudibranchia.
 
 ## Features
@@ -202,7 +202,7 @@ Like other gastropods, most sea hares have a shell, but this is reduced, thin an
 
 **Sometimes confused with**
 other sea slugs that appear similar but belong to different orders. Here's more on how to tell apart
-[sea hares from other sea slugs](../../nudiharesac)
+[sea hares from other sea slugs](../../../nudiharesac)
 .
 
 **You are what you eat:**
@@ -290,7 +290,7 @@ sp.](seagrass)
 (Seagrass sea hare)
 **Placobranchus virgatus=Thuridilla virgata*
 (now in
-[Family Plakobranchidae](../sacoglossa/elysiidae))
+[Family Plakobranchidae](../../sacoglossa/elysiidae))
 *[Stylocheilus](stylocheilus)*
 [sp.](stylocheilus)
 (Furry sea hare)

@@ -147,7 +147,7 @@ According to Marsh and Fromont, it eats clams.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Feeding on a star:**
 Sometimes, tiny white snails are found on the upperside. These are
-[parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae)
+[parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
 (Family Eulimidae).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Species are difficult to positively identify without close examination.

@@ -87,7 +87,7 @@ Like a little purple bush, this sponge is commonly seen on hard surfaces near th
 A bunch of 'stems' slender (1-1.5cm thick) and long (10-15cm), usually growing upright but sometimes sprawling horizontally hugging the surface. The stems are not extensively branched and cylindrical with rounded tips (not tapering). With small shallow holes regularly spaced along the length of the 'stem' (not just at the tips, and the 'stem' is not a hollow tube). The surface texture is rough. Colours usually purple to lilac.
 
 These sponges are draped with
-[sponge synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge)
+[sponge synaptid sea cucumbers](../../echinodermata/holothuroidea/synsponge)
 at some times of the year.
 
 ![](https://images.naturehungry.sg/porifera/branchpurple/060129skdd6619m3.jpg)

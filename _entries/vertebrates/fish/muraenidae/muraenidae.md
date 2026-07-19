@@ -215,14 +215,14 @@ Moray eels belong to the Family Muraenidae, which belongs to the Order Anguillif
 Moray eels are extremely long fishes with muscular bodies. Their bodies are compressed sideways (they are not tubular). They have no pelvic or pectoral fins. The dorsal and anal fins extend over the entire length of the long body and are continuous with the tail fin, resulting in the typical eel-like profile. Instead of scales, they have thick, smooth skin. The large, strong jaws are filled with lots of teeth. The eyes are small. They have a pair of tubular nostrils at the tip of the snout, and small circular gill openings. Eels swim by moving their muscular bodies in S-shapes, rather like a snake.
 
 **Sometimes mistaken for**
-[sea snakes](../../snakes/hydrophiidae/laticauda)
+[sea snakes](../../../snakes/hydrophiidae/laticauda)
 . Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
 Moray eels' prey include fishes, crustaceans, snails and
-[octopus, squid and cuttlefish](../../../mollusca/cephalopoda)
+[octopus, squid and cuttlefish](../../../../mollusca/cephalopoda)
 . Those that eat fish have sharp, long, fang-like teeth to grab and hold on to their slippery prey. Those that eat hard-shelled crabs and snails have pebble-like teeth to crush prey.
 
 **Two sets of jaws!**

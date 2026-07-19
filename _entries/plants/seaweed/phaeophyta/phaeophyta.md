@@ -135,15 +135,15 @@ Brown seaweeds are only found in the sea and are not found in freshwater.
 
 ## Role in habitat
 Brown seaweeds provide shelter and food for small animals. The large sargassum seaweeds in particular may shelter tiny octopuses, shrimps and fishes. The
-[Crosslandia slug](../../../mollusca/slugs/nudibranchia/crosslandia)
+[Crosslandia slug](../../../../mollusca/slugs/nudibranchia/crosslandia)
 (*Crosslandia*
 sp.) looks exactly like a sargassum blade!
 ## Human uses
 
 Unlike
-[red seaweeds](../rhodophyta/rhodophyta)
+[red seaweeds](../../rhodophyta/rhodophyta)
 and
-[green seaweeds](../chlorophyta/chlorophyta)
+[green seaweeds](../../chlorophyta/chlorophyta)
 , few brown seaweeds are eaten directly by people. There are records that in the Philippines,
 *[Sargassum](sargassum)*
 is widely used in the Ilocos region to enhance the taste of boiled rice or stewed fish. Some species of
@@ -170,7 +170,7 @@ Various brown seaweeds
 {% include img-wrap-group.html items=page.galleries.gallery2 %}![](https://images.naturehungry.sg/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg)
 **
 The
-[Crosslandia nudibranch](../../../mollusca/slugs/nudibranchia/crosslandia)
+[Crosslandia nudibranch](../../../../mollusca/slugs/nudibranchia/crosslandia)
 looks
 
 just like sargassum!
@@ -180,9 +180,9 @@ just like sargassum!
 
 **Division Phaeophyta on Singapore shores**
 
-[text index](../seaweedindex)
+[text index](../../seaweedindex)
 and
-[photo index](../seaweedfi)
+[photo index](../../seaweedfi)
 of brown seaweeds on this site
 
 ---

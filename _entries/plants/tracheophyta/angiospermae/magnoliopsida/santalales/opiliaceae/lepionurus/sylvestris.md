@@ -11,23 +11,32 @@ order: Santalales
 family: Opiliaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03138 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03126 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03132 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03138
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03126
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03132
+      (12).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03128 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03135 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03134 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03128
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03135
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03134
+      (12).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03137 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03137
+      (12).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03138 (12).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\santalales\opiliaceae\lepionurus\sylvestris/DSC03138
+  (12).jpg
 updated: July 2024
+rdb: CR
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

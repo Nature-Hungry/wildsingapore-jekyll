@@ -226,9 +226,9 @@ Living close to the silty or sandy bottom, stingrays have a different way of tak
 
 **Sometimes mistaken for**
 a
-[horseshoe crab](../../../arthropoda/limulidae/limulidae)
+[horseshoe crab](../../../../arthropoda/limulidae/limulidae)
 and visa versa. In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. Other similarly shaped fish include the
-[Electric ray](../Narcinidae/narcine)
+[Electric ray](../../Narcinidae/narcine)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}Most stingrays have one spine (some may have up to four spines), often near the base of the tail (where the tail joins the body). Stingrays don't sting with the tip of the tail. These spines are serrated and can cut deeply and introduce venom into the wound that can cause excruciating pain. These spines are used to protect themselves and not to hunt prey. They can replace lost spines.

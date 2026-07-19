@@ -13,31 +13,46 @@ subfamily: Phyllanthoideae
 tribe: Bridelieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05306 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05323 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05341 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05306
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05323
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05341
+      (14).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05309 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC09886 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC09887 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05309
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC09886
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC09887
+      (14).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05318 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05320 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05343 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05318
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05320
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05343
+      (14).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05315 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05311 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC01961 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05315
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05311
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC01961
+      (14).jpg
   gallery5:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/P5200024 (17).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/P5200024
+      (17).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05306 (14).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\sumatranus/DSC05306
+  (14).jpg
 updated: July 2024
+rdb: VU
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

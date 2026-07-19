@@ -73,10 +73,10 @@ bright green eyes circled with red. The
 When a stone is overturned, other crabs usually madly dash out helter skelter. The stone crab merely tucks its limbs under its body and remains motionless. In this way, predators overlook it as they focus instead on the more nervous crabs.
 
 **Sometimes mistaken for**
-[Red egg crabs](../xanthidae/integerrimus)
+[Red egg crabs](../../xanthidae/integerrimus)
 (*Atergatis integerrimus*), especially Stone crabs that are rather reddish.
 Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer)
+[big crabs with big pincers](../../../bigpincer)
 seen on the rocky shores and coral rubble.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

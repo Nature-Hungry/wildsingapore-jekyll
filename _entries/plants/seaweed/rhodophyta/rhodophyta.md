@@ -184,9 +184,9 @@ which is cultivated in the Philippines and tropical Pacific areas. The Philippin
 
 **Division Rhodophyta on Singapore shores**
 
-[text index](../seaweedindex)
+[text index](../../seaweedindex)
 and
-[photo index](../seaweedfi)
+[photo index](../../seaweedfi)
 of red seaweeds on this site
 
 ---

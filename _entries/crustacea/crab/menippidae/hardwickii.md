@@ -211,12 +211,12 @@ The stone crab eats snails and clams, crushing their shells with its powerful pi
 
 **Sometimes mistaken for**
 the
-[Red egg crab](../xanthidae/integerrimus)
+[Red egg crab](../../xanthidae/integerrimus)
 (*Atergatis integerrimus*) and
 [Maroon stone crab](rumphii)
 (*Menippe rumphii*).
 Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer)
+[big crabs with big pincers](../../../bigpincer)
 seen on the rocky shores and coral rubble.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}

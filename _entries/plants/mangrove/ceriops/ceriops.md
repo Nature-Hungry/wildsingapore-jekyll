@@ -117,11 +117,11 @@ Usually neat and tidy trees or bushes. Sometimes seen in our mangroves.
 ## Features
 
 A short tree sometimes just a bush, older plants may have well developed knee roots. The leaves are thick and spatula-shaped so they are sometimes mistaken for
-[Teruntum](../lumnitzera/lumnitzera)
+[Teruntum](../../lumnitzera/lumnitzera)
 (*Lumnitzera*
 sp.). Tengar (*Ceriops*
 sp.) have a flattened knife-like stipule (leaf bud at the tip of a branch). For young plants, it is difficult to be sure whether they are Tengar putih or Tengar merah without the flowers and propagules. To distinguish from
-[Pisang-pisang](../kandelia/kandelia)
+[Pisang-pisang](../../kandelia/kandelia)
 (*Kandelia candel*), Tengar leaf stalks usually not pinkish.
 
 ## Human uses

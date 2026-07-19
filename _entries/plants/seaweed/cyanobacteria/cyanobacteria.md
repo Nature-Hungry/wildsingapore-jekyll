@@ -116,7 +116,7 @@ Cyanobacteria are more abundant in the intertidal zone than in the open ocean. T
 
 ## Where seen?
 On our shores, cyanobacteria can be seen growing on rocks as well as on sandy shores among seagrasses and seaweeds. 90 species of cyanobacteria are recorded for Singapore by Pham (link below). Some live inside other animals such as sponges like
-[*Lamellodysidea herbacea*](../../../porifera/spatula)
+[*Lamellodysidea herbacea*](../../../../porifera/spatula)
 .
 
 ## Features
@@ -136,9 +136,9 @@ that produce dense blooms in that body of water. African flamingos are pink from
 
 ## Role in habitat
 Cyanobacteria are eaten by a wide range of animals. Among the common animals believed to eat cyanobacteria are sea slugs like the
-[Hairy sea hare](../../../mollusca/slugs/anaspidae/bursatella)
+[Hairy sea hare](../../../../mollusca/slugs/anaspidae/bursatella)
 (*Bursatella leachii*) and
-[Long-tailed hairy sea hare](../../../mollusca/slugs/anaspidae/stylocheilus)
+[Long-tailed hairy sea hare](../../../../mollusca/slugs/anaspidae/stylocheilus)
 (*Styloceilus*
 sp.)
 

@@ -22,6 +22,7 @@ layout: none
   "inat_id": {{ post.inat_id | jsonify }},
   "zone": {{ post.zone | jsonify }},
   "habitats": {{ post.habitats | jsonify }},
+  "rdb": {{post.rdb | jsonify}},
   "search_text": {{
     post.title
     | append: ' '

@@ -69,7 +69,7 @@ These three seaweeds are sometimes confused for one another. Here's more on how 
 ---
 
 how to tell apart
-[seagrasses and seaweeds](../../../glossary/seagrassweed)
+[seagrasses and seaweeds](../../../../glossary/seagrassweed)
 
 ---
 

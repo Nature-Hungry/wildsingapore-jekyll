@@ -190,7 +190,7 @@ s) is found in silty and muddy areas. It can grow to about 36cm. Body silvery wi
 
 **Sometimes confused with**
 other small silvery fishes. More on
-[how to tell apart small silvery fishes](../cfsilvery)
+[how to tell apart small silvery fishes](../../cfsilvery)
 .
 ****
 

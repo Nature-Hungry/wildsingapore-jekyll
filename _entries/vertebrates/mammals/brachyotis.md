@@ -79,7 +79,7 @@ This small bat with a dog-like face is among our most commonly seen bats. Accord
 Forearm length about 6.5cm. It has white wing bones and white ear edges. A small bat with a long muzzle without an elaborate 'nose leaf'. Instead, it has prominent tubular nostrils. Together with large eyes, it has a dog-like face. It is sometimes called the Lesser Dog-faced fruit bat and Lesser Short-nosed fruit bat. Generally brown, the male has a reddish collar while the female has a yellowish collar.
 
 Several bats (6-12) may roost together. Sometimes under
-[Bird's nest ferns](../../plants/others/asplenium/nidus)
+[Bird's nest ferns](../../../plants/others/asplenium/nidus)
 (*Asplenium nidus*) creating a sheltered area by chewing off some of the inner portions of the 'skirt' of dead leaves under the fern. They also create a shelter out of a palm leaf by biting the ribs of so portions of the leaf droop to form an umbrella. They even shelter in buildings.
 
 **What does it eat?**

@@ -94,7 +94,7 @@ A study found that
 can also look like
 [Carpet corallimorphs](carpet)
 .
-[Posy anemones](../../actiniaria/posy)
+[Posy anemones](../../../actiniaria/posy)
 also look quite similar.
 
  

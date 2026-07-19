@@ -103,17 +103,17 @@ True oysters belong to the Family Osteridae.
 ## Features
 
 The two-part shell is thick and chalky. In true oysters, the left valve is glued firmly to a hard surface. What we see is the right valve. A layer of barnacles and algae often eventually develops over the right valve so that the oyster becomes hard to distinguish from the rock. Some oysters have spikes on this valve, probably to deter predators such as
-[drills](../../gastropoda/muricidae/muricidae)
+[drills](../../../gastropoda/muricidae/muricidae)
 . Other bivalves usually have a foot, to dig with or move about. Being immobile as adults, oysters have lost their foot.
 
 It is hard to distinguish oyster species by their shell shape alone. Their shells can take different shapes depending on the conditions they live in. They are usually identified by internal features of the shell and animal. On this website, they are grouped by external features for convenience of display.
 
 **Sometimes mistaken for**
-[limpets](../../gastropoda/limpets/limpet)
+[limpets](../../../gastropoda/limpets/limpet)
 or
-[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](../..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 . Here's more on how to tell apart
-[shelled animals found on the rocks](../../../glossary/limpetbarnacle)
+[shelled animals found on the rocks](../../../../glossary/limpetbarnacle)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What do they eat?**
@@ -125,7 +125,7 @@ Oysters may produce eggs or larvae. Some species may change gender while others 
 ## Human uses
 
 Oysters are relished by people everywhere as a delicacy. They are also believed to have aphrodisiac properties in some cultures. Like other filter-feeding clams, however, oysters may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
+[red tide and other harmful algal blooms](../../../../plants/seaweed/redtide)
 when they are then harmful to eat.
 
 **Oyster farming:**

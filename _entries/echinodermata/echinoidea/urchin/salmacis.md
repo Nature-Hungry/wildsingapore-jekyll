@@ -110,9 +110,9 @@ It eats seaweeds.
 Despite being prickly, come animals can eat them. Examination of tests (skeleton of a dead sea urchin) suggest that large snails might prey on them.
 Other animals
 live on the urchin, including
-[Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae)
+[Parasitic snails](../../../../mollusca/gastropoda/eulimidae/eulimidae)
 , the Zebra crab and sometimes, the
-[Urchin-mouth worm](../../../worm/polychaeta/oxydromus)
+[Urchin-mouth worm](../../../../worm/polychaeta/oxydromus)
 is found curled around the mouth.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

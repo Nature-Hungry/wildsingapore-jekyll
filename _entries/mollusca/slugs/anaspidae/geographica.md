@@ -124,7 +124,7 @@ It lays long tangles of pink egg strings among seaweeds and seagrasses.
 
 **What does it eat?**
 It is believed to feed on brown seaweeds, but in our observations, these animals seem more abundant during blooms of the green
-[sea lettuce seaweed](../../../plants/seaweed/chlorophyta/ulva)
+[sea lettuce seaweed](../../../../plants/seaweed/chlorophyta/ulva)
 (*Ulva*
 sp.).
 

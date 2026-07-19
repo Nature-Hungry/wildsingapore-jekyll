@@ -140,9 +140,9 @@ These amazing animals are seasonally common on many of our shores. Tiny squids a
 
 **What are squids and cuttlefish?**
 They are not fish! These animals are
-[molluscs](../mollusca)
+[molluscs](../../mollusca)
 (Phylum Molusca) like snails, slugs and clams; and
-[cephalopods](../cephalopoda)
+[cephalopods](../../cephalopoda)
 (Class Cephalopoda) which include
 [octopuses](octopus)
 . Most of the commonly encountered cuttlefishes belong to

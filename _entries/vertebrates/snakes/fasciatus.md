@@ -136,7 +136,7 @@ the highly venomous
 (*Laticauda colubrina*). Here's
 [how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 
 **What does it eat?**

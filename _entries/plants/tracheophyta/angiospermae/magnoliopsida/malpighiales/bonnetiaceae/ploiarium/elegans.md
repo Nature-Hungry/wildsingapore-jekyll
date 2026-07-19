@@ -11,19 +11,29 @@ order: Malpighiales
 family: Bonnetiaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC04300 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/P9040081 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/P9040083 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC04300
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/P9040081
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/P9040083
+      (24).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC03504 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC03505 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC04308 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC03504
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC03505
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC04308
+      (11).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/P9040087 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC04305 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/P9040084 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/P9040087
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC04305
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/P9040084
+      (24).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC03502 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC03502
+      (10).jpg
 title: Cicada Tree
 other_names:
 - Riang Riang
@@ -32,8 +42,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC04300 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\bonnetiaceae\ploiarium\elegans/DSC04300
+  (11).jpg
 updated: July 2024
+rdb: Lc
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

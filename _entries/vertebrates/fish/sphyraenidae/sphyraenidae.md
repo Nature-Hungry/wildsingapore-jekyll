@@ -84,9 +84,9 @@ Barracudas belong to the Family Sphyraenidae. According to
 Enormous adults are found in deeper water. Those seen on the intertidal are juveniles usually 5-8cm long. Body short and cylindrical with regular pale bars on a greenish or olive background. Large eyes. Both jaws seem to be about the same length, the upper jaw only a little shorter than the lower jaw. It has a forked tail and the dorsal fins are far apart and well separated.
 
 **Sometimes mistaken for**
-[halfbeaks](../hemiramphidae/hemiramphidae)
+[halfbeaks](../../hemiramphidae/hemiramphidae)
 . Halfbeaks have an upper jaw that is much shorter than the lower jaw. Here's more on
-[how to tell apart stick-like fishes](../cfstick)
+[how to tell apart stick-like fishes](../../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

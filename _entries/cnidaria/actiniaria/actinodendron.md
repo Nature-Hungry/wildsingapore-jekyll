@@ -181,7 +181,7 @@ This large anemone is often seen among seagrasses and in sandy areas near reefs 
 
 Diameter with tentacles expanded 15-20cm. About 40 fat, fleshy cylindrical tentacles with a thick base. Tentacles studded with clusters of 'branches' with oval tips. The oral disk has white stripes with small dark spots, radiating from the mouth. Body column plain, smooth with regular ridges along the length. Colours range from brown, purple, blue, yellow, green. The animal can retract rapidly and completely into the ground when disturbed.
 
-**Sometimes mistaken for** a [flowery soft coral](../coralsoft/nephtheidae) (Family Nephtheidae). While the soft corals don't sting, fire anemones do!
+**Sometimes mistaken for** a [flowery soft coral](../../coralsoft/nephtheidae) (Family Nephtheidae). While the soft corals don't sting, fire anemones do!
 
 **Fiery Stinger:**
 The common name comes from its powerful and nasty sting

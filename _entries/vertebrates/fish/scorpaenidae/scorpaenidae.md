@@ -147,9 +147,9 @@ A scorpionfish uses its venom only for protection and not to catch or kill prey.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Scorpionfish mimic:**
 The
-[False scorpionfish](../centrogenyidae/vaigiensis)
+[False scorpionfish](../../centrogenyidae/vaigiensis)
 (*Centrogenys vaigiensis*) looks and behaves like a scorpionfish but belong to the Family Serranidae which includes groupers. By mimicking the more venomous scorpionfishes, the false scorpionfish probably manages to discourage most predators. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish)
+[how to tell apart fishes that look like stones](../../cfstonefish)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**
@@ -229,7 +229,7 @@ Paracentropogon leucoprosopon
 (Mangrove waspfish)
 
 ****now
-[Family Synanceiidae](../synanceiidae/horrida)
+[Family Synanceiidae](../../synanceiidae/horrida)
 (stonefishes)**
 
 *Chloridactylus multibarbis=**Choridactylus multibarbus*

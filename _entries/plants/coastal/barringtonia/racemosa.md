@@ -119,7 +119,7 @@ Flowers small (3-5cm) a pom-pom of many short pink stamens with small pink petal
 Fruit (3-8cm long) egg- or pear-shaped, sometimes weakly angled or with four faint grooves, green ripening to flushed reddish. The fruit floats and may travel in seawater for many months. Each fruit usually contains only one seed (2-4cm long).
 
 It is the food plant for caterpillars of the moths
-[Attacus atlas](../../../insecta/atlas)
+[Attacus atlas](../../../../insecta/atlas)
 (*Atlas Moth*),
 *Gnathmocerodes tonsoria*
 , and

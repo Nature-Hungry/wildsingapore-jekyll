@@ -99,7 +99,7 @@ This armina nudibranch is sometimes seen on Changi and some of our Northern shor
 
 **What does it eat?**
 As a group, the armina nudibranchs eat soft corals and sea pens. The bumpy-faced armina nudibranch is often seen near
-[sea pencils](../../../cnidaria/others/pennatulacea/pencil)
+[sea pencils](../../../../cnidaria/others/pennatulacea/pencil)
 . It is possible that they eat the sea pencils.
 [Bill Rudman](http://www.seaslugforum.net/showall/armisemp)
 has a post sharing how an armina nudibranch feeds on a sea pen and is dragged down into the sand when the sea pen retracts.

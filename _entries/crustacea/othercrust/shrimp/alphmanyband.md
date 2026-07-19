@@ -105,9 +105,9 @@ This snapping shrimp with a long body and many bands is rarely seen. On coral ru
 4-6cm long. Body long, narrow with many pale narrow bands. Some have one or two more prominent white or orange bands.
 
 These snapping shrimps are often seen with shrimp gobies such as the
-[Slender-lined shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus)
+[Slender-lined shrimp-goby](../../../../vertebrates/fish/gobiidae/leptocephalus)
 (*Cryptocentrus leptocephalus*) and
-[Saddled shrimp-goby](../../../vertebrates/fish/gobiidae/maudae)
+[Saddled shrimp-goby](../../../../vertebrates/fish/gobiidae/maudae)
 (*Cryptocentrus maudae*).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Species are difficult to positively identify without close examination.

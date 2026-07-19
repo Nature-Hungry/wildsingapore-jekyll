@@ -205,7 +205,7 @@ Diameter expanded 20-30cm, up to 50cm when fully expanded. Many long tentacles (
 other large sea anemones and similar large cnidarians. Here's more on how to tell apart
 [large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians)
+[large 'hairy' cnidarians](../../cflargecnidarians)
 .
 
 **Leathery friends:**
@@ -214,7 +214,7 @@ The Leathery anemone harbours symbiotic algae (called zooxanthellae) that photos
 (*Periclimenes brevicarpalis*) and fishes such as
 *Dascyllus trimaculatus*
 and many species of
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
+[anemonefishes](../../../vertebrates/fish/pomacentridae/amphiprion)
 .
 
  

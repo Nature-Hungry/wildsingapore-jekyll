@@ -10,6 +10,15 @@
 .entry-wrapper{
   position: relative;
 }
+.entry-rdb{
+  position:absolute;
+  right:10px;
+  top:10px;
+  height:14px;
+  width:14px;
+  border-radius: 100%;
+  border:2px solid white;
+}
 .entry{
     height:100%;
     display: flex;
@@ -19,6 +28,7 @@
     border-radius: 8px 8px 0 0;
     overflow: hidden;
     min-height:200px;
+    
   }
   .entry .img-container{
     width:100%;
@@ -34,20 +44,21 @@
   }
   
   .entry:hover{
-  transition: 0.05s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: 0.1s all;
+  color:white;
   text-decoration: none;
-  background-color: white;
+  background-color: var(--color-section-head);
+  
   transform: scale(1.2);
   padding:0.5rem;
   border-radius: 8px;
-  box-shadow: 0 0 0 4px rgb(0 115 25 / 10%);
   z-index: 20;
   position: absolute;
   width:100%;
 
   top:0;
   left:0;
-
+  
 }
 
 .scientific-name{
@@ -399,6 +410,8 @@ function renderResults() {
     return `
     <div class="entry-wrapper">
     <a href="${item.url}" class="entry" ${item.external ? "rel='nofollow' external="+item.external : ""}>
+        <div class="entry-rdb ${item.rdb}">
+        </div>
         <div class="img-container">
             <img src="${item.coverimg ?? 'https://placehold.co/600x400/png'}" alt="">
         </div>

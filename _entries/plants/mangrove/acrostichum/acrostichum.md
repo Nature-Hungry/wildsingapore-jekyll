@@ -103,7 +103,7 @@ permalink: /entries/Tracheophyta/Polypodiopsida/Polypodiales/Pteridineae/Pterida
 
 ## Where seen?
 These ferns are often seen in back mangroves, flourishing on
-[mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
+[mud lobster mounds](../..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 and other higher ground. Elsewhere, they naturally occur in tidal swamps, muddy coasts, river banks and tidal estuaries. They can be common and even dominant in the understorey of back mangroves. '
 *Piai*
 ' means 'shrimp' in Malay, and this may be because these ferns grow well on raised bunds created for shrimp farming. Another malay name for them is

@@ -120,9 +120,9 @@ Ribbon worms regularly seen in coral rubble areas on many of our shores. They ar
 
 **What are ribbon worms?**
 Ribbon worms are unsegmented
-[worms](../worm)
+[worms](../../worm)
 belonging to Phylum Nemertea. They are quite different from the segmented worms that we are more familiar with such as earthworms and
-[bristleworms](../polychaeta/polychaeta)
+[bristleworms](../../polychaeta/polychaeta)
 . These belong to Phylum Annelida. According to
 [the Nemertes website](http://nemertes.si.edu/)
 , there are approximately 1,000 valid, described species of ribbon worms, with possibly several times this number that remain to be named or discovered! Ribbon worms are found in oceans, freshwaters, and also on land.

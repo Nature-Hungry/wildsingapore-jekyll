@@ -113,7 +113,7 @@ Keelworms are segmented worms belonging to the Family Serpulidae, Class
 [Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm.
 Not all tubeworms are polychaetes and not all polychaetes are tubeworms. More about
-[tubeworms in general](../tubeworm/tubeworms)
+[tubeworms in general](../../tubeworm/tubeworms)
 .
 
 ## Features
@@ -121,9 +121,9 @@ Not all tubeworms are polychaetes and not all polychaetes are tubeworms. More ab
 Tubes about 0.5cm in diameter and 5-8cm long, usually under stones. The keelworm secretes a hard tube out of calcium carbonate to protect their soft bodies. These hard tubes allow them to settle in tough places such as the underside of a stone. A little knob on a stalk, called the operculum, seals the opening from predators and reduces water loss at low tide. The operculum is actually a modified tentacle. The worm's head is topped by a fan of feathery tentacles (called a radiole) that is extended at high tide. They also breathe through these feathery tentacles.
 
 **Sometimes confused with**
-[vermetid snails](../../mollusca/gastropoda/vermetidae/vermetidae)
+[vermetid snails](../../../mollusca/gastropoda/vermetidae/vermetidae)
 that also build tubes on rocks. Tubes made by worms such as keelworms are dull on the inside and made up of two layers. Tube worms have segmented bodies. Tubes made by snails such as vermetids are glossy on the inside because of a deposit of nacre, and made up of three layers. Vermetid snails do not have segmented bodies. Here's more on how to tell apart
-[animals that make hard coiling tubes](../../glossary/tubehard)
+[animals that make hard coiling tubes](../../../glossary/tubehard)
 .
 
 **What does it eat?**
@@ -141,7 +141,7 @@ Keelworms are among the important animals that form the fouling community. These
 ![](https://images.naturehungry.sg/worm/polychaeta/serpulidae/080731chgd8454m3.jpg)
 
 On a living
-[Window-pane shell.](../../mollusca/bivalvia/anomiidae/placuna)
+[Window-pane shell.](../../../mollusca/bivalvia/anomiidae/placuna)
 *Changi, Jul 08
 
 ![](https://images.naturehungry.sg/worm/polychaeta/serpulidae/080731chgd8452m3d.jpg)

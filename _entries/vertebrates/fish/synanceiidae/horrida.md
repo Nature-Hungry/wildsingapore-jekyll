@@ -229,7 +229,7 @@ The fish really looks like a stone. It grows to nearly 50cm, those seen about 15
 
 **Sometimes mistaken for**
 scorpionfishes. Here's more on
-[how to tell apart fishes that look like stones](../cfstonefish)
+[how to tell apart fishes that look like stones](../../cfstonefish)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Deadly stone!**

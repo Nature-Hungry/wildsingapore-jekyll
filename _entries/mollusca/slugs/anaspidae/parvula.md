@@ -103,7 +103,7 @@ sp.) is much smaller).
 
 **Sometimes mistaken for**
 the
-[Leaf slug](../sacoglossa/ornata)
+[Leaf slug](../../sacoglossa/ornata)
 (*Elysia ornata*) which is not a sea hare but a sap sucking slug. The Leaf slug only has one pair of tentacles and its 'wings' are much longer, extending along most of the body length.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

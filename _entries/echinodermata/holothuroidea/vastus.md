@@ -100,11 +100,11 @@ habitats:
 
 ## Where seen?
 This large sea cucumber is sometimes seen on Pulau Semakau, in deeper water coral rubble. It is also called the Curryfish as it is among the sea cucumbers that are edible and harvested for the restaurant trade. Elsewhere, it is found in seagrass meadows, particularly
-[Tape seagrass](../../plants/seagrass/enhalus)
+[Tape seagrass](../../../plants/seagrass/enhalus)
 and
-[Sickle seagrass](../../plants/seagrass/thalassia)
+[Sickle seagrass](../../../plants/seagrass/thalassia)
 . It is also found under
-[coralline algae](../../plants/seaweed/rhodophyta/corallinaceae)
+[coralline algae](../../../plants/seaweed/rhodophyta/corallinaceae)
 . Larger individuals live in deeper soft coral rubble areas outside of seagrass habitats. Also said to live on hard bottom and rubble.
 
 ## Features

@@ -13,24 +13,34 @@ subfamily: Myrtoideae
 tribe: Syzygieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06111 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06112 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06115 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06111
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06112
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06115
+      (15).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06125 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06114 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06130 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06125
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06114
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06130
+      (15).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06128 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06129 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06128
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06129
+      (15).jpg
 title: Kelat Hitam
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06111 (15).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\syzygioides/DSC06111
+  (15).jpg
 updated: July 2024
+rdb: Lc
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

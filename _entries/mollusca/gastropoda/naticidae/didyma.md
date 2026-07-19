@@ -111,7 +111,7 @@ that is easily distinguished by its more tear-drop shaped shell which on the und
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **What does it eat?**
 This snail is often seen actively hunting
-[Button snails](../trochidae/umbonium)
+[Button snails](../../trochidae/umbonium)
 .
 
 ## Human uses

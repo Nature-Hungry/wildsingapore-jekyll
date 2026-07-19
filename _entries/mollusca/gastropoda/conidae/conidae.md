@@ -231,7 +231,7 @@ This slow-moving snail relies on its fast acting venom to rapidly immobilise and
 on The Gladys Archerd Shell Collection website). The harpoon remains embedded in the prey. The harpoon is attached to the snail with a chord. Once the prey is paralysed (usually in seconds), the snail retracts the cord and engulfs the prey. It can take a cone snail several hours to digest its prey. The snail can 'reload' a new harpoon to replace a used one.
 
 **Sometimes mistaken for**
-[Olive snails](../olividae/olividae)
+[Olive snails](../../olividae/olividae)
 (Family Olividae) which tend to be more tapered on both ends of the shell, resulting in a more olive-like shape.
 
 **What do they eat?**

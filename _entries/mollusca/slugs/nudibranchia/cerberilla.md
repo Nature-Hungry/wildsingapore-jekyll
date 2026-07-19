@@ -148,7 +148,7 @@ habitats:
 
 ## Where seen?
 This tiny 'furry' nudibranch is sometimes seen among
-[Sea Lettuce](../../../plants/seaweed/chlorophyta/ulva)
+[Sea Lettuce](../../../../plants/seaweed/chlorophyta/ulva)
 (*Ulva*
 sp.) as well as burrowing in sandy areas on our Northern shores.
 
@@ -158,7 +158,7 @@ sp.) as well as burrowing in sandy areas on our Northern shores.
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}**What does it eat?**
 It is believed to feed on
-[sea anemones](../../../cnidaria/actiniaria/actiniaria)
+[sea anemones](../../../../cnidaria/actiniaria/actiniaria)
 .
 
 Cerberilla nudibranchs produce a spiral egg mass with a long string or thread at the end that is attached to something hard in the sand and thus anchor the eggs in the sand.

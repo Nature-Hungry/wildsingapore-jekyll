@@ -288,9 +288,9 @@ It feeds on algae, grazing these from dead corals or rubble areas. It may also t
 
 **Prickly home:**
 The sea urchin is sometimes home to other animals such as
-[cardinalfish](../../../vertebrates/fish/apogonidae/apogonidae)
+[cardinalfish](../../../../vertebrates/fish/apogonidae/apogonidae)
 (Family Apogonidae),
-[razorfishes](../../../vertebrates/fish/centriscidae/centriscidae)
+[razorfishes](../../../../vertebrates/fish/centriscidae/centriscidae)
 (Family Centriscidae) and shrimps (*Saron marmoratus*) and anemones (*Coeloplana*
 sp.). Small white parasitic snails are also said to be associated with it.
 

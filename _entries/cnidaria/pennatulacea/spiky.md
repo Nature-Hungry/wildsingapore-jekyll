@@ -131,10 +131,10 @@ Tiny feeding polyps (autozooids) with 8 branched tentacles emerge from these 'le
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Pen pals:**
 The tiny
-[Painted porcelain crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/picta)
+[Painted porcelain crab](../..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/picta)
 (*Porcellanella picta*) is often found in this sea pen. Sometimes a pair is seen in one sea pen, at other times, many are seen.
 Washed up sea pens sometimes seen with
-[colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
+[colourful brittle stars](../../../../echinodermata/ophiuroidea/tinycolourful)
 and other brittle stars. Less friendly animals associated with it are nudibranchs that eat them!
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

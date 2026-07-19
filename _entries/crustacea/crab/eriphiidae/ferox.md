@@ -236,7 +236,7 @@ is restricted to the Indian Ocean. Most specimens in Southeast and East Asia as 
 
 **Sometimes confused with**
 similar crabs in the same habitat. Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer)
+[big crabs with big pincers](../../../bigpincer)
 seen on the rocky shores and coral rubble.
 
  

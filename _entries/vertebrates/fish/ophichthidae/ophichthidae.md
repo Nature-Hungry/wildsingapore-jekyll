@@ -162,16 +162,16 @@ Worm-eels and snake-eels belong to the Family Ophichthidae, which belongs to the
 20cm-2.5m long, these fishes have a tubular body. They lack scales. Some species have pectoral fins, others don't. The head and tail are pointed and they are adapted for burrowing. They swim by moving the body in S-shapes, rather like a sea snake. In fact, some day-hunting snake eels mimic sea snakes.
 
 **Sometimes mistaken for**
-[worms](../../../worm/worm)
+[worms](../../../../worm/worm)
 or
-[sea snakes](../../snakes/hydrophiidae/laticauda)
+[sea snakes](../../../snakes/hydrophiidae/laticauda)
 . Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../../glossary/eelsnake)
 .
 
 **What do they eat?**
 Most species are burrowing. They hunt fishes,
-[octopus, squids and cuttlefishes](../../../mollusca/cephalopoda)
+[octopus, squids and cuttlefishes](../../../../mollusca/cephalopoda)
 and crustaceans.
 
 ---

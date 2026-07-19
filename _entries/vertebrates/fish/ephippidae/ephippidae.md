@@ -165,12 +165,12 @@ The body is flattened sideways. The mouth is small. Adults are silvery and rathe
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Make like a leaf:**
 Sometimes, may lie on the side, floating in the water to mimic leaves or flat against the surface mimicking toxic flatworms. In some species, the juveniles are found with
-[feather stars](../../../echinodermata/crinoidea/crinoidea)
+[feather stars](../../../../echinodermata/crinoidea/crinoidea)
 .
 
 **May be confused with**
 the
-[Silver moony](../monodactylidae/argenteus)
+[Silver moony](../../monodactylidae/argenteus)
 (Family Monodactylidae).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**
@@ -220,7 +220,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 **Family Ephippidae**
 (previously listed under
-[Family Chaetodontidae](../chaetodontidae/chaetodontidae))
+[Family Chaetodontidae](../../chaetodontidae/chaetodontidae))
 
 *Platax batavianus*
 (Batavia batfish)

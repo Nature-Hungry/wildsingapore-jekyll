@@ -232,7 +232,7 @@ has found that this sea cucumber plays an important role in the health of seagra
 . According to the
 [IUCN Red List](http://www.iucnredlist.org/details/full/180257/0)
 , juveniles settle in shallow seagrass beds and prefer seagrass such as
-[Sickle seagrass](../../plants/seagrass/thalassia)
+[Sickle seagrass](../../../plants/seagrass/thalassia)
 (*Thallassia hemprichi*) as well as mangrove areas.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

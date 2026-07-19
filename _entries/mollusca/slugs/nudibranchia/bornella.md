@@ -195,7 +195,7 @@ This small nudibranch is sometimes seen on our some of our shores, among seagras
 
 **What does it eat?**
 It eats small
-[hydroids](../../../cnidaria/others/hydrozoa/hydrozoa)
+[hydroids](../../../../cnidaria/others/hydrozoa/hydrozoa)
 growing on or under rocks and hard surfaces.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

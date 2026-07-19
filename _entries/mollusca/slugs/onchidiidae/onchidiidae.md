@@ -170,14 +170,14 @@ Onch slugs are common on all our shores, on algae-covered rocks or other hard su
 
 **What are onch slugs?**
 Onch slugs belong to
-[Phylum Mollusca](../../mollusca)
+[Phylum Mollusca](../../../mollusca)
 and are snails of the
-[Class Gastropoda](../../gastropoda)
+[Class Gastropoda](../../../gastropoda)
 that lack shells.
 
 **Onch slugs are NOT nudibranchs!**
 Pulmonate sea slugs such as the Onch slugs of the Family Onchidiidae breathe air through simple lungs or modified gills. Other sea slugs breathe underwater with gills. Here's more on how to tell apart
-[onch slugs from other sea slugs](../../nudiharesac)
+[onch slugs from other sea slugs](../../../nudiharesac)
 .
 
 ## Features

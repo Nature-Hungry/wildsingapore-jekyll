@@ -104,7 +104,7 @@ and
 can also look like
 [Neon anemones](neon)
 . While
-[White tipped corallimorphs](../others/corallimorphs/whitetip)
+[White tipped corallimorphs](../../others/corallimorphs/whitetip)
 can also look similar.
 
  

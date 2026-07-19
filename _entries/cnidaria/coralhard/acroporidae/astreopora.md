@@ -144,9 +144,9 @@ Colonies large (about 20cm or more). Colonies are solid (massive) and may be dom
 
 **Sometimes mistaken**
 for
-*[Turbinaria](../dendrophylliidae/Dendrophylliidae)
+*[Turbinaria](../../dendrophylliidae/Dendrophylliidae)
 or
-[Echinopora](../merulinidae/echinopora)*
+[Echinopora](../../merulinidae/echinopora)*
 species.
 ****
 **Status:**

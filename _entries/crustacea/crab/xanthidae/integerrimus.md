@@ -268,11 +268,11 @@ Body width 8-10cm. Body oval somewhat egg-shaped body with a smooth edge (not 't
 and should not be eaten.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes mistaken for**
-[Stone crabs](../menippidae/hardwicki)
+[Stone crabs](../../menippidae/hardwicki)
 (*Myomenippe hardwicki*) and
 [Maroon stone crab](rumphii)
 (*Menippe rumphii*). Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer)
+[big crabs with big pincers](../../../bigpincer)
 seen on the rocky shores and coral rubble.
 
  

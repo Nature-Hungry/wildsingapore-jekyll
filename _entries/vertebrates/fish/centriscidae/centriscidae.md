@@ -201,7 +201,7 @@ the dorsal spine is hinged, and thus moveable. When the spine is bent, it looks 
 
 **Sometimes mistaken for**
 other fishes that resemble sticks and twigs. Here's more on
-[how to tell apart stick-like fishes](../cfstick)
+[how to tell apart stick-like fishes](../../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Camou Colours:**
@@ -209,13 +209,13 @@ Their colours may change depending on their surroundings. Some are greenish-yell
 
 **Not fishy!**
 They don't look or behave like a typical fish, and thus often overlooked. They usually swim head down in small synchronised groups, often among the spines of large sea urchins such as the
-[Long-spined sea urchin](../../../echinodermata/echinoidea/urchin/diadema)
+[Long-spined sea urchin](../../../../echinodermata/echinoidea/urchin/diadema)
 or over
-[sea fans](../../../cnidaria/others/gorgonacea/gorgonacea)
+[sea fans](../../../../cnidaria/others/gorgonacea/gorgonacea)
 , branching
-[hard corals](../../../cnidaria/coralhard/coralhard)
+[hard corals](../../../../cnidaria/coralhard/coralhard)
 and
-[sea whips](../../../cnidaria/others/gorgonacea/gorgonacea)
+[sea whips](../../../../cnidaria/others/gorgonacea/gorgonacea)
 . But they do swim horizontally and can make a swift getaway.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**What do they eat?**

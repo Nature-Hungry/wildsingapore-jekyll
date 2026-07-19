@@ -134,7 +134,7 @@ This pretty plant with plasticky leaves and tiny flowers is sometimes seen in ba
 Short shrub to tall tree. Leaves spatula shaped with oval ends thick and fleshy, arranged in a spiral. Flowers small. The small fruits are ribbed, corky and float, and dispersed by water.
 
 **Sometimes mistaken for**
-[Chengam](../scyphiphora/hydrophyllacea)
+[Chengam](../../scyphiphora/hydrophyllacea)
 (*Scyphiphora hydrophyllacea*) which has its leaves arranged in a spiral.
 
 According to Giesen, although occurring throughout Malaysia and Indonesia,

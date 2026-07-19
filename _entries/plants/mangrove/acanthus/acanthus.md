@@ -144,7 +144,7 @@ permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Lamiales/Acanthaceae
 
 ## Where seen?
 These prickly plants with pretty flowers are often seen in thickets in the back mangroves, especially on
-[mud lobster mounds](..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
+[mud lobster mounds](../..//wildfacts/guides/crustacea/crustacea/othercrust/lobster/thalassina)
 . These plants have no relation whatsoever with the Christmas holly, although they appear similar. In fact, not all the leaves of a Sea holly plant may have spiny edges. Leaves growing the deep shade can be totally spineless.
 
 ## Features

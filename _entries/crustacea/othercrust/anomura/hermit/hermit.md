@@ -274,9 +274,9 @@ Hermit crabs are commonly seen on many of our shores. They come in all sizes fro
 
 **What are hermit crabs?**
 Hermit crabs belong a subgroup called Anomurans in the Order
-[Decapoda](..//wildfacts/guides/crustacea/decapoda)
+[Decapoda](../..//wildfacts/guides/crustacea/decapoda)
 . Anomurans includes
-[porcelain crabs](../porcellanidae/porcellanidae)
+[porcelain crabs](../../porcellanidae/porcellanidae)
 . These crab-like animals are not true crabs. True crabs belong to a subgroup called Brachyurans within the Order Decapoda.
 
 ## Features
@@ -302,11 +302,11 @@ on the wild shores of singapore blog.
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**Living with a hermit:**
 The hermit crab makes such a comfy home in its borrowed shell that other animals take up residence with it. These include the
-[Slipper snail](../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae)
+[Slipper snail](../../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae)
 (Family Crepidulidae),
-[tiny porcelain crabs](../porcellanidae/hermit)
+[tiny porcelain crabs](../../porcellanidae/hermit)
 and
-[sea anemones](../../../../cnidaria/actiniaria/hermitsmall)
+[sea anemones](../../../../../cnidaria/actiniaria/hermitsmall)
 . These animals enjoy the constant flow of oxygenated water that the hermit crab generates, snack on the hermit crab's leftovers, and the hermit crab will hide in the sand or crevices where its safe and wet so the hitch-hikers don't risk drying out.
 
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
@@ -320,7 +320,7 @@ Hermit crabs have separate genders. To mate, hermits crabs partially emerge from
 
 {% include img-wrap-group.html items=page.galleries.gallery8 %}**Hermit crabs belong on the seashore!**
 Please don't take hermit crabs home. And please don't buy one from a pet store. Hermit crabs sold in a pet store are collected from the wild. Many have died during the collection process, before they are even sold. And many of those sold also eventually die from neglect or ignorance of proper care. For example, within the confinement of a small tank, most die during a moult. In the wild, they are able to find the correct place to moult, with the proper high humidity.
-[More about moulting](../../../moulting)
+[More about moulting](../../../../moulting)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery9 %}Even if they are kept alive for a long time, hermit crabs removed from the habitat generally do not reproduce successfully. Thus, they do not contribute to the wild population. Other animals rely on hermit crabs as homes and as food. Removing wild hermit crabs hurts the ecosystem.

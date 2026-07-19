@@ -86,7 +86,7 @@ permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronecto
 These tiny flatfishes are sometimes seen on our Northern shores, among seagrasses, buried in sand or hovering over the surface.
 **What are tongue-soles?**
 Tongue-soles are
-[flatfishes](../pleuronectiformes/pleuronectiformes)
+[flatfishes](../../pleuronectiformes/pleuronectiformes)
 belonging to the Family Cynoglossidae. According to
 [FishBase](http://fishbase.sinica.edu.tw/summary/FamilySummary.cfm?id=442)
 : the family has 3 genera and 110 species. They are found in all warm oceans, most species in shallow waters or near river mouths. One group (Symphurinae) are found in very deep waters 1,000m or more. In Greek, 'kyon' means 'dog' and 'glossa' means 'tongue'.
@@ -96,11 +96,11 @@ To about 18cm, those seen about 3-6cm. Both eyes on the left side, usually very 
 
 **Sometimes confused with**
 other
-[flatfishes](../pleuronectiformes/pleuronectiformes)
+[flatfishes](../../pleuronectiformes/pleuronectiformes)
 . Here's more on
-[how to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1)
+[how to tell apart the flatfish families](../../pleuronectiformes/pleuronectiformes1)
 commonly seen. Tiny, flat and fast, they are also sometimes mistaken for
-[flatworms](../../../worm/polycladida/polycladida)
+[flatworms](../../../../worm/polycladida/polycladida)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

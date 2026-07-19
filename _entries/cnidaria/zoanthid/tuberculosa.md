@@ -121,11 +121,11 @@ Some sea mat species can grow rapidly, up to 0.4cm a day. They are quite aggress
 
 **Sometimes confused**
 with
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 ,
-[ascidians](../../../ascidiacea/ascidiacea)
+[ascidians](../../../../ascidiacea/ascidiacea)
 and other blob-like animals. Here's more on
-[how to tell apart blob-like animals](../../../glossary/blobs)
+[how to tell apart blob-like animals](../../../../glossary/blobs)
 .
 
 **Toxic mat:**

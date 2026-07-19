@@ -51,7 +51,7 @@ These rounded blob-shaped animals are commonly seen on our Northern shores.
 
 Colony about 5-10cm in diameter. Rubbery blobs forming on hard surfaces or on stones near the mid-water mark. In various shades of black, red, yellow, brown and beige.
 
-These blob ascidians look like the ones that are sometimes used by some [sponge crabs](../crustacea/crab/dromiidae/dromiidae) for camouflage and protection.
+These blob ascidians look like the ones that are sometimes used by some [sponge crabs](../../crustacea/crab/dromiidae/dromiidae) for camouflage and protection.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ***

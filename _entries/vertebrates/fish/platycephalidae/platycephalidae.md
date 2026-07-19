@@ -190,7 +190,7 @@ Flatheads belong to the Family Platychephalidae. According to
 
 **Sometimes mistaken**
 for other flattened fishes that live on the sea bottom. Here's more on
-[how to tell apart fishes with flat heads](../cfflatheads)
+[how to tell apart fishes with flat heads](../../cfflatheads)
 .
 
 **Disappearing Act:**

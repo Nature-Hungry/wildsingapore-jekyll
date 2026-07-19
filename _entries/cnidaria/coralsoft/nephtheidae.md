@@ -152,7 +152,7 @@ Flowery soft corals come in a variety of colours from pink, red, orange to purpl
 Some species can be abundant in areas with fast but one-way flow of water. But they are not often found in areas exposed to strong waves. They can also grow in murky areas.
 
 The
-[fire anemone](../actiniaria/actinodendron)
+[fire anemone](../../actiniaria/actinodendron)
 (*Actinodendron*
 sp.) looks similar to a flower soft coral. Unlike the soft coral, however, the anemone has a powerful sting. So be careful!
 
@@ -168,9 +168,9 @@ Other flowery soft corals don't have zooxanthellae and gather edible bits from t
 Many kinds of small animals may be found on flowery soft corals. Some like tiny transparent shrimps,
 [snapping shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/alphballsoft)
 , porcelain crabs,
-[brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
+[brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 probably just find shelter within the branching arms of the soft coral. Others, like
-[false cowries](../../mollusca/gastropoda/ovulidae/ovulidae)
+[false cowries](../../../mollusca/gastropoda/ovulidae/ovulidae)
 , eat the soft corals!
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

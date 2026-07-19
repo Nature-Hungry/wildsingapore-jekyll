@@ -160,9 +160,9 @@ permalink: /entries/Mollusca/Gastropoda/Trochida/Turbinidae
 
 ## Where seen?
 These tough snails are commonly seen on many of our rocky shores including on man-made sea walls. Smaller ones are also found under stones. Turban shells are not as well adapted to dry condictions as the
-[Nerites](../neritidae/neritidae)
+[Nerites](../../neritidae/neritidae)
 and
-[Periwinkles](../littorinidae/littorinidae)
+[Periwinkles](../../littorinidae/littorinidae)
 , and are thus generally found closer to the low water mark.
 
 ## Features
@@ -175,9 +175,9 @@ Although their shells may appear boring and dull, the living animal can be in br
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes confused with**
 the
-[Top shell snail](../trochidae/trochidae)
+[Top shell snail](../../trochidae/trochidae)
 (Family Trochidae) has a more pyramidal shell and a thin operculum made of a horn-like material. While the turban shell snail has a shell with more distinct whorls and a thick, chalky operculum. Here's more on
-[how to tell apart turban and top shell snails](../topturban)
+[how to tell apart turban and top shell snails](../../topturban)
 .
 
 **What do they eat?**

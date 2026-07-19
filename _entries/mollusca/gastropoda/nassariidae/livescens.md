@@ -132,7 +132,7 @@ This elegantly ribbed whelk is usually busy foraging at low tide among seaweeds 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Hitching on a whelk:**
 This whelk often has one or more tiny
-[sea anemones](../../../cnidaria/actiniaria/snail)
+[sea anemones](../../../../cnidaria/actiniaria/snail)
 hitching a ride on its shell. Sometimes also with tiny barnacles on the shell.
 
 **Whelk food:**

@@ -12,21 +12,29 @@ family: Araceae
 subfamily: Lasioideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC07207 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC00149 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC09695 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC07207
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC00149
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC09695
+      (14).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC07210 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC07213 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC09698 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC07210
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC07213
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC09698
+      (14).jpg
 title: Swamp Taro
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC07207 (13).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\cyrtosperma\merkusii/DSC07207
+  (13).jpg
 updated: July 2024
+rdb: VU
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

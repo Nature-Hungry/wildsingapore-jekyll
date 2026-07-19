@@ -229,7 +229,7 @@ The Pizza anemone harbours symbiotic algae (called zooxanthellae) that photosynt
 Several kinds of animals may live happily and unharmed on the Pizza anemone. These include the
 [Peacock-tail anemone shrimp](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 (*Periclimenes brevicarpalis*). Elsewhere it is said that
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
+[anemonefishes](../../../vertebrates/fish/pomacentridae/amphiprion)
 (*Amphiprion*
 sp.) live with these anemones such as
 *Amphiprion bicinctus, A. clarkii and A. xanthurus*

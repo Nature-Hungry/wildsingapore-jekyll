@@ -139,13 +139,13 @@ Diameter 1-1.5cm. A circular two-part shell, thin. In some the shell is covered 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Digging into corals:**
 This clam is often seen in hard corals with branching forms such as
-[Acropora coral](../../../cnidaria/coralhard/acroporidae/acropora)
+[Acropora coral](../../../../cnidaria/coralhard/acroporidae/acropora)
 and
-[Branching pore coral](../../../cnidaria/coralhard/poritidae/porbranch)
+[Branching pore coral](../../../../cnidaria/coralhard/poritidae/porbranch)
 , as well as leafy forms such as
-[Crinkled sandpaper coral](../../../cnidaria/coralhard/psammocoridae/psacrinkled)
+[Crinkled sandpaper coral](../../../../cnidaria/coralhard/psammocoridae/psacrinkled)
 and
-[Carnation coral](../../../cnidaria/coralhard/merulinidae/pectinia)
+[Carnation coral](../../../../cnidaria/coralhard/merulinidae/pectinia)
 . The clam excavates the hard coral to create a cavity for itself and attaching to the coral by byssus threads. The clam is usually completely surrounded by living tissue.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Coral-clam cooperation:**

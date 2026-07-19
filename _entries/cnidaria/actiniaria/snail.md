@@ -114,7 +114,7 @@ habitats:
 
 ## Where seen?
 This tiny anemone is sometimes seen stuck onto shells occupied by living snails such as
-[whelks](../../mollusca/gastropoda/nassariidae/nassariidae)
+[whelks](../../../mollusca/gastropoda/nassariidae/nassariidae)
 (Family Nassaridae). Sometimes also seen attached to tiny stones in silty sandy shores. They are more frequently encountered on our Northern shores, but also sometimes seen on other shores.
 
 ## Features

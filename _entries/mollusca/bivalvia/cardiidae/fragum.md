@@ -157,7 +157,7 @@ This pretty clam is not often seen, usually on sandy shores near reefs. Possibly
 **What does it eat?**
 Unlike most other bivalves, the strawberry cockle harbours symbiotic zooxanthellae (a kind of single-celled algae) in its body mantle. The zooxanthellae produce food through photosynthesis which it shares with the clam. To maximise the productivity of its "farm", when submerged, the clam exposes its body mantle to sunlight by sticking it out of the shell and above the surface.
 In this habit, it is similar to
-[Giant clams](../tridacnidae/tridacnidae)
+[Giant clams](../../tridacnidae/tridacnidae)
 . It also filter feeds - when submerged, it opens the valves and sucks in water to filter out edible bits.
 
 ## Human uses

@@ -131,7 +131,7 @@ species are more commonly seen, while some may be
 A fungia mushroom coral is free-living as an adult (it is not attached to the surface). It can move, even climb up slopes! It does this by inflating and deflating its tissues. It can also right itself if accidentally overturned, e.g., by fish looking for things hiding under it. And rid itself of sediments as well as "unbury" itself from sand.
 
 An unusual property of fungia mushroom corals is the inclusion of large amounts of chitin in the skeleton. Chitin is the substance that insect exoskeletons are made of. The only other group of hard corals with this property are
-[Pocillopora corals](../pocilloporidae/pocilloporidae)
+[Pocillopora corals](../../pocilloporidae/pocilloporidae)
 .
 
 **Sometimes mistaken for**

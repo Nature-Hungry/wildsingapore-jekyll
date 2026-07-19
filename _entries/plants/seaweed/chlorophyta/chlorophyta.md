@@ -154,13 +154,13 @@ Green algae are found in most habitats, not just in the sea. There are about 8,0
 Green seaweeds come in a wide range of shapes: translucent bubbles, flat sheets, hard flattened coins, bunches of long thin filaments, bunches of grapes, branched furry stems, coiled strips and more!
 
 **Sometimes confused with**
-[seagrasses](../../seagrass/seagrass)
+[seagrasses](../../../seagrass/seagrass)
 . Some feathery green seaweeds are also confused for one another. Here's more on how to tell apart
 [green seaweeds that look like grapes](cfgrapes)
 , and
 [different feathery green seaweeds](cffeathery)
 and
-[feathery green seaweeds and seagrasses](../../../glossary/seagrassweed)
+[feathery green seaweeds and seagrasses](../../../../glossary/seagrassweed)
 .
 
 ## Human uses
@@ -170,23 +170,23 @@ Many green seaweeds are eaten directly by people. In the Philippines,
 (*Caulerpa lentillifera*) is cultivated as food and sold fresh or salted. Some species are used as feritilisers and additives in animal feed (poultry, cattle, fish).
 
 Unlike
-[brown seaweeds](../phaeophyta/phaeophyta)
+[brown seaweeds](../../phaeophyta/phaeophyta)
 and
-[red seaweeds](../rhodophyta/rhodophyta)
+[red seaweeds](../../rhodophyta/rhodophyta)
 , green seaweeds are not a major source of extracts used commercially.
 
 ## Role in habitat
 Like other seaweeds, green seaweeds provide food and shelter for a wide range of marine animals.
 
 Some of the animals that eat green seaweeds look like the seaweeds! Those commonly seen include the
-[Ornate leaf slug](../../../mollusca/slugs/sacoglossa/ornata)
+[Ornate leaf slug](../../../../mollusca/slugs/sacoglossa/ornata)
 (*Elysia ornata*) and a tiny hairy
-[Bryopsis slug](../../../mollusca/slugs/sacoglossa/bryopsis)
+[Bryopsis slug](../../../../mollusca/slugs/sacoglossa/bryopsis)
 that is still awaiting identification and is often seen on the
 [Hairy green seaweed](bryopsis)
 (*Bryopsis*
 sp.) and the tiny
-[Halimeda slug](../../../mollusca/slugs/sacoglossa/pusilla)
+[Halimeda slug](../../../../mollusca/slugs/sacoglossa/pusilla)
 (*Pusilla*
 sp.) often seen on
 [Big coin green seaweed](halbig)
@@ -212,9 +212,9 @@ green seaweed that it probably feeds on
 
 **Division Chlorophyta on Singapore shores**
 
-[text index](../seaweedindex)
+[text index](../../seaweedindex)
 and
-[photo index](../seaweedfi)
+[photo index](../../seaweedfi)
 of green seaweeds on this site
 
 ---

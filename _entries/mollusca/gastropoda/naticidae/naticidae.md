@@ -247,7 +247,7 @@ a sea slug when the mantle covers the shell. Some moon snails can't retract comp
 and
 [Bosom moon snail](mammatus)
 . Here's more on how to tell apart
-[animals that resemble sea slugs](../../../glossary/flatwormslug)
+[animals that resemble sea slugs](../../../../glossary/flatwormslug)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**What do they eat?**

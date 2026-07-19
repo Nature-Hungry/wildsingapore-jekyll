@@ -122,11 +122,11 @@ Please do not step on or pull sea pens out of the sand. You will hurt a whole co
 
 **What are sea pens?**
 Sea pens belong to
-[Phylum Cnidaria](../../cnidaria)
+[Phylum Cnidaria](../../../cnidaria)
 which includes the more familiar sea anemones, hard corals and jellyfishes. Sea pens are members of the same
-[Class Anthozoa](../../anthozoa)
+[Class Anthozoa](../../../anthozoa)
 as sea anemones. Unlike sea anemones which are large solitary polyps, each sea pen is a colony of polyps. Sea pens belong to the Subclass Alcyonaria (Octocorallia) that includes the
-[soft corals](../../coralsoft/coralsoft)
+[soft corals](../../../coralsoft/coralsoft)
 . Members of this subclass have tentacles which are branched and in multiples of eight. There are about 300 species of known sea pens.
 
 ## Features
@@ -153,7 +153,7 @@ Sea pens are adapted for life on soft sea bottoms. Here, they can dig into the g
 A few sea pens may harbour zooxanthellae (symbiotic algae) inside their bodies. These carry out photosynthesis and may contribute nutrients to the host polyp. But most gather edible bits from the water.
 **Snacking on sea pens:**
 Sea pens are preyed upon by some snails and nudibranchs. The striped
-[Armina nudibranch](../../../mollusca/slugs/nudibranchia/arminina/arminidaenoida)
+[Armina nudibranch](../../../../mollusca/slugs/nudibranchia/arminina/arminidaenoida)
 (*Armina*
 sp.) is among those seen near
 [sea pencils](pencil)
@@ -161,7 +161,7 @@ sp.) is among those seen near
 
 **Pen pals:**
 Sea pens are often homes to other small creatures. The tiny
-[Painted porcelain crab](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/picta)
+[Painted porcelain crab](../..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/porcellanidae/picta)
 (*Porcellanella picta*) is often found in the
 [Common sea pen](pteroides)
 (*Pteroides*

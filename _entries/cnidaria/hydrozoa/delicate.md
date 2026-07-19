@@ -75,9 +75,9 @@ Clusters of many tiny fans, that can cover an area of about 5-10cm. Each tiny fa
 
 **Sometimes mistaken for**
 a
-[fan worm](../../../worm/polychaeta/sabellidae)
+[fan worm](../../../../worm/polychaeta/sabellidae)
 . Here's more on how to
-[tell apart feathery animals](../../../glossary/feathery)
+[tell apart feathery animals](../../../../glossary/feathery)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

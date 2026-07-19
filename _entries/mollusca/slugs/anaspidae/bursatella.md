@@ -173,12 +173,12 @@ This hirsute sea hare is sometimes seen on our Northern shores among seagrasses 
 the
 [Furry sea hare](stylocheilus)
 which has finer 'hair' and fine parallel lines. More on
-[how to tell apart hairy slugs and snails](../../hairyslugsnail)
+[how to tell apart hairy slugs and snails](../../../hairyslugsnail)
 .
 
 **What does it eat?**
 It eats
-[cyanobacteria](../../../plants/seaweed/cyanobacteria/cyanobacteria)
+[cyanobacteria](../../../../plants/seaweed/cyanobacteria/cyanobacteria)
 , in particular, the mat-forming
 *Lyngbya majuscula*
 , which was formerly known as the filamentous blue-green alga

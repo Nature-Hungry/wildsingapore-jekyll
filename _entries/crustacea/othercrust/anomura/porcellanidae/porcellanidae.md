@@ -145,9 +145,9 @@ Porcelain crabs are plentiful under the stones of our rocky shores, scattering i
 
 **What are porcelain crabs?**
 Porcelain crabs belong to the subgroup Anomura of the Order
-[Decapoda](..//wildfacts/guides/crustacea/decapoda)
+[Decapoda](../..//wildfacts/guides/crustacea/decapoda)
 . Anomurans includes
-[hermit crabs](../hermit/hermit)
+[hermit crabs](../../hermit/hermit)
 . Porcelain crabs belong to Family Porcellanidae.
 ## Features
 
@@ -158,7 +158,7 @@ The porcelain crab's huge pincers are not used to catch prey. Porcelain crabs mo
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Falling apart at the seams:**
 The porcelain crab tends to shed limbs if stressed, hence its common name. This is a useful trait, in case a limb is trapped between rocks shifting in the currents, or grabbed by a predator. A dropped pincer may continue to move, to distract the predator while the owner makes its getaway. The lost limb eventually re-grows with subsequent
-[moults](../../../moulting)
+[moults](../../../../moulting)
 , but this takes time.
 
 **Not a true crab!**
@@ -172,9 +172,9 @@ Porcelain crab eggs hatch into free-swimming larvae that only later settle down 
 
 ## Role in habitat
 Some porcelain crabs live with other animals. One kind of porcelain crab lives on a
-[sea pen](../../../../cnidaria/others/pennatulacea/pennatulacea)
+[sea pen](../../../../../cnidaria/others/pennatulacea/pennatulacea)
 . Elsewhere, there are porcelain crabs that live in
-[a shell occupied by a hermit crab](../hermit/clibanarius)
+[a shell occupied by a hermit crab](../../hermit/clibanarius)
 , with tubeworms, in the siphons of bivalves, among the tentacles of sea anemones, on or inside sponges, or up the backside of a sea cucumber!
 
  

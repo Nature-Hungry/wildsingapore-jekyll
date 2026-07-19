@@ -173,9 +173,9 @@ To about 70cm, those seen on the intertidal at low tide range from tiny ones aro
 
 **May be mistaken for**
 the
-[Tripletail](../lobotidae/surinamensis)
+[Tripletail](../../lobotidae/surinamensis)
 and
-[juvenile Sickletfish](../drepaneidae/drepane)
+[juvenile Sickletfish](../../drepaneidae/drepane)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

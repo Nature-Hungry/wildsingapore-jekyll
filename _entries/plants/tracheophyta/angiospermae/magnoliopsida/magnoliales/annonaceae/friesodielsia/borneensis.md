@@ -13,19 +13,25 @@ subfamily: Annonoideae
 tribe: Uvarieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04964 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04970 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04968 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04964
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04970
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04968
+      (12).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04972 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04972
+      (12).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04964 (12).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\magnoliales\annonaceae\friesodielsia\borneensis/DSC04964
+  (12).jpg
 updated: July 2024
+rdb: VU
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

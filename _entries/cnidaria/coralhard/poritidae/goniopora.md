@@ -162,7 +162,7 @@ It's hard to distinguish the different species without close examination. On thi
 (with tiny polyps) for convenience of display.
 
 Sometimes, tiny brown
-[acoel flatworms](../../../worm/acoela/acoela)
+[acoel flatworms](../../../../worm/acoela/acoela)
 are seen on the oral disk or body columns of anemone coral polyps.
 
 **Anemone coral babies:**

@@ -58,14 +58,14 @@ zone:
 
 ## Where seen?
 This small banded worm is seen curled around the mouth of
-[White salmacis sea urchins](../../echinodermata/echinoidea/urchin/sphaeroides)
+[White salmacis sea urchins](../../../echinodermata/echinoidea/urchin/sphaeroides)
 and
-[Black sea urchins](../../echinodermata/echinoidea/urchin/temnopleurus)
+[Black sea urchins](../../../echinodermata/echinoidea/urchin/temnopleurus)
 on our Northern shores.
 
 **What are Urchin-mouth worms?**
 They are segmented
-[worms](../worm)
+[worms](../../worm)
 belonging to the Family Eunicidae, Class
 [Polychaeta](polychaeta)
 , Phylum Annelida. The polychaetes include bristleworms, and Phylum Annelida includes the more familiar earthworm.

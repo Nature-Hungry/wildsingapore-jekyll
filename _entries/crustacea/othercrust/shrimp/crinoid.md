@@ -39,7 +39,7 @@ zone:
 
 ## Where seen?
 Tiny shrimps live in
-[feather stars](../../../echinodermata/crinoidea/crinoidea)
+[feather stars](../../../../echinodermata/crinoidea/crinoidea)
 ! They are sometimes seen on our shores.
 
 ## Features

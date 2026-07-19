@@ -98,9 +98,9 @@ with concentric rings
 
 **Sometimes confused with**
 the
-[Turban snail](../turbinidae/turbinidae)
+[Turban snail](../../turbinidae/turbinidae)
 (Family Turbinidae) which has a shell with more distinct whorls and a thick, chalky operculum. While many Top snails have a more conical shell and a thin operculum made of a horn-like material. Here's more on
-[how to tell apart turban and top shell snails](../topturban)
+[how to tell apart turban and top shell snails](../../topturban)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

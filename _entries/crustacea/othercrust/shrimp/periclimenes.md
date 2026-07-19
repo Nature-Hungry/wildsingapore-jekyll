@@ -120,7 +120,7 @@ Some of our commensal shrimps are listed as 'Vulnerable' on the Red List of thre
 [Five-spot anemone shrimp](brevicarpalis)
 
 seen on carpet anemones in pairs.
-[../../../cnidaria/actiniaria/haddoni.htm](../../../cnidaria/actiniaria/haddoni)
+[../../../cnidaria/actiniaria/haddoni.htm](../../../../cnidaria/actiniaria/haddoni)
 *Kusu Island, Jul 04*
 
 ![](https://images.naturehungry.sg/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg)

@@ -152,11 +152,11 @@ More like bivalves rather than snails, button snails lie just beneath the sand a
 
 **Role in the ecosystem:**
 Button snails appear to be among the favourite prey of
-[Moon snails](../naticidae/naticidae)
+[Moon snails](../../naticidae/naticidae)
 .
-[Olive snails](../olividae/olividaenoid)
+[Olive snails](../../olividae/olividaenoid)
 have also been seen hunting them. Other large animals probably also snack on them. Empty buttons shells are favourite homes of tiny
-[hermit crabs](..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
+[hermit crabs](../..//wildfacts/guides/crustacea/crustacea/othercrust/anomura/hermit/hermit)
 . So please resist the temptation of taking home even an empty button snail. A homeless hermit crab might need it!
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}## Human uses

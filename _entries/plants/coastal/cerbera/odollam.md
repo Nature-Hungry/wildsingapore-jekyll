@@ -64,7 +64,7 @@ galleries:
 size:
 - 1200.0
 - 1500.0
-rdb: vu
+rdb: VU
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
@@ -92,8 +92,7 @@ It is the caterpillar host-plant of the King Crow butterfly (*Euploea phaenareta
 ## Human uses
 
 See the fact sheets on
-*[Cerbera](cerbera)*
-[species in general](cerbera)
+[Cerbera species in general](../../cerbera)
 for more about their uses.
 
  
@@ -103,7 +102,6 @@ for more about their uses.
 This tree is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
 *![](https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg)
-
 *Changi, Apr 09*
 ![](https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090410ubnd9387m3a.jpg)*
 

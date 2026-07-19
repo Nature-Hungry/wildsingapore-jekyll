@@ -138,7 +138,7 @@ permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronecto
 Like animated leaves, these fishes are encountered on many of our shores.
 ****
 Tiny juvenile soles are sometimes seen by the eagle-eyed visitor on the sand, especially in seagrass areas. These may be as tiny as 2cm long. Some small ones may be mistaken for
-[flatworms](../../../worm/polycladida/polycladida)
+[flatworms](../../../../worm/polycladida/polycladida)
 ! Larger adults (20-40cm) are sometimes encountered too, usually when they are accidentally stepped upon.
 **What are flatfishes?**
 Flatfishes belong to the Order Pleuronectiformes. These fishes are flat, with eyes on one side of their body. The underside or blind side tends to be flat and pale. The eyed side has camouflaging colours and patterns. Many flatfishes can change the colours and patterns of the eyed side to blend in with their surroundings. Some species are banded like a zebra on the eyed side!
@@ -184,11 +184,11 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 
 +Other additiona (Singapore Biodiversity Records, etc).
 
-**[Family Bothidae](../bothidae/polyophthalmus)
+**[Family Bothidae](../../bothidae/polyophthalmus)
 (lefteye flounders)**
 with list of species recorded for Singapore
 
-**[Family Paralichthyidae](../paralichthyidae/paralichthyidae)
+**[Family Paralichthyidae](../../paralichthyidae/paralichthyidae)
 **
 (large-tooth flounders)**
 **
@@ -202,17 +202,17 @@ with list of species recorded for Singapore
 
 *Samaris cristatus*
 
-**[Family Psettodidae](../psettodidae/psettodidae)
+**[Family Psettodidae](../../psettodidae/psettodidae)
 (halibuts)**
 with list of species recorded for Singapore
 
-**[Family Soleidae](../soleidae/soleidae)
+**[Family Soleidae](../../soleidae/soleidae)
 **
 (soles)**
 with list of species recorded for Singapore
 
 **
-**[Family Cynoglossidae](../cynoglossidae/cynoglossidae)
+**[Family Cynoglossidae](../../cynoglossidae/cynoglossidae)
 **
 (tongue-soles)**
 with list of species recorded for Singapore

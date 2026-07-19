@@ -263,16 +263,16 @@ sp.). Drills usually have thick shells and a thick operculum made of a horn-like
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 **Bored to Death:**
 Drills that live on the rocks are predatory molluscs that bore into other shelled creatures, especially
-[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](../..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 .
 
 To bore a hole through the victim's shell, a drilling snail softens the shell with a weak acid secreted by a special gland on the underside of its foot. The softened shell is then slowly scraped off by the snail's radula. The radula is the main physical tool in creating the hole. It can take eight hours for a drill to get through a shell 2mm thick. Yawn!
 
 **Other drill food and feeding methods:**
 Some drills may also pry open the shells of
-[bivalves](../../bivalvia)
+[bivalves](../../../bivalvia)
 with a tooth on the lip of their shell. Others may also get to
-[limpets](../limpets/limpet)
+[limpets](../../limpets/limpet)
 by inserting their proboscis under the limpet's shell. Some may also hunt buried clams. Some prey on worms, the eggs of other snails and even corals. Some deeper-water members of the Family Muricidae eat worms and sea urchins.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**To dye for:**

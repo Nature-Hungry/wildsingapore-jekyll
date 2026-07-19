@@ -58,7 +58,7 @@ zone:
 
 ## Where seen?
 Like shiny coins, this clam is sometimes seen under stones on our Northern shores. Sometimes also seen stuck to other hard shelled animals like
-[Window pane shells](../placunidae/placuna)
+[Window pane shells](../../placunidae/placuna)
 (*Placuna*
 sp.).
 Shells of dead animals are also often washed ashore.

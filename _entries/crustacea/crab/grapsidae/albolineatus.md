@@ -157,7 +157,7 @@ Body width 5-6cm. Body circular, flat, dark with a pattern of light spots in ban
 
 **Sometimes mistaken with**
 the
-[Scaly rock crab](../plagusiidae/plagusia)
+[Scaly rock crab](../../plagusiidae/plagusia)
 (*Plagusia squamosa*) which has a more squarish less flat more bumpy body.
 
 **What does it eat?**

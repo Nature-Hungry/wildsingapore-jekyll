@@ -141,7 +141,7 @@ have a long 'horn' that stick out and curves towards the head. This acts as a de
 
 **What does it eat?**
 It is eats
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

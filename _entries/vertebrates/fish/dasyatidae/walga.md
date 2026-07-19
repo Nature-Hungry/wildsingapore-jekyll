@@ -127,7 +127,7 @@ Grows to about 25cm in diameter, those seen about 15-20cm. Body generally oval w
 
 **Sometimes mistaken for**
 a
-[horseshoe crab](../../../arthropoda/limulidae/limulidae)
+[horseshoe crab](../../../../arthropoda/limulidae/limulidae)
 and visa versa. In murky waters, these two different animals do have a similar profile, both being round and flat with a long tail. But the horseshoe crab moves very differently- creeping slowly, while the stingray can dash away quickly.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -182,7 +182,7 @@ other large sea anemones and similar large cnidarians. Here's more on how to tel
 and
 [large sea anemones with long tentacles](cfbiglong)
 and
-[large 'hairy' cnidarians](../cflargecnidarians)
+[large 'hairy' cnidarians](../../cflargecnidarians)
 .
 
 **Carpet food:**
@@ -190,14 +190,14 @@ Carpet anemones harbour symbiotic single-celled algae (called zooxanthellae). Th
 
 **Giant friends:**
 Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with Merten's carpet anemones. These
-[anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion)
+[anemonefishes](../../../vertebrates/fish/pomacentridae/amphiprion)
 (*Amphiprion*
 sp.) including
 *A. akallopisos, A. akindynos, A. allardi, A. chrysogaster, A. chrysopterus, A. clarkii, A. fuscocaudatus, A. latifasciatus, A. leucokranos, A. ocellaris, A. sandaracinos, A. tricinctus*
 . But so far, the only animals observed on Merten's carpet anemones were the
 [Five-spot anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis)
 (*Periclimines brevicarpalis*) and the
-[Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris)
+[Clown anemonefish](../../../vertebrates/fish/pomacentridae/ocellaris)
 .
 
  

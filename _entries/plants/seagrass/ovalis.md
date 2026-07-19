@@ -171,8 +171,8 @@ of transparent scales.
   
 **Sometimes confused with** seaweeds
 that are also spoon-shaped such as the [Coin
-seaweed](../seaweed/chlorophyta/halbig) (*Halimeda* sp.) and [Fan
-seaweed](../seaweed/chlorophyta/avrcluster) (*Avrainvillia* sp.). These seaweeds don't have veins
+seaweed](../../seaweed/chlorophyta/halbig) (*Halimeda* sp.) and [Fan
+seaweed](../../seaweed/chlorophyta/avrcluster) (*Avrainvillia* sp.). These seaweeds don't have veins
 like the spoon seagrass. Coin seaweeds are also hard as they incorporate
 calcium in their body structure, while spoon seagrass blades are soft
 and flexible.  

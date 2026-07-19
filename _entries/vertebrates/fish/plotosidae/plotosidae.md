@@ -186,13 +186,13 @@ Eeltail catfishes belong to the Family Plotosidae. According to
 Juveniles from 5cm, adults to about 30cm. The body is long and cylindrical, flattening into an eel-like tail, i.e., the dorsal and anal fins are continuous with the tail fin. To swim, the fish undulates in an eel- or snake-like manner. Snout blunt with four pairs of 'whiskers' (called barbels) all around the mouth. One pair on the snout in front of the eyes, one pair on each side of the mouth and two pairs below the mouth. It lack scales and has a smooth slimy skin. It makes up for this 'nakedness' with venomous spines on the dorsal fin and on each of the pectoral fins. These tough spines can be locked upright, thus making an eeltail catfish unpleasant for bigger fish to swallow. They use their venomous spines to protect themselves against predators, and not to catch prey.
 
 **Sometimes mistaken for**
-[sea catfishes](../ariidae/ariidae)
+[sea catfishes](../../ariidae/ariidae)
 . Sea catfishes are seldom encountered on the intertidal at low tide. Sea catfishes have barbels too but their tail fins are forked and not eel-like as in the eeltail catfishes. Eeltail catfishes are sometimes also mistaken for
-[sea snakes](../../snakes/snakeshore)
+[sea snakes](../../../snakes/snakeshore)
 or
-[eels](../muraenidae/muraenidae)
+[eels](../../muraenidae/muraenidae)
 (Family Muraenidae). Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../../glossary/eelsnake)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

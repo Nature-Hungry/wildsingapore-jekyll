@@ -112,9 +112,9 @@ These strange cube-like fishes are sometimes seen on some of our shores.
 Boxfishes belong to the Family Ostraciidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=446)
 : the family has 14 genera and 33 species found in the Atlantic, Indian and Pacific Oceans. Other similar fishes belong to different families include: pufferfishes which belong to
-[Family Tetraodontidae](../tetraodontidae/tetraodontidae)
+[Family Tetraodontidae](../../tetraodontidae/tetraodontidae)
 , and porcupinefishes which belong to
-[Family Diodontidae](../diodontidae/diodontidae)
+[Family Diodontidae](../../diodontidae/diodontidae)
 .
 
 ## Features

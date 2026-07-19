@@ -12,25 +12,36 @@ family: Primulaceae
 subfamily: Myrsinoideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC02530 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05963 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05954 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC02530
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05963
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05954
+      (13).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05967 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC02526 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC02532 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05967
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC02526
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC02532
+      (09).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05957 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05960 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05968 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05957
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05960
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC05968
+      (13).jpg
 title: Common Embelia
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC02530 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\primulaceae\embelia\ribes/DSC02530
+  (09).jpg
 updated: July 2024
+rdb: Lc
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

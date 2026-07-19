@@ -83,7 +83,7 @@ This well camouflaged worm is so far most commonly seen at Chek Jawa, among cora
 **What does it eat?**
 *Maritigrella*
 flatworms eat
-[ascidians](../../ascidiacea/ascidiacea)
+[ascidians](../../../ascidiacea/ascidiacea)
 by sucking out individual animals with their tube-shaped pharynx (a part of the gut) that can be pushed out through the mouth to engulf the prey.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

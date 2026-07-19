@@ -184,9 +184,9 @@ The flower crab is a predator. In other parts of the world, it has been reported
 
 **Flowering crabs:**
 Some flower crabs may have a 'garden' of various living seaweed and
-[barnacles](../../othercrust/ciriipedia/balanus)
+[barnacles](../../../othercrust/ciriipedia/balanus)
 growing on their bodies, pincers and legs. These crabs are usually those infected by a
-[parasitic barnacle](../../othercrust/ciriipedia/thompsonia)
+[parasitic barnacle](../../../othercrust/ciriipedia/thompsonia)
 (*Thompsonia*
 sp.)
 

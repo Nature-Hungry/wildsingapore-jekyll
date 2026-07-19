@@ -95,9 +95,9 @@ This colony of bumpy animals is commonly seen on some of our Northern shores, bu
 
 **Sometimes mistaken for**
 a
-[sea fan](../others/gorgonacea/gorgonacea)
+[sea fan](../../others/gorgonacea/gorgonacea)
 (Order Gorgonacea) or a
-[hydroid](../others/hydrozoa/hydrozoa)
+[hydroid](../../others/hydrozoa/hydrozoa)
 (Order Hydrozoa).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

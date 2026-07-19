@@ -75,7 +75,7 @@ zone:
 
 ## Where seen?
 These gruesome animals are often seen growing in
-[flower crabs](../../crab/portunidae/pelagicus)
+[flower crabs](../../../crab/portunidae/pelagicus)
 (*Portunus pelagicus*). Infected crabs are usually encrusted with non-parasitic barnacles and other animals and seaweeds. They usually move weakly and are generally in poor shape.
 
 ## Features

@@ -95,7 +95,7 @@ Like tongue depressors, these narrow long clams are sometimes seen stuck upright
 10-15cm. The two-part shell is thick, flat and usually long and narrow, sometimes with a T-shape near the bottom where it is stuck to a hard surface with byssus threads. Usually dark, the shell is often coated with encrusting organisms. Often found in groups of a few individuals stuck in crevices.
 
 **Sometimes confused with**
-[Hammer oysters](../malleidae/malleus)
+[Hammer oysters](../../malleidae/malleus)
 that have a similar shape and also stuck upright in crevices. It is difficult to tell them apart without ripping them out of their hiding place and looking at the inside of the shell. On the inside, Elonged toothed oysters have a long row of notches at the hinge, and a large area of mother-of-pearl relative to the shell length.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

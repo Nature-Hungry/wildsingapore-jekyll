@@ -116,7 +116,7 @@ permalink: /entries/Arthropoda/Crustacea/Malacostraca/Amphipoda/Senticaudata/Cor
 
 ## Where seen?
 The most commonly encountered are tiny ones in large numbers among seaweeds, especially when there is a bloom of
-[Hairy green seaweed](../../../plants/seaweed/chlorophyta/bryopsis)
+[Hairy green seaweed](../../../../plants/seaweed/chlorophyta/bryopsis)
 (*Bryopsis*
 sp.).
 
@@ -129,7 +129,7 @@ that resemble shrimps. While shrimps belong to the Class
 ## Features
 
 0.5cm or less. Their bodies are flattened sideways (instead of downwards as in
-[isopods](../isopoda/beachisopod)). Their eyes are NOT on stalks. They have seven pairs of limbs, the first two pairs may have claws and are used for feeding and in mating. The remainder are walking legs. Amphipoda means 'different feet' while Isopoda meaning 'same feet'. Many can hop long distances by flexing their long abdomens.
+[isopods](../../isopoda/beachisopod)). Their eyes are NOT on stalks. They have seven pairs of limbs, the first two pairs may have claws and are used for feeding and in mating. The remainder are walking legs. Amphipoda means 'different feet' while Isopoda meaning 'same feet'. Many can hop long distances by flexing their long abdomens.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 Skeleton shrimps are tiny amphipods that belong to Family Caprellidae. They have a long skinny translucent body with many limbs. The last 3 pairs of limbs grip stuff while the body extends outwards. Near the head, a pair of humungous pincers are used to snatch tiny tidbits and prey. They also have other pairs of limbs near the front used to grab on to stuff, so they can move like an inch-worm.
 

@@ -129,9 +129,9 @@ Operculum dark.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**
 It eats a wide variety of prey from
-[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](../..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 ,
-[nest-building mussels](../../bivalvia/mytilidae/musculista)
+[nest-building mussels](../../../bivalvia/mytilidae/musculista)
 to snails and clams hiding in the mud and worms in rotten wood.
 They are such voracious predators, that they exert a considerable influence over the kind of community of animals that are found where they are live.
 

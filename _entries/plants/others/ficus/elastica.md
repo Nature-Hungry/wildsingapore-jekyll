@@ -67,7 +67,7 @@ A large strangling fig with many aerial roots. Leaves glossy dark green, leather
 ## Human uses
 
 According to Corners, before the introduction of
-[*Hevea brasiliensis*](../../others/hevea/brasiliensis)
+[*Hevea brasiliensis*](../../../others/hevea/brasiliensis)
 , the India-rubber tree was a major source of rubber in our part of the world. According to Burkill, it lost out because the India-rubber tree latex contains a resin that hardens with time thus making the latex less elastic. It also does not produce as much latex as
 *H. brasiliensis*
 . The Indians apparently had been using latex from the tree to line their containers, e.g., to contain honey or to bail out water. When the Europeans discovered

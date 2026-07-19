@@ -47,11 +47,11 @@ Some species are sometimes seen on some of our shores.
 
 **What are sidegill slugs?**
 Sidegill slugs belong to
-[Phylum Mollusca](../../mollusca)
+[Phylum Mollusca](../../../mollusca)
 and
-[Class Gastropoda](../../gastropoda)
+[Class Gastropoda](../../../gastropoda)
 like other snails. Sidegill slugs belong to Order Notaspidae are NOT
-[nudibranchs](../../nudibranchia)
+[nudibranchs](../../../nudibranchia)
 , which belong to a different Order Nudibranchia.
 
 ## Features
@@ -59,9 +59,9 @@ like other snails. Sidegill slugs belong to Order Notaspidae are NOT
 These slugs have a large plume-like gill between the mantle and the foot, usually on the right side of the body. They have a pair of tentacles (called rhinophores) made up of rolled up skin, and a plough-shaped structure (called the oral veil) in front of the head. Some sidegill slugs have an internal shell, others an external shell while one family does not have a shell at all. Many secrete sulphuric acid to deter predators. Most are found in shallow waters.
 **What do they eat?**
 These slugs are carnivorous and have strong jaws with a broad radula. Most feed on
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 , some also feed on hard corals and
-[ascidians](../../../ascidiacea/ascidiacea)
+[ascidians](../../../../ascidiacea/ascidiacea)
 . Some even eat other slugs and fishes.
 
 ---

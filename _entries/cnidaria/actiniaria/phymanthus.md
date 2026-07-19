@@ -152,7 +152,7 @@ The body column is pale becoming darker near the top and has longitudinal rows o
 
 **Sometimes mistaken for**
 other feathery animals. Here's more on
-[how to tell apart feathery animals](../../glossary/feathery)
+[how to tell apart feathery animals](../../../glossary/feathery)
 on our shores.
 
  

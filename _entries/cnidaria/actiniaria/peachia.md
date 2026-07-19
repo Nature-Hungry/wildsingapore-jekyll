@@ -172,7 +172,7 @@ Diameter with tentacles expanded 4-5cm. One ring of 16 tentacles that are thick 
 **Sometimes mistaken for**
 [Brown peachia anemone](synpeachia)
 (*Synpeachia temasek*) which has a reddish-brown column, 20 tentacles, and a conchula. An 'uprooted' Peachia anemone is often mistaken for a sea cucumber or a worm. Here's more on
-[how to tell apart sausage-like creatures](../../glossary/sausage)
+[how to tell apart sausage-like creatures](../../../glossary/sausage)
 .
 
  

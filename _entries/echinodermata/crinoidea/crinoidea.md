@@ -131,7 +131,7 @@ Most feather stars only come out to feed at night. During the day, they hide in 
 
 **What are feather stars?**
 Feather stars belong to Phylum
-[Echinodermata](../echinodermata)
+[Echinodermata](../../echinodermata)
 . Although they may look similar to brittle stars, feather stars belong to a different Class Crinoidea. 'Crinoidea' means 'lily-like' in Greek. There are about 600 known living species of feather stars. Shallow-water crinoids are also called comatulids.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ## Features
@@ -143,11 +143,11 @@ The arms arise from a cup-shaped structure at the centre called the calyx. The c
 The side of the feather star that faces downwards has a claw-like appendage called the cirri that is used to grip the surface.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Sometimes confused with**
-[brittle stars](../ophiuroidea/ophiuroidea)
+[brittle stars](../../ophiuroidea/ophiuroidea)
 which also have bristley arms. But brittle stars usually only have 5 or 6 arms. More on how to tell apart
-[bristley animals](../../glossary/wormstar)
+[bristley animals](../../../glossary/wormstar)
 and
-[feathery animals](../../glossary/feathery)
+[feathery animals](../../../glossary/feathery)
 .
 
 **An armful:**
@@ -173,9 +173,9 @@ Various small
 ,
 [shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/crinoid)
 ,
-[worms](../../worm/polychaeta/myzostomidae)
+[worms](../../../worm/polychaeta/myzostomidae)
 ,
-[brittle stars](../ophiuroidea/featherstar)
+[brittle stars](../../ophiuroidea/featherstar)
 and other tiny animals may live on a feather star. Some are found no where else.
 
 {% include img-wrap-group.html items=page.galleries.gallery6 %}**Old stars:**

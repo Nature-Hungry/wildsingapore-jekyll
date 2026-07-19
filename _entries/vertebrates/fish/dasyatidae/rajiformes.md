@@ -149,14 +149,14 @@ Rays have flattened bodies with greatly enlarged pectoral fins along their body 
 Most rays have a long tail, with a sting - usually near where the tail joins the body, and not at the tip of the tail. Rays are closely related to sharks. Like sharks, the skeleton of rays are made of flexible cartilage. If you want to know how cartilage feels like, your nose and ears are made of cartilage!
 
 **Sometimes confused with**
-[horseshoe crabs](../../../arthropoda/limulidae/limulidae)
+[horseshoe crabs](../../../../arthropoda/limulidae/limulidae)
 . In murky waters, the two animals look very similar, both being round and flat with a long tail.
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Stinging encounter!**
 Stingrays are not aggressive animals and prefer to flee from danger. Most stingray injuries are the result of carelessness, generally when someone accidentally steps on a stingray that is lying harmlessly on the bottom. Stingray spines can penetrate through booties!
 
 **Shocking!**
-[Electric rays](../narcinidae/narcine)
+[Electric rays](../../narcinidae/narcine)
 have a pair of kidney-shaped electric organs at the base of the pectoral fins that can produce mild to strong electric shocks. Thus their common name. Their scientific name Family Narcidae comes from the Greek 'narke' which means 'paralysis'.
 
 **How to stay safe:**
@@ -208,10 +208,10 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 ***Family Gymnuridae**
 (Butterfly rays)
 
-**[Family Myliobatidae](../myliobatidae/narinari)**
+**[Family Myliobatidae](../../myliobatidae/narinari)**
 (Eagle, cownose and manta rays) with list of species recorded for Singapore
 
-[**Family Narcinidae**](../narcinidae/narcine)
+[**Family Narcinidae**](../../narcinidae/narcine)
 (Electric rays)
 
 *+Narcine maculata*

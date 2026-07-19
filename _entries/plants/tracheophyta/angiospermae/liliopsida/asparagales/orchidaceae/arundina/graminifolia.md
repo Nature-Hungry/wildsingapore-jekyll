@@ -14,19 +14,29 @@ tribe: Arethuseae
 subtribe: Arethusinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC03414 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC04996 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC07230 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC03414
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC04996
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC07230
+      (11).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC01053 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC04995 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC03417 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC01053
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC04995
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC03417
+      (08).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC07234 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC04997 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC05202 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC07234
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC04997
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC05202
+      (09).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC05204 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC05204
+      (09).jpg
 title: Bamboo Orchid
 other_names:
 - Bird Orchid
@@ -35,8 +45,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC03414 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\arundina\graminifolia/DSC03414
+  (08).jpg
 updated: July 2024
+rdb: VU
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

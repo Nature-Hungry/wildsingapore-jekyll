@@ -58,9 +58,9 @@ These noodle-like egg masses are sometimes seen among seagrasses and seaweeds in
 ## Features
 
 Some may be large, about 0.3cm wide, very long and noodle-like. These may be laid in clumps among seagrasses and seaweeds, on on rocks and hard surfaces. Others may be very tiny, laid in neat spirals on seagrass blades. Possible animals responsible for laying these eggs include
-[seahares](../mollusca/slugs/anaspidae/anaspidea)
+[seahares](../../mollusca/slugs/anaspidae/anaspidea)
 and
-[snails](../mollusca/gastropoda)
+[snails](../../mollusca/gastropoda)
 .
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 

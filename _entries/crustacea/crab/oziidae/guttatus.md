@@ -157,7 +157,7 @@ One of its pincers is much larger. In a young crab, this enlarged pincer is arme
 
 **Sometimes confused with**
 similar crabs in the same habitat. Here's more on how to tell apart
-[big crabs with big pincers](../../bigpincer)
+[big crabs with big pincers](../../../bigpincer)
 seen on the rocky shores and coral rubble.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
@@ -212,7 +212,7 @@ Epixanthus frontalis
 
 *Eupilumnus (Globopilumnus) globosus*
 *=**Eupilumnus globosus*
-*[Ozius guttatus](../oziidae/guttatus)*
+*[Ozius guttatus](../../oziidae/guttatus)*
 (Spotted-belly forceps crab)
 *Ozius rugulosus
 

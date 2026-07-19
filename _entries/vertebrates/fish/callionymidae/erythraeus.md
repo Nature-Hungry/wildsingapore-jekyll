@@ -103,9 +103,9 @@ According to Ng, it lacks a distinct dark spot at the base of the pectoral fin a
 
 **Sometimes mistaken**
 for
-[flatheads](../platycephalidae/platycephalidae)
+[flatheads](../../platycephalidae/platycephalidae)
 (Family Platycephalidae). Here's more on
-[how to tell apart fish with flat heads](../cfflatheads)
+[how to tell apart fish with flat heads](../../cfflatheads)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

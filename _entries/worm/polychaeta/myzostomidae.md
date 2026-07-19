@@ -50,7 +50,7 @@ zone:
 
 ## Where seen?
 These tiny worms are found only on
-[feather stars](../../echinodermata/crinoidea/crinoidea)
+[feather stars](../../../echinodermata/crinoidea/crinoidea)
 . Their colours and patterns usually perfectly match their host.
 
 **What is a scale worm?**

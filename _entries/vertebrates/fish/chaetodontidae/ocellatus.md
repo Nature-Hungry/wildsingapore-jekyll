@@ -206,9 +206,9 @@ To about 18cm, those seen at low tide usually about 4-8cm. Body flat, circular d
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Skirting with death?**
 Sometimes, small groups of small Kite butterflyfishes (about 3-4cm) are seen very near, but not touching,
-[Haddon's carpet anemones](../../../cnidaria/actiniaria/haddoni)
+[Haddon's carpet anemones](../../../../cnidaria/actiniaria/haddoni)
 . Sometimes also hiding under the sea anemone. One was also seen near a
-[cerianthid](../../../cnidaria/others/ceriantharia/ceriantharia)
+[cerianthid](../../../../cnidaria/others/ceriantharia/ceriantharia)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}**Baby kites:**

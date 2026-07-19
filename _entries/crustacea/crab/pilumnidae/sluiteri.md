@@ -88,7 +88,7 @@ Body width 3-5cm. Body oval, body and legs covered with sparse fuzz. Walking leg
 
 **Sometimes mistaken for**
 the
-[Ferocious reef crab](../eriphiidae/ferox)
+[Ferocious reef crab](../../eriphiidae/ferox)
 which is found in the same habitat and also also has red eyes but is not fuzzy.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

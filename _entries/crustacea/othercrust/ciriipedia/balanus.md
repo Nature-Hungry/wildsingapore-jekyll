@@ -127,7 +127,7 @@ To about 1 cm across, conical outer shell made up of several wall plates.
 Many settle on walls and hard surfaces. Some species of acorn barnacles settle on living roots of mangrove trees. Others on living animals such as crabs.
 
 Some may also settle on living snails such as the
-[Olive whelk](../../../mollusca/gastropoda/nassariidae/olivaceus)
+[Olive whelk](../../../../mollusca/gastropoda/nassariidae/olivaceus)
 . One snail may have more than one of these barnacles on its shell, which are quite large compared to the shell!
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

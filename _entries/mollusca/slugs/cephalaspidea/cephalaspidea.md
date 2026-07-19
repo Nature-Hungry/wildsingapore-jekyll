@@ -53,10 +53,10 @@ These odd snails and slugs seen on some of our shores with seagrasses and mangro
 
 **What are headshield slugs?**
 Headshield slugs belong to
-[Phylum Mollusca](../../mollusca)
+[Phylum Mollusca](../../../mollusca)
 and
-[Class Gastropoda](../../gastropoda)
-. They belong to group of sea slugs ([Subclass Opistobranchia](../../slug)) but most have retained shells as adults, although the shell may be reduced or internal. There are 31 families of headshield slugs.
+[Class Gastropoda](../../../gastropoda)
+. They belong to group of sea slugs ([Subclass Opistobranchia](../../../slug)) but most have retained shells as adults, although the shell may be reduced or internal. There are 31 families of headshield slugs.
 
 ## Features
 
@@ -70,11 +70,11 @@ and
 spp. are herbivores, placidly munching on filamentous algae.
 
 Some tailed slugs are carnivores and eat their prey whole, crushing them with hard calcareous plates in the gizzard. Their prey include other slugs,
-[flatworms](../../../worm/polycladida/polycladida)
+[flatworms](../../../../worm/polycladida/polycladida)
 ,
-[acoel flatworms](../../../worm/acoela/acoela)
+[acoel flatworms](../../../../worm/acoela/acoela)
 and
-[polychaete worms](../../../worm/polychaeta/polychaeta)
+[polychaete worms](../../../../worm/polychaeta/polychaeta)
 . Some have well developed structures to track down their prey by following the prey's mucous trail. Others are herbivores.
 
 ---

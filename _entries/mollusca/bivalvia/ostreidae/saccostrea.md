@@ -98,7 +98,7 @@ This oyster with spikes is commonly seen on our rocky shores, on boulders, rocks
 
 3-4cm.
 The two-part shell is thick and chalky. The left valve is stuck to a rock while long, hollow spikes develop on the right valve. The spikes are more prominent in younger animals. This is probably a defence against predatory snails like
-[Drills](../../gastropoda/muricidae/muricidae)
+[Drills](../../../gastropoda/muricidae/muricidae)
 . The spines might make it difficult for such a snail to bore a hole in the oyster's shell. But this is no defense against determined humans. This oyster is eaten in many parts of the wold where they occur.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 

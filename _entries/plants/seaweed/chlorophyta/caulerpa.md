@@ -218,7 +218,7 @@ was accidentally introduced outside its natural range and has now become a serio
 
 **Slug heaven:**
 Many kinds of
-[sap-sucking slugs](../../../mollusca/slugs/sacoglossa/sacoglossa)
+[sap-sucking slugs](../../../../mollusca/slugs/sacoglossa/sacoglossa)
 (Order Sacoglossa) are often seen in Caulerpa green seaweeds.
 
 *![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/scalpelliformis/070803cjd4992m6.jpg)*

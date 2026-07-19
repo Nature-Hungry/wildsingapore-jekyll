@@ -95,7 +95,7 @@ Like other bivalves, razor clams are filter feeders. The buried clam sticks its 
 ## Human uses
 
 Larger razor shells are edible and are collected as food. Like other filter-feeding clams, however, razor clams may be affected by
-[red tide and other harmful algal blooms](../../../plants/seaweed/redtide)
+[red tide and other harmful algal blooms](../../../../plants/seaweed/redtide)
 . Such clams can then be harmful to eat.
 
 **Species are difficult to positively identify without close examination.

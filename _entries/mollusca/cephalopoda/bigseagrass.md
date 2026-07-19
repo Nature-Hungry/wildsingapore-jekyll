@@ -97,9 +97,9 @@ Head about 6-8cm long, arms may be 12-20cm long. The head is smooth and oval, an
 {% include img-wrap-group.html items=page.galleries.gallery1 %}## Features
 
 It is often seen hiding in crevices, holes and cavities. Also inside shells of large snails like the
-[Noble volute](../gastropoda/volutidae/nobilis)
+[Noble volute](../../gastropoda/volutidae/nobilis)
 and
-[Baler volute](../gastropoda/volutidae/melo)
+[Baler volute](../../gastropoda/volutidae/melo)
 . Small ones even hide in empty shells of dead clams. Also in litter like glass bottles and clay jars (used for burial rituals).
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

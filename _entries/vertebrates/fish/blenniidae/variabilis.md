@@ -160,7 +160,7 @@ This little fish has sharp teeth and can nip a naked hand or finger. In some pla
 
 **Blenny babies:**
 It lays adhesive eggs. It has been seen to guard eggs laid inside empty
-[Fan shell clams](../../../mollusca/bivalvia/pinnidae/pinnidae)
+[Fan shell clams](../../../../mollusca/bivalvia/pinnidae/pinnidae)
 and other large empty snail shells. Once, a pair were seen with the eggs.
 
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

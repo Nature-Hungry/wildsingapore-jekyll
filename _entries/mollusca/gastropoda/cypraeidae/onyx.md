@@ -139,9 +139,9 @@ This stunning snail with a golden-brown shell is sometimes seen on our undisturb
 
 **Sometimes mistaken for**
 a
-[sea slug](../../slug)
+[sea slug](../../../slug)
 . When the shell is completely covered in its mantle, it is sometimes mistaken for a sea slug. Here's more on
-[how to tell apart slugs and animals that look like slugs](../../../glossary/flatwormslug)
+[how to tell apart slugs and animals that look like slugs](../../../../glossary/flatwormslug)
 .
 
 ## Human uses

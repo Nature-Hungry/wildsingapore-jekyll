@@ -147,9 +147,9 @@ so they can 'breathe' while underwater.
  Like other 'normal' land plants, seagrasses have green leaves where photosynthesis takes place.
 
 **Sometimes confused with** [green
-seaweeds](../seaweed/chlorophyta/chlorophyta). Unlike seagrasses, seaweeds lack veins, roots that absorb
+seaweeds](../../seaweed/chlorophyta/chlorophyta). Unlike seagrasses, seaweeds lack veins, roots that absorb
 nutrients, and do not produce flowers or fruits. Here's more on [how
-to apart seagrasses and green seaweeds](../../glossary/seagrassweed).
+to apart seagrasses and green seaweeds](../../../glossary/seagrassweed).
   
 {% include img-wrap-group.html items=page.page_images1 %}
 
@@ -185,7 +185,7 @@ provide shelter for many animals that are not adapted for fast swimming
 fishes and animals that later move out into deeper waters and include
 commercially important fishes and sea creatures. Seagrass leaves also
 provide a place for animals to [lay
-their eggs](../../eggs/string), and for [small animals to settle
+their eggs](../../../eggs/string), and for [small animals to settle
 down](enhalus4).
 
 {% include img-wrap-group.html items=page.page_images3 %}
@@ -195,7 +195,7 @@ down](enhalus4).
 The [Star
 Trackers](http://startrackers.blogspot.com/2008/05/cyrene-reef-important-habitat-forl) have noted that the seagrass meadows on Cyrene Reef are
 important and possibly the only habitat left in Singapore where baby [Knobbly
-sea stars](../../echinodermata/asteroidea/protoreaster) (*Protoreaster nodosus*) can be found in large
+sea stars](../../../echinodermata/asteroidea/protoreaster) (*Protoreaster nodosus*) can be found in large
 numbers.   
   
 The underground stems and roots of seagrasses form a mat which stabilises
@@ -206,8 +206,8 @@ In the stabilised ground, many burrowing creatures make their homes.
   
 Few animals can eat seagrasses, because few can digest the cellulose
 that makes up these plants. Among those that do feed on seagrasses
-are the [sea turtles](../../vertebrates/reptilia/seaturtle) such as the Green turtle (*Chelonia mydas*) and Hawksbill turtle
-(*Eretmochelys imbricata*) as well as the [Dugong](../../vertebrates/mammals/dugong) (*Dugong dugon*).
+are the [sea turtles](../../../vertebrates/reptilia/seaturtle) such as the Green turtle (*Chelonia mydas*) and Hawksbill turtle
+(*Eretmochelys imbricata*) as well as the [Dugong](../../../vertebrates/mammals/dugong) (*Dugong dugon*).
 
 {% include img-wrap-group.html items=page.page_images4 %}
 

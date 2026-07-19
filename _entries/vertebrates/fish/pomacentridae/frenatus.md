@@ -187,9 +187,9 @@ habitats:
 
 ## Where seen?
 This beautiful anemonefish with a white 'head band' lives mainly in the
-[Bubble tip sea anemone](../../../cnidaria/actiniaria/entacmaea)
+[Bubble tip sea anemone](../../../../cnidaria/actiniaria/entacmaea)
 which is not very commonly encountered, usually on good reefs on our Southern shores. There is a report of it being found in a
-[Magnificent anemone](../../../cnidaria/actiniaria/magnifica)
+[Magnificent anemone](../../../../cnidaria/actiniaria/magnifica)
 too.
 
 ## Features

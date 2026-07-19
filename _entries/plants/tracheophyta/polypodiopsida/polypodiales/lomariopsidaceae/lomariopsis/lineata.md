@@ -12,29 +12,43 @@ suborder: Polypodiineae
 family: Lomariopsidaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00985 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00974 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC09508 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00985
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00974
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC09508
+      (14).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC09509 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00986 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00989 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC09509
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00986
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00989
+      (14).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00980 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00984 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00988 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00980
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00984
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00988
+      (14).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00971 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC01006 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC01007 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00971
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC01006
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC01007
+      (14).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00985 (14).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lomariopsidaceae\lomariopsis\lineata/DSC00985
+  (14).jpg
 updated: July 2024
+rdb: EN
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

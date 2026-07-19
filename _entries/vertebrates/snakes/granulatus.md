@@ -145,14 +145,14 @@ the highly venomous
 (*Laticauda colubrina*). Here's
 [how to tell apart banded snakes](cfseafile)
 seen near the coast. It may also be confused with eels. Here's more on
-[how to tell apart sea snakes, eels and eel-like animals](../../glossary/eelsnake)
+[how to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake)
 .
 
 Another file snake recorded for Singapore is the Elephant trunk water snake (*Acrochordus javanicus)*
 . It is longer, grows to about 2.9m. It is not banded and is olive brown to grey brown with faintly marbled black pattern on the sides. The underside is lighter than the upperside. There is no prominent central fold on the underside. In slow-moving waters of estuaries and freshwater streams and canals.
 **What does it eat?**
 Mainly small fishes such as bottom dwelling
-[gobies](../fish/gobiidae/gobiidae)
+[gobies](../../fish/gobiidae/gobiidae)
 . The snake has a loose skin covered with small rough scales. The file-like skin helps it to grip its slippery prey. The snake has tiny eyes and a small mouth.
 
 **File Babies:**

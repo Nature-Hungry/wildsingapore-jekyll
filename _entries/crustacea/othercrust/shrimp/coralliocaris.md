@@ -142,10 +142,10 @@ zone:
 
 ## Where seen?
 This fat little green shrimp is sometimes living among branching corals such as
-[Acropora corals](../../../cnidaria/coralhard/acroporidae/acropora)
+[Acropora corals](../../../../cnidaria/coralhard/acroporidae/acropora)
 (*Acropora*
 sp.) and
-[Montipora corals](../../../cnidaria/coralhard/acroporidae/montipora)
+[Montipora corals](../../../../cnidaria/coralhard/acroporidae/montipora)
 (*Montipora*
 sp.). It is usually well hidden and hard to spot and photograph.
 

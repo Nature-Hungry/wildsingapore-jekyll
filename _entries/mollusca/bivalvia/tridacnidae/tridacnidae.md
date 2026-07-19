@@ -82,7 +82,7 @@ These enormous clams are sometimes seen on our undisturbed Southern shores. Some
 
 **What are giant clams?**
 Giant clams belong to
-[Family Cardiidae](../cardiidae/cardiidae)
+[Family Cardiidae](../../cardiidae/cardiidae)
 (True cockles), subfamily Tridacninae. Previously, it was placed in Family Tridacnidae.
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ## Features

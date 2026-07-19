@@ -189,7 +189,7 @@ This odd long-nosed fish with wings is sometimes seen on some of our shores. At 
 Seamoths belong to Family Pegasiidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=286)
 : the family has 2 genera and 5 species. They are found in the Indo-West Pacific. They are sometimes also called sea robins or dragonfishes. Some scientists place them with the seahorse in the
-[Family Syngnathidae](../syngnathidae/syngnathidae)
+[Family Syngnathidae](../../syngnathidae/syngnathidae)
 .
 ****
 Pegasus is the winged horse of Greek mythology. In one version of the myth, Pegasus was the son of Poseidon, God of the Sea and Medusa.

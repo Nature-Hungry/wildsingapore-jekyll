@@ -161,9 +161,9 @@ These rotund fishes are sometimes seen on some of our shores. They are found amo
 Pufferfishes belong to the Family Tetraodontidae. According to
 [FishBase](http://www.fishbase.org/Summary/FamilySummary.cfm?ID=448)
 : the family has 19 genera and 121 species. They are found in tropical and subtropical ares of the Atlantic, Indian and Pacific oceans. Other similar fishes belong to different families: boxfishes and cowfishes to
-[Family Ostraciidae](../ostraciidae/ostraciidae)
+[Family Ostraciidae](../../ostraciidae/ostraciidae)
 , and porcupinefishes to
-[Family Diodontidae](../diodontidae/diodontidae)
+[Family Diodontidae](../../diodontidae/diodontidae)
 .
 
 ## Features

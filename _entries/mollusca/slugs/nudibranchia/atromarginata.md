@@ -245,7 +245,7 @@ The feathery gills rotate constantly to and fro. This is believed to help improv
 
 **What does it eat?**
 It eats
-[sponges](../../../porifera/porifera)
+[sponges](../../../../porifera/porifera)
 . Neville Coleman notes it eating these sponges:
 *Fasciospongia*
 sp.,

@@ -99,8 +99,8 @@ habitats:
 
 ## Where seen?
 This little snail is sometimes seen in numbers on some of our shores. Usually on large seagrasses (such as
-[Tape seagrass](../../../plants/seagrass/enhalus)) and large seaweeds (such as
-[Sargassum](../../../plants/seaweed/phaeophyta/sargassum)). Sometimes many can be seen well dispersed among these leafy lifeforms. It was also known as
+[Tape seagrass](../../../../plants/seagrass/enhalus)) and large seaweeds (such as
+[Sargassum](../../../../plants/seaweed/phaeophyta/sargassum)). Sometimes many can be seen well dispersed among these leafy lifeforms. It was also known as
 *Columbella versicolor, Pyrene versicolor*
 and
 *Pyrene scripta*

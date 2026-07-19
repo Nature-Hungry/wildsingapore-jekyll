@@ -130,7 +130,7 @@ Silver moonies belong to Family Monodactylidae. According to
 
 **Sometimes confused with**
 the
-[Batfish](../ephippidae/ephippidae)
+[Batfish](../../ephippidae/ephippidae)
 .
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

@@ -153,7 +153,7 @@ previously known as
 The males usually carry the relatively large eggs in his mouth until the eggs hatch.
 
 **Sometimes mistaken for**
-[eel-tail catfishes](../plotosidae/plotosidae)
+[eel-tail catfishes](../../plotosidae/plotosidae)
 . Eel-tail catfishes also have barbels but their tail fins are eel-like and not forked as in the sea catfishes.
 
 **What do they eat?**

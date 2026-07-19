@@ -248,19 +248,19 @@ Limpets are found many of our shores. Both on and under stones, as well as on ro
 ## Features
 
 'Limpets' are molluscs with an uncoiled, umbrella-shaped shell, often with ribs. They are
-[gastropods](../../gastropoda)
+[gastropods](../../../gastropoda)
 , and like the snails more familiar to us, also have a broad foot upon which they creep about. Unlike snails, however, limpets don't have an operculum to seal the opening in their shell. Instead, they clamp down tightly against the rock, forming a seal between the shell edge and the rock. Their grip is so strong that if you try to pry them off, you will hurt them. So please don't do this. If you want to see what the limpet looks like under its shell, have a look at the factsheets instead.
 
 **Sometimes confused with**
-[barnacles](..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
+[barnacles](../..//wildfacts/guides/crustacea/crustacea/othercrust/ciriipedia/cirripedia)
 which are crustacea; small
-[oysters](../../bivalvia/ostreidae/osteridae)
+[oysters](../../../bivalvia/ostreidae/osteridae)
 (Family Ostreidae) which are
-[bivalves](../../bivalvia)
+[bivalves](../../../bivalvia)
 ; and
-[slipper snails](../calyptraeidae/calyptraeidae)
+[slipper snails](../../calyptraeidae/calyptraeidae)
 (Family Calyptraeidae) which are another kind of gastropod. Unlike limpets, all these other animals cannot move around. More on how to tell apart
-[shelled animals found on rocks](../../../glossary/limpetbarnacle)
+[shelled animals found on rocks](../../../../glossary/limpetbarnacle)
 .
 
 **Limpets can move!**
@@ -276,7 +276,7 @@ Some species of limpets have a strong homing instinct and move back to the same 
 This spot is often a slight depression in the rock which fits the outline of the shell perfectly, and is called the 'home scar'. The limpet creates this perfect spot by rubbing against the rock, wearing away the shell and/or the rock so that a perfect fit is created! Even as the limpet grows bigger.
 
 Sometimes, you might come across a spot on a rock in the shape of a limpet that is completely 'clean' with feeding trails leading from the home scar. This could be the home scar of a limpet that has recently come to an unhappy end. Among the animals that prey on limpets are
-[drill snails](../muricidae/muricidae)
+[drill snails](../../muricidae/muricidae)
 .
 
 Some limpets are believed to follow their mucus trails back to the home scar. In some of these homing limpets, their mucus also stimulates the growth of algae!
@@ -296,13 +296,13 @@ Another member of the Family Fissurellidae are the
 [Shield-limpets](scutus)
 (*Scutus*
 sp.). Their bodies are a lot larger than their shell. In fact, the shell might be completely covered by their mantle, making them appear to be
-[slugs](../../slug)
+[slugs](../../../slug)
 . A Shield-limpet's body usually folds up around the edges of the shell and may cover most of the shell. They come in various colours. Their body may be black or beige, and shell white or brown. These limpets are commonly found under rocks on our shores.
 
 Another group of limpets have lungs and breathe air.
 **False limpets**
 (Family Siphonariidae) belong to this group and are closely related to land snails and to
-[Onch slugs](../../slugs/onchidiidae/onchidiidae)
+[Onch slugs](../../../slugs/onchidiidae/onchidiidae)
 (Family Onchidiidae). They have a lung that can be filled with air or seawater. Because they can breathe air, false limpets are often found higher up on the rocks than limpets that breathe through gills. They lay jelly-like egg masses on the rocks.
 
 More on how to

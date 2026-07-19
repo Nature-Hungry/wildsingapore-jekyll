@@ -129,11 +129,11 @@ Colony bushy about 6-12cm. Colony is branched with 'stems' emerging from a centr
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}**Flowery friends:**
 Tiny animals may be found on spiky flowery soft corals. These include tiny
-[false cowrie snails](../../mollusca/gastropoda/ovulidae/ovulidae)
+[false cowrie snails](../../../mollusca/gastropoda/ovulidae/ovulidae)
 , tiny
 [red-nose shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/rednose)
 and
-[tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful)
+[tiny colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful)
 .
 
 {% include img-wrap-group.html items=page.galleries.gallery4 %}**ID awaits confirmation. Species are difficult to positively identify without close examination.

@@ -203,9 +203,9 @@ Needlefishes belong to the Family Belonidae. According to
 50cm-1m long or more, these fishes have a long silvery body. In some, the cross-section of the body is circular, in others rectangular. They usually have a dark blue stripe along the body length, and the tip of the lower jaw may be red or orange. They have long, narrow pointed jaws that are beak- or needle-like, thus their common name. 'Belone' means 'needle' in Greek. These slender jaws are usually filled with sharp needle-like teeth. The jaws are shorter in juveniles, elongating as they age. Has one single dorsal fin.
 
 **Sometimes mistaken for**
-[halfbeaks](../hemiramphidae/hemiramphidae)
+[halfbeaks](../../hemiramphidae/hemiramphidae)
 . Halfbeaks are generally shorter and only their lower jaw is elongated while the upper jaw is very short. In needlefishes, both the upper and lower jaws are of equal length and usually filled with sharp teeth. Here's more on
-[how to tell apart stick-like fishes](../cfstick)
+[how to tell apart stick-like fishes](../../cfstick)
 commonly seen on our shores.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **Camouflage in the open:**

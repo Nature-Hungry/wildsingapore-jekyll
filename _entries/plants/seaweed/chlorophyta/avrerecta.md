@@ -161,7 +161,7 @@ A paddle-shaped blade (4-5cm wide), usually growing alone, sometime a few near o
 The stalk can be quite long (up to 10cm long), with only a short portion sticking out above the surface. Sometimes, the single blade is divided into three or four 'wings'. Usually dark green sometimes with pale or yellowish edges.
 
 Sometimes, tiny
-[Strawberry slugs](../../../mollusca/slugs/sacoglossa/costasiella)
+[Strawberry slugs](../../../../mollusca/slugs/sacoglossa/costasiella)
 (*Costasiella*
 sp.) are found on this seaweed.
 

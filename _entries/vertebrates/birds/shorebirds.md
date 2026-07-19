@@ -59,9 +59,9 @@ zone:
 
 ## Where seen?
 These rather drab but very interesting birds can be seen on and flying over our
-[mudflats](../../plants/mangrove/mangroves)
+[mudflats](../../../plants/mangrove/mangroves)
 and
-[sandflats](../../concepts/sandy)
+[sandflats](../../../concepts/sandy)
 especially during the migratory season of September to March. These are shorebirds visiting from afar. They are sometimes also called waders as they are often seen wading in water.
 
 *![](https://images.naturehungry.sg/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg)*

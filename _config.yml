@@ -29,6 +29,9 @@ collections:
   photoindexes:
     output: true
     permalink: /:collection/:path/
+  articles:
+    output: true
+    permalink: /:collection/:path/
   forteachers:
     output: true
     permalink: /forteachers/:name/

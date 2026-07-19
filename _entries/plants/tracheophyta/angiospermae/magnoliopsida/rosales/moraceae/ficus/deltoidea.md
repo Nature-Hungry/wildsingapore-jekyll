@@ -14,13 +14,19 @@ subgenus: Synoecia
 section: Plagiostigma
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07930 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07932 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07931 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07930
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07932
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07931
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07933 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07936 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07939 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07933
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07936
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07939
+      (10).jpg
 title: Rusty-leafed Bush Fig
 other_names:
 - Mistletoe Fig
@@ -30,8 +36,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07930 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\ficus\deltoidea/DSC07930
+  (10).jpg
 updated: July 2024
+rdb: CR
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

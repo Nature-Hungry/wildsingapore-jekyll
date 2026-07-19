@@ -14,11 +14,15 @@ tribe: Andropogoneae
 subtribe: Anthistiriinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02963 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02970 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02967 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02963
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02970
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02967
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02966 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02966
+      (10).jpg
 title: Black Speargrass
 other_names:
 - Tanglehead
@@ -27,8 +31,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02963 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\heteropogon\contortus/DSC02963
+  (10).jpg
 updated: July 2024
+rdb: NEx
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

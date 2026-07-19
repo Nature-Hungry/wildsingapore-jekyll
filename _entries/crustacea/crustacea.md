@@ -34,7 +34,7 @@ galleries:
   - url: "https://images.naturehungry.sg/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg"
     caption: "[Mussel shrimps](othercrust/ostracoda/ostracoda) are tiny crustaceans that give off blue bioluminescence"
   - url: "https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg"
-    caption: "[Horseshoe crabs](../arthropoda/limulidae/limulidae) are NOT crustaceans! But they are arthropods."
+    caption: "[Horseshoe crabs](../../arthropoda/limulidae/limulidae) are NOT crustaceans! But they are arthropods."
 permalink: /entries/Arthropoda/Crustacea
 ---
 

@@ -93,7 +93,7 @@ can grow to 40cm long! Many may be parasites on other marine creatures.
 ## Features
 
 1cm or less. Their segmented body is flattened downwards (instead of sideways for amphipods such as
-[amphipods](../amphipoda/amphipoda)) with legs that are more or less similar. Isopoda meaning 'same feet' while Amphipoda means 'different feet'. Their eyes are NOT on stalks. Some can give a nasty bite.
+[amphipods](../../amphipoda/amphipoda)) with legs that are more or less similar. Isopoda meaning 'same feet' while Amphipoda means 'different feet'. Their eyes are NOT on stalks. Some can give a nasty bite.
 
 **What do they eat?**
 Beach isopods are scavengers, nibbling on whatever recently died on the rocky shore. At low tide, they swarm over the beach looking for the recent dead. Some isopods found in the mangroves nibble holes in dead wood and can cause much damage to wooden man-made structures.

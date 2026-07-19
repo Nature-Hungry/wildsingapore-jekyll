@@ -116,7 +116,7 @@ Flowers tiny (0.5cm) in dense clusters about 3-4cm across. Corolla with four whi
 Fruit tiny (0.5cm) oblong with 6-8 ridges, first green then white. The outer layer of the fruit is fleshy with a corky inner layer. The fruit separates into two halves when ripe. Each fruit contains 4 or fewer seeds. The fruits float because of the spongy inner layer.
 
 **Sometimes mistaken for**
-[Teruntum](../lumnitzera/lumnitzera)
+[Teruntum](../../lumnitzera/lumnitzera)
 (*Lumnitzera*
 sp.), which has its leaves arranged in a spiral.
 ## Human uses

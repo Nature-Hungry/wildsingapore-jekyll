@@ -52,7 +52,7 @@ This pale colony of tiny animals is seasonally common on some of our Nothern sho
 
 Branching stems about 10-20cm long. The thick short 'stems' branch extensively on one plane. The entire colony is often transparent to beige. Sometimes covered with encrusting organisms. Polyps very very tiny, emerging from the branches.
 
-**Sometimes mistaken for** a [hydroid](../cnidaria/others/hydrozoa/hydrozoa).
+**Sometimes mistaken for** a [hydroid](../../cnidaria/others/hydrozoa/hydrozoa).
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 
 ---

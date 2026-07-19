@@ -165,12 +165,12 @@ and named after him.
 Beccari's seagrass is the smallest seagrass found on our shores (0.5cm long). The long oval-shaped leaves emerge in a rosette of 5-10 tiny leaves on long thin stems. Each plant may bear both male and female flowers, but usually, only male or female flowers are visible on a plant. The flowers and fruits are tiny. Each fruit contains up to 6 seeds.
 
 On Chek Jawa, patches were seen among the byssus nests created by
-[Nest mussels](../../mollusca/bivalvia/mytilidae/musculista)
+[Nest mussels](../../../mollusca/bivalvia/mytilidae/musculista)
 (*Musculita senhausia*). In Singapore's northern mangroves, mangrove seedlings are often seen in patches of this seagrass.
 
 ## Role in habitat
 Studies suggest that beds of Beccari's seagrass are an important nursery for
-[horseshoe crabs](../../arthropoda/limulidae/limulidae)
+[horseshoe crabs](../../../arthropoda/limulidae/limulidae)
 in many regions.
 
  

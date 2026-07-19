@@ -13,31 +13,46 @@ subfamily: Phyllanthoideae
 tribe: Bridelieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01341 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC00329 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01416 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01341
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC00329
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01416
+      (14).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01410 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC00528 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC00529 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01410
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC00528
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC00529
+      (13).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01346 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01342 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01418 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01346
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01342
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01418
+      (14).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01419 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01420 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC00333 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01419
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01420
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC00333
+      (13).jpg
   gallery5:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01421 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01421
+      (14).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01341 (13).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\phyllanthaceae\cleistanthus\malaccensis/DSC01341
+  (13).jpg
 updated: July 2024
+rdb: NEx
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

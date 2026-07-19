@@ -76,7 +76,7 @@ This little hermit crab is commonly seen on sandy areas and among seagrasses on 
 
 Body about 1-2cm long, smooth near the eyes but very fluffy towards the other end, pale pink, purplish or darkish. Pincers held so that the 'fingers' open horizontally in front of the animal. Left pincer much bigger than the right pincer. Pincers and legs smooth (not hairy), pale with lavender or dark patches. Eyes on short thick stalks, pale. Short antennae pale, feathery tips pale with bluish tints. Long antennae rather short and broad feathery.
 Some, especially larger hermit crabs may have one or more
-[sea anemones on the shell](../../../../cnidaria/actiniaria/hermitsmall)
+[sea anemones on the shell](../../../../../cnidaria/actiniaria/hermitsmall)
 .
 
 ## Human uses
