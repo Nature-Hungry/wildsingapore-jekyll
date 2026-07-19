@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/auth"
+  to = "https://api.netlify.com/auth"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/callback"
+  to = "https://api.netlify.com/auth/done"
+  status = 200
+  force = true

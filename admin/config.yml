@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Nature-Hungry/wildsingapore-jekyll
   branch: main
-  auth_endpoint: /api/auth
+  auth_endpoint: auth
   commit_messages:
     create: Create {{collection}} "{{slug}}"
     update: Update {{collection}} "{{slug}}"
