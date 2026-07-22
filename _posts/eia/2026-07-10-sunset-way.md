@@ -4,7 +4,7 @@ description: "HDB wants to develop Maju Forest, and completed an EIA to assess t
 keywords: "EIA, development, HDB, gillman barracks"
 date: 2026-07-10
 layout: post
-coverimg: "https://images.naturehungry.sg/photos/posts/Maju%20Forest/_1011624.jpg"
+coverimg: "https://images.naturehungry.sg/photos/posts/Maju%20Forest/_DSC6413.jpg"
 ---
 
 
