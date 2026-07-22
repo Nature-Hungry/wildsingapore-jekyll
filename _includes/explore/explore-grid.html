@@ -660,36 +660,6 @@ tree.addEventListener('change', e => {
 
 
 
-const redirectMap = {
-  "sgfishesabovewater.blogspot.com":{
-    "logo":"",
-  }
-}
 
-
-document.body.addEventListener('click', function(event) {
-  // 2. Check if the clicked element (or its closest ancestor) is a transition link
-  const link = event.target.closest('a.entry[external]');
-  
-  if (link) {
-    // 3. Override the default redirect
-    event.preventDefault();
-    const targetUrl = link.href;
-    
-    // 4. Trigger transition animation
-    overlay.classList.add('show');
-    overlay.replaceChildren()
-    overlay.insertAdjacentHTML('beforeend', `
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/timelinejs/2.25/css/loading.gif"/>
-      <p>Redirecting to ${link.getAttribute("external")}</p>
-    `);
-    
-    // 5. Redirect after transition finishes
-    console.log("Redirecting to ", link.getAttribute("external"))
-    setTimeout(() => {
-      window.location.href = targetUrl;
-    }, 1500);
-  }
-});
 
 </script>

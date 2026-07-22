@@ -1,7 +1,7 @@
 ---
-title: "Cephalopods"
+title: "Clams with one side stuck"
 description: ""
-label: "Cephalopoda"
+label: "Stuck clams"
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: []
@@ -13,9 +13,8 @@ coverimgs:
 - https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
 ---
 
-octopuses, squids and cuttlefishes
 
-{% assign filtered_posts = site.entries | where_exp: "item", "item.class=='Cephalopoda'" | where_exp: "item", "item.title != 'Pencil squids'"%}
+{% assign filtered_posts = site.entries | where: "class", "Bivalvia" %}
 
 
 <div style="
@@ -26,10 +25,26 @@ octopuses, squids and cuttlefishes
 >
 {% for post in filtered_posts %}
 
+
+
+{% if post.hideFromPhotoindex != true and  post.attributes contains 34 %}
+
     {% include entry-summary-rows.html item=post %}
 
+{% endif %}
 {% endfor %}
 </div>
 
+<br>
+
+<h2>These are NOT bivalves</h2>
 
 
+<div class="flex flex-wrap gap-2">
+{% assign entry = site.entries | where : "title","Limpets" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Slipper snails" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Barnacles" | first %}
+{% include entry-summary-card.html item=entry %}
+</div>

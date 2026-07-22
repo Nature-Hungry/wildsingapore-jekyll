@@ -1,5 +1,5 @@
 ---
-title: 'Under-a-stone jingle clam '
+title: Under-a-stone jingle clam
 description: Fact sheet of Under-a-stone jingle clam  on the shores of Singapore
 keywords: monia, jingle, shell, anomiidae, bivalve, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -8,7 +8,6 @@ attributes:
 - 2
 - 33
 - 34
-- 73
 family: Anomiidae
 genus: ''
 species: ''

@@ -7,7 +7,8 @@ layout: entry
 family: Pteriidae
 genus: Vulsella
 species: sp.
-attributes: []
+attributes: 
+- 73
 inat_id: 849784
 stateofmatter: Life
 kingdom: Animalia

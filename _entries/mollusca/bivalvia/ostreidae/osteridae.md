@@ -92,6 +92,7 @@ authors:
 zone:
 - intertidal
 - marine
+hideFromPhotoindex: true
 ---
 
 ## Where seen?

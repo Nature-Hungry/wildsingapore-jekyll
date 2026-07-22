@@ -140,7 +140,7 @@ myths to dispel**
   to a wide variety of animals, many of which are among our favourite
   seafood. These animals are part of the food chain in ecosystems
   nearby. They stabilise sediments and keep the water clear for
-  coral reefs to develop nearby. And the stabilised area allows
+ coral reefs to develop nearby. And the stabilised area allows
   mangroves to eventually grow there. Without seagrasses, other
   coastal ecosystems nearby can be severely affected.
 - If we had

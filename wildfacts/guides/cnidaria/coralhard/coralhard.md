@@ -378,7 +378,7 @@ cnidarians](../cnidaria.htm)
   efforts in Singapore.
 - [Bleach Watch Singapore blog](http://bleachwatchsingapore.blogspot.sg/) and [facebook page](https://www.facebook.com/pages/Bleach-Watch-Singapore/121734474530412).
 - [Hard
-  corals (Order Madreporia)](http://mangrove.nus.edu.sg/pub/seashore/text/117.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+ corals (Order Madreporia)](http://mangrove.nus.edu.sg/pub/seashore/text/117.htm) Tan, Leo W. H. & Ng, Peter K. L.,
   1988. *[A
   Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
   Singapore. 160 pp.
@@ -449,7 +449,7 @@ cnidarians](../cnidaria.htm)
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 - Borneman,
   Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
+ corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
 - Wee Y.C.
   and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.

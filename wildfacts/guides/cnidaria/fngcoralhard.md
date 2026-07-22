@@ -50,7 +50,7 @@ are not stepped upon.**What are hard corals?**
     food produced is shared with the polyp, which in return provides
     the algae with shelter and minerals.
   - Hard
-    corals grow VERY SLOWLY. Some grow only 1cm a year. So a specimen
+   corals grow VERY SLOWLY. Some grow only 1cm a year. So a specimen
     in that is a metre across can be 100 years old! Even a tiny
     one (point to a tiny one) only 1cm may be growing for one
     year already. So please don't step on the hard corals.

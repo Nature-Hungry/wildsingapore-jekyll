@@ -7,7 +7,16 @@ layout: entry
 family: Osteridae
 genus: ''
 species: identification*
-attributes: []
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Ostreida
+superfamily: Ostreoidea
+attributes: 
+- 34
 updated: Sep 2019
 coverimg: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
 galleries:

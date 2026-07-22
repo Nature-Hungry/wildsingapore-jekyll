@@ -1,5 +1,5 @@
 ---
-title: Zig zag  oyster
+title: Zig zag oyster
 description: Fact sheet of Zig zag  oyster on the shores of Singapore
 keywords: zig, zag, oyster, osteridae, bivalve, mollusc, clam, shell, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
@@ -8,7 +8,16 @@ layout: entry
 family: Osteridae
 genus: ''
 species: identification*
-attributes: []
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Ostreida
+superfamily: Ostreoidea
+attributes: 
+- 34
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
 galleries:

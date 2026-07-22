@@ -8,7 +8,8 @@ layout: entry
 family: Clavagellidae
 genus: Verpa
 species: penis
-attributes: []
+attributes: 
+- 73
 inat_id: 1072232
 stateofmatter: Life
 kingdom: Animalia

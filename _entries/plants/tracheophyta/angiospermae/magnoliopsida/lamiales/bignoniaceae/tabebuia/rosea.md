@@ -39,7 +39,22 @@ zone:
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\rosea/DSC04303 (09).jpg
 updated: July 2024
+other_sources:
+- url: "https://uforest.org/plants/species?q=Tabebuia_rosea"
+  img: "https://uforest.org/images_root/logo.svg"
+- url: "https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3171"
+  img: "https://www.nparks.gov.sg/images/default-source/default-album/_system/nparks-logo_no-tagline.svg?sfvrsn=3183528a_1"
 ---
+
+<h2>Other sources</h2>
+<div class="other-sources">
+{% for s in page.other_sources %}
+<a class="other-source" rel="nofollow" href="{{s.url}}" external="{{s.url}}">
+  <img src="{{s.img}}">
+</a>
+{% endfor %}
+</div>
+
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 {% include img-wrap-group.html items=page.galleries.gallery3 %}

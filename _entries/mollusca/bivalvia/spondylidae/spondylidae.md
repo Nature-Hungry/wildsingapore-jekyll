@@ -6,7 +6,8 @@ layout: entry
 family: Spondylidae
 genus: Spondylus
 species: sp.*
-attributes: []
+attributes: 
+- 34
 inat_id: 326346
 stateofmatter: Life
 kingdom: Animalia

@@ -18,17 +18,17 @@ often quite colourful.
 
 ---
 
-*![](../ascidiacea/white/050623cjg8306m3.jpg)  
+*![](https://images.naturehungry.sg/ascidiacea/white/050623cjg8306m3.jpg)  
   
-![](../ascidiacea/white/050623cjg8306m3a.jpg)*
+![](https://images.naturehungry.sg/ascidiacea/white/050623cjg8306m3a.jpg)*
 
-*![](../porifera/smoothblue/060102sisd6510m3.jpg)  
+*![](https://images.naturehungry.sg/porifera/smoothblue/060102sisd6510m3.jpg)  
   
-![](../porifera/smoothblue/060102sisg3694m3.jpg)*
+![](https://images.naturehungry.sg/porifera/smoothblue/060102sisg3694m3.jpg)*
 
-![](../plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg)  
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg)  
   
-![](../plants/seaweed/rhodophyta/encrust/050610sntg7603m3a.jpg)
+![](https://images.naturehungry.sg/plants/seaweed/rhodophyta/encrust/050610sntg7603m3a.jpg)
 
 **[Colonial
 ascidians](../ascidiacea/ascidiacea)**
@@ -76,83 +76,83 @@ comparisons**
 
 ---
 
-*![](../cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg)*  
+*![](https://images.naturehungry.sg/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg)*  
 Some [zoanthids](../cnidaria/others/zoanthid/tuberculosa)
 look like mats of  
 thick rubber or blobs of jelly  
 when exposed at low tide.
 
-*![](../cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg)*  
+*![](https://images.naturehungry.sg/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg)*  
 Other [zoanthids](../cnidaria/others/zoanthid/zoanthid)
 look like blobs of jelly  
 when exposed at low tide.
 
-*![](../cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg)*[Banded bead
+*![](https://images.naturehungry.sg/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg)*[Banded bead
 anemones](../cnidaria/actiniaria/beadbanded) tuck in their   
 tentacles at low tide and look like blobs.
 
 ---
 
-*![](../cnidaria/others/corallimorphs/carpet/120506sisd1112m3.jpg)*[Corallimorphs](../cnidaria/others/corallimorphs/corallimorph)
+*![](https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/120506sisd1112m3.jpg)*[Corallimorphs](../cnidaria/others/corallimorphs/corallimorph)
 tuck in their   
 tentacles at low tide and look like blobs.
 
-![](../cnidaria/others/ceriantharia/common/080703chgd6522m3.jpg)  
+![](https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/080703chgd6522m3.jpg)  
 [Peacock
 anemone](../cnidaria/others/ceriantharia/ceriantharia) with tentacles   
 tucked in at low tide.
 
-![](../cnidaria/others/ceriantharia/common/080708cyrd7579m3.jpg)  
+![](https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/080708cyrd7579m3.jpg)  
 [Peacock
 anemone](../cnidaria/others/ceriantharia/ceriantharia) with tentacles   
 tucked in at low tide.
 
 ---
 
-![](../mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg)  
+![](https://images.naturehungry.sg/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg)  
 Siphon of a buried [razor clam](../mollusca/bivalvia/solenidae/solenidae)*.*
 
-*![](../cnidaria/actiniaria/peachia/081231sisd4474m3.jpg)*Burrowing [sea anemone](../cnidaria/actiniaria/peachia) with tentacles tucked in.
+*![](https://images.naturehungry.sg/cnidaria/actiniaria/peachia/081231sisd4474m3.jpg)*Burrowing [sea anemone](../cnidaria/actiniaria/peachia) with tentacles tucked in.
 
-![](../ascidiacea/greengumdrop/050309smkg3139m3.jpg)  
+![](https://images.naturehungry.sg/ascidiacea/greengumdrop/050309smkg3139m3.jpg)  
 [Ascidians](../ascidiacea/greengumdrop) are blob-like animals!
 
 ---
 
-![](../plants/seaweed/phaeophyta/colpomenia/060128labg4051m3.jpg)  
+![](https://images.naturehungry.sg/plants/seaweed/phaeophyta/colpomenia/060128labg4051m3.jpg)  
 This is a [brown
 seaweed](../plants/seaweed/phaeophyta/colpomenia).
 
-![](../plants/seaweed/chlorophyta/boergesenia/060727jngd5253m3.jpg)  
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/boergesenia/060727jngd5253m3.jpg)  
 This is a [green
 seaweed](../plants/seaweed/chlorophyta/boergesenia).
 
-![](../plants/seaweed/chlorophyta/dictyosphaeria/091231biod7001m3.jpg)  
+![](https://images.naturehungry.sg/plants/seaweed/chlorophyta/dictyosphaeria/091231biod7001m3.jpg)  
 This is a [green
 seaweed.](../plants/seaweed/chlorophyta/dictyosphaeria)
 
 ---
 
-![](../cnidaria/others/hydrozoa/thread/020406cjd8025m3.jpg)  
+![](https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/020406cjd8025m3.jpg)  
 [Jellyfishes](../cnidaria/others/jellyfish/jellyfish)
 stranded on the shore  
 look like blobs.
 
-*![](../mollusca/gastropoda/volutidae/nobilis/030619bbd0247m3.jpg)*The white thing is the egg capsule  
+*![](https://images.naturehungry.sg/mollusca/gastropoda/volutidae/nobilis/030619bbd0247m3.jpg)*The white thing is the egg capsule  
 of the [Noble
 volute](../mollusca/gastropoda/volutidae/nobilis).
 
-![](../mollusca/slugs/anaspidae/bursatella/090428chgd0698m3.jpg)  
+![](https://images.naturehungry.sg/mollusca/slugs/anaspidae/bursatella/090428chgd0698m3.jpg)  
 Out of water, [sea slugs](../mollusca/slug)  
 look like blobs.
 
 ---
 
-![](../mollusca/cephalopoda/cepeggs/031030sntd0022m3.jpg)  
+![](https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/031030sntd0022m3.jpg)  
 These white cylinders are the [egg
 capsules of a cephalopod](../mollusca/cephalopoda/cepeggs) (squid, cuttlefish or octopus).
 
-![](../mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg)  
+![](https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg)  
 This string of black blobs are the [egg
 capsules of a cephalopod](../mollusca/cephalopoda/cepeggs) (squid, cuttlefish or octopus).
 

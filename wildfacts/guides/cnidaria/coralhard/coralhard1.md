@@ -385,7 +385,7 @@ polychaete worms to form 'groove-and-tubercle' structures.
   Australian Institute of Marine Science, Australia. 3 volumes.
 - Borneman,
   Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
+ corals: Selection, Husbandry and Natural History*
   T.F. H Publications. 464 pp
 
 [www.**flickr**.com](http://www.flickr.com)  

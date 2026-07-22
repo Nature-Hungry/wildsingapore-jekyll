@@ -1,7 +1,7 @@
 ---
-title: "Cephalopods"
+title: "Odd-shaped clams"
 description: ""
-label: "Cephalopoda"
+label: "Odd-shaped clams"
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: []
@@ -13,9 +13,8 @@ coverimgs:
 - https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
 ---
 
-octopuses, squids and cuttlefishes
 
-{% assign filtered_posts = site.entries | where_exp: "item", "item.class=='Cephalopoda'" | where_exp: "item", "item.title != 'Pencil squids'"%}
+{% assign filtered_posts = site.entries | where: "class", "Bivalvia" %}
 
 
 <div style="
@@ -26,8 +25,13 @@ octopuses, squids and cuttlefishes
 >
 {% for post in filtered_posts %}
 
+
+
+{% if post.hideFromPhotoindex != true and  post.attributes contains 73%}
+
     {% include entry-summary-rows.html item=post %}
 
+{% endif %}
 {% endfor %}
 </div>
 

@@ -6,7 +6,8 @@ layout: entry
 family: Solenidae
 genus: ''
 species: ''
-attributes: []
+attributes: 
+- 73
 inat_id: 50587
 stateofmatter: Life
 kingdom: Animalia

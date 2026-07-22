@@ -98,7 +98,7 @@ Phylum Porifera
 Phylum Porifera
 
 ![](../plants/seaweed/rhodophyta/encrust/050610sntg7603ma.jpg)  
-[Encrusting   coralline algae](../plants/seaweed/rhodophyta/corallinaceae)
+[Encrusting  coralline algae](../plants/seaweed/rhodophyta/corallinaceae)
 
 ![](../cnidaria/others/zoanthid/various/050312hntg3349m.jpg)  
 [Zoanthids](../cnidaria/others/zoanthid/zoanthid)   

@@ -8,7 +8,8 @@ layout: entry
 family: Osteridae
 genus: Saccostrea
 species: cuccullata*
-attributes: []
+attributes: 
+- 34
 inat_id: 482639
 stateofmatter: Life
 kingdom: Animalia

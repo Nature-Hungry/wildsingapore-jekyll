@@ -201,7 +201,7 @@ variopedatus* (EN: Endangered)
   Sea Challengers. 314pp.
 - Allen, Gerald
   R and Roger Steene. 2002. *Indo-Pacific
-  Coral Reef Field Guide*.
+ coral Reef Field Guide*.
   Tropical Reef Research. 378pp.
 - Edward E.
   Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate

@@ -429,7 +429,7 @@ spongiosa* (EN: Endangered)
   method of reproduction.
 - [Hexacorallians
   of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/) website by Dr Daphne Fautin: all about sea anemones,
-  corals and their allies with classification, distribution, biological
+ corals and their allies with classification, distribution, biological
   associations and more.
 - [The
   Scyphozoan website](http://thescyphozoan.ucmerced.edu/) by Dr Michael N Dawson: lots of info about

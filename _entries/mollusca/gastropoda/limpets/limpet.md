@@ -6,18 +6,13 @@ keywords: limpet, lottiidae, nacellidae, siphonariidae, fissurellidae, gastropod
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
-family: Ostreidae
 genus: ''
 species: ''
 inat_id: 47582
 stateofmatter: Life
 kingdom: Animalia
 phylum: Mollusca
-class: Bivalvia
-subclass: Autobranchia
-infraclass: Pteriomorphia
-order: Ostreida
-superfamily: Ostreoidea
+class: Gastropoda
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg
 galleries:

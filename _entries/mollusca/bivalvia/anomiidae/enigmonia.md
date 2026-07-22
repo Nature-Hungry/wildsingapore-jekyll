@@ -9,7 +9,6 @@ attributes:
 - 2
 - 33
 - 34
-- 73
 family: Anomiidae
 genus: Enigmonia
 species: aenigmatica

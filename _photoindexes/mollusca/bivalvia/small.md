@@ -1,7 +1,7 @@
 ---
-title: "Cephalopods"
+title: "Small clams"
 description: ""
-label: "Cephalopoda"
+label: "Large sea stars"
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: []
@@ -13,9 +13,8 @@ coverimgs:
 - https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
 ---
 
-octopuses, squids and cuttlefishes
 
-{% assign filtered_posts = site.entries | where_exp: "item", "item.class=='Cephalopoda'" | where_exp: "item", "item.title != 'Pencil squids'"%}
+{% assign filtered_posts = site.entries | where: "class", "Bivalvia" %}
 
 
 <div style="
@@ -25,9 +24,26 @@ octopuses, squids and cuttlefishes
 "
 >
 {% for post in filtered_posts %}
+{% assign match_found = true %}
+
+{% for s in post.size %}
+    {% if s > 8.0 %}
+    {% assign match_found = false %}
+    {% endif %}
+{% endfor %}
+
+{% if post.attributes contains 34 %}
+    {% assign match_found = false %}
+{% endif %}
+{% if post.attributes contains 73 %}
+    {% assign match_found = false %}
+{% endif %}
+
+{% if match_found and post.hideFromPhotoindex != true %}
 
     {% include entry-summary-rows.html item=post %}
 
+{% endif %}
 {% endfor %}
 </div>
 
