@@ -1,3 +1,5 @@
+local_backend: true
+
 backend:
   name: github
   repo: Nature-Hungry/wildsingapore-jekyll
@@ -13,10 +15,11 @@ backend:
 media_libraries:
   cloudflare_r2:
     access_key_id: ${{ secrets.CLOUDFLARE_ACCESS_KEY_ID }}
+    secret_access_key: ${{ secrets.CLOUDFLARE_SECRET_ACCESS_KEY }}
     bucket: nature-hungry
     account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
     public_url: https://images.naturehungry.sg
-    prefix: cms-uploads/ # Optional
+    prefix: photos/posts/ # Optional
     jurisdiction: default # Optional; 'default' | 'eu' | 'fedramp'
 
 site_url: https://www.naturehungry.sg
@@ -246,3 +249,24 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "entry"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Links & References", name: "links_references", widget: "markdown", required: false}
+
+  - name: posts
+    label: Posts
+    label_singular: Post
+    folder: _posts/eia
+    slug: "{{year}}{{month}}{{day}}-{{title | slugify}}"
+    media_folder: "photos/posts/{{year}}{{month}}{{day}} - {{title | slugify | replace: 'eia-for-', ''}}"
+    public_folder: "/photos/posts/{{year}}{{month}}{{day}} - {{title | slugify | replace: 'eia-for-', ''}}"
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        default: "EIA for "
+        hint: "Start the title with “EIA for”. The Cloudflare folder will use the same title text without that prefix and with the post date."
+        pattern: ["^EIA for .+", "Title must start with “EIA for”."]
+      - { label: Date, name: date, widget: datetime, type: date }
+      - label: Cover Image
+        name: coverimg
+        widget: image
+        media_library: cloudflare_r2
+      - { label: Body, name: body, widget: richtext }
