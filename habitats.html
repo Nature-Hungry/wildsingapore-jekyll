@@ -25,9 +25,15 @@ description: "Information about the various habitats in Singapore with an intera
 </style>
 
     <main class="page-content page-content-full-width" id="main-content">
-        <div id="map" style="height:80vh"></div>
+        <div id="map" style="height:80vh; margin-bottom:2rem;"></div>
 
-        
+        <section>
+            <h3>Data sources</h3>
+            <ul>
+                <li><a href="https://data.gov.sg/datasets/d_18bcfe0a1b8c77f9b4493cef72ffd717/view">Coastal and Marine Habitat Map of Singapore 2018</a></li>
+                <li><a href="https://www.nparks.gov.sg/sbg/research/publications/the-gardens'-bulletin-singapore/-/media/sbg/gardens-bulletin/gbs_63_01,-a-,02_y2011_v63_01,-a-,02/63_01,-a-,02_205_y2011_v63p1,-a-,p2_gbs_pg_205.pdf">The vegetation of Singapore - an updated map</a></li>
+            </ul>
+        </section>
     </main>
 
 
@@ -217,6 +223,54 @@ description: "Information about the various habitats in Singapore with an intera
                         fillOpacity: 0.8,
                     }
                 },
+                "marsh":{
+                    "label":"Marsh",
+                    "style":{
+                        color: "#DC143C",
+                        fillColor: "#DC143C",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#DC143C",
+                        fillColor: "#DC143C",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "garden":{
+                    "label":"Parks & Gardens",
+                    "style":{
+                        color: "#B4C424",
+                        fillColor: "#B4C424",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#B4C424",
+                        fillColor: "#B4C424",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "fwsf":{
+                    "label":"Freshwater swamp forests",
+                    "style":{
+                        color: "#A68A6D",
+                        fillColor: "#A68A6D",
+                        weight: 1,
+                        fillOpacity: 0.8,
+
+                    },
+                    "hoverstyle":{
+                        color: "#A68A6D",
+                        fillColor: "#A68A6D",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
             }
           
 
@@ -233,9 +287,12 @@ description: "Information about the various habitats in Singapore with an intera
             ).addTo(map);
 
             const urls = [
-                "/assets/geojson/forest.geojson",
+
                 "/assets/geojson/builtup.geojson",
+                "/assets/geojson/forest.geojson",
+                "/assets/geojson/fwsf.geojson",
                 "/assets/geojson/freshwaterbodies.geojson",
+                "/assets/geojson/garden.geojson",
                 "/assets/geojson/estuaries.geojson",
                 "/assets/geojson/coastal-vegetation.geojson",
                 "/assets/geojson/coral.geojson",
@@ -244,6 +301,7 @@ description: "Information about the various habitats in Singapore with an intera
                 "/assets/geojson/rocky-shore.geojson",
                 "/assets/geojson/sandy-shore.geojson",
                 "/assets/geojson/seagrass.geojson",
+                "/assets/geojson/marsh.geojson",
             ];
 
             async function fetchSequentially(urlList) {
@@ -294,7 +352,7 @@ description: "Information about the various habitats in Singapore with an intera
 
                                     // // Bring the hovered feature to the front (useful for overlapping polygons)
                                     // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-                                    //         hoveredLayer.bringToFront();
+                                    //         e.target.bringToFront();
                                     //     }
                                     const groupId =
                                         e.target.feature.properties.habitat;
@@ -365,9 +423,13 @@ description: "Information about the various habitats in Singapore with an intera
                                 });
                             },
                         }).addTo(map);
+
+                        geoJsonLayer.bringToFront()
                     } catch (error) {
                         console.error(`Failed to fetch ${url}:`, error);
                     }
+
+
                 }
             }
 
