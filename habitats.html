@@ -1,0 +1,459 @@
+---
+title: Habitats Map of Singapore
+description: "Information about the various habitats in Singapore with an interactive map"
+---
+{% include global/header.html %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
+<style>
+.page-content{
+    padding-top:0;
+}
+.bold{
+    font-weight: bold;
+}
+
+.habitat-popup p{
+    margin:0.5rem 0;
+}
+.habitat-popup img{
+    width:100%;
+    height:50px;
+    margin-bottom:0.5rem;
+}
+</style>
+
+    <main class="page-content page-content-full-width" id="main-content">
+        <div id="map" style="height:80vh"></div>
+
+        
+    </main>
+
+
+
+  <script>
+            const habitats = {
+                "lowland-forest": {
+                    "label": "Lowland forest",
+                    "description": "Historically covered majority of Singapore's landmass and dominated by tall trees of the Dipterocarpaceae family. Today, the majority of these native forests are comprised of fast growing pioneer trees and only small pockets of primary dipterocarp-dominated forests remain.",
+                    "link": "",
+                    "style":{
+                        color: "#228B22",
+                        fillColor: "#228B22",
+                        weight: 1,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#228B22",
+                        fillColor: "#097969",
+                        weight: 3,
+                        opacity: 0.6,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "built-up": {
+                    "label": "Built-up",
+                    "description": "Houses the more than 6 million people living in Singapore. Roads and paths are well planted with ornamental plants. Only the hardy and adaptable lifeforms can make a living here and thrive in relative safety from predators",
+                    "link": "",
+                    "style":{
+                        color: "#F4F4F4",
+                        fillColor: "#F4F4F4",
+                        weight: 1,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#F4F4F4",
+                        fillColor: "#F4F4F4",
+                        weight: 3,
+                        opacity: 0.6,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "freshwater-body": {
+                    "label": "Freshwater body",
+                    "description": "Low-lying areas and rivers that have been dammed to serve to reservoirs to sustain Singapore's water security. Hardy fish introduced from the ornamental fish trade dominate this habitat which feed the various waterbirds and otters.",
+                    "link": "",
+                    "style":{
+                        color: "#87CEEB",
+                        fillColor: "#87CEEB",
+                        weight: 1,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#87CEEB",
+                        fillColor: "#87CEEB",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                estuary: {
+                    "label": "Estuary",
+                    "description": "",
+                    "link": "",
+                    "style":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "coastal-vegetation":{
+                    "label":"Coastal vegetation",
+                    "style":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "coral":{
+                    "label":"Coral reefs & rubble",
+                    "style":{
+                        color: "#CC338B",
+                        fillColor: "#CC338B",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#CC338B",
+                        fillColor: "#CC338B",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "mangrove":{
+                    "label":"Mangroves",
+                    "style":{
+                        color: "#097969",
+                        fillColor: "#097969",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#097969",
+                        fillColor: "#097969",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "mudflat":{
+                    "label":"Mudflats",
+                    "style":{
+                        color: "#70543E",
+                        fillColor: "#70543E",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#70543E",
+                        fillColor: "#70543E",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "rocky-shore":{
+                    "label":"Rocky shore",
+                    "style":{
+                        color: "#000000",
+                        fillColor: "#000000",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#000000",
+                        fillColor: "#000000",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "sandy-shore":{
+                    "label":"Sandy shore",
+                    "style":{
+                        color: "#C2B280",
+                        fillColor: "#C2B280",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#C2B280",
+                        fillColor: "#C2B280",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "seagrass":{
+                    "label":"Seagrasses",
+                    "style":{
+                        color: "#7CFC00",
+                        fillColor: "#7CFC00",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#7CFC00",
+                        fillColor: "#7CFC00",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+            }
+          
+
+            const map = L.map("map").setView([1.3521, 103.8198], 11);
+            // Load OpenStreetMap Tiles
+            L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+                    attribution:
+                        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                    subdomains: "abcd",
+                    maxZoom: 20,
+                },
+            ).addTo(map);
+
+            const urls = [
+                "/assets/geojson/forest.geojson",
+                "/assets/geojson/builtup.geojson",
+                "/assets/geojson/freshwaterbodies.geojson",
+                "/assets/geojson/estuaries.geojson",
+                "/assets/geojson/coastal-vegetation.geojson",
+                "/assets/geojson/coral.geojson",
+                "/assets/geojson/mangrove.geojson",
+                "/assets/geojson/mudflat.geojson",
+                "/assets/geojson/rocky-shore.geojson",
+                "/assets/geojson/sandy-shore.geojson",
+                "/assets/geojson/seagrass.geojson",
+            ];
+
+            async function fetchSequentially(urlList) {
+                for (const url of urlList) {
+                    try {
+                        const response = await fetch(url);
+                        const data = await response.json();
+                        console.log(`Successfully fetched: ${url}`);
+                        const geoJsonLayer = L.geoJSON(data, {
+                            style: function (feature) {
+                                
+                                return habitats[feature.properties.habitat]["style"];
+                            },
+                            onEachFeature: function (feature, layer) {
+                                if (
+                                    feature.properties &&
+                                    feature.properties.habitat
+                                ) {
+                                    const popup = `
+                                <div class="habitat-popup">
+                                    <img src="${habitats[feature.properties.habitat]["img"]}"/>
+                                    <h3>${habitats[feature.properties.habitat]["label"] || "No Name"}</h3>
+                                    <p>${habitats[feature.properties.habitat]["description"]}</p>
+                                    <a href="${habitats[feature.properties.habitat]["link"]}">Read more...</a>
+                                </div>
+                            `;
+                                    layer.bindPopup(popup, {
+                                        maxWidth: 300,
+                                        className: "habitat-popup-wrapper",
+                                        closeButton: true,
+                                    });
+                                }
+
+                                layer.on("mouseover", function (e) {
+                                    L.DomEvent.stopPropagation(e);
+                                    console.log(
+                                        "hovering " +
+                                            e.target.feature.properties.habitat,
+                                    );
+
+                                    // document
+                                    //     .getElementById(
+                                    //         e.target.feature.properties.habitat,
+                                    //     )
+                                    //     .classList.add("bold");
+                                    // const hoveredLayer = e.target;
+                                    // hoveredLayer.setStyle(highlightStyles[e.target.feature.properties.habitat]);
+
+                                    // // Bring the hovered feature to the front (useful for overlapping polygons)
+                                    // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                                    //         hoveredLayer.bringToFront();
+                                    //     }
+                                    const groupId =
+                                        e.target.feature.properties.habitat;
+
+                                    // 2. Scan all flattened layers to find matches
+                                    geoJsonLayer.eachLayer(function (l) {
+                                        if (
+                                            l.feature.properties.habitat ===
+                                            groupId
+                                        ) {
+                                            l.setStyle(
+                                                habitats[groupId]["hoverstyle"],
+                                            );
+
+                                            // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                                            //     l.bringToFront();
+                                            // }
+                                        }
+                                    });
+                                });
+
+                                // Handle mouseout (Hover Out)
+                                layer.on("mouseout", function (e) {
+                                    // Resets the style back to default using the parent GeoJSON layer object
+                                    const groupId =
+                                        e.target.feature.properties.habitat;
+                                    // console.log("mouseout", groupId);
+
+                                    // 3. Reset only the layers belonging to this group
+                                    geoJsonLayer.eachLayer(function (l) {
+                                        if (
+                                            l.feature.properties.habitat ===
+                                            groupId
+                                        ) {
+                                            l.setStyle(habitats[groupId]["style"]);
+                                        }
+                                    });
+                                    // e.target.setStyle(styles[e.target.feature.properties.habitat])
+
+                                    Array.from(
+                                        document.getElementsByClassName(
+                                            "habitat-label",
+                                        ),
+                                    ).forEach((label) => {
+                                        label.classList.remove("bold");
+                                    });
+                                });
+
+                                layer.on("click", function (e) {
+                                    console.log(
+                                        "Clicked on ",
+                                        feature.properties.habitat,
+                                    );
+                                    Array.from(
+                                        document.getElementsByClassName(
+                                            "habitat-label",
+                                        ),
+                                    ).forEach((label) => {
+                                        label.parentElement.removeAttribute(
+                                            "open",
+                                        );
+                                    });
+                                    document
+                                        .getElementById(
+                                            e.target.feature.properties.habitat,
+                                        )
+                                        .parentElement.setAttribute("open", "");
+                                });
+                            },
+                        }).addTo(map);
+                    } catch (error) {
+                        console.error(`Failed to fetch ${url}:`, error);
+                    }
+                }
+            }
+
+            fetchSequentially(urls);
+
+            function loadgeojson(path) {
+                fetch(path)
+                    .then((response) => {
+                        if (!response.ok) {
+                            throw new Error(
+                                `HTTP error! status: ${response.status}`,
+                            );
+                        }
+                        return response.json(); // Parse incoming string data to JSON object
+                    })
+                    .then((geoJsonData) => {
+                        // Create layer, bind optional popups, and append directly onto map
+                        const geoJsonLayer = L.geoJSON(geoJsonData, {
+                            style: function (feature) {
+                                return styles[feature.properties.habitat];
+                            },
+                            onEachFeature: function (feature, layer) {
+                                // if (feature.properties && feature.properties.habitat) {
+                                //     layer.bindPopup(feature.properties.habitat);
+                                // }
+
+                                layer.on("mouseover", function (e) {
+                                    console.log(
+                                        "hovering " +
+                                            e.target.feature.properties.habitat,
+                                    );
+
+                                    // document.getElementById(e.target.feature.properties.habitat).classList.add("bold")
+                                    const hoveredLayer = e.target;
+                                    hoveredLayer.setStyle(
+                                        highlightStyles[
+                                            e.target.feature.properties.habitat
+                                        ],
+                                    );
+
+                                    // Bring the hovered feature to the front (useful for overlapping polygons)
+                                    if (
+                                        !L.Browser.ie &&
+                                        !L.Browser.opera &&
+                                        !L.Browser.edge
+                                    ) {
+                                        hoveredLayer.bringToFront();
+                                    }
+                                });
+
+                                // Handle mouseout (Hover Out)
+                                layer.on("mouseout", function (e) {
+                                    // Resets the style back to default using the parent GeoJSON layer object
+                                    e.target.setStyle(
+                                        styles[
+                                            e.target.feature.properties.habitat
+                                        ],
+                                    );
+
+                                    Array.from(
+                                        document.getElementsByClassName(
+                                            "habitat-label",
+                                        ),
+                                    ).forEach((label) => {
+                                        label.classList.remove("bold");
+                                    });
+                                });
+
+                                layer.on("click", function (e) {
+                                    console.log(
+                                        "Clicked on ",
+                                        feature.properties.habitat,
+                                    );
+                                });
+                            },
+                        }).addTo(map);
+
+                        // Optional: Auto-pan and auto-zoom the map view to fit your file data bounds
+                        map.fitBounds(geoJsonLayer.getBounds());
+                    })
+                    .catch((error) => {
+                        console.error(
+                            "Error fetching or parsing the GeoJSON file:",
+                            error,
+                        );
+                    });
+            }
+        </script>
+{% include global/footer.html %}
