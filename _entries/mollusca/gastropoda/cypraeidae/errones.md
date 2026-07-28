@@ -6,7 +6,7 @@ keywords: wandering, cowrie, cypraeidae, erronea, errones, cypraea, gastropod, m
   facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 71
 - 100

@@ -8,7 +8,9 @@ layout: entry
 family: Nassariidae
 genus: Nassarius
 species: echinatus*
-attributes: []
+attributes:
+- 100
+- 87
 inat_id: 1153055
 stateofmatter: Life
 kingdom: Animalia

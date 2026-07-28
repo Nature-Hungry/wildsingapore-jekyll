@@ -6,7 +6,8 @@ layout: entry
 family: Marginellidae
 genus: Cryptospira
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 890097
 stateofmatter: Life
 kingdom: Animalia

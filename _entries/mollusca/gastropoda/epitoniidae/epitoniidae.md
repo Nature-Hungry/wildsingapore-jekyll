@@ -6,7 +6,9 @@ layout: entry
 family: Epitoniidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
+- 87
 inat_id: 122558
 stateofmatter: Life
 kingdom: Animalia
@@ -62,6 +64,8 @@ zone:
 - marine
 habitats:
 - sandy shore
+size:
+- 1.0
 permalink: /entries/Mollusca/Gastropoda/Epitoniidae
 ---
 

@@ -8,7 +8,10 @@ layout: entry
 family: Potamididae
 genus: Cerithidea
 species: quadrata
-attributes: []
+attributes:
+- 100
+- 78
+- 66
 inat_id: 1163530
 stateofmatter: Life
 kingdom: Animalia

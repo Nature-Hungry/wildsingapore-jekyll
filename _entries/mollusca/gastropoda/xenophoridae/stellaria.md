@@ -8,7 +8,8 @@ layout: entry
 family: Turbinidae
 genus: Stellaria
 species: solaris
-attributes: []
+attributes:
+- 100
 inat_id: 869867
 stateofmatter: Life
 kingdom: Animalia

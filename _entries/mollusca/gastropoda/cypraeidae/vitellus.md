@@ -8,7 +8,9 @@ layout: entry
 family: Cypraeidea
 genus: Lyncina
 species: vitellus
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 143171
 stateofmatter: Life
 kingdom: Animalia

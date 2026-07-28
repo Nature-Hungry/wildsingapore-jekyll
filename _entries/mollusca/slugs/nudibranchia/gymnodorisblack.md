@@ -6,6 +6,7 @@ keywords: orange, spot, gymnodoris, nudibranch, slug, seaslug, opisthobranch, ga
   facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 22
 - 14
 - 22
 - 33
@@ -29,7 +30,7 @@ infraorder: Doridoidei
 superfamily: Polyceroidea
 subfamily: Polycerinae
 updated: May 2020
-coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/gymnodorisblack/130127cjlks.JPG
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg

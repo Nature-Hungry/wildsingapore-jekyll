@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: Natica
 species: vitellus
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 inat_id: 369037
 stateofmatter: Life
 kingdom: Animalia

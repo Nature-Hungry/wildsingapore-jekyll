@@ -6,7 +6,7 @@ keywords: rodong, telescopium, creeper, shell, snail, cerithiidae, potamididae, 
   singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 64
 - 71

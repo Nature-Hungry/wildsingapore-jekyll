@@ -8,7 +8,10 @@ layout: entry
 family: Architectonicidae
 genus: Heliacus
 species: variegatus
-attributes: []
+attributes:
+- 100
+- 75
+- 23
 inat_id: 201292
 stateofmatter: Life
 kingdom: Animalia

@@ -7,7 +7,7 @@ keywords: tiny, armina, dermatobranchus, arminidae, arminacea nudibranchia, slug
 layout: entry
 attributes:
 - 14
-- 22
+
 - 29
 - 30
 - 33

@@ -6,7 +6,7 @@ keywords: black, lip, conch, strombus, canarium, urceus, strombidae, gastropod, 
   facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 64
 - 71

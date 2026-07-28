@@ -7,7 +7,7 @@ keywords: javan, false, limpet, siphonaria, javanica, siphonariidae, gastropod, 
 layout: entry
 attributes:
 - 14
-- 23
+- 100
 - 33
 - 64
 - 65

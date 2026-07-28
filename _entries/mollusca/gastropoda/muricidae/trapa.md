@@ -8,7 +8,10 @@ layout: entry
 family: Muricidae
 genus: Murex
 species: trapa
-attributes: []
+attributes:
+- 66
+- 76
+- 100
 inat_id: 50746
 stateofmatter: Life
 kingdom: Animalia

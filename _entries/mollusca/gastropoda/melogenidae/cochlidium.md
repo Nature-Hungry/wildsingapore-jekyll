@@ -6,7 +6,7 @@ keywords: spiral, melongena, pugilina, cochlidium, melogenidae, gastropod, mollu
   facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 64
 - 71

@@ -8,7 +8,10 @@ layout: entry
 family: Ranellidae
 genus: Cymatium
 species: ''
-attributes: []
+attributes:
+- 100
+- 78
+- 66
 inat_id: 87790
 stateofmatter: Life
 kingdom: Animalia

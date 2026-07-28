@@ -6,7 +6,8 @@ layout: entry
 family: Triviidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 124504
 stateofmatter: Life
 kingdom: Animalia

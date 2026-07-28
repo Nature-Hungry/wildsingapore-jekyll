@@ -7,7 +7,7 @@ keywords: orange, volvatella, vigourouxi, volvatellidae, seaslug, sap, sucking, 
 layout: entry
 attributes:
 - 14
-- 22
+
 - 23
 - 30
 - 33

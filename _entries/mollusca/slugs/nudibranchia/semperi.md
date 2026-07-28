@@ -7,7 +7,6 @@ keywords: semper, armina, semperi, arminidae, arminacea nudibranchia, slug, seas
 layout: entry
 attributes:
 - 14
-- 22
 - 29
 - 30
 - 33

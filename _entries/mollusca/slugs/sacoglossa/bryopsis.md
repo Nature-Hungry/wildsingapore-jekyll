@@ -7,7 +7,7 @@ keywords: bryopsis, slug, seaslug, placida, daguilarensis, sacoglossan, opisthob
 layout: entry
 attributes:
 - 14
-- 22
+
 - 26
 - 33
 - 90

@@ -7,6 +7,8 @@ keywords: lined, common, nerita, nerite, articulata, lineata, balteata, neritida
 layout: entry
 attributes:
 - 23
+- 75
+- 100
 - 33
 - 71
 - 130

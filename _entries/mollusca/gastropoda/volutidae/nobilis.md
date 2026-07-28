@@ -8,7 +8,8 @@ layout: entry
 family: Volutidae
 genus: Cymbiola
 species: nobilis
-attributes: []
+attributes:
+- 100
 inat_id: 541862
 stateofmatter: Life
 kingdom: Animalia

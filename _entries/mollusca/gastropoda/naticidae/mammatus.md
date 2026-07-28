@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: Polinices
 species: mammatus
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg
 galleries:

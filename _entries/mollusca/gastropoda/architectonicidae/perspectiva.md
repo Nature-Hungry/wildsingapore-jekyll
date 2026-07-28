@@ -8,7 +8,8 @@ layout: entry
 family: Architectonicidae
 genus: Architectonica
 species: perspectiva
-attributes: []
+attributes:
+- 100
 inat_id: 355522
 stateofmatter: Life
 kingdom: Animalia

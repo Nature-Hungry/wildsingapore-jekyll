@@ -6,7 +6,10 @@ layout: entry
 family: Neritidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 23
+- 77
+- 100
 inat_id: 50760
 stateofmatter: Life
 kingdom: Animalia

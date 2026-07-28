@@ -6,7 +6,7 @@ keywords: olive, whelk, nassarius, olivaceus, nassariidae, gastropod, mollusc, s
   facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 87
 - 100

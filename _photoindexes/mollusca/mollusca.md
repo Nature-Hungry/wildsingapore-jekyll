@@ -24,7 +24,7 @@ child_pages:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/scutus/020716cjd3562m.jpg
   - url: https://images.naturehungry.sg/mollusca/gastropoda/vermetidae/vermetidae/020715chgd3451m.jpg
   - url: https://images.naturehungry.sg/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m2.jpg
-- label: "<a href=\"/photoindexes/mollusca/slug\">Sea \n            slugs</a>"
+- label: "<a href=\"/photoindexes/mollusca/slugs\">Sea \n            slugs</a>"
   images:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/hypselodoris/020629chgd1310m.jpg
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/ornata/040423snt0116m.jpg

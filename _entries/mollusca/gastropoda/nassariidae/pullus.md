@@ -6,7 +6,7 @@ keywords: black, whelk, nassarius, pullus, nassariidae, gastropod, mollusc, shel
   facts, fact sheet, info
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 87
 - 100

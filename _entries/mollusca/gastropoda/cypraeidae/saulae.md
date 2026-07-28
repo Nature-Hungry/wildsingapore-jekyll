@@ -6,7 +6,7 @@ keywords: saulcowrie, cypraeidae, palmadusta, cypraea, saulae, gastropod, mollus
   facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 71
 - 100

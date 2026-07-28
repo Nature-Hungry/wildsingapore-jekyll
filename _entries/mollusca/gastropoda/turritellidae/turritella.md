@@ -6,13 +6,9 @@ keywords: screw, turritella, terebra, turritellidae, gastropod, mollusc, snail, 
   sheet, info, photo
 layout: entry
 attributes:
-- 23
-- 33
-- 71
-- 78
 - 100
-- 111
-- 123
+- 78
+- 66
 family: Volutidae
 genus: Turritella
 species: terebra

@@ -8,7 +8,8 @@ layout: entry
 family: Strombidae
 genus: Lambis
 species: lambis
-attributes: []
+attributes:
+- 100
 inat_id: 260326
 stateofmatter: Life
 kingdom: Animalia

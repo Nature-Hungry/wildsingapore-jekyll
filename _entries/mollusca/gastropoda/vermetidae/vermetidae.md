@@ -6,7 +6,8 @@ layout: entry
 family: Vermetidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 51437
 stateofmatter: Life
 kingdom: Animalia

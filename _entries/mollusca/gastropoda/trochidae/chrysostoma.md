@@ -8,7 +8,9 @@ layout: entry
 family: Trochidae
 genus: Chrysostoma
 species: paradoxum
-attributes: []
+attributes:
+- 23
+- 100
 inat_id: 883552
 stateofmatter: Life
 kingdom: Animalia

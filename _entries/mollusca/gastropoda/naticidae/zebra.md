@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: Tanea
 species: areolata
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 inat_id: 369123
 stateofmatter: Life
 kingdom: Animalia

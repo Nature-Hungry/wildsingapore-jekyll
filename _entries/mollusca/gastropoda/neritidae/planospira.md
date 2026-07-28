@@ -8,7 +8,10 @@ layout: entry
 family: Neritidae
 genus: Nerita
 species: planospira
-attributes: []
+attributes:
+- 23
+- 77
+- 100
 inat_id: 360962
 stateofmatter: Life
 kingdom: Animalia

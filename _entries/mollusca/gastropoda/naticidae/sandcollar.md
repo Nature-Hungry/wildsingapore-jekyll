@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 inat_id: 48923
 stateofmatter: Life
 kingdom: Animalia

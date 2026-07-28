@@ -6,7 +6,8 @@ layout: entry
 family: Potamididae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 68129
 stateofmatter: Life
 kingdom: Animalia

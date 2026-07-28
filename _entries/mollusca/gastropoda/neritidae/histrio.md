@@ -7,6 +7,8 @@ keywords: scaled, nerita, nerite, histrio, squamulata, neritidae, gastropod, mol
 layout: entry
 attributes:
 - 23
+- 75
+- 100
 - 33
 - 71
 - 130

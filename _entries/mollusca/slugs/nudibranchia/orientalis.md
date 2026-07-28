@@ -8,7 +8,8 @@ layout: entry
 family: Chromodorididae
 genus: Chromodoris
 species: orientalis
-attributes: []
+attributes:
+- 22
 inat_id: 707769
 stateofmatter: Life
 kingdom: Animalia

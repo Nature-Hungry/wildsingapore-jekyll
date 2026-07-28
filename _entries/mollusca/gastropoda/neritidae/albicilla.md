@@ -8,7 +8,10 @@ layout: entry
 family: Neritidae
 genus: Nerita
 species: albicilla
-attributes: []
+attributes:
+- 23
+- 75
+- 100
 inat_id: 368225
 stateofmatter: Life
 kingdom: Animalia

@@ -6,8 +6,9 @@ keywords: cauliflower, dendrodoris, tuberculosa, dendrodorididae, nudibranch, sl
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 14
 - 22
+- 14
+
 - 33
 - 90
 - 124

@@ -8,7 +8,8 @@ layout: entry
 family: Cassidae
 genus: Phalium
 species: glaucum
-attributes: []
+attributes:
+- 100
 inat_id: 332404
 stateofmatter: Life
 kingdom: Animalia

@@ -4,7 +4,7 @@ description: Fact sheet of Tun shell snails on the shores of Singapore
 keywords: tun, tonnidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 64
 - 71

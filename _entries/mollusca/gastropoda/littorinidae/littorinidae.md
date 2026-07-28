@@ -6,7 +6,8 @@ layout: entry
 family: Littorinidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 48918
 stateofmatter: Life
 kingdom: Animalia

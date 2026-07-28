@@ -7,6 +7,8 @@ keywords: waved, nerita, nerite, undata, neritidae, gastropod, mollusc, snail, s
 layout: entry
 attributes:
 - 23
+- 75
+- 100
 - 33
 - 71
 - 130

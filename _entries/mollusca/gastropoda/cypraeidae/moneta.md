@@ -8,7 +8,9 @@ layout: entry
 family: Cypraeidea
 genus: Monetaria
 species: moneta
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 51809
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,8 @@ layout: entry
 family: Mitridae
 genus: Pterygia
 species: undulosa
-attributes: []
+attributes:
+- 100
 inat_id: 1005352
 stateofmatter: Life
 kingdom: Animalia

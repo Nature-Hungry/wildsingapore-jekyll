@@ -7,7 +7,7 @@ keywords: smooth, limpet, cellana, nacellidae, gastropod, mollusc, snail, shell,
 layout: entry
 attributes:
 - 14
-- 23
+- 100
 - 33
 - 64
 - 65

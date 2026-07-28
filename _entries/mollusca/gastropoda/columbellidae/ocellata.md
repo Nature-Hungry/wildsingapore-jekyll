@@ -8,7 +8,9 @@ layout: entry
 family: Columbellidae
 genus: ''
 species: Pictocolumbella
-attributes: []
+attributes:
+- 100
+- 75
 inat_id: 50704
 stateofmatter: Life
 kingdom: Animalia

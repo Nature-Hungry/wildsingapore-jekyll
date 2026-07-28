@@ -8,7 +8,8 @@ layout: entry
 family: Discodorididae
 genus: Tayuva
 species: lilacina
-attributes: []
+attributes:
+- 22
 inat_id: 123428
 stateofmatter: Life
 kingdom: Animalia

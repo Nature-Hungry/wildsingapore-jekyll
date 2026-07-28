@@ -8,7 +8,10 @@ layout: entry
 family: Turbinidae
 genus: Turbo
 species: petholatus
-attributes: []
+attributes:
+- 23
+- 75
+- 100
 inat_id: 142963
 stateofmatter: Life
 kingdom: Animalia

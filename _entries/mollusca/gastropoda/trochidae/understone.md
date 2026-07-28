@@ -8,7 +8,10 @@ layout: entry
 family: Chilodontidae
 genus: Euchelus
 species: ''
-attributes: []
+attributes:
+- 23
+- 100
+- 75
 inat_id: 369101
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,8 @@ layout: entry
 family: Bursidae
 genus: Bufonaria
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 50657
 stateofmatter: Life
 kingdom: Animalia

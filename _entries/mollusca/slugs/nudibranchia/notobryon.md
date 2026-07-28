@@ -7,7 +7,7 @@ keywords: notobryon, nudibranchia, slug, seaslug, opisthobranch, gastropod, moll
 layout: entry
 attributes:
 - 14
-- 22
+
 - 30
 - 33
 - 90

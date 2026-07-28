@@ -8,7 +8,8 @@ layout: entry
 family: Tethydidae
 genus: Melibe
 species: viridis
-attributes: []
+attributes:
+- 22
 inat_id: 50551
 stateofmatter: Life
 kingdom: Animalia

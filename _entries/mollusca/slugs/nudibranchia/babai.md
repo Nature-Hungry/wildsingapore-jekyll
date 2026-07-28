@@ -1,5 +1,5 @@
 ---
-title: 'Big plain armina nudibranch '
+title: Big plain armina nudibranch
 description: Fact sheet of Big plain armina nudibranch  on the shores of Singapore
 keywords: armina, babai, arminidae, arminacea nudibranchia, slug, seaslug, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
@@ -8,7 +8,8 @@ layout: entry
 family: Arminidae
 genus: ''
 species: Armina
-attributes: []
+attributes:
+- 90
 inat_id: 47501
 stateofmatter: Life
 kingdom: Animalia

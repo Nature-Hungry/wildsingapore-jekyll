@@ -8,7 +8,8 @@ layout: entry
 family: Ellobiidae
 genus: Ellobium
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 149843
 stateofmatter: Life
 kingdom: Animalia

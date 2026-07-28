@@ -7,15 +7,13 @@ keywords: tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, o
 layout: entry
 attributes:
 - 14
-- 22
-- 23
+
 - 30
 - 33
 - 64
 - 65
 - 71
 - 90
-- 100
 - 105
 - 111
 - 123

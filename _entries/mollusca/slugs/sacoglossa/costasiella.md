@@ -7,7 +7,7 @@ keywords: avrainvillea, slug, seaslug, costasiella, costasiellidae, gastropod, m
 layout: entry
 attributes:
 - 14
-- 22
+
 - 26
 - 33
 - 90

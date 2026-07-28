@@ -6,8 +6,9 @@ keywords: purple, foot, ategema, trippa, spongiosa, nudibranchia, slug, seaslug,
   singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 14
 - 22
+- 14
+
 - 33
 - 90
 - 124

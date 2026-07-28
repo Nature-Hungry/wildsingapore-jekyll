@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: Sinum
 species: ''
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 inat_id: 246554
 stateofmatter: Life
 kingdom: Animalia

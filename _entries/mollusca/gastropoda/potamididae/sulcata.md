@@ -8,7 +8,10 @@ layout: entry
 family: Potamididae
 genus: Terebralia
 species: sulcata
-attributes: []
+attributes:
+- 100
+- 78
+- 66
 inat_id: 556285
 stateofmatter: Life
 kingdom: Animalia

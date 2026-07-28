@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: Polinices
 species: mammilla
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 inat_id: 369055
 stateofmatter: Life
 kingdom: Animalia

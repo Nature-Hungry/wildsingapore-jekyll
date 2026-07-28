@@ -6,7 +6,9 @@ keywords: lined, moon, snail, shell, naticidae, tanea, natica, lineata, gastropo
   singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 100
 - 23
+- 77
 - 33
 - 71
 - 77

@@ -6,13 +6,9 @@ keywords: zoned, horn, snail, shell, batillaria, zonalis, batillariidae, potamid
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
-- 33
-- 71
-- 78
 - 100
-- 111
-- 123
+- 78
+- 66
 family: Batillariidae
 genus: Batillaria
 species: zonalis

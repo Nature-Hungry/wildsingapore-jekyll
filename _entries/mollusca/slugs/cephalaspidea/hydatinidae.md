@@ -7,7 +7,7 @@ keywords: bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, gastrop
 layout: entry
 attributes:
 - 14
-- 22
+
 - 23
 - 30
 - 33
@@ -15,7 +15,6 @@ attributes:
 - 65
 - 71
 - 90
-- 100
 - 105
 - 111
 - 123

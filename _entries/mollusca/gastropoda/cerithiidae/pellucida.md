@@ -8,7 +8,10 @@ layout: entry
 family: Cerithiidae
 genus: Clypeomorus
 species: pellucida
-attributes: []
+attributes:
+- 100
+- 78
+- 66
 inat_id: 570217
 stateofmatter: Life
 kingdom: Animalia

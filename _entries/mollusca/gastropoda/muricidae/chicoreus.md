@@ -8,7 +8,10 @@ layout: entry
 family: Muricidae
 genus: Chicoreus
 species: sp.*
-attributes: []
+attributes:
+- 66
+- 76
+- 100
 inat_id: 1396786
 stateofmatter: Life
 kingdom: Animalia

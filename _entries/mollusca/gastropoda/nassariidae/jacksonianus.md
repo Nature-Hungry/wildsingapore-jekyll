@@ -6,7 +6,7 @@ keywords: mud, whelk, nassarius, jacksonianus, nassariidae, gastropod, mollusc, 
   facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 87
 - 100

@@ -6,7 +6,10 @@ layout: entry
 family: Turbinidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 23
+- 75
+- 100
 inat_id: 86122
 stateofmatter: Life
 kingdom: Animalia

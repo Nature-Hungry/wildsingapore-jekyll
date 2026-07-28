@@ -8,7 +8,8 @@ layout: entry
 family: Aeolidiidae
 genus: Cerberilla
 species: ''
-attributes: []
+attributes:
+- 90
 inat_id: 50427
 stateofmatter: Life
 kingdom: Animalia

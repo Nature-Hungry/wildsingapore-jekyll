@@ -8,7 +8,10 @@ layout: entry
 family: Ranellidae
 genus: Gyrineum
 species: natator
-attributes: []
+attributes:
+- 100
+- 66
+- 76
 inat_id: 538763
 stateofmatter: Life
 kingdom: Animalia

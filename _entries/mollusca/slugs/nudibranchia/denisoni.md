@@ -6,8 +6,9 @@ keywords: denison, dendrodoris, denisoni, dendrodorididae, nudibranch, slug, sea
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 14
 - 22
+- 14
+
 - 33
 - 63
 - 90

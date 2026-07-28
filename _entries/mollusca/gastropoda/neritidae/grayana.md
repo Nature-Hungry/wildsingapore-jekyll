@@ -8,7 +8,10 @@ layout: entry
 family: Neritidae
 genus: Nerita
 species: undulata
-attributes: []
+attributes:
+- 23
+- 77
+- 100
 inat_id: 1031739
 stateofmatter: Life
 kingdom: Animalia

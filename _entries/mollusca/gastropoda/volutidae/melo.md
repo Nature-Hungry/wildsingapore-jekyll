@@ -8,7 +8,8 @@ layout: entry
 family: Volutidae
 genus: Melo
 species: melo
-attributes: []
+attributes:
+- 100
 inat_id: 9100
 stateofmatter: Life
 kingdom: Animalia

@@ -6,14 +6,10 @@ keywords: sulcate, planaxis, sulcatus, planaxidae, gastropod, mollusc, shell, sn
   fact sheet, info, photo
 layout: entry
 attributes:
-- 23
-- 33
-- 71
-- 130
-- 130
 - 100
-- 111
-- 123
+- 75
+- 76
+- 66
 family: Planaxidae
 genus: Planaxis
 species: sulcatus

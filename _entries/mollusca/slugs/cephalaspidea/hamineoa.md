@@ -7,7 +7,7 @@ keywords: bubble, shell, snail, haminoea, haminoeidae, cephalaspidea, gastropod,
 layout: entry
 attributes:
 - 14
-- 22
+
 - 23
 - 30
 - 33

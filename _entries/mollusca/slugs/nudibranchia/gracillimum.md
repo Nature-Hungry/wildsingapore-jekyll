@@ -8,7 +8,8 @@ layout: entry
 family: Chromodorididae
 genus: Ceratosoma
 species: gracillimum
-attributes: []
+attributes:
+- 22
 inat_id: 358109
 stateofmatter: Life
 kingdom: Animalia

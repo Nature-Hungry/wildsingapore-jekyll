@@ -8,7 +8,8 @@ layout: entry
 family: Architectonicidae
 genus: Architectonica
 species: perdix
-attributes: []
+attributes:
+- 100
 inat_id: 538775
 stateofmatter: Life
 kingdom: Animalia

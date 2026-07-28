@@ -8,7 +8,10 @@ layout: entry
 family: Turbinidae
 genus: Turbo
 species: intercostalis
-attributes: []
+attributes:
+- 23
+- 75
+- 100
 inat_id: 605852
 stateofmatter: Life
 kingdom: Animalia

@@ -6,7 +6,8 @@ layout: entry
 family: Cerithiidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 83303
 stateofmatter: Life
 kingdom: Animalia

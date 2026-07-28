@@ -1,14 +1,25 @@
 ---
-title: '''Jolly Green Giant'' nudibranch '
+title: '''Jolly Green Giant'' nudibranch'
 description: Fact sheet of 'Jolly Green Giant' nudibranch  on the shores of Singapore
 keywords: miamira, ceratosoma, sinuatum, sinuata, nudibranch, slug, seaslug, opisthobranch,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
 layout: entry
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
 family: Chromodorididae
 genus: Miamira
 species: sinuatum
-attributes: []
+attributes:
+- 22
+- 90
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
 galleries:

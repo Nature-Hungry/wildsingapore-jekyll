@@ -6,7 +6,7 @@ keywords: creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangro
   fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 71
 - 78

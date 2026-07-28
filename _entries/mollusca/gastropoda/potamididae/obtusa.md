@@ -8,7 +8,10 @@ layout: entry
 family: Potamididae
 genus: Cerithidea
 species: obtusa
-attributes: []
+attributes:
+- 100
+- 78
+- 66
 inat_id: 372034
 stateofmatter: Life
 kingdom: Animalia

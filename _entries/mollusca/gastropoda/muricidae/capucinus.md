@@ -8,7 +8,11 @@ layout: entry
 family: Muricidae
 genus: Chicoreus
 species: capucinus
-attributes: []
+attributes:
+- 66
+- 76
+- 78
+- 100
 inat_id: 601986
 stateofmatter: Life
 kingdom: Animalia

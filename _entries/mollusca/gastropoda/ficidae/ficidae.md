@@ -6,7 +6,8 @@ layout: entry
 family: Ficidae
 genus: Ficus
 species: variegata
-attributes: []
+attributes:
+- 100
 inat_id: 50996
 stateofmatter: Life
 kingdom: Animalia

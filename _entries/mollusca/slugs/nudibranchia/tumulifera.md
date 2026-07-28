@@ -8,7 +8,8 @@ layout: entry
 family: Chromodorididae
 genus: Goniobranchus
 species: tumulifera
-attributes: []
+attributes:
+- 22
 updated: May 2025
 coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg
 galleries:

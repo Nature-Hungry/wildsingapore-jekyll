@@ -6,7 +6,8 @@ layout: entry
 family: Strombidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 62602
 stateofmatter: Life
 kingdom: Animalia

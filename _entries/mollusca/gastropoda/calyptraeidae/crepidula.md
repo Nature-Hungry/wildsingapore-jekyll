@@ -8,7 +8,8 @@ layout: entry
 family: Calyptraeidae
 genus: Siphopatella
 species: walshi
-attributes: []
+attributes:
+- 100
 inat_id: 1106937
 stateofmatter: Life
 kingdom: Animalia

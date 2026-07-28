@@ -5,7 +5,8 @@ keywords: limpet, scutus, hoof, shield, fissurellidae, gastropod, mollusc, snail
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
-attributes: []
+attributes:
+- 100
 family: Fissurellidae
 genus: Scutus
 species: ''

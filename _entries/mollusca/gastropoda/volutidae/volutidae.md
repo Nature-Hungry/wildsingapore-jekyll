@@ -6,7 +6,8 @@ layout: entry
 family: Volutidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 245597
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,8 @@ layout: entry
 family: Chromodorididae
 genus: Hypselodoris
 species: maritima
-attributes: []
+attributes:
+- 22
 inat_id: 418369
 stateofmatter: Life
 kingdom: Animalia

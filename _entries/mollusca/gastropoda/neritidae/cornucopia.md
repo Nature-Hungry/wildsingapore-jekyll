@@ -8,7 +8,10 @@ layout: entry
 family: Neritidae
 genus: Neritina
 species: cornucopia
-attributes: []
+attributes:
+- 23
+- 77
+- 100
 inat_id: 1215604
 stateofmatter: Life
 kingdom: Animalia

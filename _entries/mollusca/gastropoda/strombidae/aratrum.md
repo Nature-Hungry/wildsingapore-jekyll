@@ -6,7 +6,7 @@ keywords: diana, ear, conch, strombus, euprotomus, aurisdianae, aratrum, atratum
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 64
 - 71

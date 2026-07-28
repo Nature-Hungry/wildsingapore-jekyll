@@ -6,8 +6,9 @@ keywords: gymnodoris, rubropapulosa, nudibranchia, slug, seaslug, opisthobranch,
   facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 14
 - 22
+- 14
+
 - 33
 - 90
 - 110

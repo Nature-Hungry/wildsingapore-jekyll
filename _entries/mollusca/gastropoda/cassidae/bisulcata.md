@@ -8,7 +8,8 @@ layout: entry
 family: Cassidae
 genus: Phalium/Semicassis
 species: bisulcata
-attributes: []
+attributes:
+- 100
 updated: Jul 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
 galleries:

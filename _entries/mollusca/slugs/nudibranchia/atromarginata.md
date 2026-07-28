@@ -8,7 +8,8 @@ layout: entry
 family: Chromodorididae
 genus: Doriprismatica
 species: atromarginata
-attributes: []
+attributes:
+- 22
 inat_id: 468042
 stateofmatter: Life
 kingdom: Animalia

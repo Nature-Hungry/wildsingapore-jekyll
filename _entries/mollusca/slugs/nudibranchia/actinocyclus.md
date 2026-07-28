@@ -6,8 +6,9 @@ keywords: actinocyclus, nudibranchia, slug, seaslug, opisthobranch, gastropod, m
   fact sheet, info, photo
 layout: entry
 attributes:
-- 14
 - 22
+- 14
+
 - 33
 - 90
 - 124

@@ -1,5 +1,5 @@
 ---
-title: 'Hermit crabs '
+title: Hermit crabs
 description: Fact sheet of Hermit crabs  on the shores of Singapore
 keywords: hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

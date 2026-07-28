@@ -6,7 +6,8 @@ layout: entry
 family: Ranellidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 86039
 stateofmatter: Life
 kingdom: Animalia

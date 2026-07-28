@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: Naticarius
 species: onca
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 inat_id: 418012
 stateofmatter: Life
 kingdom: Animalia

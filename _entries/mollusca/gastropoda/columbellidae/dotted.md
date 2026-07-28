@@ -8,7 +8,9 @@ layout: entry
 family: Columbellidae
 genus: Euplica
 species: scripta
-attributes: []
+attributes:
+- 100
+- 87
 inat_id: 504328
 stateofmatter: Life
 kingdom: Animalia

@@ -6,7 +6,8 @@ layout: entry
 family: Nassariidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 50764
 stateofmatter: Life
 kingdom: Animalia

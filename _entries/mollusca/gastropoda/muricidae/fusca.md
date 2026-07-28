@@ -8,7 +8,10 @@ layout: entry
 family: Muricidae
 genus: Semiricinula
 species: fusca
-attributes: []
+attributes:
+- 66
+- 76
+- 100
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
 galleries:

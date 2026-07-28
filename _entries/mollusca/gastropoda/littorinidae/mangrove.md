@@ -8,7 +8,9 @@ layout: entry
 family: Littorinidae
 genus: Littoraria
 species: ''
-attributes: []
+attributes:
+- 100
+- 87
 inat_id: 57790
 stateofmatter: Life
 kingdom: Animalia

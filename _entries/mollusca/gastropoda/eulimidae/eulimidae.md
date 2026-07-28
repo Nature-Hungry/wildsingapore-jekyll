@@ -10,7 +10,8 @@ stateofmatter: Life
 kingdom: Animalia
 phylum: Mollusca
 class: Gastropoda
-attributes: []
+attributes:
+- 100
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/eulimidae/eulimidae/120722cyrd8475m3.jpg
 galleries:

@@ -8,7 +8,8 @@ layout: entry
 family: Facelinidae
 genus: Phidiana
 species: militaris
-attributes: []
+attributes:
+- 90
 inat_id: 349137
 stateofmatter: Life
 kingdom: Animalia

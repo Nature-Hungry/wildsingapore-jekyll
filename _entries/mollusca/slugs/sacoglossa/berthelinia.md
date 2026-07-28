@@ -7,7 +7,7 @@ keywords: bivalve, slug, berthelinia, singaporensis, juliidae, sacoglossa, opist
 layout: entry
 attributes:
 - 14
-- 22
+
 - 23
 - 30
 - 33

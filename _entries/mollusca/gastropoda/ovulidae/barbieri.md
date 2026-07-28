@@ -8,7 +8,11 @@ layout: entry
 family: Ovulidae
 genus: Phenacovolva
 species: barbieri*
-attributes: []
+attributes:
+- 100
+- 87
+- 66
+- 78
 inat_id: 1089515
 stateofmatter: Life
 kingdom: Animalia

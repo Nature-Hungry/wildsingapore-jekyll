@@ -8,7 +8,8 @@ layout: entry
 family: Phyllidiidae
 genus: ''
 species: Family
-attributes: []
+attributes:
+- 22
 inat_id: 49731
 stateofmatter: Life
 kingdom: Animalia

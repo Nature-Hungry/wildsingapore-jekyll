@@ -8,7 +8,8 @@ layout: entry
 family: Calyptraeidae
 genus: Desmaulus
 species: extinctorium
-attributes: []
+attributes:
+- 100
 inat_id: 538771
 stateofmatter: Life
 kingdom: Animalia

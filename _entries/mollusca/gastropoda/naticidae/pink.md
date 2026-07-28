@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: Naticarius
 species: zonalis
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 inat_id: 765059
 stateofmatter: Life
 kingdom: Animalia

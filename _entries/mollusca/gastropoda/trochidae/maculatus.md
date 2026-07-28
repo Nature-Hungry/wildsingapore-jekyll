@@ -8,7 +8,9 @@ layout: entry
 family: Trochidae
 genus: Trochus
 species: maculatus
-attributes: []
+attributes:
+- 23
+- 100
 inat_id: 519547
 stateofmatter: Life
 kingdom: Animalia

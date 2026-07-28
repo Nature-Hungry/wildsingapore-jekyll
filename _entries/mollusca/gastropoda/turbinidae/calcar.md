@@ -8,7 +8,10 @@ layout: entry
 family: Turbinidae
 genus: Astralium
 species: calcar
-attributes: []
+attributes:
+- 23
+- 75
+- 100
 inat_id: 604344
 stateofmatter: Life
 kingdom: Animalia

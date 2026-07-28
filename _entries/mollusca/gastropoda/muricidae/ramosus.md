@@ -8,7 +8,10 @@ layout: entry
 family: Muricidae
 genus: Chicoreus
 species: ramosus
-attributes: []
+attributes:
+- 66
+- 76
+- 100
 inat_id: 496404
 stateofmatter: Life
 kingdom: Animalia

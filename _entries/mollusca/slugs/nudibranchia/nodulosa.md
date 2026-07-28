@@ -8,7 +8,8 @@ layout: entry
 family: Discodorididae
 genus: Hoplodoris
 species: nodulosa
-attributes: []
+attributes:
+- 22
 inat_id: 854653
 stateofmatter: Life
 kingdom: Animalia

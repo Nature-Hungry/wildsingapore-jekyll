@@ -5,7 +5,8 @@ keywords: limpet, lottiidae, nacellidae, siphonariidae, fissurellidae, gastropod
   mollusc, scutus, true, false, shield, snail, shell, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: []
+attributes:
+- 100
 genus: ''
 species: ''
 inat_id: 47582

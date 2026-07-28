@@ -6,7 +6,8 @@ layout: entry
 family: Turridae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 86125
 stateofmatter: Life
 kingdom: Animalia

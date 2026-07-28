@@ -6,7 +6,7 @@ keywords: graceful, cowrie, cypraeidae, purpuradusta, cypraea, gracilis, gastrop
   singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 71
 - 100

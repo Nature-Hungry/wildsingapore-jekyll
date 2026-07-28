@@ -7,7 +7,7 @@ keywords: guam, false, limpet, siphonaria, guamensis, siphonariidae, gastropod, 
 layout: entry
 attributes:
 - 14
-- 23
+- 100
 - 33
 - 64
 - 65

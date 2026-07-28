@@ -8,7 +8,9 @@ layout: entry
 family: Cypraeidea
 genus: Cypraea
 species: tigris
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 84107
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,9 @@ layout: entry
 family: Cypraeidea
 genus: Mauritia
 species: arabica
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 368274
 stateofmatter: Life
 kingdom: Animalia

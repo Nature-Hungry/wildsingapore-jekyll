@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: Neverita
 species: didyma
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 inat_id: 59353
 stateofmatter: Life
 kingdom: Animalia

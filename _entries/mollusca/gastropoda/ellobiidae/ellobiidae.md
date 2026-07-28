@@ -1,12 +1,13 @@
 ---
-title: Belongkeng or Mangrove ear snails
+title: Mangrove ear snails
 description: Fact sheet of Belongkeng or Mangrove ear snails on the shores of Singapore
 keywords: belongkeng, snail, ellobiidae, melampidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ellobiidae
 genus: ''
 species: Family
-attributes: []
+attributes:
+- 100
 inat_id: 85752
 stateofmatter: Life
 kingdom: Animalia

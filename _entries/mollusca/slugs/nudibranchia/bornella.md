@@ -7,7 +7,7 @@ keywords: bornella, nudibranchia, slug, seaslug, stellifer, opisthobranch, gastr
 layout: entry
 attributes:
 - 14
-- 22
+
 - 30
 - 33
 - 90

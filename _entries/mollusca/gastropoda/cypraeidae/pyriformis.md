@@ -6,7 +6,7 @@ keywords: pyriformis, cowrie, cypraea, erronea, cypraeidae, gastropod, mollusc, 
   facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 71
 - 100

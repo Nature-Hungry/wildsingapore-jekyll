@@ -8,7 +8,8 @@ layout: entry
 family: Fissurellidae
 genus: ''
 species: Family
-attributes: []
+attributes:
+- 100
 inat_id: 48646
 stateofmatter: Life
 kingdom: Animalia

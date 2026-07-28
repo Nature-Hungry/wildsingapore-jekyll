@@ -8,7 +8,9 @@ layout: entry
 family: Columbellidae
 genus: Pardalinops
 species: testudinaria*
-attributes: []
+attributes:
+- 100
+- 75
 inat_id: 1490899
 stateofmatter: Life
 kingdom: Animalia

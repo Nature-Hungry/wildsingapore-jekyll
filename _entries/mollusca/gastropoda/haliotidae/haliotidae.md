@@ -6,7 +6,9 @@ layout: entry
 family: Haliotidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 86122
 stateofmatter: Life
 kingdom: Animalia

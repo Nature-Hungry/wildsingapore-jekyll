@@ -6,7 +6,9 @@ keywords: thais, drill, muricidae, gastropod, mollusc, snail, shell, field, guid
   info, photo
 layout: entry
 attributes:
-- 23
+- 66
+- 76
+- 100
 - 33
 - 71
 - 130

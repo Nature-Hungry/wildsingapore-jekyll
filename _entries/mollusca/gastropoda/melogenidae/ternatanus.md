@@ -6,7 +6,7 @@ keywords: hemifusus, ternatanus, melongenidae, gastropod, mollusc, snail, shell,
   sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 64
 - 71

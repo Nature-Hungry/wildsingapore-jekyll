@@ -8,7 +8,9 @@ layout: entry
 family: Cypraeidea
 genus: Erosaria
 species: miliaris
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 747600
 stateofmatter: Life
 kingdom: Animalia

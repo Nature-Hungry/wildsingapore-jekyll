@@ -8,7 +8,9 @@ layout: entry
 family: Ovulidae
 genus: Pellasimnia
 species: ''
-attributes: []
+attributes:
+- 100
+- 87
 inat_id: 537173
 stateofmatter: Life
 kingdom: Animalia

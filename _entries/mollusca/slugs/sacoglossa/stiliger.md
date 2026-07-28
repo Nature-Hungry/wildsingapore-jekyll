@@ -7,7 +7,7 @@ keywords: emerald, slug, stiliger, smaragdinus, limapontidae, sacoglossa, opisth
 layout: entry
 attributes:
 - 14
-- 22
+
 - 26
 - 33
 - 90

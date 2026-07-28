@@ -8,7 +8,9 @@ layout: entry
 family: Ellobiidae
 genus: Cassidula
 species: nucleus
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 368531
 stateofmatter: Life
 kingdom: Animalia

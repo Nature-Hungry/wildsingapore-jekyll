@@ -6,8 +6,9 @@ keywords: varicose, phyllid, phyllidia, varicosa, phyllidiidae, nudibranch, slug
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 14
 - 22
+- 14
+
 - 28
 - 33
 - 90

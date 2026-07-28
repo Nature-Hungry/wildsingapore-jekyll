@@ -8,7 +8,9 @@ layout: entry
 family: Cypraeidea
 genus: Erronea
 species: onyx
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 525414
 stateofmatter: Life
 kingdom: Animalia

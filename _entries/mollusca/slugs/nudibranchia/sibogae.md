@@ -8,7 +8,8 @@ layout: entry
 family: Tergipedidae
 genus: Cuthona
 species: sibogae
-attributes: []
+attributes:
+- 90
 inat_id: 520837
 stateofmatter: Life
 kingdom: Animalia

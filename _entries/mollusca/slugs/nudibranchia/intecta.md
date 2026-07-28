@@ -6,8 +6,8 @@ keywords: black, spiny, nudibranchia, trippa, atagema, intecta, slug, seaslug, o
   singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 14
 - 22
+- 14
 - 33
 - 63
 - 90

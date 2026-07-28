@@ -6,7 +6,8 @@ layout: entry
 family: Architectonicidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 185051
 stateofmatter: Life
 kingdom: Animalia

@@ -1,5 +1,5 @@
 ---
-title: 'Dolphin snail '
+title: 'Dolphin snail'
 description: Fact sheet of Dolphin snail  on the shores of Singapore
 keywords: dolphin, angaria, delphinus, trochidae, angariinae, angariidae, gastropod,
   mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
@@ -8,7 +8,10 @@ layout: entry
 family: Angariidae
 genus: Angaria
 species: delphinus
-attributes: []
+attributes:
+- 23
+- 75
+- 100
 inat_id: 368572
 stateofmatter: Life
 kingdom: Animalia

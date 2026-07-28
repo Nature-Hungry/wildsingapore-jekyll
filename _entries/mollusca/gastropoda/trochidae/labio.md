@@ -8,7 +8,9 @@ layout: entry
 family: Trochidae
 genus: Monodonta
 species: labio
-attributes: []
+attributes:
+- 23
+- 100
 inat_id: 368366
 stateofmatter: Life
 kingdom: Animalia

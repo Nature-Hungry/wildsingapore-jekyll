@@ -8,7 +8,10 @@ layout: entry
 family: Muricidae
 genus: Morula
 species: ''
-attributes: []
+attributes:
+- 66
+- 76
+- 100
 inat_id: 209538
 stateofmatter: Life
 kingdom: Animalia

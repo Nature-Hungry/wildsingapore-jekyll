@@ -8,7 +8,8 @@ layout: entry
 family: Litiopidae
 genus: Alaba
 species: virgata*
-attributes: []
+attributes:
+- 100
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
 galleries:

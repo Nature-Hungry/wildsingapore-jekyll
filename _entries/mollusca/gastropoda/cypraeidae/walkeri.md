@@ -8,7 +8,9 @@ layout: entry
 family: Cypraeidea
 genus: Contradusta
 species: walkeri
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 882273
 stateofmatter: Life
 kingdom: Animalia

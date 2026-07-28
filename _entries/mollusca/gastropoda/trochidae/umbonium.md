@@ -8,7 +8,9 @@ layout: entry
 family: Trochidae
 genus: Umbonium
 species: vestiarium
-attributes: []
+attributes:
+- 23
+- 100
 inat_id: 349448
 stateofmatter: Life
 kingdom: Animalia

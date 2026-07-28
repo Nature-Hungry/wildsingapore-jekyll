@@ -7,7 +7,7 @@ keywords: eyed, phyllid, phyllidiella, phyllidia, ocellata, phyllidiidae, nudibr
 layout: entry
 attributes:
 - 14
-- 22
+
 - 28
 - 33
 - 90

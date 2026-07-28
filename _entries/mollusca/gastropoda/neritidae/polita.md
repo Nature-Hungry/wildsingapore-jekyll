@@ -7,6 +7,8 @@ keywords: polished, nerita, nerite, polita, neritidae, gastropod, mollusc, snail
 layout: entry
 attributes:
 - 23
+- 75
+- 100
 - 33
 - 71
 - 130

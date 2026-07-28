@@ -8,7 +8,8 @@ layout: entry
 family: Discodoridae
 genus: Discodoris
 species: boholiensis
-attributes: []
+attributes:
+- 22
 inat_id: 50442
 stateofmatter: Life
 kingdom: Animalia

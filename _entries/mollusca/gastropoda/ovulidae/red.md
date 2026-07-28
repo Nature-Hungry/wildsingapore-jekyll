@@ -8,7 +8,11 @@ layout: entry
 family: Ovulidae
 genus: ''
 species: identification*
-attributes: []
+attributes:
+- 100
+- 87
+- 66
+- 78
 inat_id: 49260
 stateofmatter: Life
 kingdom: Animalia

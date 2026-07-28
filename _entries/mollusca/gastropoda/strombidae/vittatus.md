@@ -8,7 +8,8 @@ layout: entry
 family: Strombidae
 genus: Doxander
 species: vittatus
-attributes: []
+attributes:
+- 100
 inat_id: 701365
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,8 @@ layout: entry
 family: Chromodorididae
 genus: Hypselodoris
 species: sp.
-attributes: []
+attributes:
+- 22
 inat_id: 143297
 stateofmatter: Life
 kingdom: Animalia

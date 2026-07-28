@@ -6,7 +6,7 @@ keywords: margined, conch, strombus,  marginatus, robustus, sowerbyorum, strombi
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 64
 - 71

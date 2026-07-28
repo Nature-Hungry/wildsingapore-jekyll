@@ -8,7 +8,8 @@ layout: entry
 family: Discodorididae
 genus: Thordisa
 species: villosa
-attributes: []
+attributes:
+- 22
 inat_id: 50569
 stateofmatter: Life
 kingdom: Animalia

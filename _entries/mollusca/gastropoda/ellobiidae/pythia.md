@@ -8,7 +8,9 @@ layout: entry
 family: Ellobiidae
 genus: Pythia
 species: ''
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 371530
 stateofmatter: Life
 kingdom: Animalia

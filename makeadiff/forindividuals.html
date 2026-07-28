@@ -7,8 +7,14 @@ permalink: "/makeadiff/forindividuals"
   
 <style>
   section{
-    min-height:60vh;
+    margin:6rem 0;
   }
+  section h2{
+    text-align: center;
+    margin-bottom:2rem;
+  }
+
+ 
   /* ── Hero ── */
     .hero {
       width: 100%;
@@ -17,18 +23,18 @@ permalink: "/makeadiff/forindividuals"
       max-height: 800px;
     }
 
-    .hero__inner {
+    .two-col {
       display: flex;
-      gap: 1rem;
-      height: 100%;
+      gap: 2rem;
       align-items: center;
     }
 
     /* ── Left column ── */
-    .hero__left{
+    .left{
       flex: 2;
-      
+      height: 100%;
     }
+    
     .hero__heading {
       
       color: #2a6b1a;
@@ -133,7 +139,7 @@ permalink: "/makeadiff/forindividuals"
     }
 
     /* ── Right column ── */
-    .hero__photo-col {
+    .right {
       display: flex;
       flex-direction: column;
       gap: 0;
@@ -170,12 +176,13 @@ permalink: "/makeadiff/forindividuals"
       font-size: 30px;
     }
 
-    .hero__photo-credit {
+    .caption {
       font-size: 0.8rem;
       color: #7a7a7a;
       font-style: italic;
       margin-top: 8px;
       line-height: 1.55;
+      margin-bottom:0;
     }
 
     .hero__pull-quote {
@@ -232,11 +239,11 @@ permalink: "/makeadiff/forindividuals"
         height: auto;
     max-height: none;
       }
-      .hero__inner {
+      .two-col {
         flex-direction: column;
         gap:0rem;
       }
-      .hero__photo-col{
+      .right{
         order:-1;
       }
       .hero__photo{
@@ -276,11 +283,11 @@ permalink: "/makeadiff/forindividuals"
 <main class="page-content page-content-full-width" id="main-content">
 
 
-<section class="hero" aria-label="Make a Difference hero">
-    <div class="hero__inner">
+<div class="hero" aria-label="Make a Difference hero">
+    <div class="two-col">
 
       <!-- Left: text -->
-      <div class="hero__left">
+      <div class="left">
         <h1 class="hero__heading">
           <span class="you">You</span> can make<br>a difference.
         </h1>
@@ -300,7 +307,7 @@ permalink: "/makeadiff/forindividuals"
       </div>
 
       <!-- Right: photo -->
-      <div class="hero__photo-col">
+      <div class="right">
         
           <img
             src="https://live.staticflickr.com/1154/600726045_1830fa69dc_b.jpg"
@@ -316,7 +323,7 @@ permalink: "/makeadiff/forindividuals"
           <span>Your Chek Jawa photo</span>
         </div> -->
 
-        <p class="hero__photo-credit">
+        <p class="caption">
           Chek Jawa on the Eve of the New Year 2002, just after reclamation was deferred. Those in the photo include volunteers, researchers and ordinary visitors just who happened to be there.
         </p>
 
@@ -324,7 +331,8 @@ permalink: "/makeadiff/forindividuals"
       </div>
 
     </div>
-  </section>
+</div>
+
 
   <section>
     <h2 style="text-align: center;">How do I help?</h2>
@@ -362,28 +370,30 @@ permalink: "/makeadiff/forindividuals"
     </div>
   </section>
 
-  <div class="why-care-content"
-  style="
-    text-align: center;
-    padding-left: 15%;
-    padding-right: 15%;
-    font-size: 1.2rem;
-    "
-  >
   <section>
+  
     <h2>Why should I care?</h2>
-    <p>
-      During the pandemic, Singapore saw a massive spike in park users all over the nation. The lockdown proved to everyone worldwide that humans actually do rely on ecosystem services more than we thought. We must always keep in touch with nature, to de-stress or to have recreational fun, some plants and forests never hurt!
-    </p>
-
-    <p>
-      The <a href="/wildfacts/concepts/urban-heat-island-effect/">Urban Heat Island Effect</a> will increase in severity when we develop more urban areas without conserving adequate green spaces. Unmitigated development rates can lead to a higher risk of heat stroke and heat-related ailments.
-    </p>
-
-    <p>
-      <strong>We all rely on these forests and intertidal areas</strong>, whether we <strong>care</strong> to know or not. The first step to making a difference is to become "biod-aware". Become aware of the wildlife and habitats you see on your daily commute, or the different bird species that migrate through your street annually.
-    </p>
+    <div class="two-col" >
+      <div class="left">
+        <img src="https://live.staticflickr.com/3077/2884131825_19532bc9a6_c.jpg" alt="Cyrene Reefs: right next to petrochemical plants on Jurong Island"/>
+        <p class="caption">Cyrene Reefs: right next to petrochemical plants on Jurong Island</p>
+      </div>
+      <div class="right">
+        <p>
+          During the pandemic, Singapore saw a massive spike in park users all over the nation. The lockdown proved to everyone worldwide that humans actually do rely on ecosystem services more than we thought. We must always keep in touch with nature, to de-stress or to have recreational fun, some plants and forests never hurt!
+        </p>
+    
+        <p>
+          The <a href="/wildfacts/concepts/urban-heat-island-effect/">Urban Heat Island Effect</a> will increase in severity when we develop more urban areas without conserving adequate green spaces. Unmitigated development rates can lead to a higher risk of heat stroke and heat-related ailments.
+        </p>
+    
+        <p>
+          <strong>We all rely on these forests and intertidal areas</strong>, whether we <strong>care</strong> to know or not. The first step to making a difference is to become "biod-aware". Become aware of the wildlife and habitats you see on your daily commute, or the different bird species that migrate through your street annually.
+        </p>
+      </div>
+    </div>
   </section>
+
   <section>
     <h2>Success stories</h2>
     <p>
@@ -396,6 +406,8 @@ permalink: "/makeadiff/forindividuals"
     <p>
       Our forests and reefs do not have a voice that can speak for themselves. We as continue doing our part as informed citizens, to ensure that our natural heritage is preserved for future generations. The government is always keen to listen to stakeholders, and we must keep pushing.
     </p>
+   
+
   </section>
   <section>
       <h2>Our losses</h2>
@@ -409,7 +421,6 @@ permalink: "/makeadiff/forindividuals"
         Environmental Impact Assessments (EIAs) are done to discover the impacts to environmental receptors on the development site. EIAs are done when a developer wishes to build on a site that has been identified by the National Parks Board to have high enough ecological value. Learn more about EIAs <a href="/wildfacts/concepts/environmental-impact-assessment/">here</a>.
       </p>
   </section>
-  </div>
 
   <div class="closing"
     style="
@@ -427,6 +438,5 @@ permalink: "/makeadiff/forindividuals"
     <h2 style="color: var(--color-accent-green);margin:0;font-weight: normal;">Start with me, my impact, my habits.</h2>
     <p style="">If I can't change myself, how can I expect others to change?</p>
   </div>
-
 </main>
 {% include global/footer.html %}

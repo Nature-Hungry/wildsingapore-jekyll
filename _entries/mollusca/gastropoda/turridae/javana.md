@@ -8,7 +8,8 @@ layout: entry
 family: Turridae
 genus: Turricula
 species: javana
-attributes: []
+attributes:
+- 100
 inat_id: 538776
 stateofmatter: Life
 kingdom: Animalia

@@ -9,7 +9,8 @@ layout: entry
 family: Littorinidae
 genus: Littoraria
 species: melanostoma
-attributes: []
+attributes:
+- 100
 inat_id: 541099
 stateofmatter: Life
 kingdom: Animalia

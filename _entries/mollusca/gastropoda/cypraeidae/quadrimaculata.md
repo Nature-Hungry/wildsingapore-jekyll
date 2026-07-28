@@ -8,7 +8,9 @@ layout: entry
 family: Cypraeidea
 genus: Eclogavena
 species: quadrimaculata
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 624149
 stateofmatter: Life
 kingdom: Animalia

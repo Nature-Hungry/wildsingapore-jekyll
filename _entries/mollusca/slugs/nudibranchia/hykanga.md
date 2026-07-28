@@ -8,7 +8,8 @@ layout: entry
 family: Chromodorididae
 genus: Hypselodoris
 species: kanga
-attributes: []
+attributes:
+- 22
 inat_id: 473492
 stateofmatter: Life
 kingdom: Animalia

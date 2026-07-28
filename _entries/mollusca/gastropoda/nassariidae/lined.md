@@ -1,5 +1,5 @@
 ---
-title: Lined       whelk
+title: Lined whelk
 description: Fact sheet of Lined       whelk on the shores of Singapore
 keywords: whelk, nassarius, teretiusculus, nassariidae, gastropod, mollusc, shell,
   snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
@@ -8,7 +8,9 @@ layout: entry
 family: Nassariidae
 genus: Nassarius
 species: teretiusculus*
-attributes: []
+attributes:
+- 100
+- 87
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/lined/110829ecpd0140m6la.jpg
 galleries:

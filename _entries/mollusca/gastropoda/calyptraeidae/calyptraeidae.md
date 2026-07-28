@@ -3,7 +3,8 @@ title: Slipper snails
 description: Fact sheet of Slipper snails on the shores of Singapore
 keywords: slipper, crepidula, calyptraea, calyptraeidae, crepidulidae, calyptraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: []
+attributes:
+- 100
 family: Calyptraeidae
 genus: ''
 species: ''

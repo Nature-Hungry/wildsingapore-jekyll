@@ -1,12 +1,13 @@
 ---
-title: 'Cone snails '
+title: Cone snails
 description: Fact sheet of Cone snails  on the shores of Singapore
 keywords: cone, snail, shell, conus, conidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Conidae
 genus: ''
-species: Family
-attributes: []
+species: ''
+attributes:
+- 100
 inat_id: 55743
 stateofmatter: Life
 kingdom: Animalia

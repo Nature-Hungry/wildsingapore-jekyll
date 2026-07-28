@@ -7,6 +7,7 @@ keywords: yellow, spot, gymnodoris, nudibranchia, slug, seaslug, opisthobranch, 
   facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 22
 - 14
 - 22
 - 33

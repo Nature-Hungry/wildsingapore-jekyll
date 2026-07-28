@@ -8,7 +8,9 @@ layout: entry
 family: Olividae
 genus: ''
 species: Oliva
-attributes: []
+attributes:
+- 100
+- 127
 inat_id: 61805
 stateofmatter: Life
 kingdom: Animalia

@@ -1,11 +1,12 @@
 ---
-title: 'Reliable nudibranch '
+title: Reliable nudibranch
 description: Fact sheet of Reliable nudibranch  on the shores of Singapore
 keywords: goniobranchus, chromodoris, fidelis, chromodoriidae, doridina, nudibranch,
   slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
+- 22
 - 14
 - 22
 - 33
@@ -29,7 +30,7 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Chromodoridinae
 updated: May 2020
-coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg
+coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/fidelis/220419sjijt2.jpg
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg

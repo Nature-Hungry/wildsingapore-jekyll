@@ -8,7 +8,8 @@ layout: entry
 family: Chromodorididae
 genus: Chromodoris
 species: lineolata
-attributes: []
+attributes:
+- 22
 inat_id: 50428
 stateofmatter: Life
 kingdom: Animalia

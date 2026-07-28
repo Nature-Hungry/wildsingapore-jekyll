@@ -6,7 +6,7 @@ keywords: gong, pearl, spider, conch, strombus, turturella, canarium, strombidae
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 100
 - 33
 - 64
 - 71

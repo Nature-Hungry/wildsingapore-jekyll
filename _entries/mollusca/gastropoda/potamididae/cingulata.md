@@ -6,13 +6,9 @@ keywords: girdled, horn, cerithidea, cingulata, cerith, snail, shell, potamidida
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
-- 33
-- 71
-- 78
 - 100
-- 111
-- 123
+- 78
+- 66
 family: Potamididae
 genus: Cerithidea
 species: cingulata

@@ -8,7 +8,10 @@ layout: entry
 family: Cerithiidae
 genus: Rhinoclavis
 species: sinensis
-attributes: []
+attributes:
+- 100
+- 78
+- 66
 inat_id: 346074
 stateofmatter: Life
 kingdom: Animalia

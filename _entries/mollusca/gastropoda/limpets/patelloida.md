@@ -7,7 +7,7 @@ keywords: star, limpet, patelloida, saccharinoides, acmaeidae, lottiidae, gastro
 layout: entry
 attributes:
 - 14
-- 23
+- 100
 - 33
 - 64
 - 65

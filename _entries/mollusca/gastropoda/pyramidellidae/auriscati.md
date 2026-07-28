@@ -8,7 +8,10 @@ layout: entry
 family: Pyramidellidae
 genus: Otopleura
 species: auriscati
-attributes: []
+attributes:
+- 100
+- 78
+- 66
 inat_id: 369197
 stateofmatter: Life
 kingdom: Animalia

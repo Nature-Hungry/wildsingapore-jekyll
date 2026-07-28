@@ -8,7 +8,8 @@ layout: entry
 family: Facelinidae
 genus: Pteraeolidia
 species: ianthina
-attributes: []
+attributes:
+- 90
 inat_id: 559553
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,10 @@ layout: entry
 family: Naticidae
 genus: Polinices
 species: albumen
-attributes: []
+attributes:
+- 100
+- 23
+- 77
 inat_id: 684604
 stateofmatter: Life
 kingdom: Animalia

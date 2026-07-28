@@ -8,7 +8,8 @@ layout: entry
 family: Babyloniidae
 genus: Babylonia
 species: spirata
-attributes: []
+attributes:
+- 100
 inat_id: 490805
 stateofmatter: Life
 kingdom: Animalia

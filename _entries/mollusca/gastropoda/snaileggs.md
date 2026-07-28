@@ -7,7 +7,8 @@ layout: entry
 family: ''
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia

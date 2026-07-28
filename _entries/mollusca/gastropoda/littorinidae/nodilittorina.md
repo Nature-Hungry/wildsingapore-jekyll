@@ -6,12 +6,8 @@ keywords: knobbly, periwinkle, echinolittorina, malaccana, nodilittorina, trocho
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
-- 33
-- 130
 - 100
-- 111
-- 123
+- 75
 family: Littorinidae
 genus: Echinolittorina
 species: malaccana

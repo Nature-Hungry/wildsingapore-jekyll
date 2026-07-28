@@ -6,7 +6,8 @@ layout: entry
 family: Assimineidae
 genus: ''
 species: Assiminea
-attributes: []
+attributes:
+- 100
 inat_id: 50701
 stateofmatter: Life
 kingdom: Animalia

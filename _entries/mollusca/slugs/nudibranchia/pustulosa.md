@@ -7,7 +7,6 @@ keywords: pustulose, phyllid, phyllidiella, phyllidia, pustulosa, phyllidiidae, 
 layout: entry
 attributes:
 - 14
-- 22
 - 28
 - 33
 - 90

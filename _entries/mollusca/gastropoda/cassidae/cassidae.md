@@ -6,7 +6,8 @@ layout: entry
 family: Cassidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 100
 inat_id: 128130
 stateofmatter: Life
 kingdom: Animalia

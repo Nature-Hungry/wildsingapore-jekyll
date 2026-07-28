@@ -5,7 +5,9 @@ keywords: drill, muricidae, gastropod, mollusc, snail, shell, field, guide, seas
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
-- 23
+- 66
+- 76
+- 100
 - 33
 - 71
 - 130

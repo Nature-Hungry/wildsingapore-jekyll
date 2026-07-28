@@ -6,7 +6,10 @@ layout: entry
 family: Muricidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 66
+- 76
+- 100
 inat_id: 50766
 stateofmatter: Life
 kingdom: Animalia
