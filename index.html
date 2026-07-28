@@ -110,6 +110,30 @@ layout: none
             margin:0;
         }
 
+    #other-random{
+        margin-top:2rem;
+        height: fit-content;
+        display:grid;
+        grid-template-columns: repeat(auto-fill, minmax(min(60px, 100%), 1fr));
+    }
+
+    #other-random .random{
+        width: 100%;
+        aspect-ratio: 1;
+        position: relative;
+    }
+    #other-random .random img{
+        position: absolute;
+        top:0;
+        left:0;
+
+    }
+    #other-random .random:hover img{
+        transform: scale(1.4);
+        z-index: 99;
+        border: 3px solid var(--color-section-head);
+    }
+
 #sect-1-btn-container{
    
     display:flex;
@@ -152,7 +176,7 @@ layout: none
         display:grid;
         grid-template-columns:1fr 1fr;
     }
-    .random{
+    .random-container .random{
         height:100px;
         width:100%;
     }
@@ -204,7 +228,12 @@ layout: none
        
         
     </div>
+
 </section>
+
+<div id="other-random">
+
+</div>
 
 <section>
     <h2 class="text-center">Recent articles</h2>
@@ -219,7 +248,7 @@ layout: none
 
 
 <script defer>
-{% assign random_posts = site.entries | sample: 40 %}
+{% assign random_posts = site.entries | sample: 80 %}
 
 
 const random_sample = [
@@ -242,6 +271,7 @@ for (let i = random_sample.length - 1; i > 0; i--) {
 }
 
 const randomPosts = random_sample.slice(0, 4);
+const otherRandom = random_sample.slice(3)
 
 // 4. Render the posts
 const container = document.getElementsByClassName('random-container')[0];
@@ -258,6 +288,17 @@ randomPosts.forEach(post => {
 });
 container.innerHTML = html;
 }
+
+const othercontainer = document.getElementById("other-random")
+html = '';
+otherRandom.forEach(post => {
+    html += `
+     <a class="random" href="${post.url}">
+        <img src="${post.coverimg}" alt="">
+    </a>
+    `;
+});
+othercontainer.innerHTML = html;
 
 </script>
 

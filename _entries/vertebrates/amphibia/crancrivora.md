@@ -5,9 +5,14 @@ keywords: crab, eating, frog, fejervarya, rana, crancrivora, amphibian, vertebra
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
 layout: entry
+inat_id: 134935
 family: Dicroglossidae
 genus: Fejervarya
 species: crancrivora
+order: Anura
+class: Amphibia
+phylum: Chordata
+kingdom: Animalia
 attributes: []
 updated: Dec 2020
 coverimg: https://images.naturehungry.sg/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg

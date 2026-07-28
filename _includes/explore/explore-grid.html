@@ -127,6 +127,7 @@ let results = []
 // Read URL params on page load
 const params = new URLSearchParams(window.location.search)
 let tree = document.getElementById('tax-filters')
+let taxacheckboxes = document.querySelectorAll("#tax-filters input[type=checkbox]")
 
 let initialQuery = params.get('q') || ''
 
@@ -587,7 +588,7 @@ tree.addEventListener('change', e => {
 
     for (const child of childCheckboxes) {
       child.checked = checked
-      updateTaxaFilters(child.value, child.checked)
+      // updateTaxaFilters(child.value, child.checked)
     }
   }
 
@@ -612,41 +613,49 @@ tree.addEventListener('change', e => {
     }
   }
 
-  if(checkbox.value == "others-"){
-      const targetParent = checkbox.closest('.tax-children');
+  // if(checkbox.value == "others-"){
+  //     const targetParent = checkbox.closest('.tax-children');
       
-      console.log("Others checked")
-      console.log(targetParent)
-      if (targetParent) {
-        if(checked){
-          parentcheckbox = targetParent.parentElement.querySelector(':scope > .tax-title >input[type="checkbox"] ')
-          console.log(`Selected others of ${parentcheckbox.value}`)
+  //     console.log("Others checked")
+  //     console.log(targetParent)
+  //     if (targetParent) {
+  //       if(checked){
+  //         parentcheckbox = targetParent.parentElement.querySelector(':scope > .tax-title >input[type="checkbox"] ')
+  //         console.log(`Selected others of ${parentcheckbox.value}`)
           
-          for (const child of targetParent.children) {
-              // This only targets the first layer
-              othercheckboxes = child.querySelector(':scope > .tax-title >input[type="checkbox"]');
-              updateTaxaFilters(("!"+othercheckboxes.value), true)
-              updateTaxaFilters(parentcheckbox.value, true)
+  //         for (const child of targetParent.children) {
+  //             // This only targets the first layer
+  //             othercheckboxes = child.querySelector(':scope > .tax-title >input[type="checkbox"]');
+  //             updateTaxaFilters(("!"+othercheckboxes.value), true)
+  //             updateTaxaFilters(parentcheckbox.value, true)
               
-          }
+  //         }
 
-        }else{
-          for (const child of targetParent.children) {
-              // This only targets the first layer
-              othercheckboxes = child.querySelector(':scope > .tax-title >input[type="checkbox"]');
-              updateTaxaFilters(("!"+othercheckboxes.value), false)
-              updateTaxaFilters(parentcheckbox.value, false)
+  //       }else{
+  //         for (const child of targetParent.children) {
+  //             // This only targets the first layer
+  //             othercheckboxes = child.querySelector(':scope > .tax-title >input[type="checkbox"]');
+  //             updateTaxaFilters(("!"+othercheckboxes.value), false)
+  //             updateTaxaFilters(parentcheckbox.value, false)
               
-          }
-        }
-      } else {
-          // It reached the very top (<html>) without finding a match
-          console.log("No ancestor with that class was found.");
-      }
+  //         }
+  //       }
+  //     } else {
+  //         // It reached the very top (<html>) without finding a match
+  //         console.log("No ancestor with that class was found.");
+  //     }
 
-  }
+  // }
 
 
+
+
+  Array.from(taxacheckboxes).forEach(c=>{
+    
+    updateTaxaFilters(c.value, c.checked)
+    
+  })
+  
 
 
   currentPage = 1
