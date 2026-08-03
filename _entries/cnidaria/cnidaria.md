@@ -1,104 +1,137 @@
 ---
-title: "Cnidarians "
+title: "Cnidarians"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "cnidaria, coral, anemone, jellyfish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
----
-hard corals [text
-index](coralhardindex.htm) | [photo index](cnidariafi1.htm) other cnidarians
-[text index](cnidariaindex.htm) | [photo
-index](cnidariafi2.htm)
-Phylum Cnidaria
-**Phylum
-Cnidaria**  
-*updated Nov 2019*
-
----
-
-if you
-learn only 3 things about them ...  
-![](../photos/bullet.gif) Many cnidarians are small and easily overlooked. Don't
-step on it.  
-![](../photos/bullet.gif) Most cnidrians have stingers. Don't touch them!  
-![](../photos/bullet.gif)Cnidarians
-are important to the habitat. Don't kill or remove them.
+layout: entry
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+trivia_title: "if you only 3 things about them ... "
+trivia_items:
+- Many Cnidarians are small and easily overlooked. Don't step on it.
+- Most Cnidarians have stingers. Don't touch them! 
+- Cnidarians are important to the habitat. Don't kill or remove them.
+updated: Nov 2019
+galleries:
+  gallery1:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acropora/050309smkd1489m.jpg
+    caption: '[Hard coral](/entries/cnidaria/coralhard/coralhard)' 
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/060402ulrd0988m.jpg
+    caption: '[Soft coral](/entries/cnidaria/coralsoft/alcyoniidae)'
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/040701chgd1388m.jpg
+    caption: '[Peacock anemone](/entries/Cnidaria/Anthozoa/Ceriantharia)'
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/doreensis/050821bbd5815m.jpg  
+    caption: '[Sea anemone](/entries/Cnidaria/Anthozoa/Hexacorallia/Actiniaria)'
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/050624tusg8505m.jpg  
+    caption: '[Jellyfishes](/entries/cnidaria/others/jellyfish/jellyfish)'
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/040720chgd2899m.jpg  
+    caption: '[Sea pens](/entries/cnidaria/others/pennatulacea/pennatulacea)'
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/040828skdd5545ma.jpg  
+    caption: '[Colonial anemones](/entries/cnidaria/others/zoanthid/zoanthid)'
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m.jpg  
+    caption: '[Corallimorphs](/entries/cnidaria/others/corallimorphs/corallimorph)'
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050411tusd2333ma.jpg  
+    caption: '[Hydroids](/entries/cnidaria/others/hydrozoa/hydrozoa)' 
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/050821bbd5844m.jpg  
+    caption: '[Sea fans](/entries/cnidaria/others/gorgonacea/gorgonacea)'
+  gallery2:
   
-**Where
-seen?** Cnidarians are commonly encountered on our shores.
+  - url: https://images.naturehungry.sg/cnidaria/p500a.gif
+    caption: Sequence of firing stinging cell
+  - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/060415hntd1226m3.jpg
+    caption: The [cerianthid](others/ceriantharia/ceriantharia.htm) has special stingers used to create its tube.  *Pulau Hantu, Apr 06*
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
+    caption: "[Stinging hydroids](others/hydrozoa/stinging.htm) inflict very painful stings on humans. *Tuas, Apr 05*"
+  gallery3:
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/haddonieat/020328cjd7880m3.jpg
+    caption: A  [carpet anemone](/entries/cnidaria/actiniaria/haddoni/) swallowing a dead fish. *Chek Jawa, Mar 02*
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg
+    caption: A [tiger sea anemone](/entries/cnidaria/actiniaria/tiger) attempting to swallow a [sea pen](/entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea)! *Changi, Jul 04*
+    col_span: 2
+  gallery4:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/others/051103sisd6298m3.jpg
+    caption: "[Coral bleaching](/entries/cnidaria/coralhard/coralhard): When hard coral lose their zooxanthellae, they turn white. *Sisters Island, Nov 05*"
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/others/160707kuso7070100.jpg
+    caption: "*Mass coral bleaching in 2016, when most of the hard corals on a shore suffer from bleaching. *Kusu Island, Jul 16*"
+    col_span: 2
+  gallery5: 
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3a.jpg  
+    caption: "Colonial polyps of a [sea pen](others/pennatulacea/pennatulacea.htm) emerge from a fluid-filled body.  *Changi, Jun 05*"
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/030520bbd0066m3a.jpg
+    caption: "Colonial polyps of a [sea fan](others/gorgonacea/candelabra.htm) emerging from a hard skeleton.  *Beting Bronok, May 03*"
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg
+    caption: "[Pore corals](poritidae/porites.htm) have tiny polyps emerging from a hard skeleton. *Sisters Island, Jan 06*"
+  gallery6:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/051105sisg3018m3c.jpg
+    caption: "Polyps and hard skeleton of [zebra hard coral](coralhard/faviidae/oulastrea.htm) *Sisters Island, Nov 05*"
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonsmall/060501labg5897m3.jpg
+    caption: "Colonial polyps of a [hard coral](coralhard/poritidae/gonsmall.htm). *Labrador, May 06*"
+  - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/110423tpld9947m3a.jpg
+    caption: "Colonial polyps of a [leathery soft coral](coralsoft/alcyoniidae.htm). *Terumbu Pempang Laut, Apr 11*"
+  gallery7:
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg
+    caption: "The medusa is the typical [jellyfish](others/jellyfish/jellyfish.htm) shape. *Tuas Jun 05*"
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/polkadot/120705chgd7096m3.jpg
+    caption: "A [sea anemone](actiniaria/actiniaria.htm) is a solitary polyp. *Sentosa, Apr 04*"
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/061122smkd6844m3a.jpg
+    caption: "Most [hard corals](coralhard/coralhard.htm) are a colony of many polyps. *Labrador, Jul 05*"
+  gallery8:
+  - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
+    caption: "The [False clown anemonefish](../vertebrates/fish/pomacentridae/ocellaris.htm) can live happily in the  [carpet anemone](actiniaria/stichodactyla.htm) that would eat any other fish. *Kusu Island, Jun 04*"
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
+    caption: "[Peacock-tail anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis.htm)  are often found [carpet anemones](actiniaria/stichodactyla.htm). *Kusu Island, Jul 04*"
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
+    caption: "Hermit crab with three [large sea anemones](actiniaria/hermitbig.htm) (retracted) on its shell. *Changi, Jul 04*"
+permalink: "/entries/Cnidaria"
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+---
+
+
+  
+## Where seen?
+Cnidarians are commonly encountered on our shores.
 Many cnidarians are often confused for plants or non-living things.
 Some are so bizarre, we don't immediately link them with their more
 familiar relatives.  
   
-**What
-are cnidarians?** Cnidarians belong to the Phylum Cnidaria that includes the more familiar
+## What are cnidarians?
+Cnidarians belong to the Phylum Cnidaria that includes the more familiar
 sea anemones, hard corals and jellyfishes. There are about 10,000
 known species of cnidarians.  
   
-The Phylum
-Cnidaria is divided into four main Classes.  
+The Phylum Cnidaria is divided into four main Classes.  
+
+<h3> Class Scyphozoa </h3>
+In various Orders ([jellyfish](others/jellyfish/jellyfish.htm))
   
-**Class Scyphozoa**   
- 
-In
-various Orders ([jellyfish](others/jellyfish/jellyfish.htm))
+<h3> Class Cubozoa</h3>
+One Order (box jellyfish and sea wasps)
   
-**Class Cubozoa**  
+<h3> Class Hydrozoa</h3>
+In various Orders: [hydroids](others/hydrozoa/hydrozoa.htm), also some [jellyfish-like](others/jellyfish/jellyfish.htm) creatures
  
-One
-Order (box jellyfish and sea wasps)
+Order Milleporina (fire corals)
   
-**Class Hydrozoa**  
+<h3> Class Anthozoa </h3>
+**Subclass Zoantharia (Hexacorallia)**
  
-In
-various Orders: [hydroids](others/hydrozoa/hydrozoa.htm),   
-also some [jellyfish-like](others/jellyfish/jellyfish.htm) creatures
- 
-Order
-Milleporina (fire corals)
-  
-**[Class Anthozoa](anthozoa.htm)**
- 
-**Subclass
-Zoantharia (Hexacorallia)**
- 
-Order
-Actiniaria ([sea anemones](actiniaria/actiniaria.htm))  
-Order Ceriantharia ([cerianthids](others/ceriantharia/ceriantharia.htm))  
-Order Zoanthidea ([zoanthids](others/zoanthid/zoanthid.htm))  
-Order Corallimorpharia ([corallimorphs](others/corallimorphs/corallimorph.htm))  
-Order Scleractinia ([hard corals](coralhard/coralhard.htm))
-  
- 
+- Order Actiniaria ([sea anemones](actiniaria/actiniaria.htm))  
+- Order Ceriantharia ([cerianthids](others/ceriantharia/ceriantharia.htm))  
+- Order Zoanthidea ([zoanthids](others/zoanthid/zoanthid.htm))  
+- Order Corallimorpharia ([corallimorphs](others/corallimorphs/corallimorph.htm))  
+- Order Scleractinia ([hard corals](coralhard/coralhard.htm))
+
+
 **Subclass Alcyonaria (Octocorallia)**
- 
-Order
-Alcyonacea ([soft corals](coralsoft/coralsoft.htm))  
-Order Gorgonacea ([sea
-fans](others/gorgonacea/gorgonacea.htm))  
-Order Pennatulacea ([sea
-pens](others/pennatulacea/pennatulacea.htm))  
-Order Helioporacea ([blue
-corals](others/heliopora/heliopora.htm))
-![](coralhard/acroporidae/acropora/050309smkd1489m.jpg)  
-[Hard coral](coralhard/coralhard.htm) 
-![](coralsoft/letpinwheel/060402ulrd0988m.jpg)  
-[Soft coral](coralsoft/alcyoniidae.htm)
-![](others/ceriantharia/common/040701chgd1388m.jpg)  
-[Peacock anemone](others/ceriantharia/ceriantharia.htm)
-![](actiniaria/doreensis/050821bbd5815m.jpg)  
-[Sea anemone](actiniaria/actiniaria.htm)
-![](others/jellyfish/ribbon/050624tusg8505m.jpg)  
-[Jellyfishes](others/jellyfish/jellyfish.htm)
-![](others/pennatulacea/spiky/040720chgd2899m.jpg)  
-[Sea pens](others/pennatulacea/pennatulacea.htm)
-![](others/zoanthid/zoanthus/040828skdd5545ma.jpg)  
-[Colonial anemones](others/zoanthid/zoanthid.htm)
-![](others/corallimorphs/beaded/060527sjig6070m.jpg)  
-[Corallimorphs](others/corallimorphs/corallimorph.htm)
-![](others/hydrozoa/stinging/050411tusd2333ma.jpg)  
-[Hydroids](others/hydrozoa/hydrozoa.htm) 
-![](others/gorgonacea/050821bbd5844m.jpg)  
-[Sea fans](others/gorgonacea/gorgonacea.htm)
+- Order Alcyonacea ([soft corals](coralsoft/coralsoft.htm))  
+- Order Gorgonacea ([sea fans](others/gorgonacea/gorgonacea.htm))  
+- Order Pennatulacea ([sea pens](others/pennatulacea/pennatulacea.htm))  
+- Order Helioporacea ([blue corals](others/heliopora/heliopora.htm))
+
+{% include img-grid.html items=page.galleries.gallery1 %}
+
+
 ## Features
  Pronounced "ni-dare-ee-ya'
 (the 'c' is silent), 'Cnidaria' means 'stinging thread' in Greek.
@@ -126,14 +159,11 @@ have some sort of tentacles surrounding this opening. This situation
 means cnidarians must digest a meal and spit out the indigestible
 bits before eating again. This opening is also where cnidarians expel
 eggs and sperm.
-![](p500a.gif)  
-Sequence of firing stinging cell
-![](others/ceriantharia/common/060415hntd1226m3.jpg)  
-The [cerianthid](others/ceriantharia/ceriantharia.htm) has special stingers used to create its tube.  
-*Pulau Hantu, Apr 06*
-*![](others/hydrozoa/stinging/050411tusd2333m3.jpg)*[Stinging hydroids](others/hydrozoa/stinging.htm) inflict very painful stings on humans.  
-*Tuas, Apr 05*
-**Stingers!** All cnidarians have
+
+{% include img-grid.html items=page.galleries.gallery2 %}
+
+## Stingers!
+All cnidarians have
 some sort of stinger. These are used to gather food, paralyse prey
 and defend against predators and rivals.  
   
@@ -161,12 +191,10 @@ of stingers.
 Besides being used to collect food, stingers are also used to ward
 off other encrusting animals nearby. On study observed [sea
 anemones waging fierce war](http://wildshores.blogspot.com/2008/12/warrior-anemones-blobs-can-be.html) over territory.
-![](actiniaria/haddonieat/020328cjd7880m3.jpg)  
-A  [carpet anemone](actiniaria/haddonieat.htm)   
-swallowing a dead fish.  
-*Chek Jawa, Mar 02*
-![](actiniaria/tiger/040702chgd1517m6la.jpg)  
-A [tiger sea anemone](actiniaria/tiger.htm) attempting to swallow a [sea pen](others/pennatulacea/pennatulacea.htm)! *Changi, Jul 04*
+
+{% include img-grid.html items=page.galleries.gallery3 %}
+
+
 There are three types of cnidae. Harpoon-like stingers that penetrate
 the victim and inject toxins are called nematocysts. First, the barbed
 portion penetrates the victim. Some are so powerfully released that
@@ -187,7 +215,8 @@ There are more than 30 types
 of cnidarian stingers! Stingers are one of the features used to identify
 cnidarian species.  
   
-**What do they eat?** Almost all cnidarians
+## What do they eat?
+Almost all cnidarians
 are carnivorous. Many eat small creatures or trap detritus, plankton
 and other microscopic titbits. But many also capture and eat large
 prey. They may use mucus to trap small particles, or their stinging
@@ -203,15 +232,13 @@ The zooxanthellae are believed to
 contribute to the colour of cnidarians. Thus when a hard coral colony
 loses its zooxanthellae, it turns white: a phenomenon called [coral
 bleaching](coralhard/coralhard.htm).
-![](coralhard/others/051103sisd6298m3.jpg)  
-[Coral bleaching](coralhard/coralhard.htm): When hard coral lose their zooxanthellae, they
-turn white.  
-*Sisters Island, Nov 05*
 
-*![](coralhard/others/160707kuso7070100.jpg)*Mass coral bleaching in 2016,   
-when most of the hard corals on a shore suffer from bleaching. *Kusu Island, Jul 16*
+{% include img-grid.html items=page.galleries.gallery4 %}
 
-**What eats them?** Despite their
+
+
+## What eats them?
+Despite their
 stingers, many animals happily munch on cnidarians. Sea turtles eat
 jellyfish, and often mistake floating plastic bags for jellyfish.
 This can eventually kill the sea turtle. [Nudibranchs](../mollusca/nudibranchia.htm) prey on anemones, corals and sea pens, each nudibranch usually specialising
@@ -221,15 +248,16 @@ a well-known predator of hard corals and a population explosion of
 these sea stars can decimate a reef. Fortunately, these sea stars
 have not been encountered on our shores.  
   
-**All for One and One for All:** Many
-cnidarians are colonial, that is, many individual animals live together
+### All for One and One for All
+Many cnidarians are colonial, that is, many individual animals live together
 as one animal. Corals are made up of countless tiny polyps that are
 connected to another with living tissue that coats the hard skeleton.
 In soft corals, the polyps are embedded in a thick common tissue instead
 of a hard skeleton. In sea pens, several kinds of polyps are interconnected,
 each having a different shape and function.   
   
-**Skeleton of Water:** All cnidarians
+### Skeleton of Water
+All cnidarians
 have a hydrostatic skeleton. That is, fluids maintain the shape of
 their bodies, much like air in a balloon. Muscles push against this
 fluid-filled body to change the body shape; just like the way a balloon
@@ -241,31 +269,14 @@ how stingers are fired off.
 Some cnidarians, however, also produce a hard skeleton that also provide
 protection. Hard corals, for example, have an external skeleton while
 gorgonians have an internal skeleton.
-*![](others/pennatulacea/veretillidae/050609chgg7516m3a.jpg)*  
-Colonial polyps of a [sea
-pen](others/pennatulacea/pennatulacea.htm) emerge from a fluid-filled body.  
-*Changi, Jun 05*
-*![](others/gorgonacea/candelabra/030520bbd0066m3a.jpg)*  
-Colonial polyps of a [sea
-fan](others/gorgonacea/candelabra.htm) emerging from a hard skeleton.  
-*Beting Bronok, May 03*
-![](coralhard/poritidae/porboulder/060102sisg3685m3a.jpg)  
-[Pore corals](poritidae/porites.htm) have tiny polyps emerging from a hard skeleton.  
-*Sisters Island, Jan 06*
 
-![](coralhard/faviidae/oulastrea/051105sisg3018m3c.jpg)  
-Polyps and hard
-skeleton of [zebra hard
-coral](coralhard/faviidae/oulastrea.htm)  
-*Sisters Island, Nov 05*
+{% include img-grid.html items=page.galleries.gallery5 %}
+{% include img-grid.html items=page.galleries.gallery6 %}
 
-*![](coralhard/poritidae/gonsmall/060501labg5897m3.jpg)*Colonial polyps of a [hard
-coral](coralhard/poritidae/gonsmall.htm). *Labrador, May 06*
 
-*![](coralsoft/letpimply/110423tpld9947m3a.jpg)*Colonial polyps of a [leathery
-soft coral](coralsoft/alcyoniidae.htm). *Terumbu Pempang Laut, Apr 11*
 
-**Medusa and Polyp:** Cnidarians come
+## Medusa and Polyp
+Cnidarians come
 in one of two typical forms. Some go through both forms in their lifecycle,
 others stay in one shape all their lives.   
   
@@ -281,15 +292,11 @@ has a mouth facing upwards and surrounded by tentacles. The other
 end is usually fixed onto something or buried into the ground, so
 this form is usually immobile. More about polyps of the [Anthozoans](anthozoa.htm) (Class Anthozoa), which do not undergo a medusa phase in their life
 cycle.
-![](others/jellyfish/ribbon/050624tusg8515m3.jpg)  
-The medusa is the typical [jellyfish](others/jellyfish/jellyfish.htm) shape.  
-*Tuas Jun 05* 
-*![](actiniaria/polkadot/120705chgd7096m3.jpg)*A [sea anemone](actiniaria/actiniaria.htm) is a solitary
-polyp. *Sentosa, Apr 04*
-*![](coralhard/poritidae/gonbig/061122smkd6844m3a.jpg)*  
-Most [hard corals](coralhard/coralhard.htm) are a colony
-of many polyps. *Labrador, Jul 05* 
-**Cnidarian Babies:**  Cnidarians
+
+{% include img-grid.html items=page.galleries.gallery7 %}
+
+## Cnidarian Babies
+Cnidarians
 typically practice external fertilisation with eggs and sperm released
 simultaneously into the water. In some, the genders are separate,
 while others may be hermaphrodites. Most cnidarians undergo metamorphosis
@@ -308,7 +315,8 @@ There are many variations of this development. Some large jellyfish
 don't have a polyp stage. Sea anemones and corals don't develop the
 medusa stage.  
   
-**Role in the habitat:** Among the
+## Role in the habitat
+Among the
 most significant cnidarians are hard corals, which are important reef
 builders. Coral reefs thrive in clear nutrient-poor tropical waters.
 Hard corals can grow here because of their symbiotic relationship
@@ -318,24 +326,21 @@ trees of the rainforest, providing homes for small animals and are
 a haven and nursery for ocean-going creatures. Reefs also protect
 the shoreline from strong waves, storms and erosion.  
   
-**Neighbourly cnidarians:** Many creatures
+**Neighbourly cnidarians:** 
+
+Many creatures
 have adapted to deal with the stingers of cnidarians. [Anemonefish](../vertebrates/fish/pomacentridae/amphiprion.htm), [anemoneshrimps](../crustacea/othercrust/shrimp/brevicarpalis.htm) and crabs live in safety among their deadly tentacles. Some [nudibranchs](../mollusca/nudibranchia.htm) not only eat the stingers, but are also able to transfer these, unsprung,
 to the ends of their own 'tentacles', ready to protect the nudibranch
 from disturbers. Hermit crabs and snails may also have [anemones
 on their shells](actiniaria/hermitsmall.htm) as additional protection against disturbers. Many
 cnidaria also have a symbiotic relationship with zooxanthellae (see
 above section on cnidarian food).
-*![](../vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg)*The [False
-clown anemonefish](../vertebrates/fish/pomacentridae/ocellaris.htm) can live happily
-in the  [carpet anemone](actiniaria/stichodactyla.htm) that would eat any other fish. *Kusu Island, Jun 04*
-*![](../crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg)*  
-[Peacock-tail anemone
-shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis.htm)   
-are often
-found [carpet anemones](actiniaria/stichodactyla.htm).  
-*Kusu Island, Jul 04*
-*![](actiniaria/hermitbig/040701chgd1385m3.jpg)* Hermit crab with three [large sea anemones](actiniaria/hermitbig.htm) (retracted) on its shell. *Changi, Jul 04* 
-**Human uses:** All kinds of corals
+
+{% include img-grid.html items=page.galleries.gallery8 %}
+
+
+## Human uses
+All kinds of corals
 hard and soft, sea anemones and other cnidaria are extensively harvested
 from the wild for the live aquarium trade. Hard coral are also mined
 as building materials in some coastal areas.   
@@ -355,7 +360,8 @@ while [the
 Nobel Prize](http://wildshores.blogspot.com/2008/10/jellyfish-and-nobel-prize.html) was awarded to the scientists who developed a flourescent
 protein from a jellyfish for biomedical use.  
   
-**Status and threats:** Many cnidarians
+## Status and threats
+Many cnidarians
 are listed among the threatened animals of Singapore. Globally, coral
 reefs are seriously threatened by overcollection, habitat destruction,
 pollution as well as global climate changes. [Coral
@@ -374,13 +380,10 @@ visitors, and poaching by hobbyists also have an impact on local populations.
 
 ---
 
-**Cnidarians
-on Singapore shores**  
-hard corals: [text index](coralhardindex.htm)
-and [photo index](cnidariafi1.htm) of hard corals on this
+**Cnidarians on Singapore shores**  
+hard corals: [photo index](/photoindexes/cnidaria/hardcorals/) of hard corals on this
 site   
-other cnidarians: [text index](cnidariaindex.htm) and [photo
-index](cnidariafi2.htm) of other cnidarians on this site
+other cnidarians: [photo index](/photoindexes/cnidaria/) of other cnidarians on this site
 
 ---
 
@@ -446,14 +449,4 @@ spongiosa* (EN: Endangered)
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
 
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

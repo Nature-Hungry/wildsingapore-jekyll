@@ -86,10 +86,14 @@
                     <p class="scientific-name">Subfamily {{page.subfamily}}</p>
                 {% elsif page.family != '' and page.family%}
                     <p class="scientific-name">Family {{page.family}}</p>
+                {% elsif page.superfamily != '' and page.superfamily%}
+                    <p class="scientific-name">Superfamily {{page.superfamily}}</p>
                 {% elsif page.suborder and page.suborder != '' %}
                     <p class="scientific-name">Suborder {{page.suborder}}</p>
                 {% elsif page.order != '' and page.order %}
                     <p class="scientific-name">Order {{page.order}}</p>
+                {% elsif page.subclass != ''  and page.subclass %}
+                    <p class="scientific-name">Subclass {{page.subclass}}</p>
                 {% elsif page.class != ''  and page.class %}
                     <p class="scientific-name">Class {{page.class}}</p>
                 {% elsif page.subphylum != '' and page.subphylum %}
@@ -315,9 +319,11 @@ const pageData = {
   'phylum':"{{page.phylum | default : ''}}",
   'subphylum':"{{page.subphylum | default : ''}}",
   'class':"{{page.class | default : ''}}",
+  'subclass':"{{page.subclass | default : ''}}",
   'order':"{{page.order | default : ''}}",
   'suborder':"{{page.suborder | default : ''}}",
   'infraorder':"{{page.infraorder | default : ''}}",
+  'superfamily':"{{page.superfamily | default : ''}}",
   'family':"{{page.family | default : ''}}",
   'subfamily':"{{page.subfamily | default : ''}}",
   'genus':"{{page.genus | default : ''}}",
@@ -326,9 +332,11 @@ let groups = [
     'phylum',
     'subphylum',
     'class',
+    'subclass',
     'order',
     'suborder',
     'infraorder',
+    'superfamily',
     'family',
     'subfamily',
     'genus',

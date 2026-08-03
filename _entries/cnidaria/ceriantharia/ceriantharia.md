@@ -6,16 +6,11 @@ keywords: peacock, tube, anemone, cerianthid, cerianthus, cerianthidae, cerianth
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
-family: Cerianthidae
-genus: ''
-species: ''
-inat_id: 47704
 stateofmatter: Life
 kingdom: Animalia
 phylum: Cnidaria
 class: Anthozoa
 subclass: Ceriantharia
-order: Spirularia
 updated: Dec 2019
 hideFromPhotoindex: true
 coverimg: https://images.naturehungry.sg/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
@@ -99,7 +94,7 @@ habitats:
 - sandy shore
 - muddy shore
 - seagrass meadow
-permalink: /entries/Cnidaria/Anthozoa/Spirularia/Cerianthidae
+permalink: /entries/Cnidaria/Anthozoa/Ceriantharia
 ---
 
 ## Where seen?

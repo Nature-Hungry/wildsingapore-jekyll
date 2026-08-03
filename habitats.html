@@ -52,7 +52,7 @@ description: "Information about the various habitats in Singapore with an intera
                     },
                     "hoverstyle":{
                         color: "#228B22",
-                        fillColor: "#097969",
+                        fillColor: "#228B22",
                         weight: 3,
                         opacity: 0.6,
                         fillOpacity: 0.8,
@@ -60,17 +60,17 @@ description: "Information about the various habitats in Singapore with an intera
                 },
                 "youngsecondaryforest": {
                     "label": "Young secondary forest",
-                    "description": "",
+                    "description": "Forests that have been altered significantly in recent history. They are important buffer zones that help regulate the local climate and provide connectivity between the fragmented habitats. The term 'young secondary forest' is used here as a blanket phrase for many different kinds of forests for ease of display.",
                     "link": "",
                     "style":{
-                        color: "#228B22",
-                        fillColor: "#228B22",
+                        color: "#99d67a",
+                        fillColor: "#99d67a",
                         weight: 1,
                         fillOpacity: 0.4,
                     },
                     "hoverstyle":{
-                        color: "#228B22",
-                        fillColor: "#097969",
+                        color: "#99d67a",
+                        fillColor: "#99d67a",
                         weight: 3,
                         opacity: 0.6,
                         fillOpacity: 0.8,
@@ -297,9 +297,19 @@ description: "Information about the various habitats in Singapore with an intera
                     }
                 },
             }
-          
+            // Define strict boundaries around mainland Singapore and islands
+            var southWest = L.latLng(0.900, 103.300);
+            var northEast = L.latLng(1.700, 104.400);
+            var singaporeBounds = L.latLngBounds(southWest, northEast);
 
-            const map = L.map("map").setView([1.3521, 103.8198], 11);
+            const map = L.map("map", {
+                preferCanvas: true,
+                center: [1.3521, 103.8198], // Center of Singapore
+                zoom: 11,
+                minZoom: 11, // Prevents zooming out past the island view
+                maxBounds: singaporeBounds,
+                maxBoundsViscosity: 0.2
+            })
             // Load OpenStreetMap Tiles
             L.tileLayer(
                 "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
@@ -326,8 +336,8 @@ description: "Information about the various habitats in Singapore with an intera
                 "/assets/geojson/mudflat.geojson",
                 "/assets/geojson/rocky-shore.geojson",
                 "/assets/geojson/sandy-shore.geojson",
-                "/assets/geojson/seagrass.geojson",
                 "/assets/geojson/marsh.geojson",
+                "/assets/geojson/seagrass.geojson",
             ];
 
             async function fetchSequentially(urlList) {
@@ -396,11 +406,12 @@ description: "Information about the various habitats in Singapore with an intera
                                     // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
                                     //         e.target.bringToFront();
                                     //     }
-                                    let groupId =
-                                        e.target.feature.properties.habitat;
+
+                                    let groupId = e.target.feature.properties.habitat;
                                     
+                                    // e.target.setStyle(habitats[groupId]["hoverstyle"])
                                     
-                                    // 2. Scan all flattened layers to find matches
+                                    // Scan all flattened layers to find matches
                                     geoJsonLayer.eachLayer(function (l) {
                                         if (
                                             l.feature.properties.habitat ===
@@ -409,10 +420,6 @@ description: "Information about the various habitats in Singapore with an intera
                                             l.setStyle(
                                                 habitats[groupId]["hoverstyle"],
                                             );
-
-                                            // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-                                            //     l.bringToFront();
-                                            // }
                                         }
                                     });
                                 });

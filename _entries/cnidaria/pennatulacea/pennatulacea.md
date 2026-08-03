@@ -3,7 +3,6 @@ title: 'Sea pens '
 description: Fact sheet of Sea pens  on the shores of Singapore
 keywords: pen, seapen, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Vertillidae
 genus: ''
 species: ''
 stateofmatter: Life
@@ -112,7 +111,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Cnidaria/Anthozoa/Scleralcyonacea/Vertillidae
+permalink: /entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea
 ---
 
 ## Where seen?
