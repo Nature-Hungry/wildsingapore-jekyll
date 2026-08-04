@@ -99,7 +99,7 @@ layout: default
 <h2>These are NOT snails</h2>
 
 
-<div class="flex flex-wrap gap-2">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Barnacles" | first %}
 {% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Hermit crabs" | first %}

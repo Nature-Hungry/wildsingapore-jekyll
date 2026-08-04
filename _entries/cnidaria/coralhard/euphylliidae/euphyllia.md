@@ -1,5 +1,5 @@
 ---
-title: 'Euphyllia corals '
+title: 'Euphyllia corals'
 description: Fact sheet of Euphyllia corals  on the shores of Singapore
 keywords: euphyllia, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
@@ -114,7 +114,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
-  '
+ '
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

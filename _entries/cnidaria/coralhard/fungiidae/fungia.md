@@ -1,5 +1,5 @@
 ---
-title: 'Fungia mushroom corals '
+title: 'Fungia mushroom corals'
 description: Fact sheet of Fungia mushroom corals  on the shores of Singapore
 keywords: fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
@@ -89,7 +89,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
-  '
+ '
 location:
 - tm
 - ecp

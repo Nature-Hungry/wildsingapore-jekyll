@@ -1,5 +1,5 @@
 ---
-title: 'Sandpaper corals '
+title: 'Sandpaper corals'
 description: Fact sheet of Sandpaper corals  on the shores of Singapore
 keywords: sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -95,7 +95,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp.
 
-  '
+ '
 location:
 - cj
 - skd

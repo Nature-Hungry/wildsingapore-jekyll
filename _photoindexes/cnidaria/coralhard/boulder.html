@@ -1,0 +1,76 @@
+---
+title: "Hard corals on Singapore shores"
+label: "Boulder corals"
+description: ""
+keywords: ""
+layout: default
+attributes:
+- 128
+- 134
+- 141
+- 145
+- 151
+- 158
+coverimgs:
+- https://images.naturehungry.sg/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/060102sisg3673m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/030802hntd0246m3.jpg
+- https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+child_pages:
+- label: "[Hexagonal corallites](/photoindexes/cnidaria/coralhard/boulderhex)"
+  images:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3a.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/siderastreidae/hexaneat/120704chgd6845m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/hexa/hexacolumn/110323tsmkd7699m3.jpg
+- label: "[Maze & brain patterns](/photoindexes/cnidaria/coralhard/bouldermaze)"
+  images:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
+- label: "[Ringed corallites](/photoindexes/cnidaria/coralhard/boulderring)"
+  images:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
+- label: "[Other shaped corallites](/photoindexes/cnidaria/coralhard/boulderother)"
+  images:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/060714rlhg6641m3d.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/astreopora/070520smkg9486m3b.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1101m3.jpg
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg
+---
+
+<p>Colony boulder-shaped</p>
+<br>
+
+{% for row in page.child_pages %}
+<div class="photo-index-images-text-row">
+{% include img-grid.html items=row.images cols=4 %}
+  <div>
+    <p>{{ row.label | markdownify}}</p>
+  
+  </div>
+</div>
+{% endfor %}
+
+<br>
+<h2>These are NOT hard corals, they are zoanthids</h2>
+<br>
+<div class="entry-summary-card-grid">
+{% assign entry = site.entries | where : "title","Sea mat zoanthid" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Broad zoanthid" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Button zoanthid" | first %}
+{% include entry-summary-card.html item=entry %}
+
+</div>
+
+
+
+
+

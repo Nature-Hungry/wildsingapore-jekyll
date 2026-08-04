@@ -14,11 +14,7 @@ diameter 3-5cm, long tentacles
 {% assign filtered_posts = site.entries | where: "order", "Actiniaria"%}
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 {% assign match_found = false %}
@@ -31,7 +27,7 @@ diameter 3-5cm, long tentacles
 
 {% if match_found and post.hideFromPhotoindex != true and post.attributes contains 67 %}
     
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endif %}
 {% endfor %}

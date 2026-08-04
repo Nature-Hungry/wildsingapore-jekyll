@@ -1,5 +1,5 @@
 ---
-title: 'Pearl bubble coral '
+title: 'Pearl bubble coral'
 description: Fact sheet of Pearl bubble coral  on the shores of Singapore
 summary: Colony 10-20cm. Corallites brain-like meandering made up of large coin-like disks. In daylight covered in bubbles. Colours beige. Rarely seen, on our Southern shores
 keywords: branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae,
@@ -71,7 +71,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
-  '
+ '
 size:
 - 15.0
 - 20.0

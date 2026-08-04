@@ -1,5 +1,5 @@
 ---
-title: 'Jigsaw maze favid corals '
+title: 'Jigsaw maze favid corals'
 description: Fact sheet of Jigsaw maze favid corals  on the shores of Singapore
 keywords: coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore,
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo

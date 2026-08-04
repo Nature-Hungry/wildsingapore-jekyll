@@ -16,11 +16,7 @@ polyp diameter 3-5cm short tentacles
 
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
@@ -37,7 +33,7 @@ polyp diameter 3-5cm short tentacles
 
 {% if match_found and post.hideFromPhotoindex != true and post.attributes contains 102 %}
     
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endif %}
 {% endfor %}

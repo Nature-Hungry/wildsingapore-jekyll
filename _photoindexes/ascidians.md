@@ -18,15 +18,11 @@ Tunicates and ascidians
 {% assign filtered_posts = site.entries | where_exp: "item", "item.class=='Ascidiacea'" | where_exp: "item", "item.title != 'Pencil squids'"%}
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endfor %}
 </div>
@@ -38,7 +34,7 @@ Tunicates and ascidians
 <h2>These are NOT ascidians</h2>
 
 
-<div class="flex flex-wrap gap-2">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Blue icing sponge" | first %}
 {% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Yellow prickly branching sponge" | first %}

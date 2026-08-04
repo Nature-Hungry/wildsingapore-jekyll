@@ -1,5 +1,5 @@
 ---
-title: 'Merulinid corals '
+title: 'Merulinid corals'
 description: Fact sheet of Merulinid corals  on the shores of Singapore
 keywords: crispy, crust, merulinidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -141,7 +141,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
-  '
+ '
 location: []
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

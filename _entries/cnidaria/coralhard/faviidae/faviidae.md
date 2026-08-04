@@ -1,5 +1,5 @@
 ---
-title: 'Favid hard corals '
+title: 'Favid hard corals'
 description: Fact sheet of Favid hard corals  on the shores of Singapore
 keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -68,7 +68,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
-  '
+ '
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

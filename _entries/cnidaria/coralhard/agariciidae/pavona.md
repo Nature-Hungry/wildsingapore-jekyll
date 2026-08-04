@@ -126,7 +126,7 @@ links_references: '### Links
 
   on SeaLife Base: Technical fact sheets.
 
-  '
+ '
 location:
 - tm
 - ecp

@@ -19,15 +19,11 @@ coverimgs:
     <a href="/entries/cnidaria/crinoidea/crinoidea/">Fact sheet on brittle stars in Singapore</a>
 </p>
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endfor %}
 </div>
@@ -37,7 +33,7 @@ coverimgs:
 <h2>These are NOT brittle stars</h2>
 
 
-<div class="flex flex-wrap gap-2">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Bristleworms" | first %}
 {% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Feather stars" | first %}

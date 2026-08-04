@@ -18,15 +18,11 @@ octopuses, squids and cuttlefishes
 {% assign filtered_posts = site.entries | where_exp: "item", "item.class=='Cephalopoda'" | where_exp: "item", "item.title != 'Pencil squids'"%}
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endfor %}
 </div>

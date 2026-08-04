@@ -170,3 +170,15 @@
     }
    
 }
+
+@media screen and (max-width: 500px){
+    .zones.step-items{
+        flex-direction: column;
+    }
+    .zone{
+        flex-direction: row;
+        width: 100%;
+        text-align: left;
+        gap:1rem;
+    }
+}

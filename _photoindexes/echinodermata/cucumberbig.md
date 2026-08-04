@@ -17,11 +17,7 @@ coverimgs:
 {% assign filtered_posts = site.entries | where: "class", "Holothuroidea" %}
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 {% assign match_found = false %}
@@ -34,7 +30,7 @@ coverimgs:
 
 {% if match_found and post.hideFromPhotoindex != true %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endif %}
 {% endfor %}
@@ -45,7 +41,7 @@ coverimgs:
 <h2>These are NOT sea cucumbers</h2>
 
 
-<div class="flex flex-wrap gap-2">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Peanut worms" | first %}
 {% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Acorn worms" | first %}

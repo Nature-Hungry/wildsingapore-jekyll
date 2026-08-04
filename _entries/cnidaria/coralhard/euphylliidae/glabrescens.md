@@ -104,7 +104,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
-  '
+ '
 location:
 - hnt
 - tpg

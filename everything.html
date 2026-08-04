@@ -1,0 +1,42 @@
+---
+title: "Species photo wall"
+description: "A visual archive of every species on the website."
+keywords: ""
+layout: default
+---
+
+<style>
+	.random{
+        width: 100%;
+        aspect-ratio: 1;
+        position: relative;
+        height:100%;
+    }
+    .random img{
+        position: absolute;
+        top:0;
+        left:0;
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+    .random:hover img{
+        transform: scale(1.4);
+        z-index: 99;
+        border: 3px solid var(--color-section-head);
+    }
+</style>
+
+
+<div style="
+	margin-top:2rem;
+	height: fit-content;
+	display:grid;
+	grid-template-columns: repeat(auto-fill, minmax(min(60px, 100%), 1fr));">
+
+	{% for post in site.entries %}
+	<a class="random" href="{{post.url}}">
+        <img src="{{post.coverimg}}" alt="{{post.title}}">
+    </a>
+    {% endfor %}
+</div>

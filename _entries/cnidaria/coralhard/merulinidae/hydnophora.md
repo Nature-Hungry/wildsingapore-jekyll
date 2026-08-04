@@ -101,7 +101,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
-  '
+ '
 size:
 - 15.0
 - 20.0

@@ -11,11 +11,7 @@ Larger than 8cm of various shell shapes and habitats
 {% assign filtered_posts = site.entries | where: "class", "Gastropoda" %}
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 {% assign match_found = false %}
@@ -28,7 +24,7 @@ Larger than 8cm of various shell shapes and habitats
 
 {% if match_found and post.hideFromPhotoindex != true and post.attributes contains 100 %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endif %}
 {% endfor %}

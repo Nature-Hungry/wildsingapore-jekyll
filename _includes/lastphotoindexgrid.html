@@ -1,0 +1,43 @@
+
+{% if include.items %}
+<div class="lastphotoindex-grid">
+    {% for item in include.items %}
+    <input type="radio" name="photoindex" id="{{item.title}}" class="hidden-radio">
+    <label class="item" for="{{item.title}}">
+        <img src="{{item.coverimg}}" alt="">
+        <div class="content">
+            <div class="flex gap-1">
+                  <h3><a href="{{ item.url | relative_url }}">{{item.title}}</a></h3>
+                  <div class="attributes">
+                    <div class="attribute {{item.rdb}} redlist">{{item.rdb}}</div>
+                  </div>
+                </div>
+                <p class="scientific-name-subtitle">{{item.genus}} {{item.species}}</p>
+                <p class="summary">
+                  {{item.summary}}
+                </p>
+            </div>
+    </label>
+    {% endfor %}
+    
+</div>
+{% elsif include.item %}
+{% assign item = include.item %}
+<input type="radio" name="photoindex" id="{{item.title}}" class="hidden-radio">
+<label class="item" for="{{item.title}}">
+    <img src="{{item.coverimg}}" alt="">
+    <div class="content">
+        <div class="flex gap-1">
+              <h3><a href="{{ item.url | relative_url }}">{{item.title}}</a></h3>
+              <div class="attributes">
+                <div class="attribute {{item.rdb}} redlist">{{item.rdb}}</div>
+              </div>
+            </div>
+            <p class="scientific-name-subtitle">{{item.genus}} {{item.species}}</p>
+            <p class="summary">
+              {{item.summary}}
+            </p>
+        </div>
+</label>
+
+{%endif%}

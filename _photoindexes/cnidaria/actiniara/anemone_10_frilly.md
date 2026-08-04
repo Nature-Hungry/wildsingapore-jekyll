@@ -16,11 +16,7 @@ diameter > 10cm, with smooth tentacles
 
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
@@ -35,7 +31,7 @@ diameter > 10cm, with smooth tentacles
 
 {% if match_found and post.hideFromPhotoindex != true %}
     
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endif %}
 {% endfor %}

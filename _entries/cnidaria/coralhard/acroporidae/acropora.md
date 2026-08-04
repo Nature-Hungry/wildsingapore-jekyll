@@ -133,7 +133,7 @@ links_references: '### Links
 
   . Nature Society (Singapore). 285 pp.
 
-  '
+ '
 location:
 - lab
 - snt

@@ -44,7 +44,7 @@ layout: default
 <h2>These are NOT bivalves</h2>
 
 
-<div class="flex flex-wrap gap-2">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Limpets" | first %}
 {% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Slipper snails" | first %}

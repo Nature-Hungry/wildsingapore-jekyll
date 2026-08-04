@@ -18,15 +18,11 @@ limpets, limpet-like animals and other strangely shaped snails
 {% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Nacellida' or item.order=='Siphonariida' or item.order=='Lepetellida' or item.family=='Calyptraeidae' or item.family=='Vermetidae' or item.class=='Polyplacophora'"%}
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endfor %}
 </div>
@@ -34,7 +30,7 @@ limpets, limpet-like animals and other strangely shaped snails
 
 <br>
 <h2>These are NOT molluscs</h2>
-<div class="flex flex-wrap gap-2">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Barnacles" | first %}
 {% include entry-summary-card.html item=entry %}
 </div>

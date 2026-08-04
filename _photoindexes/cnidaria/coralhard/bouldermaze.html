@@ -4,13 +4,7 @@ label: "Boulder corals with hexagonal corallites"
 description: ""
 keywords: ""
 layout: default
-attributes:
-- 128
-- 134
-- 141
-- 145
-- 151
-- 158
+
 coverimgs:
 - https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
 - https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg
@@ -26,15 +20,11 @@ coverimgs:
 {% assign target_corals = "Lobed brain coral, Grooved brain coral, Cabbage coral, Jigsaw maze corals, Other maze corals" | split: ", " %}
 
 {% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp: "item", "target_corals contains item.title" %}
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endfor %}
 </div>

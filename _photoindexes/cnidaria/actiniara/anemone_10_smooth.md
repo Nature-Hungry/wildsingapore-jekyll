@@ -16,11 +16,7 @@ diameter > 10cm, with smooth tentacles
 
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
@@ -35,7 +31,7 @@ diameter > 10cm, with smooth tentacles
 
 {% if match_found and post.hideFromPhotoindex != true and post.attributes contains 113 %}
     
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endif %}
 {% endfor %}
@@ -46,7 +42,7 @@ diameter > 10cm, with smooth tentacles
 ---
 ## These are NOT sea anemones, they are corals
 
-<div class="flex flex-wrap gap-2">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Brain anchor coral" | first %}
 {% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Sunflower mushroom coral" | first %}

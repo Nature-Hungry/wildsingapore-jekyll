@@ -29,25 +29,21 @@ coverimgs:
 
 
 {% assign filtered_posts = site.entries | where: "superfamily", "Pennatuloidea" | where_exp: "item", "item.title != 'Sea pens'" %}
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endfor %}
 {%- comment -%} {% assign entry = site.entries | where : "title","Spiky sea pen" | first %}
-{% include entry-summary-rows.html item=entry %}
+{% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Flowery sea pen" | first %}
-{% include entry-summary-rows.html item=entry %}
+{% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Slender sea pen" | first %}
-{% include entry-summary-rows.html item=entry %}
+{% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Sea pencil" | first %}
-{% include entry-summary-rows.html item=entry %} {%- endcomment -%}
+{% include entry-summary-card.html item=entry %} {%- endcomment -%}
 </div>
 
 

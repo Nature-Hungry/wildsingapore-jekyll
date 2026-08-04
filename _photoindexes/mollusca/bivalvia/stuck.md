@@ -17,11 +17,7 @@ coverimgs:
 {% assign filtered_posts = site.entries | where: "class", "Bivalvia" %}
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
@@ -29,7 +25,7 @@ coverimgs:
 
 {% if post.hideFromPhotoindex != true and  post.attributes contains 34 %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endif %}
 {% endfor %}
@@ -40,7 +36,7 @@ coverimgs:
 <h2>These are NOT bivalves</h2>
 
 
-<div class="flex flex-wrap gap-2">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Limpets" | first %}
 {% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Slipper snails" | first %}

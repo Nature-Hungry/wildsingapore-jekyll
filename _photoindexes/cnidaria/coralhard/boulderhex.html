@@ -4,13 +4,7 @@ label: "Boulder corals with hexagonal corallites"
 description: ""
 keywords: ""
 layout: default
-attributes:
-- 128
-- 134
-- 141
-- 145
-- 151
-- 158
+
 coverimgs:
 - https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
 - https://images.naturehungry.sg/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg
@@ -22,35 +16,19 @@ coverimgs:
 <p>Colony boulder-shaped, corallites hexagonal</p>
 <br>
 
-{% assign target_titles = "Zebra coral, Meteor coral, Pock-marked coral, Trumpet coral, Lobed brain coral, Moon coral, Small ring coral, Big ring coral, Purple-and-white ring coral, Small goniopora coral" | split: ", " %}
+{% assign target_titles = "Boulder pore coral, Small goniopora coral, Maze hexagonal corals, Toothed hexagonal corals, Honey-comb hexagonal corals, Small hexagonal corals, Columnar hexagonal corals, Tiny hexagonal corals, Smooth hexagonal corals, Neat hexagonal coral" | split: ", " %}
 
 {% assign filtered_posts = site.entries | where_exp: "item", "item.order == 'Scleractinia'" | where_exp: "item", "target_titles contains item.title" %}
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endfor %}
 </div>
 
-<br>
-<h2>These are NOT hard corals, they are zoanthids</h2>
-<br>
-<div class="flex flex-wrap gap-2">
-{% assign entry = site.entries | where : "title","Sea mat zoanthid" | first %}
-{% include entry-summary-card.html item=entry %}
-{% assign entry = site.entries | where : "title","Broad zoanthid" | first %}
-{% include entry-summary-card.html item=entry %}
-{% assign entry = site.entries | where : "title","Button zoanthid" | first %}
-{% include entry-summary-card.html item=entry %}
-
-</div>
 
 
 

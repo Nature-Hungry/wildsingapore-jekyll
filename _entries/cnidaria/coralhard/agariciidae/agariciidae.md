@@ -1,5 +1,5 @@
 ---
-title: 'Agaricid corals '
+title: 'Agaricid corals'
 description: Fact sheet of Agaricid corals  on the shores of Singapore
 keywords: agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -46,7 +46,7 @@ links_references: '### Links
 
   on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal with species factsheets.
 
-  '
+ '
 location:
 - kus
 - sji

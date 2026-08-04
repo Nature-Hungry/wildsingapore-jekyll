@@ -1,5 +1,5 @@
 ---
-title: 'Pearl bubble coral '
+title: 'Pearl bubble coral'
 description: Fact sheet of Pearl bubble coral  on the shores of Singapore
 keywords: pearl, bubble, coral, physogyra, lichtensteini, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
@@ -91,7 +91,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
-  '
+ '
 location:
 - hnt
 - smk

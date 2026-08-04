@@ -1,23 +1,19 @@
 ---
-title: "Photo index of cnidarians on Singapore shores"
+title: "Photo index of cnidarians in Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 ---
 
 
-## sea anemones and anemone-like animals with polyp diameter < 3cm
+### sea anemones and anemone-like animals with polyp diameter < 3cm
 *Size given is the diameter with tentacles expanded*
 
 <br>
 {% assign filtered_posts = site.entries | where: "order", "Actiniaria" %}
 
 
-<div style="
-    display:grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(480px, 100%), 1fr));
-    gap:1rem;
-"
+<div class="entry-summary-card-grid"
 >
 {% for post in filtered_posts %}
 {% assign match_found = false %}
@@ -30,7 +26,7 @@ layout: default
 
 {% if match_found and post.hideFromPhotoindex != true %}
 
-    {% include entry-summary-rows.html item=post %}
+    {% include entry-summary-card.html item=post %}
 
 {% endif %}
 {% endfor %}
@@ -41,7 +37,7 @@ layout: default
 ---
 ## These are NOT sea anemones
 
-<div class="flex flex-wrap gap-2">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Sea mat zoanthid" | first %}
 {% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","Broad zoanthid" | first %}

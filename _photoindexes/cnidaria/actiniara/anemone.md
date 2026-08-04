@@ -85,7 +85,7 @@ on sand, stuck to hard surfaces (stones, seagrasses, other animals).
 
 ## These are NOT sea anemones
 
-<div class="flex flex-wrap gap-1">
+<div class="entry-summary-card-grid">
 {% assign entry = site.entries | where : "title","Brain anchor coral" | first %}
 {% include entry-summary-card.html item=entry %}
 {% assign entry = site.entries | where : "title","White-tipped mushroom coral" | first %}

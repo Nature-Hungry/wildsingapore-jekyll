@@ -105,7 +105,7 @@ links_references: '### Links
 
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
-  '
+ '
 location:
 - snt
 - kus

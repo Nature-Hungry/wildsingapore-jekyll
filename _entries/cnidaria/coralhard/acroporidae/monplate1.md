@@ -1,5 +1,5 @@
 ---
-title: 'Plate montipora corals (Montipora sp.) '
+title: 'Plate montipora corals (Montipora sp.)'
 description: Fact sheet of Plate montipora corals (Montipora sp.)  on the shores of
   Singapore
 keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,

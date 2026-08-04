@@ -1,5 +1,5 @@
 ---
-title: 'mushroom corals '
+title: 'mushroom corals'
 description: Fact sheet of mushroom corals  on the shores of Singapore
 keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -130,7 +130,7 @@ links_references: '### Links
 
   . The Nature Society (Singapore), Singapore. 343 pp.
 
-  '
+ '
 location:
 - tm
 - snt
