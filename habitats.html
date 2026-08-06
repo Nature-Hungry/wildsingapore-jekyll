@@ -340,6 +340,8 @@ description: "Information about the various habitats in Singapore with an intera
                 "/assets/geojson/seagrass.geojson",
             ];
 
+            let allgeojson = {}
+
             async function fetchSequentially(urlList) {
                 for (const url of urlList) {
                     try {
@@ -349,6 +351,8 @@ description: "Information about the various habitats in Singapore with an intera
                         if(data.name){
                             console.log(data.name)
                         }
+
+                        allgeojson[url] = data
                         
                         const geoJsonLayer = L.geoJSON(data, {
                             style: function (feature) {
@@ -374,9 +378,9 @@ description: "Information about the various habitats in Singapore with an intera
                                     <img src="${habitats[habitat]["img"]}"/>
                                     <h3>${habitats[habitat]["label"] || "No Name"}</h3>
                                     <p>${habitats[habitat]["description"]}</p>
-                                    <a href="${habitats[habitat]["link"]}">Read more...</a>
                                 </div>
-                            `;
+                            `; //<a href="${habitats[habitat]["link"]}">Read more...</a>
+                            
                                     layer.bindPopup(popup, {
                                         maxWidth: 250,
                                         className: "habitat-popup-wrapper",
@@ -485,7 +489,11 @@ description: "Information about the various habitats in Singapore with an intera
                 }
             }
 
-            fetchSequentially(urls);
+            //fetchSequentially(urls);
+            let count = 0
+            urls.forEach(url=>{
+                loadgeojson(url)
+            })
 
             function loadgeojson(path) {
                 fetch(path)
@@ -499,47 +507,116 @@ description: "Information about the various habitats in Singapore with an intera
                     })
                     .then((geoJsonData) => {
                         // Create layer, bind optional popups, and append directly onto map
-                        const geoJsonLayer = L.geoJSON(geoJsonData, {
+                         allgeojson[path] = geoJsonData
+                         count ++
+
+                         if(count == urls.length){
+                            console.log('done')
+                            loadGeojsonLayers()
+                         }
+                        
+                    })
+                    .catch((error) => {
+                        console.error(
+                            "Error fetching or parsing the GeoJSON file:",
+                            error,
+                        );
+                    });
+            }
+
+            function loadGeojsonLayers(){
+
+                urls.forEach(url=>{
+                    let data = allgeojson[url]
+                    const geoJsonLayer = L.geoJSON(data, {
                             style: function (feature) {
-                                return styles[feature.properties.habitat];
+                                if(habitats[feature.properties.habitat]){
+                                    return habitats[feature.properties.habitat]["style"];
+                                }else{
+                                    return habitats[data.name]["style"]
+                                }
+                                
                             },
                             onEachFeature: function (feature, layer) {
-                                // if (feature.properties && feature.properties.habitat) {
-                                //     layer.bindPopup(feature.properties.habitat);
-                                // }
+                                let habitat = feature.properties.habitat
+                                if(!habitat){
+                                    habitat = data.name
+                                }
+                                //console.log(habitat);
+                                
+                                if (
+                                    habitat
+                                ) {
+                                    const popup = `
+                                <div class="habitat-popup">
+                                    <img src="${habitats[habitat]["img"]}"/>
+                                    <h3>${habitats[habitat]["label"] || "No Name"}</h3>
+                                    <p>${habitats[habitat]["description"]}</p>
+                                    <a href="${habitats[habitat]["link"]}">Read more...</a>
+                                </div>
+                            `;
+                                    layer.bindPopup(popup, {
+                                        maxWidth: 250,
+                                        className: "habitat-popup-wrapper",
+                                        closeButton: true,
+                                    });
+                                }
 
                                 layer.on("mouseover", function (e) {
-                                    console.log(
-                                        "hovering " +
-                                            e.target.feature.properties.habitat,
-                                    );
+                                    let habitat = e.target.feature.properties.habitat
+                                    //console.log(e.target.feature.properties);
+                                    
+                                    L.DomEvent.stopPropagation(e);
+                                   
 
-                                    // document.getElementById(e.target.feature.properties.habitat).classList.add("bold")
-                                    const hoveredLayer = e.target;
-                                    hoveredLayer.setStyle(
-                                        highlightStyles[
-                                            e.target.feature.properties.habitat
-                                        ],
-                                    );
+                                    // document
+                                    //     .getElementById(
+                                    //         e.target.feature.properties.habitat,
+                                    //     )
+                                    //     .classList.add("bold");
+                                    // const hoveredLayer = e.target;
+                                    // hoveredLayer.setStyle(highlightStyles[e.target.feature.properties.habitat]);
 
-                                    // Bring the hovered feature to the front (useful for overlapping polygons)
-                                    if (
-                                        !L.Browser.ie &&
-                                        !L.Browser.opera &&
-                                        !L.Browser.edge
-                                    ) {
-                                        hoveredLayer.bringToFront();
-                                    }
+                                    // // Bring the hovered feature to the front (useful for overlapping polygons)
+                                    // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                                    //         e.target.bringToFront();
+                                    //     }
+
+                                    let groupId = e.target.feature.properties.habitat;
+                                    
+                                    // e.target.setStyle(habitats[groupId]["hoverstyle"])
+                                    
+                                    // Scan all flattened layers to find matches
+                                    geoJsonLayer.eachLayer(function (l) {
+                                        if (
+                                            l.feature.properties.habitat ===
+                                            groupId
+                                        ) {
+                                            l.setStyle(
+                                                habitats[groupId]["hoverstyle"],
+                                            );
+                                        }
+                                    });
                                 });
 
                                 // Handle mouseout (Hover Out)
                                 layer.on("mouseout", function (e) {
                                     // Resets the style back to default using the parent GeoJSON layer object
-                                    e.target.setStyle(
-                                        styles[
-                                            e.target.feature.properties.habitat
-                                        ],
-                                    );
+                                    const groupId =
+                                        e.target.feature.properties.habitat || data.name;
+                                          
+                                    // console.log("mouseout", groupId);
+
+                                    // 3. Reset only the layers belonging to this group
+                                    geoJsonLayer.eachLayer(function (l) {
+                                        if (
+                                            l.feature.properties.habitat ===
+                                            groupId
+                                        ) {
+                                            l.setStyle(habitats[groupId]["style"]);
+                                        }
+                                    });
+                                    // e.target.setStyle(styles[e.target.feature.properties.habitat])
 
                                     Array.from(
                                         document.getElementsByClassName(
@@ -551,23 +628,32 @@ description: "Information about the various habitats in Singapore with an intera
                                 });
 
                                 layer.on("click", function (e) {
+                                    let habitat =  e.target.feature.properties.habitat || data.name
                                     console.log(
                                         "Clicked on ",
                                         feature.properties.habitat,
                                     );
+                                    Array.from(
+                                        document.getElementsByClassName(
+                                            "habitat-label",
+                                        ),
+                                    ).forEach((label) => {
+                                        label.parentElement.removeAttribute(
+                                            "open",
+                                        );
+                                    });
+                                    document
+                                        .getElementById(
+                                            habitat,
+                                        )
+                                        .parentElement.setAttribute("open", "");
                                 });
                             },
                         }).addTo(map);
 
-                        // Optional: Auto-pan and auto-zoom the map view to fit your file data bounds
-                        map.fitBounds(geoJsonLayer.getBounds());
-                    })
-                    .catch((error) => {
-                        console.error(
-                            "Error fetching or parsing the GeoJSON file:",
-                            error,
-                        );
-                    });
+                    geoJsonLayer.bringToFront()
+                })
+               
             }
         </script>
 {% include global/footer.html %}
