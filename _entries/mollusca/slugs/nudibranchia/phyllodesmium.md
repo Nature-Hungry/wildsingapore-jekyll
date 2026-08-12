@@ -10,6 +10,7 @@ genus: Phyllodesmium
 species: ''
 attributes:
 - 90
+- 26
 inat_id: 54650
 stateofmatter: Life
 kingdom: Animalia

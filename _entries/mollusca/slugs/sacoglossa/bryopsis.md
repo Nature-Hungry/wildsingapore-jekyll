@@ -7,25 +7,21 @@ keywords: bryopsis, slug, seaslug, placida, daguilarensis, sacoglossan, opisthob
 layout: entry
 attributes:
 - 14
-
 - 26
 - 33
 - 90
 family: Limapontiidae
 genus: Placida
 species: sp.*
-inat_id: 751590
+inat_id: 50019
 stateofmatter: Life
 kingdom: Animalia
-phylum: Arthropoda
-subphylum: Hexapoda
-class: Insecta
-subclass: Pterygota
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
 order: Lepidoptera
-superfamily: Noctuoidea
-subfamily: Arctiinae
-tribe: Arctiini
-subtribe: Spilosomina
+superorder: Sacoglossa
+superfamily: Plakobranchoidea
 updated: Jun 2020
 coverimg: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg
 galleries:

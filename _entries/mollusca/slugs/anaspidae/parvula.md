@@ -8,7 +8,9 @@ layout: entry
 family: Aplysiidae
 genus: Aplysia
 species: parvula
-attributes: []
+attributes: 
+- 27
+- 90
 inat_id: 49856
 stateofmatter: Life
 kingdom: Animalia

@@ -1,5 +1,5 @@
 ---
-title: 'Lined tailed-slug '
+title: Lined tailed-slug
 description: Fact sheet of Lined tailed-slug  on the shores of Singapore
 keywords: tailed, slug, tubulophilinopsis, philinopsis, lineolata, aglajidae, cephalaspidea,
   gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
@@ -8,7 +8,9 @@ layout: entry
 family: Aglajidae
 genus: ''
 species: Tubulophilinopsis
-attributes: []
+attributes: 
+- 27
+- 90
 inat_id: 49843
 stateofmatter: Life
 kingdom: Animalia

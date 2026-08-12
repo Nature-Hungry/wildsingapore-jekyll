@@ -9,7 +9,6 @@ attributes:
 - 14
 
 - 29
-- 30
 - 33
 - 90
 family: Arminidae

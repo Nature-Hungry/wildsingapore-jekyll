@@ -8,7 +8,9 @@ layout: entry
 family: Aplysiidae
 genus: Aplysia
 species: extraordinaria
-attributes: []
+attributes: 
+- 27
+- 90
 inat_id: 379953
 stateofmatter: Life
 kingdom: Animalia

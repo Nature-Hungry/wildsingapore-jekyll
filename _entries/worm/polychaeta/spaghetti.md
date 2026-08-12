@@ -4,7 +4,7 @@ description: Fact sheet of Spaghetti worms on the shores of Singapore
 keywords: spaghetti, worm, bristleworm, polychaete, annelid, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Terebellidae
+family: Cirratulidae
 genus: ''
 species: identification*
 attributes: []
@@ -16,7 +16,7 @@ class: Polychaeta
 subclass: Sedentaria
 infraclass: Canalipalpata
 order: Terebellida
-suborder: Terebelliformia
+suborder: Cirratuliformia
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/worm/polychaeta/spaghetti/080801chgd8649m3.jpg
 galleries:

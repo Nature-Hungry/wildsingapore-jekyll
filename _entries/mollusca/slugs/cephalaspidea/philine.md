@@ -1,14 +1,16 @@
 ---
-title: '''Attap-chee'' slug '
+title: Attap-chee slug
 description: Fact sheet of 'Attap-chee' slug  on the shores of Singapore
 keywords: philine, orientalis, philinidae, cephalaspidea, gastropod, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
 family: Philinidae
-genus: ''
-species: Philine
-attributes: []
+genus: 'Philine'
+species: orientalis
+attributes: 
+- 29
+- 90
 inat_id: 49852
 stateofmatter: Life
 kingdom: Animalia

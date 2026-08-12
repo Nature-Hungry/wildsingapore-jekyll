@@ -249,11 +249,34 @@ layout: none
 
 
 <script defer>
-{% assign random_posts = site.entries | sample: 80 %}
+{% assign filtered_posts = "" | split: "," %}
+{% assign filtered_plant_posts = "" | split: "," %}
 
+{% for item in site.entries %}
+  {% if item.path contains "tracheophyta/" %}
+    {% assign filtered_plant_posts = filtered_plant_posts | push: item %}
+  {% else %}
+    {% assign filtered_posts = filtered_posts | push: item %}
+  {% endif %}
+
+{% endfor %}
+
+{% assign random_posts = filtered_posts | sample: 70 %}
+
+{% assign random_plant_posts = filtered_plant_posts | sample: 10 %}
 
 const random_sample = [
 {% for post in random_posts %}
+{
+  "title": {{ post.title | jsonify }},
+  "scientificname": "{{ post.genus }} {{post.species}}",
+  "url": {{ post.url | jsonify }}, 
+  "coverimg": {{ post.smallcoverimg | default: post.coverimg | jsonify }}, 
+  
+}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+,
+{% for post in random_plant_posts %}
 {
   "title": {{ post.title | jsonify }},
   "scientificname": "{{ post.genus }} {{post.species}}",

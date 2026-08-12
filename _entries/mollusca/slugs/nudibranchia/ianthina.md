@@ -10,6 +10,7 @@ genus: Pteraeolidia
 species: ianthina
 attributes:
 - 90
+- 26
 inat_id: 559553
 stateofmatter: Life
 kingdom: Animalia

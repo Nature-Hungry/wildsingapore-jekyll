@@ -1,5 +1,5 @@
 ---
-title: 'Black tailed-slug '
+title: Black tailed-slug
 description: Fact sheet of Black tailed-slug  on the shores of Singapore
 keywords: black, tailed, slug, chelidonura, aglajidae, cephalaspidea, gastropod, mollusc,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
@@ -8,7 +8,9 @@ layout: entry
 family: Aglajidae
 genus: Chelidonura
 species: ''
-attributes: []
+attributes: 
+- 27
+- 90
 inat_id: 54576
 stateofmatter: Life
 kingdom: Animalia

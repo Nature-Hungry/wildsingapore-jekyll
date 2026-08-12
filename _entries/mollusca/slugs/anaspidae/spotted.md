@@ -8,7 +8,9 @@ layout: entry
 family: ''
 genus: Aplysia
 species: oculifera*
-attributes: []
+attributes: 
+- 27
+- 90
 inat_id: 50930
 stateofmatter: Life
 kingdom: Animalia

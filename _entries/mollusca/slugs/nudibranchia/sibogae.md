@@ -10,6 +10,7 @@ genus: Cuthona
 species: sibogae
 attributes:
 - 90
+- 26
 inat_id: 520837
 stateofmatter: Life
 kingdom: Animalia

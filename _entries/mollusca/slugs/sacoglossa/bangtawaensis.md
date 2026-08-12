@@ -8,7 +8,9 @@ layout: entry
 family: Plakobranchidae
 genus: Elysia
 species: bangtawaensis
-attributes: []
+attributes: 
+- 27
+- 90
 inat_id: 702326
 stateofmatter: Life
 kingdom: Animalia

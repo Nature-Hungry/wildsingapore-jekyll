@@ -8,7 +8,9 @@ layout: entry
 family: Onchidiidae
 genus: Onchidium
 species: griseum
-attributes: []
+attributes: 
+- 28
+- 90
 updated: Jun 2020
 coverimg: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
 galleries:

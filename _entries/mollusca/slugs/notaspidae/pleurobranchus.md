@@ -8,7 +8,9 @@ layout: entry
 family: Pleurobranchidae
 genus: Pleurobranchus
 species: forskalii
-attributes: []
+attributes: 
+- 29
+- 90
 inat_id: 49904
 stateofmatter: Life
 kingdom: Animalia

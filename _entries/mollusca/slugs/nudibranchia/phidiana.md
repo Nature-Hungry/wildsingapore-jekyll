@@ -10,6 +10,7 @@ genus: Phidiana
 species: militaris
 attributes:
 - 90
+- 26
 inat_id: 349137
 stateofmatter: Life
 kingdom: Animalia

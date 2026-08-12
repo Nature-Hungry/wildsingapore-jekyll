@@ -1,5 +1,5 @@
 ---
-title: 'Paper bubble snail '
+title: Paper bubble snail
 description: Fact sheet of Paper bubble snail  on the shores of Singapore
 keywords: bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
@@ -9,7 +9,6 @@ attributes:
 - 14
 
 - 23
-- 30
 - 33
 - 64
 - 65

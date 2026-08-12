@@ -1,5 +1,5 @@
 ---
-title: 'Reticulated tailed-slug '
+title: Reticulated tailed-slug
 description: Fact sheet of Reticulated tailed-slug  on the shores of Singapore
 keywords: tailed, slug, philinopsis, reticulata, aglajidae, cephalaspidea, gastropod,
   mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
@@ -8,7 +8,9 @@ layout: entry
 family: Aglajidae
 genus: ''
 species: Philinopsis
-attributes: []
+attributes: 
+- 27
+- 90
 inat_id: 49843
 stateofmatter: Life
 kingdom: Animalia

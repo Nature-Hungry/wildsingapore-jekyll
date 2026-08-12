@@ -1,5 +1,5 @@
 ---
-title: 'Smooth little onch slug '
+title: Smooth little onch slug
 description: Fact sheet of Smooth little onch slug  on the shores of Singapore
 keywords: slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
@@ -8,7 +8,9 @@ layout: entry
 family: Onchidiidae
 genus: ''
 species: identification*
-attributes: []
+attributes: 
+- 28
+- 90
 inat_id: 54928
 stateofmatter: Life
 kingdom: Animalia

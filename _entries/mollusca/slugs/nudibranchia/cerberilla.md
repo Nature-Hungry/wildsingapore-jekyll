@@ -10,6 +10,7 @@ genus: Cerberilla
 species: ''
 attributes:
 - 90
+- 26
 inat_id: 50427
 stateofmatter: Life
 kingdom: Animalia

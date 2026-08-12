@@ -8,7 +8,9 @@ layout: entry
 family: Plakobranchidae
 genus: Elysia
 species: ornata
-attributes: []
+attributes: 
+- 27
+- 90
 inat_id: 50566
 stateofmatter: Life
 kingdom: Animalia

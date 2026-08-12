@@ -8,7 +8,9 @@ layout: entry
 family: Aplysiidae
 genus: Aplysia
 species: dactylomela
-attributes: []
+attributes: 
+- 27
+- 90
 inat_id: 50543
 stateofmatter: Life
 kingdom: Animalia

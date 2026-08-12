@@ -7,10 +7,8 @@ keywords: halimeda, slug, elysia, elysiella, pusilla, plakobranchidae, sacogloss
 layout: entry
 attributes:
 - 14
-
 - 27
 - 29
-- 30
 - 33
 - 90
 family: Plakobranchidae

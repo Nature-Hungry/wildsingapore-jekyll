@@ -10,6 +10,8 @@ genus: Melibe
 species: viridis
 attributes:
 - 22
+- 30
+- 90
 inat_id: 50551
 stateofmatter: Life
 kingdom: Animalia

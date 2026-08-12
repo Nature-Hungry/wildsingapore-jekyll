@@ -8,7 +8,9 @@ layout: entry
 family: Onchidiidae
 genus: Platyvindex
 species: ''
-attributes: []
+attributes: 
+- 28
+- 90
 updated: Jun 2020
 coverimg: https://images.naturehungry.sg/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
 galleries:

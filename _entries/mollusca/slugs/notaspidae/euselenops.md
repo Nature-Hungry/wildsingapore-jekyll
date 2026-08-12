@@ -8,7 +8,9 @@ layout: entry
 family: Pleurobranchidae
 genus: Euselenops
 species: luniceps
-attributes: []
+attributes: 
+- 29
+- 90
 inat_id: 50556
 stateofmatter: Life
 kingdom: Animalia

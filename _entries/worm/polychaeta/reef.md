@@ -8,7 +8,8 @@ layout: entry
 family: Amphinomidae
 genus: Eurythoe
 species: complanata
-attributes: []
+attributes: 
+- 149
 inat_id: 194929
 stateofmatter: Life
 kingdom: Animalia

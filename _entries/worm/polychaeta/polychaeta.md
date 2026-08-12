@@ -3,7 +3,7 @@ title: Bristleworms
 description: Fact sheet of Bristleworms on the shores of Singapore
 keywords: bristle, worm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Sabellidae
+family: ''
 genus: ''
 species: ''
 attributes: []
@@ -12,9 +12,9 @@ stateofmatter: Life
 kingdom: Animalia
 phylum: Annelida
 class: Polychaeta
-subclass: Sedentaria
-infraclass: Canalipalpata
-order: Sabellida
+subclass: ''
+infraclass: ''
+order: ''
 updated: Oct 2019
 coverimg: https://images.naturehungry.sg/worm/polychaeta/reef/040804skdd4129m3.jpg
 galleries:

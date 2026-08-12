@@ -5,10 +5,18 @@ keywords: bristle, worm, oxydromus, angustifrons, hesionidae, bristleworm, polyc
   annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
+inat_id: 494513
 family: Hesionidae
+order: Phyllodocida
+subclass: Errantia
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
 genus: Oxydromus
-species: cf.
-attributes: []
+species: cf. angustifrons
+attributes: 
+- 149
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
 galleries:

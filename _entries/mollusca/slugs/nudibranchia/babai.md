@@ -10,6 +10,7 @@ genus: ''
 species: Armina
 attributes:
 - 90
+- 29
 inat_id: 47501
 stateofmatter: Life
 kingdom: Animalia
