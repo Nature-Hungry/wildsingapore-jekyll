@@ -22,10 +22,26 @@ description: "Information about the various habitats in Singapore with an intera
     height:50px;
     margin-bottom:0.5rem;
 }
+
+#map.loading::before{
+    content:'';
+    height:100%;
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    background-color:rgba(213, 213, 213, 0.499);
+    z-index:999;
+    background-image: url(https://cdnjs.cloudflare.com/ajax/libs/timelinejs/2.25/css/loading.gif);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 </style>
 
     <main class="page-content page-content-full-width" id="main-content">
-        <div id="map" style="height:80vh; margin-bottom:2rem;"></div>
+        <div id="map" class="loading" style="height:80vh; margin-bottom:2rem;"></div>
 
         <section>
             <h3>Data sources</h3>
@@ -653,7 +669,7 @@ description: "Information about the various habitats in Singapore with an intera
 
                     geoJsonLayer.bringToFront()
                 })
-               
+               document.getElementById("map").classList.remove("loading")
             }
         </script>
 {% include global/footer.html %}

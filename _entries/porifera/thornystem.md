@@ -7,7 +7,8 @@ title: Thorny stem sponge
 family: Niphatidae
 genus: Gelliodes
 species: fibulata
-attributes: []
+attributes:
+- 140
 inat_id: 604340
 stateofmatter: Life
 kingdom: Animalia

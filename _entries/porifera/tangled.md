@@ -7,7 +7,8 @@ title: Tangled sponge
 family: Callyspongiidae
 genus: Callyspongia
 species: samarensis
-attributes: []
+attributes:
+- 140
 inat_id: 1077657
 stateofmatter: Life
 kingdom: Animalia

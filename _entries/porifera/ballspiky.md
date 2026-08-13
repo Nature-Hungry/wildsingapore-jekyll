@@ -7,7 +7,9 @@ title: Spiky ball sponge
 family: Dysideidae
 genus: Dysidea
 species: ''
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 131710
 stateofmatter: Life
 kingdom: Animalia

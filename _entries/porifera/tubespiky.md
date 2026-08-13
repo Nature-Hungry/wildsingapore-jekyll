@@ -7,7 +7,8 @@ title: Spiky tubular sponge
 family: Niphatidae
 genus: Gelliodes
 species: ''
-attributes: []
+attributes:
+- 140
 inat_id: 604341
 stateofmatter: Life
 kingdom: Animalia

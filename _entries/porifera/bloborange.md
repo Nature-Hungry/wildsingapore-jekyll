@@ -7,7 +7,9 @@ title: Orange blob sponge
 family: Mycalidae
 genus: Mycale
 species: sp.*
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 1448153
 stateofmatter: Life
 kingdom: Animalia

@@ -1,0 +1,21 @@
+---
+title: "Ctenophores"
+description: ""
+keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+---
+
+
+{% assign filtered_posts = site.entries | where: "phylum", "Ctenophora" %}
+
+
+<div class="entry-summary-card-grid"
+>
+{% for post in filtered_posts %}
+
+{% if post.hideFromPhotoindex != true %}
+    {% include entry-summary-card.html item=post %}
+{% endif %}
+{% endfor %}
+</div>
+

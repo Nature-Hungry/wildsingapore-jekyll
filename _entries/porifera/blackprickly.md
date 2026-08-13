@@ -7,7 +7,9 @@ title: Black prickly sponge
 family: Raspailiidae
 genus: Echinodictyum
 species: conulosum
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 1654174
 stateofmatter: Life
 kingdom: Animalia

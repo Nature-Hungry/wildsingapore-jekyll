@@ -7,7 +7,8 @@ title: Crumbly sponge
 family: Halichondriidae
 genus: Amorphinopsis
 species: excavans
-attributes: []
+attributes:
+- 161
 inat_id: 1636800
 stateofmatter: Life
 kingdom: Animalia

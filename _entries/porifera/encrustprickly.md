@@ -7,7 +7,8 @@ title: Yellow prickly branching sponge
 family: Pseudoceratinidae
 genus: Pseudoceratina
 species: purpurea*
-attributes: []
+attributes:
+- 161
 inat_id: 783231
 stateofmatter: Life
 kingdom: Animalia

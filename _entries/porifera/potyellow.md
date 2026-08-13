@@ -7,7 +7,9 @@ title: Yellow pot sponge
 family: Ancorinidae
 genus: Rhabdastrella
 species: globostellata
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 751628
 stateofmatter: Life
 kingdom: Animalia

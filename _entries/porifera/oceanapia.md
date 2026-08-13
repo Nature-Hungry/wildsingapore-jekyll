@@ -7,7 +7,8 @@ title: Pink puff ball sponge
 family: Phloeodictyidae
 genus: Oceanapia
 species: sagittaria
-attributes: []
+attributes:
+- 160
 inat_id: 57735
 stateofmatter: Life
 kingdom: Animalia

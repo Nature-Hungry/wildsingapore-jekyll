@@ -7,7 +7,8 @@ title: Lumpy purple sponge
 family: Chalinidae
 genus: Haliclona
 species: sp.*
-attributes: []
+attributes:
+- 140
 inat_id: 1485370
 stateofmatter: Life
 kingdom: Animalia

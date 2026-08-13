@@ -7,7 +7,8 @@ title: Yellow volcano sponge
 family: Clionaidae
 genus: Spheciospongia
 species: sp.*
-attributes: []
+attributes:
+- 160
 inat_id: 464969
 stateofmatter: Life
 kingdom: Animalia

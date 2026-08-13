@@ -7,7 +7,8 @@ title: Blue encrusting prickly sponge
 family: ' updated Oct 2016'
 genus: ''
 species: identification*
-attributes: []
+attributes:
+- 161
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/porifera/encrustpricklyblue/070317sntg8092m3.jpg
 galleries:

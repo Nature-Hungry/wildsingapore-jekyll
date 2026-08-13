@@ -7,7 +7,9 @@ title: Golf ball sponge
 family: Tetillidae
 genus: Cinachyrella
 species: australiensis
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 551979
 stateofmatter: Life
 kingdom: Animalia

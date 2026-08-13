@@ -7,7 +7,8 @@ title: Blue icing sponge
 family: Thorectidae
 genus: Lendenfeldia
 species: cf.
-attributes: []
+attributes:
+- 161
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/porifera/smoothblue/040706lazd2411m3.jpg
 galleries:

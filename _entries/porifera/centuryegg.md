@@ -7,7 +7,9 @@ title: '''Century egg'' sponge'
 family: Suberitidae
 genus: Aaptos
 species: suberitoides
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 1536347
 stateofmatter: Life
 kingdom: Animalia

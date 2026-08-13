@@ -7,7 +7,9 @@ title: Potato sponge
 family: Desmacellidae
 genus: Biemna
 species: ''
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 246871
 stateofmatter: Life
 kingdom: Animalia

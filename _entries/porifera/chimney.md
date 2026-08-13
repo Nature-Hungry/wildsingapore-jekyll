@@ -7,7 +7,8 @@ title: Colourful chimney sponge
 family: Petrosiidae
 genus: Petrosia
 species: ''
-attributes: []
+attributes:
+- 160
 inat_id: 131797
 stateofmatter: Life
 kingdom: Animalia

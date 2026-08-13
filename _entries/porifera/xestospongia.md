@@ -7,7 +7,9 @@ title: Barrel  sponge
 family: Petrosiidae
 genus: Xestospongia
 species: testudinaria
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 319598
 stateofmatter: Life
 kingdom: Animalia

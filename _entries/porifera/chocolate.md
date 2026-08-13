@@ -7,7 +7,9 @@ title: Chocolate sponge
 family: Clionaidae
 genus: Spheciospongia
 species: cf.
-attributes: []
+attributes:
+- 159
+- 141
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/porifera/chocolate/100629tpdd7404m6l.jpg
 galleries:

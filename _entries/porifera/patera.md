@@ -7,7 +7,9 @@ title: The Neptune's Cup sponge
 family: Clionaidae
 genus: Cliona
 species: patera
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 856104
 stateofmatter: Life
 kingdom: Animalia

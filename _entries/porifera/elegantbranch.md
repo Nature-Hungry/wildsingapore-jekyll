@@ -7,7 +7,8 @@ title: Elegant branching sponge
 family: Chalinidae
 genus: ''
 species: Haliclona
-attributes: []
+attributes:
+- 140
 inat_id: 129865
 stateofmatter: Life
 kingdom: Animalia

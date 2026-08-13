@@ -7,7 +7,8 @@ title: Blue jorunna sponge
 family: Petrosiidae
 genus: Neopetrosia
 species: ''
-attributes: []
+attributes:
+- 140
 inat_id: 131793
 stateofmatter: Life
 kingdom: Animalia

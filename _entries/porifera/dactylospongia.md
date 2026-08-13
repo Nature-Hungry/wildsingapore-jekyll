@@ -7,7 +7,8 @@ title: Mustard sponge
 family: Thorectidae
 genus: Dactylospongia
 species: elegans
-attributes: []
+attributes:
+- 140
 inat_id: 1536626
 stateofmatter: Life
 kingdom: Animalia

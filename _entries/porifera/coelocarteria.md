@@ -7,7 +7,8 @@ title: Daisy sponge
 family: Isodictyidae
 genus: Coelocarteria
 species: singaporensis
-attributes: []
+attributes:
+- 160
 inat_id: 710245
 stateofmatter: Life
 kingdom: Animalia

@@ -7,7 +7,8 @@ title: Lumpy orange sponge
 family: ''
 genus: ''
 species: identification*
-attributes: []
+attributes:
+- 140
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia

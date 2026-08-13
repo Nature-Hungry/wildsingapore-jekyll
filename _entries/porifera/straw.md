@@ -7,7 +7,8 @@ title: Straw sponge
 family: ''
 genus: ''
 species: identification*
-attributes: []
+attributes:
+- 160
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia

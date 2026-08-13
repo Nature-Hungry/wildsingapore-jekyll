@@ -7,7 +7,9 @@ title: '''Hairy olives'' sponge'
 family: Ancorinidae
 genus: Stelletta
 species: clavosa
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 764906
 stateofmatter: Life
 kingdom: Animalia

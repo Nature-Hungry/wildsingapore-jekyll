@@ -7,7 +7,8 @@ title: Orange sprawling sponge
 family: Microcionidae
 genus: Clathria
 species: reinwardti
-attributes: []
+attributes:
+- 140
 inat_id: 1432650
 stateofmatter: Life
 kingdom: Animalia

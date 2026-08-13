@@ -7,7 +7,8 @@ title: Smooth brown sponge
 family: Petrosiidae
 genus: Neopetrosia
 species: exigua*
-attributes: []
+attributes:
+- 161
 inat_id: 1427706
 stateofmatter: Life
 kingdom: Animalia

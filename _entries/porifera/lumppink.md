@@ -7,7 +7,8 @@ title: Lumpy pink sponge
 family: Chalinidae
 genus: Haliclona
 species: cf.
-attributes: []
+attributes:
+- 140
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/porifera/lumpypink/100403bbbd0585m3.jpg
 galleries:

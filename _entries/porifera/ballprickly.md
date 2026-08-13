@@ -7,7 +7,9 @@ title: Rambutan sponge
 family: Tethyidae
 genus: Tethya
 species: robusta
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 707284
 stateofmatter: Life
 kingdom: Animalia

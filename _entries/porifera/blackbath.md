@@ -7,7 +7,9 @@ title: Black bath sponge
 family: Spongiidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 159
+- 141
 inat_id: 126518
 stateofmatter: Life
 kingdom: Animalia

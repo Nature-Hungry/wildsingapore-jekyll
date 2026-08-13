@@ -7,7 +7,8 @@ title: Higgin's sponge
 family: Heteroxyidae
 genus: Higginsia
 species: ''
-attributes: []
+attributes:
+- 140
 inat_id: 247180
 stateofmatter: Life
 kingdom: Animalia

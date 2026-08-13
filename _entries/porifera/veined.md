@@ -7,7 +7,8 @@ title: Veined sponge
 family: Poecilosclerida
 genus: Clathria
 species: cf.
-attributes: []
+attributes:
+- 161
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/porifera/veined/110812chgd8798m3.jpg
 galleries:

@@ -7,7 +7,8 @@ title: Champagne  sponge
 family: Callyspongiidae
 genus: Callyspongia
 species: diffusa
-attributes: []
+attributes:
+- 140
 inat_id: 450023
 stateofmatter: Life
 kingdom: Animalia
