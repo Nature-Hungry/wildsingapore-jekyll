@@ -404,9 +404,11 @@ function renderResults() {
     }
     
     zones = ""
-    item.zone.forEach(z=>{
-      zones += `<div class="zone ${z}"></div>`
-    })
+    if(item.zone){
+      item.zone.forEach(z=>{
+        zones += `<div class="zone ${z}"></div>`
+      })
+    }
     
     return `
     <div class="entry-wrapper">
