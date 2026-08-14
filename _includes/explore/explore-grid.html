@@ -147,7 +147,6 @@ let pageInfo = Array.from(document.getElementsByClassName('page-info'))
 
 let prevBtn = Array.from(document.getElementsByClassName('prev'))
 let nextBtn = Array.from(document.getElementsByClassName('next'))
-let overlay = document.getElementById("redirect-overlay")
 
 let resultsCount = document.getElementById("results-count")
 let taxaFilters = new Set()
@@ -176,15 +175,14 @@ async function fetchData(){
   let res = await fetch('/assets/search.json')
   let local = await res.json()
 
-  res = await fetch('/assets/fishblogger.json')
-  let fishblogger = await res.json()
+  //res = await fetch('/assets/fishblogger.json')
+  //let fishblogger = await res.json()
 
-  return output = [...local, ...fishblogger]
+  return local
 }
 
 function init(){
 
-  overlay = document.getElementById("redirect-overlay")
   initialQuery = params.get('q') || ''
       currentPage = parseInt(params.get('page'), 10)
       if (isNaN(currentPage) || currentPage < 1) {
@@ -263,7 +261,6 @@ function init(){
   window.addEventListener('pageshow', (event) => {
     
   console.log("Page show")
-  overlay.classList.remove('show');
   
   // If the page is loaded from the bfcache, remove the transition class
     if (event.persisted) {
@@ -412,7 +409,7 @@ function renderResults() {
     
     return `
     <div class="entry-wrapper">
-    <a href="${item.url}" class="entry" ${item.external ? "rel='nofollow' external="+item.external : ""}>
+    <a href="${item.externalurl ? item.externalurl : item.url}" class="entry" ${item.external ? "rel='nofollow' external="+item.external : ""}>
         <div class="entry-rdb ${item.rdb}">
         </div>
         <div class="img-container">

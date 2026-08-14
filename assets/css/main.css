@@ -25,7 +25,8 @@
   --color-section-head:     #CC6666;
   --color-accent-green:     #3d7a00;
   --color-accent-orange:    #CC6600;
-  --color-bg:               #f3eeea;
+  --color-bg:               #fffbf6;
+  --color-black-border:     #c7bfb6;
   --color-surface:          #F5F5F0;
   --color-text:             #484855;
   --color-text-muted:       #666666;
@@ -62,9 +63,32 @@ body {
   font-family:      var(--font-body);
   line-height:      1.7;
   color:            var(--color-text);
-  
   -webkit-font-smoothing: antialiased;
+  
+}
+html::before{
+  content:'';
+  position: fixed;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+  background-image: url(/assets/paperbg.webp);
 
+  background-size: cover;
+  z-index: -1;
+}
+html::after{
+  content:'';
+  position: fixed;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+  background-color: var(--color-bg);
+  opacity: 0.8;
+
+  z-index: -1;
 }
 
 /* ── Layout wrapper ─────────────────────────────────────────────────────── */
@@ -85,10 +109,14 @@ body {
   margin:    2rem auto;
   padding:   var(--gap) 4rem 3rem;
   background-color: white;
+  width: 100%;
 }
+
+
 .page-content-full-width{
+  background-color: transparent;
   max-width: var(--max-width);
-  margin:0 auto;
+  margin:0;
 }
 
 /* ── Site header ─────────────────────────────────────────────────────────
@@ -155,13 +183,14 @@ body {
 /* ── Navigation bar ──────────────────────────────────────────────────────
  * ─────────────────────────────────────────────────────────────────────── */
 nav{
-  background-color: white;
+  /* background-color: var(--color-bg); */
+  padding: 0 2rem;
   width: 100%;
 }
 .nav-content{
   display:flex;
   justify-content: space-between;
-  padding:3rem 4rem;
+  padding:2rem 4rem;
   gap:1rem;
   align-items: center;
   max-width: var(--max-width);
@@ -565,7 +594,7 @@ li { margin-bottom: 0.5rem; }
 .btn:focus                 { outline: 3px solid #EF835480; outline-offset: 2px; }
 
 .btn.outline{
-  background-color: white;
+  background-color: var(--color-bg);
   border:1px solid var(--color-section-head);
   color: var(--color-section-head)
 }
@@ -1093,11 +1122,13 @@ hr{
 input[type="text"]{
     font-size: 1rem;
     padding:1rem;
-    border: 2px solid transparent;
+    border: 1px solid var(--color-black-border);
+
+
     border-radius: 8px;
     outline: none;
-    background-color: white;
-    border-color: #f0f0f0;
+      background-color: transparent;
+
 
     color: #0d0c22;
     transition: .3s ease;
@@ -1117,12 +1148,12 @@ select{
   font-size: 1rem;
   padding: 0.5em 5em 0.5em 1em;
   cursor: pointer;
-  border: 2px solid transparent;
+  border: 1px solid var(--color-black-border);
   border-radius: 8px;
   outline: none;
-  border-color: #f0f0f0;
   color: #0d0c22;
   transition: .3s ease;
+  background-color: transparent;
 }
 
 

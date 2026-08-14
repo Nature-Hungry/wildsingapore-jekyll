@@ -1,6 +1,3 @@
-
-
-
 let overlay = document.getElementById("redirect-overlay")
 document.addEventListener("DOMContentLoaded", function(){
     overlay = document.getElementById("redirect-overlay")

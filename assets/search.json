@@ -7,6 +7,8 @@ layout: none
 {
   "title": {{ post.title | jsonify }},
   "url": {{ post.url | jsonify }}, 
+  "externalurl": {{ post.externalurl | jsonify }}, 
+  "external": {{ post.external | jsonify }}, 
   "coverimg": {{ post.smallcoverimg | default: post.coverimg | jsonify }}, 
   "keywords": {{ post.keywords | jsonify }},
   "summary": {{ post.summary | jsonify }}, 
