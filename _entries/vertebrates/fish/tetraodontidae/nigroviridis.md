@@ -11,7 +11,7 @@ attributes:
 - 47
 - 85
 family: Tetraodontidae
-genus: Tetraodon
+genus: Dichotomyctere
 species: nigroviridis
 inat_id: 621545
 stateofmatter: Life
