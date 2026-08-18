@@ -11,8 +11,18 @@ family: ''
 genus: ''
 species: identification*
 inat_id: 1
-stateofmatter: Life
+tateofmatter: Life
 kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
+superfamily: Paguroidea
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
 galleries:

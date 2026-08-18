@@ -137,7 +137,7 @@ zone:
 - marine
 habitats:
 - rocky shore
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Anomura/Porcellanidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Anomura/Galatheoidea/Porcellanidae
 ---
 
 ## Where seen?

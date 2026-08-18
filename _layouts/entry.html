@@ -22,25 +22,8 @@
          {% endif %}
         <div class="sticky-header-content">
           <h3>{{page.title}}</h3>
-          {% if page.genus != '' and page.genus %}
-                    <p class="scientific-name">{{page.genus}} {{page.species | default: ""}}</p>
-                {% elsif page.subfamily != '' and page.subfamily%}
-                    <p class="scientific-name">Subfamily {{page.subfamily}}</p>
-                {% elsif page.family != '' and page.family%}
-                    <p class="scientific-name">Family {{page.family}}</p>
-                {% elsif page.suborder and page.suborder != '' %}
-                    <p class="scientific-name">Suborder {{page.suborder}}</p>
-                {% elsif page.order != '' and page.order %}
-                    <p class="scientific-name">Order {{page.order}}</p>
-                {% elsif page.class != ''  and page.class %}
-                    <p class="scientific-name">Class {{page.class}}</p>
-                {% elsif page.subphylum != '' and page.subphylum %}
-                    <p class="scientific-name">Subphylum {{page.subphylum}}</p>
-                {% elsif page.phylum != '' and page.phylum %}
-                    <p class="scientific-name">Phylum {{page.phylum}}</p>
-                {% else %}
-                    <p class="scientific-name">Kingdom {{page.kingdom}}</p>
-                {% endif %}
+          {% include entryscientificname.html entry=page %}
+          
         </div>
 
          {% if page.next.url %}
@@ -80,29 +63,7 @@
                     <a href="/{{page.phylum}}/{{page.class}}/{{page.order}}/{{page.suborder}}/{{page.family}}">{{page.family}}</a> -->
                 </p>
                 <h1>{{page.title}}</h1>
-                {% if page.genus != '' and page.genus %}
-                    <p class="scientific-name">{{page.genus}} {{page.species | default: "sp."}}</p>
-                {% elsif page.subfamily != '' and page.subfamily%}
-                    <p class="scientific-name">Subfamily {{page.subfamily}}</p>
-                {% elsif page.family != '' and page.family%}
-                    <p class="scientific-name">Family {{page.family}}</p>
-                {% elsif page.superfamily != '' and page.superfamily%}
-                    <p class="scientific-name">Superfamily {{page.superfamily}}</p>
-                {% elsif page.suborder and page.suborder != '' %}
-                    <p class="scientific-name">Suborder {{page.suborder}}</p>
-                {% elsif page.order != '' and page.order %}
-                    <p class="scientific-name">Order {{page.order}}</p>
-                {% elsif page.subclass != ''  and page.subclass %}
-                    <p class="scientific-name">Subclass {{page.subclass}}</p>
-                {% elsif page.class != ''  and page.class %}
-                    <p class="scientific-name">Class {{page.class}}</p>
-                {% elsif page.subphylum != '' and page.subphylum %}
-                    <p class="scientific-name">Subphylum {{page.subphylum}}</p>
-                {% elsif page.phylum != '' and page.phylum %}
-                    <p class="scientific-name">Phylum {{page.phylum}}</p>
-                {% else %}
-                    <p class="scientific-name">Kingdom {{page.kingdom}}</p>
-                {% endif %}
+                {% include entryscientificname.html entry=page %}
 
                 <p><em>Updated {{page.updated}}</em></p>
 

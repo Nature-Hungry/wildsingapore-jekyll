@@ -4,7 +4,7 @@ description: Fact sheet of Hermit crabs  on the shores of Singapore
 keywords: hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
-family: Crepidulidae
+family: ''
 stateofmatter: Life
 kingdom: Animalia
 phylum: Arthropoda
@@ -16,6 +16,7 @@ superorder: Eucarida
 order: Decapoda
 suborder: Pleocyemata
 infraorder: Anomura
+superfamily: Paguroidea
 genus: ''
 species: ''
 updated: Jan 2020
@@ -266,7 +267,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Anomura/Crepidulidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Anomura/Paguroidea
 ---
 
 ## Where seen?

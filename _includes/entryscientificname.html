@@ -1,0 +1,26 @@
+{% assign page = include.entry %}
+{% if page.genus != '' and page.genus %}
+    <p class="scientific-name">{{page.genus}} {{page.species | default: "sp."}}</p>
+{% elsif page.subfamily != '' and page.subfamily%}
+    <p class="scientific-name">Subfamily {{page.subfamily}}</p>
+{% elsif page.family != '' and page.family%}
+    <p class="scientific-name">Family {{page.family}}</p>
+{% elsif page.superfamily != '' and page.superfamily%}
+    <p class="scientific-name">Superfamily {{page.superfamily}}</p>
+{% elsif page.infraorder and page.infraorder != '' %}
+    <p class="scientific-name">Infraorder {{page.infraorder}}</p>
+{% elsif page.suborder and page.suborder != '' %}
+    <p class="scientific-name">Suborder {{page.suborder}}</p>
+{% elsif page.order != '' and page.order %}
+    <p class="scientific-name">Order {{page.order}}</p>
+{% elsif page.subclass != ''  and page.subclass %}
+    <p class="scientific-name">Subclass {{page.subclass}}</p>
+{% elsif page.class != ''  and page.class %}
+    <p class="scientific-name">Class {{page.class}}</p>
+{% elsif page.subphylum != '' and page.subphylum %}
+    <p class="scientific-name">Subphylum {{page.subphylum}}</p>
+{% elsif page.phylum != '' and page.phylum %}
+    <p class="scientific-name">Phylum {{page.phylum}}</p>
+{% else %}
+    <p class="scientific-name">Kingdom {{page.kingdom}}</p>
+{% endif %}

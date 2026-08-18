@@ -9,10 +9,19 @@ attributes:
 - 54
 family: ''
 genus: ''
-species: identification*
-inat_id: 1
-stateofmatter: Life
+species: ''
+tateofmatter: Life
 kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
+superfamily: Paguroidea
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg
 galleries:

@@ -31,7 +31,7 @@
   --color-text:             #484855;
   --color-text-muted:       #666666;
   --color-border:           #DDDDCC;
-  --color-link:             rgb(162, 65, 0);
+  --color-link:             #aa002b;
   --color-link-visited:     rgb(162, 65, 0);
   --color-link-hover:       #CC0033;
   --color-btn:              #EF8354;
@@ -208,6 +208,21 @@ nav{
     gap:2rem;
     align-items: center;
 }
+/* .nav-links a:hover{
+  text-decoration: none;
+}
+.nav-links a:hover::before{
+  display: block;
+}
+.nav-links a::before{
+  display: none;
+  content: '\27A4';
+  position: absolute;
+  top:102%;
+  left:50%;
+  transform: translateX(-50%) rotate(-90deg);
+  font-size: 0.6rem;
+} */
 
 /* ── Footer ──────────────────────────────────────────────────────────────
  *
@@ -451,10 +466,11 @@ small,
 }
 
 /* ── Links ───────────────────────────────────────────────────────────────── */
-a                { 
+a { 
   text-decoration: none;
   color: var(--color-link);
   font-weight: bold;
+  position: relative;
 }
 /* a:visited        { color: var(--color-link-visited); } */
 a:hover, a:focus { color: var(--color-link-hover); text-decoration: underline; }
