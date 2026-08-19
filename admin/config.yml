@@ -24,6 +24,9 @@ media_libraries:
 
 site_url: https://www.naturehungry.sg
 publish_mode: editorial_workflow
+app_title: 'Nature Hungry Entry Editor'
+logo:
+  src: /assets/favicon.ico
 
 collections:
   - name: "entries"
@@ -269,4 +272,34 @@ collections:
         name: coverimg
         widget: image
         media_library: cloudflare_r2
+      - { label: Body, name: body, widget: richtext }
+
+  - name: locations
+    label: Locations
+    label_singular: Location
+    folder: _articles/locations
+    slug: "{{slug}}"
+    nested:
+      depth: 2
+      summary: "{{filename}}"
+      subfolders: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, type: date, required: false }
+      - { label: Cover Image, name: coverimg, widget: image, media_library: cloudflare_r2, required: false }
+      - { label: Body, name: body, widget: richtext }
+
+  - name: habitats
+    label: Habitats
+    label_singular: Habitat
+    folder: _articles/habitats
+    slug: "{{slug}}"
+    nested:
+      depth: 2
+      summary: "{{filename}}"
+      subfolders: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, type: date, required: false }
+      - { label: Cover Image, name: coverimg, widget: image, media_library: cloudflare_r2, required: false }
       - { label: Body, name: body, widget: richtext }
