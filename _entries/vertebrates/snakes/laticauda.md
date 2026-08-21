@@ -72,9 +72,7 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Amphibious Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Amphibious Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [*Laticauda colubrina*](https://singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrina.html#Laticauda%20colubrina)
 
@@ -159,8 +157,6 @@ Some place them in Family Hydrophiidae.
 According to Baker, in Singapore, it is only found on our Southern Islands. It can crawl about on land (not helpless like other sea snakes). It is widely distributed in the Indo-Pacific.
 
 ## Features
-
-****
 To about 1.4m long. Males are smaller (rarely more than 1m in length) while females are heavier bodied and longer. Bluish-grey with distinct smooth scales and regularly spaced, equal-sized black bands that circle the entire body. Its upper lips are distinctly yellow, thus its common name. Head slightly distinct from the body, but no obvious 'neck'. Its tail is flattened sideways into a paddle-like shape and used like an oar to swim with. At first glance, the tail and the head of this snake look very similar.
 [A study suggests](http://wildshores.blogspot.com/2009/08/two-headed-yellow-lipped-sea-krait.html)
 this may help protect the snake from its predators.

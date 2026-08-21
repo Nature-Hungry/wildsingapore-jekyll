@@ -168,8 +168,6 @@ These corals can form delicate colonies that resemble miniature underwater fores
 has the largest number of species of all the hard corals. The scientific name is usually pronounced as 'ah-crop-or-ah'.
 
 ## Features
-
-****
 Colonies seen usually 15-20cm, but on undisturbed shores can be 50cm or larger. Many grow into branching forms that give rise to common names like 'staghorn coral'. For some, the entire colony often has a flat top so they are sometimes also called 'table-top' or 'table coral'. Others appear bushy. Branches are generally cylindrical with corallites appearing all around the branch.
 
 Corallite tiny (0.5cm) smooth cups or tubes. Acropora corals have a distinctive corallite, usually at the tip of the branch, that is larger than the other corallites. This is called an axial corallite. New corallites (called secondary or radial corallites) bud off along the sides while the axial corallite continues to grow upwards on the tip of the branch. The axial corallite lacks zooxanthellae but grows rapidly as it is fed by other areas of the colony. The tips are often white or brightly coloured.

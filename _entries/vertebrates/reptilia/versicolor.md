@@ -37,9 +37,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Changeable lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Changeable lizard](http://www.ecologyasia.com/verts/lizards/changeable_lizard.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
 
   ### References
@@ -83,8 +81,6 @@ This large sometimes brightly coloured lizard is commonly seen in our wild place
 (*Bronchodela cristatella*) a native lizard which used to be commonly seen.
 
 ## Features
-
-****
 Total length to 37cm. A stout body with small, bumpy (keeled) scales. It has a spiny crest on the back of its neck and along the body. There are two spines above the ear opening. It has blackish streaks radiating from the eyes. Generally brownish to greenish yellow.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

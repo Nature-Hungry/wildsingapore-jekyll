@@ -137,8 +137,6 @@ and
 together account for one-third of reef-building (hermatypic) coral species.
 
 ## Features
-
-****
 Most members of the family have an axial corallite at the end of the branch. New corallites (called secondary or radial corallites) bud off along the sides while the axial corallite continues to grow upwards on the tip of the branch. All members of the family contain symbiotic algae (zooxanthellae). The axial corallite lacks zooxanthellae but grows rapidly as it is fed by other areas of the colony. The tips are often white or brightly coloured.
 
 The various species have various colony shapes including thin plates, encrusting layers or boulder-shaped colonies. The most familiar are those that branch into bushy or flat 'table-top' shapes.

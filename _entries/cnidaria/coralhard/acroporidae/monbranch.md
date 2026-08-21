@@ -126,8 +126,6 @@ habitats:
 This branching hard coral is often seen on some of our Southern shores. Sometimes dense clusters of these branching corals can cover several metres on intertidal reef flats. Tiny animals are often seen among its branches.
 
 ## Features
-
-****
 Colonies seen 15-20cm. Branches cylindrical usually short. The tips of the branches usually white smooth and lacks polyps, tips may be rounded, squarish or flattened. Polyps tiny (0.5cm or smaller) with short tentacles and short body column. In some, the area between polyps is relatively smooth. In others, there may be large bumps between the corallites, about the same size as the polyps. Colours usually beige or brown, sometimes with greenish or bluish polyps.
 
 There are probably several different species on this page. It's hard to distinguish them without close examination of small features and they are grouped by large external features for convenience of display.

@@ -66,8 +66,6 @@ zone:
 These acroporal corals with tubular radial corallites are sometimes seen on some of our Southern shores.
 
 ## Features
-
-****
 Colonies 15-20cm. Tapering branches forming a bush-like shape. The branches don't interlock. Generally, the axial corallite at the growing tip is large and cylindrical. The radial corallites are smoothly tubular. Colours generally brown.
 
 There are probably several different species on this page. It's hard to distinguish them without close examination of small features and they are grouped by large external features for convenience of display.

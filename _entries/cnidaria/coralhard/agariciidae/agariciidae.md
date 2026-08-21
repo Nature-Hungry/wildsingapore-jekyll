@@ -68,8 +68,6 @@ permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Agariciidae
 These hard corals with intricately patterned surfaces are sometimes seen on our undisturbed Southern shores.
 
 ## Features
-
-****
 These corals have intricate patterns on their surfaces. Colonies may be boulder-shaped (massive) or plate-like (laminar). The polyps are tiny and lack tentacles. They rely on mucus to gather suspended food particles from the water.
 
 ***Leptoseris*

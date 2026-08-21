@@ -35,9 +35,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Many-lined Sun Skink](http://www.ecologyasia.com/verts/lizards/many-lined_sun_skink)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Many-lined Sun Skink](http://www.ecologyasia.com/verts/lizards/many-lined_sun_skink.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Many-lined Sun Skink](http://www.wildsingapore.per.sg/discovery/factsheet/skinkmanylined)
 

@@ -31,9 +31,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Green Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Green Crested Lizard](http://www.ecologyasia.com/verts/lizards/green-crested_lizard.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [*Bronchocela cristatella*](https://singapore.biodiversity.online/taxo4254/mainSpace/Bronchocela%20cristatella.html)
 
@@ -86,8 +84,6 @@ zone:
 This large green lizard is very well camouflaged among the green vegetation where it may perch motionless. It is active during the day and is arboreal, found in bushes and trees usually in forested areas and inland wild places.
 
 ## Features
-
-****
 Total length to 57cm. A slender body with small, bumpy (keeled) scales. It has a spiny crest on the back of its neck and a very long tail. Generally a plain bright bluish green although it may change to dark brown or grey. It has a dark ring around the eyes, and dark brown patch on the ears and the tip of the tail.
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 **What does it eat?**

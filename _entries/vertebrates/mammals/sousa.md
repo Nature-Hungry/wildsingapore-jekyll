@@ -83,8 +83,6 @@ According to Lee and Ooi (June 2020), in discussing the dolphins seen off Jurong
 eastern Johor Strait."
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ## Features
-
-****
 Head and body length 120-280cm, up to about 140kg. Long narrow jaws filled with teeth, broad tail flukes (45cm), with a dorsal fisn (15cm tall) and pectoral fins (30cm). Colours may be brown, grey, black above and paler beneath. Some may be whitish, speckled or freckled. They are sometimes also called Pink dolphins.
 
 **What does it eat?**

@@ -28,9 +28,7 @@ coverimg: https://images.naturehungry.sg/vertebrates/mammals/brachyotis/030917sb
 links_references: '### Links
 
 
-  - [Lesser Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Lesser Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [*Cynopterus brachyotis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cynopterus%20brachyotis.html)
 
@@ -74,8 +72,6 @@ zone:
 This small bat with a dog-like face is among our most commonly seen bats. According to Baker, it is widespread and common even in urban areas. According to Nowak, they are found in forests and open country.
 
 ## Features
-
-****
 Forearm length about 6.5cm. It has white wing bones and white ear edges. A small bat with a long muzzle without an elaborate 'nose leaf'. Instead, it has prominent tubular nostrils. Together with large eyes, it has a dog-like face. It is sometimes called the Lesser Dog-faced fruit bat and Lesser Short-nosed fruit bat. Generally brown, the male has a reddish collar while the female has a yellowish collar.
 
 Several bats (6-12) may roost together. Sometimes under

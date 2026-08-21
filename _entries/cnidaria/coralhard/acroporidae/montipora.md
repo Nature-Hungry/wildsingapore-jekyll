@@ -129,8 +129,6 @@ These corals are often seen on many of our Southern shores. As a group, various
 species are found from deep water to clear reefs as well as lagoons with murky waters. Some species are relatively fast growing.
 
 ## Features
-
-****
 Colonies may be plate-like, branching, encrusting to somewhat spherical. Sometimes, the same species may have different growth forms, even one colony may have different shapes. In branching forms, the branch tips are usually white and smooth, lacking polyps. In plate-like forms, the edges usually paler, smooth and lacking polyps.
 
 Corallites and polyps are tiny (0.2-0.5cm or smaller). Polyps look like tiny sea anemones, with short body column and short tentacles. When expanded, the tiny polyps of some species give a fuzzy appearance. Thus, they are sometimes called velvet corals. But in other species, the polyps are so tiny that the colony appears smooth and stony. The polyps are usually only extended at night.

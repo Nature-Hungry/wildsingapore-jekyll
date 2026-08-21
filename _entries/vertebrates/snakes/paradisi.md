@@ -30,9 +30,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Paradise Tree Snake](http://www.ecologyasia.com/verts/snakes/paradise_tree-snake)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Paradise Tree Snake](http://www.ecologyasia.com/verts/snakes/paradise_tree-snake.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Paradise Tree Snake](http://www.wildsingapore.per.sg/fauna/facts/snake_paradisetree)
 
@@ -98,8 +96,6 @@ This beautiful snake is often seen in our forests as well as coastal forests.
 According to Nick Baker, in Singapore, commonly encountered in a variety of habitats including mangrove, secondary forest, and parks and gardens. An adept climber, its favoured haunt is the crown of coconut palms.
 
 ## Features
-
-****
 To about 1.2m long. A long slender snake with a cylindrical body. The head is relatively flat and distinct from body with yellow spots in five bands. Colours upperside black 'netting' pattern on golden yellow or green, sometimes with a row of red flowery pattern along the centre. It is mildly venomous.
 
 **Soaring Serpents:**

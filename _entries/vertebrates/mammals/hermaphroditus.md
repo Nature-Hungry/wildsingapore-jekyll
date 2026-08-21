@@ -33,9 +33,7 @@ links_references: '### Links
 
   on the IUCN Red List website..
 
-  - [Common Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Common Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Common Palm Civet](http://www.wildsingapore.per.sg/discovery/factsheet/civetpalm)
 
@@ -108,8 +106,6 @@ This cute little 'bandit' of a beast is sometimes seen at dusk or at night. But 
 According to Baker, in Singapore, it is widespread and common even in urban areas where it lives in the roof spaces of buildings and forages in gardens. They travel between houses via telephone wires, poles and trees. It is also found in forest, scrubland, parks and mangroves. It is more active at night and tends to stay in the trees and high places (arboreal).
 
 ## Features
-
-****
 Head and body to 59cm, tail to 53cm. Long sleek body with short limbs and a long tail. It has a long muzzle and small ears. Body dark greyish brown with three fine, broken black stripes along the back and black spots on the sides. It has a black 'mask' across a pale face and black ears and paws. The tail is black with a white tip.
 
 **What does it eat?**

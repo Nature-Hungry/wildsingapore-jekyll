@@ -61,13 +61,9 @@ links_references: '### Links
 
   .
 
-  - [Smooth Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter)
+  - [Smooth Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
-
-  - [Ring Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water)
-
-  on Nick Baker''s EcologyAsia website
+  - [Ring Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water.htm) on Nick Baker''s EcologyAsia website
 
   - From
 
@@ -144,8 +140,6 @@ According to Baker, in Singapore, they are also reported from the Western Catchm
 *Lutra perspicillata.*
 Acccording to Sungei Buloh Wetland Reserve, The first record of the Smooth-coated otter was of a male, collected in 1938 from Lazarus Island. The second otter sighting was recorded at Sungei Buloh in 1990. According to Davison, the local population may not be strictly resident as they travel easily between Johor and Singapore across the Johor Straits.
 ## Features
-
-****
 Head and body to 75cm, tail to 45cm. Long body and a long tail, covered in short sleek fur. It has short limbs with webbed 'fingers' and prominent claws. The upperparts are greyish brown and the underside is buffy.
 
 Smooth-coated otters are generally social and live in pairs or family groups of parents and their young. They are active both during the day and at night.

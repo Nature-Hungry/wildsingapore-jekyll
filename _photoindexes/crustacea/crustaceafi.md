@@ -1,33 +1,33 @@
 ---
 title: Photo index of crustaceans on Singapore shores
 child_pages:
-- label: "<a href=\"shrimpfi.htm\">shrimps \n            and shrimp-like</a><br/>\n\
+- label: "<a href=\"/photoindexes/crustacea/shrimp\">shrimps \n            and shrimp-like</a><br/>\n\
     \            prawns and lobsters"
   images:
   - url: othercrust/shrimp/redband/051105sisg2991m.jpg
   - url: othercrust/shrimp/brevicarpalis/040411hntd0083m.jpg
   - url: othercrust/stomatopoda/spearer/020328cjd7903m.jpg
   - url: othercrust/lobster/glypturus/040521sntbd0067m.jpg
-- label: "<a href=\"crabfi.htm\">crabs \n            and crab-like</a><br/>\n"
+- label: "<a href=\"/photoindexes/crustacea/crab\">crabs \n            and crab-like</a><br/>\n"
   images:
   - url: crab/ocypodoidea/dotilla/041127cjd8656m.jpg
   - url: crab/portunidae/spinimana/031224sisd0115m.jpg
   - url: crab/matutidae/planipes/050511cftd3257m.jpg
   - url: crab/parthenopidae/common/050511cftg6313m.jpg
-- label: "<a href=\"anomurafi.htm\">hermit \n            crabs</a><br/>\n        \
+- label: "<a href=\"/photoindexes/crustacea/hermit\">hermit \n            crabs</a><br/>\n        \
     \    (crab-like animals <br/>\n            living in shells)"
   images:
   - url: othercrust/anomura/hermit/coenobita/040523sjiad0014m.jpg
   - url: othercrust/anomura/hermit/lavender/041019lbdd7676m.jpg
   - url: othercrust/anomura/hermit/banded/050113sntg2834m.jpg
   - url: othercrust/anomura/hermit/orangespot/030617skdd0093m.jpg
-- label: <a href="cirripediafi.htm">barnacles</a>
+- label: <a href="/photoindexes/crustacea/barnacles">barnacles</a>
   images:
   - url: othercrust/ciriipedia/balanus/050510tusg6179m.jpg
   - url: othercrust/ciriipedia/euraphia/050413labg4662m.jpg
   - url: othercrust/ciriipedia/tetraclita/050427tmd2868m.jpg
   - url: othercrust/ciriipedia/lepas/040703sisd1824m.jpg
-- label: "<a href=\"othercrustfi.htm\">other \n            crustaceans</a><br/>\n"
+- label: "<a href=\"/photoindexes/crustacea/other\">other \n            crustaceans</a><br/>\n"
   images:
   - url: othercrust/isopoda/ligia/041018sntd7570m.jpg
   - url: othercrust/amphipoda/amphipoda/050508kusg5881ma.jpg

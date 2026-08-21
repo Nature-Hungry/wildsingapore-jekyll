@@ -35,9 +35,7 @@ links_references: '### Links
   by Ramakrishnan Kolandavelu in Wetlands, a publication of the Sungei Buloh Wetland
   Reserve, Vol 13 No 3, 2006.
 
-  - [Estuarine crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Estuarine crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [*Crocodylus porosus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Crocodylus%20porosus.html)
 

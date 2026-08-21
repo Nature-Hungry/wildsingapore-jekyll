@@ -35,7 +35,8 @@ document.body.addEventListener('click', function(event) {
     // 5. Redirect after transition finishes
     console.log("Redirecting to ", link.getAttribute("external"))
     setTimeout(() => {
-      window.location.href = targetUrl;
+      window.open(targetUrl, "_blank")
+      overlay.classList.remove('show')
     }, 1500);
   }
 });

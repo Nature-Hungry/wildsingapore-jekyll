@@ -34,9 +34,7 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Puff-faced Water Snake](http://www.ecologyasia.com/verts/snakes/puff-faced_water-snake)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Puff-faced Water Snake](http://www.ecologyasia.com/verts/snakes/puff-faced_water-snake.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Puff-faced Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakepufffaced)
 
@@ -102,8 +100,6 @@ According to Baker, in Singapore, they are common in inland water bodies in rura
 Elsewhere, they are found in rivers, swamps, canals and ponds. They are considered a pest on freshwater fish farms.
 
 ## Features
-
-****
 To about 1.2m long. It has a brown stripe through the eye that forms a kind of W-shaped dark mask around the head, and dark-edged brown bands on a paler brown body. The bands tend to be faded in adults which may be a uniform grey-brown, while juveniles have black bands on red, orange or white. Mildly venomous, it is a gentle snake and will not bite if it is left alone.
 
 **What does it eat?**

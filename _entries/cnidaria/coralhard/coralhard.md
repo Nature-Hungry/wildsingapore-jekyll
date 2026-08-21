@@ -3,53 +3,90 @@ title: "Hard corals "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: entry
+coverimg: https://images.naturehungry.sg/cnidaria/coralhard/others/120607kusd4812m6l.jpg
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
+permalink: /entries/Cnidaria/Anthozoa/Hexacorallia/Scleractinia
+authors:
+- '[Ria Tan](https://www.facebook.com/wildsingapore/)'
+zone:
+- intertidal
+- marine
+trivia_title: if you learn only 3 things about them ...  
+trivia_items: 
+- Although a hard coral may look like a dead rock, it is a living animal. Don't step on it.  
+- Hard corals are a colony of many tiny animals. Thus they grow slowly. Don't break them!  
+- Hard corals are rainforests of the sea. Their presence allows other marine life to find shelter and food in the area.
+galleries:
+ gallery1:
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/others/120607kusd4812m6l.jpg  
+   caption: Kusu Island has living reefs just minutes from the city centre <br> *Kusu Island, Jun 12*
+   col_span: 2
+ - url: https://images.naturehungry.sg/concepts/pix/070703sntrg0998m3.jpg
+   caption: Reclamation of a living reef at Sentosa for the Integrated Resort. *Sentosa, Jul 07*
+ gallery2:
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/040507rlhad0077m3c.jpg 
+   caption: Each polyp creates a tiny skeleton [Galaxy coral](euphylliidae/galaxea.htm)<br> *Raffles Lighthouse Jul 05*  
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg
+   caption: '[Pore corals](poritidae/porites.htm) have tiny corallites.<br>*Sisters Island, Jan 06*'
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/080608cyrd5460m3.jpg
+   caption: '[Flowery disk corals](dendrophylliidae/flowery.htm) have large corallites.<br>*Cyrene Reef, Jun 08*'
+ gallery3:
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+   caption: '[Flowery disk corals](dendrophylliidae/flowery.htm) have large polyps with short body columns.<br>*Sentosa, Jun 07*'
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
+   caption: With long polyps that hide the hard skeleton, the [Anemone coral](poritidae/gonbig.htm) is indeed often mistaken for a sea anemone.<br>*Sisters Island, Dec 05*
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/070219sisg7733m3.jpg
+   caption: The [mushroom hard coral](fungiidae/circular.htm) is a giant solitary polyp!<br>*Sisters Island, Feb 07*
+ gallery4:
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/ring/ringsmall/040606kusd0279m3.jpg
+   caption: Some corals flouresce at sunset.<br>*Kusu Island, Jun 04*
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/others/101224sisd4112m3.jpg
+   caption: Some produce slime to clean themselves.<br>*Sisters Island, Dec 10*
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/050917smkg2405m3b.jpg
+   caption: Long sweeper tentacles produced by Galaxy coral.<br>*Pulau Semakau, Sep 05*
+ gallery5:
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/others/1-s2.0-S0025326X15005251-gr1.gif
+   caption: 'A stylised depiction of the reproductive cycle of Acropora. From "Effects of sediments on the reproductive cycle of corals R. Jonesa, G.F. Ricardoa, A.P. Negria, 2015 on [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0025326X15005251)"'
+ gallery6:
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/others/051103sisd6310m3.jpg
+   caption: Bites of fishes on a hard coral.<br>*Sisters Island, Nov 05*
+ - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/comes/120820sisd0689m3.jpg
+   caption: '[Seahorses](../../vertebrates/fish/syngnathidae/comes.htm) sometimes shelter among branching corals<br>* Sisters Island, Dec 03*'
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/../../vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg
+   caption: The [Acropora goby](../../vertebrates/fish/gobiidae/histrio.htm) lives only in [Acropora corals](acroporidae/acropora.htm).<br>*Sisters Island, Dec 05*
+ gallery7:
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/others/051103sisd6298m3.jpg
+   caption: Coral bleaching<br>*Sisters Island, Nov 05*
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3.jpg
+   caption: Diseased coral after bleaching.<br>*Sisters Island, Ju 10*
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100531biod4571m3.jpg
+   caption: Some produce mucus to protect themselves.<br>*Pulau Biola, May 10*
+ gallery8:
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/others/160707kuso7070100.jpg
+   caption: Mass coral bleaching in 2016.<br>*Kusu Island, Jul 16*
+   col_span: 2
+ - url: https://images.naturehungry.sg/cnidaria/coralhard/others/190220smk.jpg
+   caption: Colourful bleaching.<br>*Pulau Semakau, Feb 19*
+
+
 ---
-[![](../../../wildfactsheet3.gif)](../../index.html)
 
-[wildsingapore
-homepage](https://images.naturehungry.sg/)  
-  
-[wildfactsheets homepage](../../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](../fngcoralhard.htm)
 
-[all animals](../../animals.htm)
-| [all plants](../../plants.htm)
-| [concepts](../../concepts/index.html)
-| [glossary](../../glossary/index.html)
-| [search](../../search.htm)
 
-hard corals [text
-index](../coralhardindex.htm) | [photo index](../cnidariafi1.htm)
-[ecosystems](../../concepts/ecosystems.htm)
-| [rocky](../../concepts/rocky.htm) | [sandy](../../concepts/sandy.htm)
-| [seagrass](../../plants/seagrass/seagrass.htm) | [coral
-rubble](../../concepts/rubble.htm) | coral reef
-Phylum [Cnidaria](../cnidaria.htm)
-> Class [Anthozoa](../anthozoa.htm) > Subclass Zoantharia/Hexacorallia
-**Hard
-corals and coral reefs  
-Order Scleractinia** *updated Nov 2019*
-
----
-
-if
-you learn only 3 things about them ...  
-![](../../photos/bullet.gif) Although a hard coral may look like a dead rock, it is
-a living animal. Don't step on it.  
-![](../../photos/bullet.gif) Hard corals are a colony of many tiny animals. Thus they
-grow slowly. Don't break them!  
-![](../../photos/bullet.gif)Hard
-corals are rainforests of the sea. Their presence allows
-other marine life to find shelter and food in the area.
- **Where seen?** Hard corals reefs are commonly seen on many of our Southern shores.
+## Where seen?
+Hard corals reefs are commonly seen on many of our Southern shores.
 Some are also found on our Northern shores. At low tide, they are
 often mistaken for non-living rocks or dead corals. Many of them may
 actually be alive! Please don't step on them.  
   
-**Does Singapore have any reefs left?** Much of our reefs have been affected by land reclamation and coastal
+### Does Singapore have any reefs left?
+Much of our reefs have been affected by land reclamation and coastal
 development. These works have not only reduced live coral coverage
 by about 65% since the 1980's, but also resulted in murky waters which
 reduced sunlight penetration from 10m in the 1960's to about 2m today.   
@@ -64,18 +101,16 @@ the water clears up and some of our reefs are revealed. Ordinary people
 can view our rich shores without having to swim or dive. Some of Singapore's
 best reefs are just half an hour away from the city centre!   
   
-**Where can we explore coral reefs in Singapore?** [Labrador](https://images.naturehungry.sg/places/lp.htm) has the last large mainland reef. There are also reefs at [Sentosa](https://images.naturehungry.sg/places/sentosa.htm), [St. John's Island](https://images.naturehungry.sg/places/sji.htm), [Kusu Island](https://images.naturehungry.sg/places/kusu.htm) and [Sisters
-Islands](https://images.naturehungry.sg/places/sisters.htm) and [Pulau
-Semakau](https://images.naturehungry.sg/places/semakau.htm).
-![](others/120607kusd4812m6l.jpg)  
-Kusu Island has living reefs  
-just minutes from the city centre  
-*Kusu Island, Jun 12*
-*![](../../concepts/pix/070703sntrg0998m3.jpg)*Reclamation
-of a living reef at Sentosa  
-for the Integrated Resort. *Sentosa, Jul 07*
-**What are hard corals?** Hard
-corals produce a hard skeleton and belong to Order Sclerectinia,
+### Where can we explore coral reefs in Singapore?
+[Labrador](/places/lp.htm) has the last large mainland reef. There are also reefs at [Sentosa](/places/sentosa.htm), [St. John's Island](/places/sji.htm), [Kusu Island](/places/kusu.htm) and [Sisters
+Islands](/places/sisters.htm) and [Pulau
+Semakau](/places/semakau.htm).
+
+{% include img-grid.html items=page.galleries.gallery1 %}
+
+
+## What are hard corals?
+Hard corals produce a hard skeleton and belong to Order Sclerectinia,
 'Sclero' means 'hard'. This
 is part of [Class Anthozoa](../anthozoa.htm) that includes [soft corals](../coralsoft/coralsoft.htm) and [sea
 anemones](../actiniaria/actiniaria.htm). All of these belong to [Phylum
@@ -87,9 +122,8 @@ Each hard coral is a colony of tiny animals called polyps. Each polyp
 produces a hard skeleton. What you see as a hard coral is the joined
 up skeletons of countless tiny polyps.  
   
-**More about the polyps:** Each
-polyp is very similar in structure to [sea
-anemones](../actiniaria/actiniaria.htm). The
+<h3> More about the polyps </h3>
+Each polyp is very similar in structure to [sea anemones](../actiniaria/actiniaria.htm). The
 polyp comprises a tube-like body column. One end of the tube has a
 disk with the mouth in the centre (and is thus called the oral disk),
 usually ringed with 6 (or multiple of 6) tentacles that are smooth
@@ -104,17 +138,10 @@ are retracted.
   
 Most hard corals have tiny polyps 1-3mm in diameter. But some hard
 corals such as [mushroom corals](fungiidae/fungiidae.htm) are enormous solitary polyps.
-![](euphylliidae/galaxea/040507rlhad0077m3c.jpg)  
-Each polyp creates a tiny skeleton  
-[Galaxy coral](euphylliidae/galaxea.htm)  
-*Raffles Lighthouse, Jul 05*  
-  
-![](poritidae/porboulder/060102sisg3685m3a.jpg)  
-[Pore corals](poritidae/porites.htm) have tiny corallites.  
-*Sisters Island, Jan 06*
-*![](dendrophylliidae/flowery/080608cyrd5460m3.jpg)*[Flowery disk corals](dendrophylliidae/flowery.htm) have large corallites. *Cyrene Reef, Jun 08*
-**More about the skeleton:**Each
-tiny coral polyp produces a tiny external skeleton made up of calcium
+{% include img-grid.html items=page.galleries.gallery2 %}
+
+<h3> More about the skeleton</h3>
+Each tiny coral polyp produces a tiny external skeleton made up of calcium
 carbonate. Called a corallite, this skeleton protects them and provides
 support. Most
 of the polyp's body column is usually hidden in the corallite. The
@@ -131,20 +158,11 @@ of these tiny polyps, living ones growing over the skeletons of dead
 ones. It is estimated that one square metre of living hard corals
 produce 10kg of new calcium carbonate a year! Most hard corals grow attached to a hard surface. But mushroom
 corals lie unattached as adults.
-*![](dendrophylliidae/flowery/070615sntd2188m3.jpg)*[Flowery
-disk corals](dendrophylliidae/flowery.htm) have large polyps   
-with short body columns. *Sentosa, Jun 07*
-![](poritidae/gonbig/051204sisd6415m3.jpg)  
-With long polyps that hide the hard skeleton,
-the [Anemone coral](poritidae/gonbig.htm) is indeed often
-mistaken
-for a sea anemone.  
-*Sisters Island, Dec 05*
-![](fungiidae/circular/070219sisg7733m3.jpg)  
-The [mushroom
-hard coral](fungiidae/circular.htm)   
-is a giant solitary polyp! *Sisters Island, Feb 07*
-**How does the colony grow bigger?** New calcium carbonate is constantly secreted by living tissues. But
+
+{% include img-grid.html items=page.galleries.gallery3 %}
+
+<h3> How does the colony grow bigger?</h3>
+New calcium carbonate is constantly secreted by living tissues. But
 each polyp generally has a fixed adult size. Thus with time, the corallite
 becomes deeper. Periodically, the polyp lifts its base and builds
 a new floor, sealing off a little space below. As the colony grows,
@@ -156,7 +174,8 @@ The buds may arise from the oral disk, column or base of the 'parent'
 polyp. Or new polyps may arise from the common tissue in between existing
 polyps.  
   
-**What do they eat?** All hard corals
+## What do they eat?
+All hard corals
 are carnivores. Those with small polyps feed on plankton or collect
 finer particles using mucus films and strands. Some hard coral polyps
 lack tentacles (e.g., members of the [Family
@@ -196,12 +215,10 @@ against other encrusting animals that might try to settle near them
 or grow over them. Some can produce filaments or special long tentacles
 (called sweeper tentacles) to clear the surrounding area of pesky
 intruders.
-![](faviidae/ring/ringsmall/040606kusd0279m3.jpg)  
-Some corals flouresce
-at sunset. *Kusu Island, Jun 04*
-*![](others/101224sisd4112m3.jpg)*Some
-produce slime to clean themselves. *Sisters Island, Dec 10*
-*![](euphylliidae/galaxea/050917smkg2405m3b.jpg)*Long sweeper tentacles produced by Galaxy coral. *Pulau Semakau, Sep 05* 
+
+{% include img-grid.html items=page.galleries.gallery4 %}
+
+
 **Coral Babies:** Hard corals can
 reproduce asexually by budding. A piece of living hard coral that
 breaks off may continue to grow into a separate coral.   
@@ -216,8 +233,9 @@ upward rising 'snow' as eggs and sperm drift
 to the water surface where fertilization occurs. After
 a few days, the embryos will have developed into free-swimming larvae that eventually settle down on a suitable surface.  
   
-![](others/1-s2.0-S0025326X15005251-gr1.gif)  
-A stylised depiction of the reproductive cycle of Acropora. From "Effects of sediments on the reproductive cycle of corals R. Jonesa, G.F. Ricardoa, A.P. Negria, 2015 on [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0025326X15005251)"   
+{% include img-grid.html items=page.galleries.gallery5 %}
+
+
   
 **Does mass spawning
 happen in Singapore?** Yes it does! More on the [wild shores of singapore blog](http://wildshores.blogspot.sg/search/label/coral spawning).  
@@ -230,12 +248,14 @@ the water for plankton and edible bits. As well as many other challenges
 that we are still learning about. Excessive sedimentation, for example,
 can interfere with fertilisation and other aspects of coral larvae
 survival and successful settlement.
-**Singapore's
-corals go wild! Mass spawning in 2010**  
 
+**Singapore's corals go wild! Mass spawning in 2010**  
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/10790585?h=d3b100739a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 [Synchronous Mass Coral Spawning 2010, Singapore](https://vimeo.com/10790585) from [Karenne Tun](https://vimeo.com/user3549719) on [Vimeo](https://vimeo.com).
 
-**Role in the habitat:** The partnership
+## Role in the habitat
+The partnership
 between hard corals and zooxanthellae
 allows hard corals to thrive in clear nutrient-poor tropical waters.
 Like trees in the rainforest, hard corals provide the basis of life
@@ -243,7 +263,8 @@ on the reef. Their hard structures provide shelter for small animals,
 a nursery for ocean-going creatures and protect the shoreline from
 strong waves, storms and erosion.   
   
-**Human uses:** Living coral reefs
+## Human uses
+Living coral reefs
 are worth far more to humans when they left alone. Reefs bring in
 tourists which generate business beyond the shore (e.g., hotels, restaurants
 and travel-related industries). Reefs are also homes to a bewildering
@@ -257,20 +278,15 @@ by blood vessels.
 Humans often take for granted the usefulness of coral reefs as nurseries
 for important seafood and in protecting shorelines. We do not realise
 these services that they provide, until we have lost the reefs.
-*![](others/051103sisd6310m3.jpg)*Bites
-of fishes on a hard coral. *Sisters Island, Nov 05*
 
-*![](../../vertebrates/fish/syngnathidae/comes/031224sised0083m3.jpg)*[Seahorses](../../vertebrates/fish/syngnathidae/comes.htm) sometimes shelter   
-among branching corals*.  
-Sisters Island, Dec 03*
+{% include img-grid.html items=page.galleries.gallery6 %}
 
-*![](../../vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg)*The [Acropora goby](../../vertebrates/fish/gobiidae/histrio.htm) lives   
-only in [Acropora corals](acroporidae/acropora.htm). *Sisters Island, Dec 05*
 
-**Status and threats:** Many of our hard corals are listed among the threatened animals
-of Singapore (see [cnidarians in general](../cnidaria.htm) for a list of these threatened corals).   
+## Status and threats
+Many of our hard corals are listed among the threatened animals
+of Singapore (see [cnidarians in general](/entries/Cnidaria) for a list of these threatened corals).   
   
-Human destroy reefs in many ways.   
+**Human destroy reefs in many ways.**   
   
 Destructive methods are used to capture live reef animals for the
 aquarium trade or 'live' fish trade for restaurants. Cyanide is sometimes
@@ -299,8 +315,9 @@ affect the health of coral reefs.
 Like other creatures of our shores, trampling by careless visitors
 and over-collection by hobbyists also have an impact on local populations.  
   
-**What
-is coral bleaching?** Zooxanthellae
+**What is coral bleaching?** 
+
+Zooxanthellae
 contribute to the colour of coral polyps. When
 coral are stressed, there may be mass loss of
 zooxanthellae in a hard coral colony. As a result, the underlying
@@ -323,24 +340,19 @@ believed to cause bleaching include: temperature fluctuations (too
 high or too low), excessive exposure to ultraviolet light, excessive
 sedimentation in the water, changes in salinity (such as due to flooding),
 pollution, oil spills and disease.
-*![](others/051103sisd6298m3.jpg)*Coral
-bleaching *Sisters Island, Nov 05*
-*![](poritidae/porboulder/100710sisd8003m3.jpg)*Diseased
-coral after bleaching. *Sisters Island, Ju 10*
-*![](poritidae/porboulder/100531biod4571m3.jpg)*Some
-produce mucus to protect themselves. *Pulau Biola, May 10*
+{% include img-grid.html items=page.galleries.gallery7 %}
+
 **Mass coral bleaching:**  It is generally believed that bleaching
 is related to unusual prolonged temperature increases in the seawater.
 Hard corals harbouring zooxanthellae live close to the upper limit
 of temperature tolerance. Thus a temperature increase of even 1-2
 degrees centigrade can result in mass bleaching among a large number of corals. It is believed that global
 warming will lead to more frequent occurrences of mass coral bleaching, where most of the hard corals on a shore suffer bleaching.
-*![](others/160707kuso7070100.jpg)*Mass coral bleaching in 2016. *Kusu Island, Jul 16*
-![](others/190220smk.jpg)  
-Colourful bleaching. *Pulau Semakau, Feb 19*
+{% include img-grid.html items=page.galleries.gallery8 %}
+
+
 **Colourful bleaching suggest better recovery:**  During mass coral bleaching, when many corals turn white, some corals may have flourescent bright colours instead. [A study found](https://www.sciencealert.com/some-bleached-corals-glow-in-neon-and-this-might-be-good-news) that the colourful pigments protect the coral from light damage, forming a kind of sunscreen layer that allows algae to return. As the recovering algae start absorbing light for photosynthesis again, light levels inside the coral drop, and so the coral stops producing as much of these colourful pigments. This suggest a better chance for recovery when corals bleach colourful instead of dead pure white.
 
----
 
 ---
 
@@ -459,14 +471,4 @@ cnidarians](../cnidaria.htm)
   Singapore Red Data Book: Threatened Plants and Animals of Singapore*.
   The Nature Society (Singapore), Singapore. 343 pp.
 
-[links](../../links.htm)
-| [references](../../references.htm)
-| [about](../../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
 
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

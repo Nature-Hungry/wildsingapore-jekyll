@@ -27,9 +27,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Crab-eating frog](http://www.ecologyasia.com/verts/lizards/green-crested_lizard)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Crab-eating frog](http://www.ecologyasia.com/verts/lizards/green-crested_lizard.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [*Fejervarya cancrivora*](https://singapore.biodiversity.online/taxo4254/mainSpace/Fejervarya%20cancrivora.html)
 

@@ -59,9 +59,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Dog-faced Water Snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Dog-faced Water Snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Dog-faced Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakedogfaced)
 
@@ -144,8 +142,6 @@ Although quite commonly seen in our mangroves, this well camouflaged snake is sh
 .
 
 ## Features
-
-****
 To about 1m long. Body cylindrical with a 'neck' and a broad head. Grey, brown or olive, it may have dark indistinct patterns. A dark streak passes through the eye to the neck. The snake is adapted for slow-moving, shallow and murky waters. It can swim well. On soft mud, it moves quickly by side-winding. Although it very much at home in the water, it still needs to breathe air. Its eyes and nostrils are at the top of the head so it can peep out of the water and breathe while most of its body remains hidden in the murky water. The snake is mildly venomous but is usually docile.
 
 **Why 'dog-faced'?**

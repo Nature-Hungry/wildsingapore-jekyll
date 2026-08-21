@@ -99,8 +99,6 @@ zone:
 This branching hard coral with elegant tapered branches is sometimes seen on some of our Southern shores.
 
 ## Features
-
-****
 Colonies 15-20cm. Neat, tapering branches that do not interlock, forming a neat elegant bush. In some the neat branches emerge from a flat base. The axial corallite at the tip of the branch is prominently large and cylindrical. The radial corallites around the axial corallite are rounded or tubular, and are regularly spaced but not closely packed together. When extended, the long tapering tentacles give the colony a 'furry' look. Colours generally brown with shades of blue, green.
 
 There are probably several different species on this page. It's hard to distinguish them without close examination of small features and they are grouped by large external features for convenience of display.

@@ -379,7 +379,9 @@ function renderResults() {
 
     const paginated = results.slice(start, end)
     if (paginated.length === 0) {
-        resultsDiv.innerHTML = '<p>No results found</p>'
+        resultsDiv.innerHTML = '<p>No results found.</p>'
+        resultsCount.textContent = results.length + " results"
+
         return
     }
 

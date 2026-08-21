@@ -31,9 +31,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Crab-eating Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Crab-eating Water Snake](http://www.ecologyasia.com/verts/snakes/crab-eating_water-snake.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [*Fordonia leucobalia*](http://www.iucnredlist.org/details/176694/0)
 
@@ -97,8 +95,6 @@ Rarely seen, usually in mangroves such as Pasir Ris and Sungei Buloh, often near
 . This snake is nocturnal and is seldom seen during the day.
 
 ## Features
-
-****
 To about 90cm long. The head is rounded and not distinct from the body, i.e., it has no 'neck', Cylindrical body with smooth scales and a relatively short tail. Colour purplish brown above fading to white underneath. Mildly venomous, it is a gentle snake and will not bite if it is left alone.
 
 **What does it eat?**

@@ -74,8 +74,6 @@ zone:
 This hard coral with branches that have a rather 'scaly' texture is sometimes seen on some of our Southern shores.
 
 ## Features
-
-****
 Colonies 10-15cm. Cylindrical branches with blunt tips that do not interlock, forming a bush-like shape. In some the neat branches emerge from a flat base. The axial corallite at the tip of the branch is large and circular with depression in the centre so it resembles a round bead. The radial corallites surround the axial corallite in a rosette. The radial corallites have rather sharp edges, and are closely packed together so that the entire branche resembles a pine cone. Colour generally brown.
 
 There are probably several different species on this page. It's hard to distinguish them without close examination of small features and they are grouped by large external features for convenience of display.

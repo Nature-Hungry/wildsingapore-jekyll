@@ -36,9 +36,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Plantain Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Plantain Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Plantain Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain)
 
@@ -85,8 +83,6 @@ zone:
 This energetic and sometimes noisy squirrel is sometimes seen in trees near our shores. It is common in our forests, parks and even urban areas. It is active during the day and found in trees, only seldom coming down to the ground.
 
 ## Features
-
-****
 Head and body to 22cm, tail to 21cm. Body and tail olive-brown, underside of the belly reddish brown, with a black and white stripe on the sides of the body and whitish around the eyes.
 
 This mammal lives like a bird. It lives in trees and effortlessly 'flies' from branch to branch in death-defying leaps. Its chirpping calls are often mistaken for bird calls. It even creates a spherical nest of twigs and leaves to raise its young.

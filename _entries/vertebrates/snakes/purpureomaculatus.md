@@ -31,9 +31,7 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Shore Pit Viper](http://www.ecologyasia.com/verts/snakes/shore_pit_viper)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Shore Pit Viper](http://www.ecologyasia.com/verts/snakes/shore_pit_viper.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Mangrove snakes: Shore Pit Viper](http://mangrove.nus.edu.sg/guidebooks/text/2112)
 
@@ -110,8 +108,6 @@ This shy snake looks just like another branch in a mangrove tree where it usuall
 *Trimeresurus purpureomaculatus.*
 
 ## Features
-
-****
 To about 1m long. A small snake with the typical broad triangular head of a viper and large red eyes on a rather angry looking face. Those seen in our mangroves are uniformly dark purplish brown, sometimes with a fine white stripe. Elsewhere, they may be speckled. Like other vipers, it has a prehensile tail and can grip a branch to hang on while it whips out the rest of its body for the lethal bite. This venomous snake can strike far and rapidly and can be aggressive. So please do leave it alone. When distressed, it has been observed to shake its tail vigorously against the vegetation, creating a rattling sound.
 
 **What does it eat?**

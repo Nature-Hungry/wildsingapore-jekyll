@@ -139,8 +139,6 @@ habitats:
 Flowery soft corals are commonly seen on many of our shores. They are usually attached to hard surfaces including boulders, jetty pilings and coral rubble.
 
 ## Features
-
-****
 Colonies are usually 15- 20cm in diameter but may be larger. When submerged, these soft corals look like bushes. The common tissue is generally rubbery, stiff and rough to the touch. A thick 'main trunk' attaches to a hard surface on one end, with many small branches on the other end.
 
 Only one kind of polyp (autozooids) usually clustered at the tips of the colony's 'branches'. Polyps are tiny (0.5cm or smaller) and have eight short tentacles with 1 row of fine branches. The polyps can be closed but cannot be retracted. The polyps may be white, beige or other colours such as purple.

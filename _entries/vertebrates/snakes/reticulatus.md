@@ -36,9 +36,7 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Reticulated python](http://www.ecologyasia.com/verts/snakes/reticulated_python)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Reticulated python](http://www.ecologyasia.com/verts/snakes/reticulated_python.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Reticulated python](http://www.wildsingapore.per.sg/discovery/factsheet/snakepython)
 
@@ -89,6 +87,7 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+- freshwater
 habitats:
 - mangrove
 ---
@@ -105,8 +104,6 @@ its scientific name is
 .
 
 ## Features
-
-****
 To about 10m long, but those we might see are usually much shorter and rarely exceed 5m. Among the longest snakes in the world, this powerfully muscled snake is non-venomous and kills by constricting its victims in its coils. Large adults can be dangerous to humans. Even though it is non-venomous, it can give a nasty lacerating bite with its powerful jaws filled with sharp long fangs. Don't disturb a python. It has a pretty net-like pattern ('reticulatus' means 'net-like') and scales that are iridescent in sunlight.
 
 **What does it eat?**

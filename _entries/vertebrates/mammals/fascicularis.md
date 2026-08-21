@@ -37,9 +37,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Long-tailed Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Long-tailed Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Long-tailed Macaque](http://www.wildsingapore.per.sg/discovery/factsheet/macaque)
 
@@ -93,8 +91,6 @@ habitats:
 These charismatic furry creatures are commonly seen in many of our wild shores. Native to Singapore, their original habitat was mangroves. In fact, they are sometimes also called Crab-eating macaques. They can be seen at Sungei Buloh Wetland Reserve, Sentosa, the Sisters Islands, Pulau Ubin and Pulau Tekong. They are also found in the Western and Central Catchment areas as well as at Bukit Batok Nature Park. Individuals may spill over to nearby parks and even urban areas. They are usually found in trees but may also forage on the ground.
 
 ## Features
-
-****
 Head and body to 45cm, tail to 56cm. Long limbed and long tailed indeed, it has soft silky fur olive brown above and paler below. The face is greyish with prominent white eyelids.
 
 These macaques are social and live in large groups of about 30 individuals including 2-4 adults and 6-11 females and their young.

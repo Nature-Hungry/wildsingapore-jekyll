@@ -213,8 +213,6 @@ and
 , these five genera make up the vast majority of octocorals found throughout the world.
 
 ## Features
-
-****
 A colony is made up of tiny polyps embedded in a common leathery tissue. Members of the family may have two kinds of polyps.
 
 Autozooids have long stalks with eight tiny branched tentacles and emerge from the common leathery tissue.

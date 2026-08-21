@@ -41,9 +41,7 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Banded Krait](http://www.ecologyasia.com/verts/snakes/banded_krait)
-
-  on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Banded Krait](http://www.ecologyasia.com/verts/snakes/banded_krait.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [The Banded Krait that graced the launch of the Chek Jawa boardwalk](http://habitatnews.nus.edu.sg/index.php?entry=/marine/20070708-bungarus_fasciatus.txt)
 
@@ -126,8 +124,6 @@ Usually rarely seen, this beautiful snake was the highlight of the Chek Jawa boa
 swimming near mangroves on an offshore island. According to Baker, in Singapore it has also been recorded in Pulau Ubin, Pulau Tekong, Lim Chu Kang, Sungei Buloh and Khatib Bongsu. Widely distributed in Southeast Asia where it is mostly a coastal snake, but also found in peat swamps and also estates.
 
 ## Features
-
-****
 1.5-2m long. The body has a triangular cross-section. It has regular black and white bands of equal size. The head is mostly black and is somewhat distinct from the body (it has a 'neck'). The black patch on the head forms a V-shape with the first black band on the body. The tail is not flattened into a paddle shape although it is somewhat triangular like the rest of the body. A highly venomous snake with a toxin that can be fatal to humans with recorded fatalities. But is not an aggressive snake and it will not bite if it is left alone. When it is scared, it will hide its head under coils of its body. Although it has also been recorded as being active and dangerous at night. WARNING: more aggressive baby cobras (*Naja sumatrana*) have similar markings.
 
 **Sometimes confused with**

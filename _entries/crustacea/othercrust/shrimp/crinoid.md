@@ -13,6 +13,16 @@ species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Caridea
+superfamily: Palaemonoidea
 updated: Feb 2020
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
 galleries:

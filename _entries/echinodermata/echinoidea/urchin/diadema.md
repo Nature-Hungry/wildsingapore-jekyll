@@ -248,8 +248,6 @@ habitats:
 This large, very scary-looking sea urchin is among our most commonly encountered sea urchins in deeper waters. It is said to be found in large groups where there is a lot of dead coral. It is believed that these gather together in groups where there are insufficient hiding places from daytime predators. It is also sometimes encountered on the intertidal on our Northern and Southern shores, usually alone, wedged in coral rubble or near large boulders. On Cyrene Reef, they may also be found among seagrasses.
 
 ## Features
-
-****
 Body diameter 8-10cm. It has very long primary spines, up to 30cm long, with many shorter spines in between. The spines on the underside are much shorter. The urchin can rapidly point its long spines against any potential threat (which is quite a scary thing to observe). The spines may be all black, banded black-and-white or even all white.
 
 There is bulbous sac in the middle of the upperside. This is the anal cone through which wastes are discharged. There is an orange ring around this anal cone, sometimes the ring is pale. There are five bright white spots on the black body, with small bright blue dots forming V-shape lines from the white spots. The underside may be pale, dark or maroon or pink.

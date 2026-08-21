@@ -78,8 +78,6 @@ habitats:
 Little creeper snails without obvious markings are sometimes found in groups, on rocky and sandy areas near the mid-water mark. Sometimes near the high-water mark near shady sea walls. Commonly seen on our Southern shores.
 
 ## Features
-
-****
 1.5-2cm long. Shell conical with fine spirals of small bumps. Usually plain without patterns, in dark and dull tones. Operculum made out of a horn-like material, whorls not easily seen.
 
 Many species of creeper snails are plain. They are difficult to tell apart in the field. The creeper snails on this page may not all be of the same species.
