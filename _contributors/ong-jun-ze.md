@@ -8,3 +8,4 @@ cols: 1
 excerpt: Jun Ze is a software engineering student in the Singapore Institute of Technology. He is behind most of this website's development.
 ---
 
+Jun Ze is a software engineering student in the Singapore Institue of Technology. Without Jun Ze, this website would not even be possible at all.

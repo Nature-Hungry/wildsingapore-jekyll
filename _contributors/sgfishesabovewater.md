@@ -8,3 +8,4 @@ excerpt: Special thanks to sgfishesabovewater for allowing us to aggregate their
 link: https://sgfishesabovewater.blogspot.com/
 ---
 
+Special thanks to sgfishesabovewater for allowing us to aggregate their entries on nature hungry.
