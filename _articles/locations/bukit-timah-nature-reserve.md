@@ -1,6 +1,5 @@
 ---
 title: Bukit Timah Nature Reserve
-date: ''
 coverimg: ''
 description: About the Bukit Timah Nature Reserve
 keywords: bukit timah, lowland dipterocarp forest, primary forest, forest
