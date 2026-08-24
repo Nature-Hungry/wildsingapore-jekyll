@@ -1,8 +1,10 @@
 ---
-title: "Terumbu Pempang Laut "
+title: "Terumbu Pempang Laut"
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "terumbu, pempang, laut, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default
+summary: Central area sandy with some seagrasses, large rocky areas, rubbly edges sparsely reefy.
+coverimg: https://live.staticflickr.com/65535/55377132175_44f6241ae6_c.jpg
 ---
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 

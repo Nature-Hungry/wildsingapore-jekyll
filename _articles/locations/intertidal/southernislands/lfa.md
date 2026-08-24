@@ -1,8 +1,10 @@
 ---
-title: "The Life Firing Area islands and reefs "
+title: "The Life Firing Area islands and reefs"
+coverimg: https://live.staticflickr.com/4011/4250583581_89bbf49724_h.jpg
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "pulau, senang, sudong, pawai, berkas, salu, biola, terumbu, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default
+summary: The last untouched southern shores are found among the islands and submerged reefs that lie within the Life Firing Area. Habitats found here include coastal forest, mangroves, rocky shores, seagrass meadows, rubbly areas and good reefs.  
 ---
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 

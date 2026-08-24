@@ -1,9 +1,10 @@
 ---
-title: "Beting Bemban Besar "
+title: "Beting Bemban Besar"
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "beting, bemban, besar, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 date: 2026-07-10
 layout: post
+coverimg: https://live.staticflickr.com/65535/54842131448_e1505f2ab3_c.jpg
 ---
 
 [main index](index.html) to Singapore's Southern shores for the [southern expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/)

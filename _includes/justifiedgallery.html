@@ -1,0 +1,9 @@
+{% assign items = include.items %}
+
+<div class="justifiedgallery">
+{% for item in items %}
+<div class="justifiedgallery-item">
+        <img src="{{item.url}}" alt="">
+    </div>
+{% endfor %}
+</div>

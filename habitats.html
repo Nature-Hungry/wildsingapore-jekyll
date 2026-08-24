@@ -19,8 +19,10 @@ description: "Information about the various habitats in Singapore with an intera
 }
 .habitat-popup img{
     width:100%;
-    height:50px;
+    height:150px;
     margin-bottom:0.5rem;
+    object-fit: cover;
+    object-position: center;
 }
 
 #map.loading::before{
@@ -38,6 +40,18 @@ description: "Information about the various habitats in Singapore with an intera
     background-repeat: no-repeat;
 }
 
+
+.leaflet-control-habitat-place{
+    cursor:pointer;
+    background-color:white;
+    font-size:1rem;
+    color: var(--color-text);
+    padding:0.5rem;
+}
+.leaflet-control-habitat-place.active {
+    background-color: var(--color-primary);
+    color:white;
+}
 </style>
 
     <main class="page-content page-content-full-width" id="main-content">
@@ -347,6 +361,100 @@ description: "Information about the various habitats in Singapore with an intera
                 },
             ).addTo(map);
 
+            // 1. Define the custom button control
+            let habitatToggle = L.Control.extend({
+                options: {
+                    position: 'topleft' // Choose: 'topleft', 'topright', 'bottomleft', 'bottomright'
+                },
+
+                onAdd: function (map) {
+                    // Create a container DOM element with standard Leaflet control styling
+                    var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-habitat-place leaflet-control-habitat active');
+                    
+                    container.innerHTML = 'Habitats'; // You can use text, emojis, or HTML icons here
+                    
+
+                    // Disable map dragging/clicking when interacting with the button
+                    L.DomEvent.disableClickPropagation(container);
+
+                    // Define the click event
+                    L.DomEvent.on(container, 'click', function (e) {
+                        container.classList.toggle("active")
+                        document.getElementsByClassName('leaflet-control-place')[0].classList.toggle('active')
+                        if(container.classList.contains('active')){
+                            habitatLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                            placeLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                        }else{
+                            habitatLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                            placeLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                        }
+                    });
+
+                    return container;
+                }
+            });
+
+            // 2. Add the custom control to your map instance
+            map.addControl(new habitatToggle());
+
+            let placeToggle = L.Control.extend({
+                options: {
+                    position: 'topleft' // Choose: 'topleft', 'topright', 'bottomleft', 'bottomright'
+                },
+
+                onAdd: function (map) {
+                    // Create a container DOM element with standard Leaflet control styling
+                    var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-habitat-place leaflet-control-place');
+                    
+                    container.innerHTML = 'Places'; // You can use text, emojis, or HTML icons here
+                    
+
+                    // Disable map dragging/clicking when interacting with the button
+                    L.DomEvent.disableClickPropagation(container);
+
+                    // Define the click event
+                    L.DomEvent.on(container, 'click', function (e) {
+                        container.classList.toggle("active")
+                        document.getElementsByClassName('leaflet-control-habitat')[0].classList.toggle('active')
+                        
+                        if(container.classList.contains('active')){
+                            placeLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                            habitatLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                        }else{
+                            placeLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                            habitatLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                        }
+                    });
+
+                    return container;
+                }
+            });
+
+            // 2. Add the custom control to your map instance
+            map.addControl(new placeToggle());
+
+
+
+
+
+
+
             const urls = [
 
                 "/assets/geojson/builtup.geojson",
@@ -366,7 +474,11 @@ description: "Information about the various habitats in Singapore with an intera
                 "/assets/geojson/seagrass.geojson",
             ];
 
+            let habitatLayers = []
+            let placeLayers = []
+
             let allgeojson = {}
+
 
             async function fetchSequentially(urlList) {
                 for (const url of urlList) {
@@ -569,6 +681,10 @@ description: "Information about the various habitats in Singapore with an intera
                                     habitat = data.name
                                 }
                                 //console.log(habitat);
+                                layer.bindTooltip(habitat, {
+                                    sticky: true, // Makes the tooltip follow the mouse
+                                    direction: 'auto'
+                                });
                                 
                                 if (
                                     habitat
@@ -678,8 +794,12 @@ description: "Information about the various habitats in Singapore with an intera
                         }).addTo(map);
 
                     geoJsonLayer.bringToFront()
+                    habitatLayers.push(geoJsonLayer)
                 })
                document.getElementById("map").classList.remove("loading")
             }
+
+            
         </script>
+    <script src="/assets/js/habitatsplacemap.js"></script>
 {% include global/footer.html %}

@@ -3,6 +3,11 @@
 
     <!-- Page content -->
     <main class="page-content" id="main-content">
+      {% if page.coverimg %}
+        <div class="coverimg">
+            <img src="{{page.coverimg}}" alt="">
+        </div>
+      {% endif %}
       {% if page.title %}
       <h1 class="page-title">{{ page.title }}</h1>
       {% endif %}

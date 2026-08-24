@@ -3,6 +3,8 @@ title: "Terumbu Pempang Tengah "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "terumbu, pempang, tengah, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default
+summary: Central sandy area with some seagrasses, rubbly reefy edges. Small area (20m) of dense reef growth on north-eastern edge facing Terumbu Pempang Darat.  
+coverimg: https://live.staticflickr.com/65535/54522245644_9fc5a451c5_c.jpg
 ---
 [![](../../Templates/wildfactsheet3.gif)](../index.html)
 

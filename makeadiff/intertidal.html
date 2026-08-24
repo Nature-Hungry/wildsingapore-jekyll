@@ -1,14 +1,18 @@
 ---
+title: Singapore's wild shores
 layout: default
 ---
 
-<ul>
+<h2>Southern islands</h2> 
+
+<div class="entry-summary-card-grid">
   {% for post in site.articles %}
-    {% if post.path contains "articles/locations/intertidal/" %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
+    {% if post.path contains "articles/locations/intertidal/southernislands" %}
+      {% include entry-summary-card.html item=post %}
       {% endif %}
   {% endfor %}
+
+</div>
+<ul>
 
 </ul>
