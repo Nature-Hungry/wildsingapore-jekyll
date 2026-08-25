@@ -1,0 +1,836 @@
+---
+title: The Western Island
+description: "Information about the various islands affected by the Western Island reclamation in Singapore with an interactive map"
+---
+{% include global/header.html %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
+<style>
+.page-content{
+    padding-top:0;
+}
+.bold{
+    font-weight: bold;
+}
+
+.habitat-popup p{
+    margin:0.5rem 0;
+}
+.habitat-popup img{
+    width:100%;
+    height:150px;
+    margin-bottom:0.5rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+#map.loading::before{
+    content:'';
+    height:100%;
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    background-color:rgba(213, 213, 213, 0.499);
+    z-index:999;
+    background-image: url(https://cdnjs.cloudflare.com/ajax/libs/timelinejs/2.25/css/loading.gif);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.leaflet-control-habitat-place{
+    cursor:pointer;
+    background-color:white;
+    font-size:1rem;
+    color: var(--color-text);
+    padding:0.5rem;
+}
+.leaflet-control-habitat-place.active {
+    background-color: var(--color-primary);
+    color:white;
+}
+</style>
+
+    <main class="page-content page-content-full-width" id="main-content">
+        <div id="map" class="loading" style="height:80vh; margin-bottom:2rem;"></div>
+
+        <section>
+            <h3>Data sources</h3>
+            <ul>
+                <li><a href="https://data.gov.sg/datasets/d_18bcfe0a1b8c77f9b4493cef72ffd717/view">Coastal and Marine Habitat Map of Singapore 2018</a></li>
+                <li><a href="https://www.nparks.gov.sg/sbg/research/publications/the-gardens'-bulletin-singapore/-/media/sbg/gardens-bulletin/gbs_63_01,-a-,02_y2011_v63_01,-a-,02/63_01,-a-,02_205_y2011_v63p1,-a-,p2_gbs_pg_205.pdf">The vegetation of Singapore - an updated map</a></li>
+            </ul>
+        </section>
+    </main>
+
+
+
+  <script>
+            const habitats = {
+                "pointer-events": "none",
+                "lowland-forest": {
+                    "label": "Lowland forest",
+                    "description": "Historically covered majority of Singapore's landmass and dominated by tall trees of the Dipterocarpaceae family. Today, the majority of these native forests are comprised of fast growing pioneer trees and only small pockets of primary dipterocarp-dominated forests remain.",
+                    "link": "/articles/habitats/lowlandforest",
+                    "style":{
+                        
+                        fillColor: "#228B22",
+                        weight: 0,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#228B22",
+                        fillColor: "#228B22",
+                        weight: 3,
+                        opacity: 0.6,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "youngsecondaryforest": {
+                    "label": "Young secondary forest",
+                    "description": "Forests that have been altered significantly in recent history. They are important buffer zones that help regulate the local climate and provide connectivity between the fragmented habitats. The term 'young secondary forest' is used here as a blanket phrase for many different kinds of forests for ease of display.",
+                    "link": "/articles/habitats/youngsecondaryforest",
+                    "style":{
+                        color: "#99d67a",
+                        fillColor: "#99d67a",
+                        weight: 0,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#99d67a",
+                        fillColor: "#99d67a",
+                        weight: 3,
+                        opacity: 0.6,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "built-up": {
+                    "label": "Built-up",
+                    "description": "Houses the more than 6 million people living in Singapore. Roads and paths are well planted with ornamental plants. Only the hardy and adaptable lifeforms can make a living here and thrive in relative safety from predators",
+                    "link": "/articles/habitats/builtup",
+                    "style":{
+                        fillColor: "#F4F4F4",
+                        weight: 0,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#F4F4F4",
+                        fillColor: "#F4F4F4",
+                        weight: 0,
+                        opacity: 0.6,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "freshwater-body": {
+                    "label": "Freshwater body",
+                    "description": "Low-lying areas and rivers that have been dammed to serve to reservoirs to sustain Singapore's water security. Hardy fish introduced from the ornamental fish trade dominate this habitat which feed the various waterbirds and otters.",
+                    "link": "/articles/habitats/freshwaterbody",
+                    "style":{
+                        color: "#87CEEB",
+                        fillColor: "#87CEEB",
+                        weight: 0,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#87CEEB",
+                        fillColor: "#87CEEB",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                estuary: {
+                    "label": "Estuary",
+                    "description": "A transitional habitat where freshwater from the land meets with saltwater from the sea, creating a unique nutrient rich habitat where many young animals from the sea come to feed and grow",
+                    "link": "/articles/habitats/estuary",
+                    "style":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "coastal-vegetation":{
+                    "label":"Coastal vegetation",
+                    "description":"Battered by strong winds and salt spray, the wide variety of plants here have special adaptations to help them deal with these harsh conditions. In disturbed areas, casuarina trees dominate the landscape.",
+                    "link": "/articles/habitats/coastalvegetation",
+                    "style":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "coral":{
+                    "label":"Coral reefs & rubble",
+                    "description":"Some of the most diverse ecosystems in the ocean that is built by a very special group of animals called the hard corals. A unique form of coral rubble where colourful sponges and soft corals grow in abundance instead of hard corals can be found around the mouth of the johor river.",
+                    "link": "/articles/habitats/coral",
+                    "style":{
+                        color: "#CC338B",
+                        fillColor: "#CC338B",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#CC338B",
+                        fillColor: "#CC338B",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "mangrove":{
+                    "label":"Mangroves",
+                    "description":"Formed by trees and shrubs that have unique adaptations for dealing with frequent inundation by saltwater. Responsible for slowing down currents from the sea, allowing sediment to deposit and build landmass while preventing coastal erosion. Home to a diverse community of life perfectly suited to live between two worlds.",
+                    "link": "/articles/habitats/mangrove",
+                    "style":{
+                        color: "#097969",
+                        fillColor: "#097969",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#097969",
+                        fillColor: "#097969",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "mudflat":{
+                    "label":"Mudflats",
+                    "description":"Found along sheltered coasts where sediment accumulates from rivers or tides. Underneath the mud, rich populations of worms, mollusks, crustaceans serves as crucial feeding grounds for thousands of migratory wading birds along the East Asian-Australasian Flyway.",
+                    "link": "/articles/habitats/mudflat",
+                    "style":{
+                        color: "#70543E",
+                        fillColor: "#70543E",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#70543E",
+                        fillColor: "#70543E",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "rocky-shore":{
+                    "label":"Rocky shore",
+                    "link": "/articles/habitats/rocky-shore",
+                    "style":{
+                        color: "#000000",
+                        fillColor: "#000000",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#000000",
+                        fillColor: "#000000",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "sandy-shore":{
+                    "label":"Sandy shore",
+                    "description":"Made up of broken bits of rocks and shells and bones of sea creatures. Together, sand grains form an entire galaxy of invisible life in the sand.Most sand-dwellers burrow deep into the sand to stay moist and cool at low tide. Living in sand is like living in moving sandpaper as sand particles are abrasive and move with the currents hence many sand dwellers live in protective tubes or shells.",
+                    "link": "/articles/habitats/sandy-shore",
+                    "style":{
+                        color: "#C2B280",
+                        fillColor: "#C2B280",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#C2B280",
+                        fillColor: "#C2B280",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "seagrass":{
+                    "label":"Seagrasses",
+                    "link": "/articles/habitats/seagrass-meadow",
+                    "style":{
+                        color: "#7CFC00",
+                        fillColor: "#7CFC00",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#7CFC00",
+                        fillColor: "#7CFC00",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "marsh":{
+                    "label":"Marsh",
+                    "description":"Slow moving or stagnant water exposed to the sun that is shallow enough to allow emergent grasses and reeds to grow within. Dragonflies, amphibians, and young fish seek refuge in the dense vegetation, which attracts many waterbirds.",
+                    "link": "/articles/habitats/marsh",
+                    "style":{
+                        color: "#DC143C",
+                        fillColor: "#DC143C",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#DC143C",
+                        fillColor: "#DC143C",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "garden":{
+                    "label":"Parks & Gardens",
+                    "description":"Manicured lands for the comfort, leisure and enjoyment of people. Species diversity can vary depending on what the park is designed for. Often times, only the far dispersing and generalist animals can be found here.",
+                    "link": "/articles/habitats/garden",
+                    "style":{
+                        color: "#B4C424",
+                        fillColor: "#B4C424",
+                        weight: 0,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#B4C424",
+                        fillColor: "#B4C424",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "fwsf":{
+                    "label":"Freshwater swamp forests",
+                    "description":"Virtually all freshwater swamp forests(FWSF) in Singapore were destroyed from canalization and flooding of reservoirs, the few left today formed after the increased water table from reservoirs. Trees here have specialized root systems to survive waterlogged and oxygen-poor soil. Most of Singapore's native freshwater fish and amphibians can be found here.",
+                    "link": "/articles/habitats/fwsf",
+                    "style":{
+                        color: "#A68A6D",
+                        fillColor: "#A68A6D",
+                        weight: 1,
+                        fillOpacity: 0.8,
+
+                    },
+                    "hoverstyle":{
+                        color: "#A68A6D",
+                        fillColor: "#A68A6D",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+            }
+
+            function getHabitatStyle(feature) {
+                const habitatType = feature.properties.HABITAT_TYPE || "";
+                const habitatColors = {
+                    "Built-up": "#f4f4f4",
+                    "Coastal Vegetation": "#9fe2bf",
+                    "Coral Reef Slope": "#cc338b",
+                    "Coral Rubble with Seagrass and Algae": "#b4c424",
+                    "Coral on Rock Bund": "#c27ba0",
+                    "Mangrove": "#097969",
+                    "Mudflat": "#70543e",
+                    "Openland": "#b4c424",
+                    "Other Vegetation": "#6b8e23",
+                    "Rock Bund": "#808080",
+                    "Rocky Shore": "#3d3d3d",
+                    "Sand and Rubble": "#c2b280",
+                    "Sandflat": "#d2b48c",
+                    "Sandy Beach": "#e6d8ad",
+                    "Seagrass Meadow": "#7cfc00",
+                    "Seagrass and Algae": "#5f9f68",
+                    "Shallow Water": "#b8c2c5",
+                    "Water": "#aab7ba",
+                };
+                const isUnknownHabitat = !Object.prototype.hasOwnProperty.call(habitatColors, habitatType);
+                const color = habitatColors[habitatType] || "#a7a7a7";
+
+                return {
+                    color,
+                    fillColor: color,
+                    weight: isUnknownHabitat ? 0.5 : 1,
+                    opacity: isUnknownHabitat ? 0.35 : 0.8,
+                    fillOpacity: isUnknownHabitat ? 0.2 : 0.55,
+                };
+            }
+
+            function getHabitatHoverStyle(feature) {
+                return {
+                    ...getHabitatStyle(feature),
+                    weight: 3,
+                    opacity: 1,
+                    fillOpacity: 0.8,
+                };
+            }
+
+            function getHabitatDetails(habitatType) {
+                return Object.values(habitats).find((entry) =>
+                    entry.label && habitatType && entry.label.toLowerCase() === habitatType.toLowerCase(),
+                ) || {};
+            }
+
+            function getIslandLink(island) {
+                const islandLinks = {
+                    "Beting Bemban Besar": "/articles/locations/intertidal/southernislands/betingbembanbesar/",
+                    "Pulau Hantu": "/articles/locations/intertidal/southernislands/hantu/",
+                    "Pulau Jong": "/articles/locations/intertidal/southernislands/jong/",
+                    "Pulau Semakau": "/articles/locations/intertidal/southernislands/semakau/",
+                    "Pulau Sudong": "/articles/locations/intertidal/southernislands/lfa/",
+                    "Terumbu Bemban": "/articles/locations/intertidal/southernislands/terumbubemban/",
+                    "Terumbu Hantu": "/articles/locations/intertidal/southernislands/hantu/",
+                    "Terumbu Pempang Laut": "/articles/locations/intertidal/southernislands/terumbupempanglaut/",
+                    "Terumbu Pempang Tengah": "/articles/locations/intertidal/southernislands/terumbupempangtengah/",
+                    "Terumbu Raya": "/articles/locations/intertidal/southernislands/terumburaya/",
+                    "Terumbu Semakau": "/articles/locations/intertidal/southernislands/terumbusemakau/",
+                };
+                const mappedIsland = Object.keys(islandLinks).find((name) =>
+                    name.toLowerCase() === island.toLowerCase(),
+                );
+
+                if (mappedIsland) return islandLinks[mappedIsland];
+
+                const place = getIslandPlace(island);
+                return place && place.link;
+            }
+
+            function getIslandPlace(island) {
+                if (typeof places === "undefined") return null;
+
+                return Object.values(places).find((entry) =>
+                    entry.label && entry.label.toLowerCase().includes(island.toLowerCase()),
+                );
+            }
+
+            function getIslandExcerpt(place) {
+                if (!place || !place.description) return "";
+
+                const words = place.description.trim().split(/\s+/);
+                return words.length > 70 ? `${words.slice(0, 70).join(" ")}...` : words.join(" ");
+            }
+
+            // Define strict boundaries around Western Island
+            var southWest = L.latLng(1.160, 103.902);
+            var northEast = L.latLng(1.300, 103.600);
+            var westernIslandBounds = L.latLngBounds(southWest, northEast);
+
+            const map = L.map("map", {
+                preferCanvas: true,
+                center: [1.200, 103.750], // Center of Western Island
+                zoom: 12.6,
+                minZoom: 11, // Prevents zooming out past the island view
+                maxBounds: westernIslandBounds,
+                maxBoundsViscosity: 0.2
+            })
+            // Load OpenStreetMap Tiles
+            L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+                    attribution:
+                        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                    subdomains: "abcd",
+                    maxZoom: 20,
+                },
+            ).addTo(map);
+
+            // 1. Define the custom button control
+            let habitatToggle = L.Control.extend({
+                options: {
+                    position: 'topleft' // Choose: 'topleft', 'topright', 'bottomleft', 'bottomright'
+                },
+
+                onAdd: function (map) {
+                    // Create a container DOM element with standard Leaflet control styling
+                    var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-habitat-place leaflet-control-habitat active');
+                    
+                    container.innerHTML = 'Habitats'; // You can use text, emojis, or HTML icons here
+                    
+
+                    // Disable map dragging/clicking when interacting with the button
+                    L.DomEvent.disableClickPropagation(container);
+
+                    // Define the click event
+                    L.DomEvent.on(container, 'click', function (e) {
+                        container.classList.toggle("active")
+                        document.getElementsByClassName('leaflet-control-place')[0].classList.toggle('active')
+                        if(container.classList.contains('active')){
+                            habitatLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                            placeLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                        }else{
+                            habitatLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                            placeLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                        }
+                    });
+
+                    return container;
+                }
+            });
+
+            // 2. Add the custom control to your map instance
+            map.addControl(new habitatToggle());
+
+            let placeToggle = L.Control.extend({
+                options: {
+                    position: 'topleft' // Choose: 'topleft', 'topright', 'bottomleft', 'bottomright'
+                },
+
+                onAdd: function (map) {
+                    // Create a container DOM element with standard Leaflet control styling
+                    var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-habitat-place leaflet-control-place');
+                    
+                    container.innerHTML = 'Places'; // You can use text, emojis, or HTML icons here
+                    
+
+                    // Disable map dragging/clicking when interacting with the button
+                    L.DomEvent.disableClickPropagation(container);
+
+                    // Define the click event
+                    L.DomEvent.on(container, 'click', function (e) {
+                        container.classList.toggle("active")
+                        document.getElementsByClassName('leaflet-control-habitat')[0].classList.toggle('active')
+                        
+                        if(container.classList.contains('active')){
+                            placeLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                            habitatLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                        }else{
+                            placeLayers.forEach(h=>{
+                                map.removeLayer(h);
+                            })
+                            habitatLayers.forEach(h=>{
+                                map.addLayer(h);
+                            })
+                        }
+                    });
+
+                    return container;
+                }
+            });
+
+            // 2. Add the custom control to your map instance
+            map.addControl(new placeToggle());
+
+
+
+
+
+
+
+            const urls = [
+                "/assets/geojson/places/westernislands.geojson",
+            ];
+
+            let habitatLayers = []
+            let placeLayers = []
+
+            let allgeojson = {}
+
+
+            async function fetchSequentially(urlList) {
+                for (const url of urlList) {
+                    try {
+                        const response = await fetch(url);
+                        const data = await response.json();
+                        console.log(`Successfully fetched: ${url}`);
+                        if(data.name){
+                            console.log(data.name)
+                        }
+
+                        allgeojson[url] = data
+                        
+                        const geoJsonLayer = L.geoJSON(data, {
+                            style: function (feature) {
+                                return getHabitatStyle(feature);
+                                
+                            },
+                            onEachFeature: function (feature, layer) {
+                                let habitat = feature.properties.habitat
+                                if(!habitat){
+                                    habitat = data.name
+                                }
+                                console.log(habitat);
+                                
+                                if (
+                                    habitat
+                                ) {
+                                    const popup = `
+                                <div class="habitat-popup">
+                                    <img src="${getHabitatDetails(habitat)["img"] || ""}"/>
+                                    <h3>${getHabitatDetails(habitat)["label"] || "No Name"}</h3>
+                                    <p>${getHabitatDetails(habitat)["description"] || ""}</p>
+                                </div>
+                            `; //<a href="${habitats[habitat]["link"]}">Read more...</a>
+                            
+                                    layer.bindPopup(popup, {
+                                        maxWidth: 250,
+                                        className: "habitat-popup-wrapper",
+                                        closeButton: true,
+                                    });
+                                }
+
+                                layer.on("mouseover", function (e) {
+                                    let habitat = e.target.feature.properties.HABITAT_TYPE
+                                    console.log(e.target.feature.properties);
+                                    
+                                    L.DomEvent.stopPropagation(e);
+                                    console.log(
+                                        "hovering " +
+                                            e.target.feature.properties.habitat,
+                                    );
+
+                                    // document
+                                    //     .getElementById(
+                                    //         e.target.feature.properties.habitat,
+                                    //     )
+                                    //     .classList.add("bold");
+                                    // const hoveredLayer = e.target;
+                                    // hoveredLayer.setStyle(highlightStyles[e.target.feature.properties.habitat]);
+
+                                    // // Bring the hovered feature to the front (useful for overlapping polygons)
+                                    // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                                    //         e.target.bringToFront();
+                                    //     }
+
+                                    let groupId = e.target.feature.properties.HABITAT_TYPE;
+                                    
+                                    // e.target.setStyle(habitats[groupId]["hoverstyle"])
+                                    
+                                    // Scan all flattened layers to find matches
+                                    geoJsonLayer.eachLayer(function (l) {
+                                        if (
+                                            l.feature.properties.HABITAT_TYPE ===
+                                            groupId
+                                        ) {
+                                            l.setStyle(getHabitatHoverStyle(l.feature));
+                                        }
+                                    });
+                                });
+
+                                // Handle mouseout (Hover Out)
+                                layer.on("mouseout", function (e) {
+                                    // Resets the style back to default using the parent GeoJSON layer object
+                                    const groupId =
+                                        e.target.feature.properties.habitat || data.name;
+                                          
+                                    // console.log("mouseout", groupId);
+
+                                    // 3. Reset only the layers belonging to this group
+                                    geoJsonLayer.eachLayer(function (l) {
+                                        if (
+                                            l.feature.properties.habitat ===
+                                            groupId
+                                        ) {
+                                            l.setStyle(habitats[groupId]["style"]);
+                                        }
+                                    });
+                                    // e.target.setStyle(styles[e.target.feature.properties.habitat])
+
+                                    Array.from(
+                                        document.getElementsByClassName(
+                                            "habitat-label",
+                                        ),
+                                    ).forEach((label) => {
+                                        label.classList.remove("bold");
+                                    });
+                                });
+
+                                layer.on("click", function (e) {
+                                    const island = e.target.feature.properties.ISLAND;
+                                    const link = island && getIslandLink(island);
+                                    if (link) window.location.href = link;
+                                });
+                            },
+                        }).addTo(map);
+
+                        geoJsonLayer.bringToFront()
+                    } catch (error) {
+                        console.error(`Failed to fetch ${url}:`, error);
+                    }
+
+
+                }
+            }
+
+            //fetchSequentially(urls);
+            let count = 0
+            urls.forEach(url=>{
+                loadgeojson(url)
+            })
+
+            function loadgeojson(path) {
+                fetch(path)
+                    .then((response) => {
+                        if (!response.ok) {
+                            throw new Error(
+                                `HTTP error! status: ${response.status}`,
+                            );
+                        }
+                        return response.json(); // Parse incoming string data to JSON object
+                    })
+                    .then((geoJsonData) => {
+                        // Create layer, bind optional popups, and append directly onto map
+                         allgeojson[path] = geoJsonData
+                         count ++
+
+                         if(count == urls.length){
+                            console.log('done')
+                            loadGeojsonLayers()
+                         }
+                        
+                    })
+                    .catch((error) => {
+                        console.error(
+                            "Error fetching or parsing the GeoJSON file:",
+                            error,
+                        );
+                    });
+            }
+
+            function loadGeojsonLayers(){
+
+                urls.forEach(url=>{
+                    let data = allgeojson[url]
+                    const geoJsonLayer = L.geoJSON(data, {
+                            style: function (feature) {
+                                return getHabitatStyle(feature);
+                                
+                            },
+                            onEachFeature: function (feature, layer) {
+                                const habitat = feature.properties.HABITAT_TYPE;
+                                const island = feature.properties.ISLAND || "Unknown island";
+                                const place = getIslandPlace(island);
+                                
+                                if (
+                                    island
+                                ) {
+                                    const popup = `
+                                <div class="habitat-popup">
+                                    ${place && place.img ? `<img src="${place.img}"/>` : ""}
+                                    <h3>${island}</h3>
+                                    ${place && place.description ? `<p>${getIslandExcerpt(place)}</p>` : ""}
+                                    ${getIslandLink(island) ? `<a href="${getIslandLink(island)}">Read more...</a>` : ""}
+                                </div>
+                            `;
+                                    layer.bindPopup(popup, {
+                                        maxWidth: 250,
+                                        className: "habitat-popup-wrapper",
+                                        closeButton: true,
+                                    });
+                                }
+
+                                layer.on("mouseover", function (e) {
+                                    let habitat = e.target.feature.properties.HABITAT_TYPE
+                                    //console.log(e.target.feature.properties);
+                                    
+                                    L.DomEvent.stopPropagation(e);
+                                   
+
+                                    // document
+                                    //     .getElementById(
+                                    //         e.target.feature.properties.habitat,
+                                    //     )
+                                    //     .classList.add("bold");
+                                    // const hoveredLayer = e.target;
+                                    // hoveredLayer.setStyle(highlightStyles[e.target.feature.properties.habitat]);
+
+                                    // // Bring the hovered feature to the front (useful for overlapping polygons)
+                                    // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                                    //         e.target.bringToFront();
+                                    //     }
+
+                                    let groupId = e.target.feature.properties.HABITAT_TYPE;
+                                    
+                                    // e.target.setStyle(habitats[groupId]["hoverstyle"])
+                                    
+                                    // Scan all flattened layers to find matches
+                                    geoJsonLayer.eachLayer(function (l) {
+                                        if (
+                                            l.feature.properties.HABITAT_TYPE ===
+                                            groupId
+                                        ) {
+                                            l.setStyle(getHabitatHoverStyle(l.feature));
+                                        }
+                                    });
+                                });
+
+                                // Handle mouseout (Hover Out)
+                                layer.on("mouseout", function (e) {
+                                    // Resets the style back to default using the parent GeoJSON layer object
+                                    const groupId =
+                                        e.target.feature.properties.HABITAT_TYPE || data.name;
+                                          
+                                    // console.log("mouseout", groupId);
+
+                                    // 3. Reset only the layers belonging to this group
+                                    geoJsonLayer.eachLayer(function (l) {
+                                        if (
+                                            l.feature.properties.HABITAT_TYPE ===
+                                            groupId
+                                        ) {
+                                            l.setStyle(getHabitatStyle(l.feature));
+                                        }
+                                    });
+                                    // e.target.setStyle(styles[e.target.feature.properties.habitat])
+
+                                    Array.from(
+                                        document.getElementsByClassName(
+                                            "habitat-label",
+                                        ),
+                                    ).forEach((label) => {
+                                        label.classList.remove("bold");
+                                    });
+                                });
+
+                            },
+                        }).addTo(map);
+
+                    geoJsonLayer.bringToFront()
+                    habitatLayers.push(geoJsonLayer)
+                })
+               document.getElementById("map").classList.remove("loading")
+            }
+
+            
+        </script>
+    <script src="/assets/js/habitatsplacemap.js"></script>
+
+<blockquote>
+    <p>Past conservation efforts** include those in 1987-1991 by The Reef Survey and Conservation Project,
+        a project undertaken by the Republic of Singapore Yacht Club (RSYC), Singapore Institute of Biology (SIBiol)
+        and Singapore Underwater Federation (SUF). Among the results was identifying and targeting four reef areas as
+        good enough to merit some form of conservation: St John's group of islands, Pulau Hantu and patch reefs,
+        Pulau Semakau and patch reefs, live firing islands including Raffles Lighthouse. More details on this and other
+        conservation efforts on the [Coral Reefs of Singapore website](http://coralreef.nus.edu.sg/conserve/conserve.htm).
+    </p>
+</blockquote>
+
+{% include global/footer.html %}

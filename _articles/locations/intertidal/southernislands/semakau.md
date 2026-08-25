@@ -1,6 +1,6 @@
 ---
 title: "Pulau Semakau "
-description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+description: "Fact sheet with photos on flora and fauna of Pulau Semakau"
 keywords: "pulau, semakau, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default
 coverimg: https://live.staticflickr.com/65535/54625359633_94af59fc3b_c.jpg
