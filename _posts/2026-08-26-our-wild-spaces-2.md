@@ -9,5 +9,5 @@ coverimg: "https://images.naturehungry.sg/photos/OWS2/Toh-Tuck-1.jpg"
 
 The Our Wild Spaces 2.0 report was launched last month by two youth Nature Groups, LepakInSG and the Singapore Youth Voices for Biodiversity.
 
-{% include button.html href="/articles/OurWildSpaces2.0/" label="View the interactive map here!" %}
+{% include button.html href="/articles/OurWildSpaces2.0/index/" label="View the interactive map here!" %}
 
