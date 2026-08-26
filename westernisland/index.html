@@ -340,8 +340,23 @@ description: "Information about the various islands affected by the Western Isla
             }
 
             function getHabitatStyle(feature) {
-                const habitatType = feature.properties.HABITAT_TYPE || "";
+                const habitatType = feature.properties.habitat || feature.properties.HABITAT_TYPE || "";
                 const habitatColors = {
+                    "built-up": "#f4f4f4",
+                    "lowland-forest": "#228b22",
+                    "youngsecondaryforest": "#99d67a",
+                    "freshwater-body": "#aab7ba",
+                    "estuary": "#9fe2bf",
+                    "coastal-vegetation": "#9fe2bf",
+                    "coral": "#cc338b",
+                    "mangrove": "#097969",
+                    "mudflat": "#70543e",
+                    "rocky-shore": "#3d3d3d",
+                    "sandy-shore": "#c2b280",
+                    "seagrass": "#5f9f68",
+                    "marsh": "#dc143c",
+                    "garden": "#b4c424",
+                    "fwsf": "#a68a6d",
                     "Built-up": "#f4f4f4",
                     "Coastal Vegetation": "#9fe2bf",
                     "Coral Reef Slope": "#cc338b",
@@ -418,6 +433,20 @@ description: "Information about the various islands affected by the Western Isla
                 return Object.values(places).find((entry) =>
                     entry.label && entry.label.toLowerCase().includes(island.toLowerCase()),
                 );
+            }
+
+            function getIslandStyle(feature) {
+                const island = feature.properties.ISLAND;
+                const isKnownIsland = island && getIslandLink(island);
+                const color = isKnownIsland ? "#aa002b" : "#777777";
+
+                return {
+                    color,
+                    fillColor: color,
+                    weight: isKnownIsland ? 2 : 0.5,
+                    opacity: isKnownIsland ? 0.95 : 0.2,
+                    fillOpacity: isKnownIsland ? 0.35 : 0.04,
+                };
             }
 
             function getIslandExcerpt(place) {
@@ -545,279 +574,81 @@ description: "Information about the various islands affected by the Western Isla
 
 
 
-            const urls = [
-                "/assets/geojson/places/westernislands.geojson",
+            const islandUrl = "/assets/geojson/islands.geojson";
+            const habitatUrls = [
+                "/assets/geojson/builtup.geojson",
+                "/assets/geojson/forest.geojson",
+                "/assets/geojson/youngsecondaryforest.geojson",
+                "/assets/geojson/fwsf.geojson",
+                "/assets/geojson/freshwaterbodies.geojson",
+                "/assets/geojson/garden.geojson",
+                "/assets/geojson/estuaries.geojson",
+                "/assets/geojson/coastal-vegetation.geojson",
+                "/assets/geojson/coral.geojson",
+                "/assets/geojson/mangrove.geojson",
+                "/assets/geojson/mudflat.geojson",
+                "/assets/geojson/rocky-shore.geojson",
+                "/assets/geojson/sandy-shore.geojson",
+                "/assets/geojson/marsh.geojson",
+                "/assets/geojson/seagrass.geojson",
             ];
 
-            let habitatLayers = []
-            let placeLayers = []
+            let habitatLayers = [];
+            let placeLayers = [];
 
-            let allgeojson = {}
-
-
-            async function fetchSequentially(urlList) {
-                for (const url of urlList) {
-                    try {
-                        const response = await fetch(url);
-                        const data = await response.json();
-                        console.log(`Successfully fetched: ${url}`);
-                        if(data.name){
-                            console.log(data.name)
-                        }
-
-                        allgeojson[url] = data
-                        
-                        const geoJsonLayer = L.geoJSON(data, {
-                            style: function (feature) {
-                                return getHabitatStyle(feature);
-                                
-                            },
-                            onEachFeature: function (feature, layer) {
-                                let habitat = feature.properties.habitat
-                                if(!habitat){
-                                    habitat = data.name
-                                }
-                                console.log(habitat);
-                                
-                                if (
-                                    habitat
-                                ) {
-                                    const popup = `
-                                <div class="habitat-popup">
-                                    <img src="${getHabitatDetails(habitat)["img"] || ""}"/>
-                                    <h3>${getHabitatDetails(habitat)["label"] || "No Name"}</h3>
-                                    <p>${getHabitatDetails(habitat)["description"] || ""}</p>
-                                </div>
-                            `; //<a href="${habitats[habitat]["link"]}">Read more...</a>
-                            
-                                    layer.bindPopup(popup, {
-                                        maxWidth: 250,
-                                        className: "habitat-popup-wrapper",
-                                        closeButton: true,
-                                    });
-                                }
-
-                                layer.on("mouseover", function (e) {
-                                    let habitat = e.target.feature.properties.HABITAT_TYPE
-                                    console.log(e.target.feature.properties);
-                                    
-                                    L.DomEvent.stopPropagation(e);
-                                    console.log(
-                                        "hovering " +
-                                            e.target.feature.properties.habitat,
-                                    );
-
-                                    // document
-                                    //     .getElementById(
-                                    //         e.target.feature.properties.habitat,
-                                    //     )
-                                    //     .classList.add("bold");
-                                    // const hoveredLayer = e.target;
-                                    // hoveredLayer.setStyle(highlightStyles[e.target.feature.properties.habitat]);
-
-                                    // // Bring the hovered feature to the front (useful for overlapping polygons)
-                                    // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-                                    //         e.target.bringToFront();
-                                    //     }
-
-                                    let groupId = e.target.feature.properties.HABITAT_TYPE;
-                                    
-                                    // e.target.setStyle(habitats[groupId]["hoverstyle"])
-                                    
-                                    // Scan all flattened layers to find matches
-                                    geoJsonLayer.eachLayer(function (l) {
-                                        if (
-                                            l.feature.properties.HABITAT_TYPE ===
-                                            groupId
-                                        ) {
-                                            l.setStyle(getHabitatHoverStyle(l.feature));
-                                        }
-                                    });
-                                });
-
-                                // Handle mouseout (Hover Out)
-                                layer.on("mouseout", function (e) {
-                                    // Resets the style back to default using the parent GeoJSON layer object
-                                    const groupId =
-                                        e.target.feature.properties.habitat || data.name;
-                                          
-                                    // console.log("mouseout", groupId);
-
-                                    // 3. Reset only the layers belonging to this group
-                                    geoJsonLayer.eachLayer(function (l) {
-                                        if (
-                                            l.feature.properties.habitat ===
-                                            groupId
-                                        ) {
-                                            l.setStyle(habitats[groupId]["style"]);
-                                        }
-                                    });
-                                    // e.target.setStyle(styles[e.target.feature.properties.habitat])
-
-                                    Array.from(
-                                        document.getElementsByClassName(
-                                            "habitat-label",
-                                        ),
-                                    ).forEach((label) => {
-                                        label.classList.remove("bold");
-                                    });
-                                });
-
-                                layer.on("click", function (e) {
-                                    const island = e.target.feature.properties.ISLAND;
-                                    const link = island && getIslandLink(island);
-                                    if (link) window.location.href = link;
-                                });
-                            },
-                        }).addTo(map);
-
-                        geoJsonLayer.bringToFront()
-                    } catch (error) {
-                        console.error(`Failed to fetch ${url}:`, error);
-                    }
-
-
-                }
+            function fetchGeoJson(url) {
+                return fetch(url).then((response) => {
+                    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                    return response.json();
+                });
             }
 
-            //fetchSequentially(urls);
-            let count = 0
-            urls.forEach(url=>{
-                loadgeojson(url)
-            })
+            function loadIslandLayer(data) {
+                const islandLayer = L.geoJSON(data, {
+                    style: getIslandStyle,
+                    onEachFeature: (feature, layer) => {
+                        const island = feature.properties.ISLAND;
+                        const place = island && getIslandPlace(island);
+                        if (!island) return;
 
-            function loadgeojson(path) {
-                fetch(path)
-                    .then((response) => {
-                        if (!response.ok) {
-                            throw new Error(
-                                `HTTP error! status: ${response.status}`,
-                            );
-                        }
-                        return response.json(); // Parse incoming string data to JSON object
-                    })
-                    .then((geoJsonData) => {
-                        // Create layer, bind optional popups, and append directly onto map
-                         allgeojson[path] = geoJsonData
-                         count ++
+                        layer.bindPopup(`
+                            <div class="habitat-popup">
+                                ${place && place.img ? `<img src="${place.img}"/>` : ""}
+                                <h3>${island}</h3>
+                                ${place && place.description ? `<p>${getIslandExcerpt(place)}</p>` : ""}
+                                ${getIslandLink(island) ? `<a href="${getIslandLink(island)}">Read more...</a>` : ""}
+                            </div>
+                        `, {
+                            maxWidth: 250,
+                            className: "habitat-popup-wrapper",
+                            closeButton: true,
+                        });
+                    },
+                }).addTo(map);
 
-                         if(count == urls.length){
-                            console.log('done')
-                            loadGeojsonLayers()
-                         }
-                        
-                    })
-                    .catch((error) => {
-                        console.error(
-                            "Error fetching or parsing the GeoJSON file:",
-                            error,
-                        );
-                    });
+                placeLayers.push(islandLayer);
             }
 
-            function loadGeojsonLayers(){
+            function loadHabitatLayers(data) {
+                const habitatLayer = L.geoJSON(data, {
+                    style: getHabitatStyle,
+                    interactive: false,
+                }).addTo(map);
 
-                urls.forEach(url=>{
-                    let data = allgeojson[url]
-                    const geoJsonLayer = L.geoJSON(data, {
-                            style: function (feature) {
-                                return getHabitatStyle(feature);
-                                
-                            },
-                            onEachFeature: function (feature, layer) {
-                                const habitat = feature.properties.HABITAT_TYPE;
-                                const island = feature.properties.ISLAND || "Unknown island";
-                                const place = getIslandPlace(island);
-                                
-                                if (
-                                    island
-                                ) {
-                                    const popup = `
-                                <div class="habitat-popup">
-                                    ${place && place.img ? `<img src="${place.img}"/>` : ""}
-                                    <h3>${island}</h3>
-                                    ${place && place.description ? `<p>${getIslandExcerpt(place)}</p>` : ""}
-                                    ${getIslandLink(island) ? `<a href="${getIslandLink(island)}">Read more...</a>` : ""}
-                                </div>
-                            `;
-                                    layer.bindPopup(popup, {
-                                        maxWidth: 250,
-                                        className: "habitat-popup-wrapper",
-                                        closeButton: true,
-                                    });
-                                }
-
-                                layer.on("mouseover", function (e) {
-                                    let habitat = e.target.feature.properties.HABITAT_TYPE
-                                    //console.log(e.target.feature.properties);
-                                    
-                                    L.DomEvent.stopPropagation(e);
-                                   
-
-                                    // document
-                                    //     .getElementById(
-                                    //         e.target.feature.properties.habitat,
-                                    //     )
-                                    //     .classList.add("bold");
-                                    // const hoveredLayer = e.target;
-                                    // hoveredLayer.setStyle(highlightStyles[e.target.feature.properties.habitat]);
-
-                                    // // Bring the hovered feature to the front (useful for overlapping polygons)
-                                    // if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-                                    //         e.target.bringToFront();
-                                    //     }
-
-                                    let groupId = e.target.feature.properties.HABITAT_TYPE;
-                                    
-                                    // e.target.setStyle(habitats[groupId]["hoverstyle"])
-                                    
-                                    // Scan all flattened layers to find matches
-                                    geoJsonLayer.eachLayer(function (l) {
-                                        if (
-                                            l.feature.properties.HABITAT_TYPE ===
-                                            groupId
-                                        ) {
-                                            l.setStyle(getHabitatHoverStyle(l.feature));
-                                        }
-                                    });
-                                });
-
-                                // Handle mouseout (Hover Out)
-                                layer.on("mouseout", function (e) {
-                                    // Resets the style back to default using the parent GeoJSON layer object
-                                    const groupId =
-                                        e.target.feature.properties.HABITAT_TYPE || data.name;
-                                          
-                                    // console.log("mouseout", groupId);
-
-                                    // 3. Reset only the layers belonging to this group
-                                    geoJsonLayer.eachLayer(function (l) {
-                                        if (
-                                            l.feature.properties.HABITAT_TYPE ===
-                                            groupId
-                                        ) {
-                                            l.setStyle(getHabitatStyle(l.feature));
-                                        }
-                                    });
-                                    // e.target.setStyle(styles[e.target.feature.properties.habitat])
-
-                                    Array.from(
-                                        document.getElementsByClassName(
-                                            "habitat-label",
-                                        ),
-                                    ).forEach((label) => {
-                                        label.classList.remove("bold");
-                                    });
-                                });
-
-                            },
-                        }).addTo(map);
-
-                    geoJsonLayer.bringToFront()
-                    habitatLayers.push(geoJsonLayer)
-                })
-               document.getElementById("map").classList.remove("loading")
+                habitatLayers.push(habitatLayer);
             }
+
+            Promise.all([
+                fetchGeoJson(islandUrl),
+                ...habitatUrls.map(fetchGeoJson),
+            ]).then(([islands, ...habitatsData]) => {
+                loadIslandLayer(islands);
+                habitatsData.forEach(loadHabitatLayers);
+                document.getElementById("map").classList.remove("loading");
+            }).catch((error) => {
+                console.error("Error fetching map data:", error);
+                document.getElementById("map").classList.remove("loading");
+            });
 
             
         </script>

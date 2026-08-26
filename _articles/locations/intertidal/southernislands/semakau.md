@@ -2,6 +2,7 @@
 title: "Pulau Semakau "
 description: "Fact sheet with photos on flora and fauna of Pulau Semakau"
 keywords: "pulau, semakau, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
+summary: Pulau Semakau, despite having Singapore's landfill, is still full of marine life. All sides of the island has reefs dominated by soft corals.
 layout: default
 coverimg: https://live.staticflickr.com/65535/54625359633_94af59fc3b_c.jpg
 galleries:
@@ -49,7 +50,7 @@ Original mangroves with mudlobster mounds and [a possible hot spring](http://wil
 
 ## About the name
 
-*Pulau*=Island; *Semakau*=unknown, but *semak*=scrub or undergrowth.
+*Pulau* = Island; *Semakau* = unknown, but *semak* = scrub or undergrowth.
 
 ## Facilities
 
