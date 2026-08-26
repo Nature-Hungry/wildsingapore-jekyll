@@ -7,14 +7,7 @@ description: "Information about the various islands affected by the Western Isla
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
 <style>
-.page-content{
-    padding-top:0;
-}
-.bold{
-    font-weight: bold;
-}
-
-.habitat-popup p{
+    .habitat-popup p{
     margin:0.5rem 0;
 }
 .habitat-popup img{
@@ -25,37 +18,55 @@ description: "Information about the various islands affected by the Western Isla
     object-position: center;
 }
 
-#map.loading::before{
-    content:'';
-    height:100%;
-    width:100%;
-    position:absolute;
-    top:0;
-    left:0;
-    background-color:rgba(213, 213, 213, 0.499);
-    z-index:999;
-    background-image: url(https://cdnjs.cloudflare.com/ajax/libs/timelinejs/2.25/css/loading.gif);
-    background-size: auto;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+.two-col {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+@media (max-width: 800px) {
+      .two-col {
+        flex-direction: column;
+      }
+      
+    }
 
-
-.leaflet-control-habitat-place{
-    cursor:pointer;
-    background-color:white;
-    font-size:1rem;
-    color: var(--color-text);
-    padding:0.5rem;
-}
-.leaflet-control-habitat-place.active {
-    background-color: var(--color-primary);
-    color:white;
-}
 </style>
 
     <main class="page-content page-content-full-width" id="main-content">
-        <div id="map" class="loading" style="height:80vh; margin-bottom:2rem;"></div>
+        <div class="two-col">
+
+            <div style="width:100%;">
+                    <h1 class="page-title">Western Islands</h1>
+                    <p>In the 2026 National day rally, PM Lawrence Wong mentioned the plans to merge a few southern islands into one island through relcamation 
+                        with the goals of building advanced manufacturing and energy infrastructure to prepare Singapore for the future.
+                    </p>
+                    <p>
+                    In the center of this lies a cluster of Terumbus, reefs that are exposed during low tide, and are surrounded by lush coral reefs in the deeper water.
+                    These reefs are estimated to be over 8000 years old.
+                    </p>
+                    <p>
+                        These places hold the vast majority of corals reefs, seagrass meadows and other marine ecosystems that still remain in Singapore.
+                        They serve as a stronghold for marine life that seeds other reefs in the region that help create more resilient ecosystems and recover
+                        previously destroyed habitats
+                    </p>
+                    <p>
+                        Its ecological significance has been well-studied and
+                        there has been many recommendations to set up a formal marine reserve to protect
+                        these precious habitats.
+                    </p>
+    
+                    <p>
+                        <b>
+                        We urge the government to review this decision and explore more sustainable, efficient land-use alternatives.
+                        </b>
+                    </p>
+                    
+                    <a href="https://coralreef.nus.edu.sg/publications/BluePlan2009.pdf">Singapore Blue Plan 2009</a>
+                    <br>
+                    <a href="https://sibiol.org.sg/wp-content/uploads/2020/10/The_Singapore_Blue_Plan_2018.pdf">Singapore Blue Plan 2018</a>
+                </div>
+                <div id="map" style="width:100%;height:80vh; margin-bottom:2rem;"></div>
+        </div>
 
         <section>
             <h3>Data sources</h3>
@@ -69,6 +80,21 @@ description: "Information about the various islands affected by the Western Isla
 
 
   <script>
+                let places = {
+                {% for post in site.articles %}
+                {% if post.path contains "articles/locations/" %}
+                "{{post.slug}}" : {
+                    "label":"{{post.title}}",
+                    "img":"{{post.coverimg}}",
+                    "link":"{{post.url}}",
+                    "description": "{{post.summary}}"
+                },
+                
+                {% endif %}
+                {% endfor %}
+                
+
+            }
             const habitats = {
                 "pointer-events": "none",
                 "lowland-forest": {
@@ -430,9 +456,7 @@ description: "Information about the various islands affected by the Western Isla
             function getIslandPlace(island) {
                 if (typeof places === "undefined") return null;
 
-                return Object.values(places).find((entry) =>
-                    entry.label && entry.label.toLowerCase().includes(island.toLowerCase()),
-                );
+                return places[island];
             }
 
             function getIslandStyle(feature) {
@@ -456,17 +480,17 @@ description: "Information about the various islands affected by the Western Isla
                 return words.length > 70 ? `${words.slice(0, 70).join(" ")}...` : words.join(" ");
             }
 
-            // Define strict boundaries around Western Island
-            var southWest = L.latLng(1.160, 103.902);
-            var northEast = L.latLng(1.300, 103.600);
-            var westernIslandBounds = L.latLngBounds(southWest, northEast);
 
+
+            var southWest = L.latLng(0.900, 103.300);
+            var northEast = L.latLng(1.700, 104.400);
+            var singaporeBounds = L.latLngBounds(southWest, northEast);
             const map = L.map("map", {
                 preferCanvas: true,
-                center: [1.200, 103.750], // Center of Western Island
-                zoom: 12.6,
-                minZoom: 11, // Prevents zooming out past the island view
-                maxBounds: westernIslandBounds,
+                center: [1.218951, 103.741054], // Center of Singapore
+                zoom: 12,
+                minZoom: 8, // Prevents zooming out past the island view
+                maxBounds: singaporeBounds,
                 maxBoundsViscosity: 0.2
             })
             // Load OpenStreetMap Tiles
@@ -480,97 +504,11 @@ description: "Information about the various islands affected by the Western Isla
                 },
             ).addTo(map);
 
-            // 1. Define the custom button control
-            let habitatToggle = L.Control.extend({
-                options: {
-                    position: 'topleft' // Choose: 'topleft', 'topright', 'bottomleft', 'bottomright'
-                },
-
-                onAdd: function (map) {
-                    // Create a container DOM element with standard Leaflet control styling
-                    var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-habitat-place leaflet-control-habitat active');
-                    
-                    container.innerHTML = 'Habitats'; // You can use text, emojis, or HTML icons here
-                    
-
-                    // Disable map dragging/clicking when interacting with the button
-                    L.DomEvent.disableClickPropagation(container);
-
-                    // Define the click event
-                    L.DomEvent.on(container, 'click', function (e) {
-                        container.classList.toggle("active")
-                        document.getElementsByClassName('leaflet-control-place')[0].classList.toggle('active')
-                        if(container.classList.contains('active')){
-                            habitatLayers.forEach(h=>{
-                                map.addLayer(h);
-                            })
-                            placeLayers.forEach(h=>{
-                                map.removeLayer(h);
-                            })
-                        }else{
-                            habitatLayers.forEach(h=>{
-                                map.removeLayer(h);
-                            })
-                            placeLayers.forEach(h=>{
-                                map.addLayer(h);
-                            })
-                        }
-                    });
-
-                    return container;
-                }
-            });
-
-            // 2. Add the custom control to your map instance
-            map.addControl(new habitatToggle());
-
-            let placeToggle = L.Control.extend({
-                options: {
-                    position: 'topleft' // Choose: 'topleft', 'topright', 'bottomleft', 'bottomright'
-                },
-
-                onAdd: function (map) {
-                    // Create a container DOM element with standard Leaflet control styling
-                    var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-habitat-place leaflet-control-place');
-                    
-                    container.innerHTML = 'Places'; // You can use text, emojis, or HTML icons here
-                    
-
-                    // Disable map dragging/clicking when interacting with the button
-                    L.DomEvent.disableClickPropagation(container);
-
-                    // Define the click event
-                    L.DomEvent.on(container, 'click', function (e) {
-                        container.classList.toggle("active")
-                        document.getElementsByClassName('leaflet-control-habitat')[0].classList.toggle('active')
-                        
-                        if(container.classList.contains('active')){
-                            placeLayers.forEach(h=>{
-                                map.addLayer(h);
-                            })
-                            habitatLayers.forEach(h=>{
-                                map.removeLayer(h);
-                            })
-                        }else{
-                            placeLayers.forEach(h=>{
-                                map.removeLayer(h);
-                            })
-                            habitatLayers.forEach(h=>{
-                                map.addLayer(h);
-                            })
-                        }
-                    });
-
-                    return container;
-                }
-            });
-
-            // 2. Add the custom control to your map instance
-            map.addControl(new placeToggle());
+           
 
 
 
-
+            
 
 
 
@@ -609,14 +547,18 @@ description: "Information about the various islands affected by the Western Isla
                     onEachFeature: (feature, layer) => {
                         const island = feature.properties.ISLAND;
                         const place = island && getIslandPlace(island);
-                        if (!island) return;
-
+                        console.log(island);
+                        if (!island || !(island in places)) return;
+                        
+                        
                         layer.bindPopup(`
                             <div class="habitat-popup">
-                                ${place && place.img ? `<img src="${place.img}"/>` : ""}
-                                <h3>${island}</h3>
-                                ${place && place.description ? `<p>${getIslandExcerpt(place)}</p>` : ""}
-                                ${getIslandLink(island) ? `<a href="${getIslandLink(island)}">Read more...</a>` : ""}
+                                <div class="habitat-popup">
+                                    <img src="${places[island]["img"] || ""}"/>
+                                    <h3>${places[island]["label"] || "No Name"}</h3>
+                                    <p>${places[island]["description"] || ""}</p>
+                                    <a href="${places[island]["link"] || ""}">Read more...</a>
+                                </div>
                             </div>
                         `, {
                             maxWidth: 250,
@@ -652,15 +594,14 @@ description: "Information about the various islands affected by the Western Isla
 
             
         </script>
-    <script src="/assets/js/habitatsplacemap.js"></script>
 
 <blockquote>
-    <p>Past conservation efforts** include those in 1987-1991 by The Reef Survey and Conservation Project,
+    <p>Past conservation efforts include those in 1987-1991 by The Reef Survey and Conservation Project,
         a project undertaken by the Republic of Singapore Yacht Club (RSYC), Singapore Institute of Biology (SIBiol)
         and Singapore Underwater Federation (SUF). Among the results was identifying and targeting four reef areas as
         good enough to merit some form of conservation: St John's group of islands, Pulau Hantu and patch reefs,
         Pulau Semakau and patch reefs, live firing islands including Raffles Lighthouse. More details on this and other
-        conservation efforts on the [Coral Reefs of Singapore website](http://coralreef.nus.edu.sg/conserve/conserve.htm).
+        conservation efforts on the <a href="http://coralreef.nus.edu.sg/conserve/conserve.htm">Coral Reefs of Singapore website</a>.
     </p>
 </blockquote>
 

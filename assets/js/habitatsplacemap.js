@@ -61,6 +61,8 @@ function loadPlaces(){
                         feature.properties.name
                     ) {
                         let name = feature.properties.name
+                        console.log("Clicked on " + name);
+                        
                         if(places[name]){
                             const popup = `
                                 <div class="habitat-popup">
