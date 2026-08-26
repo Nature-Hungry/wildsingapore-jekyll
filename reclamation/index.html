@@ -1,0 +1,142 @@
+---
+title: Reclamation in Singapore
+---
+{% include global/header.html %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Inclusive+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+	.reclamation-page {
+		color: #324712;
+		font-family: 'Inclusive Sans', sans-serif;
+	}
+
+	.reclamation-page h1,
+	.reclamation-page h2,
+	.reclamation-page h3 {
+		color: #324712;
+		font-family: 'Garet', 'Inclusive Sans', sans-serif;
+		font-weight: 700;
+	}
+
+	.reclamation-page h1 {
+		margin-bottom: 1rem;
+		font-family: 'DM Sans', sans-serif;
+	}
+
+	.reclamation-map {
+		position: relative;
+		height: 80vh;
+		min-height: 28rem;
+		margin-bottom: 2rem;
+	}
+
+	.reclamation-map.loading::before {
+		position: absolute;
+		z-index: 999;
+		inset: 0;
+		content: '';
+		background: rgba(247, 241, 222, 0.7);
+	}
+
+	.reclamation-popup {
+		color: #324712;
+		font-family: 'Inclusive Sans', sans-serif;
+	}
+
+	.reclamation-popup h3 {
+		margin: 0 0 0.75rem;
+		font-family: 'DM Sans', sans-serif;
+	}
+
+	.reclamation-popup p {
+		margin: 0 0 1rem;
+	}
+
+	.reclamation-popup .btn {
+		display: inline-block;
+		padding: 0.55rem 0.85rem;
+		background-color: #324712;
+		color: #F7F1DE;
+		text-decoration: none;
+	}
+</style>
+
+<main class="page-content page-content-full-width reclamation-page" id="main-content">
+	<h1>Reclamation in Singapore</h1>
+	<div id="map" class="reclamation-map loading" aria-label="Map of reclamation projects"></div>
+</main>
+
+<script>
+	const map = L.map("map", {
+		preferCanvas: true,
+		center: [1.218951, 103.741054],
+		zoom: 12,
+		minZoom: 8,
+		maxBounds: L.latLngBounds([0.900, 103.300], [1.700, 104.400]),
+		maxBoundsViscosity: 0.2,
+	});
+
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key=cb1_26hm_1_304b9580a7cc66ecb19c3954', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd', maxZoom: 20
+        }).addTo(map);
+
+	const projectLinks = {
+		"Changi Bay": "changibay",
+		"Pasir Ris": "pasirris",
+		"Tekong-Ubin": "tekong-ubin",
+		"Tuas Megaport": "tuasmegaport",
+		"Western Island": "westernisland",
+	};
+
+	fetch("/assets/geojson/reclamationprojects.geojson")
+		.then((response) => {
+			if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+			return response.json();
+		})
+		.then((data) => {
+			const projectLayer = L.geoJSON(data, {
+				style: {
+					color: "#324712",
+					fillColor: "#F7F1DE",
+					weight: 2,
+					opacity: 0.95,
+					fillOpacity: 0.5,
+				},
+				onEachFeature: (feature, layer) => {
+					const project = feature.properties || {};
+					const name = project.NAME || "Reclamation project";
+					const area = Number(project.SHAPE_AREA);
+					const areaLabel = Number.isFinite(area) ? Math.round(area).toLocaleString() : "Unavailable";
+					const slug = projectLinks[name];
+					const readMore = slug
+						? `<a class="btn" href="/reclamation/${slug}/">Read more</a>`
+						: "";
+
+					layer.bindPopup(`
+						<div class="reclamation-popup">
+							<h3>${name}</h3>
+							<p>Land Area: ${areaLabel} hectares</p>
+							${readMore}
+						</div>
+					`, {
+						maxWidth: 250,
+						className: "habitat-popup-wrapper",
+						closeButton: true,
+					});
+				},
+			}).addTo(map);
+
+			map.fitBounds(projectLayer.getBounds(), { padding: [20, 20] });
+			document.getElementById("map").classList.remove("loading");
+		})
+		.catch((error) => {
+			console.error("Error fetching reclamation project data:", error);
+			document.getElementById("map").classList.remove("loading");
+		});
+</script>
+
+{% include global/footer.html %}
+
