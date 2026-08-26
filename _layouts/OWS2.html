@@ -1,0 +1,96 @@
+---
+---
+{% include global/header.html %}
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Inclusive+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+	.ows2-page {
+		background-color: #F7F1DE;
+		color: #324712;
+		font-family: 'Inclusive Sans', sans-serif;
+	}
+
+	.ows2-page h2,
+	.ows2-page h3,
+	.ows2-page h4,
+	.ows2-page h5,
+	.ows2-page h6 {
+		font-family: 'Garet', 'Inclusive Sans', sans-serif;
+		font-weight: 700;
+	}
+
+	.ows2-cover {
+		position: relative;
+		margin: 0 0 2rem;
+		overflow: hidden;
+	}
+
+	.ows2-cover img {
+		display: block;
+		width: 100%;
+		height: clamp(18rem, 52vw, 34rem);
+		object-fit: cover;
+	}
+
+	.ows2-title {
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		margin: 0;
+		padding: 5rem 2rem 1.5rem;
+		color: #F7F1DE;
+		font-family: 'DM Sans', sans-serif;
+		font-size: clamp(2rem, 5vw, 4rem);
+		font-weight: 700;
+		line-height: 1.05;
+		background: linear-gradient(transparent, rgba(50, 71, 18, 0.82));
+	}
+
+	.ows2-title--standalone {
+		position: static;
+		padding: 0 0 1.5rem;
+		color: #324712;
+		background: none;
+	}
+
+	.ows2-content {
+		background-color: #F7F1DE;
+		color: #324712;
+	}
+
+	.ows2-content img {
+		max-height: 600px;
+	}
+
+	.ows2-content .justifiedgallery-item img {
+		height: 300px;
+		max-height: 600px;
+	}
+
+	@media screen and (max-width: 500px) {
+		.ows2-content .justifiedgallery-item img {
+			height: 180px;
+		}
+	}
+</style>
+
+<main class="page-content page-content-full-width ows2-page" id="main-content">
+	{% if page.coverimg %}
+		<div class="ows2-cover">
+			<img src="{{ page.coverimg }}" alt="">
+			{% if page.title %}
+				<h1 class="ows2-title">{{ page.title }}</h1>
+			{% endif %}
+		</div>
+	{% elsif page.title %}
+		<h1 class="ows2-title ows2-title--standalone">{{ page.title }}</h1>
+	{% endif %}
+
+	<div class="ows2-content">
+		{{ content }}
+	</div>
+</main>
+
+{% include global/footer.html %}
