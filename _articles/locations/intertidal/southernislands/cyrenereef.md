@@ -3,6 +3,7 @@ title: "Cyrene "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "cyrene, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default
+summary: Cyrene Reef is a rich marine habitat with coral reefs, seagrass meadows and other intertidal life along Singapore's southern shores.
 ---
 
 
