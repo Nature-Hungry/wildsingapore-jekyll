@@ -11,7 +11,7 @@ galleries:
 
 ## Ecological Significance
 
-![](https://images.naturehungry.sg/photos/OWS2/Loyang-Mangroves-2.jpg)
+![](https://images.naturehungry.sg/photos/OWS2/Serangoon-River-Forest-2.jpg)
 
 Serangoon River Forest is one of the largest continuous patches in the northeast of Singapore. It consists of secondary forest, marshes, grassland and riverine vegetation. It is dominated by lead trees (*Leucaena leucocephala*), potentially due to its highly disturbed state from decades of changing land uses, from past fishing farms in the 90s, to the reclamation and damming of Sungei Serangoon, and landfilling at Lorong Halus. The area is currently used by a variety of wildlife, including waterbirds, raptors, and mammals such as civets. A tapir was also sighted in the forest in March 2026, which shows its potential as a viable habitat for larger mammals. While it is not as ecologically rich as other sites, it serves as an important node for **ecological connectivity** in eastern Singapore, connecting Coney Island and Lorong Halus to Paya Lebar Airbase and Bedok Reservoir. Maintaining **ecological connectivity** to the potential future green spine at Paya Lebar Airbase will be critical to sustaining biodiversity in eastern Singapore.
 

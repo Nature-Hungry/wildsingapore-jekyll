@@ -20,25 +20,16 @@ description: "Information about the various islands affected by the Tekong-Ubin 
     object-position: center;
 }
 
-.map-layer-toggle {
-    padding: 0.4rem 0.6rem;
-    background: #fff;
-    border-radius: 4px;
-    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
-    font-size: 0.85rem;
-}
-.map-layer-toggle label {
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
+.leaflet-control-habitat-place {
     cursor: pointer;
-    white-space: nowrap;
+    background-color: white;
+    font-size: 1rem;
+    color: var(--color-text);
+    padding: 0.5rem;
 }
-.map-layer-toggle label + label {
-    margin-top: 0.35rem;
-}
-.map-layer-toggle input {
-    margin: 0;
+.leaflet-control-habitat-place.active {
+    background-color: var(--color-primary);
+    color: white;
 }
 
 .two-col {
@@ -81,12 +72,12 @@ description: "Information about the various islands affected by the Tekong-Ubin 
                     <p>
                         Chek Jawa today still houses <strong>six habitats</strong>. The habitats include:
                         <ul>
-                            <li>Coastal Hill Forest</li>
-                            <li>Mangroves</li>
-                            <li>Rocky Shore</li>
-                            <li>Sandy Shore and Sand Bar</li>
-                            <li>Seagrass Lagoon</li>
-                            <li>Coral Rubble Area</li>
+                            <li><a href="/habitats/coastalvegetation/">Coastal Hill Forest</a></li>
+                            <li><a href="/habitats/mangroves/">Mangroves</a></li>
+                            <li><a href="/habitats/rocky-shore/">Rocky Shore</a></li>
+                            <li><a href="/habitats/sandy-shore/">Sandy Shore and Sand Bar</a></li>
+                            <li><a href="/habitats/seagrass-lagoon/">Seagrass Lagoon</a></li>
+                            <li><a href="/habitats/coral-rubble-area/">Coral Rubble Area</a></li>
                         </ul>
                     </p>
                 </div>
@@ -449,7 +440,7 @@ description: "Information about the various islands affected by the Tekong-Ubin 
             }
 
             function getHabitatDetails(habitatType) {
-                return Object.values(habitats).find((entry) =>
+                return habitats[habitatType] || Object.values(habitats).find((entry) =>
                     entry.label && habitatType && entry.label.toLowerCase() === habitatType.toLowerCase(),
                 ) || {};
             }
@@ -481,20 +472,25 @@ description: "Information about the various islands affected by the Tekong-Ubin 
             function getIslandPlace(island) {
                 if (typeof places === "undefined") return null;
 
-                return places[island];
+                if (places[island]) return places[island];
+
+                const islandName = island.toLowerCase();
+                return Object.values(places).find((place) =>
+                    place.label && place.label.toLowerCase().includes(islandName),
+                ) || null;
             }
 
             function getIslandStyle(feature) {
                 const island = feature.properties.ISLAND;
                 const isKnownIsland = island && getIslandLink(island);
-                const color = isKnownIsland ? "#aa002b" : "#777777";
+                const color = "#aa002b";
 
                 return {
                     color,
                     fillColor: color,
-                    weight: isKnownIsland ? 2 : 0.5,
-                    opacity: isKnownIsland ? 0.95 : 0.2,
-                    fillOpacity: isKnownIsland ? 0.35 : 0.04,
+                    weight: isKnownIsland ? 2 : 1,
+                    opacity: 0.8,
+                    fillOpacity: 0.2,
                 };
             }
 
@@ -519,41 +515,51 @@ description: "Information about the various islands affected by the Tekong-Ubin 
                 maxBoundsViscosity: 0.2
             })
 
-            const layerToggle = L.control({ position: "topleft" });
-            layerToggle.onAdd = () => {
-                const container = L.DomUtil.create("div", "map-layer-toggle");
-                const createLayerToggle = (labelText, checked, ariaLabel, onChange) => {
-                    const label = L.DomUtil.create("label", "", container);
-                    const input = L.DomUtil.create("input", "", label);
-                    const text = L.DomUtil.create("span", "", label);
+            let habitatToggle = L.Control.extend({
+                options: {
+                    position: "topleft",
+                },
 
-                    input.type = "checkbox";
-                    input.checked = checked;
-                    input.setAttribute("aria-label", ariaLabel);
-                    text.textContent = labelText;
-                    input.addEventListener("change", onChange);
+                onAdd: function () {
+                    const container = L.DomUtil.create("div", "leaflet-bar leaflet-control leaflet-control-habitat-place");
+                    container.textContent = "Habitats";
+                    L.DomEvent.disableClickPropagation(container);
 
-                    return input;
-                };
+                    L.DomEvent.on(container, "click", function () {
+                        container.classList.add("active");
+                        document.getElementsByClassName("leaflet-control-place")[0].classList.remove("active");
+                        habitatLayers.forEach((layer) => map.addLayer(layer));
+                        placeLayers.forEach((layer) => map.removeLayer(layer));
+                    });
 
-                const islandsInput = createLayerToggle("Islands", true, "Show islands", () => {
-                    islandsInput.checked = true;
-                    habitatInput.checked = false;
-                    placeLayers.forEach((layer) => layer.addTo(map));
-                    habitatLayers.forEach((layer) => map.removeLayer(layer));
-                });
-                const habitatInput = createLayerToggle("Habitat map", false, "Show habitat map", () => {
-                    islandsInput.checked = false;
-                    habitatInput.checked = true;
-                    placeLayers.forEach((layer) => map.removeLayer(layer));
-                    habitatLayers.forEach((layer) => layer.addTo(map));
-                });
+                    return container;
+                },
+            });
 
-                L.DomEvent.disableClickPropagation(container);
-                L.DomEvent.disableScrollPropagation(container);
-                return container;
-            };
-            layerToggle.addTo(map);
+            map.addControl(new habitatToggle());
+
+            let placeToggle = L.Control.extend({
+                options: {
+                    position: "topleft",
+                },
+
+                onAdd: function () {
+                    const container = L.DomUtil.create("div", "leaflet-bar leaflet-control leaflet-control-habitat-place leaflet-control-place active");
+                    container.textContent = "Islands";
+                    L.DomEvent.disableClickPropagation(container);
+
+                    L.DomEvent.on(container, "click", function () {
+                        container.classList.add("active");
+                        document.getElementsByClassName("leaflet-control-habitat-place")[0].classList.remove("active");
+                        placeLayers.forEach((layer) => map.addLayer(layer));
+                        habitatLayers.forEach((layer) => map.removeLayer(layer));
+                    });
+
+                    return container;
+                },
+            });
+
+            map.addControl(new placeToggle());
 
             // Load OpenStreetMap Tiles
             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_26hm_1_304b9580a7cc66ecb19c3954', {
@@ -604,17 +610,18 @@ description: "Information about the various islands affected by the Tekong-Ubin 
                     onEachFeature: (feature, layer) => {
                         const island = feature.properties.ISLAND;
                         const place = island && getIslandPlace(island);
-                        console.log(island);
-                        if (!island || !(island in places)) return;
-                        
-                        
+                        const name = place?.label || island || "Island";
+                        const readMore = place?.link
+                            ? `<a href="${place.link}">Read more...</a>`
+                            : "";
+
                         layer.bindPopup(`
                             <div class="habitat-popup">
                                 <div class="habitat-popup">
-                                    <img src="${places[island]["img"] || ""}"/>
-                                    <h3>${places[island]["label"] || "No Name"}</h3>
-                                    <p>${places[island]["description"] || ""}</p>
-                                    <a href="${places[island]["link"] || ""}">Read more...</a>
+                                    ${place?.img ? `<img src="${place.img}"/>` : ""}
+                                    <h3>${name}</h3>
+                                    <p>${place?.description || "No information available."}</p>
+                                    ${readMore}
                                 </div>
                             </div>
                         `, {
@@ -631,7 +638,26 @@ description: "Information about the various islands affected by the Tekong-Ubin 
             function loadHabitatLayers(data) {
                 const habitatLayer = L.geoJSON(data, {
                     style: getHabitatStyle,
-                    interactive: false,
+                    onEachFeature: (feature, layer) => {
+                        const properties = feature.properties || {};
+                        const habitatType = properties.habitat || properties.HABITAT_TYPE || data.name || "Habitat";
+                        const details = getHabitatDetails(habitatType);
+                        const readMore = details.link
+                            ? `<a href="${details.link}">Read more...</a>`
+                            : "";
+
+                        layer.bindPopup(`
+                            <div class="habitat-popup">
+                                <h3>${details.label || habitatType}</h3>
+                                <p>${details.description || "No information available."}</p>
+                                ${readMore}
+                            </div>
+                        `, {
+                            maxWidth: 250,
+                            className: "habitat-popup-wrapper",
+                            closeButton: true,
+                        });
+                    },
                 });
 
                 habitatLayers.push(habitatLayer);
