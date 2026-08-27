@@ -110,10 +110,10 @@ description: "Information about the various terrestrial habitats in Singapore wi
                 maxBoundsViscosity: 0.2
             })
             // Load OpenStreetMap Tiles
-            L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key=YOUR_KEY', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>',
-                subdomains: 'abcd', maxZoom: 20
-            }).addTo(map);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_26hm_1_304b9580a7cc66ecb19c3954', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd', maxZoom: 20
+        }).addTo(map);
 
             const ows2NameColors = [
                 "#aa002b", "#e76f51", "#f4a261", "#e9c46a", "#2a9d8f",
