@@ -1,6 +1,5 @@
 ---
 title: The Western Island
-summary: PM Wong announced on the NDR 2026 that a few southern islands will be merged into one island through reclamation to build advanced manufacturing and energy infrastructure. This will destroy the majority of marine ecosystems that still remain in Singapore.
 description: "Information about the various islands affected by the Western Island reclamation in Singapore with an interactive map"
 ---
 {% include global/header.html %}
@@ -110,11 +109,11 @@ description: "Information about the various islands affected by the Western Isla
                 let places = {
                 {% for post in site.articles %}
                 {% if post.path contains "articles/locations/" %}
-                "{{post.title | strip | downcase}}" : {
-                    "label": {{post.title | jsonify}},
-                    "img": {{post.coverimg | jsonify}},
-                    "link": {{post.url | jsonify}},
-                    "summary": {{post.summary | default: "" | jsonify}}
+                "{{post.slug}}" : {
+                    "label":"{{post.title}}",
+                    "img":"{{post.coverimg}}",
+                    "link":"{{post.url}}",
+                    "description": "{{post.summary}}"
                 },
                 
                 {% endif %}
@@ -463,8 +462,6 @@ description: "Information about the various islands affected by the Western Isla
                     "Pulau Jong": "/articles/locations/intertidal/southernislands/jong/",
                     "Pulau Semakau": "/articles/locations/intertidal/southernislands/semakau/",
                     "Pulau Sudong": "/articles/locations/intertidal/southernislands/lfa/",
-                    "Live Firing Area": "/articles/locations/intertidal/southernislands/livefiringarea/",
-                    "Cyrene": "/articles/locations/intertidal/southernislands/cyrenereef/",
                     "Terumbu Bemban": "/articles/locations/intertidal/southernislands/terumbubemban/",
                     "Terumbu Hantu": "/articles/locations/intertidal/southernislands/hantu/",
                     "Terumbu Pempang Laut": "/articles/locations/intertidal/southernislands/terumbupempanglaut/",
@@ -478,24 +475,14 @@ description: "Information about the various islands affected by the Western Isla
 
                 if (mappedIsland) return islandLinks[mappedIsland];
 
-                const place = typeof places !== "undefined"
-                    ? places[normalizeIslandName(island)]
-                    : null;
+                const place = getIslandPlace(island);
                 return place && place.link;
-            }
-
-            function normalizeIslandName(island) {
-                return String(island || "").trim().toLowerCase();
             }
 
             function getIslandPlace(island) {
                 if (typeof places === "undefined") return null;
 
-                const directMatch = places[normalizeIslandName(island)];
-                if (directMatch) return directMatch;
-
-                const link = getIslandLink(island);
-                return link ? Object.values(places).find((place) => place.link === link) || null : null;
+                return places[island];
             }
 
             function getIslandStyle(feature) {
@@ -506,9 +493,9 @@ description: "Information about the various islands affected by the Western Isla
                 return {
                     color,
                     fillColor: color,
-                    weight: isKnownIsland ? 3 : 1,
-                    opacity: 0.8,
-                    fillOpacity: isKnownIsland ? 0.2 : 0.12,
+                    weight: isKnownIsland ? 5 : 0.5,
+                    opacity: isKnownIsland ? 0.6 : 0.0,
+                    fillOpacity: isKnownIsland ? 0.05 : 0.00,
                     className: isKnownIsland ? "glowing-polygon": ""
                 };
             }
@@ -566,22 +553,19 @@ description: "Information about the various islands affected by the Western Isla
                 const islandLayer = L.geoJSON(data, {
                     style: getIslandStyle,
                     onEachFeature: (feature, layer) => {
-                        const island = feature.properties?.ISLAND || "Island";
-                        const place = getIslandPlace(island);
-                        const link = getIslandLink(island);
-                        const name = place?.label || island;
-                        const summary = place?.summary || "No information available.";
-                        const readMore = link
-                            ? `<a href="${link}">Read more...</a>`
-                            : "";
+                        const island = feature.properties.ISLAND;
+                        const place = island && getIslandPlace(island);
+                        console.log(island);
+                        if (!(island in places)) return;
+                        
                         
                         layer.bindPopup(`
                             <div class="habitat-popup">
                                 <div class="habitat-popup">
-                                    ${place?.img ? `<img src="${place.img}"/>` : ""}
-                                    <h3>${name}</h3>
-                                    <p>${summary}</p>
-                                    ${readMore}
+                                    <img src="${places[island]["img"] || ""}"/>
+                                    <h3>${places[island]["label"] || "No Name"}</h3>
+                                    <p>${places[island]["description"] || ""}</p>
+                                    <a href="${places[island]["link"] || ""}">Read more...</a>
                                 </div>
                             </div>
                         `, {
