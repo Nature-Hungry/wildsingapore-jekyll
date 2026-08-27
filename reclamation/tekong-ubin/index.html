@@ -1,0 +1,665 @@
+---
+title: Tekong-Ubin Reclamation
+summary: Chek Jawa was slated for reclamation in 2001, but was deferred after a public outcry.
+description: "Information about the various islands affected by the Tekong-Ubin reclamation in Singapore with an interactive map"
+---
+
+{% include global/header.html %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
+<style>
+    .habitat-popup p{
+    margin:0.5rem 0;
+}
+.habitat-popup img{
+    width:100%;
+    height:150px;
+    margin-bottom:0.5rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+.map-layer-toggle {
+    padding: 0.4rem 0.6rem;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+    font-size: 0.85rem;
+}
+.map-layer-toggle label {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.map-layer-toggle label + label {
+    margin-top: 0.35rem;
+}
+.map-layer-toggle input {
+    margin: 0;
+}
+
+.two-col {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+@media (max-width: 800px) {
+      .two-col {
+        flex-direction: column;
+      }
+      
+    }
+
+</style>
+
+    <main class="page-content page-content-full-width" id="main-content">
+        <div class="two-col">
+
+            <div style="width:100%;">
+                    <h1 class="page-title">Tekong-Ubin Reclamation</h1>
+                    <p>
+                        In 1992, Chek Jawa Wetlands was slated for reclamation. Plans were revealed to the public in the year 2000.
+                        Public outcry was immense. Crowds of researchers, members of public, and volunteers from various nature
+                        groups gathered to document everything on the shore before it would get buried.
+                    </p>
+                    <p>
+                        This led to a large appeal for Chek Jawa to be saved, and for the reclamation to be deferred. In December of 2001,
+                        the Ministry of National Development announced that the reclamation of Chek Jawa would be deferred.
+                        This news came in the form of a press release from MND after the then Minister for National Development,
+                        Mr Mah Bow Tan, met with representatives of nature groups in a closed-door meeting.
+                    </p>
+                    <p>
+                        After the announcement of deferment, the National Parks Board (NParks) would have to create
+                        a visitor management plan to ensure that the biodiversity of Chek Jawa would not degrade
+                        due to increased foot traffic and trampling. In July 2007, a boardwalk would be constructed in the following
+                        years to further reduce foot traffic, and the public can only walk on the intertidal zone during
+                        official NParks guided walks.
+                    </p>
+                    <p>
+                        Chek Jawa today still houses <strong>six habitats</strong>. The habitats include:
+                        <ul>
+                            <li>Coastal Hill Forest</li>
+                            <li>Mangroves</li>
+                            <li>Rocky Shore</li>
+                            <li>Sandy Shore and Sand Bar</li>
+                            <li>Seagrass Lagoon</li>
+                            <li>Coral Rubble Area</li>
+                        </ul>
+                    </p>
+                </div>
+                <div id="map" style="width:100%;height:80vh; margin-bottom:2rem;"></div>
+        </div>
+
+        <section>
+            <h3>Data sources</h3>
+            <ul>
+                <li><a href="https://data.gov.sg/datasets/d_18bcfe0a1b8c77f9b4493cef72ffd717/view">Coastal and Marine Habitat Map of Singapore 2018</a></li>
+                <li><a href="https://www.nparks.gov.sg/sbg/research/publications/the-gardens'-bulletin-singapore/-/media/sbg/gardens-bulletin/gbs_63_01,-a-,02_y2011_v63_01,-a-,02/63_01,-a-,02_205_y2011_v63p1,-a-,p2_gbs_pg_205.pdf">The vegetation of Singapore - an updated map</a></li>
+            </ul>
+        </section>
+    </main>
+
+
+
+  <script>
+                let places = {
+                {% for post in site.articles %}
+                {% if post.path contains "articles/locations/" %}
+                "{{post.slug}}" : {
+                    "label":"{{post.title}}",
+                    "img":"{{post.coverimg}}",
+                    "link":"{{post.url}}",
+                    "description": "{{post.summary}}"
+                },
+                
+                {% endif %}
+                {% endfor %}
+                
+
+            }
+            const habitats = {
+                "pointer-events": "none",
+                "lowland-forest": {
+                    "label": "Lowland forest",
+                    "description": "Historically covered majority of Singapore's landmass and dominated by tall trees of the Dipterocarpaceae family. Today, the majority of these native forests are comprised of fast growing pioneer trees and only small pockets of primary dipterocarp-dominated forests remain.",
+                    "link": "/articles/habitats/lowlandforest",
+                    "style":{
+                        
+                        fillColor: "#228B22",
+                        weight: 0,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#228B22",
+                        fillColor: "#228B22",
+                        weight: 3,
+                        opacity: 0.6,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "youngsecondaryforest": {
+                    "label": "Young secondary forest",
+                    "description": "Forests that have been altered significantly in recent history. They are important buffer zones that help regulate the local climate and provide connectivity between the fragmented habitats. The term 'young secondary forest' is used here as a blanket phrase for many different kinds of forests for ease of display.",
+                    "link": "/articles/habitats/youngsecondaryforest",
+                    "style":{
+                        color: "#99d67a",
+                        fillColor: "#99d67a",
+                        weight: 0,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#99d67a",
+                        fillColor: "#99d67a",
+                        weight: 3,
+                        opacity: 0.6,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "built-up": {
+                    "label": "Built-up",
+                    "description": "Houses the more than 6 million people living in Singapore. Roads and paths are well planted with ornamental plants. Only the hardy and adaptable lifeforms can make a living here and thrive in relative safety from predators",
+                    "link": "/articles/habitats/builtup",
+                    "style":{
+                        fillColor: "#F4F4F4",
+                        weight: 0,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#F4F4F4",
+                        fillColor: "#F4F4F4",
+                        weight: 0,
+                        opacity: 0.6,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "freshwater-body": {
+                    "label": "Freshwater body",
+                    "description": "Low-lying areas and rivers that have been dammed to serve to reservoirs to sustain Singapore's water security. Hardy fish introduced from the ornamental fish trade dominate this habitat which feed the various waterbirds and otters.",
+                    "link": "/articles/habitats/freshwaterbody",
+                    "style":{
+                        color: "#87CEEB",
+                        fillColor: "#87CEEB",
+                        weight: 0,
+                        fillOpacity: 0.4,
+                    },
+                    "hoverstyle":{
+                        color: "#87CEEB",
+                        fillColor: "#87CEEB",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                estuary: {
+                    "label": "Estuary",
+                    "description": "A transitional habitat where freshwater from the land meets with saltwater from the sea, creating a unique nutrient rich habitat where many young animals from the sea come to feed and grow",
+                    "link": "/articles/habitats/estuary",
+                    "style":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "coastal-vegetation":{
+                    "label":"Coastal vegetation",
+                    "description":"Battered by strong winds and salt spray, the wide variety of plants here have special adaptations to help them deal with these harsh conditions. In disturbed areas, casuarina trees dominate the landscape.",
+                    "link": "/articles/habitats/coastalvegetation",
+                    "style":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#9FE2BF",
+                        fillColor: "#9FE2BF",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "coral":{
+                    "label":"Coral reefs & rubble",
+                    "description":"Some of the most diverse ecosystems in the ocean that is built by a very special group of animals called the hard corals. A unique form of coral rubble where colourful sponges and soft corals grow in abundance instead of hard corals can be found around the mouth of the johor river.",
+                    "link": "/articles/habitats/coral",
+                    "style":{
+                        color: "#CC338B",
+                        fillColor: "#CC338B",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#CC338B",
+                        fillColor: "#CC338B",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "mangrove":{
+                    "label":"Mangroves",
+                    "description":"Formed by trees and shrubs that have unique adaptations for dealing with frequent inundation by saltwater. Responsible for slowing down currents from the sea, allowing sediment to deposit and build landmass while preventing coastal erosion. Home to a diverse community of life perfectly suited to live between two worlds.",
+                    "link": "/articles/habitats/mangrove",
+                    "style":{
+                        color: "#097969",
+                        fillColor: "#097969",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#097969",
+                        fillColor: "#097969",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "mudflat":{
+                    "label":"Mudflats",
+                    "description":"Found along sheltered coasts where sediment accumulates from rivers or tides. Underneath the mud, rich populations of worms, mollusks, crustaceans serves as crucial feeding grounds for thousands of migratory wading birds along the East Asian-Australasian Flyway.",
+                    "link": "/articles/habitats/mudflat",
+                    "style":{
+                        color: "#70543E",
+                        fillColor: "#70543E",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#70543E",
+                        fillColor: "#70543E",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "rocky-shore":{
+                    "label":"Rocky shore",
+                    "link": "/articles/habitats/rocky-shore",
+                    "style":{
+                        color: "#000000",
+                        fillColor: "#000000",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#000000",
+                        fillColor: "#000000",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "sandy-shore":{
+                    "label":"Sandy shore",
+                    "description":"Made up of broken bits of rocks and shells and bones of sea creatures. Together, sand grains form an entire galaxy of invisible life in the sand.Most sand-dwellers burrow deep into the sand to stay moist and cool at low tide. Living in sand is like living in moving sandpaper as sand particles are abrasive and move with the currents hence many sand dwellers live in protective tubes or shells.",
+                    "link": "/articles/habitats/sandy-shore",
+                    "style":{
+                        color: "#C2B280",
+                        fillColor: "#C2B280",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#C2B280",
+                        fillColor: "#C2B280",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "seagrass":{
+                    "label":"Seagrasses",
+                    "link": "/articles/habitats/seagrass-meadow",
+                    "style":{
+                        color: "#7CFC00",
+                        fillColor: "#7CFC00",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#7CFC00",
+                        fillColor: "#7CFC00",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "marsh":{
+                    "label":"Marsh",
+                    "description":"Slow moving or stagnant water exposed to the sun that is shallow enough to allow emergent grasses and reeds to grow within. Dragonflies, amphibians, and young fish seek refuge in the dense vegetation, which attracts many waterbirds.",
+                    "link": "/articles/habitats/marsh",
+                    "style":{
+                        color: "#DC143C",
+                        fillColor: "#DC143C",
+                        weight: 1,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#DC143C",
+                        fillColor: "#DC143C",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "garden":{
+                    "label":"Parks & Gardens",
+                    "description":"Manicured lands for the comfort, leisure and enjoyment of people. Species diversity can vary depending on what the park is designed for. Often times, only the far dispersing and generalist animals can be found here.",
+                    "link": "/articles/habitats/garden",
+                    "style":{
+                        color: "#B4C424",
+                        fillColor: "#B4C424",
+                        weight: 0,
+                        fillOpacity: 0.4,
+
+                    },
+                    "hoverstyle":{
+                        color: "#B4C424",
+                        fillColor: "#B4C424",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+                "fwsf":{
+                    "label":"Freshwater swamp forests",
+                    "description":"Virtually all freshwater swamp forests(FWSF) in Singapore were destroyed from canalization and flooding of reservoirs, the few left today formed after the increased water table from reservoirs. Trees here have specialized root systems to survive waterlogged and oxygen-poor soil. Most of Singapore's native freshwater fish and amphibians can be found here.",
+                    "link": "/articles/habitats/fwsf",
+                    "style":{
+                        color: "#A68A6D",
+                        fillColor: "#A68A6D",
+                        weight: 1,
+                        fillOpacity: 0.8,
+
+                    },
+                    "hoverstyle":{
+                        color: "#A68A6D",
+                        fillColor: "#A68A6D",
+                        weight: 3,
+                        fillOpacity: 0.8,
+                    }
+                },
+            }
+
+            function getHabitatStyle(feature) {
+                const habitatType = feature.properties.habitat || feature.properties.HABITAT_TYPE || "";
+                const habitatColors = {
+                    "built-up": "#f4f4f4",
+                    "lowland-forest": "#228b22",
+                    "youngsecondaryforest": "#99d67a",
+                    "freshwater-body": "#aab7ba",
+                    "estuary": "#9fe2bf",
+                    "coastal-vegetation": "#9fe2bf",
+                    "coral": "#cc338b",
+                    "mangrove": "#097969",
+                    "mudflat": "#70543e",
+                    "rocky-shore": "#3d3d3d",
+                    "sandy-shore": "#c2b280",
+                    "seagrass": "#5f9f68",
+                    "marsh": "#dc143c",
+                    "garden": "#b4c424",
+                    "fwsf": "#a68a6d",
+                    "Built-up": "#f4f4f4",
+                    "Coastal Vegetation": "#9fe2bf",
+                    "Coral Reef Slope": "#cc338b",
+                    "Coral Rubble with Seagrass and Algae": "#b4c424",
+                    "Coral on Rock Bund": "#c27ba0",
+                    "Mangrove": "#097969",
+                    "Mudflat": "#70543e",
+                    "Openland": "#b4c424",
+                    "Other Vegetation": "#6b8e23",
+                    "Rock Bund": "#808080",
+                    "Rocky Shore": "#3d3d3d",
+                    "Sand and Rubble": "#c2b280",
+                    "Sandflat": "#d2b48c",
+                    "Sandy Beach": "#e6d8ad",
+                    "Seagrass Meadow": "#7cfc00",
+                    "Seagrass and Algae": "#5f9f68",
+                    "Shallow Water": "#b8c2c5",
+                    "Water": "#aab7ba",
+                };
+                const isUnknownHabitat = !Object.prototype.hasOwnProperty.call(habitatColors, habitatType);
+                const color = habitatColors[habitatType] || "#a7a7a7";
+
+                return {
+                    color,
+                    fillColor: color,
+                    weight: isUnknownHabitat ? 0.5 : 1,
+                    opacity: isUnknownHabitat ? 0.35 : 0.8,
+                    fillOpacity: isUnknownHabitat ? 0.2 : 0.55,
+                };
+            }
+
+            function getHabitatHoverStyle(feature) {
+                return {
+                    ...getHabitatStyle(feature),
+                    weight: 3,
+                    opacity: 1,
+                    fillOpacity: 0.8,
+                };
+            }
+
+            function getHabitatDetails(habitatType) {
+                return Object.values(habitats).find((entry) =>
+                    entry.label && habitatType && entry.label.toLowerCase() === habitatType.toLowerCase(),
+                ) || {};
+            }
+
+            function getIslandLink(island) {
+                const islandLinks = {
+                    "Beting Bemban Besar": "/articles/locations/intertidal/southernislands/betingbembanbesar/",
+                    "Pulau Hantu": "/articles/locations/intertidal/southernislands/hantu/",
+                    "Pulau Jong": "/articles/locations/intertidal/southernislands/jong/",
+                    "Pulau Semakau": "/articles/locations/intertidal/southernislands/semakau/",
+                    "Pulau Sudong": "/articles/locations/intertidal/southernislands/lfa/",
+                    "Terumbu Bemban": "/articles/locations/intertidal/southernislands/terumbubemban/",
+                    "Terumbu Hantu": "/articles/locations/intertidal/southernislands/hantu/",
+                    "Terumbu Pempang Laut": "/articles/locations/intertidal/southernislands/terumbupempanglaut/",
+                    "Terumbu Pempang Tengah": "/articles/locations/intertidal/southernislands/terumbupempangtengah/",
+                    "Terumbu Raya": "/articles/locations/intertidal/southernislands/terumburaya/",
+                    "Terumbu Semakau": "/articles/locations/intertidal/southernislands/terumbusemakau/",
+                };
+                const mappedIsland = Object.keys(islandLinks).find((name) =>
+                    name.toLowerCase() === island.toLowerCase(),
+                );
+
+                if (mappedIsland) return islandLinks[mappedIsland];
+
+                const place = getIslandPlace(island);
+                return place && place.link;
+            }
+
+            function getIslandPlace(island) {
+                if (typeof places === "undefined") return null;
+
+                return places[island];
+            }
+
+            function getIslandStyle(feature) {
+                const island = feature.properties.ISLAND;
+                const isKnownIsland = island && getIslandLink(island);
+                const color = isKnownIsland ? "#aa002b" : "#777777";
+
+                return {
+                    color,
+                    fillColor: color,
+                    weight: isKnownIsland ? 2 : 0.5,
+                    opacity: isKnownIsland ? 0.95 : 0.2,
+                    fillOpacity: isKnownIsland ? 0.35 : 0.04,
+                };
+            }
+
+            function getIslandExcerpt(place) {
+                if (!place || !place.description) return "";
+
+                const words = place.description.trim().split(/\s+/);
+                return words.length > 70 ? `${words.slice(0, 70).join(" ")}...` : words.join(" ");
+            }
+
+
+
+            var southWest = L.latLng(1.300, 103.800);
+            var northEast = L.latLng(1.600, 105.000);
+            var singaporeBounds = L.latLngBounds(southWest, northEast);
+            const map = L.map("map", {
+                preferCanvas: true,
+                center: [1.406543, 104.001846], // Between Pulau Tekong and Pulau Ubin
+                zoom: 12,
+                minZoom: 8, // Prevents zooming out past the island view
+                maxBounds: singaporeBounds,
+                maxBoundsViscosity: 0.2
+            })
+
+            const layerToggle = L.control({ position: "topleft" });
+            layerToggle.onAdd = () => {
+                const container = L.DomUtil.create("div", "map-layer-toggle");
+                const createLayerToggle = (labelText, checked, ariaLabel, onChange) => {
+                    const label = L.DomUtil.create("label", "", container);
+                    const input = L.DomUtil.create("input", "", label);
+                    const text = L.DomUtil.create("span", "", label);
+
+                    input.type = "checkbox";
+                    input.checked = checked;
+                    input.setAttribute("aria-label", ariaLabel);
+                    text.textContent = labelText;
+                    input.addEventListener("change", onChange);
+
+                    return input;
+                };
+
+                const islandsInput = createLayerToggle("Islands", true, "Show islands", () => {
+                    islandsInput.checked = true;
+                    habitatInput.checked = false;
+                    placeLayers.forEach((layer) => layer.addTo(map));
+                    habitatLayers.forEach((layer) => map.removeLayer(layer));
+                });
+                const habitatInput = createLayerToggle("Habitat map", false, "Show habitat map", () => {
+                    islandsInput.checked = false;
+                    habitatInput.checked = true;
+                    placeLayers.forEach((layer) => map.removeLayer(layer));
+                    habitatLayers.forEach((layer) => layer.addTo(map));
+                });
+
+                L.DomEvent.disableClickPropagation(container);
+                L.DomEvent.disableScrollPropagation(container);
+                return container;
+            };
+            layerToggle.addTo(map);
+
+            // Load OpenStreetMap Tiles
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_26hm_1_304b9580a7cc66ecb19c3954', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>',
+            subdomains: 'abcd', maxZoom: 20
+            }).addTo(map);
+
+           
+
+
+
+            
+
+
+
+            const islandUrl = "/assets/geojson/islands.geojson";
+            const habitatUrls = [
+                "/assets/geojson/builtup.geojson",
+                "/assets/geojson/forest.geojson",
+                "/assets/geojson/youngsecondaryforest.geojson",
+                "/assets/geojson/fwsf.geojson",
+                "/assets/geojson/freshwaterbodies.geojson",
+                "/assets/geojson/garden.geojson",
+                "/assets/geojson/estuaries.geojson",
+                "/assets/geojson/coastal-vegetation.geojson",
+                "/assets/geojson/coral.geojson",
+                "/assets/geojson/mangrove.geojson",
+                "/assets/geojson/mudflat.geojson",
+                "/assets/geojson/rocky-shore.geojson",
+                "/assets/geojson/sandy-shore.geojson",
+                "/assets/geojson/marsh.geojson",
+                "/assets/geojson/seagrass.geojson",
+            ];
+
+            let habitatLayers = [];
+            let placeLayers = [];
+
+            function fetchGeoJson(url) {
+                return fetch(url).then((response) => {
+                    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                    return response.json();
+                });
+            }
+
+            function loadIslandLayer(data) {
+                const islandLayer = L.geoJSON(data, {
+                    style: getIslandStyle,
+                    onEachFeature: (feature, layer) => {
+                        const island = feature.properties.ISLAND;
+                        const place = island && getIslandPlace(island);
+                        console.log(island);
+                        if (!island || !(island in places)) return;
+                        
+                        
+                        layer.bindPopup(`
+                            <div class="habitat-popup">
+                                <div class="habitat-popup">
+                                    <img src="${places[island]["img"] || ""}"/>
+                                    <h3>${places[island]["label"] || "No Name"}</h3>
+                                    <p>${places[island]["description"] || ""}</p>
+                                    <a href="${places[island]["link"] || ""}">Read more...</a>
+                                </div>
+                            </div>
+                        `, {
+                            maxWidth: 250,
+                            className: "habitat-popup-wrapper",
+                            closeButton: true,
+                        });
+                    },
+                }).addTo(map);
+
+                placeLayers.push(islandLayer);
+            }
+
+            function loadHabitatLayers(data) {
+                const habitatLayer = L.geoJSON(data, {
+                    style: getHabitatStyle,
+                    interactive: false,
+                });
+
+                habitatLayers.push(habitatLayer);
+            }
+
+            Promise.all([
+                fetchGeoJson(islandUrl),
+                ...habitatUrls.map(fetchGeoJson),
+            ]).then(([islands, ...habitatsData]) => {
+                loadIslandLayer(islands);
+                habitatsData.forEach(loadHabitatLayers);
+                document.getElementById("map").classList.remove("loading");
+            }).catch((error) => {
+                console.error("Error fetching map data:", error);
+                document.getElementById("map").classList.remove("loading");
+            });
+
+            
+        </script>
+
+<blockquote>
+    <p>Past conservation efforts include those in 1987-1991 by The Reef Survey and Conservation Project,
+        a project undertaken by the Republic of Singapore Yacht Club (RSYC), Singapore Institute of Biology (SIBiol)
+        and Singapore Underwater Federation (SUF). Among the results was identifying and targeting four reef areas as
+        good enough to merit some form of conservation: St John's group of islands, Pulau Hantu and patch reefs,
+        Pulau Semakau and patch reefs, live firing islands including Raffles Lighthouse. More details on this and other
+        conservation efforts on the <a href="http://coralreef.nus.edu.sg/conserve/conserve.htm">Coral Reefs of Singapore website</a>.
+    </p>
+</blockquote>
+
+{% include global/footer.html %}

@@ -39,6 +39,31 @@ title: Reclamation in Singapore
 		"Tekong-Ubin": "tekong-ubin",
 		"Tuas Megaport": "tuasmegaport",
 		"Western Island": "westernisland",
+		"Greater Southern Waterfront": "greatersouthernwaterfront",
+		"Mandai Mangroves": "mandaimongroves",
+		"Aviation Park": "aviationpark"
+	};
+
+	const gradientStops = [
+		{ position: 0, color: [250, 204, 21] },
+		{ position: 0.5, color: [249, 115, 22] },
+		{ position: 1, color: [220, 38, 38] },
+	];
+
+	const colorForArea = (area, minimumArea, maximumArea) => {
+		const range = maximumArea - minimumArea;
+		const normalizedArea = range ? (area - minimumArea) / range : 0;
+		const lowerStop = gradientStops.reduce((stop, currentStop) =>
+			currentStop.position <= normalizedArea ? currentStop : stop
+		);
+		const upperStop = gradientStops.find((stop) => stop.position >= normalizedArea) || gradientStops.at(-1);
+		const stopRange = upperStop.position - lowerStop.position;
+		const ratio = stopRange ? (normalizedArea - lowerStop.position) / stopRange : 0;
+		const color = lowerStop.color.map((channel, index) =>
+			Math.round(channel + (upperStop.color[index] - channel) * ratio)
+		);
+
+		return `rgb(${color.join(", ")})`;
 	};
 
 	fetch("/assets/geojson/ReclamationProjects.geojson")
@@ -58,8 +83,25 @@ title: Reclamation in Singapore
 
 				return totals;
 			}, {});
+			const areaValues = data.features
+				.map((feature) => Number(feature.properties?.SHAPE_AREA))
+				.filter((area) => Number.isFinite(area));
+			const minimumArea = Math.min(...areaValues);
+			const maximumArea = Math.max(...areaValues);
 
 			const projectLayer = L.geoJSON(data, {
+				style: (feature) => {
+					const area = Number(feature.properties?.SHAPE_AREA);
+
+					return {
+						color: "#374151",
+						weight: 1,
+						fillColor: Number.isFinite(area)
+							? colorForArea(area, minimumArea, maximumArea)
+							: "#9ca3af",
+						fillOpacity: 0.65,
+					};
+				},
 				onEachFeature: (feature, layer) => {
 					const project = feature.properties || {};
 					const name = project.NAME || "Reclamation project";
