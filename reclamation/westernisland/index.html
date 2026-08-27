@@ -23,6 +23,32 @@ description: "Information about the various islands affected by the Western Isla
       gap: 1rem;
       align-items: center;
     }
+
+@keyframes pulseGlow {
+   0% {
+    stroke-width: 1px;
+    stroke-opacity: 0.6;
+    filter: blur(0px);
+  }
+  50% {
+    /* Expands the outline border outwards to create a wide glow effect */
+    stroke-width: 5px; 
+    stroke-opacity: 0.9;
+    filter: blur(1px);
+
+  }
+  100% {
+    stroke-width: 1px;
+    stroke-opacity: 0.6;
+    filter: blur(0px);
+
+  }
+
+}
+
+.glowing-polygon {
+  animation: pulseGlow 3s infinite ease-in-out;
+}
 @media (max-width: 800px) {
       .two-col {
         flex-direction: column;
@@ -462,14 +488,15 @@ description: "Information about the various islands affected by the Western Isla
             function getIslandStyle(feature) {
                 const island = feature.properties.ISLAND;
                 const isKnownIsland = island && getIslandLink(island);
-                const color = isKnownIsland ? "#aa002b" : "#777777";
+                const color = isKnownIsland ? "#ff0040" : "#777777";
 
                 return {
                     color,
                     fillColor: color,
-                    weight: isKnownIsland ? 2 : 0.5,
-                    opacity: isKnownIsland ? 0.95 : 0.2,
-                    fillOpacity: isKnownIsland ? 0.35 : 0.04,
+                    weight: isKnownIsland ? 5 : 0.5,
+                    opacity: isKnownIsland ? 0.6 : 0.0,
+                    fillOpacity: isKnownIsland ? 0.05 : 0.00,
+                    className: isKnownIsland ? "glowing-polygon": ""
                 };
             }
 
@@ -486,7 +513,7 @@ description: "Information about the various islands affected by the Western Isla
             var northEast = L.latLng(1.700, 104.400);
             var singaporeBounds = L.latLngBounds(southWest, northEast);
             const map = L.map("map", {
-                preferCanvas: true,
+                preferCanvas: false,
                 center: [1.218951, 103.741054], // Center of Singapore
                 zoom: 12,
                 minZoom: 8, // Prevents zooming out past the island view
@@ -509,21 +536,7 @@ description: "Information about the various islands affected by the Western Isla
 
             const islandUrl = "/assets/geojson/islands.geojson";
             const habitatUrls = [
-                "/assets/geojson/builtup.geojson",
-                "/assets/geojson/forest.geojson",
-                "/assets/geojson/youngsecondaryforest.geojson",
-                "/assets/geojson/fwsf.geojson",
-                "/assets/geojson/freshwaterbodies.geojson",
-                "/assets/geojson/garden.geojson",
-                "/assets/geojson/estuaries.geojson",
-                "/assets/geojson/coastal-vegetation.geojson",
-                "/assets/geojson/coral.geojson",
-                "/assets/geojson/mangrove.geojson",
-                "/assets/geojson/mudflat.geojson",
-                "/assets/geojson/rocky-shore.geojson",
-                "/assets/geojson/sandy-shore.geojson",
-                "/assets/geojson/marsh.geojson",
-                "/assets/geojson/seagrass.geojson",
+                "/assets/geojson/westernislandhabitats.geojson",
             ];
 
             let habitatLayers = [];
@@ -543,7 +556,7 @@ description: "Information about the various islands affected by the Western Isla
                         const island = feature.properties.ISLAND;
                         const place = island && getIslandPlace(island);
                         console.log(island);
-                        if (!island || !(island in places)) return;
+                        if (!(island in places)) return;
                         
                         
                         layer.bindPopup(`
@@ -590,7 +603,7 @@ description: "Information about the various islands affected by the Western Isla
             
         </script>
 
-<blockquote>
+{%- comment -%} <blockquote>
     <p>Past conservation efforts include those in 1987-1991 by The Reef Survey and Conservation Project,
         a project undertaken by the Republic of Singapore Yacht Club (RSYC), Singapore Institute of Biology (SIBiol)
         and Singapore Underwater Federation (SUF). Among the results was identifying and targeting four reef areas as
@@ -598,6 +611,6 @@ description: "Information about the various islands affected by the Western Isla
         Pulau Semakau and patch reefs, live firing islands including Raffles Lighthouse. More details on this and other
         conservation efforts on the <a href="http://coralreef.nus.edu.sg/conserve/conserve.htm">Coral Reefs of Singapore website</a>.
     </p>
-</blockquote>
+</blockquote> {%- endcomment -%}
 
 {% include global/footer.html %}

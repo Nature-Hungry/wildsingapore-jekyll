@@ -41,7 +41,7 @@ title: Reclamation in Singapore
 		"Western Island": "westernisland",
 	};
 
-	fetch("/assets/geojson/reclamationprojects.geojson")
+	fetch("/assets/geojson/ReclamationProjects.geojson")
 		.then((response) => {
 			if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
 			return response.json();

@@ -36128,7 +36128,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 0,
-        "ISLAND": "pulauhantu"
+        "ISLAND": "hantu"
       },
       "geometry": {
         "type": "MultiPolygon",

@@ -184,7 +184,7 @@ html::after{
  * ─────────────────────────────────────────────────────────────────────── */
 nav{
   /* background-color: var(--color-bg); */
-  padding: 0 2rem;
+  /* padding: 0 2rem; */
   width: 100%;
 }
 .nav-content{
