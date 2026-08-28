@@ -34,7 +34,7 @@ Does not appear on the [URA Master Plan 2008](http://www.ura.gov.sg/uramaps/?con
 
 ## Current conservation activities
 
-The intertidal area is regularly surveyed by [wildsingapore](https://images.naturehungry.sg/).
+The intertidal area is regularly surveyed by [wildsingapore](https://wildshores.blogspot.com/search?q=Terumbu+Pempang+Tengah).
 
 ## About the name:
 

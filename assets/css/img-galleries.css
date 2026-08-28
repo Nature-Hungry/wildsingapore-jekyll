@@ -44,6 +44,13 @@
     margin:0;
 }
 
+.flickr-img-link{
+    height: 100%;
+}
+.flickr-img-link img{
+    height: 100%;
+}
+
 @media screen and (max-width:500px) {
     .img-wrap-group .img-container img {
         width: 100%;

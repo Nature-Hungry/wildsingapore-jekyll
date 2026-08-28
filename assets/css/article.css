@@ -48,7 +48,7 @@ blockquote p.source{
     display: block;
 }
 .justifiedgallery-item img{
-    height:150px;
+    height:200px;
     object-fit: cover;
     width: 100%;
     

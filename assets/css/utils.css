@@ -55,3 +55,17 @@
     color:white;
     background-color:#60C659;
 }
+
+
+.two-col {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+
+@media (max-width: 800px) {
+      .two-col {
+        flex-direction: column;
+      }
+      
+    }
