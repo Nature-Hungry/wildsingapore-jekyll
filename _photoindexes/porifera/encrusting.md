@@ -1,5 +1,6 @@
 ---
 title: "Sponges"
+label: "Encrusting sponges"
 description: ""
 keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
@@ -9,6 +10,12 @@ attributes:
 - 134
 - 139
 - 151
+coverimgs:
+- https://images.naturehungry.sg/porifera/branchbrown/050610sntg7665m3.jpg
+- https://images.naturehungry.sg/porifera/crumbly/130822pgld2055m3.jpg
+- https://images.naturehungry.sg/porifera/orangeprickly/130723bbd0085m3.jpg
+- https://images.naturehungry.sg/porifera/encrustprickly/051204sisg3279m3.jpg
+- https://images.naturehungry.sg/porifera/rainbow/091217sbglks.JPG
 ---
 
 Encrusting sponges

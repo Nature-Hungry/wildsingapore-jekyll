@@ -45,6 +45,7 @@
 }
 
 .flickr-img-link{
+    display:block;
     height: 100%;
 }
 .flickr-img-link img{
