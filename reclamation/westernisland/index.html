@@ -1,6 +1,58 @@
 ---
 title: The Western Island
 description: "Information about the various islands affected by the Western Island reclamation in Singapore with an interactive map"
+galleries:
+  gallery1:
+  - url: https://live.staticflickr.com/7112/7745648146_9ba5c2febe_z.jpg
+  - url: https://live.staticflickr.com/4024/4545363223_0507eac31b_z.jpg
+  - url: https://live.staticflickr.com/8546/8614459541_3363bab881_z.jpg
+  - url: https://live.staticflickr.com/65535/6895574010_d43fcd18a6_c.jpg
+  - url: https://live.staticflickr.com/5259/5397454623_a0b7468005_z.jpg
+  - url: https://live.staticflickr.com/7149/6839231261_bea21f47b9_z.jpg
+  - url: https://live.staticflickr.com/65535/8053143236_fa8b5e7a93_c.jpg
+  - url: https://live.staticflickr.com/8341/8200124320_ff277a5653_z.jpg
+  - url: https://live.staticflickr.com/8488/8200963969_e0de8e8fe2_c.jpg
+  - url: https://live.staticflickr.com/8482/8202056712_b592a98242_z.jpg
+  - url: https://live.staticflickr.com/8522/8540840927_46e971be3c_z.jpg
+  - url: https://live.staticflickr.com/8090/8572392746_908cc61f3d_z.jpg
+  - url: https://live.staticflickr.com/7432/8724337551_f331847b74_c.jpg
+  - url: https://live.staticflickr.com/5297/5398027272_259f2efe24_z.jpg
+  - url: https://live.staticflickr.com/65535/5253643792_05230fe16a_c.jpg
+  - url: https://live.staticflickr.com/8197/8200173832_f61c9da04a_c.jpg
+  - url: https://live.staticflickr.com/8341/8255782585_0a903d1956_c.jpg
+  - url: https://live.staticflickr.com/3562/3462823724_5bdd4e05da_z.jpg
+  - url: https://live.staticflickr.com/3393/3472567241_9db0e4cc1a_z.jpg
+  - url: https://live.staticflickr.com/3311/3551621190_2bdda3ed29_z.jpg
+  - url: https://live.staticflickr.com/2594/3684817318_80891e14fc_z.jpg
+  - url: https://live.staticflickr.com/2487/4091760881_999c5cf3b5_z.jpg
+  - url: https://live.staticflickr.com/2678/4092534214_8aab08e383_z.jpg
+  - url: https://live.staticflickr.com/4015/4355268852_c8e778d8ae_z.jpg
+  - url: https://live.staticflickr.com/2751/4354651435_c71319ac4b_z.jpg
+  - url: https://live.staticflickr.com/4040/4355378704_38bd249b23_z.jpg
+  - url: https://live.staticflickr.com/4029/4358172460_680a84ae2a_z.jpg
+  - url: https://live.staticflickr.com/4021/4358174524_a3bd8a0551_z.jpg
+  - url: https://live.staticflickr.com/4136/4771122786_ab6ef309fe_z.jpg
+  - url: https://live.staticflickr.com/65535/11620534555_f25bec7c75_c.jpg
+  - url: https://live.staticflickr.com/5503/12099849445_3e446eed2f_z.jpg
+  - url: https://live.staticflickr.com/3833/12248113313_97ea65b66c_z.jpg
+  - url: https://live.staticflickr.com/5487/12383770095_3d8ce4a5d4_z.jpg
+  - url: https://live.staticflickr.com/3633/3385329058_2e4b718fa4_z.jpg
+  - url: https://live.staticflickr.com/3626/3499916611_a1d367609c_z.jpg
+  - url: https://live.staticflickr.com/65535/2937320085_012a8b68d1_z.jpg
+  - url: https://live.staticflickr.com/3190/2938170470_170512f37e_z.jpg
+  - url: https://live.staticflickr.com/3226/2767931806_80005242c7_z.jpg
+  - url: https://live.staticflickr.com/3282/2767084229_4f26f0ca91_z.jpg
+  - url: https://live.staticflickr.com/65535/2767931158_9b9638777b_z.jpg
+  - url: https://live.staticflickr.com/65535/421873848_cb1e769cd1_z.jpg
+  - url: https://live.staticflickr.com/65535/606655856_f827495af7_z.jpg
+  - url: https://live.staticflickr.com/65535/606550842_6056664d7c_z.jpg
+  - url: https://live.staticflickr.com/65535/2349445559_9e8f4034e7_z.jpg
+  - url: https://live.staticflickr.com/3256/2767080957_d991b4fb02_z.jpg
+  - url: https://live.staticflickr.com/2763/4095291488_2cfa248791_z.jpg
+  - url: https://live.staticflickr.com/6209/6062127158_2460b19be0_z.jpg
+  - url: https://live.staticflickr.com/6114/6327801902_744bce77e0_z.jpg
+  - url: https://live.staticflickr.com/65535/6988792729_2264007873_z.jpg
+  - url: https://live.staticflickr.com/8105/8621585298_d30787e421_z.jpg
 ---
 {% include global/header.html %}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
@@ -107,8 +159,10 @@ description: "Information about the various islands affected by the Western Isla
                     </ul>
                 </div>
         </div>
-
+        <br>
         <section>
+            <h3>Photos from the affected area</h3>
+{% include justifiedgallery.html items=page.galleries.gallery1 height=100 %}
             
         </section>
     </main>
