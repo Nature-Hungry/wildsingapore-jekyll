@@ -1,0 +1,175 @@
+---
+title: Greater Southern Waterfront
+---
+{% include global/header.html %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<style>
+	.reclamation-map {
+		position: relative;
+		height: 80vh;
+		min-height: 28rem;
+		margin-bottom: 2rem;
+	}
+
+.two-col {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+
+@keyframes pulseGlow {
+   0% {
+    stroke-width: 1px;
+    stroke-opacity: 0.6;
+    filter: blur(0px);
+  }
+  50% {
+    /* Expands the outline border outwards to create a wide glow effect */
+    stroke-width: 5px; 
+    stroke-opacity: 0.9;
+    filter: blur(1px);
+
+  }
+  100% {
+    stroke-width: 1px;
+    stroke-opacity: 0.6;
+    filter: blur(0px);
+
+  }
+
+}
+</style>
+
+    <main class="page-content page-content-full-width" id="main-content">
+        <div class="two-col">
+
+            <div style="width:100%;">
+                    <h1 class="page-title">Greater Southern Waterfront</h1>
+                    <p>
+                        The plan for the Greater Southern Waterfront was officially announed in April of 2026.
+                    </p>
+            </div>
+            <div id="map" style="width:100%;height:80vh; margin-bottom:2rem;"></div>  
+        </div>
+                <section>
+                    <h3>Data sources</h3>
+                    <ul>
+                        <li><a href="https://www.straitstimes.com/singapore/new-cruise-and-ferry-terminal-exhibition-hub-in-the-works-at-marina-south">Straits Times article on the Integrated Cruise and Ferry Terminal</a></li>
+                        <li><a href="https://www.ura.gov.sg/land-planning/master-plan/master-plan-2025/regional-plans/central-region/vibrant-city-living-for-all/">URA Website showcasing the Greater Southern Waterfront, along with other projects</a></li>
+                        <li><a href="https://www.straitstimes.com/singapore/environment/land-half-the-size-of-marina-bay-expected-to-be-reclaimed-as-part-of-greater-southern-waterfront">Straits Times article on the land reclamation for the Greater Southern Waterfront</a></li>
+                    </ul>
+                </section>
+            </div>
+    </main>
+
+<script>
+	const map = L.map("map", {
+		preferCanvas: true,
+		center: [1.264481, 103.848398],
+		zoom: 14,
+		minZoom: 10,
+		maxZoom: 20,
+		maxBounds: L.latLngBounds([1.200, 103.700], [1.300, 103.900]),
+		maxBoundsViscosity: 0.2,
+	});
+
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_26hm_1_304b9580a7cc66ecb19c3954', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+		maxZoom: 20,
+        }).addTo(map);
+
+	const projectLinks = {
+		"Changi Bay": "changibay",
+		"Pasir Ris": "pasirris",
+		"Tekong-Ubin": "tekong-ubin",
+		"Tuas Megaport": "tuasmegaport",
+		"Western Island": "westernisland",
+		"Integrated Cruise and Ferry Terminal": "greatersouthernwaterfront/icft",
+		"Greater Southern Waterfront": "greatersouthernwaterfront/gsw",
+		"Mandai Mangroves": "mandaimongroves",
+		"Aviation Park": "aviationpark"
+	};
+
+	const gradientStops = [
+		{ position: 0, color: [250, 204, 21] },
+		{ position: 0.5, color: [249, 115, 22] },
+		{ position: 1, color: [220, 38, 38] },
+	];
+
+	const colorForArea = (area, minimumArea, maximumArea) => {
+		const range = maximumArea - minimumArea;
+		const normalizedArea = range ? (area - minimumArea) / range : 0;
+		const lowerStop = gradientStops.reduce((stop, currentStop) =>
+			currentStop.position <= normalizedArea ? currentStop : stop
+		);
+		const upperStop = gradientStops.find((stop) => stop.position >= normalizedArea) || gradientStops.at(-1);
+		const stopRange = upperStop.position - lowerStop.position;
+		const ratio = stopRange ? (normalizedArea - lowerStop.position) / stopRange : 0;
+		const color = lowerStop.color.map((channel, index) =>
+			Math.round(channel + (upperStop.color[index] - channel) * ratio)
+		);
+
+		return `rgb(${color.join(", ")})`;
+	};
+
+	fetch("/assets/geojson/ReclamationProjects.geojson")
+		.then((response) => {
+			if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+			return response.json();
+		})
+		.then((data) => {
+			const areaValues = data.features
+				.map((feature) => Number(feature.properties?.SHAPE_AREA))
+				.filter((area) => Number.isFinite(area));
+			const minimumArea = Math.min(...areaValues);
+			const maximumArea = Math.max(...areaValues);
+
+			const projectLayer = L.geoJSON(data, {
+				style: (feature) => {
+					const area = Number(feature.properties?.SHAPE_AREA);
+
+					return {
+						color: "#374151",
+						weight: 1,
+						fillColor: Number.isFinite(area)
+							? colorForArea(area, minimumArea, maximumArea)
+							: "#9ca3af",
+						fillOpacity: 0.65,
+					};
+				},
+				onEachFeature: (feature, layer) => {
+					const project = feature.properties || {};
+					const name = project.DESC || project.NAME || "Reclamation project";
+					const areaLabel = project.SHAPE_AREA ?? "Unavailable";
+					const slug = projectLinks[name];
+					const readMore = slug
+						? `<a href="/reclamation/${slug}/">Read more...</a>`
+						: "";
+
+					layer.bindPopup(`
+						<div class="reclamation-popup">
+							<h3>${name}</h3>
+							<p>Land Area: ${areaLabel} hectares</p>
+							${readMore}
+						</div>
+					`, {
+						maxWidth: 250,
+						className: "habitat-popup-wrapper",
+						closeButton: true,
+					});
+				},
+			}).addTo(map);
+
+			map.setView([1.264481, 103.848398], 14);
+			document.getElementById("map").classList.remove("loading");
+		})
+		.catch((error) => {
+			console.error("Error fetching reclamation project data:", error);
+			document.getElementById("map").classList.remove("loading");
+		});
+</script>
+
+{% include global/footer.html %}
+
