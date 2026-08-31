@@ -32,7 +32,6 @@ galleries:
   - url: https://live.staticflickr.com/5503/12099849445_3e446eed2f_z.jpg
   - url: https://live.staticflickr.com/3833/12248113313_97ea65b66c_z.jpg
   - url: https://live.staticflickr.com/5487/12383770095_3d8ce4a5d4_z.jpg
-  - url: 
 ---
 
 ## Pulau Hantu

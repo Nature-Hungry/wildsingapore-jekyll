@@ -201,7 +201,7 @@ function init(){
 
       fuse = new Fuse(data, {
         includeScore: true,
-        threshold: 0.03, // lower = stricter, higher = more fuzzy
+        threshold: 0.1, // lower = stricter, higher = more fuzzy
         minMatchCharLength: 2,
         ignoreLocation: true,
       findAllMatches: false,
@@ -348,11 +348,12 @@ function filterResults(){
   // Step 1: true substring search for partial matches
   let partialResults = data
   if(query){
+    let implodedquery = query.replaceAll(" ", "").replaceAll("-", "")
     partialResults = data.filter(item =>{
       if(!item.search_text){
         return false
       }
-      return item.search_text.includes(query)
+      return item.search_text.includes(implodedquery)
     })
   }
   partialResults = partialResults.filter(item => taxafilter(item))

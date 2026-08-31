@@ -47,6 +47,8 @@ layout: none
     | append: post.genus
     | append: ' '
     | append: post.species
+    | remove: " "
+    | remove: "-"
     | downcase
     | jsonify
   }}
