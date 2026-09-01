@@ -43,58 +43,16 @@ layout: default
   </div>
 </div>
 {% endfor %}
-<hr/>
-These 
-      are NOT crustaceans<br/>
 
-<table cellpadding="6" width="100%">
-<tr>
-<td height="2" valign="top" width="20%">
-<div align="center"><img height="108" src="../arthropoda/limulidae/carcinoscopius/050726chgg0355m.jpg" width="108"/><br/>
-<a href="../arthropoda/limulidae/carcinoscorpius.htm">Mangrove <br/>
-              horseshoe crab</a><i><br/>
-</i>Phylum Arthropoda <br/>
-              Class Merastomata</div>
-</td>
-<td height="2" valign="top" width="20%">
-<div align="center"><img height="108" src="../arthropoda/limulidae/tachypleus/050511cftd3272m.jpg" width="108"/><br/>
-<a href="../arthropoda/limulidae/tachypleus.htm">Coastal<br/>
-              horseshoe crab</a><i><br/>
-</i>Phylum Arthropoda <br/>
-              Class Merastomata</div>
-</td>
-<td height="2" valign="top" width="20%">
-<div align="center"><i><img height="108" src="../arachnida/desis/031125hntd3856m.jpg" width="108"/></i><br/>
-<a href="../arachnida/desis.htm">Marine spider</a><br/>
-              Phylum Arthropoda<br/>
-              Class Arachnida</div>
-</td>
-<td height="2" valign="top" width="20%">
-<div align="center"><img height="108" src="../mollusca/gastropoda/limpets/javanica/040901sjid6160m.jpg" width="108"/><br/>
-<a href="../mollusca/gastropoda/limpets/limpet.htm">Limpets</a>
-<i><br/>
-</i>Phylum Mollusca </div>
-</td>
-<td valign="top" width="20%"> </td>
-</tr>
-<tr>
-<td height="37" valign="top" width="20%">Diameter 
-          to about 15cm. Shell brownish. Tail is rounded in cross-section. </td>
-<td height="37" valign="top" width="20%">Diameter 
-            to about 25cm. Shell greyish. Tail is triangular in cross-section. 
-            </td>
-<td valign="top" width="20%"> </td>
-<td valign="top" width="20%"> </td>
-<td valign="top" width="20%"> </td>
-</tr>
-</table>
 <hr/>
-<table border="0" cellpadding="4" width="100%">
-<tbody>
-<tr>
-<td>how to tell apart <a href="../glossary/limpetbarnacle.htm">limpets 
-      and barnacles</a></td>
-</tr>
-</tbody>
-</table>
- #EndEditable
+<h2>These are NOT crustaceans</h2>
+<div class="entry-summary-card-grid">
+{% assign entry = site.entries | where : "title","Mangrove horseshoe crab" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Coastal horseshoe crab" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Marine spider" | first %}
+{% include entry-summary-card.html item=entry %}
+{% assign entry = site.entries | where : "title","Limpets" | first %}
+{% include entry-summary-card.html item=entry %}
+</div>

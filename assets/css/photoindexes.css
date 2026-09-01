@@ -215,7 +215,10 @@ p.scientific-name-subtitle{
         grid-template-columns: repeat(auto-fill, minmax(min(120px, 100%), 1fr));
 
     }
-    
+    .photoindex-quadcards{
+        gap:1rem;
+        grid-template-columns: repeat(auto-fill, minmax(min(120px, 100%), 1fr));
+    }
 }
 
 

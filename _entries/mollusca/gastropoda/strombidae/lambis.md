@@ -10,19 +10,14 @@ genus: Lambis
 species: lambis
 attributes:
 - 100
-inat_id: 260326
+inat_id: 368457
 stateofmatter: Life
 kingdom: Animalia
-phylum: Arthropoda
-subphylum: Crustacea
-superclass: Multicrustacea
-class: Malacostraca
-subclass: Eumalacostraca
-superorder: Eucarida
-order: Decapoda
-suborder: Pleocyemata
-infraorder: Anomura
-superfamily: Paguroidea
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Stromboidea
 updated: Sep 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
 links_references: '### Links

@@ -1,0 +1,26 @@
+---
+title: "Swimming crabs"
+description: ""
+keywords: "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+---
+
+Crabs with last pair of legs paddle-shaped
+
+{% assign filtered_posts = site.entries | where_exp: "item", "item.infraorder=='Brachyura' and item.superfamily =='Portunoidea' "%}
+
+
+<div class="entry-summary-card-grid"
+>
+{% for post in filtered_posts %}
+{% assign match_found = true %}
+
+
+{% if match_found and post.hideFromPhotoindex != true 2 %}
+    {% include entry-summary-card.html item=post %}
+{% endif %}
+{% endfor %}
+</div>
+
+
+

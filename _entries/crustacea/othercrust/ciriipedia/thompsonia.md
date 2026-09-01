@@ -9,19 +9,16 @@ family: Thompsoniidae
 genus: Thompsonia
 species: ''
 attributes: []
-inat_id: 1121165
+inat_id: 996533
 stateofmatter: Life
 kingdom: Animalia
 phylum: Arthropoda
-subphylum: Hexapoda
-class: Insecta
-subclass: Pterygota
-order: Coleoptera
-suborder: Polyphaga
-infraorder: Cucujiformia
-superfamily: Cerambycoidea
-subfamily: Cerambycinae
-tribe: Callichromatini
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Hexanauplia
+subclass: Thecostraca
+infraclass: Cirripedia
+superorder: Rhizocephala
 updated: Mar 2020
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg
 galleries:

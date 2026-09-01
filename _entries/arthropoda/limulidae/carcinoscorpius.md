@@ -1,5 +1,5 @@
 ---
-title: Mangrove   horseshoe crab
+title: Mangrove horseshoe crab
 description: Fact sheet of Mangrove   horseshoe crab on the shores of Singapore
 keywords: mangrove, horseshoe, king, crab, carcinoscorpius, rotundicauda, limulidae,  xiphosura,
   merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine,

@@ -18,7 +18,7 @@ subclass: Eumalacostraca
 superorder: Peracarida
 order: Isopoda
 updated: Mar 2020
-coverimg: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
+coverimg: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
