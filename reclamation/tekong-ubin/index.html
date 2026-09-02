@@ -32,6 +32,46 @@ description: "Information about the various islands affected by the Tekong-Ubin 
     color: white;
 }
 
+.leaflet-control-timeline-toggle {
+    cursor: pointer;
+    background-color: white;
+    font-size: 1rem;
+    color: var(--color-text);
+    padding: 0.5rem;
+}
+.leaflet-control-timeline-toggle.active {
+    background-color: var(--color-primary);
+    color: white;
+}
+
+.leaflet-control-timeline-slider {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: white;
+    max-height: 0;
+    opacity: 0;
+    padding: 0 0.5rem;
+    overflow: hidden;
+    transform: translateY(-8px);
+    transition: max-height 0.3s ease, opacity 0.25s ease, transform 0.3s ease, padding 0.3s ease;
+}
+.leaflet-control-timeline-slider.open {
+    max-height: 3rem;
+    opacity: 1;
+    padding: 0.5rem;
+    transform: translateY(0);
+    border-top: 1px solid #eee;
+}
+.timeline-slider-label {
+    font-size: 0.9rem;
+    min-width: 3rem;
+    text-align: center;
+}
+.timeline-slider-input {
+    accent-color: var(--color-primary);
+}
+
 .two-col {
       display: flex;
       gap: 1rem;
@@ -538,6 +578,72 @@ description: "Information about the various islands affected by the Tekong-Ubin 
                 },
             });
 
+            const timelineYears = [
+                { year: 1983, url: "https://libmaps.nus.edu.sg/services/png/1983/{z}/{y}/{x}" },
+                { year: 1987, url: "https://libmaps.nus.edu.sg/services/png/1983/{z}/{y}/{x}" },
+                { year: 1993, url: "https://libmaps.nus.edu.sg/services/png/1993/{z}/{y}/{x}" },
+                { year: 1998, url: "https://libmaps.nus.edu.sg/services/png/1998/{z}/{y}/{x}" },
+                { year: 2005, url: "https://libmaps.nus.edu.sg/services/png/2005/{z}/{y}/{x}" },
+            ];
+
+            let historicalLayer = null;
+
+            // Swaps the historical basemap without touching the map's current view
+            const setHistoricalYear = (index) => {
+                const entry = timelineYears[index];
+                if (!entry) return;
+
+                if (historicalLayer) map.removeLayer(historicalLayer);
+                historicalLayer = L.tileLayer(entry.url, {
+                    maxZoom: 20,
+                    attribution: `Historical map ${entry.year}, NUS Libraries`,
+                }).addTo(map);
+            };
+
+            const timelineToggle = L.Control.extend({
+                options: { position: "topleft" },
+                onAdd: function () {
+                    const container = L.DomUtil.create("div", "leaflet-bar leaflet-control leaflet-control-timeline");
+                    const button = L.DomUtil.create("div", "leaflet-control-timeline-toggle", container);
+                    button.textContent = "Reclamation Timeline";
+
+                    const sliderWrap = L.DomUtil.create("div", "leaflet-control-timeline-slider", container);
+                    const label = L.DomUtil.create("span", "timeline-slider-label", sliderWrap);
+                    label.textContent = timelineYears[0].year;
+
+                    const slider = L.DomUtil.create("input", "timeline-slider-input", sliderWrap);
+                    slider.type = "range";
+                    slider.min = 0;
+                    slider.max = timelineYears.length - 1;
+                    slider.step = 1;
+                    slider.value = 0;
+
+                    L.DomEvent.disableClickPropagation(container);
+                    L.DomEvent.on(button, "click", function () {
+                        const isActive = button.classList.toggle("active");
+                        sliderWrap.classList.toggle("open", isActive);
+
+                        if (isActive) {
+                            slider.value = 0;
+                            label.textContent = timelineYears[0].year;
+                            setHistoricalYear(0);
+                        } else if (historicalLayer) {
+                            map.removeLayer(historicalLayer);
+                            historicalLayer = null;
+                        }
+                    });
+
+                    L.DomEvent.on(slider, "input", function () {
+                        const index = Number(slider.value);
+                        label.textContent = timelineYears[index].year;
+                        setHistoricalYear(index);
+                    });
+
+                    return container;
+                },
+            });
+
+            map.addControl(new timelineToggle());
             map.addControl(new habitatToggle());
 
             let placeToggle = L.Control.extend({
