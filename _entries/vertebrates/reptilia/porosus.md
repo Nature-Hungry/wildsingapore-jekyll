@@ -98,9 +98,8 @@ size:
 rdb: CR
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Only healthy mangroves can support these magnificent top predators! When a crocodile
-  smiles (mouth wide open) it's just cooling down, not about to bite
-- Crocodiles don't eat people.
+- Only healthy mangroves can support these magnificent top predators!
+- When a crocodile smiles (mouth wide open) it's just cooling down, not about to bite
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

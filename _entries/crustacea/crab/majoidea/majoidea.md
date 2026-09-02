@@ -114,8 +114,7 @@ size:
 - 3.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are often very well camouflaged
-- Look out for unusual movement
+- They are often very well camouflaged. Look out for unusual movement
 - Some are tiny and look like bits of dirt
 - They have pointed heads and long skinny legs.
 authors:

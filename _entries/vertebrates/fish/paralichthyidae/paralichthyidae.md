@@ -180,8 +180,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - Eyes on the left side of the body only
 - Tail and dorsal and anal fins separated
-- Found beneath the sand
-- Watch your step!
+- Found beneath the sand. Watch your step!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

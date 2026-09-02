@@ -82,8 +82,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are rarely seen above ground
 - They are advanced worms and play a role in recycling nutrients
-- They are very delicate
-- Don't dig them up!
+- They are very delicate. Don't dig them up!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

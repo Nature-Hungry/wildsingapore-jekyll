@@ -205,10 +205,9 @@ location:
 rdb: NT
 trivia_title: if you learn only 3 things about it ..
 trivia_items:
-- It is well camouflaged
-- Look carefully
-- It has venomous spines
-- Don't handle it! Watch your step! Its venom is only used for protection from predators
+- It is well camouflaged. Look carefully
+- It has venomous spines. Don't handle it!
+- Watch your step! Its venom is only used for protection from predators
   and not to catch prey.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

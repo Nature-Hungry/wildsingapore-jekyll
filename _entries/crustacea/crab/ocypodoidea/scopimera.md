@@ -146,9 +146,8 @@ size:
 - 1.5
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are everywhere on the sandy shore at low tide. Don't step on them! The tiny
-  sand balls are processed sand
-- Not excretion or from burrowing
+- They are everywhere on the sandy shore at low tide. Don't step on them! 
+- The tiny sand balls are processed sand Not excretion or from burrowing
 - They are related to fiddler crabs.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

@@ -1,5 +1,5 @@
 ---
-title: 'Horseshoe crabs '
+title: 'Horseshoe crabs'
 description: Fact sheet of Horseshoe crabs  on the shores of Singapore
 keywords: horseshoe, king, crab, limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry

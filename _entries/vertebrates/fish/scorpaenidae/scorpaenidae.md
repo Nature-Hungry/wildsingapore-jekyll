@@ -113,10 +113,9 @@ location:
 - lfa
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are well camouflaged
-- Look carefully to find them
-- Some have venomous spines
-- Don't handle them! Their venom is only used for protection from predators and not to catch prey.
+- They are well camouflaged. Look carefully to find them
+- Some have venomous spines. Don't handle them! 
+- Their venom is only used for protection from predators and not to catch prey.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

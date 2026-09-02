@@ -181,8 +181,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - May be quite large, although small ones are also seen
 - Eyes on the right side of the body
-- Found beneath the sand
-- Watch your step!
+- Found beneath the sand. Watch your step!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

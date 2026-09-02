@@ -86,8 +86,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They have bones inside as well as outside
 - The male carries the eggs
-- They are hard to spot and can't move fast
-- Watch your step or you might step on one!
+- They are hard to spot and can't move fast. Watch your step or you might step on one!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

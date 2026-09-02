@@ -130,8 +130,7 @@ size:
 rdb: LC
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They only seen at night
-- But the large holes to their burrows are commonly seen on sandy shores near the
+- They only seen at night. But the large holes to their burrows are commonly seen on sandy shores near the
   high water mark
 - Their burrows are deep. Don't try to dig them up
 - They can move very fast.

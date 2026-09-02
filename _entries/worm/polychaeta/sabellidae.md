@@ -120,10 +120,8 @@ links_references: '### Links
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - These worms are segmented like the more familiar earthworm
-- They disappear rapidly into their tubes
-- Don't step on their tubes
-- The feathery fan is actually made up of modified tentacles
-- It gathers food.
+- They disappear rapidly into their tubes. Don't step on their tubes
+- The feathery fan is actually made up of modified tentacles. It gathers food.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

@@ -160,9 +160,8 @@ size:
 rdb: LC
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are everywhere on the sandy shore at low tide. Don't step on them! They are
-  very shy
-- To see them, wait quietly without moving
+- They are everywhere on the sandy shore at low tide. Don't step on them! 
+- They are very shy. To see them, wait quietly without moving
 - Unlike most crabs, they can run forwards, backwards as well as sideways.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

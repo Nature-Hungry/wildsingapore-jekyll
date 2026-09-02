@@ -128,8 +128,8 @@ links_references: '### Links
   '
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Their bristles can cause severe pain
-- Don't touch! They have well developed heads with specialised jaws
+- Their bristles can cause severe pain. Don't touch!
+- They have well developed heads with specialised jaws
 - Some have a spectacular way of reproducing.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

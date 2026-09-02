@@ -116,10 +116,8 @@ size:
 - 3.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They common on undisturbed shores. Don't step on them! Only males have an enlarge
-  pincer
-- It is too big to use for feeding
-- Females have two small pincers and thus can eat twice as fast
+- They common on undisturbed shores. Don't step on them! 
+- Only males have an enlarge pincer It is too big to use for feeding. Females have two small pincers and thus can eat twice as fast
 - They can change colours and species cannot be identified by colour alone.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

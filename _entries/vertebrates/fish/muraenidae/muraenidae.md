@@ -189,8 +189,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - Often mistaken for snakes, they are fish! They breathe through gills
 - They have smooth skin instead of scales
-- Some have strong jaws with sharp teeth
-- Don't touch them!
+- Some have strong jaws with sharp teeth. Don't touch them!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

@@ -127,11 +127,9 @@ location:
 rdb: LC
 trivia_title: if you learn only 3 things about it ..
 trivia_items:
-- It is small and usually hidden among seaweeds or under rubbish
-- Watch your step! The 'whiskers' don't sting
-- They are used to find food in murky waters
-- It has venomous spines
-- Don't touch it!
+- It is small and usually hidden among seaweeds or under rubbish. Watch your step!
+- The 'whiskers' don't sting. They are used to find food in murky waters
+- It has venomous spines. Don't touch it!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

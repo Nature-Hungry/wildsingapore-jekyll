@@ -186,7 +186,8 @@ location:
 - rfl
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Sharks can still be found in Singapore waters! They will not harm humans if they are left alone
+- Sharks can still be found in Singapore waters!
+- They will not harm humans if they are left alone
 - As top predators, they play an important role in the health and balance of the marine ecosystem.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

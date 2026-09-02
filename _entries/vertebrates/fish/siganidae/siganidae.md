@@ -191,9 +191,8 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They graze (on algae) just like rabbits
-- They have venomous spines
-- Don't handle them! They are among our favourite seafood
-- However, overharvesting can affect their populations.
+- They have venomous spines. Don't handle them!
+- They are among our favourite seafood. However, overharvesting can affect their populations.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

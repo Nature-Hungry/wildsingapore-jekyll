@@ -102,9 +102,9 @@ size:
 - 100.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They can be very long! They are predators and efficient hunters
-- They are delicate and some are venomous
-- Don't touch!
+- They can be very long! 
+- They are predators and efficient hunters
+- They are delicate and some are venomous. Don't touch!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

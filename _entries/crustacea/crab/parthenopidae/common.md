@@ -143,10 +143,9 @@ size:
 - 2.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are tiny well camouflaged crabs
-- That's why we should avoid stepping areas thick with seaweeds and seagrasses
-- Their 'elbows' are often much longer than their bodies! To see one, look carefully
-  at every bit of 'rubbish'.
+- They are tiny well camouflaged crabs. That's why we should avoid stepping areas thick with seaweeds and seagrasses
+- Their 'elbows' are often much longer than their bodies!
+- To see one, look carefully at every bit of 'rubbish'.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

@@ -133,8 +133,8 @@ location:
 rdb: NT
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- It has venomous spines! Don't touch or kick them! Most of the fish is usually well
-  hidden under the sand
+- It has venomous spines! Don't touch or kick them!
+- Most of the fish is usually well hidden under the sand
 - They lure prey towards them with a filament in their mouths.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

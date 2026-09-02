@@ -96,7 +96,8 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They resemble familiar prawns and shrimps, but belong to a totally different group
-- Mantis shrimp can hurt you. Don't touch them! They have pincers modified into fearsome weapons.
+- Mantis shrimp can hurt you. Don't touch them! 
+- They have pincers modified into fearsome weapons.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

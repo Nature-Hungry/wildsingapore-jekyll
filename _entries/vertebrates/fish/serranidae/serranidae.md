@@ -48,8 +48,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are solitary hunters with an amazing mouth
 - They can change their gender
-- They are among our favourite seafood
-- However, overharvesting can affect their populations.
+- They are among our favourite seafood. However, overharvesting can affect their populations.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

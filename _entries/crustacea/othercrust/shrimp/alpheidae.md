@@ -148,9 +148,9 @@ size:
 - 7.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- You will probably hear one than see one on the shores
-- Listen out for them! The enlarged pincer can be as big as the rest of the shrimp!
-  Sometimes, a goby share the burrow with the shrimp.
+- You will probably hear one than see one on the shores. Listen out for them!
+- The enlarged pincer can be as big as the rest of the shrimp!
+- Sometimes, a goby share the burrow with the shrimp.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

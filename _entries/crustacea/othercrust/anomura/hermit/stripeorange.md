@@ -155,9 +155,8 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They come in orange, red and blue
-- Every empty shell is a potential hermit crab home. Don't take any shells home! Many
-  other animals live together with a hermit crab
-- Look for them.
+- Every empty shell is a potential hermit crab home. Don't take any shells home! 
+- Many other animals live together with a hermit crab. Look for them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

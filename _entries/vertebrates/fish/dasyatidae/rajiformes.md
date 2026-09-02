@@ -122,8 +122,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are related to sharks and have cartilage instead of bones
 - They give birth to live young
-- They will not sting unless you step on them
-- Watch your step!
+- They will not sting unless you step on them. Watch your step!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

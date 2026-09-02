@@ -92,9 +92,9 @@ size:
 - 10.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Gobies are the largest family of marine fishes with about 1,800 species! Some gobies live with snapping shrimps, others in corals
-- They are well camouflaged
-- Watch your step!
+- Gobies are the largest family of marine fishes with about 1,800 species! 
+- Some gobies live with snapping shrimps, others in corals
+- They are well camouflaged. Watch your step!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

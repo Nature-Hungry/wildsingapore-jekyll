@@ -172,11 +172,9 @@ size:
 rdb: LC
 trivia_title: if you learn only 3 things about it ..
 trivia_items:
-- Often seen in a group of many fishes, for safety
-- Don't break up the group! The 'whiskers' don't sting
-- They are used to find food in murky waters
-- It has venomous spines
-- Don't touch it!
+- Often seen in a group of many fishes, for safety. Don't break up the group! 
+- The 'whiskers' don't sting They are used to find food in murky waters
+- It has venomous spines. Don't touch it!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

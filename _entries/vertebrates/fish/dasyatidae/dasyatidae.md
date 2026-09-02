@@ -193,8 +193,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are related to sharks and have cartilage instead of bones
 - They swim by undulating greatly enlarged pectoral fins
-- They will not sting unless you handle them or step on them
-- Watch your step!
+- They will not sting unless you handle them or step on them. Watch your step!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

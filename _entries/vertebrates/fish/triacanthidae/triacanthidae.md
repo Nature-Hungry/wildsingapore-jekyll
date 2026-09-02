@@ -159,8 +159,8 @@ size:
 - 25.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- These fishes can be tiny and well camouflaged
-- Watch your step! They do indeed have three spines
+- These fishes can be tiny and well camouflaged. Watch your step!
+- They do indeed have three spines
 - Don't take the fish out of the water or it may die.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

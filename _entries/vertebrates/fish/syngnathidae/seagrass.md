@@ -157,10 +157,9 @@ size:
 - 10.0
 trivia_title: if you learn only 3 things about it ..
 trivia_items:
-- It looks just like a bit of root or rubbish
-- Look carefully to find one
-- It hides among seaweeds and can't move fast
-- Watch your step! The male looks carries the eggs.
+- It looks just like a bit of root or rubbish. Look carefully to find one
+- It hides among seaweeds and can't move fast. Watch your step!
+- The male looks carries the eggs.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

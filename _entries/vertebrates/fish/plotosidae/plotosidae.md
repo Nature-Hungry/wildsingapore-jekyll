@@ -157,10 +157,8 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They lack scales and are sometimes mistaken for eels or snakes
-- The 'whiskers' don't sting
-- They are used to find food in murky waters
-- They have venomous spines
-- Don't touch them!
+- The 'whiskers' don't sting. They are used to find food in murky waters
+- They have venomous spines. Don't touch them!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

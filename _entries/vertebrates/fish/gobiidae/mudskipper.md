@@ -145,8 +145,7 @@ trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are fishes but can breathe out of water
 - How do they do it? They use their pectoral fins to crawl
-- They are well camouflaged
-- Watch your step!
+- They are well camouflaged. Watch your step!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

@@ -195,8 +195,8 @@ rdb: vu
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are no longer common on all our shores
-- Their method of mating is unique among sea stars They use water to pump up their
-  bodies. Don't remove them from water for too long.
+- Their method of mating is unique among sea stars 
+- They use water to pump up their bodies. Don't remove them from water for too long.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

@@ -98,7 +98,8 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - Each is a colony of many little animals
-- Don't touch them! The rubbery mat is living tissue and animals. Don't step on it!
+- Don't touch them! 
+- The rubbery mat is living tissue and animals. Don't step on it!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
