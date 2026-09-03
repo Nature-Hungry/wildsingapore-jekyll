@@ -421,6 +421,8 @@ description: "Information about the various islands affected by the Tekong-Ubin 
                 },
             }
 
+            let reclamationTimelineActive = false;
+
             function getHabitatStyle(feature) {
                 const habitatType = feature.properties.habitat || feature.properties.HABITAT_TYPE || "";
                 const habitatColors = {
@@ -465,9 +467,13 @@ description: "Information about the various islands affected by the Tekong-Ubin 
                     color,
                     fillColor: color,
                     weight: isUnknownHabitat ? 0.5 : 1,
-                    opacity: isUnknownHabitat ? 0.35 : 0.8,
+                    opacity: reclamationTimelineActive ? 0.2 : (isUnknownHabitat ? 0.35 : 0.8),
                     fillOpacity: isUnknownHabitat ? 0.2 : 0.55,
                 };
+            }
+
+            function updateHabitatOpacity() {
+                habitatLayers.forEach((layer) => layer.setStyle(getHabitatStyle));
             }
 
             function getHabitatHoverStyle(feature) {
@@ -580,10 +586,9 @@ description: "Information about the various islands affected by the Tekong-Ubin 
 
             const timelineYears = [
                 { year: 1983, url: "https://libmaps.nus.edu.sg/services/png/1983/{z}/{y}/{x}" },
-                { year: 1987, url: "https://libmaps.nus.edu.sg/services/png/1983/{z}/{y}/{x}" },
+                { year: 1987, url: "https://libmaps.nus.edu.sg/services/png/1987/{z}/{y}/{x}" },
                 { year: 1993, url: "https://libmaps.nus.edu.sg/services/png/1993/{z}/{y}/{x}" },
-                { year: 1998, url: "https://libmaps.nus.edu.sg/services/png/1998/{z}/{y}/{x}" },
-                { year: 2005, url: "https://libmaps.nus.edu.sg/services/png/2005/{z}/{y}/{x}" },
+                { year: 2005, url: "https://libmaps.nus.edu.sg/services/png/2005_50K/{z}/{y}/{x}" },
             ];
 
             let historicalLayer = null;
@@ -622,6 +627,8 @@ description: "Information about the various islands affected by the Tekong-Ubin 
                     L.DomEvent.on(button, "click", function () {
                         const isActive = button.classList.toggle("active");
                         sliderWrap.classList.toggle("open", isActive);
+                        reclamationTimelineActive = isActive;
+                        updateHabitatOpacity();
 
                         if (isActive) {
                             slider.value = 0;
@@ -671,7 +678,7 @@ description: "Information about the various islands affected by the Tekong-Ubin 
 
             // Load OpenStreetMap Tiles
             L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_26hm_1_304b9580a7cc66ecb19c3954', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>',
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>, &copy; <a href="https://libmaps.nus.edu.sg">NUSLHMSG</a>',
             subdomains: 'abcd', maxZoom: 20
             }).addTo(map);
 
