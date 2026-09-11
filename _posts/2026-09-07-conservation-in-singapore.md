@@ -12,4 +12,4 @@ coverimg: "https://images.naturehungry.sg/photos/posts/CoverImages/DJI_0176.jpg"
 
 The idea of conservation and nature having direct conflict is false. Especially in the Singaporean context. Development can always happen on a brownfield site, and development can enhance brownfield sites to turn them into young secondary forests. An example of the latter can be found in Admiralty Park.
 
-This place was once a sparse exotic-dominated secondary forest, dominated by the *Falcataria falcata*. 
+This place was once a sparse exotic-dominated secondary forest, dominated by the *Falcataria falcata*. After plenty of tree plantings and habitat enhancement, the new man-made secondary forest was native-dominated. But the process is very labour-intensive. Regular grass trimmings, regular PVC root protection replacements, 
