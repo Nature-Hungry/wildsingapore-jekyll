@@ -18,6 +18,7 @@ layout: none
   "class": {{ post.class | jsonify }},
   "infraorder": {{ post.infraorder | jsonify }}, 
   "order": {{ post.order | jsonify }},
+  "superfamily": {{ post.superfamily | jsonify }},
   "family": {{ post.family | jsonify }},
   "species": {{ post.species | jsonify }},
   "genus": {{ post.genus | jsonify }},

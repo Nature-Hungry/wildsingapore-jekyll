@@ -50,7 +50,11 @@
                 {% endif %}
                 </div>
             </div>
-          <div class="species-head-right">
+          <div class="species-head-right" 
+            style="
+            "
+          >
+          <div>
                 <p id="taxa-crumbs">
                     <!-- <a href="/{{page.phylum}}">{{page.phylum}}</a>
                     > 
@@ -64,37 +68,59 @@
                 </p>
                 <h1>{{page.title}}</h1>
                 {% include entryscientificname.html entry=page %}
+                <div style="height:0.5rem;"></div>
+                {% if page.size or page.rdb %}
+                <div style="
+                  display:flex;
+                  flex-wrap:wrap;
+                  align-items: top;
+                  gap:2rem;
+                  margin-bottom: 1rem;;
+                ">
+                  {% if page.size %}
+                    <div>
+                      <h3>SIZE</h3>
+                      <p>
+                          {% assign sizes = page.size | join: "," | split: "," | sort %}
+                          {{sizes[0]}}
+                          {% if sizes[1] %}
+                              - {{sizes[1]}}
+                          {% endif %}
+                          cm
+                      </p>
+                    </div>
+                  {% endif %}
 
-                <p><em>Updated {{page.updated}}</em></p>
-
-                {% if page.size %}
-                <p>
-                    {% assign sizes = page.size | join: "," | split: "," | sort %}
-                    {{sizes[0]}}
-                    {% if sizes[1] %}
-                        - {{sizes[1]}}
-                    {% endif %}
-                    cm
-                </p>
+                  {% if page.rdb %}
+                    <div>
+                      <h3>status</h3>
+                      <div class="attributes-row">
+                              <div class="attribute">
+                                  <div class="redlist {{page.rdb}}">{{page.rdb}}</div>
+                                  <p>RDB3</p>
+                              </div>
+                      </div>
+                    </div>
+                  {% endif %}
+                </div>
                 {% endif %}
+                {% if page.habitats %}
+                <div style="margin-bottom: 1rem;">
+                  <h3>habitats</h3>
+                  <div class="attributes-row" style="gap:1rem">
+                    {% for a in page.habitats %}
+                      
+                      <a href="/wildfacts/concepts/habitats/{{a | replace: ' ', '-'}}" class="attribute">
+                          <div class="attribute-icon custom-icon icon-{{a | replace: ' ', '-'}}"></div>
+                      </a>
+                      
+                    {% endfor %}
+                  </div>
+                </div>
+                {% endif %}
+              </div>
+                <p style="margin-bottom:0;font-size: 0.8rem;font-style: italic;opacity: 0.5;text-align: right;">Updated {{page.updated}}</p>
 
-                <div class="attributes-row">
-                    {% if page.rdb %}
-                        <div class="attribute">
-                            <div class="redlist {{page.rdb}}">{{page.rdb}}</div>
-                            <p>RDB3</p>
-                        </div>
-                    {% endif %}
-                </div>
-                <div class="attributes-row" style="gap:1rem">
-                  {% for a in page.habitats %}
-                    
-                    <a href="/wildfacts/concepts/habitats/{{a | replace: ' ', '-'}}" class="attribute">
-                        <div class="attribute-icon custom-icon icon-{{a | replace: ' ', '-'}}"></div>
-                    </a>
-                    
-                  {% endfor %}
-                </div>
           </div>
        
       </section>
@@ -320,14 +346,19 @@ async function buildCrumbsParallel(taxaCrumbContainer) {
   const promises = taxaCrumbs.map(async (t, i) => {
     try {
       const response = await fetch(host + t, { method: 'HEAD' });
-      let crumb = response.ok 
-        ? `<a href="${t}">${t.split('/').at(-1)}</a>`
-        : `<span>${t.split('/').at(-1)}</span>`;
-        
-      if (i < taxaCrumbs.length - 1) crumb += " > ";
+      let crumb = "";
+      if(response.ok){
+        crumb = response.ok 
+          ? `<a href="${t}">${t.split('/').at(-1)}</a>`
+          : "" //`<span>${t.split('/').at(-1)}</span>`;
+          
+        if (i < taxaCrumbs.length - 1) crumb += " > ";
+
+      }
       return crumb;
     } catch (err) {
-      return `<span>${t.split('/').at(-1)}</span>`; // Fallback on error
+      // return `<span>${t.split('/').at(-1)}</span>`; // Fallback on error
+      return "";
     }
   });
 

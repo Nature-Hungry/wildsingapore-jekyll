@@ -1,5 +1,5 @@
 ---
-title: Sand bubbler crab
+title: Sand bubbler crabs
 description: Fact sheet of Sand bubbler crab on the shores of Singapore
 keywords: sand, bubbler, crab, scopimera, dotilla, dotillidae, decapod, crustacea,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
@@ -9,9 +9,22 @@ attributes:
 - 38
 - 106
 - 112
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Ocypodoidea
 family: Dotillidae
-genus: Scopimera
-species: and
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Ocypodoidea/Dotillidae
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/scopimera/050206cjd0046m3.jpg
 galleries:

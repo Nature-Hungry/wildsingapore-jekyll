@@ -442,9 +442,15 @@ h2 {
 }
 
 /* Sub-section → navy */
-h3 {
- font-family: 'Comfortaa';
+h3{
+  font-size:0.8rem;
+  letter-spacing: 0.2rem;
+  font-weight: bold;
+  font-family: Arvo;
   margin-bottom: 0.5rem;
+  opacity: 0.7;
+  color: var(--color-text);
+  text-transform: uppercase;
 }
 
 h4 { font-size: 1rem;    font-weight: 700; }

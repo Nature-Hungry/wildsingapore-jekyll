@@ -1,9 +1,8 @@
 ---
-title: 'Stalk-eyed crabs '
+title: 'Stalk-eyed crabs'
 description: Fact sheet of Stalk-eyed crabs  on the shores of Singapore
 keywords: stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Camptandriidae
 genus: ''
 species: ''
 attributes: []
@@ -23,6 +22,7 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Ocypodoidea
 coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
 galleries:
   gallery2:
@@ -169,7 +169,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Camptandriidae
+
 ---
 
 ## Where seen?
