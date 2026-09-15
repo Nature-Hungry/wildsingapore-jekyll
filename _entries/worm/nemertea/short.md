@@ -5,9 +5,9 @@ keywords: ribbon, worm, ribbonworm, nemertine, nemertean, nemertines,  field, gu
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
   info, photo
 layout: entry
-family: ''
-genus: ''
-species: identification*
+stateofmatter: Life
+kingdom: Animalia
+phylum: Nemertea
 attributes: []
 inat_id: 1
 stateofmatter: Life

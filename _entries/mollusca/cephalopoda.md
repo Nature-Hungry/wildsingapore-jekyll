@@ -7,6 +7,7 @@ stateofmatter: Life
 kingdom: Animalia
 phylum: Mollusca
 class: Cephalopoda
+permalink: entries/Mollusca/Cephalopoda
 updated: May 2020
 trivia_title: "if you learn only 3 things about them ..."
 trivia_items:
@@ -171,7 +172,7 @@ recorded for Singapore**
 
 ---
 
-**Links**
+### Links
 
 - [Octopus](http://mangrove.nus.edu.sg/pub/seashore/text/168.htm)
   and [squid](http://mangrove.nus.edu.sg/pub/seashore/text/167.htm)
@@ -195,7 +196,7 @@ recorded for Singapore**
   - [Cephs
     are not deaf](http://wildshores.blogspot.com/2009/06/cephs-are-not-deaf.html)
 
-**Other references**
+### Other references
 
 - M. D. Norman, J. Nabhitabhata & C. C. Lu. 29 June 2016. *An updated checklist of the cephalopods of the South China Sea*. The Raffles Bulletin of Zoology 2016 Supplement No. 34 (Part II of II) Pp. 566-592.
 - Tan Siong
@@ -214,15 +215,3 @@ recorded for Singapore**
   and Helmut Debelius, 2000. *Cephalopods:
   A World Guide*.
   ConchBooks, Germany. 319 pp
-
-[links](../links.htm)
-| [references](../references.htm)
-| [about](../about.htm)
-| [email
-Ria](mailto:hello@wildsingapore.com)
-
-Spot
-errors? Have a question? Want to share your sightings? [email
-Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
-wildfactsheets
-website©ria tan 2008

@@ -5,9 +5,9 @@ keywords: red, ribbon, worm, ribbonworm, hoplonemertea, nemertine, nemertean, ne
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
-family: ''
-genus: ''
-species: identification*
+stateofmatter: Life
+kingdom: Animalia
+phylum: Nemertea
 attributes: []
 inat_id: 1
 stateofmatter: Life

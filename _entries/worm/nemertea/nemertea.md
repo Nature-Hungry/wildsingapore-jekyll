@@ -3,9 +3,9 @@ title: Ribbon worms
 description: Fact sheet of Ribbon worms on the shores of Singapore
 keywords: ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: Geonemertidae
-genus: Phylum
-species: Nemertea
+stateofmatter: Life
+kingdom: Animalia
+phylum: Nemertea
 attributes: []
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/worm/nemertea/pink/050510tusg6052m3.jpg
@@ -112,7 +112,7 @@ zone:
 - marine
 habitats:
 - coral rubble
-permalink: /entries/Geonemertidae/Phylum
+permalink: /entries/Nemertea
 ---
 
 ## Where seen?
