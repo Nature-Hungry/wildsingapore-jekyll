@@ -85,15 +85,6 @@ layout: none
         .hero-btn:hover .icon-container{
             color:white;
         }
-        .hero-logo{
-            display: block;
-            width: min(95%, 700px);
-            height: auto;
-            max-width: 100%;
-            margin: 0 auto;
-            padding: 40px;
-            box-sizing: border-box;
-        }
         .random-container{
             height: 25vh;
             width: 100%;
@@ -209,7 +200,7 @@ layout: none
 <section id="sect-1">
     <div class="text-container">
         <div style="text-align: center;">
-            <img src="/assets/NatureHungryInline.png" alt="Nature Hungry" class="hero-logo">
+            <h1><span style="color:rgb(0, 115, 25)">Nature.</span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
             <p style="margin:0;">A collection of community-made guides about Singapore's natural heritage</p>
         </div>
         <div id="sect-1-btn-container">
@@ -310,7 +301,7 @@ layout: none
   {% for post in site.posts limit: 5 %}
     <a href="{{ post.url | relative_url }}" class="article-summary-item">
       <h3>{{ post.title }}</h3>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.content | body_paragraph }}</p>
     </a>
   {% endfor %}
 </section>
