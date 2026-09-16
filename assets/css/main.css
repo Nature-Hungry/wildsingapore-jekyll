@@ -205,8 +205,11 @@ nav{
 .nav-logo-image{
   display: block;
   width: 174px;
-  height: auto;
-  max-width: 100%;
+  height: 28px;
+  max-width: 174px;
+  max-height: 28px;
+  flex: 0 0 174px;
+  object-fit: contain;
   transition: filter 0.2s ease, transform 0.2s ease, drop-shadow 0.2s ease;
 }
 .nav-logo:hover .nav-logo-image{
@@ -215,6 +218,8 @@ nav{
 }
 .nav-logo-image--mobile{
   width: min(48vw, 174px);
+  max-width: min(48vw, 174px);
+  flex-basis: min(48vw, 174px);
 }
 .nav-links{
     white-space: nowrap;
