@@ -14,11 +14,11 @@ Class Gastropoda***updated Sep 2020*
 
 if you
 learn only 3 things about them ...  
-![](../photos/bullet.gif)The
+- The
 shape of the shell reveals the snail's way of life.   
-![](../photos/bullet.gif)Slugs
+- Slugs
 are molluscs without shells. They are not worms.  
-![](../photos/bullet.gif) Living snails are often MORE beautiful and interesting
+-  Living snails are often MORE beautiful and interesting
 than their empty shells.
   
 Almost everyone

@@ -16,10 +16,10 @@ Dec 2019*
 
 if you
 learn only 3 things about them ...  
-![](../photos/bullet.gif) Moults have clear eyes, break open easily and don't have
+-  Moults have clear eyes, break open easily and don't have
 a bad smell.   
-![](../photos/bullet.gif) All arthropods moult, including the more familiar insects.  
-![](../photos/bullet.gif)Moulting
+-  All arthropods moult, including the more familiar insects.  
+- Moulting
 is delicate process that is dangerous for the animal.
   
 **Why

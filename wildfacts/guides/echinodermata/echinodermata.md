@@ -17,10 +17,10 @@ Apr 2020*
 
 if
 you learn only 3 things about them ...  
-![](../photos/bullet.gif) They include sea stars, sea urchins, sea cucumbers and
+-  They include sea stars, sea urchins, sea cucumbers and
 sand dollars.  
-![](../photos/bullet.gif) Most have spines and a five-part symmetry.  
-![](../photos/bullet.gif)They
+-  Most have spines and a five-part symmetry.  
+- They
 use water to pump up their bodies. Don't remove them from
 water for too long.
   

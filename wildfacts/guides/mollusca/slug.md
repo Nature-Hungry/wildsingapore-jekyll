@@ -16,13 +16,13 @@ Jul 2020*
 
 if
 you learn only 3 things about them ...  
-![](../photos/bullet.gif)Slugs
+- Slugs
 are molluscs like snails. But most do not have an external
 shell.   
-![](../photos/bullet.gif)Some
+- Some
 slugs such as nudibranchs are among the prettiest of marine
 life.   
-![](../photos/bullet.gif) Slugs have very specialised diets and should not be kept
+-  Slugs have very specialised diets and should not be kept
 in home aquariums.
   
 **What

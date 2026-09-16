@@ -16,13 +16,13 @@ Oct 2016*
 
 if
 you learn only 3 things about them ...  
-![](../photos/bullet.gif)
+- 
 Sponges are animals and not plants! Don't break them or
 step on them.  
-![](../photos/bullet.gif)
+- 
 Many small animals live inside sponges. Look for them.
   
-![](../photos/bullet.gif)Sponges
+- Sponges
 can cause skin irritation. Don't handle sponges!
   
 **Where

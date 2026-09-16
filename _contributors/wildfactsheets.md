@@ -1,10 +1,14 @@
 ---
 title: "Wild Fact Sheets Acknowledgements"
 description: "About the people who contributed to the Wild Fact Sheets"
-role: Contributors
+role: Contributor
 order: 2
 layout: contributors
 excerpt: Contributors of the original wildsingapore.com and those that greatly helped Ria on trips and surveys
+---
+
+This page is adapted from [wildsingapore.com](https://wildsingapore.com)'s Acknowledgement page.
+
 ---
 
 The photos would not have been possible without FINDING the subjects in the first place. The keen eyes and extrasensory perception of a unique bunch of hunter-seekers made many of these finds possible. Among them are many members of the [wildfilms team](http://wildfilms.blogspot.com/), [beachfleas](https://images.naturehungry.sg/beachfleas/about), and [teamseagrass](http://teamseagrass.blogspot.com/).  

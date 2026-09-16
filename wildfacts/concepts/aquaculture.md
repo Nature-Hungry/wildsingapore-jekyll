@@ -11,9 +11,9 @@ of concepts
 ---
 
 if you learn only 3 things about the issue...  
-![](../photos/bullet.gif) Commercial fish farms can impact the surrounding habitats.   
-![](../photos/bullet.gif) Find out where your fishes come from.  
-![](../photos/bullet.gif)Eat
+-  Commercial fish farms can impact the surrounding habitats.   
+-  Find out where your fishes come from.  
+- Eat
 less fish, don't throw fishes away.
   
 Fish farms in Singapore

@@ -20,11 +20,11 @@ Dec 2019*
 
 if you
 learn only 3 things about them ...  
-![](../photos/bullet.gif)A
+- A
 particular animal is usually found in a specific part
 of a shore.  
-![](../photos/bullet.gif) Plants and animals in a location interact with one another.  
-![](../photos/bullet.gif)Several
+-  Plants and animals in a location interact with one another.  
+- Several
 different ecosystems may be found in one location.
   
 Plants

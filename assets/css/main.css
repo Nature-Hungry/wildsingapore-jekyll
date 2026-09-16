@@ -198,9 +198,23 @@ nav{
 }
 .nav-logo{
   text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
-.nav-logo h1{
-  margin:0;
+.nav-logo-image{
+  display: block;
+  width: 174px;
+  height: auto;
+  max-width: 100%;
+  transition: filter 0.2s ease, transform 0.2s ease, drop-shadow 0.2s ease;
+}
+.nav-logo:hover .nav-logo-image{
+  filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.18));
+  transform: translateY(-1px);
+}
+.nav-logo-image--mobile{
+  width: min(48vw, 174px);
 }
 .nav-links{
     white-space: nowrap;

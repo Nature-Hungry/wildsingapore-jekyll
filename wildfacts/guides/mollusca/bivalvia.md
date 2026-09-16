@@ -17,10 +17,10 @@ May 2020*
 
 if
 you learn only 3 things about them ...  
-![](../photos/bullet.gif) Clams have a two-part shell and NOT two shells.  
-![](../photos/bullet.gif)Some
+-  Clams have a two-part shell and NOT two shells.  
+- Some
 clams produce a special thread to anchor to hard surfaces.  
-![](../photos/bullet.gif)Clams
+- Clams
 can be dangerous to eat. Don't eat those found at the
 shore.
 **Where

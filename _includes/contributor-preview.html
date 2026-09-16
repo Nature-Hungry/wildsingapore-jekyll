@@ -9,8 +9,8 @@
 
 <div class="contributor-preview" style="grid-column: span {{ contributor.cols | default: '2'}} ">
   <div class="contributor-img">
-    {% if contributor.img %}
-      <img class="" src="">
+    {% if contributor.coverimg %}
+      <img class="" src="{{ contributor.coverimg }}" alt="{{ contributor.title }}">
     {% else %}
       <i class="ti ti-user"></i>
     {% endif %}

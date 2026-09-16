@@ -8,4 +8,4 @@ excerpt: Special thanks to sgfishesabovewater for allowing us to aggregate their
 link: https://sgfishesabovewater.blogspot.com/
 ---
 
-Special thanks to sgfishesabovewater for allowing us to aggregate their entries on nature hungry.
+Special thanks to sgfishesabovewater for allowing us to aggregate their entries on Nature Hungry. Without sgfishesabovewater, Nature Hungry would have very little fishes, and no freshwater fish entries!

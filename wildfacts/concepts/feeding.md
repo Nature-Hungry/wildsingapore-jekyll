@@ -15,10 +15,10 @@ Dec 2019*
 
 if you
 learn only 3 things about them ...  
-![](../photos/bullet.gif)Many
+- Many
 marine creatures feed on tiny things found in the water.  
-![](../photos/bullet.gif) Others process sand and sediments for tiny bits of nutrients.  
-![](../photos/bullet.gif)The
+-  Others process sand and sediments for tiny bits of nutrients.  
+- The
 way an animal feeds can be deduced from its body structure.
   
 Animals on our shores eat things which might appear strange to us.

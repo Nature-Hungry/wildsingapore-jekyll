@@ -17,10 +17,10 @@ shore ecosystem*****updated Dec 2019*
 
 if you
 learn only 3 things about the ecosystem...  
-![](../photos/bullet.gif) The rocks are alive! Take a closer look, watch your step.  
-![](../photos/bullet.gif) Don't take snails off the rocks! They will wash away with
+-  The rocks are alive! Take a closer look, watch your step.  
+-  Don't take snails off the rocks! They will wash away with
 the tide and may die.  
-![](../photos/bullet.gif)After
+- After
 looking under a stone, turn it back gently the way you
 first found it.
   

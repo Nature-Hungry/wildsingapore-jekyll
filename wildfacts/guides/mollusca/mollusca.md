@@ -17,13 +17,13 @@ Sep 2020*
 
 if you
 learn only 3 things about them ...  
-![](../photos/bullet.gif)Besides
+- Besides
 shelled snails, molluscs include slugs, octopuses, squids
 and cuttlefishes.  
-![](../photos/bullet.gif)They
+- They
 have a tongue that is specialised to eat their food or
 prey.  
-![](../photos/bullet.gif) Molluscs include some of the smartest and largest invertebrates.
+-  Molluscs include some of the smartest and largest invertebrates.
   
 While most people
 will find other invertebrates boring, almost no one can resist a mollusc.   

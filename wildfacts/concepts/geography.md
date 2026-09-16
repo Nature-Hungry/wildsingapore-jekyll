@@ -14,12 +14,12 @@ Dec 2019*
 
 if
 you learn only 3 things about them ...  
-![](../photos/bullet.gif)Our
+- Our
 Northern and Southern shores have different kinds of marine
 life.  
-![](../photos/bullet.gif) Flows of freshwater affects marine life and too much can
+-  Flows of freshwater affects marine life and too much can
 kill.   
-![](../photos/bullet.gif)Currents
+- Currents
 also affect shore structure.
   
 The Northern shores

@@ -17,11 +17,11 @@ Nov 2019*
 
 if you
 learn only 3 things about them ...  
-![](../photos/bullet.gif)The
+- The
 tide height is not the same every day.  
-![](../photos/bullet.gif) Low spring tides in Singapore usually happens before sunrise
+-  Low spring tides in Singapore usually happens before sunrise
 or after sunset.  
-![](../photos/bullet.gif)Low
+- Low
 spring tides happen near the new and full moon.
 
 Our shores

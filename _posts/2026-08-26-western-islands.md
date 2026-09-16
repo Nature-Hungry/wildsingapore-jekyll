@@ -3,6 +3,7 @@ title: Western Island reclamation
 description: "Information about the various islands affected by the Western Island reclamation in Singapore with an interactive map"
 date: 2026-08-26
 layout: linkpost
+coverimg: https://images.naturehungry.sg/photos/posts/CoverImages/DJI_0176.jpg
 externalurl: /reclamation/westernisland
 ---
 

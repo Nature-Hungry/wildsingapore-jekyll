@@ -15,11 +15,11 @@ Dec 2019*
 
 if you
 learn only 3 things about them ...  
-![](../photos/bullet.gif)Almost
+- Almost
 everything you see on the shore is alive!  
-![](../photos/bullet.gif) Each has a role in the cycle of life on the shore, don't
+-  Each has a role in the cycle of life on the shore, don't
 remove living things!  
-![](../photos/bullet.gif)Non-living
+- Non-living
 things have a role too, don't remove them either.
   
 You may come across

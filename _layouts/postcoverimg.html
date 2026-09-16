@@ -1,0 +1,221 @@
+{% include global/header.html %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
+
+<!-- <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" /> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
+<link rel="stylesheet" href="/assets/css/entry.css">
+
+<style>
+    .post-cover-container{
+        position: relative;
+        width: 100%;
+        height: 62vh;
+        min-height: 320px;
+        max-height: 720px;
+        overflow: hidden;
+        margin-bottom: 0;
+        background: #000;
+    }
+    .post-cover-img{
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .post-head{
+      position: absolute;
+      left: 4rem;
+      bottom: 2rem;
+      z-index: 1;
+      color: white;
+      text-align: left;
+      padding: 0;
+      margin: 0;
+      max-width: min(80%, 900px);
+    }
+    .post-head h1{
+      display: inline-block;
+      margin: 0;
+      max-width: 15ch;
+      color: white;
+      font-size: clamp(2.2rem, 4vw, 4rem);
+      line-height: 1.05;
+      text-shadow: 0 3px 12px rgba(0,0,0,0.45);
+    }
+    .post-cover-date,
+    .post-no-cover-date {
+      padding: 0.85rem 4rem 0;
+    }
+    .post-cover-date {
+      position: absolute;
+      right: 4rem;
+      bottom: 2rem;
+      padding: 0;
+      z-index: 1;
+      text-align: right;
+    }
+    .post-cover-date p,
+    .post-no-cover-date p{
+      margin: 0;
+      color: var(--color-text);
+      font-family: Arvo;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.2rem;
+      opacity: 0.7;
+      text-transform: uppercase;
+    }
+    .post-cover-date p{
+      color: white;
+      text-shadow: 0 2px 8px rgba(0,0,0,0.45);
+    }
+
+    @media screen and (max-width: 500px) {
+        .post-head{
+            left: 1rem;
+            bottom: 1rem;
+            max-width: calc(100% - 2rem);
+        }
+      .post-cover-date{
+        right: 1rem;
+        bottom: 1rem;
+      }
+    }
+</style>
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+        {% if page.coverimg %}
+        <div class="post-cover-container">
+            <img class="post-cover-img" src="{{page.coverimg}}">
+            <div class="post-head">
+            <h1>{% if page.title == "Balancing Conservation and Nature" %}Balancing<br>Conservation and Nature{% else %}{{page.title}}{% endif %}</h1>
+            </div>
+            <div class="post-cover-date">
+              <p><strong>{{ page.date | date: "%d %B %Y" }}</strong></p>
+            </div>
+        </div>
+        {% else %}
+        <div class="post-head post-head--no-cover">
+          <h1>{% if page.title == "Balancing Conservation and Nature" %}Balancing<br>Conservation and Nature{% else %}{{page.title}}{% endif %}</h1>
+        </div>
+        <div class="post-no-cover-date">
+          <p><strong>{{ page.date | date: "%d %B %Y" }}</strong></p>
+        </div>
+        {% endif %}
+
+        <br>
+      
+      
+
+      
+
+      <section id="content-section">
+        <!-- <aside class="sidebar">
+            <div id="section-nav">
+
+            </div>
+        </aside> -->
+
+        
+        <div>
+
+            {{content}}
+
+        </div>
+
+        
+
+        </section>
+        <br>
+<div class="post-nav">
+{% if page.previous.url %}
+ <a href="{{page.previous.url}}"><i class="ti ti-chevron-left"></i><div class="text">{{page.previous.title}}</div></a>
+{% else %}
+<div></div>
+{% endif %}
+
+{% if page.next.url %}
+<a href="{{page.next.url}}"><div class="text">{{page.next.title}}</div> <i class="ti ti-chevron-right"></i></a>
+{% else %}
+<div></div>
+{% endif %}
+</div>
+       
+        
+
+      
+
+        
+    </main>
+
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+        const navContainer = document.getElementById("section-nav");
+    const headings = document.querySelectorAll("#main-content h2, #main-content h3");
+  
+  // 1. Setup the List Container
+  const ul = document.createElement("ul");
+
+  // 2. Loop through sections to build sidebar menu items
+  headings.forEach((heading) => {
+    if (!heading) return; // Skip section if no H2 exists
+    if (!heading.hasAttribute("id")) return;
+    
+
+    // Create list item components
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    
+    a.href = `#${heading.id}`;
+    if(heading.hasAttribute("label")){
+      a.textContent = heading.getAttribute('label')
+    }else{
+      a.textContent = heading.textContent;
+    }
+    a.classList.add("nav-link");
+
+    // Assemble and attach elements
+    li.appendChild(a);
+    ul.appendChild(li);
+  });
+
+  // Inject generated list into the DOM sidebar
+  navContainer.appendChild(ul);
+
+  // 3. Active state tracking with IntersectionObserver
+  const navLinks = document.querySelectorAll("#section-nav .nav-link");
+  const options = {
+    root: null,
+    rootMargin: "-20% 0px -60% 0px", // Optimizes trigger point near top-middle viewport
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const id = entry.target.getAttribute("id");
+        
+        // Clear active class from previous items
+        navLinks.forEach((link) => link.classList.remove("active"));
+        
+        // Target and highlight matching anchor tag
+        const activeLink = document.querySelector(`#section-nav a[href="#${id}"]`);
+        if (activeLink) activeLink.classList.add("active");
+      }
+    });
+  }, options);
+
+  // Start observing all structural page sections
+  headings.forEach((h) => observer.observe(h));
+});
+    </script>
+
+
+{% include global/footer.html %}

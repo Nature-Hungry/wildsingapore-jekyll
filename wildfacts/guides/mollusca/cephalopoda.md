@@ -17,11 +17,11 @@ May 2020*
 
 if
 you learn only 3 things about them ...  
-![](../photos/bullet.gif)Cephalopods
+- Cephalopods
 are molluscs but (except the Natilus) lack external shells.  
-![](../photos/bullet.gif)They
+- They
 move by jet-propulsion and have many arms.  
-![](../photos/bullet.gif) Most can rapidly change their colours and even skin texture.
+-  Most can rapidly change their colours and even skin texture.
  **Where seen?** Cephalopods can be commonly seen on many of our shores. Octopuses,
 in particular, are far more common than most people would imagine.
 They are usually well hidden or camouflaged. Cuttlefishes too are

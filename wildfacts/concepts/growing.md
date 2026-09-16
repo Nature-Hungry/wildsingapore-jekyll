@@ -14,10 +14,10 @@ Aug 2020*
 
 if you
 learn only 3 things about them ...  
-![](../photos/bullet.gif)Most
+- Most
 marine creatures undergo metamorphosis in their life cycle.  
-![](../photos/bullet.gif) Most begin their life as microscopic animals that drift in the sea as plankton.  
-![](../photos/bullet.gif)Baby marine creatures often look nothing like the adult form.
+-  Most begin their life as microscopic animals that drift in the sea as plankton.  
+- Baby marine creatures often look nothing like the adult form.
   
 Most animals on our shores undergo metamorphosis - a change in form and function. Much like the butterfly starts its life as a caterpillar, undergoing several changes until eventually it looks totally different as an adult.  
   

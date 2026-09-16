@@ -16,12 +16,12 @@ Oct 2016*
 
 if
 you learn only 3 things about them ...  
-![](../photos/bullet.gif)Not
+- Not
 all worms are worm-like; not all worm-like creatures
 are worms!   
-![](../photos/bullet.gif) Some can bite or sting. Others are fragile. Don't
+-  Some can bite or sting. Others are fragile. Don't
 touch!  
-![](../photos/bullet.gif)They
+- They
 can be quite colourful and beautiful.
   
 Almost everyone

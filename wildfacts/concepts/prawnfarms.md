@@ -14,9 +14,9 @@ Dec 2019*
 
 if
 you learn only 3 things about the issue...  
-![](../photos/bullet.gif) Commercial prawn farms can be highly destructive.   
-![](../photos/bullet.gif) Find out where your prawns come from.  
-![](../photos/bullet.gif)Eat
+-  Commercial prawn farms can be highly destructive.   
+-  Find out where your prawns come from.  
+- Eat
 less prawns, don't throw prawns away.
   
 **Traditional

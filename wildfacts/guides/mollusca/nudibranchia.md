@@ -17,10 +17,10 @@ May 2020*
 
 if you
 learn only 3 things about them ...  
-![](../photos/bullet.gif) Pronounced 'noo-dee-brank', which means 'naked gills'.   
-![](../photos/bullet.gif) In some, the gaudy colours warn of their toxic nature
+-  Pronounced 'noo-dee-brank', which means 'naked gills'.   
+-  In some, the gaudy colours warn of their toxic nature
 or unpleasant taste.  
-![](../photos/bullet.gif)These
+- These
 slugs eat other animals. Not all slugs are nudibranchs.
   
 **Where
