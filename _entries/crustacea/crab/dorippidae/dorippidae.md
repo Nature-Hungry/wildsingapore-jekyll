@@ -135,7 +135,7 @@ habitats:
 - mangrove
 - seagrass meadow
 - coral reef
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Dorippidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Dorippoidea/Dorippidae
 ---
 
 ## Where seen?

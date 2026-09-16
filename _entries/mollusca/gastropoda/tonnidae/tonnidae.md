@@ -83,7 +83,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
-permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Tonnidae
+permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Tonnoidea/Tonnidae
 ---
 
 ## Where seen?

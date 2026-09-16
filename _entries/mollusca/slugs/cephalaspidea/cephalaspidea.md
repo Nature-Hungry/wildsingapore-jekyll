@@ -45,7 +45,7 @@ zone:
 habitats:
 - mangrove
 - seagrass meadow
-permalink: /entries/Mollusca/Gastropoda/Cephalaspidea/Aglajidae
+permalink: /entries/Mollusca/Gastropoda/Heterobranchia/Cephalaspidea/Philinoidea/Aglajidae
 ---
 
 ## Where seen?

@@ -113,7 +113,7 @@ zone:
 habitats:
 - rocky shore
 - mangrove
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Grapsidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Grapsoidea/Grapsidae
 ---
 
 ## Where seen?

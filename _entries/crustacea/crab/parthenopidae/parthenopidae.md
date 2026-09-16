@@ -91,7 +91,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Parthenopidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Parthenopoidea/Parthenopidae
 ---
 
 ## Where seen?

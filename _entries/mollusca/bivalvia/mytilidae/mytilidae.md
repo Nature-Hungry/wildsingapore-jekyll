@@ -122,7 +122,7 @@ zone:
 habitats:
 - mudflat
 - mangrove
-permalink: /entries/Mollusca/Bivalvia/Mytilida/Mytilidae
+permalink: /entries/Mollusca/Bivalvia/Autobranchia/Mytilida/Mytiloidea/Mytilidae
 ---
 
 ## Where seen?

@@ -74,7 +74,7 @@ habitats:
 - rocky shore
 - seagrass meadow
 - coral rubble
-permalink: /entries/Mollusca/Bivalvia/Venerida/Veneridae
+permalink: /entries/Mollusca/Bivalvia/Autobranchia/Venerida/Veneroidea/Veneridae
 ---
 
 ## Where seen?

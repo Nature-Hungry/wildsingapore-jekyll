@@ -162,7 +162,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Mollusca/Gastropoda/Systellommatophora/Onchidiidae
+permalink: /entries/Mollusca/Gastropoda/Heterobranchia/Systellommatophora/Onchidioidea/Onchidiidae
 ---
 
 ## Where seen?

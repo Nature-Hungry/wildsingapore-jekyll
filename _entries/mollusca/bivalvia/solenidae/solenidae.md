@@ -6,7 +6,7 @@ layout: entry
 family: Solenidae
 genus: ''
 species: ''
-attributes: 
+attributes:
 - 73
 inat_id: 50587
 stateofmatter: Life
@@ -82,7 +82,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
-permalink: /entries/Mollusca/Bivalvia/Adapedonta/Solenidae
+permalink: /entries/Mollusca/Bivalvia/Autobranchia/Adapedonta/Solenoidea/Solenidae
 ---
 
 ## Where seen?

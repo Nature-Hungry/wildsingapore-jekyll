@@ -104,7 +104,7 @@ zone:
 habitats:
 - sandy shore
 - muddy shore
-permalink: /entries/Mollusca/Bivalvia/Cardiida/Cardiidae
+permalink: /entries/Mollusca/Bivalvia/Autobranchia/Cardiida/Cardioidea/Cardiidae
 ---
 
 ## Where seen?

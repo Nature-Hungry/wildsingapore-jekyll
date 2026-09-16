@@ -130,7 +130,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Leucosiidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Leucosioidea/Leucosiidae
 ---
 
 ## Where seen?

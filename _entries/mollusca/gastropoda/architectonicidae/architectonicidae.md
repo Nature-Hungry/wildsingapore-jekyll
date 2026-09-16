@@ -95,7 +95,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Gastropoda/Architectonicidae
+permalink: /entries/Mollusca/Gastropoda/Heterobranchia/Architectonicoidea/Architectonicidae
 ---
 
 ## Where seen?

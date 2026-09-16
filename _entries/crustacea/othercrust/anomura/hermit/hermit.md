@@ -261,7 +261,7 @@ location:
 - rfl
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Don't take any shells home! 
+- Don't take any shells home!
 - Many other animals may live together with a hermit crab.
 - Don't take hermits home!
 authors:

@@ -158,7 +158,7 @@ zone:
 - marine
 habitats:
 - rocky shore
-permalink: /entries/Mollusca/Gastropoda/Trochida/Turbinidae
+permalink: /entries/Mollusca/Gastropoda/Vetigastropoda/Trochida/Trochoidea/Turbinidae
 ---
 
 ## Where seen?

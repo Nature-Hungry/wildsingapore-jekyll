@@ -121,7 +121,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Matutidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Calappoidea/Matutidae
 ---
 
 ## Where seen?

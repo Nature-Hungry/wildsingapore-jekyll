@@ -96,7 +96,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They resemble familiar prawns and shrimps, but belong to a totally different group
-- Mantis shrimp can hurt you. Don't touch them! 
+- Mantis shrimp can hurt you. Don't touch them!
 - They have pincers modified into fearsome weapons.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
@@ -105,7 +105,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Stomatopoda/Unipeltata/Gonodactylidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Hoplocarida/Stomatopoda/Unipeltata/Gonodactyloidea/Gonodactylidae
 ---
 
 ## Where seen?

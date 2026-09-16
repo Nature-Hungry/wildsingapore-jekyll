@@ -6,7 +6,7 @@ layout: entry
 family: Spondylidae
 genus: Spondylus
 species: sp.*
-attributes: 
+attributes:
 - 34
 inat_id: 326346
 stateofmatter: Life
@@ -81,7 +81,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Mollusca/Bivalvia/Pectinida/Spondylidae/Spondylinae/Spondylus
+permalink: /entries/Mollusca/Bivalvia/Autobranchia/Pectinida/Pectinoidea/Spondylidae/Spondylinae/Spondylus
 ---
 
 ## Where seen?

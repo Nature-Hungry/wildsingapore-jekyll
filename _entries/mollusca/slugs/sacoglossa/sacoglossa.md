@@ -69,7 +69,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Gastropoda/Caliphyllidae
+permalink: /entries/Mollusca/Gastropoda/Heterobranchia/Plakobranchoidea/Caliphyllidae
 ---
 
 ## Where seen?

@@ -163,7 +163,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Ovulidae
+permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Cypraeoidea/Ovulidae
 ---
 
 ## Where seen?

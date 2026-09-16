@@ -251,7 +251,7 @@ zone:
 - marine
 habitats:
 - rocky shore
-permalink: /entries/Mollusca/Gastropoda/Neogastropoda/Muricidae
+permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Muricoidea/Muricidae
 ---
 
 ## Where seen?

@@ -6,7 +6,7 @@ layout: entry
 family: Pteriidae
 genus: ''
 species: ''
-attributes: 
+attributes:
 - 73
 inat_id: 62590
 stateofmatter: Life
@@ -100,7 +100,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Mollusca/Bivalvia/Ostreida/Pteriidae
+permalink: /entries/Mollusca/Bivalvia/Autobranchia/Ostreida/Pterioidea/Pteriidae
 ---
 
 ## Where seen?

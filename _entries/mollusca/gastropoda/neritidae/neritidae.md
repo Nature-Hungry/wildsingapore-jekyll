@@ -90,7 +90,7 @@ zone:
 habitats:
 - rocky shore
 - mangrove
-permalink: /entries/Mollusca/Gastropoda/Cycloneritida/Neritidae
+permalink: /entries/Mollusca/Gastropoda/Neritimorpha/Cycloneritida/Neritoidea/Neritidae
 ---
 
 ## Where seen?

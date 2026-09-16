@@ -66,7 +66,7 @@ zone:
 habitats:
 - coral rubble
 - coral reef
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Pilumnidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Pilumnoidea/Pilumnidae
 ---
 
 ## Where seen?

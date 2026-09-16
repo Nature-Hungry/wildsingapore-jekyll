@@ -1,5 +1,5 @@
 ---
-title: 'Stalk-eyed crabs'
+title: Stalk-eyed crabs
 description: Fact sheet of Stalk-eyed crabs  on the shores of Singapore
 keywords: stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
@@ -169,7 +169,6 @@ authors:
 zone:
 - intertidal
 - marine
-
 ---
 
 ## Where seen?

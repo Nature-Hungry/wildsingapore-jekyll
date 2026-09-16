@@ -111,7 +111,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Amphipoda/Senticaudata/Corophiida/Caprellidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Amphipoda/Senticaudata/Corophiida/Caprelloidea/Caprellidae
 ---
 
 ## Where seen?

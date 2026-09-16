@@ -137,7 +137,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Mollusca/Gastropoda/Ellobiida/Ellobiidae
+permalink: /entries/Mollusca/Gastropoda/Heterobranchia/Ellobiida/Ellobioidea/Ellobiidae
 ---
 
 ## Where seen?

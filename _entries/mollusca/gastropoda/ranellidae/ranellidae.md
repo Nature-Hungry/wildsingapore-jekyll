@@ -66,7 +66,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Ranellidae
+permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Tonnoidea/Ranellidae
 ---
 
 ## Where seen?

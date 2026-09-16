@@ -141,7 +141,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Mollusca/Gastropoda/Potamididae
+permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Cerithioidea/Potamididae
 ---
 
 ## Where seen?

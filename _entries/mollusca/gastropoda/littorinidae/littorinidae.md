@@ -170,7 +170,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Littorinidae
+permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Littorinoidea/Littorinidae
 ---
 
 ## Where seen?

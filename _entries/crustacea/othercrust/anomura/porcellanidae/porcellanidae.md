@@ -128,7 +128,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - 'They are NOT true crabs Some differences from true crabs: only 3 pairs of walking legs, long antennae'
-- 'They drop their pincers when stressed, so don''t harass them'
+- They drop their pincers when stressed, so don't harass them
 - 'Some live with other animals: sea pens, hermit crabs.'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

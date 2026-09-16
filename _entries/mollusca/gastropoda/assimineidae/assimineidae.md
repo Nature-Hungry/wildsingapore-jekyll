@@ -105,7 +105,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Assimineidae
+permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Truncatelloidea/Assimineidae
 ---
 
 ## Where seen?

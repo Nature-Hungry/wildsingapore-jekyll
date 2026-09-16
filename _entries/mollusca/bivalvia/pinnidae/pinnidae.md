@@ -191,7 +191,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Mollusca/Bivalvia/Ostreida/Pinnidae
+permalink: /entries/Mollusca/Bivalvia/Autobranchia/Ostreida/Pinnoidea/Pinnidae
 ---
 
 ## Where seen?

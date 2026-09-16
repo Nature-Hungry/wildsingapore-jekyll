@@ -41,7 +41,7 @@ zone:
 - marine
 habitats:
 - sandy shore
-permalink: /entries/Mollusca/Bivalvia/Cardiida/Donacidae
+permalink: /entries/Mollusca/Bivalvia/Autobranchia/Cardiida/Tellinoidea/Donacidae
 ---
 
 ## Where seen?

@@ -165,7 +165,7 @@ zone:
 - marine
 habitats:
 - coral rubble
-permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Cypraeidae
+permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Cypraeoidea/Cypraeidae
 ---
 
 ## Where seen?

@@ -110,7 +110,7 @@ zone:
 habitats:
 - coral rubble
 - coral reef
-permalink: /entries/Mollusca/Gastropoda/Lepetellida/Haliotidae
+permalink: /entries/Mollusca/Gastropoda/Vetigastropoda/Lepetellida/Haliotidae
 ---
 
 ## Where seen?

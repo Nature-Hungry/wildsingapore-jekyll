@@ -80,7 +80,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Bivalvia/Venerida/Mactridae
+permalink: /entries/Mollusca/Bivalvia/Autobranchia/Venerida/Mactroidea/Mactridae
 ---
 
 ## Where seen?

@@ -151,7 +151,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Dromiidae
+permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Dromioidea/Dromiidae
 ---
 
 ## Where seen?
