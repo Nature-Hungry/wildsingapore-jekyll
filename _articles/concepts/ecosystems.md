@@ -2,7 +2,8 @@
 title: "Why know ecosystems of the Shores of Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "habitat, community, ecosystem, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
+coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/BetingBronokSponges.jpg
 tag: Ecology
 ---
 

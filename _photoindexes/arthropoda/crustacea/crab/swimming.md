@@ -16,7 +16,7 @@ Crabs with last pair of legs paddle-shaped
 {% assign match_found = true %}
 
 
-{% if match_found and post.hideFromPhotoindex != true 2 %}
+{% if match_found and post.hideFromPhotoindex != true %}
     {% include entry-summary-card.html item=post %}
 {% endif %}
 {% endfor %}

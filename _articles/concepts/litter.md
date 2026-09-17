@@ -2,7 +2,8 @@
 title: "Marine litter and their impact "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "live, marine, aquarium, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
+coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/MarineLitter.jpg
 tag: Issue
 ---
 

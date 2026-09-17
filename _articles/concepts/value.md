@@ -2,7 +2,7 @@
 title: "What is an intertidal zone: Shores of Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "name, scientific, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
 ---
 
 **What is the value of a shore?**

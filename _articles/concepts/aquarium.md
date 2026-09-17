@@ -1,10 +1,20 @@
 ---
-title: "Marine Aquariums and Their mpact "
+title: "Marine Aquariums and Their Impacts"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "live, marine, aquarium, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/Aquarium.jpg
-layout: default
+layout: concepts
 tag: Issue
+galleries:
+  capturingfishes:
+  - url: https://images.naturehungry.sg/photos/Concepts/Aquariums/CaughtFishes2.JPEG
+    caption: The fishes are netted up and put in a wide tank like this to allow for sorting by species.
+  - url: https://images.naturehungry.sg/photos/Concepts/Aquariums/FishSorting.JPEG
+    caption: The sorted fishes are placed in tanks like this, with rudimentary filtration set ups.
+  - url: https://images.naturehungry.sg/photos/Concepts/Aquariums/FishStorage.JPEG
+    caption: The facility houses many tanks.
+  - url: https://images.naturehungry.sg/photos/Concepts/Aquariums/FishRepackaging.JPEG
+    caption: Once enough fishes are caught to fulfil a customer's order, they will be repackaged.
 ---
 
 If you learn only 3 things about them ...  
@@ -20,23 +30,19 @@ Some facts (taken from Wabnitz, Colette, Michelle Taylor, Edmund Green and Tries
 
 If done right, some feel the aquarium trade can provide strong economic incentives for coral reef conservation.
 
-
-
 The aquarium trade is big
 - 1.5 - 2 million people worldwide are believed to engage in this hobby.
 - The trade supporting the hobby is worth an estimated US$200-300 million a year.
 
 ## Where do the fishes come from? Where does it go?
 
-- Unlike freshwater
-  aquaria where 90% of traded stock are farmed, most of marine aquarium
-  stock are wild caught. Only 1-10% of marine ornamental fish are
-  captive-bred and less than 1% of hard corals are from cultured
-  origins.
-- Southeast
-  Asia is the source of animals for most of this trade.
-- The main
-  destination is the US, Europe and to a lesser extent, Japan.
+{% include img-wrap-group.html items=page.galleries.capturingfishes %}
+
+The fishes are caught in a nearby reef, usually by communities who eat and earn money from the reefs. Aquariums are the main buyer of these fishes, and they order in bulk quantities to fill large tanks.
+
+- Unlike freshwater aquaria where 90% of traded stock are farmed, most of marine aquarium stock are wild caught. Only 1-10% of marine ornamental fish are captive-bred and less than 1% of hard corals are from cultured origins.
+- Southeast Asia is the source of animals for most of this trade.
+- The main destination is the US, Europe and to a lesser extent, Japan.
 
 ## What is traded?
 

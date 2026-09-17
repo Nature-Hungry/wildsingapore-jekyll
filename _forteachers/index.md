@@ -2,6 +2,7 @@
 title: "Classroom Activities for Teachers"
 layout: default
 description: "Shareable classroom activities for teaching Singapore's marine biodiversity"
+date: 2026-05-20
 permalink: /forteachers/
 ---
 

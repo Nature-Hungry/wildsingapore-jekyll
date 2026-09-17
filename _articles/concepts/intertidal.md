@@ -2,7 +2,8 @@
 title: "What is an intertidal zone: Shores of Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "intertidal, zone, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
+coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/TanjungRimau.jpg
 tag: Ecology
 ---
 

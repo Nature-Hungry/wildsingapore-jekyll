@@ -21,7 +21,7 @@ Small crabs: body width < 3 cm
     {% endif %}
 {% endfor %}
 
-{% if match_found and post.hideFromPhotoindex != true 2 %}
+{% if match_found and post.hideFromPhotoindex != true %}
     {% include entry-summary-card.html item=post %}
 {% endif %}
 {% endfor %}

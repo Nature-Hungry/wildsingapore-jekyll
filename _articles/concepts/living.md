@@ -2,7 +2,8 @@
 title: "Animal, vegetable or mineral? "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
+coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/CrabInSeaweed.jpg
 tag: Ecologys
 ---
 
@@ -14,7 +15,7 @@ tag: Ecologys
 
 If you learn only 3 things about them ...  
 - Almost everything you see on the shore is alive!  
--  Each has a role in the cycle of life on the shore, don't remove living things!  
+- Each has a role in the cycle of life on the shore, don't remove living things!  
 - Non-living things have a role too, don't remove them either.
   
 You may come across things on the shores that appear strange and unfamiliar. Sometimes, it is not even obvious whether they are animals, plants or something non-living. All of them play a part in life on our shores.  

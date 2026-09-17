@@ -2,8 +2,9 @@
 title: "Urban Heat Island Effect"
 description: "What is Urban Heat Island Effect? A short explanation in the Singaporean context."
 keywords: "urban heat, climate change, hot weather, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
+coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/UluPandanReservoir.jpg
 tag: Climate
 ---
 
-Urban Heat Island (UHI) is a phenomenon that occurs when a city is densely built up. Urban areas create large vast amounts of impervious concrete surfaces, which affect 
+Urban Heat Island (UHI) is a phenomenon that occurs when a city is densely built up. Urban areas create large vast amounts of impervious concrete surfaces, which affects 

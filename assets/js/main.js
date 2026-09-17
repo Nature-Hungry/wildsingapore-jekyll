@@ -40,3 +40,88 @@ document.body.addEventListener('click', function(event) {
     }, 1500);
   }
 });
+
+// Shared lightbox: powers image galleries, inline article images and cover images alike.
+(() => {
+  const LIGHTBOX_IMAGE_SELECTOR = [
+    '.gallery-image',
+    '.coverimg img',
+    '.post-cover-img',
+    '.species-cover',
+    '.ows2-cover img',
+    '.species-header img',
+    '.page-article img',
+    '.article-body img',
+    '.main-content img',
+    '.contributor-article__content img',
+    '.forteacher-article__content img',
+    '.group-article__content img',
+    '.ows2-content img',
+    '.home-extra img',
+  ].join(',');
+
+  // Thumbnails/controls that happen to sit inside the selectors above but should keep their own behaviour.
+  const LIGHTBOX_EXCLUDE_SELECTOR = [
+    '#map',
+    '.entry-summary-card',
+    '.entry-summary-grid-item',
+    '.entry-summary-row',
+    '.contributor-preview',
+    '.forindividual-preview',
+    '.forteacher-preview',
+    '.lastphotoindex-grid',
+    '.pig-wrap',
+    '.content-grid',
+    'nav',
+  ].join(',');
+
+  const createLightbox = () => {
+    if (document.querySelector('.gallery-lightbox')) return;
+
+    const lightbox = document.createElement('div');
+    lightbox.className = 'gallery-lightbox';
+    lightbox.setAttribute('aria-hidden', 'true');
+    lightbox.innerHTML = `
+        <button class="gallery-lightbox-close" type="button" aria-label="Close enlarged image">&times;</button>
+        <img class="gallery-lightbox-image" alt="">
+    `;
+    document.body.appendChild(lightbox);
+
+    const closeLightbox = () => {
+        lightbox.classList.remove('is-open');
+        lightbox.setAttribute('aria-hidden', 'true');
+        document.body.classList.remove('gallery-lightbox-open');
+    };
+
+    lightbox.addEventListener('click', (event) => {
+        if (event.target === lightbox) closeLightbox();
+    });
+
+    document.addEventListener('click', (event) => {
+        const image = event.target.closest(LIGHTBOX_IMAGE_SELECTOR);
+        if (image && !image.closest(LIGHTBOX_EXCLUDE_SELECTOR)) {
+            event.preventDefault();
+            lightbox.querySelector('.gallery-lightbox-image').src = image.src;
+            lightbox.querySelector('.gallery-lightbox-image').alt = image.alt;
+            lightbox.classList.add('is-open');
+            lightbox.setAttribute('aria-hidden', 'false');
+            document.body.classList.add('gallery-lightbox-open');
+            return;
+        }
+
+        if (event.target.closest('.gallery-lightbox-close')) {
+            closeLightbox();
+        }
+    });
+
+    document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape' && lightbox.classList.contains('is-open')) closeLightbox();
+    });
+  };
+
+  if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', createLightbox, { once: true });
+  } else {
+      createLightbox();
+  }
+})();

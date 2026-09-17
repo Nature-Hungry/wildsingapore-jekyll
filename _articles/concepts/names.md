@@ -2,7 +2,8 @@
 title: "Scientific names and classification "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "name, scientific, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
+coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/Saribus.jpg
 tag: Ecology
 ---
 

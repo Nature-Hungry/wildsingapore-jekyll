@@ -2,7 +2,8 @@
 title: "Loss of coastal ecosystems in Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "reclamation, dredging, shipping, petrochemicals, pollution, development, works, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
+coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/Reclamation.jpg
 tag: Issue
 ---
 

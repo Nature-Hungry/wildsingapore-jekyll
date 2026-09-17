@@ -21,7 +21,7 @@ Large crabs: body width > 6cm not including swimming crabs
     {% endif %}
 {% endfor %}
 
-{% if match_found and post.hideFromPhotoindex != true 2 %}
+{% if match_found and post.hideFromPhotoindex != true %}
     {% include entry-summary-card.html item=post %}
 {% endif %}
 {% endfor %}

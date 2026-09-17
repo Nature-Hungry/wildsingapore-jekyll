@@ -2,6 +2,7 @@
 title: About Classroom Activities
 description: "For teachers to learn about creating classroom activities"
 layout: default
+date: 2026-05-20
 permalink: /forteachers/aboutactivities
 ---
 

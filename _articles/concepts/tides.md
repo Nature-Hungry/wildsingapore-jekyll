@@ -2,7 +2,8 @@
 title: "About the tides "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "tides, intertidal, zone, spring, neap,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
+coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/ChekJawaLowTide.jpg
 tag: Intertidal
 ---
 

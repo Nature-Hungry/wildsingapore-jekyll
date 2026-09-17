@@ -2,20 +2,32 @@
 title: "Aquaculture: Fishes as our food in Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "live, fish, farm, aquaculture, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: concepts
+coverimg: https://images.naturehungry.sg/photos/Concepts/Aquaculture/FishFarmPulauSemakau.jpg
 tag: Issue
+date: 17/09/2026
+galleries:
+  fishfarmimpact:
+  - url: https://images.naturehungry.sg/photos/Concepts/Aquaculture/FishFarmUbin.jpg
+    caption: Fish farm off waters of Pasir Ris and Pulau Ubin, Apr 2013.
+  - url: https://images.naturehungry.sg/photos/Concepts/Aquaculture/FishFarmEquipmentLazarus.jpg
+    caption: Fish farm equipment 'parked' on Lazarus island shore.
+  - url: https://images.naturehungry.sg/photos/Concepts/Aquaculture/MassDeathFarmedFishPasirRis.jpg
+    caption: Mass death of farm fishes, Pasir Ris, Dec 2009
 ---
 
 If you learn only 3 things about the issue...  
 - Commercial fish farms can impact the surrounding habitats.   
 - Find out where your fishes come from.  
-- Eat less fish, don't throw fishes away.
+- Eat less fish, and don't throw fishes away.
   
-## Fish farms in Singapore
+## Fish Farms in Singapore
 
-Singapore's consumption of fish is estimated to be 100,000 tonnes per year of which about 5% is accounted for by local foodfish aquaculture. This is mainly from coastal fish farms. They produce marine foodfish species like groupers, seabass, snappers and milkfish as well as green mussels and crustacean (shrimp/mangrove crabs). There are also freshwater foodfish farms producing snakeheads, tilapia, catfishes and carps and other .cyprinids. From [Aquaculture in Singapore](http://www.ava.gov.sg/) on the AVA website.
+![Fish farms near Sungei Buloh Wetland Reserve](https://images.naturehungry.sg/photos/Concepts/Aquaculture/FishFarmSBWR.jpg)
+
+Singapore's consumption of fish is estimated to be 100,000 tonnes per year of which about 5% is accounted for by local foodfish aquaculture. This is mainly from coastal fish farms. They produce marine foodfish species like groupers, seabass, snappers and milkfish as well as green mussels and crustacean (shrimp/mangrove crabs). There are also freshwater foodfish farms producing snakeheads, tilapia, catfishes and carps and other .cyprinids. From [Aquaculture in Singapore](http://www.ava.gov.sg/) on the (now deprecated) AVA website.
   
-In 2010, there were 106 licensed coastal floating fish farms in Singapore, producing 3,235 tonnes of fish valued at $11.4 million in 2008. They accounted for 4-5% of the fish consumed annually in Singapore. *From [Plankton bloom hits Pulau Ubin fish farms](http://wildsingaporenews.blogspot.com/2010/01/plankton-bloom-hits-pulau-ubin-fishl) Melissa Sim, Straits Times 2 Jan 10;*
+In 2010, there were 106 licensed coastal floating fish farms in Singapore, producing 3,235 tonnes of fish valued at $11.4 million in 2008. They accounted for 4-5% of the fish consumed annually in Singapore. *From [Plankton bloom hits Pulau Ubin fish farms](https://wildshores.blogspot.com/2010/01/dead-fish-zone-hits-pulau-ubin.html) Melissa Sim, Straits Times 2 Jan 10;*
 
 ## Why farm fishes?
   
@@ -25,11 +37,9 @@ Some broad goals of acquaculture
 - Stable and predictable supply of fish. Not necessarily achieved as mass deaths of stock can occur.
 - Reduce overharvesting of wild fishes. Not necessarily achieved as wild fishes are still caught, to feed the farm fishes.
 
-- Fish farm off waters of Pasir Ris and Pulau Ubin.
-- Fish farm equipment 'parked' on Lazarus island shore.
-![](pix/091230prpc0167m3.jpg) Mass death of farm fishes *Pasir Ris, Dec 09*
+{% include img-wrap-group.html items=page.galleries.fishfarmimpact %}
 
-**Some effects of acquaculture**
+## Some effects of acquaculture
 
 - Parasites and diseases from farmed fish can spread to wild marine life.
 - Pollution of the surrounding waters by the following that escape from fish farms:
@@ -39,18 +49,18 @@ Some broad goals of acquaculture
 - Non-native farm fishes which escape can threaten native wild fish.
 - Farmed fish are fed pellets made from other fish, depleting other fish species on a global scale. Often the small fishes which are daily staples of poor people are used as feed for larger farmed fishes which are sold as luxury items.
 - Setting up and running fish farms can physically impact the surrounding habitat.
-- No door-to-door trash collection is provided to any of the coastal fish farms licenced by Agri-food and Veterinary Authority (AVA). As a result dead fishes and other trash are dumped into the water. [More details here](litter).
+- No door-to-door trash collection is provided to any of the coastal fish farms licenced by Agri-food and Veterinary Authority (AVA). As a result dead fishes and other trash are dumped into the water. [More details here](/_articles/concepts/litter).
 
-*![](pix/100110cjd7835m6a.jpg) Fish farms off Chek Jawa, Jan 10*
+![Fish farms off Chek Jawa, Jan 2010](https://images.naturehungry.sg/photos/Concepts/Aquaculture/100110cjd7835m6a.jpg)
 
-**What can we do about this?**
+## What can we do about this?
 
 - Find out where your fish comes from.
 - Tell your supplier and supermarket you prefer fish from sustainable sources.
 - Eat less fish.
 - Eat what you take. Don't throw away fishes! (or any food for that matter). Many marine animals have died and people have suffered to put that fish on your plate!
 
-See also [impact of prawn farming](prawnfarms).
+See also [impact of prawn farming](/_articles/concepts/prawnfarms).
 
 ---
 
