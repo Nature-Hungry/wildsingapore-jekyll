@@ -1,16 +1,11 @@
 ---
-title: "Prawns and Shrimps "
+title: "Prawn Farms"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/Prawn.jpg
 tag: Issue
----
-
-**Prawn farming is destructive**
-
-*updated Dec 2019*
-
 ---
 
 If you learn only 3 things about the issue...  

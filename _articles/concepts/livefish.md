@@ -3,12 +3,10 @@ title: "Cyanide Fishing"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "live, marine, aquarium, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/05/2008
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/SergeantMajor.jpg
 tag: Issue
 ---
-**Fishes as our food**
-
-*updated May 08*
 
 In Bali, cyanide fishing was a common method. These fishermen were looking for quick ways to make money, and the ornamental marine fish trade was booming. Suddenly, these fishermen had a new type of catch on their target. Cast netting fishes during low tide, traditional hook-and-line, and several other methods were tried and tested, but no method was as efficient at capturing live ornamental fishes as cyanide fishing.
 

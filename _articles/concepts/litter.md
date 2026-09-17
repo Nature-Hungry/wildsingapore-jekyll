@@ -1,16 +1,11 @@
 ---
-title: "Marine litter and their impact "
+title: "Marine debris: Killer Litter and their Impact "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "live, marine, aquarium, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/MarineLitter.jpg
 tag: Issue
----
-
-**Marine debris: Killer litter**
-
-*updated Dec 2019*
-
 ---
 
 ## Why is there so much litter on the shore?

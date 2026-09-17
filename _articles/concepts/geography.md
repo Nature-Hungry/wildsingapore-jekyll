@@ -3,14 +3,9 @@ title: "Geography and the Shores of Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "geography, currents, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/TanjungRimauRockCliff.jpg
 tag: Ecology
----
-
-**Geography and our shores**
-
-*updated Dec 2019*
-
 ---
 
 If you learn only 3 things about them ...  

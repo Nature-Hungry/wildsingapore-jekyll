@@ -1,13 +1,13 @@
 ---
-title: Singapore's Wild Shores
+title: Singapore's Wetlands
 layout: default
 ---
 
-<h2>Our Southern Islands</h2> 
+<h2>Singapore's Wetlands</h2> 
 
 <div class="entry-summary-card-grid">
   {% for post in site.articles %}
-    {% if post.path contains "articles/locations/intertidal/southernislands/" %}
+    {% if post.path contains "articles/locations/wetland/" %}
       {% include entry-summary-card.html item=post %}
       {% endif %}
   {% endfor %}

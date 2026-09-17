@@ -1,16 +1,11 @@
 ---
-title: "What is an intertidal zone: Shores of Singapore"
+title: "What is an intertidal zone?"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "intertidal, zone, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/TanjungRimau.jpg
 tag: Ecology
----
-
-**What is an intertidal zone?**
-
-*updated Dec 2019*
-
 ---
 
 At the edge of land and sea, there is a zone that is submerged at high tide, but is dry and exposed to air at low tide. This coastal area affected by the tides is called the intertidal zone. More [about the tides](tides).  

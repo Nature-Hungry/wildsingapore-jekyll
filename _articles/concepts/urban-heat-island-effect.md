@@ -3,6 +3,7 @@ title: "Urban Heat Island Effect"
 description: "What is Urban Heat Island Effect? A short explanation in the Singaporean context."
 keywords: "urban heat, climate change, hot weather, singapore, facts, fact sheet, info"
 layout: concepts
+date: 17/09/2026
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/UluPandanReservoir.jpg
 tag: Climate
 ---

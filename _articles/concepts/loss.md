@@ -1,21 +1,16 @@
 ---
-title: "Loss of coastal ecosystems in Singapore"
+title: "Loss of Coastal Ecosystems in Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "reclamation, dredging, shipping, petrochemicals, pollution, development, works, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/Reclamation.jpg
 tag: Issue
 ---
 
-**Loss of coastal ecosystems**
-
-*updated Dec 2019*
-
----
-
 ## How much have we lost?
-Land reclamation which increased Singapore's land area by 17% has buried much of Singapore's coasts. Most of our natural [sandy shores](sandy) have been lost to reclamation. Construction of reservoirs by damming rivers and draining wetlands have also badly affected the habitats near river mouths and on intertidal shores.   
-  
+Land reclamation which increased Singapore's land area by 17% has buried much of Singapore's coasts. Most of our natural [sandy shores](/_articles/habitats/sandy-shore) have been lost to reclamation. Construction of reservoirs by damming rivers and draining wetlands have also badly affected the habitats near river mouths and on intertidal shores.   
+
 These have reduced coastal ecosystems drastically. Mangrove forest cover has been reduced from an estimated 13% in the 1820's to only 0.5% of the total land area. Many of the original 60 offshore islands and patch reefs around Singapore have been reclaimed. Some were merged into larger islands. Since 1986, most coral reefs in Singapore have lost up to 65% of their live coral cover.
 
 ![](pix/map1950640small.jpg)  

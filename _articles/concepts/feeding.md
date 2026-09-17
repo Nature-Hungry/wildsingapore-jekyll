@@ -1,15 +1,12 @@
 ---
-title: "Feeding methods"
+title: "Eating on the Shores: Feeding methods"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "feeding, eating, plankton, deposit, suspension, filter, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/FeedingCrab.jpg
 tag: Ecology
 ---
-
-**Eating on the shores feeding methods**
-
-*updated Dec 2019*
 
 if you learn only 3 things about them ...  
 - Many marine creatures feed on tiny things found in the water.  

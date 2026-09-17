@@ -1,15 +1,12 @@
 ---
-title: "Metamorphosis on Singapore shores"
+title: "Growing Up: Metamorphosis"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "plankton, metamorphosis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/08/2020
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/FlowerCrabMoult.jpg
 tag: Ecology
 ---
-
-**Growing up on the shores metamorphosis**
-
-*updated Aug 2020*
 
 If you learn only 3 things about them ...  
 - Most marine creatures undergo metamorphosis in their life cycle.  

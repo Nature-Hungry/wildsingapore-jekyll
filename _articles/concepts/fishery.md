@@ -1,15 +1,12 @@
 ---
-title: "Fishes as our food "
+title: "Fishes as our Food "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "live, marine, aquarium, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/05/2008
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/FishingCastNet.jpg
 tag: Issue
 ---
-
-**Fishes as our food**
-
-*updated May 08*
 
 The fish we eat are either captured or cultured in fish farms. Fish is also used to produce fish meal which is fed other livestock that we eventually eat, mostly poultry and farmed fish and shrimps.  
   

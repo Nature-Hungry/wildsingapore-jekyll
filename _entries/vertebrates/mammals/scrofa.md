@@ -79,30 +79,22 @@ Alas on 27 May 2004, Priscilla was found dead by NParks rangers. There was no ob
 on the wild shores of singapore blog.
 
 *![](https://images.naturehungry.sg/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg)*
-Priscilla the Pig.
-
-Chek Jawa, Oct 01
+Priscilla the Pig. *Chek Jawa, Oct 01*
 
 *![](https://images.naturehungry.sg/vertebrates/mammals/scrofa/030621cjd0058m3.jpg)*
-Priscilla the Pig.
-*Chek Jawa, Jun 03*
+Priscilla the Pig. *Chek Jawa, Jun 03*
 
 *![](https://images.naturehungry.sg/vertebrates/mammals/scrofa/040502cjd0158m3.jpg)*
-Priscilla the Pig c
-ooling off in a mud wallow.
-*Chek Jawa, May 04*
+Priscilla the Pig cooling off in a mud wallow. *Chek Jawa, May 04*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 
-**Wild boar on Singapore shores**
+## Wild boar on Singapore shores
 
 ---
 
-Photos of
-[Wild boar](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-taken-desc&text=Sus%20scrofa&view_all=1)
-for free download from
-[wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
+Photos of [Wild boar](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-taken-desc&text=Sus%20scrofa&view_all=1) for free download from [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 

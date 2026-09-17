@@ -17,7 +17,7 @@ galleries:
 ---
 
 
-Updated Dec 2019*
+*Updated Dec 2019*
 
 ---
 

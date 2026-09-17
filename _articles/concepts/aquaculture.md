@@ -1,11 +1,11 @@
 ---
-title: "Aquaculture: Fishes as our food in Singapore"
+title: "Fish Farming and Aquaculture"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "live, fish, farm, aquaculture, trade, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
-coverimg: https://images.naturehungry.sg/photos/Concepts/Aquaculture/FishFarmPulauSemakau.jpg
 tag: Issue
 date: 17/09/2026
+coverimg: https://images.naturehungry.sg/photos/Concepts/Aquaculture/FishFarmPulauSemakau.jpg
 galleries:
   fishfarmimpact:
   - url: https://images.naturehungry.sg/photos/Concepts/Aquaculture/FishFarmUbin.jpg

@@ -1,16 +1,11 @@
 ---
-title: "Symbiosis "
+title: "Symbiosis"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "symbiosis, mutualism, commensalism, parasitism, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/SnappingShrimpandGoby.jpg
 tag: Ecology
----
-
-**Symbiosis living together**
-
-*updated Dec 2019*
-
 ---
 
 Eating and being eaten is not the only way living things interact on our shores. Many live in close association with one another to increase the chances of survival of one or both of them. This includes animals which are quite different and even plants living inside animals. Such a relationship is called symbiosis.

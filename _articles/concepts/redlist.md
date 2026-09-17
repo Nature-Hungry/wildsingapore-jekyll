@@ -3,14 +3,9 @@ title: "Singapore Red List of threatened plants and animals"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "threatened, endangered, vulnerable, critically, red, list, data, conservation, conserve, protect, reef, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/KnobblySeaStar.jpg
 tag: Ecology
----
-
-**Singapore Red List our threatened plants and animals**
-
-*updated Dec 2019*
-
 ---
 
 ## What is a Red List?

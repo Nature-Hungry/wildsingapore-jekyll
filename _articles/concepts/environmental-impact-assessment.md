@@ -3,6 +3,7 @@ title: "Environmental Impact Assessments"
 description: "What is an EIA? A short explanation in the Singaporean context."
 keywords: "EIA, Environmental Impact Assessment, mitigation measures, development, conservation, policy"
 layout: concepts
+date: 17/09/2026
 author: Jayden Kang
 coverimg: https://images.naturehungry.sg/photos/posts/EIA/PC190091-Pano.JPG
 tag: Issue

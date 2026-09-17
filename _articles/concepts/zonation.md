@@ -1,16 +1,11 @@
 ---
-title: "Zonation "
+title: "Functional Niches: Zonation"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "zonation, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/ZonationRockyShore.jpg
 tag: Ecology
----
-
-**Zonation**
-
-*updated Dec 2019*
-
 ---
 
 Plants and animals are NOT randomly distributed on our intertidal zone. Each living thing is generally found in a place that best suits it. Thus as you move from place to place on our shores, you may observe a change in the kind of plants and animals that you see. [More about the intertidal](intertidal).  

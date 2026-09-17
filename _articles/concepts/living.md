@@ -1,16 +1,11 @@
 ---
-title: "Animal, vegetable or mineral? "
+title: "Animal, vegetable or mineral? And their roles in the cycles of life"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/12/2019
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/CrabInSeaweed.jpg
-tag: Ecologys
----
-
-**Animal, Vegetable or Mineral? And their roles in the cycles of life**
-
-*updated Dec 2019*
-
+tag: Ecology
 ---
 
 If you learn only 3 things about them ...  

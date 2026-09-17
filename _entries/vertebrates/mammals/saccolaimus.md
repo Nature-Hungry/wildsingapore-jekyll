@@ -70,7 +70,10 @@ habitats:
 This small black-and-white bat is sometimes seen roosting in rocky places on our offshore islands. According to Baker, it is widespread and common in Singapore.
 
 ## Features
-Forearm length about 8cm. A small bat with a large ears and a short muzzle without an elaborate 'nose leaf'. The upperside is blackish brown with white markings, the underside is white. The wings are distinctly white. There is a large pouch under the chin for both males and females.
+
+![Pouched Tomb Bat seen flying around NTU ADM](https://images.naturehungry.sg/vertebrates/mammals/saccolaimus/PouchedTombBatNTUADM.jpg)
+
+Forearm length about 8cm. A small bat with a large ears and a short muzzle without an elaborate 'nose leaf'. The upperside is blackish brown with white markings, the underside is white. The wings are distinctly white. There is a large pouch under the chin for both males and females. The wing membrane is translucent.
 
 This bat is social and roosts in colonies with as many as 300 individuals. They roost in rock crevices, hollow trees and within buildings.
 

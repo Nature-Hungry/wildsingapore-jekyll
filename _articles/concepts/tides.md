@@ -1,16 +1,11 @@
 ---
-title: "About the tides "
+title: "About the Tides"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "tides, intertidal, zone, spring, neap,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: concepts
+date: 01/11/2019 
 coverimg: https://images.naturehungry.sg/photos/Concepts/CoverImages/ChekJawaLowTide.jpg
 tag: Intertidal
----
-
-**About the tides, what causes them?**
-
-*updated Nov 2019*
-
 ---
 
 If you learn only 3 things about them ...  

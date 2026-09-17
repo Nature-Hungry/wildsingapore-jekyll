@@ -93,8 +93,33 @@ document.body.addEventListener('click', function(event) {
         document.body.classList.remove('gallery-lightbox-open');
     };
 
+    // The image fills the lightbox box via object-fit:contain, so its element bounds can be
+    // larger than the actual visible picture (letterboxing). Compute the real visible rect
+    // so clicks on the letterbox padding still count as clicking the backdrop.
+    const isInsideVisibleImage = (img, x, y) => {
+        const rect = img.getBoundingClientRect();
+        if (!img.naturalWidth || !img.naturalHeight) return x >= rect.left && x <= rect.right && y >= rect.top && y <= rect.bottom;
+
+        const naturalRatio = img.naturalWidth / img.naturalHeight;
+        const boxRatio = rect.width / rect.height;
+        let renderedWidth = rect.width;
+        let renderedHeight = rect.height;
+        if (naturalRatio > boxRatio) {
+            renderedHeight = rect.width / naturalRatio;
+        } else {
+            renderedWidth = rect.height * naturalRatio;
+        }
+        const left = rect.left + (rect.width - renderedWidth) / 2;
+        const top = rect.top + (rect.height - renderedHeight) / 2;
+        return x >= left && x <= left + renderedWidth && y >= top && y <= top + renderedHeight;
+    };
+
     lightbox.addEventListener('click', (event) => {
-        if (event.target === lightbox) closeLightbox();
+        if (event.target.closest('.gallery-lightbox-close')) return;
+        const image = lightbox.querySelector('.gallery-lightbox-image');
+        if (event.target !== image || !isInsideVisibleImage(image, event.clientX, event.clientY)) {
+            closeLightbox();
+        }
     });
 
     document.addEventListener('click', (event) => {
