@@ -5,7 +5,7 @@ keywords: cowrie, erronea, cypraea, onyx, cypraeidae, gastropod, mollusc, snail,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
 layout: entry
-family: Cypraeidea
+family: Cypraeidae
 genus: Erronea
 species: onyx
 attributes:

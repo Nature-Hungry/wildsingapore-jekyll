@@ -5,7 +5,7 @@ keywords: miliaris, cowrie, cypraeidae, erosaria, cypraea, gastropod, mollusc, s
   shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
-family: Cypraeidea
+family: Cypraeidae
 genus: Erosaria
 species: miliaris
 attributes:

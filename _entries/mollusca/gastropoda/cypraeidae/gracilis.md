@@ -13,7 +13,7 @@ attributes:
 - 111
 - 123
 - 127
-family: Cypraeidea
+family: Cypraeidae
 genus: Purpuradusta
 species: gracilis
 inat_id: 369168

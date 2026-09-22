@@ -5,7 +5,7 @@ keywords: money, cowrie, cypraeidae, cypraea, monetaria, moneta, gastropod, moll
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
-family: Cypraeidea
+family: Cypraeidae
 genus: Monetaria
 species: moneta
 attributes:

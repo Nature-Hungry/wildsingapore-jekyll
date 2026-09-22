@@ -5,7 +5,7 @@ keywords: four, spot, cowrie, cypraeidae, quadrimaculata, cypraea, eclogavena, g
   mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
 layout: entry
-family: Cypraeidea
+family: Cypraeidae
 genus: Eclogavena
 species: quadrimaculata
 attributes:

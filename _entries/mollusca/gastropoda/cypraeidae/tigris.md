@@ -5,7 +5,7 @@ keywords: cowrie, cypraea, tigris, cypraeidae, gastropod, mollusc, snail, shell,
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
-family: Cypraeidea
+family: Cypraeidae
 genus: Cypraea
 species: tigris
 attributes:

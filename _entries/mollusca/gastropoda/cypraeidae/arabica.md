@@ -5,7 +5,7 @@ keywords: arabian, cowrie, mauritia, cypraea, arabica, cypraeidae, gastropod, mo
   snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
-family: Cypraeidea
+family: Cypraeidae
 genus: Mauritia
 species: arabica
 attributes:

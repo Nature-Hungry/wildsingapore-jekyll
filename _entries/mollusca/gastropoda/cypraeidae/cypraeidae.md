@@ -166,6 +166,7 @@ zone:
 habitats:
 - coral rubble
 permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Cypraeoidea/Cypraeidae
+hideFromPhotoindex: true
 ---
 
 ## Where seen?
@@ -211,9 +212,27 @@ Recent estimates suggest that half the cowrie species in Singapore have been los
 
 Like other creatures of the intertidal zone, they are affected by human activities such as reclamation and pollution. Trampling by careless visitors and over-collection can also have an impact on local populations.
 
----
 
-**Some Cowries on Singapore shores**
+## Cowries in Singapore
+
+{% assign filtered_posts = site.entries | where: "class", "Gastropoda" | where: "family","Cypraeidae" %}
+
+
+<div class="entry-summary-card-grid" style="margin-top:2rem;"
+>
+{% for post in filtered_posts %}
+
+
+{% if post.hideFromPhotoindex != true %}
+
+    {% include entry-summary-card.html item=post %}
+
+{% endif %}
+{% endfor %}
+</div>
+
+
+<!-- **Some Cowries on Singapore shores**
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
@@ -225,15 +244,12 @@ Like other creatures of the intertidal zone, they are affected by human activiti
 {% include img-wrap-group.html items=page.galleries.gallery8 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery9 %}
----
+--- -->
 
 **Family Cypraeidae recorded for Singapore**
 from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 *Preliminary Checklist of The Molluscs of Singapore*
-.
 
-in red are those listed among the threatened animals of Singapore
-from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red Data Book: Threatened plants and animals of Singapore.
 
 +from our observation
 
@@ -242,143 +258,80 @@ from Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. The Singapore Red D
 
 **Family Cypraeidae**
 
-*^Annepona mariae=Cypraea mariae
+<ul style="font-size:0.8rem;font-style:italic;">
+<li>^Annepona mariae=Cypraea mariae</li>
 
-^Arestorides argus=Cypraea argus
+<li>^Arestorides argus=Cypraea argus</li>
 
-^Bistolida hirundo=Cypraea hirundo
+<li>^Bistolida hirundo=Cypraea hirundo</li>
 
-^Bistolida kieneri=Cypraea kieneri
+<li>^Bistolida kieneri=Cypraea kieneri</li>
 
-^Bistolida stolida=Cypraea stolida
+<li>^Bistolida stolida=Cypraea stolida</li>
 
-^Bistolida ursellus=Cypraea ursellus
+<li>^Bistolida ursellus=Cypraea ursellus</li>
 
-^Blasicrura interrupta=Cypraea interrupta
+<li>^Blasicrura interrupta=Cypraea interrupta</li>
 
-^
-[Contradusta walkeri](walkeri)
-=Cypraea walkeri*
-(Walker's cowrie)
-*^Cribrarula cribraria=Cypraea cribraria
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/walkeri">Contradusta walkeri</a>=Cypraea walkeri(Walker's cowrie)</li>
 
-[Cypraea tigris](tigris)*
-(Tiger cowrie) (EN: Endangered)
-**
-*^
-[Eclogavena quadrimaculata](quadrimaculata)
-=Cypraea quadrimaculata*
-(Four-spot cowrie)
-**
-*^Erronea caurica=Cypraea caurica
+<li>^Cribrarula cribraria=Cypraea cribraria</li>
 
-^Erronea cylindrica=Cypraea cylindrica
+<li><a href="/entries/mollusca/gastropoda/cypraeidae/tigris">Cypraea tigris</a>
+(Tiger cowrie) (EN: Endangered)</li>
 
-^
-[Erronea errones](errones)
-=Cypraea errones*
-(Wandering cowrie)
-**
-**
-*^
-[Erronea onyx](onyx)
-=Cypraea onyx*
-(Onyx cowrie)
-*^
-[Erronea ovum](ovum)
-=Cypraea ovum*
-(Ovum cowrie)
-**
-*^Erronea pallida=Cypraea pallida
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/quadrimaculata">Elogavena quadrimaculata</a>=Cypraea quadrimaculata(Four-spot cowrie)</li>
 
-^
-[Erronea pyriformis](pyriformis)
-=Cypraea pyriformis*
-(Pear-shaped cowrie)
-**
-*^Erronea rabaulensis=Cypraea rabaulensis*
-*^Erosaria erosa=Cypraea erosa
+<li>^Erronea caurica=Cypraea caurica</li>
 
-^Erosaria gangranosa=Cypraea gangranosa
+<li>^Erronea cylindrica=Cypraea cylindrica</li>
 
-^Erosaria lamarckii=Cypraea lamarckii
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/errones">Erronea errones</a>=Cypraea errones(Wandering cowrie)</li>
 
-^
-[Erosaria miliaris](milliaris)
-=Cypraea miliaris*
-(Miliaris cowrie)
-*^Erosaria nebrites=Cypraea nebrites*
-*^Ficadusta pulchella=Cypraea pulchella
 
-^Leporicypraea mappa=Cypraea mappa
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/onyx">Erronea onyx</a>=Cypraea onyx(Onyx cowrie)</li>
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/ovum">Erronea ovum</a>=Cypraea ovum(Ovum cowrie)</li>
 
-^Lyncina carneola=Cypraea carneola
+<li>^Erronea pallida=Cypraea pallida</li>
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/pyriformis">Erronea pyriformis</a>=Cypraea pyriformis(Pear-shaped cowrie)</li>
 
-^Lyncina lynx=Cypraea lynx
+<li>^Erronea rabaulensis=Cypraea rabaulensis</li>
+<li>^Erosaria erosa=Cypraea erosa</li>
 
-^Lyncina nivosa=Cypraea nivosa
+<li>^Erosaria gangranosa=Cypraea gangranosa</li>
 
-^Lyncina ventriculus=Cypraea ventriculus
+<li>^Erosaria lamarckii=Cypraea lamarckii</li>
 
-^
-[Lyncina vitellus](vitellus)
-=Cypraea vitellus*
-(Milk-spotted cowrie)
-**
-**
-*^
-[Mauritia arabica](arabica)
-=Cypraea arabica*
-(Arabian cowrie) (VU: Vulnerable)
-*^Mauritia eglantina=Cypraea eglantina
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/milliaris">Erosaria miliaris</a>=Cypraea miliaris(Miliaris cowrie)</li>
+<li>^Erosaria nebrites=Cypraea nebrites</li>
+<li>^Ficadusta pulchella=Cypraea pulchella</li>
 
-^Mauritia histrio=Cypraea histrio*
-*^Melicerona felina=Cypraea felina
+<li>^Leporicypraea mappa=Cypraea mappa</li>
 
-^Monetaria annulus=Cypraea annulus*
-(Gold-ringed cowrie) (EN:Endangered)
+<li>^Lyncina carneola=Cypraea carneola</li>
 
-*^Monetaria caputserpentis=Cypraea caputserpentis
+<li>^Lyncina lynx=Cypraea lynx</li>
 
-^
-[Monetaria moneta](moneta)
-=Cypraea moneta*
-(Money cowrie)
+<li>^Lyncina nivosa=Cypraea nivosa</li>
 
-*^Notadusta punctata=Cypraea punctata*
+<li>^Lyncina ventriculus=Cypraea ventriculus</li>
 
-*^Nucleolaria nucleus=Cypraea nucleus*
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/vitellus">Lyncina vitellus</a>=Cypraea vitellus(Milk-spotted cowrie)</li>
 
-*^Ovatipsa coloba=Cypraea coloba*
-*^Palmadusta asellus=Cypraea asselus
 
-^Palmadusta clandestina=Cypraea clandestina
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/arabica">Mauritia arabica</a>=Cypraea arabica(Arabian cowrie) (VU: Vulnerable)</li>
 
-^Palmadusta lutea=Cypraea lutea
+<li>^Mauritia eglantina=Cypraea eglantina</li>
 
-+^
-[Palmadusta saulae](saulae)
-=Cypraea saulae*
-(Saul's cowrie)
-**
-*^Palmadusta ziczac=Cypraea ziczac
+<li>^Mauritia histrio=Cypraea histrio</li>
+<li>^Melicerona felina=Cypraea felina</li>
 
-^Purpuradusta fimbriata=Cypraea fimbriata
+<li>^Monetaria annulus=Cypraea annulus
+(Gold-ringed cowrie) (EN:Endangered)</li>
 
-^
-[Purpuradusta gracilis](gracilis)
-=Cypraea gracilis*
-(Graceful cowrie)
-**
-*^Purpuradusta hammondae=Cypraea hammondae
+<li>^Monetaria caputserpentis=Cypraea caputserpentis</li>
 
-^Purpuradusta minoridens=Cypraea minoridens
-
-^Pustularia bistrinotata=Cypraea bistrinotata
-
-^Staphylaea staphylaea=Cypraea staphylaea
-
-^Talparia talpa=Cypraea talpa*
-*^Zoila marginata=Cypraea margarita*
+<li>^<a href="/entries/mollusca/gastropoda/cypraeidae/moneta">Monetaria moneta</a>=Cypraea moneta(Money cowrie)</li>
+</ul>
 
 ---

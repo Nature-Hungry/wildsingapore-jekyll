@@ -13,7 +13,7 @@ attributes:
 - 111
 - 123
 - 127
-family: Cypraeidea
+family: Cypraeidae
 genus: Erronea
 species: errones
 inat_id: 368589
