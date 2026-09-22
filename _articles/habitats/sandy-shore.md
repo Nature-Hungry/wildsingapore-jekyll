@@ -1,5 +1,5 @@
 ---
-title: "Sandy shores of Singapore"
+title: "Sandy Shore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "sandy, intertidal, zone, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default

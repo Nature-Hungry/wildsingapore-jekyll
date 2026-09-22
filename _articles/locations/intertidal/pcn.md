@@ -9,6 +9,7 @@ galleries:
   - url: 
   gallery2:
   - url: 
+habitats: coral, rocky-shore, seagrass-meadow
 ---
 ## History
 

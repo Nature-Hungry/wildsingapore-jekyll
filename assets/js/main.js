@@ -89,8 +89,21 @@ document.body.addEventListener('click', function(event) {
 
     const closeLightbox = () => {
         lightbox.classList.remove('is-open');
+        lightbox.classList.remove('is-zoomed');
         lightbox.setAttribute('aria-hidden', 'true');
         document.body.classList.remove('gallery-lightbox-open');
+        lightbox.querySelector('.gallery-lightbox-image').style.transform = '';
+    };
+
+    // Pans the zoomed image so the point under the cursor shifts into view: the cursor's
+    // position within the viewport maps to how far the oversized image is shifted.
+    const panToCursor = (clientX, clientY) => {
+        const image = lightbox.querySelector('.gallery-lightbox-image');
+        const overflowX = Math.max(0, image.naturalWidth - window.innerWidth);
+        const overflowY = Math.max(0, image.naturalHeight - window.innerHeight);
+        const ratioX = clientX / window.innerWidth;
+        const ratioY = clientY / window.innerHeight;
+        image.style.transform = `translate(${-overflowX * ratioX}px, ${-overflowY * ratioY}px)`;
     };
 
     // The image fills the lightbox box via object-fit:contain, so its element bounds can be
@@ -117,9 +130,20 @@ document.body.addEventListener('click', function(event) {
     lightbox.addEventListener('click', (event) => {
         if (event.target.closest('.gallery-lightbox-close')) return;
         const image = lightbox.querySelector('.gallery-lightbox-image');
-        if (event.target !== image || !isInsideVisibleImage(image, event.clientX, event.clientY)) {
+        if (event.target === image && isInsideVisibleImage(image, event.clientX, event.clientY)) {
+            lightbox.classList.toggle('is-zoomed');
+            if (lightbox.classList.contains('is-zoomed')) {
+                panToCursor(event.clientX, event.clientY);
+            } else {
+                image.style.transform = '';
+            }
+        } else {
             closeLightbox();
         }
+    });
+
+    lightbox.addEventListener('mousemove', (event) => {
+        if (lightbox.classList.contains('is-zoomed')) panToCursor(event.clientX, event.clientY);
     });
 
     document.addEventListener('click', (event) => {
@@ -128,6 +152,8 @@ document.body.addEventListener('click', function(event) {
             event.preventDefault();
             lightbox.querySelector('.gallery-lightbox-image').src = image.src;
             lightbox.querySelector('.gallery-lightbox-image').alt = image.alt;
+            lightbox.querySelector('.gallery-lightbox-image').style.transform = '';
+            lightbox.classList.remove('is-zoomed');
             lightbox.classList.add('is-open');
             lightbox.setAttribute('aria-hidden', 'false');
             document.body.classList.add('gallery-lightbox-open');

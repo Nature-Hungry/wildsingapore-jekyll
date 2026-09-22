@@ -1,8 +1,8 @@
 ---
 title: Our Wild Spaces 2.0
 description: "Information about the various terrestrial habitats in Singapore with an interactive map"
+layout: default
 ---
-{% include global/header.html %}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
@@ -82,14 +82,19 @@ description: "Information about the various terrestrial habitats in Singapore wi
     background-color: var(--color-primary);
     color:white;
 }
+
+#main-content > section {
+    text-align: center;
+}
 </style>
 
-    <main class="page-content page-content-full-width" id="main-content">
-        <div id="map" class="loading" style="height:80vh; margin-bottom:2rem;"></div>
+    <main id="main-content">
+        <div id="map" class="loading" style="height:80vh;"></div>
 
         <section>
-            <h3>Our Wild Spaces 2.0 Report</h3>
+            <br>
             {% include button.html href="https://docs.naturehungry.sg/Our_Wild_Spaces_2.0.pdf" label="View the OWS 2.0 Report here!" %}
+            <hr>
         </section>
     </main>
 
@@ -313,4 +318,3 @@ choose to uphold, and ultimately, the kind of Singapore we hope future
 generations will be proud to call their own.
     </p>
 </div>
-{% include global/footer.html %}

@@ -29,6 +29,8 @@ galleries:
   - url: https://live.staticflickr.com/6114/6327801902_744bce77e0_z.jpg
   - url: https://live.staticflickr.com/65535/6988792729_2264007873_z.jpg
   - url: https://live.staticflickr.com/8105/8621585298_d30787e421_z.jpg
+habitats: coral, coralrubble, mangrove
+locationgroup: southernislands
 ---
 ## History
 

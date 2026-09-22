@@ -10,6 +10,7 @@ galleries:
   - url: 
   gallery2:
   - url: 
+habitats: rocky shore, coralrubble, coral
 ---
 
 ## About the name

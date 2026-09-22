@@ -1,9 +1,9 @@
 ---
-title: Tengah Forest
+title: Tagore Forest
 summary: 
 coverimg: 
 layout: default
-habitats: youngsecondaryforest, freshwaterbody
+habitats: lowlandforest, youngsecondaryforest
 locationgroup: terrestrial
 ---
 

@@ -2,6 +2,8 @@
 title: Pulau Tekong
 summary: 
 layout: default
+habitats: mangrove, lowlandforest, coastalvegetation, coral, mudflat
+locationgroup: terrestrial
 ---
 
 Pulau Tekong was pubicly accessible up until 1987, after which it was restricted and the entire island would be fully utilised by the Singapore Armed Forces.

@@ -3,30 +3,11 @@ title: "Terumbu Bemban "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "terumbu, bemban, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default
+habitats: sandy-shore, coral
+locationgroup: southernislands
 ---
-[![](../../Templates/wildfactsheet3.gif)](../index.html)
 
-[wildsingapore
-homepage](https://images.naturehungry.sg/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[main index](index.html) to Singapore's Southern shores
-for the [southern
-expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/)
-| [facebook
-page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
-
-**Terumbu
-Bemban**  
+[main index](index.html) to Singapore's Southern shores for the [southern expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/) | [facebook page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
 
 ---
 

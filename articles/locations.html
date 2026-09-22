@@ -6,10 +6,58 @@ layout: none
 ---
 
 <style>
-    
+    input[type="checkbox"] {
+        width: 1.4rem;
+        height: 1.4rem;
+        cursor: pointer;
+    }
+    .habitat-filters details > summary::before {
+        content: "+";
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0;
+    }
+    .habitat-filters details[open] > summary::before {
+        content: "-";
+    }
+    .habitat-filters {
+        overflow: hidden;
+        border-radius: 8px;
+        padding: 1.5rem;
+        border: 1px solid var(--color-black-border);
+        margin: 1rem 0;
+        width: fit-content;
+    }
+    .habitat-filters .habitat-children {
+        margin-left: 1rem;
+    }
+    .habitat-filters .habitat-title {
+        white-space: nowrap;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        padding-left: 15px;
+        gap: 1rem;
+        border-bottom: 1px solid lightgrey;
+        padding-bottom: 0.2rem;
+        padding-top: 0.2rem;
+    }
+    .habitat-filters summary.habitat-title {
+        cursor: pointer;
+    }
+    .habitat-filters summary.habitat-title:hover,
+    .habitat-filters label.habitat-title:hover {
+        background-color: lightgrey;
+    }
+    .locationgroup-filter {
+        padding-left: 0;
+        margin-top: 0.5rem;
+    }
 </style>
 {% include global/header.html %}
-
 
 <main class="page-content page-content-full-width" id="main-content" style="background-color:transparent">
   <h1>Articles</h1>
@@ -27,6 +75,31 @@ layout: none
                 <a href="/articles/habitats" class="category-btn">
                     Habitats
                 </a>
+                <div class="habitat-filters" id="habitat-filters">
+                    <details>
+                        <summary class="habitat-title">Habitats</summary>
+                        <div class="habitat-children">
+                            {% for article in site.articles %}
+                                {% if article.path contains "_articles/habitats/" %}
+                                    {% assign slug = article.path | split: "/" | last | remove: ".md" %}
+                                    {% assign habitat_label = article.title %}
+                                    <label class="habitat-title">
+                                        {{ habitat_label }}
+                                        <input type="checkbox" class="habitat-checkbox-input" value="{{ slug }}">
+                                    </label>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </details>
+                    <label class="habitat-title locationgroup-filter" id="locationgroup-filters">
+                        Southern Islands
+                        <input type="checkbox" class="locationgroup-checkbox-input" value="southernislands">
+                    </label>
+                    <label class="habitat-title locationgroup-filter">
+                        Terrestrial
+                        <input type="checkbox" class="locationgroup-checkbox-input" value="terrestrial">
+                    </label>
+                </div>
             </div>
             <div class="articles-wrapper">
                 <div class="pagination" aria-label="Articles pagination"></div>
@@ -55,10 +128,15 @@ layout: none
             url: {{ post.url | relative_url | jsonify }},
             title: {{ post.title | jsonify }},
             excerpt: {{ post.excerpt | strip_html | strip_newlines | jsonify }},
-            image: {{ post.coverimg | default: "" | jsonify }}
+            image: {{ post.coverimg | default: "" | jsonify }},
+            habitats: {{ post.habitats | default: "" | jsonify }},
+            locationgroup: {{ post.locationgroup | default: "" | jsonify }}
         }{% unless forloop.last %},{% endunless %}
         {% endfor %}
-    ];
+    ].map((article) => ({
+        ...article,
+        habitats: article.habitats.split(',').map((habitat) => habitat.trim()).filter(Boolean)
+    }));
 
     const articlesList = document.querySelector('.articles-list');
     const escapeHtml = (value) => String(value)
@@ -69,10 +147,19 @@ layout: none
         .replaceAll("'", '&#039;');
 
     const paginations = document.querySelectorAll('.pagination');
+    const habitatCheckboxes = document.querySelectorAll('.habitat-checkbox-input');
+    const locationGroupCheckboxes = document.querySelectorAll('.locationgroup-checkbox-input');
     const articlesPerPage = 5;
-    const totalPages = Math.ceil(articles.length / articlesPerPage);
     const requestedPage = Number.parseInt(new URLSearchParams(window.location.search).get('page'), 10);
     let currentPage = Number.isNaN(requestedPage) ? 1 : requestedPage;
+    const selectedHabitats = new Set();
+    const selectedLocationGroups = new Set();
+
+    const filteredArticles = () => articles.filter((article) => {
+        const habitatMatch = selectedHabitats.size === 0 || article.habitats.some((habitat) => selectedHabitats.has(habitat));
+        const groupMatch = selectedLocationGroups.size === 0 || selectedLocationGroups.has(article.locationgroup);
+        return habitatMatch && groupMatch;
+    });
 
     const articleTemplate = (article) => `
         <a href="${escapeHtml(article.url)}" class="articles-list-item">
@@ -85,9 +172,11 @@ layout: none
     `;
 
     const renderPage = (page) => {
+        const matchingArticles = filteredArticles();
+        const totalPages = Math.ceil(matchingArticles.length / articlesPerPage);
         currentPage = Math.min(Math.max(page, 1), totalPages || 1);
         const start = (currentPage - 1) * articlesPerPage;
-        const pageArticles = articles.slice(start, start + articlesPerPage);
+        const pageArticles = matchingArticles.slice(start, start + articlesPerPage);
 
         articlesList.innerHTML = pageArticles.map(articleTemplate).join('');
         const paginationMarkup = totalPages > 1 ? `
@@ -117,6 +206,30 @@ layout: none
             if (button && !button.disabled) {
                 renderPage(Number(button.dataset.page));
             }
+        });
+    });
+
+    locationGroupCheckboxes.forEach((checkbox) => {
+        checkbox.addEventListener('change', () => {
+            if (checkbox.checked) {
+                selectedLocationGroups.add(checkbox.value);
+            } else {
+                selectedLocationGroups.delete(checkbox.value);
+            }
+            currentPage = 1;
+            renderPage(currentPage);
+        });
+    });
+
+    habitatCheckboxes.forEach((checkbox) => {
+        checkbox.addEventListener('change', () => {
+            if (checkbox.checked) {
+                selectedHabitats.add(checkbox.value);
+            } else {
+                selectedHabitats.delete(checkbox.value);
+            }
+            currentPage = 1;
+            renderPage(currentPage);
         });
     });
 

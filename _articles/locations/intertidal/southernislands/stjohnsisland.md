@@ -3,30 +3,13 @@ title: "St. John's Island "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "st, john, johns, island, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default
+habitats: coral, coastalvegetation, youngsecondaryforest, mangrove
+locationgroup: southernislands
 ---
-[![](../../Templates/wildfactsheet3.gif)](../index.html)
+ 
+[main index](index.html) to Singapore's Southern shores for the [southern expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/) | [facebook page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
 
-[wildsingapore
-homepage](https://images.naturehungry.sg/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
-
-[main index](index.html) to Singapore's Southern shores
-for the [southern
-expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/)
-| [facebook
-page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
-
-**St.
-John's Island**   
+**St. John's Island**   
 
 ---
 

@@ -5,6 +5,8 @@ description: About the Bukit Timah Nature Reserve
 keywords: bukit timah, lowland dipterocarp forest, primary forest, forest
 coverimg: https://images.naturehungry.sg/photos/posts/CoverImages/JungleFallTrail.jpg
 layout: post
+habitats: lowlandforest
+locationgroup: terrestrial
 ---
 
 The Bukit Timah Nature Reserve is home to a **primary forest**, near the summit of the hill. If you visit Jungle Fall Trail, you will be able to see the primary forest.

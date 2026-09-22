@@ -15,8 +15,8 @@ galleries:
   - url:
   gallery3:
   - url: 
----
-
+habitats: sandy-shore, coral
+locationgroup: southernislands
 ---
 
 ## Habitats

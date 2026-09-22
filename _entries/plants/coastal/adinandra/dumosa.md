@@ -23,12 +23,16 @@ updated: Nov 2010
 coverimg: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg
 galleries:
   gallery1:
+  - url: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg
+    caption: Sentosa, Apr 09
+  - url: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090401sntd8849m3b.jpg
   - url: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090418admd0213m3.jpg
     caption: Admiralty Park, Apr 09
   - url: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090418admd0215m3.jpg
     caption: Admiralty Park, Apr 09
   - url: https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/091005cjd2144m3.jpg
     caption: Chek Jawa, Oct 09
+
 links_references: '### Links
 
 
@@ -85,25 +89,21 @@ zone:
 ## Where seen?
 This tree or bush with tear-drop shaped flowers is sometimes seen on our wild coastal cliffs as well as other wild places.
 
-According to Corners the tree was "one of the commonest" in Malaya. It is found in secondary forests, often forming almost pure stands. In fact, the type of vegetation on some parts of Kent Ridge is known as 'Adinandra
-*belukar*
-' because this plant dominates there. According to Burkill, the name 'Tiup tiup' probably arose because the style resembles a blow pipe.
+According to Corners the tree was "one of the commonest" in Malaya. It is found in secondary forests, often forming almost pure stands. In fact, the type of vegetation on some parts of Kent Ridge is known as 'Adinandra *belukar* ' because this plant dominates there. According to Burkill, the name 'Tiup tiup' probably arose because the style resembles a blow pipe.
 
 ## Features
 
-Shrub to tree (2-10m). The leaves (5-10cm long) are leathery, dark green above and pale beneath. They wither dull scarlet, young leaves are reddish pink. The small flowers are cream and the petals do not open. The bit sticking out is the style. Fruits are small globular berries (about 1cm), ripening green to brownish. According to Corners, it begins to flower at a height of 2m "when it is about 2-3 years old and continues daily for some hundred years". He says it grows slowly but steadily, "even in the most improverished places".
+Shrub to tree (2-10m). Has a very distinct pink/green stipule that sticks out like a sharp spine, but is soft. The leaves (5-10cm long) are leathery, dark green above and pale beneath. They wither dull scarlet, young leaves are reddish pink.
+
+The small flowers are cream and the petals do not open. The bit sticking out is the style.
+
+Fruits are small globular berries (about 1cm), ripening green to brownish. According to Corners, it begins to flower at a height of 2m "when it is about 2-3 years old and continues daily for some hundred years". He says it grows slowly but steadily, "even in the most improverished places".
 
 Corners adds that it is said the flowers are pollinated by bees, but as they do not open, it is likely that they are self pollinated. The seeds are distributed by small fruit bats which carry the fruits one at a time from to the tree to their resting places where they suck out the pulp contents and disgorge the seeds.
 
 ## Human uses
 
 According to Burkill, its wood is considered of little use as it is such a small tree. But it is used as firewood.
-
-*![](https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg)
-
-Sentosa, Apr 09
-
-![](https://images.naturehungry.sg/plants/coastal/adinandra/dumosa/090401sntd8849m3b.jpg)*
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---

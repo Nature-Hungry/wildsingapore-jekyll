@@ -3,21 +3,10 @@ title: "Sentosa Tanjung Rimau "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "sentosa, tanjung, tg, rimau, island, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default
+habitats: coastalvegetation, rocky-shore, coral, sandy-shore
+locationgroup: southernislands
 ---
-[![](../../Templates/wildfactsheet3.gif)](../index.html)
-
-[wildsingapore
-homepage](https://images.naturehungry.sg/)  
-  
-[wildfactsheets homepage](../index.html)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
-
-[all animals](../animals.htm)
-| [all plants](../plants.htm)
-| [concepts](../concepts/index.html)
-| [glossary](../glossary/index.html)
-| [search](../search.htm)
+ 
 
 [main index](index.html) to Singapore's Southern shores
 for the [southern

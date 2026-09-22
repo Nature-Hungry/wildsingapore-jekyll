@@ -5,12 +5,12 @@ keywords: "terumbu, pempang, laut, singapore, nature, natural, wildlife, rocky, 
 layout: default
 summary: Central area sandy with some seagrasses, large rocky areas, rubbly edges sparsely reefy.
 coverimg: https://live.staticflickr.com/65535/55377132175_44f6241ae6_c.jpg
+habitats: sandy-shore, rocky-shore, coral
+locationgroup: southernislands
 ---
 
 ## Habitats
-Central
-area sandy with some seagrasses, large rocky areas, rubbly edges sparsely
-reefy.  
+Central area sandy with some seagrasses, large rocky areas, rubbly edges sparsely reefy.  
 11° 13.912’N 103° 43.440’E 44ha, 1km x 500m 
 
 ![](https://images.naturehungry.sg/places/photos/tpempang.jpg)

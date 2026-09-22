@@ -6,7 +6,52 @@ layout: none
 ---
 
 <style>
-    
+    input[type="checkbox"] {
+        width: 1.4rem;
+        height: 1.4rem;
+        cursor: pointer;
+    }
+    .habitat-filters details > summary::before {
+        content: "+";
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0;
+    }
+    .habitat-filters details[open] > summary::before {
+        content: "-";
+    }
+    .habitat-filters {
+        overflow: hidden;
+        border-radius: 8px;
+        padding: 1.5rem;
+        border: 1px solid var(--color-black-border);
+        margin: 1rem 0;
+        width: fit-content;
+    }
+    .habitat-filters .habitat-children {
+        margin-left: 1rem;
+    }
+    .habitat-filters .habitat-title {
+        white-space: nowrap;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        padding-left: 15px;
+        gap: 1rem;
+        border-bottom: 1px solid lightgrey;
+        padding-bottom: 0.2rem;
+        padding-top: 0.2rem;
+    }
+    .habitat-filters summary.habitat-title {
+        cursor: pointer;
+    }
+    .habitat-filters summary.habitat-title:hover,
+    .habitat-filters label.habitat-title:hover {
+        background-color: lightgrey;
+    }
 </style>
 {% include global/header.html %}
 
@@ -27,14 +72,31 @@ layout: none
                 <a href="/articles/habitats" class="category-btn">
                     Habitats
                 </a>
+                <div class="habitat-filters" id="tag-filters">
+                    <details>
+                        <summary class="habitat-title">Tags</summary>
+                        <div class="habitat-children">
+                            <label class="habitat-title">
+                                Issue
+                                <input type="checkbox" class="tag-checkbox-input" value="Issue">
+                            </label>
+                            <label class="habitat-title">
+                                Ecology
+                                <input type="checkbox" class="tag-checkbox-input" value="Ecology">
+                            </label>
+                            <label class="habitat-title">
+                                Climate
+                                <input type="checkbox" class="tag-checkbox-input" value="Climate">
+                            </label>
+                            <label class="habitat-title">
+                                Urban
+                                <input type="checkbox" class="tag-checkbox-input" value="Urban">
+                            </label>
+                        </div>
+                    </details>
+                </div>
             </div>
             <div class="articles-wrapper">
-                <div class="article-tags">
-                    <button type="button" class="tag active" data-tag="all">All</button>
-                    <button type="button" class="tag" data-tag="Issue">Issue</button>
-                    <button type="button" class="tag" data-tag="Ecology">Ecology</button>
-                    <button type="button" class="tag" data-tag="Climate">Climate</button>
-                </div>
                 <div class="pagination" aria-label="Articles pagination"></div>
                 <div class="articles-list">
                     <!-- <p>Nothing here yet. Want to share an article with us? </p> -->
@@ -73,17 +135,21 @@ layout: none
         .replaceAll('>', '&gt;')
         .replaceAll('"', '&quot;')
         .replaceAll("'", '&#039;');
+    const truncateSentences = (text, maxSentences) => {
+        const sentences = text.match(/[^.!?]+[.!?]+(\s+|$)|[^.!?]+$/g) || [text];
+        return sentences.slice(0, maxSentences).join('').trim();
+    };
 
     const paginations = document.querySelectorAll('.pagination');
-    const tagButtons = document.querySelectorAll('.article-tags .tag');
+    const tagCheckboxes = document.querySelectorAll('.tag-checkbox-input');
     const articlesPerPage = 5;
     const requestedPage = Number.parseInt(new URLSearchParams(window.location.search).get('page'), 10);
     let currentPage = Number.isNaN(requestedPage) ? 1 : requestedPage;
-    let selectedTag = 'all';
+    const selectedTags = new Set();
 
     const filteredArticles = () => articles.filter((article) => {
         const tag = article.tag === 'Ecologys' ? 'Ecology' : article.tag;
-        return selectedTag === 'all' || tag === selectedTag;
+        return selectedTags.size === 0 || selectedTags.has(tag);
     });
 
     const articleTemplate = (article) => `
@@ -91,7 +157,7 @@ layout: none
             <img class="article-img" src="${escapeHtml(article.image)}" alt="${escapeHtml(article.title)}">
             <div class="article-content">
                 <h2>${escapeHtml(article.title)}</h2>
-                <p>${escapeHtml(article.excerpt)}</p>
+                <p>${escapeHtml(truncateSentences(article.excerpt, 3))}</p>
             </div>
         </a>
     `;
@@ -125,11 +191,14 @@ layout: none
         window.history.replaceState({}, '', url);
     };
 
-    tagButtons.forEach((button) => {
-        button.addEventListener('click', () => {
-            selectedTag = button.dataset.tag;
+    tagCheckboxes.forEach((checkbox) => {
+        checkbox.addEventListener('change', () => {
+            if (checkbox.checked) {
+                selectedTags.add(checkbox.value);
+            } else {
+                selectedTags.delete(checkbox.value);
+            }
             currentPage = 1;
-            tagButtons.forEach((tagButton) => tagButton.classList.toggle('active', tagButton === button));
             renderPage(currentPage);
         });
     });

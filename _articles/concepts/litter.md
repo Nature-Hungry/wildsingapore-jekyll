@@ -49,7 +49,7 @@ nearby coastal fish farms. *Pulau Ubin, Sep 14*
 
 *![](pix/040731kusd3462m3.jpg)*Plastic stuck to a sea anemone. *Kusu Island, Jul 04*
 
-**You CAN make a difference**
+## You CAN make a difference
 
 - Throw all your rubbish in a proper bin.
 - Try to reduce the use of these things that you only use once or eventually throw away: plastics, styrofoam, plastic bags.
@@ -59,7 +59,7 @@ nearby coastal fish farms. *Pulau Ubin, Sep 14*
 
 ---
 
-**Photos of marine debris on Singapore shores**
+## Photos of marine debris on Singapore shores
 On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/) for free download  
 
 - [Marine litter](https://www.flickr.com/photos/wildsingapore/albums/72157622486487286)

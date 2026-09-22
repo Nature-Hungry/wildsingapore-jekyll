@@ -1,5 +1,5 @@
  .img-wrap-group{
-    margin:2rem 0;
+    margin:0 0 2rem;
     display:flex;
     gap:1rem;
     flex-wrap: wrap;
@@ -72,12 +72,23 @@
     opacity: 1;
     pointer-events: auto;
 }
+.gallery-lightbox.is-zoomed{
+    overflow: hidden;
+}
 .gallery-lightbox-image{
     width: 100%;
     height: 100%;
     max-width: 80vw;
     max-height: 80vh;
     object-fit: contain;
+    cursor: zoom-in;
+}
+.gallery-lightbox.is-zoomed .gallery-lightbox-image{
+    width: auto;
+    height: auto;
+    max-width: none;
+    max-height: none;
+    object-fit: none;
     cursor: zoom-out;
 }
 .gallery-lightbox-close{
