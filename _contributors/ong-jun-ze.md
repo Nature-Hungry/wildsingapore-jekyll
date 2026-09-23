@@ -9,6 +9,4 @@ coverimg: https://images.naturehungry.sg/photos/contributors/OngJunZe.jpg
 excerpt: Jun Ze is a software engineering student in the Singapore Institute of Technology. He is behind most of this website's development.
 ---
 
-Jun Ze is a software engineering student in the Singapore Institue of Technology. Without Jun Ze, this website would not even be possible at all.
-
-Jun Ze spent the last five years birdwatching around Asia, being very familiar with the avifauna of Singapore, Malaysia, and Taiwan. You might see him wandering the Central Catchment Nature Reserve, where he spends many weekends birdwatching with Jayden and friends.
+Jun Ze is a undergraduate student in Singapore Institue of Technology pursuing a Bachelor of Engineering with Honours in Information and Communications Technology majoring in Software Engineering. He is the main developer for this project.
