@@ -105,6 +105,9 @@ h2{
         width:200px;
         border:1px solid var(--color-border);
         border-radius: 8px;
+        max-height: 80vh;
+        overflow: auto;
+
     }
     #section-nav a{
         color: var(--color-text);

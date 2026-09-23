@@ -6,52 +6,29 @@ layout: none
 ---
 
 <style>
-    input[type="checkbox"] {
-        width: 1.4rem;
-        height: 1.4rem;
+    
+    .tag-checkbox-input{
+        display:none;
+    }
+    .tags{
+        display:flex;
+        flex-wrap: wrap;
+        gap:1rem;
+        margin-bottom: 1rem;
+    }
+    .tag{
+        border:1px solid var(--color-section-head);
+        padding:0 0.3rem;
+        border-radius: 5px;
+        color: var(--color-section-head);
         cursor: pointer;
     }
-    .habitat-filters details > summary::before {
-        content: "+";
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%);
-        left: 0;
+    label:has(input[type="checkbox"]:checked) {
+        font-weight: bold;
+        color:white;
+        background-color: var(--color-section-head);
     }
-    .habitat-filters details[open] > summary::before {
-        content: "-";
-    }
-    .habitat-filters {
-        overflow: hidden;
-        border-radius: 8px;
-        padding: 1.5rem;
-        border: 1px solid var(--color-black-border);
-        margin: 1rem 0;
-        width: fit-content;
-    }
-    .habitat-filters .habitat-children {
-        margin-left: 1rem;
-    }
-    .habitat-filters .habitat-title {
-        white-space: nowrap;
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        position: relative;
-        padding-left: 15px;
-        gap: 1rem;
-        border-bottom: 1px solid lightgrey;
-        padding-bottom: 0.2rem;
-        padding-top: 0.2rem;
-    }
-    .habitat-filters summary.habitat-title {
-        cursor: pointer;
-    }
-    .habitat-filters summary.habitat-title:hover,
-    .habitat-filters label.habitat-title:hover {
-        background-color: lightgrey;
-    }
+
 </style>
 {% include global/header.html %}
 
@@ -72,31 +49,28 @@ layout: none
                 <a href="/articles/habitats" class="category-btn">
                     Habitats
                 </a>
-                <div class="habitat-filters" id="tag-filters">
-                    <details>
-                        <summary class="habitat-title">Tags</summary>
-                        <div class="habitat-children">
-                            <label class="habitat-title">
-                                Issue
-                                <input type="checkbox" class="tag-checkbox-input" value="Issue">
-                            </label>
-                            <label class="habitat-title">
-                                Ecology
-                                <input type="checkbox" class="tag-checkbox-input" value="Ecology">
-                            </label>
-                            <label class="habitat-title">
-                                Climate
-                                <input type="checkbox" class="tag-checkbox-input" value="Climate">
-                            </label>
-                            <label class="habitat-title">
-                                Urban
-                                <input type="checkbox" class="tag-checkbox-input" value="Urban">
-                            </label>
-                        </div>
-                    </details>
-                </div>
+                
             </div>
             <div class="articles-wrapper">
+                <div class="tags">
+                    <label class="tag">
+                        Issue
+                        <input type="checkbox" class="tag-checkbox-input" value="Issue">
+                    </label>
+                    <label class="tag">
+                        Ecology
+                        <input type="checkbox" class="tag-checkbox-input" value="Ecology">
+                    </label>
+                    <label class="tag">
+                        Climate
+                        <input type="checkbox" class="tag-checkbox-input" value="Climate">
+                    </label>
+                    <label class="tag">
+                        Urban
+                        <input type="checkbox" class="tag-checkbox-input" value="Urban">
+                    </label>
+
+                </div>
                 <div class="pagination" aria-label="Articles pagination"></div>
                 <div class="articles-list">
                     <!-- <p>Nothing here yet. Want to share an article with us? </p> -->

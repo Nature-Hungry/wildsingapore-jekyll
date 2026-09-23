@@ -437,6 +437,10 @@ nav{
 }
 
 /* ── Headings (Helvetica Neue) ───────────────────────────────────────────── */
+h1,h2,h3,h4,h5{
+  scroll-margin-top: 200px;
+}
+
 h1, h2, h1 *{
   font-family:   var(--font-header);
   line-height:   1.25;
@@ -459,9 +463,14 @@ h2 {
   font-weight: 100;
   margin-bottom: 1rem;
 }
+h3 {
+  font-weight: 100;
+  letter-spacing: 1.5px;
 
-/* Sub-section → navy */
-h3{
+}
+h4 { font-size: 1rem;  font-weight: 700; }
+
+h5{
   font-size:0.8rem;
   letter-spacing: 0.2rem;
   font-weight: bold;
@@ -472,8 +481,6 @@ h3{
   text-transform: uppercase;
 }
 
-h4 { font-size: 1rem;    font-weight: 700; }
-h5 { font-size: 0.9rem;  font-weight: 700; }
 h6 { font-size: 0.85rem; font-weight: 700; color: var(--color-text-muted); }
 
 /* ── Body text ───────────────────────────────────────────────────────────── */

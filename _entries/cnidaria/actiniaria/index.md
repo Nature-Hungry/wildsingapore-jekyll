@@ -24,36 +24,72 @@ order: Actiniaria
 updated: Dec 2024
 coverimg: https://live.staticflickr.com/65535/51394196778_ccdc0c1404_c.jpg
 links_references: "### Links
+
  - [Phylum Cnidaria](http://mangrove.nus.edu.sg/pub/seashore/text/114.htm)\
   \ and [Sea anemones (*Stoichactis* sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120.htm)\
-  \ Tan, Leo W. H. & Ng, Peter K. L., 1988. - *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
-  \ The Singapore Science Centre, Singapore. 160 pp. - [Mangrove anemones](http://mangrove.nus.edu.sg/guidebooks/text/2001.htm)\
+  \ Tan, Leo W. H. & Ng, Peter K. L., 1988.
+  
+  - *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
+  \ The Singapore Science Centre, Singapore. 160 pp.
+  
+  - [Mangrove anemones](http://mangrove.nus.edu.sg/guidebooks/text/2001.htm)\
   \ Ng, Peter K. L. & N. Sivasothi, 1999. *[A\n  Guide to the Mangroves of Singapore](http://mangrove.nus.edu.sg/guidebooks/)*.\
-  \ Singapore Science Centre. 168 pp. - [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)\
+  \ Singapore Science Centre. 168 pp.
+  
+  - [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)\
   \ website by Dr Daphne Fautin: all about sea anemones, corals and their allies with\
-  \ classification, distribution, biological associations and more. - From the wild\
-  \ shores of singapore blog. - [Warrior anemones: blobs can be belligerent](http://wildshores.blogspot.com/2008/12/warrior-anemones-blobs-can-be.html)\n\
-  - [Sea anemone venom may help treat multiple sclerosis](http://wildshores.blogspot.com/2008/12/sea-anemone-venom-may-help-treat.html)\
-  \ - [Sea anemone stingers for younger looking skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html)\
-  \ - [Can eat or not? - Sea anemones](http://wildshores.blogspot.sg/2013/04/can-eat-or-not-sea-anemones.html)\n\
+  \ classification, distribution, biological associations and more.
+  
+  - From the wild\
+  \ shores of singapore blog.
+  
+  - [Warrior anemones: blobs can be belligerent](http://wildshores.blogspot.com/2008/12/warrior-anemones-blobs-can-be.html)\n\
+ 
+ 
+ - [Sea anemone venom may help treat multiple sclerosis](http://wildshores.blogspot.com/2008/12/sea-anemone-venom-may-help-treat.html)\
+  \
+  
+  - [Sea anemone stingers for younger looking skin](http://wildshores.blogspot.com/2009/10/sea-anemone-stingers-for-younger.html)\
+  \
+  
+  - [Can eat or not? - Sea anemones](http://wildshores.blogspot.sg/2013/04/can-eat-or-not-sea-anemones.html)\n\
+
+
   ### References
-\n- Checklist of Cnidaria (non-Sclerectinia) Species with their Category\
+  
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category\
   \ of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa\
   \ in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo,\
-  \ May 2024. - *The Singapore Red Data Book: Threatened plants and animals of Singapore*.\
-  \ 3rd edition. National Parks Board. 663 pp. - D. G. Fautin, R. Tan, N. W. L. Yap,\
+  \ May 2024.
+  
+  - *The Singapore Red Data Book: Threatened plants and animals of Singapore*.\
+  \ 3rd edition. National Parks Board. 663 pp.
+  
+  - D. G. Fautin, R. Tan, N. W. L. Yap,\
   \ Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C. *Sea anemones (Cnidaria:\
   \ Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*.\
-  \ 10 July 2015 - The Comprehensive Marine Biodiversity Survey: Johor Straits International\
+  \ 10 July 2015
+  
+  - The Comprehensive Marine Biodiversity Survey: Johor Straits International\
   \ Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.\
-  \ - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones (Cnidaria:\
+  \
+  
+  - Daphne Gail Fautin, S. H. Tan and Ria Tan. Dec 2009. *Sea anemones (Cnidaria:\
   \ Actiniaria) of Singapore: abundant and well-known shallow-water species*. The\
-  \ Raffles Bulletin of Zoology. Pp. 121-143. - Edward E. Ruppert, Richard S. Fox,\
+  \ Raffles Bulletin of Zoology. Pp. 121-143.
+  
+  - Edward E. Ruppert, Richard S. Fox,\
   \ Robert D. Barnes. 2004.Invertebrate Zoology Brooks/Cole of Thomson Learning Inc.,\
-  \ 7th Edition. pp. 963 - Pechenik, Jan A., 2005. Biology of the Invertebrates. 5th\
-  \ edition. McGraw-Hill Book Co., Singapore. 578 pp. - Wee Y.C. and Peter K. L. Ng.\
+  \ 7th Edition. pp. 963
+  
+  - Pechenik, Jan A., 2005. Biology of the Invertebrates. 5th\
+  \ edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  
+  - Wee Y.C. and Peter K. L. Ng.\
   \ 1994. A First Look at Biodiversity in Singapore. National Council on the Environment.\
-  \ 163pp. - Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened\
+  \ 163pp.
+  
+  - Ng, P. K. L. & Y. C. Wee, 1994. The Singapore Red Data Book: Threatened\
   \ Plants and Animals of Singapore. The Nature Society (Singapore), Singapore. 343\
   \ pp."
 galleries:
@@ -88,10 +124,9 @@ galleries:
       would eat any other fish. Kusu Island, Jun 04
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
-- An anemone is an animal and not a plant.
-- Don't step on it.
-- Some anemones can sting.
-- Don't touch them. Anemones can be found in all kinds of places.
+- An anemone is an animal and not a plant. Don't step on it.
+- Some anemones can sting. Don't touch them.
+- Anemones can be found in all kinds of places.
 size:
 - 1.5
 - 10.0

@@ -10,8 +10,8 @@ attributes:
 - 106
 - 112
 family: Ocypodidae
-genus: ''
-species: Austruca
+genus: 'Austruca'
+species: annulipes
 inat_id: 51932
 stateofmatter: Life
 kingdom: Animalia

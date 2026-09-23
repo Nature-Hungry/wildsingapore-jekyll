@@ -79,7 +79,7 @@
                 ">
                   {% if page.size %}
                     <div>
-                      <h3>SIZE</h3>
+                      <h5>SIZE</h5>
                       <p>
                           {% assign sizes = page.size | join: "," | split: "," | sort %}
                           {{sizes[0]}}
@@ -93,7 +93,7 @@
 
                   {% if page.rdb %}
                     <div>
-                      <h3>status</h3>
+                      <h5>status</h5>
                       <div class="attributes-row">
                               <div class="attribute">
                                   <div class="redlist {{page.rdb}}">{{page.rdb}}</div>
@@ -106,7 +106,7 @@
                 {% endif %}
                 {% if page.habitats %}
                 <div style="margin-bottom: 1rem;">
-                  <h3>habitats</h3>
+                  <h5>habitats</h5>
                   <div class="attributes-row" style="gap:1rem">
                     {% for a in page.habitats %}
                       

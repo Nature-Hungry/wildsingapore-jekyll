@@ -153,6 +153,7 @@ blockquote p.source{
     align-items: center;
     justify-content: center;
     gap:1rem;
+    margin-bottom:1rem;
 }
 .paginate-arrow, .paginate-number{
     background-color: transparent;
@@ -189,8 +190,5 @@ blockquote p.source{
     .articles-content{
         flex-direction: column;
     }
-    .categories{
-        flex-direction: row;
-        flex-wrap: wrap;
-    }
+    
 }
