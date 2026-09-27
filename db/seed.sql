@@ -1668,7 +1668,7 @@ On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 - [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Unidentified%20ascidian) for free download
 
----', '{}', '', '2026-09-26T19:00:10.691Z');
+---', '{}', '', '2026-09-27T06:31:02.756Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/ascidiacea/beige.md', 'beige', 'Beige sheet ascidians  ', 'published', '
 ## Where seen?
 
@@ -6822,7 +6822,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery12 %}
 ---
-', '{}', '', '2026-09-26T19:00:10.713Z');
+', '{}', '', '2026-09-27T06:31:02.780Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/actiniaria/entacmaea.md', 'entacmaea', 'Bubble-tip anemone', 'published', '
 
 ## Where seen?
@@ -11194,7 +11194,7 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-', '{}', '', '2026-09-26T19:00:10.729Z');
+', '{}', '', '2026-09-27T06:31:02.795Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/actiniaria/seagrass.md', 'seagrass', 'Seagrass anemone', 'published', '
 ## Where seen?
 This tiny anemone is sometimes seen in seagrass meadows, stuck onto seagrass blades and seaweeds. Usually seen singly, sometimes, many are seen clustered together.
@@ -16264,7 +16264,7 @@ galleries:
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monbranch/091204pawd5233m3.jpg', '2026-09-26T19:00:10.744Z');
+}', 'https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monbranch/091204pawd5233m3.jpg', '2026-09-27T06:31:02.813Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/coralhard/acroporidae/monplate.md', 'monplate', 'Plate montipora coral', 'published', '
 ## Where seen?
 Forming plates or a thin encrusting layer, this coral is often seen on some of our Southern shores. They can form delicate tiers like a wedding cake!.
@@ -16473,7 +16473,7 @@ back to
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3.jpg', '2026-09-26T19:00:10.745Z');
+}', 'https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3.jpg', '2026-09-27T06:31:02.814Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/coralhard/acroporidae/monridged.md', 'monridged', 'Ridged montipora coral', 'published', '
 ## Where seen?
 This hard coral with an obvious ridged texture is sometimes seen on some of our Southern shores.
@@ -18234,7 +18234,7 @@ cnidarians](../cnidaria.htm)
       }
     ]
   }
-}', 'https://images.naturehungry.sg/cnidaria/coralhard/others/120607kusd4812m6l.jpg', '2026-09-26T19:00:10.749Z');
+}', 'https://images.naturehungry.sg/cnidaria/coralhard/others/120607kusd4812m6l.jpg', '2026-09-27T06:31:02.818Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/coralhard/dendrophylliidae/dendrophyllidae.md', 'dendrophyllidae', 'Dendrophylliid corals', 'published', '
 ## Where seen?
 Disk corals (*Turbinaria*
@@ -22813,7 +22813,7 @@ back to
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg', '2026-09-26T19:00:10.763Z');
+}', 'https://images.naturehungry.sg/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg', '2026-09-27T06:31:02.835Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/coralhard/faviidae/maze/mazeothers.md', 'mazeothers', 'Other maze corals', 'published', '
 ## Where seen?
 Other kinds of corals with maze-like corallites are sometimes seen on many of our Southern shores.
@@ -22991,7 +22991,7 @@ galleries:
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3.jpg', '2026-09-26T19:00:10.764Z');
+}', 'https://images.naturehungry.sg/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3.jpg', '2026-09-27T06:31:02.836Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/coralhard/faviidae/oulastrea.md', 'oulastrea', 'Zebra coral', 'published', '
 ## Where seen?
 This hard coral with a black-and-white skeleton is among the most commonly encountered of our hard corals. Even rather ''beat up'' shores may have small colonies encrusting rocks and stones. This hardy coral grows in murky waters and even where it is often exposed to air at low tide. Elsewhere, the colonies are encrusting and grow only to a few centimetres.
@@ -31034,7 +31034,7 @@ for free download
 Grateful thanks to Prof Daphne Fautin for identifying this animal as a corallimorph.
 
 ---
-', '{}', '', '2026-09-26T19:00:10.786Z');
+', '{}', '', '2026-09-27T06:31:02.862Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/corallimorphs/beaded.md', 'beaded', 'Beaded corallimorph', 'published', '
 ## Where seen?
 This little disk-like animal with round bead-like bumps is sometimes seen in small groups on coral rubble on many of our Southern shores.
@@ -35881,7 +35881,7 @@ for free download
 **Other sightings on Singapore shores**
 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
-', '{}', '', '2026-09-26T19:00:10.799Z');
+', '{}', '', '2026-09-27T06:31:02.878Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/gorgonacea/candelabra.md', 'candelabra', 'Candelabra sea fan', 'published', '
 ## Where seen?
 This orange sea fan with U-shaped branches that resemble a candelabra are often seen on a wide range of Northern shores, including Changi and the East Coast. On rocks and coral rubble near the low water mark.
@@ -38929,7 +38929,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery10 %}
 ---
-', '{}', '', '2026-09-26T19:00:10.807Z');
+', '{}', '', '2026-09-27T06:31:02.888Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/cnidaria/hydrozoa/thread.md', 'thread', 'Thread-tentacled jellyfish', 'published', '
 ## Where seen?
 This small jellyfish sometimes seen on stranded on our shores. Several may be seen, and then none seen again for some time.
@@ -45198,7 +45198,7 @@ back to
     "intertidal",
     "marine"
   ]
-}', '', '2026-09-26T19:00:10.823Z');
+}', '', '2026-09-27T06:31:02.906Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/crustacea/crab/majoidea/schizophrys.md', 'schizophrys', 'Sea toad spider crab', 'published', '
 ## Where seen?
 This large squat crab is sometimes seen on some of our shores, clinging to coral rubble, large boulders or hiding under living corals. Relying on its camouflage, the crab moves slowly.
@@ -46668,7 +46668,7 @@ on
 .
 
 ---
-', '{}', '', '2026-09-26T19:00:10.827Z');
+', '{}', '', '2026-09-27T06:31:02.911Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/crustacea/crab/ocypodoidea/cordimanus.md', 'cordimanus', 'Smooth-eyed ghost crab', 'published', '
 ## Where seen?
 This crab is seldom seen, usually on the higher shore. It was previously also called
@@ -48222,7 +48222,7 @@ Tubuca forcipata
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery8 %}
-', '{}', '', '2026-09-26T19:00:10.831Z');
+', '{}', '', '2026-09-27T06:31:02.916Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/crustacea/crab/ocypodoidea/ucanoid.md', 'ucanoid', 'Unidentified ', 'published', '
 **Unidentified fiddler crab #110327cjd7977**
 
@@ -53533,7 +53533,7 @@ for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Perisesarma/map?&fLat=1.2622&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-', '{}', '', '2026-09-26T19:00:10.846Z');
+', '{}', '', '2026-09-27T06:31:02.932Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/crustacea/crab/sesarmidae/sarmatium.md', 'sarmatium', 'Mound crab ', 'published', '
 ## Where seen?
 This spherical crab is seldom seen outside the
@@ -55448,7 +55448,7 @@ back to
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/110517tptlks25m3.jpg', '2026-09-26T19:00:10.851Z');
+}', 'https://images.naturehungry.sg/crustacea/crab/xanthidae/floridus/110517tptlks25m3.jpg', '2026-09-27T06:31:02.939Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/crustacea/crab/xanthidae/integerrimus.md', 'integerrimus', 'Red egg crab ', 'published', '
 ## Where seen?
 This colourful round crab can be very commonly seen on many of our shores in coral rubble areas and reefs. Slow moving, it usually hides under large coral rubble pieces, but can be quite active at night.
@@ -67435,7 +67435,7 @@ Periclimenes suvaensis
 ++Vir philippinensis*
 
 ---
-', '{}', '', '2026-09-26T19:00:10.883Z');
+', '{}', '', '2026-09-27T06:31:02.977Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/crustacea/othercrust/shrimp/penaeidae.md', 'penaeidae', 'Penaeid prawns', 'published', '
 ## Where seen?
 These large prawns are commonly seen on many of our shores, usually in sandy, silty areas and near seagrasses. They are more active at night, during the day hiding in the sand.
@@ -70842,7 +70842,7 @@ from Ng, P. K. L. & Y. C. Wee, 1994.
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery6 %}
-', '{}', '', '2026-09-26T19:00:10.892Z');
+', '{}', '', '2026-09-27T06:31:02.988Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/echinodermata/asteroidea/craspidaster.md', 'craspidaster', 'Bordered sea star', 'published', '
 ## Where seen?
 This beautiful sea star is sometimes seen on Beting Bronok. ''Craspedo'' means border or edge. According to Lane, this sea star is seen from the Bay of Bengal to China and southern Japan. According to Marsh and Fromont, it is seen on muddy sand or mud in Australia.
@@ -73763,7 +73763,7 @@ back to
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg', '2026-09-26T19:00:10.901Z');
+}', 'https://images.naturehungry.sg/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg', '2026-09-27T06:31:02.999Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/echinodermata/asteroidea/sandplain.md', 'sandplain', 'Plain sand star', 'published', '
 ## Where seen?
 This fast moving sea star is commonly encountered on our Northern shores. In sandy or silty shores. It comes out in large numbers at sunset. During the day, it usually remains buried in the sand or silt. So far, not seen in the South on the intertidal. According to Marsh and Fromont, it is moderately common on silty sand, weed and sand and shells in Australia.
@@ -78178,7 +78178,7 @@ Grateful thanks to Dr Frederic Ducarme for identifying these sea urchins.
 
 
 #EndEditable
-', '{}', '', '2026-09-26T19:00:10.912Z');
+', '{}', '', '2026-09-27T06:31:03.014Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/echinodermata/echinoidea/urchin/sphaeroides.md', 'sphaeroides', 'White salmacis urchin', 'published', '
 ## Where seen?
 This almost-cuddly white sea urchin is seasonally common on our Northern shores among seagrasses. At some times, many of these sea urchins are seen, and then none seen for some time. On Cyrene Reef, gatherings of many of these sea urchins are sometimes seen.
@@ -78627,7 +78627,7 @@ Grateful thanks to Dr Frederic Ducarme for identifying these sea urchins.
 
 
 #EndEditable
-', '{}', '', '2026-09-26T19:00:10.914Z');
+', '{}', '', '2026-09-27T06:31:03.015Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/echinodermata/holothuroidea/africana.md', 'africana', 'Little African sea cucumber', 'published', '
 ## Where seen?
 This small purplish sea cucumber is sometimes seen under stones, particularly on our Northern shores. Usually alone, but sometimes several are seen together under one stone. According to Teo Siyang, these are widespread and common, found in shallow tropical waters from East Africa, India, Southeast Asia, China, Japan and Taiwan to Australia and the Pacific Islands. It was previously known as
@@ -79552,7 +79552,7 @@ in North Australian Sea Cucumbers on the Marine Species Identification Portal: T
 - Lane, David J.W. and Didier Vandenspiegel. 2003
 *. A Guide to Sea Stars and Other Echinoderms of Singapore*
 . Singapore Science Centre. 187pp.
-', '{}', '', '2026-09-26T19:00:10.917Z');
+', '{}', '', '2026-09-27T06:31:03.019Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/echinodermata/holothuroidea/colochirus.md', 'colochirus', 'Thorny sea cucumber', 'published', '
 ## Where seen?
 This small colourful sea cucumber is commonly seen on our Northern shores. It appears to be seasonally abundant. There are times where many individuals are seen, jammed next to one another. At other times, few are seen, widely separated from one another.
@@ -81870,7 +81870,7 @@ for free download
 
 
 ---
-', '{}', '', '2026-09-26T19:00:10.923Z');
+', '{}', '', '2026-09-27T06:31:03.027Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/echinodermata/holothuroidea/purple.md', 'purple', 'Purple sea cucumber', 'published', '
 ## Where seen?
 This striking sea cucumber is sometimes seen on our Northern shores. It may be buried in soft silty sand or attached to seagrasses and seaweeds or to coral rubble.
@@ -82560,7 +82560,7 @@ sp. 2
 sp. 3
 
 ---
-', '{}', '', '2026-09-26T19:00:10.925Z');
+', '{}', '', '2026-09-27T06:31:03.029Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/echinodermata/holothuroidea/synbig.md', 'synbig', 'Big synaptid sea cucumber', 'published', '
 ## Where seen?
 This long fat synaptid sea cucumber with bobbles is sometimes seen on many of our shores among seagrasses and reefs. It is possibly seasonally common with many individuals encountered over a wide area during a single trip, then none for some time.
@@ -85447,7 +85447,7 @@ back to
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3.jpg', '2026-09-26T19:00:10.934Z');
+}', 'https://images.naturehungry.sg/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3.jpg', '2026-09-27T06:31:03.040Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/echinodermata/ophiuroidea/upsidedown2.md', 'upsidedown2', 'Upsidedown brittle star (Ophiothrix sp.) ', 'published', '
  
 galleries:
@@ -85491,7 +85491,7 @@ galleries:
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/echinodermata/ophiuroidea/upsidedown/050621skdg7962m3.jpg', '2026-09-26T19:00:10.934Z');
+}', 'https://images.naturehungry.sg/echinodermata/ophiuroidea/upsidedown/050621skdg7962m3.jpg', '2026-09-27T06:31:03.041Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/echinodermata/ophiuroidea/violet.md', 'violet', 'Violet brittle star ', 'published', '
 ## Where seen?
 Although large and startlingly bright pink and violet, this brittle star is only sometimes seen. It is often well hidden under stones, among sponges, corals and other marine life on reefy areas including encrusted jetty legs on our Southern shores
@@ -86012,7 +86012,7 @@ galleries:
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/cochlidium/050806skdg0609m.jpg', '2026-09-26T19:00:10.935Z');
+}', 'https://images.naturehungry.sg/mollusca/gastropoda/melogenidae/cochlidium/050806skdg0609m.jpg', '2026-09-27T06:31:03.042Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/eggs/eggindex.md', 'eggindex', 'Eggs on Singapore shores: text index', 'published', '
 **Eggs of marine creatures**
 ', '{
@@ -86027,7 +86027,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "intertidal",
     "marine"
   ]
-}', '', '2026-09-26T19:00:10.936Z');
+}', '', '2026-09-27T06:31:03.042Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/eggs/string.md', 'string', 'Egg strings on Singapore shores', 'published', '
 ## Where seen?
 These noodle-like egg masses are sometimes seen among seagrasses and seaweeds in clumps.
@@ -86161,7 +86161,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Aplocheiloidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEh78g4cY3SPtj9jVMcJEPjS6WIDxn5rdBF1bOyKXn8q2OIXrmkdGu90EDJ24obawL9Iond0s9VOlSxjVYqwKuTHl77H0XEdyZmfgQa8bZOoKHynvH40DB5fmwdtaV_2faZzwoc7G6i0PtaJV4eq61hbg-XZYEDWjibROyM4jr3jMwI0CRBbcel_p0I9JAk6=w652-h433', '2026-09-26T19:00:10.936Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEh78g4cY3SPtj9jVMcJEPjS6WIDxn5rdBF1bOyKXn8q2OIXrmkdGu90EDJ24obawL9Iond0s9VOlSxjVYqwKuTHl77H0XEdyZmfgQa8bZOoKHynvH40DB5fmwdtaV_2faZzwoc7G6i0PtaJV4eq61hbg-XZYEDWjibROyM4jr3jMwI0CRBbcel_p0I9JAk6=w652-h433', '2026-09-27T06:31:03.043Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Barbodes-sellifer.md', 'Barbodes-sellifer', 'Saddle Barb', 'published', '', '{
   "title": "Saddle Barb",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/saddle-barb-barbodes-sellifer.html",
@@ -86185,7 +86185,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Smiliogastrinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEg_GOJZnYGHi0y2yP9blYQnZkW--FO9b7n564_6FUfdxyy2yDGzBKp4g7oKe_YQx15Qw4UuKMmKODgC1BBI3-4YUBDXbinuNW-UXEVw3EGdv31QdWs86FHjIEGlzB3wk7-2ACHMZQUIDdn_h-M5SysiTVf6N-0yj2OlDmBQNTmNpFx2mMANQf2aNNJg5eBz=w663-h441', '2026-09-26T19:00:10.936Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEg_GOJZnYGHi0y2yP9blYQnZkW--FO9b7n564_6FUfdxyy2yDGzBKp4g7oKe_YQx15Qw4UuKMmKODgC1BBI3-4YUBDXbinuNW-UXEVw3EGdv31QdWs86FHjIEGlzB3wk7-2ACHMZQUIDdn_h-M5SysiTVf6N-0yj2OlDmBQNTmNpFx2mMANQf2aNNJg5eBz=w663-h441', '2026-09-27T06:31:03.043Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Betta-pugnax.md', 'Betta-pugnax', 'Forest Betta', 'published', '', '{
   "title": "Forest Betta",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/02/forest-betta-betta-pugnax.html",
@@ -86207,7 +86207,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Macropodusinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEigtGN8RBmC3fcM8QjZ7XJ9ZbbKdCCSfz_xOBeSORrCM6zENdSLM8apa9HAUthNDBdzlzxcx1EPnrzRJWJje-GeCsicbOJnhHgPpMgbuk1bHeSPFicEkwmN-AkV58Z-PgTwd_-IFAhytpL-vudK1qR5kn4MHA9h2CZQDW2O4E3NfzDsjNkwma4gGeb9T0nH=w642-h482', '2026-09-26T19:00:10.936Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEigtGN8RBmC3fcM8QjZ7XJ9ZbbKdCCSfz_xOBeSORrCM6zENdSLM8apa9HAUthNDBdzlzxcx1EPnrzRJWJje-GeCsicbOJnhHgPpMgbuk1bHeSPFicEkwmN-AkV58Z-PgTwd_-IFAhytpL-vudK1qR5kn4MHA9h2CZQDW2O4E3NfzDsjNkwma4gGeb9T0nH=w642-h482', '2026-09-27T06:31:03.044Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Boleophthalmus-boddarti.md', 'Boleophthalmus-boddarti', 'Boddart''s Blue-spotted Mudskipper', 'published', '', '{
   "title": "Boddart''s Blue-spotted Mudskipper",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/09/boddarts-blue-spotted-mudskipper.html",
@@ -86231,7 +86231,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oxudercinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjy6hUGP6gP4kkO_QF9FuGeocQANWqiUTcDfQi1jGJnvHNh_x9XmPa6KSLja5oeZzetHTy1g-Uk_eUVpLcjbxczHvFq9GImcNKV_lGLobBnh7j29oWfmzWm5KcNpmr1sPlQyoKx68XIM2GnzzWpYEjfmDG5dzzgweIc2jwJeQPC7dmgWTMw5Eks_LeSIUvn', '2026-09-26T19:00:10.937Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjy6hUGP6gP4kkO_QF9FuGeocQANWqiUTcDfQi1jGJnvHNh_x9XmPa6KSLja5oeZzetHTy1g-Uk_eUVpLcjbxczHvFq9GImcNKV_lGLobBnh7j29oWfmzWm5KcNpmr1sPlQyoKx68XIM2GnzzWpYEjfmDG5dzzgweIc2jwJeQPC7dmgWTMw5Eks_LeSIUvn', '2026-09-27T06:31:03.044Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Boraras-maculatus.md', 'Boraras-maculatus', 'Pygmy Rasbora', 'published', '', '{
   "title": "Pygmy Rasbora",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/02/pygmy-rasbora.html",
@@ -86255,7 +86255,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Rasborinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEg6d9Itlz90ZzbNazHC4iejY5BSn8E7xYQM9d-M3THNDKgv9HAEDrECxbExHlGHA68kPxs-FhRWJYylBIKJc1HztaMLb-w50QRTnwJ6mscu_hJPBSgA7_sHDQWpsvVv9V8YvnQtsJk2jm_zJaOyD_n2X27lOPIHxVQf-Jbi4oZJG45g1c1vqeY7usuk-PYR=w650-h433', '2026-09-26T19:00:10.937Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEg6d9Itlz90ZzbNazHC4iejY5BSn8E7xYQM9d-M3THNDKgv9HAEDrECxbExHlGHA68kPxs-FhRWJYylBIKJc1HztaMLb-w50QRTnwJ6mscu_hJPBSgA7_sHDQWpsvVv9V8YvnQtsJk2jm_zJaOyD_n2X27lOPIHxVQf-Jbi4oZJG45g1c1vqeY7usuk-PYR=w650-h433', '2026-09-27T06:31:03.044Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Brachygobius-kabiliensis.md', 'Brachygobius-kabiliensis', 'Kabili Bumblebee Goby', 'published', '', '{
   "title": "Kabili Bumblebee Goby",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/11/kabili-bumblebee-goby-brachygobius.html",
@@ -86280,7 +86280,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Gobionellinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEglgpNcF_KdRDkBgb1g3QsWWSI2gpwi3L_cT5nCpytzec-sHc4XMqKsy3x7ol9XnoLkEo_gAme_wV1MekyO1Xi2I7AgblPIpv3h91M9DLSQaCPjJdRg4qlaPc3NJDh5ot7H_N31inP0Yg2D4JiCQZCJVOIt-n4E-2prvreZU0uIgOtSXd7g7b5yt5S01oKv=w679-h451', '2026-09-26T19:00:10.937Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEglgpNcF_KdRDkBgb1g3QsWWSI2gpwi3L_cT5nCpytzec-sHc4XMqKsy3x7ol9XnoLkEo_gAme_wV1MekyO1Xi2I7AgblPIpv3h91M9DLSQaCPjJdRg4qlaPc3NJDh5ot7H_N31inP0Yg2D4JiCQZCJVOIt-n4E-2prvreZU0uIgOtSXd7g7b5yt5S01oKv=w679-h451', '2026-09-27T06:31:03.044Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Channa-limbata.md', 'Channa-limbata', 'Dwarf Snakehead', 'published', '', '{
   "title": "Dwarf Snakehead",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/02/dwarf-snakehead.html",
@@ -86303,7 +86303,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Channoidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgrk2KAMe6T_excRgVEsQjA2oI2WEHtC8N5Dspi64k30rL6sF_iuffwcU82eJtBSX8WMfFvHhgZFSMfuJMkdQxYg89VaKnbSn6XhJcKyTDy10pleT41PAcu5VV6lrMz8jhhh0MzV5S7aYoDZfwP4C6jxeaC2acxwYyRmQlNNZaB1Q3i_t2H9Ujri6YK6AgB=w669-h503', '2026-09-26T19:00:10.937Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgrk2KAMe6T_excRgVEsQjA2oI2WEHtC8N5Dspi64k30rL6sF_iuffwcU82eJtBSX8WMfFvHhgZFSMfuJMkdQxYg89VaKnbSn6XhJcKyTDy10pleT41PAcu5VV6lrMz8jhhh0MzV5S7aYoDZfwP4C6jxeaC2acxwYyRmQlNNZaB1Q3i_t2H9Ujri6YK6AgB=w669-h503', '2026-09-27T06:31:03.044Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Channa-lucius.md', 'Channa-lucius', 'Forest Snakehead', 'published', '', '{
   "title": "Forest Snakehead",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/02/forest-snakehead-channa-lucius.html",
@@ -86324,7 +86324,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Channoidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhE14Y1hul-NBRGcvuWd-fWwlPQYjHSGxtcjbkomOzkPGnAUgC0FVc2Y8Jlp1OE2iA25UQB2FhSdr4wTMppFHjZdNxbFOi2syicrkeRQnmC3Tw4T_rbEX3a_RvOew5l3BvseEYWLVoUetNkwHJh7BNbq64_rAn9WEJw5kLbeCNpE_vw8EWTUlViIKDSleO8=w646-h485', '2026-09-26T19:00:10.937Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhE14Y1hul-NBRGcvuWd-fWwlPQYjHSGxtcjbkomOzkPGnAUgC0FVc2Y8Jlp1OE2iA25UQB2FhSdr4wTMppFHjZdNxbFOi2syicrkeRQnmC3Tw4T_rbEX3a_RvOew5l3BvseEYWLVoUetNkwHJh7BNbq64_rAn9WEJw5kLbeCNpE_vw8EWTUlViIKDSleO8=w646-h485', '2026-09-27T06:31:03.044Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Channa-striata.md', 'Channa-striata', 'Common Snakehead', 'published', '', '{
   "title": "Common Snakehead",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/02/common-snakehead-channa-striata.html",
@@ -86347,7 +86347,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Channoidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgITvMw9zbl_j1KP87QNoJuQc6_8M4uuWDATjtwyiFeLKoZRW0vR5UcHE6yatjfbENPy3CXxAe0WSRd9NYNOAOZXE0CHOqw3FzfGzlqxynS5TMp6QT9LdhNuHhxYMg8tRu1a2jcegQilS4CRIVwzSleIN5Y9LYvUSehNi9Rg80lKhBd1F8p8GfWrA_ALwIe=w649-h431', '2026-09-26T19:00:10.937Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgITvMw9zbl_j1KP87QNoJuQc6_8M4uuWDATjtwyiFeLKoZRW0vR5UcHE6yatjfbENPy3CXxAe0WSRd9NYNOAOZXE0CHOqw3FzfGzlqxynS5TMp6QT9LdhNuHhxYMg8tRu1a2jcegQilS4CRIVwzSleIN5Y9LYvUSehNi9Rg80lKhBd1F8p8GfWrA_ALwIe=w649-h431', '2026-09-27T06:31:03.045Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Chanos-chanos.md', 'Chanos-chanos', 'Milkfish', 'published', '', '{
   "title": "Milkfish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/04/milkfish-chanos-chanos.html",
@@ -86367,7 +86367,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "order": "Gonorynchiformes",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEj5gb61k3fe4TOKEeFINiUAuTy_OtOuBdjaCLym4LjRqyPZNrZu1sjIwrrcaOkHddlSQ4h6Md3x4obkQyDAMmXHkJ10vSDRZUUD9b6c8nDTgRrN7d_kw283VI1JTc41jnrGrcUS38qGqfOk4VKDkfF-SqFZ_3qzYgDMAZSH3Ck4rRu4d3Amdy3KN_bPlLtG=w676-h448', '2026-09-26T19:00:10.938Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEj5gb61k3fe4TOKEeFINiUAuTy_OtOuBdjaCLym4LjRqyPZNrZu1sjIwrrcaOkHddlSQ4h6Md3x4obkQyDAMmXHkJ10vSDRZUUD9b6c8nDTgRrN7d_kw283VI1JTc41jnrGrcUS38qGqfOk4VKDkfF-SqFZ_3qzYgDMAZSH3Ck4rRu4d3Amdy3KN_bPlLtG=w676-h448', '2026-09-27T06:31:03.045Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Clarias-batrachus.md', 'Clarias-batrachus', 'Common Walking Catfish', 'published', '', '{
   "title": "Common Walking Catfish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/common-walking-catfish-clarias-batrachus.html",
@@ -86390,7 +86390,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Siluroidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjvot34_GVmQjmV4h3CEnnygNQFt8C9CvzQyxfpJaMtMDX94wvRav11UVbfEurzv0iXUw6bvc43X129-EqHnw1V6k7dKSvnR_wrXvfXtdMpdhwSTmCxAaQZcA0KMKu9Jk-6Eko5eFa5krNj3QAee_FFIjKUD-YFrNZnaYDa4WGgrf9634qPHFm-fs6IayWM=w653-h434', '2026-09-26T19:00:10.938Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjvot34_GVmQjmV4h3CEnnygNQFt8C9CvzQyxfpJaMtMDX94wvRav11UVbfEurzv0iXUw6bvc43X129-EqHnw1V6k7dKSvnR_wrXvfXtdMpdhwSTmCxAaQZcA0KMKu9Jk-6Eko5eFa5krNj3QAee_FFIjKUD-YFrNZnaYDa4WGgrf9634qPHFm-fs6IayWM=w653-h434', '2026-09-27T06:31:03.045Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Clarias-leiacanthus.md', 'Clarias-leiacanthus', 'Forest Walking Catfish', 'published', '', '{
   "title": "Forest Walking Catfish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/forest-walking-catfish-clarias.html",
@@ -86413,7 +86413,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Siluroidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjS4ECLqDLQ20fbz1jiCQ5pV8-V9bqc0_kmWEKTSSSTyYxAiceVDLyX-D44wv1iOFCupOEihlnZ8Tw7IoaN1VEpfWO6qwROcw4JN5V4EZUx_uzLwdSyanaBS7Wz6gERUDGw3mlpHKfkfcQ425lOjybHElw_fXgUBfwAcfGAh8QGqW5q7DHuxi5c6aLhrElT', '2026-09-26T19:00:10.938Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjS4ECLqDLQ20fbz1jiCQ5pV8-V9bqc0_kmWEKTSSSTyYxAiceVDLyX-D44wv1iOFCupOEihlnZ8Tw7IoaN1VEpfWO6qwROcw4JN5V4EZUx_uzLwdSyanaBS7Wz6gERUDGw3mlpHKfkfcQ425lOjybHElw_fXgUBfwAcfGAh8QGqW5q7DHuxi5c6aLhrElT', '2026-09-27T06:31:03.045Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Clarias-nieuhofii.md', 'Clarias-nieuhofii', 'Slender Walking Catfish', 'published', '', '{
   "title": "Slender Walking Catfish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/slender-walking-catfish-clarias.html",
@@ -86436,7 +86436,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Siluroidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEj7gtESkeyXlI61YId-7h_e-_Ea_kNUb45EHijOEZ7ml02xLUMqsyJ2hUMk_qOm4yuDGK3We8cqrNxuBC6jyn1XO-sMooz1X-tYnZjuftv0DcgNBIp1YZEPpBDVdfyI97cqISx1kykhVsUmhwesHndSTNsoU_MoQDkmSRU30rnRLlwbuMpwaLULKMRUcENG=w646-h485', '2026-09-26T19:00:10.938Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEj7gtESkeyXlI61YId-7h_e-_Ea_kNUb45EHijOEZ7ml02xLUMqsyJ2hUMk_qOm4yuDGK3We8cqrNxuBC6jyn1XO-sMooz1X-tYnZjuftv0DcgNBIp1YZEPpBDVdfyI97cqISx1kykhVsUmhwesHndSTNsoU_MoQDkmSRU30rnRLlwbuMpwaLULKMRUcENG=w646-h485', '2026-09-27T06:31:03.045Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Cyclocheilichthys-apogon.md', 'Cyclocheilichthys-apogon', 'Beardless Barb', 'published', '', '{
   "title": "Beardless Barb",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/beardless-barb-cyclocheilichthys-apogon.html",
@@ -86460,7 +86460,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Cyprininae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgwTLJKc0KN86slo5AKWPhGjr_wVMs_eeLhje1W3GbG8LsOH2q4fiLBzv-rjLsfMrVtcfcZFu1fXF4tq7arYEoxevI3h6eGvHEVRCMGOpaLMcG1JWlIjBCmdXuYxAsM6afBY5iXqiC9hfvx3ZN_LnlBtRRJLwjA5bK0O4bFsFdtkeEJ2b-b8i6-0ZXjH9Km=w658-h438', '2026-09-26T19:00:10.938Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgwTLJKc0KN86slo5AKWPhGjr_wVMs_eeLhje1W3GbG8LsOH2q4fiLBzv-rjLsfMrVtcfcZFu1fXF4tq7arYEoxevI3h6eGvHEVRCMGOpaLMcG1JWlIjBCmdXuYxAsM6afBY5iXqiC9hfvx3ZN_LnlBtRRJLwjA5bK0O4bFsFdtkeEJ2b-b8i6-0ZXjH9Km=w658-h438', '2026-09-27T06:31:03.046Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Dermogenys-collettei.md', 'Dermogenys-collettei', 'Pygmy Halfbeak', 'published', '', '{
   "title": "Pygmy Halfbeak",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/pygmy-halfbeak-dermogenys-collettei.html",
@@ -86482,7 +86482,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "order": "Beloniformes",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgwNO1vKujjFTBktHndih7w1GlL_gZ5lyidkze-0yOTzIcnhy2KSTKtAgR-yNKmQIyUFPKrCemvcdfSYj9ucWQSY_F9-f11eTOglrL_BN9iClmgbq6jJrM4htuqI0j9PdEedUlT4OxZ7FyTajN5QVn6wpTapUvjTx2VvPEU0iSqOjXw5l2ebrlYrVow3RNC=w648-h431', '2026-09-26T19:00:10.938Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgwNO1vKujjFTBktHndih7w1GlL_gZ5lyidkze-0yOTzIcnhy2KSTKtAgR-yNKmQIyUFPKrCemvcdfSYj9ucWQSY_F9-f11eTOglrL_BN9iClmgbq6jJrM4htuqI0j9PdEedUlT4OxZ7FyTajN5QVn6wpTapUvjTx2VvPEU0iSqOjXw5l2ebrlYrVow3RNC=w648-h431', '2026-09-27T06:31:03.046Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Dichotomyctere-nigroviridis.md', 'Dichotomyctere-nigroviridis', 'Green Spotted Pufferfish', 'published', '', '{
   "title": "Green Spotted Pufferfish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/04/green-spotted-pufferfish-dichotomyctere.html",
@@ -86505,7 +86505,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Tetraodontoidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgWddOMhfm21Fmg6zBHHzyZOBGJk-VLQd1blvAL76dsynaiwJsvGYSwG_1US3tfsYueX4Jyd_PC0yzp6EQNmnHqfMfhOYtaYbeuJwUco_eOJhiOE7Yc4z5kgVVT_IbrCB83P0PFWsj3HPuXhNX1J1IWHSmIm14mjc2TR7PKAFj82-ZroH6SAWJ2N0CzEbbi=w664-h443', '2026-09-26T19:00:10.938Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgWddOMhfm21Fmg6zBHHzyZOBGJk-VLQd1blvAL76dsynaiwJsvGYSwG_1US3tfsYueX4Jyd_PC0yzp6EQNmnHqfMfhOYtaYbeuJwUco_eOJhiOE7Yc4z5kgVVT_IbrCB83P0PFWsj3HPuXhNX1J1IWHSmIm14mjc2TR7PKAFj82-ZroH6SAWJ2N0CzEbbi=w664-h443', '2026-09-27T06:31:03.046Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Ellochelon-vaigiensis.md', 'Ellochelon-vaigiensis', 'Squaretail Mullet', 'published', '', '{
   "title": "Squaretail Mullet",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/squaretail-mullet-ellochelon-vaigiensis.html",
@@ -86528,7 +86528,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "order": "Mugiliformes",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEikMlf8yyY1t65JE3hK5EdLYWJSHQzsiMX-27XthMTSKBCuv3ITos6PHzPnF_SPpmNuhTxVCP_Uyz-fU_GaKsMSvfFebd-F454cnVAB8Zh_R5LyE1zia92QGqyVjKOKDdeZECGvlWad-a7ZFtqc461f3qB5CXVkN3B15k4kTlbRP6yAe28axUdzwqSS0MfD=w654-h435', '2026-09-26T19:00:10.939Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEikMlf8yyY1t65JE3hK5EdLYWJSHQzsiMX-27XthMTSKBCuv3ITos6PHzPnF_SPpmNuhTxVCP_Uyz-fU_GaKsMSvfFebd-F454cnVAB8Zh_R5LyE1zia92QGqyVjKOKDdeZECGvlWad-a7ZFtqc461f3qB5CXVkN3B15k4kTlbRP6yAe28axUdzwqSS0MfD=w654-h435', '2026-09-27T06:31:03.046Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Hemigobius-hoevenii.md', 'Hemigobius-hoevenii', 'Banded Mullet-goby', 'published', '', '{
   "title": "Banded Mullet-goby",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/11/banded-mullet-goby-hemigobius-hoevenii.html",
@@ -86553,7 +86553,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Gobionellinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEj_JIV32s9TbXqKzhBwx3QaSOxkbx3d6BbDa-WgCFlrwVvFWLVqZ8JFQV5w4mDkLCfHJARelkuFkq8N4KiaiCb_7JcigXarKTQLsKVGDbm44_5_vKdhZguf-QOt4kE_6f5VMo8o2BbS92MTGHnPFF2DB4czrHHMglMrMoevI4VCrsgiXDHw8w4O5qK6-8eu=w664-h443', '2026-09-26T19:00:10.939Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEj_JIV32s9TbXqKzhBwx3QaSOxkbx3d6BbDa-WgCFlrwVvFWLVqZ8JFQV5w4mDkLCfHJARelkuFkq8N4KiaiCb_7JcigXarKTQLsKVGDbm44_5_vKdhZguf-QOt4kE_6f5VMo8o2BbS92MTGHnPFF2DB4czrHHMglMrMoevI4VCrsgiXDHw8w4O5qK6-8eu=w664-h443', '2026-09-27T06:31:03.047Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Hemigobius-melanurus.md', 'Hemigobius-melanurus', 'Blue-eyed Mullet-goby', 'published', '', '{
   "title": "Blue-eyed Mullet-goby",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2026/01/blue-eyed-mullet-goby-hemigobius.html",
@@ -86578,7 +86578,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Gobionellinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEirhYgY0ld_EK4wY9vKM8DCGvKoc5d77iBZxJWJeb959EtxImYICvWEgEn4JivUEJbkPOZbLerwM3HOSjJoYoC-36zsx6QDnc5gVvbUH7S_f28lOp7J-lm0r1JaIsX5cXn_qzPEamycodk4QBt7ja4GLyjMbzstcKI04dszpaEOreCBOK-dxPR_omdCe3_J=w661-h442', '2026-09-26T19:00:10.939Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEirhYgY0ld_EK4wY9vKM8DCGvKoc5d77iBZxJWJeb959EtxImYICvWEgEn4JivUEJbkPOZbLerwM3HOSjJoYoC-36zsx6QDnc5gVvbUH7S_f28lOp7J-lm0r1JaIsX5cXn_qzPEamycodk4QBt7ja4GLyjMbzstcKI04dszpaEOreCBOK-dxPR_omdCe3_J=w661-h442', '2026-09-27T06:31:03.047Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Hemirhamphodon-pogonognathus.md', 'Hemirhamphodon-pogonognathus', 'Forest Halfbeak', 'published', '', '{
   "title": "Forest Halfbeak",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/forest-halfbeak-hemirhamphodon.html",
@@ -86600,7 +86600,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "order": "Beloniformes",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhd7BqvW-ABt6F74dVN5SvaeciHxxUR7oGxkiXRCiIte_Rafe6itXTQvgAvL2EkUJ4c53z5WWAnZHqWFg_AqAd23cAubQucGayzEk1F3LzxWKbVNeS_2UBFLyQwp-emYQjVWlnNGAQkYG7Vg2tJdcIovWpcIbX4nIvzmYXraeDub61k7JrpfRgdwV8ZHsCs=w652-h435', '2026-09-26T19:00:10.939Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhd7BqvW-ABt6F74dVN5SvaeciHxxUR7oGxkiXRCiIte_Rafe6itXTQvgAvL2EkUJ4c53z5WWAnZHqWFg_AqAd23cAubQucGayzEk1F3LzxWKbVNeS_2UBFLyQwp-emYQjVWlnNGAQkYG7Vg2tJdcIovWpcIbX4nIvzmYXraeDub61k7JrpfRgdwV8ZHsCs=w652-h435', '2026-09-27T06:31:03.047Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Ichthyocampus-carce.md', 'Ichthyocampus-carce', 'Mangrove Pipefish', 'published', '', '{
   "title": "Mangrove Pipefish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/04/mangrove-pipefish-ichthyocampus-carce.html",
@@ -86625,7 +86625,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Syngnathinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgdzAzYzrrdC2J-lT3A6cz9H91pdpMbTLyQStuhFcgWBGRzMijCNEbw3b2yumjv_m7UvdK2RzAcGHyxQt1Ztg7rQL_nFfweTFrmSWGcGC9tSc3ZRHNQpivBg7-J0uXXkJ-89jlIJpcSO2ir7XX9tAIeYBX_cV70dAFoKknFqRvC5ue6-p-NXlUKPYzY8PPW=w666-h444', '2026-09-26T19:00:10.939Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgdzAzYzrrdC2J-lT3A6cz9H91pdpMbTLyQStuhFcgWBGRzMijCNEbw3b2yumjv_m7UvdK2RzAcGHyxQt1Ztg7rQL_nFfweTFrmSWGcGC9tSc3ZRHNQpivBg7-J0uXXkJ-89jlIJpcSO2ir7XX9tAIeYBX_cV70dAFoKknFqRvC5ue6-p-NXlUKPYzY8PPW=w666-h444', '2026-09-27T06:31:03.048Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Lates-calcarifer.md', 'Lates-calcarifer', 'Barramundi', 'published', '', '{
   "title": "Barramundi",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/04/barramundi-lates-calcarifer.html",
@@ -86647,7 +86647,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Centropomoidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgBsLkKCSYPLtzv6DA25dfEFTLcr6CrS4twc1bFnVbpBmPWVPqpVykuW4mu_LAeumh27UssOses3gKgcntBozW-hb_WmNNQ3-A5wMlUOR12TLs-PwtCL5SGI8qA4y-mVvlvIHbV16hmAq5GwIRzvrrKY5hwIW58MYIHWWRT1OLOldAT5nhz_2Irj0ZmwAbA=w662-h441', '2026-09-26T19:00:10.939Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgBsLkKCSYPLtzv6DA25dfEFTLcr6CrS4twc1bFnVbpBmPWVPqpVykuW4mu_LAeumh27UssOses3gKgcntBozW-hb_WmNNQ3-A5wMlUOR12TLs-PwtCL5SGI8qA4y-mVvlvIHbV16hmAq5GwIRzvrrKY5hwIW58MYIHWWRT1OLOldAT5nhz_2Irj0ZmwAbA=w662-h441', '2026-09-27T06:31:03.048Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Lutjanus-argentimaculatus.md', 'Lutjanus-argentimaculatus', 'Mangrove Jack', 'published', '', '{
   "title": "Mangrove Jack",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/07/mangrove-jack-lutjanus-argentimaculatus.html",
@@ -86670,7 +86670,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Lutjaninae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEiKwRw56yQF1ckbZz4RCrKmLD8O8p_BzEx854CJlZPXkkzdGQxcTUanpJLvIsKLWBGDLpBFx6sT4JxvN5bmvL-NgTkNFrmmYI9w649mnL-UwoaGhh5nuVAmYfimR7c1qElSfYhoIez-f4H-PUn_Pcu4pCDWQWpC6N21YRMPxVdw3UwJC7C1VIqF_TLh9ESy=w678-h451', '2026-09-26T19:00:10.940Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEiKwRw56yQF1ckbZz4RCrKmLD8O8p_BzEx854CJlZPXkkzdGQxcTUanpJLvIsKLWBGDLpBFx6sT4JxvN5bmvL-NgTkNFrmmYI9w649mnL-UwoaGhh5nuVAmYfimR7c1qElSfYhoIez-f4H-PUn_Pcu4pCDWQWpC6N21YRMPxVdw3UwJC7C1VIqF_TLh9ESy=w678-h451', '2026-09-27T06:31:03.048Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Macrognathus-maculatus.md', 'Macrognathus-maculatus', 'Buff-backed Spiny Eel', 'published', '', '{
   "title": "Buff-backed Spiny Eel",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/buff-backed-spiny-eel-macrognathus.html",
@@ -86693,7 +86693,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Mastacembeloidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjVXj2_fE9O5-fbLX_tBDRjinieIW1RFDT_wyX7IrK3qd9H4NfC13_QTfucUpqpJWvOL7UjjCi_xyILK1mGjIflR5jmeLPLoJcNdS0rkX8kJSp5haY2ZacJ7SRCqDsvvBh_ZIQc1fELZXzTFhtKEGbodtTJ4zvNr-HLe4sjbaxIMMdgmnhJIL1qYknj1CkT=w650-h434', '2026-09-26T19:00:10.940Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjVXj2_fE9O5-fbLX_tBDRjinieIW1RFDT_wyX7IrK3qd9H4NfC13_QTfucUpqpJWvOL7UjjCi_xyILK1mGjIflR5jmeLPLoJcNdS0rkX8kJSp5haY2ZacJ7SRCqDsvvBh_ZIQc1fELZXzTFhtKEGbodtTJ4zvNr-HLe4sjbaxIMMdgmnhJIL1qYknj1CkT=w650-h434', '2026-09-27T06:31:03.048Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Monopterus-javanensis.md', 'Monopterus-javanensis', 'Sunda Swamp Eel', 'published', '', '{
   "title": "Sunda Swamp Eel",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/sunda-swamp-eel-monopterus-javanensis.html",
@@ -86716,7 +86716,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Synbranchoidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhtY-WALFabxHK0P-xXC8eKQ2XSr8oSAkajhaZdN9DUacOM7eKzAr6p1l4GC1jdOhmFqS7xgwpmkz-beyP39gqbp4SLEhW0dXg2jXtIJ3aU9rVwrjZTqBJ0bomX3c5x_Zqs4FQ4KFXo33htNH1VprX2LRa5IPKTdPJW_VFGJxqWSdwYkcWz4zqu0MVZGJ-T=w645-h484', '2026-09-26T19:00:10.940Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhtY-WALFabxHK0P-xXC8eKQ2XSr8oSAkajhaZdN9DUacOM7eKzAr6p1l4GC1jdOhmFqS7xgwpmkz-beyP39gqbp4SLEhW0dXg2jXtIJ3aU9rVwrjZTqBJ0bomX3c5x_Zqs4FQ4KFXo33htNH1VprX2LRa5IPKTdPJW_VFGJxqWSdwYkcWz4zqu0MVZGJ-T=w645-h484', '2026-09-27T06:31:03.048Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Mugil-cephalus.md', 'Mugil-cephalus', 'Sea Mullet', 'published', '', '{
   "title": "Sea Mullet",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/sea-mullet-mugil-cephalus.html",
@@ -86738,7 +86738,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "order": "Mugiliformes",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjbnVGgrN4WdKTQ4dMMmszboqDBIakkXlW0mTDxNb1BcL5Gy2uzeI3dIyL1m00wtZQ5BzofQhRHaNbvlXQwrTp0535-pi2B6Ds4uYDIwzlglJiqyuyFUG-ogFb94N7DWUDtD3sfjk4D0voWAkl6KVQVxYhKLhhW3zYKIL63bXn-w9oHq5d1Io9y5DRqb1EO=w670-h446', '2026-09-26T19:00:10.940Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjbnVGgrN4WdKTQ4dMMmszboqDBIakkXlW0mTDxNb1BcL5Gy2uzeI3dIyL1m00wtZQ5BzofQhRHaNbvlXQwrTp0535-pi2B6Ds4uYDIwzlglJiqyuyFUG-ogFb94N7DWUDtD3sfjk4D0voWAkl6KVQVxYhKLhhW3zYKIL63bXn-w9oHq5d1Io9y5DRqb1EO=w670-h446', '2026-09-27T06:31:03.049Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Nandus-nebulosus.md', 'Nandus-nebulosus', 'Sunda Leaf Fish', 'published', '', '{
   "title": "Sunda Leaf Fish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/sunda-leaf-fish-nandus-nebulosus.html",
@@ -86761,7 +86761,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Nandoidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEha_Vc4B3xx5AWnnr_27NQp7w_5uRFiNzjKquI_xgwh4EhaNllk2Gm72rZKIdEHniZxASGIBYkbKXZ9mNxiAUiuCQhTZYmM-_-u3yNNkUIp7XaHgrRCjc2H3KiHXM4PT4C5ZeWeCYYlhHcdZQoeKA3dYymj--AF5R53UVKFmo9rt37sFEhyNKKqay9qxTdi=w652-h488', '2026-09-26T19:00:10.940Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEha_Vc4B3xx5AWnnr_27NQp7w_5uRFiNzjKquI_xgwh4EhaNllk2Gm72rZKIdEHniZxASGIBYkbKXZ9mNxiAUiuCQhTZYmM-_-u3yNNkUIp7XaHgrRCjc2H3KiHXM4PT4C5ZeWeCYYlhHcdZQoeKA3dYymj--AF5R53UVKFmo9rt37sFEhyNKKqay9qxTdi=w652-h488', '2026-09-27T06:31:03.049Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Nemacheilus-selangoricus.md', 'Nemacheilus-selangoricus', 'Grey-Banded Sand Loach', 'published', '', '{
   "title": "Grey-Banded Sand Loach",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/grey-banded-sand-loach-nemacheilus.html",
@@ -86784,7 +86784,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Cobitoidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEi9bMoOkoJbApg1v93-5NfAKKLkgV2ZnqoJ4qtWgOzlgvDRoljkmKYQCqiuJ6Te3Bo2aVGOB-wrVi8DkAVzLRg7GVc9Pc1cnKEyomft3CXIHsMBsBp_LM482LWPasmb_UdlSr5S4uHYF_paah619zNFXxgOJ9An7ttSkd9mYM0_29yOAqUpORLzQbbvcUke=w676-h495', '2026-09-26T19:00:10.940Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEi9bMoOkoJbApg1v93-5NfAKKLkgV2ZnqoJ4qtWgOzlgvDRoljkmKYQCqiuJ6Te3Bo2aVGOB-wrVi8DkAVzLRg7GVc9Pc1cnKEyomft3CXIHsMBsBp_LM482LWPasmb_UdlSr5S4uHYF_paah619zNFXxgOJ9An7ttSkd9mYM0_29yOAqUpORLzQbbvcUke=w676-h495', '2026-09-27T06:31:03.049Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Oryzias-javanicus.md', 'Oryzias-javanicus', 'Javanese Ricefish', 'published', '', '{
   "title": "Javanese Ricefish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/04/javanese-ricefish-oryzias-javanicus.html",
@@ -86808,7 +86808,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oryziinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEg5Nm-KNnScXqXuCc0ri1xoxzv-3aKkCeEq8-aCwr__wpeGDf94XNLayNqGvD75jfJbSIvXMRCouV6y-zY5HuzVqQGCbDfOPrhqTlz6KbC8LvrGNvLx1EqMEUS-LQvmWaQgWoYj1jJbVL0Ep1MFAEsegK5xnUCtco2mwrXDGFrtLRgeKqEfvvaR4JSdvfSu=w669-h445', '2026-09-26T19:00:10.940Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEg5Nm-KNnScXqXuCc0ri1xoxzv-3aKkCeEq8-aCwr__wpeGDf94XNLayNqGvD75jfJbSIvXMRCouV6y-zY5HuzVqQGCbDfOPrhqTlz6KbC8LvrGNvLx1EqMEUS-LQvmWaQgWoYj1jJbVL0Ep1MFAEsegK5xnUCtco2mwrXDGFrtLRgeKqEfvvaR4JSdvfSu=w669-h445', '2026-09-27T06:31:03.049Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Pandaka-rouxi.md', 'Pandaka-rouxi', 'Roux''s Dwarf Goby', 'published', '', '{
   "title": "Roux''s Dwarf Goby",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2026/01/rouxs-dwarf-goby-pandaka-rouxi.html",
@@ -86832,7 +86832,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Gobionellinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgiXntsnoU3DhzAd_RBA4XJ8Fn4c0nOZcimdHTPW_ABhPRX85Icean9Z5aaVUt0uic_VXWoeBdEPhqmq7utMRaXYHIEJWPnaZvUlf2NzUqLoaQGc2flkpLs1UpHA8jXyymeQ1Z2wFTmChXSBqEeQ7aAE1fIeEG9np4Sx8bYBPUjY9Ih14WQIL8LnN81iRJ_=w662-h442', '2026-09-26T19:00:10.941Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgiXntsnoU3DhzAd_RBA4XJ8Fn4c0nOZcimdHTPW_ABhPRX85Icean9Z5aaVUt0uic_VXWoeBdEPhqmq7utMRaXYHIEJWPnaZvUlf2NzUqLoaQGc2flkpLs1UpHA8jXyymeQ1Z2wFTmChXSBqEeQ7aAE1fIeEG9np4Sx8bYBPUjY9Ih14WQIL8LnN81iRJ_=w662-h442', '2026-09-27T06:31:03.049Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Pangio-muraeniformis.md', 'Pangio-muraeniformis', 'Spotted Eel-Loach', 'published', '', '{
   "title": "Spotted Eel-Loach",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/spotted-eel-loach-pangio-muraeniformis.html",
@@ -86855,7 +86855,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Cobitoidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhRnOIYTCpzIR5wdnHhkwQJ3RLAx449g3UUyHIPm4OE4o5lwOmeUFHtDv-gqQ_xRCw0ZhvNs5NoVv2L3wIBNhrzhJJ5RedrJ3aZA2kAb8GMJEpeV3RHxLktgWrJnvn3Zh4aHG053780yB7pRePHJZUwho1W0vtFp-krzmV1mdmtLNfvO3iVqymcLL_p3fS9=w650-h488', '2026-09-26T19:00:10.941Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhRnOIYTCpzIR5wdnHhkwQJ3RLAx449g3UUyHIPm4OE4o5lwOmeUFHtDv-gqQ_xRCw0ZhvNs5NoVv2L3wIBNhrzhJJ5RedrJ3aZA2kAb8GMJEpeV3RHxLktgWrJnvn3Zh4aHG053780yB7pRePHJZUwho1W0vtFp-krzmV1mdmtLNfvO3iVqymcLL_p3fS9=w650-h488', '2026-09-27T06:31:03.049Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Periophthalmodon-schlosseri.md', 'Periophthalmodon-schlosseri', 'Giant Mudskipper', 'published', '', '{
   "title": "Giant Mudskipper",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/09/giant-mudskipper-periophthalmodon.html",
@@ -86879,7 +86879,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oxudercinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhOH9nAi0GSP6hedVnrNAcrBJ0wKpnJTfaZ6bxgUQSL_Ud9b7Byrm67RlY4wmgcyCNx8YwfgxbMRFoeu33XAkGJzBTfBxS8X039EoyDDUVlmRtUJEkOsXxII_IMOGsPBm8s6csLg-SW-JaTOcSq_jn233_Jnz41ZHZ3hZGYyNLLjge26c-KXvFomycGTCEL=w679-h452', '2026-09-26T19:00:10.941Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhOH9nAi0GSP6hedVnrNAcrBJ0wKpnJTfaZ6bxgUQSL_Ud9b7Byrm67RlY4wmgcyCNx8YwfgxbMRFoeu33XAkGJzBTfBxS8X039EoyDDUVlmRtUJEkOsXxII_IMOGsPBm8s6csLg-SW-JaTOcSq_jn233_Jnz41ZHZ3hZGYyNLLjge26c-KXvFomycGTCEL=w679-h452', '2026-09-27T06:31:03.050Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Periophthalmus-argentilineatus.md', 'Periophthalmus-argentilineatus', 'Silver-lined Mudskipper', 'published', '', '{
   "title": "Silver-lined Mudskipper",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/09/silverlined-mudskipper-periophthalmus.html",
@@ -86903,7 +86903,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oxudercinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgPCoO3_htJJkrNX8UmI_dNeHaRw-iRp0Q0Jtz8kESjp_XY3rnGyw5M3zJaf5EFkyhEsJoa3ySDQHK0L96HF5IpzbDIATUrVEMcao40Emdq6687doMLYmjIK8QfLpWIUlMoq0i1EuJsxEaA8elS3M8BJS9XvWJNn7W8q3JVWn5lWJBATpvU0ybCPyuCXCH7', '2026-09-26T19:00:10.941Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgPCoO3_htJJkrNX8UmI_dNeHaRw-iRp0Q0Jtz8kESjp_XY3rnGyw5M3zJaf5EFkyhEsJoa3ySDQHK0L96HF5IpzbDIATUrVEMcao40Emdq6687doMLYmjIK8QfLpWIUlMoq0i1EuJsxEaA8elS3M8BJS9XvWJNn7W8q3JVWn5lWJBATpvU0ybCPyuCXCH7', '2026-09-27T06:31:03.050Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Periophthalmus-chrysospilos.md', 'Periophthalmus-chrysospilos', 'Gold-spotted Mudskipper', 'published', '', '{
   "title": "Gold-spotted Mudskipper",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/09/gold-spotted-mudskipper-periophthalmus.html",
@@ -86927,7 +86927,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oxudercinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgmyNlpnNpR5WBDqEb73jEXtVxYQsPfiejvficrMyVCtVqgDiiq7PUxvj9iotWxtCBCJLwVBT2TgbxoeiusIh7R5NpOhVCgPXTxc-H4s8188ApLINqZsc-1vyhYZZqkKpVwXHKd2o4aUD4RaLMgCZGPt4OzD3JL9h32kMkFb8QK1yX9ltUrXWCNzxZPpbsR=w682-h512', '2026-09-26T19:00:10.941Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgmyNlpnNpR5WBDqEb73jEXtVxYQsPfiejvficrMyVCtVqgDiiq7PUxvj9iotWxtCBCJLwVBT2TgbxoeiusIh7R5NpOhVCgPXTxc-H4s8188ApLINqZsc-1vyhYZZqkKpVwXHKd2o4aUD4RaLMgCZGPt4OzD3JL9h32kMkFb8QK1yX9ltUrXWCNzxZPpbsR=w682-h512', '2026-09-27T06:31:03.050Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Periophthalmus-gracilis.md', 'Periophthalmus-gracilis', 'Slender Mudskipper', 'published', '', '{
   "title": "Slender Mudskipper",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/09/slender-mudskipper-periophthalmus.html",
@@ -86951,7 +86951,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oxudercinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgWRZfBoJQyDhoGHYRQ3QiwQOpZe4snwBtyng_e9dmCY1Wd88Mm427k-KRlkxpyRUvKQOu4dfN7hRWMsAVESBxz2NmROvlz2IDSxT5_dLgiXvyignmUyIQJiw_D2r3JsC8jw2jtHL8TXKoEOAFMrdjMK25SC0iF4jf9CcGj6OUQQdLXA4CbaRD02BjRzA6n=w666-h499', '2026-09-26T19:00:10.941Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgWRZfBoJQyDhoGHYRQ3QiwQOpZe4snwBtyng_e9dmCY1Wd88Mm427k-KRlkxpyRUvKQOu4dfN7hRWMsAVESBxz2NmROvlz2IDSxT5_dLgiXvyignmUyIQJiw_D2r3JsC8jw2jtHL8TXKoEOAFMrdjMK25SC0iF4jf9CcGj6OUQQdLXA4CbaRD02BjRzA6n=w666-h499', '2026-09-27T06:31:03.050Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Periophthalmus-variabilis.md', 'Periophthalmus-variabilis', 'Dusky-gilled Mudskipper', 'published', '', '{
   "title": "Dusky-gilled Mudskipper",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/09/dusky-gilled-mudskipper-periophthalmus.html",
@@ -86975,7 +86975,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oxudercinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjkNhpXsbgdtia9-s7Sv1l3W-yWaZX14uiRHacbcDgCLabO4QQ9f1tupqJ2KMz8K1Upbnf6l_QUqxzwI5RUa4DMNIcJirAezcwj310aWE_WcRfJ5eiTfRocyw9_8NAj7A_igkV47GqCno9aSAMXNl2b01t2n7vHfxBcSXTKWOX5xAmqhUsa2ImAPVHlkY7B=w651-h434', '2026-09-26T19:00:10.942Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjkNhpXsbgdtia9-s7Sv1l3W-yWaZX14uiRHacbcDgCLabO4QQ9f1tupqJ2KMz8K1Upbnf6l_QUqxzwI5RUa4DMNIcJirAezcwj310aWE_WcRfJ5eiTfRocyw9_8NAj7A_igkV47GqCno9aSAMXNl2b01t2n7vHfxBcSXTKWOX5xAmqhUsa2ImAPVHlkY7B=w651-h434', '2026-09-27T06:31:03.050Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Periophthalmus-walailakae.md', 'Periophthalmus-walailakae', 'Yellow-spotted Mudskipper', 'published', '', '{
   "title": "Yellow-spotted Mudskipper",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/09/yellowspotted-mudskipper-periophthalmus.html",
@@ -86997,7 +86997,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oxudercinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEiqvpqc0vkV8UYOTyaLL26SROZg0eN44FxJZyThAIvWfaujxHFdAo_nqDDyrSEJ3NRKM1hrgxwgD_-KFvEjtSoGYZR6qrWG2vPavj6pOgsiuaV4cqHf85PCgC1vB4HEW-3RUNAqDI_YfA2fqGlr2ujL8Us4h5xzQp1Wg1UMTB9VRZxjyQy-0eKXBNiXM7Ay=w671-h447', '2026-09-26T19:00:10.942Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEiqvpqc0vkV8UYOTyaLL26SROZg0eN44FxJZyThAIvWfaujxHFdAo_nqDDyrSEJ3NRKM1hrgxwgD_-KFvEjtSoGYZR6qrWG2vPavj6pOgsiuaV4cqHf85PCgC1vB4HEW-3RUNAqDI_YfA2fqGlr2ujL8Us4h5xzQp1Wg1UMTB9VRZxjyQy-0eKXBNiXM7Ay=w671-h447', '2026-09-27T06:31:03.051Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Pseudapocryptes-elongatus.md', 'Pseudapocryptes-elongatus', 'Elongate Mudskipper', 'published', '', '{
   "title": "Elongate Mudskipper",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/09/elongate-mudskipper-pseudapocryptes.html",
@@ -87021,7 +87021,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oxudercinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEglwbx4qDAel1ZPjmpfB3WGwDeaAXtPGidOYz4keH9FL8U8aHDTnkD8Qnpf_AM6a-139PfpLh1icKZf0y2sCDRbsi-pWr81PIzwnoTRXbrm_mA3OAYGbgh-dFUQR6Llo0X8REylyQEyLmnHIbbonCTUEomZz6KYwrDFkWHkbSxtXL_iweWWwK5t9v1tGGA0=w672-h448', '2026-09-26T19:00:10.942Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEglwbx4qDAel1ZPjmpfB3WGwDeaAXtPGidOYz4keH9FL8U8aHDTnkD8Qnpf_AM6a-139PfpLh1icKZf0y2sCDRbsi-pWr81PIzwnoTRXbrm_mA3OAYGbgh-dFUQR6Llo0X8REylyQEyLmnHIbbonCTUEomZz6KYwrDFkWHkbSxtXL_iweWWwK5t9v1tGGA0=w672-h448', '2026-09-27T06:31:03.051Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Pseudogobius-poicilosoma.md', 'Pseudogobius-poicilosoma', 'Snubnose Gobies', 'published', '', '{
   "title": "Snubnose Gobies",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2026/01/snubnose-gobies-pseudogobius-sp.html",
@@ -87047,7 +87047,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Gobionellinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhQtmwGGRLHYbqD7sUi_HeNhqdzRFemk-x2FC8jKaxy-gRCrJOjk33V3oWdicgFOj7Kl6xDH6xy5bMDLp0v_lbVaobtgARHsFBt-SCGrnQNGjqCe_HgBJ6ANWvl5FWdbyPKnF-dC0DJ8G8_hgn55bcyXr17xk9iZui7CNqPnKC7UdhvXfu4E7SahGlCucdl=w657-h438', '2026-09-26T19:00:10.942Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhQtmwGGRLHYbqD7sUi_HeNhqdzRFemk-x2FC8jKaxy-gRCrJOjk33V3oWdicgFOj7Kl6xDH6xy5bMDLp0v_lbVaobtgARHsFBt-SCGrnQNGjqCe_HgBJ6ANWvl5FWdbyPKnF-dC0DJ8G8_hgn55bcyXr17xk9iZui7CNqPnKC7UdhvXfu4E7SahGlCucdl=w657-h438', '2026-09-27T06:31:03.051Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Rasbora-einthovenii.md', 'Rasbora-einthovenii', 'Einthoven''s Rasbora', 'published', '', '{
   "title": "Einthoven''s Rasbora",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/02/brilliant-rasbora.html",
@@ -87071,7 +87071,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Rasborinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEiqIEgp2m-iUS3Sh3UdJXXc3AYbtGnDpI4rF639tUcoBhs5lepoMjyr6IM_Jy2YGSAjIILCewYq4DOmvDWdE8yvjc969_tolkALKgwgOR8zl4rvZCD9ioyRJpmbC7qkrRo3OIz6XrmmOW5D26fgBjiSxjrKxFx_Hec6D25zltjFk8XJASnKPGVNaQ5TDu4B=w669-h443', '2026-09-26T19:00:10.942Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEiqIEgp2m-iUS3Sh3UdJXXc3AYbtGnDpI4rF639tUcoBhs5lepoMjyr6IM_Jy2YGSAjIILCewYq4DOmvDWdE8yvjc969_tolkALKgwgOR8zl4rvZCD9ioyRJpmbC7qkrRo3OIz6XrmmOW5D26fgBjiSxjrKxFx_Hec6D25zltjFk8XJASnKPGVNaQ5TDu4B=w669-h443', '2026-09-27T06:31:03.051Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Rasbora-elegans.md', 'Rasbora-elegans', 'Elegant Rasbora', 'published', '', '{
   "title": "Elegant Rasbora",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/elegant-rasbora-rasbora-elegans.html",
@@ -87095,7 +87095,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Rasborinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhIhsKjHeS7j-xOunqp6OnN7d8lKlUR1L7aLQVjBYDcegwDO163ZEG5O-7QUdUJzhiF7GgIZvguwScp0Z0QSJa3aWh-bJSYtgVP_zocg0QPv9n8LRmUdKFZ1i01ZJJaGE7rmwXXEeF0QcuwMSMRrMZAt0hq-Qw3DxuL-AfIeNke7pJhe2TRKdvSG03g7TGm=w647-h430', '2026-09-26T19:00:10.942Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhIhsKjHeS7j-xOunqp6OnN7d8lKlUR1L7aLQVjBYDcegwDO163ZEG5O-7QUdUJzhiF7GgIZvguwScp0Z0QSJa3aWh-bJSYtgVP_zocg0QPv9n8LRmUdKFZ1i01ZJJaGE7rmwXXEeF0QcuwMSMRrMZAt0hq-Qw3DxuL-AfIeNke7pJhe2TRKdvSG03g7TGm=w647-h430', '2026-09-27T06:31:03.051Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Scartelaos-histophorus.md', 'Scartelaos-histophorus', 'Bearded Mudskipper', 'published', '', '{
   "title": "Bearded Mudskipper",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/09/bearded-mudskipper-scartelaos.html",
@@ -87119,7 +87119,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Oxudercinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEibWTeEWgTQrTs0d22xlURplO-oC3KLgtOibOSQnnekdde_0TxmMvOB6TQkp2iiwxrtSTqc-r2uCw0m0iVsKujCQs7HaH4Xwet-xRkSBbJXeIkxGOJHL4SzhZkq6Iocl_2s4PnJalQK7l7KVPAOFNsWWoWEkHYDiYOZS1BpMfypa0j7ocYHUQAvs1RUnTA9=w667-h444', '2026-09-26T19:00:10.942Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEibWTeEWgTQrTs0d22xlURplO-oC3KLgtOibOSQnnekdde_0TxmMvOB6TQkp2iiwxrtSTqc-r2uCw0m0iVsKujCQs7HaH4Xwet-xRkSBbJXeIkxGOJHL4SzhZkq6Iocl_2s4PnJalQK7l7KVPAOFNsWWoWEkHYDiYOZS1BpMfypa0j7ocYHUQAvs1RUnTA9=w667-h444', '2026-09-27T06:31:03.051Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Silurichthys-hasseltii.md', 'Silurichthys-hasseltii', 'Hasselt''s Leaf Catfish', 'published', '', '{
   "title": "Hasselt''s Leaf Catfish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/hasselts-leaf-catfish-silurichthys.html",
@@ -87142,7 +87142,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "suborder": "Siluroidei",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhj0V02HmTA_5bFInh2QNWwb2i-Dd5bOTodfYR7XrZuaDUZMrasyIW0IJguJ0GigadYf_gzj_ftKvXhzsJJ4VuXbDgQ5alyBvxexPbrjyTzcjeRnU3ZFnRSWBb5pEZ7RdsPn7VDkSNwg6dYeEvY6p2wvNtTIObtzwaPrX5QdanZfvpbTCwEkbLnN0IlCQ0H=w660-h371', '2026-09-26T19:00:10.943Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhj0V02HmTA_5bFInh2QNWwb2i-Dd5bOTodfYR7XrZuaDUZMrasyIW0IJguJ0GigadYf_gzj_ftKvXhzsJJ4VuXbDgQ5alyBvxexPbrjyTzcjeRnU3ZFnRSWBb5pEZ7RdsPn7VDkSNwg6dYeEvY6p2wvNtTIObtzwaPrX5QdanZfvpbTCwEkbLnN0IlCQ0H=w660-h371', '2026-09-27T06:31:03.052Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Stigmatogobius-sadanundio.md', 'Stigmatogobius-sadanundio', 'Grey Knight Goby', 'published', '', '{
   "title": "Grey Knight Goby",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2026/05/grey-knight-goby-stigmatogobius.html",
@@ -87167,7 +87167,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Gobionellinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhoeF9bkM8Tu3yDi91iOyr-LX8ThZL27ywAeA0LpqufhgNgzWJcfVfydft6zB1pePsvXw_hyUAL2hXYY8ohU94HW78bgERJVkCjBNWabpd3Ce4_85t3uIROLv3tilmdp2l3BlbHgh0_YtFD4Nvr33MAhST5jbQWRxLZguc2NB4og4cO1iVx8XMSA5Cxih9X=w672-h447', '2026-09-26T19:00:10.943Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhoeF9bkM8Tu3yDi91iOyr-LX8ThZL27ywAeA0LpqufhgNgzWJcfVfydft6zB1pePsvXw_hyUAL2hXYY8ohU94HW78bgERJVkCjBNWabpd3Ce4_85t3uIROLv3tilmdp2l3BlbHgh0_YtFD4Nvr33MAhST5jbQWRxLZguc2NB4og4cO1iVx8XMSA5Cxih9X=w672-h447', '2026-09-27T06:31:03.052Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Striuntius-lateristriga.md', 'Striuntius-lateristriga', 'Spanner barb', 'published', '', '{
   "title": "Spanner barb",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/spanner-barb-striuntius-lateristriga.html",
@@ -87191,7 +87191,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Smiliogastrinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhN7gzXOlHh9B_0EjE7NHCeWhPZm9C91ebRJFl3vGmO7vIGdjMS5hVgUmfJB4JBYI0ycQe76gpWQl7QWNHefw_hl7-H7g22YPxLswPFqiyHHYOwpEtSGCyx_9Hc0ktnMLYgt1Y8bdKBzrFnLDqymKylUIcW0AsVznBoKJaRJp6p1k5ZZMrAPl7nuiaOfkdT=w641-h427', '2026-09-26T19:00:10.943Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEhN7gzXOlHh9B_0EjE7NHCeWhPZm9C91ebRJFl3vGmO7vIGdjMS5hVgUmfJB4JBYI0ycQe76gpWQl7QWNHefw_hl7-H7g22YPxLswPFqiyHHYOwpEtSGCyx_9Hc0ktnMLYgt1Y8bdKBzrFnLDqymKylUIcW0AsVznBoKJaRJp6p1k5ZZMrAPl7nuiaOfkdT=w641-h427', '2026-09-27T06:31:03.052Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Strongylura-strongylura.md', 'Strongylura-strongylura', 'Spot-tail Needlefish', 'published', '', '{
   "title": "Spot-tail Needlefish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/spot-tail-needlefish-strongylura.html",
@@ -87212,7 +87212,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "order": "Beloniformes",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEi6m4krxjD9bxwVwusUZaZcY2wx7YIMLEYIW_9xz2HuX10kMRB3c3bBzqFWMxJxLE4Q_WLJ-Y9_YSc1YQ0yFfK013Udz7HVjwwhmPvVx83NMglXzj98eZN2CmPjTBzJy7pSrKQozMYT-OCXb3ha8tfb-V5naOsXqK0O-PH9hLq9Iqqkmiirv-h74ll6ck52=w646-h430', '2026-09-26T19:00:10.943Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEi6m4krxjD9bxwVwusUZaZcY2wx7YIMLEYIW_9xz2HuX10kMRB3c3bBzqFWMxJxLE4Q_WLJ-Y9_YSc1YQ0yFfK013Udz7HVjwwhmPvVx83NMglXzj98eZN2CmPjTBzJy7pSrKQozMYT-OCXb3ha8tfb-V5naOsXqK0O-PH9hLq9Iqqkmiirv-h74ll6ck52=w646-h430', '2026-09-27T06:31:03.052Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Trichopodus-trichopterus.md', 'Trichopodus-trichopterus', 'Three Spot Gourami', 'published', '', '{
   "title": "Three Spot Gourami",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/three-spot-gourami-trichopodus.html",
@@ -87236,7 +87236,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Trichogastrinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgabcoUe2H1INu6gCjjH0uVZ0vUddumRwvcs0Z72GMMwePDNWF5vxaTyek7dkYpRLbaXApbH4IlBiPCEWIFdYw_yHdQik-id2w1XMp3HkSA-wkzcgog25yL1tmbRTwZWJR4RnlVu_a_JRJ2LLpsyqnbnw0FoO0W-ilmdTt8vzXbuhxuYlNSfrrblxPoSu2_=w652-h435', '2026-09-26T19:00:10.943Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEgabcoUe2H1INu6gCjjH0uVZ0vUddumRwvcs0Z72GMMwePDNWF5vxaTyek7dkYpRLbaXApbH4IlBiPCEWIFdYw_yHdQik-id2w1XMp3HkSA-wkzcgog25yL1tmbRTwZWJR4RnlVu_a_JRJ2LLpsyqnbnw0FoO0W-ilmdTt8vzXbuhxuYlNSfrrblxPoSu2_=w652-h435', '2026-09-27T06:31:03.052Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Trichopsis-vittata.md', 'Trichopsis-vittata', 'Croaking Gourami', 'published', '', '{
   "title": "Croaking Gourami",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/croaking-gourami-trichopsis-vittata.html",
@@ -87260,7 +87260,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Macropodusinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjmFCwW1ucD_qjkbHh0aqwR50aN_Gqxbr4kGDuaEJ5nw5XOmqmAPjX1K0zTgirnt-qxCtRxQ916Q2MtdYukQEbzk6JOwH4xn3TPuw0T4RRSqVdm6vAxHDPZBW-teld8tO1SLfS04lLc066bo9-4oURsLTtw16m8FpUKzJXxQcBQcDjoLHfFQjkkw6FBNFEV=w654-h435', '2026-09-26T19:00:10.943Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjmFCwW1ucD_qjkbHh0aqwR50aN_Gqxbr4kGDuaEJ5nw5XOmqmAPjX1K0zTgirnt-qxCtRxQ916Q2MtdYukQEbzk6JOwH4xn3TPuw0T4RRSqVdm6vAxHDPZBW-teld8tO1SLfS04lLc066bo9-4oURsLTtw16m8FpUKzJXxQcBQcDjoLHfFQjkkw6FBNFEV=w654-h435', '2026-09-27T06:31:03.053Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Trigonostigma-heteromorpha.md', 'Trigonostigma-heteromorpha', 'Harlequin Rasbora', 'published', '', '{
   "title": "Harlequin Rasbora",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/02/harlequin-rasbora.html",
@@ -87284,7 +87284,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Rasborinae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEj8Vr1u6HNP5xHIqw5A6DV4niIw-QBnYvbSkaG7XGbQfHMB11AmiB7hoz-GlUTbFCYhduxUeCtsrW137jVdHmKw7LnFf19EAD6aSw6Ii1vRqJl357B4TiaUMX_FTjac4O_5lIDyazIE0IM9O82fNjS6orH3bI7U7B_pEj0QIt_eLQHZkiNh6d8PPC22T7HF=w648-h432', '2026-09-26T19:00:10.944Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEj8Vr1u6HNP5xHIqw5A6DV4niIw-QBnYvbSkaG7XGbQfHMB11AmiB7hoz-GlUTbFCYhduxUeCtsrW137jVdHmKw7LnFf19EAD6aSw6Ii1vRqJl357B4TiaUMX_FTjac4O_5lIDyazIE0IM9O82fNjS6orH3bI7U7B_pEj0QIt_eLQHZkiNh6d8PPC22T7HF=w648-h432', '2026-09-27T06:31:03.053Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Yarica-hyalosoma.md', 'Yarica-hyalosoma', 'Mangrove Cardinalfish', 'published', '', '{
   "title": "Mangrove Cardinalfish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/05/mangrove-cardinalfish-yarica-hyalosoma.html",
@@ -87309,7 +87309,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "subfamily": "Apogoninae",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjgzx8m8AYdYHAnkHi3MG3NPuDTNQO3TrTmJEJZ7pMsOzUPURpwjVWeKR38GGqslD_TES16pW0wRfCJUu4tq58iUG_3_hdkUupHqAYOJWeSQMSnKWIizeOt-0wZ-0d7N9pFM-1tHY8DyqzW-B07FMzxedIx6zZy6-axgJ_lKGi4ptVKo7hens1PGaOchRds=w675-h449', '2026-09-26T19:00:10.944Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjgzx8m8AYdYHAnkHi3MG3NPuDTNQO3TrTmJEJZ7pMsOzUPURpwjVWeKR38GGqslD_TES16pW0wRfCJUu4tq58iUG_3_hdkUupHqAYOJWeSQMSnKWIizeOt-0wZ-0d7N9pFM-1tHY8DyqzW-B07FMzxedIx6zZy6-axgJ_lKGi4ptVKo7hens1PGaOchRds=w675-h449', '2026-09-27T06:31:03.053Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/fishblogger/Zenarchopterus-gilli,.md', 'Zenarchopterus-gilli,', 'Shortnose River Garfish', 'published', '', '{
   "title": "Shortnose River Garfish",
   "externalurl": "https://sgfishesabovewater.blogspot.com/2025/03/shortnose-river-garfish-zenarchopterus.html",
@@ -87331,7 +87331,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "order": "Beloniformes",
   "external": "sgfishesabovewater.blogspot.com",
   "layout": "linkpost"
-}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjtgjFTR9wbjso6vQrpe61Q7TOahjwq4QJ-63Sj2WivLhy8UXTj8qpfeZTC9W3Evr-Moqv9FRVShtn0ABvobQUgJU9CFuPeee0oNVFpBWmbl0a8dd1mVctt19boxeWkrpEAVlvuSI36RF0VAI48sKf5CFtqaSyaRVXvX-rVMYOI2gzw4kM82iSkpNaijjOL=w661-h440', '2026-09-26T19:00:10.944Z');
+}', 'https://blogger.googleusercontent.com/img/a/AVvXsEjtgjFTR9wbjso6vQrpe61Q7TOahjwq4QJ-63Sj2WivLhy8UXTj8qpfeZTC9W3Evr-Moqv9FRVShtn0ABvobQUgJU9CFuPeee0oNVFpBWmbl0a8dd1mVctt19boxeWkrpEAVlvuSI36RF0VAI48sKf5CFtqaSyaRVXvX-rVMYOI2gzw4kM82iSkpNaijjOL=w661-h440', '2026-09-27T06:31:03.053Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/bivalvia/anomiidae/enigmonia.md', 'enigmonia', 'Mangrove jingle clam', 'published', '
 ## Where seen?
 Like shiny scales, this animal is commonly seen in groups of a few individuals on leaves, trunks and roots of mangrove trees. It usually settles at a height between the high spring and high neap tide.
@@ -90638,7 +90638,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-', '{}', '', '2026-09-26T19:00:10.953Z');
+', '{}', '', '2026-09-27T06:31:03.065Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/bivalvia/mytilidae/xenostrobus.md', 'xenostrobus', 'Little black mussel', 'published', '
 ## Where seen?
 This tiny black mussel is sometimes seen in clusters of many individuals on large boulders at the midwater mark. Grows among oysters, barnacles and other encrusting animals there. Dull greyish ones are sometimes seen in small clusters on mangrove trees and their roots in the mangroves. These may be
@@ -90852,7 +90852,7 @@ Striostrea mytiloides*
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-', '{}', '', '2026-09-26T19:00:10.954Z');
+', '{}', '', '2026-09-27T06:31:03.066Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/bivalvia/ostreidae/plain.md', 'plain', 'Plain rock oyster', 'published', '
 ## Where seen?
 This oyster is commonly seen on our Northern shores on boulders, rocks, jetty pillings, sea walls. Often, there is a crowded line of these oysters, with many individuals squashed next to one another, along the high water mark. On undisturbed shores they can become quite large. Very large ones are sometimes found on boulders close to the low water mark. The shell is often covered with encrusting lifeforms and they are thus overlooked.
@@ -92148,7 +92148,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 Placuna placenta*
 
 ---
-', '{}', '', '2026-09-26T19:00:10.958Z');
+', '{}', '', '2026-09-27T06:31:03.071Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/bivalvia/pteriidae/ephippium.md', 'ephippium', 'Leaf oyster', 'published', '
 ## Where seen?
 These rather large flat clams are commonly seen in our mangroves, scattered like white coins among mangrove tree roots. Sometimes also seen growing in clusters on rocks or sea walls in sheltered areas near freshwater inflows (brackish water). It is also called the Saddle tree oyster.
@@ -93428,7 +93428,7 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery11 %}
 
 ---
-', '{}', '', '2026-09-26T19:00:10.962Z');
+', '{}', '', '2026-09-27T06:31:03.076Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/bivalvia/tridacnidae/tridacnidae.md', 'tridacnidae', 'Giant clams', 'published', '
 ## Where seen?
 These enormous clams are sometimes seen on our undisturbed Southern shores. Some burrow into coral rubble or among live coral and are thus easily overlooked. Others lie above but attached to coral rubble.
@@ -104749,7 +104749,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
 ---
-', '{}', '', '2026-09-26T19:00:10.990Z');
+', '{}', '', '2026-09-27T06:31:03.112Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/gastropoda/ellobiidae/pythia.md', 'pythia', 'Pythia snail', 'published', '
 ## Where seen?
 This odd-shaped snail is sometimes seen in our back mangroves, on leaves and trunks of mangrove trees and mangrove plants. Sometimes seen in clusters of a few individuals.
@@ -107772,7 +107772,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery8 %}
 ---
-', '{}', '', '2026-09-26T19:00:10.998Z');
+', '{}', '', '2026-09-27T06:31:03.123Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/gastropoda/melogenidae/melongenidae.md', 'melongenidae', 'melongenidae', 'published', '
 ## Where seen?
 Some large melongena snails are commonly seen on many of our shores, usually in estuaries or near mangroves.
@@ -107813,7 +107813,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 *Volema myristica*
 
 ---
-', '{}', '', '2026-09-26T19:00:10.999Z');
+', '{}', '', '2026-09-27T06:31:03.123Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/gastropoda/melogenidae/ternatanus.md', 'ternatanus', 'Ternate false fusus', 'published', '
 ## Where seen?
 This large snail is rarely seen alive, so far only on our Northern shores. Although the empty shell is sometimes seen, usually occupied by a hermit crab.
@@ -114505,7 +114505,7 @@ Seen on large boulder near natural cliff,
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg', '2026-09-26T19:00:11.016Z');
+}', 'https://images.naturehungry.sg/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg', '2026-09-27T06:31:03.144Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/gastropoda/neritidae/oualaniensis.md', 'oualaniensis', 'Dubious nerite snail', 'published', '
 ## Where seen?
 This tiny snail is sometimes seen in large numbers on sandy shores near monsoon drains and other sources of freshwater on some of our shores, sometimes among seagrasses and seaweeds.
@@ -117066,7 +117066,7 @@ Planaxis sulcatus*
 (Planaxis snail)
 
 ---
-', '{}', '', '2026-09-26T19:00:11.023Z');
+', '{}', '', '2026-09-27T06:31:03.152Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/gastropoda/potamididae/cingulata.md', 'cingulata', 'Girdled horn snail ', 'published', '
 ## Where seen?
 This small snail is sometimes seen in large numbers in shallow sheltered places and monsoon drains near the sea, also on mangrove mudflats.
@@ -117475,7 +117475,7 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
-', '{}', '', '2026-09-26T19:00:11.024Z');
+', '{}', '', '2026-09-27T06:31:03.154Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/gastropoda/potamididae/sulcata.md', 'sulcata', 'Belitong snail', 'published', '
 ## Where seen?
 This chubby snail is sometimes seen in our mangroves, attached to trees and hard surfaces, or littering the ground near the high water mark. Sometimes found in groups of several individuals.
@@ -120201,7 +120201,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-', '{}', '', '2026-09-26T19:00:11.031Z');
+', '{}', '', '2026-09-27T06:31:03.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/gastropoda/trochidae/maculatus.md', 'maculatus', 'Spotted top shell snail ', 'published', '
 ## Where seen?
 This snail with a conical shell is commonly seen on our Southern shores. On large boulders, rocky shores and artificial sea walls. Usually alone or groups of a few individuals. Elsewhere, they are common in coral reefs and rocky shores.
@@ -121296,7 +121296,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-', '{}', '', '2026-09-26T19:00:11.034Z');
+', '{}', '', '2026-09-27T06:31:03.165Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/gastropoda/turbinidae/bruneus.md', 'bruneus', 'bruneus', 'published', '
 ## Where seen?
 This large turban snail is sometimes seen on our rocky shores. It is also sometimes called the Brown turban snail and the scientific name is sometimes spelt as
@@ -121341,7 +121341,7 @@ for free download
 **Acknowlegement**
 
 With grateful thanks to Tan Siong Kiat of the Raffles Museum of Biodiversity Research for identifying this snail.
-', '{}', '', '2026-09-26T19:00:11.035Z');
+', '{}', '', '2026-09-27T06:31:03.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/gastropoda/turbinidae/calcar.md', 'calcar', 'Spurred turban snail', 'published', '
 ## Where seen?
 This snail with a flattened wheel-shaped shell is sometimes seen on our offshore Southern islands, or rocky shores together with its relatives of the Family Turbinidae. Elsewhere, it is found on rocky shores and reefs. It was previously known as
@@ -127256,7 +127256,7 @@ from Tan Siong Kiat and Henrietta P. M. Woo, 2010
 Hydatina zonata*
 
 ---
-', '{}', '', '2026-09-26T19:00:11.049Z');
+', '{}', '', '2026-09-27T06:31:03.183Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/cephalaspidea/lineolata.md', 'lineolata', 'Lined tailed-slug', 'published', '
 ## Where seen?
 This tine slug with fine lines is sometimes seen on both Northern and Southern shores near seagrasses. It was previously known as
@@ -132601,7 +132601,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery11 %}
 ---
-', '{}', '', '2026-09-26T19:00:11.064Z');
+', '{}', '', '2026-09-27T06:31:03.200Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/nudibranchia/intecta.md', 'intecta', 'Black prickly nudibranch', 'published', '
 ## Where seen?
 This black nudibranch with prickly bumps is sometimes seen on some of our shores, on coral rubble. It was previously known as
@@ -134384,7 +134384,7 @@ Members of the Family Phyllidiidae absorb the toxic chemicals in their sponge fo
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
-', '{}', '', '2026-09-26T19:00:11.069Z');
+', '{}', '', '2026-09-27T06:31:03.207Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/nudibranchia/phyllodesmium.md', 'phyllodesmium', 'Phyllodesmium nudibranch', 'published', '
 ## Where seen?
 This ''hairy'' nudibranch is sometimes seen on some of our shores. It is seen near reefs in the South as well as rocky areas in the North.
@@ -137570,7 +137570,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
-', '{}', '', '2026-09-26T19:00:11.077Z');
+', '{}', '', '2026-09-27T06:31:03.219Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/sacoglossa/berthelinia.md', 'berthelinia', 'Singapore bivalve slug', 'published', '
 ## Where seen?
 This tiny slug is sometimes seen on
@@ -138047,7 +138047,7 @@ Costasiella usagi*
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery17 %}
-', '{}', '', '2026-09-26T19:00:11.080Z');
+', '{}', '', '2026-09-27T06:31:03.221Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/sacoglossa/elysianoid.md', 'elysianoid', 'Wooly elysia slug (Elysia) ', 'published', '
 **Unidentified
 *Elysia*
@@ -138127,7 +138127,7 @@ back to
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg', '2026-09-26T19:00:11.080Z');
+}', 'https://images.naturehungry.sg/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg', '2026-09-27T06:31:03.221Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/sacoglossa/elysiidae.md', 'elysiidae', 'elysiidae', 'published', '
 ## Where seen?
 These slugs are commonly seen on many of our shores, especially during a ''bloom'' of their seaweed food. They appear to be seasonal. Sometimes they are everywhere, at other times, none are to be seen. They were previously in Family Elysiidae.
@@ -138222,7 +138222,7 @@ cf.
 sp.
 
 ---
-', '{}', '', '2026-09-26T19:00:11.080Z');
+', '{}', '', '2026-09-27T06:31:03.222Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/sacoglossa/lobiger.md', 'lobiger', 'Tendril slug', 'published', '
 ## Where seen?
 This well camouflaged slug is sometimes seen among green seaweeds on our Northern and Southern shores.
@@ -138677,7 +138677,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-', '{}', '', '2026-09-26T19:00:11.082Z');
+', '{}', '', '2026-09-27T06:31:03.225Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/sacoglossa/pusilla.md', 'pusilla', 'pusilla', 'published', '
 ## Where seen?
 This tiny slug is sometimes seen on
@@ -138718,7 +138718,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery6 %}
 ---
-', '{}', '', '2026-09-26T19:00:11.083Z');
+', '{}', '', '2026-09-27T06:31:03.226Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/sacoglossa/sacoglossa.md', 'sacoglossa', 'Sap-sucking slugs', 'published', '
 ## Where seen?
 These slugs come in a wide range of shapes from minute to large, and some are commonly seen on all our shores. They often closely resemble the seaweed that they eat! Some are seasonal, being abundant when their seaweed food is plentiful. And disappearing when their seaweed food dwindles away.
@@ -139385,7 +139385,7 @@ Volvatella*
 sp.
 
 ---
-', '{}', '', '2026-09-26T19:00:11.085Z');
+', '{}', '', '2026-09-27T06:31:03.228Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/mollusca/slugs/sacoglossa/woolly.md', 'woolly', 'Woolly leaf slugs', 'published', '
 ## Where seen?
 These tiny slugs appear woolly or fuzzy. They are sometimes seen on many of our shores, usually on green seaweeds. Sometimes, they occur in large numbers.
@@ -140121,7 +140121,7 @@ galleries:
   "zone": [
     "terrestrial"
   ]
-}', 'https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg', '2026-09-26T19:00:11.087Z');
+}', 'https://images.naturehungry.sg/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg', '2026-09-27T06:31:03.230Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/coastal/barringtonia/asiatica.md', 'asiatica', 'Putat laut ', 'published', '
 ## Where seen?
 This tree with large waxy leaves, stunning pinkish pom-pom flowers and square fruits is now widely planted in our coastal parks. It is sometimes seen growing wild in our back mangroves. Elsewhere, it grows in a wide range of coastal habitats from coastal forest, shores, sandy to rocky coasts and occasionally in mangroves.
@@ -141633,7 +141633,7 @@ Photos for free download from
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 
-', '{}', '', '2026-09-26T19:00:11.091Z');
+', '{}', '', '2026-09-27T06:31:03.245Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/coastal/clerodendrum/inerme.md', 'inerme', 'Gambir laut ', 'published', '
 ## Where seen?
 This small shrub with pretty whiskery flowers is sometimes seen among the shore vegetation and in back mangroves. According to Hsuan Keng, it is common near the sea in tidal mud including Rochore, Changi, Seletar and Pulau Ubin. According to Giesen, it is found along coasts including mangroves. Found from India to Sri Lanka, throughout Southeast Asia to southern China, Australia and Polynesia. Also known as
@@ -142199,7 +142199,7 @@ This plant is listed as ''Critically Endangered'' in the Red List of threatened 
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-', '{}', '', '2026-09-26T19:00:11.093Z');
+', '{}', '', '2026-09-27T06:31:03.248Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/coastal/fagraea/fragrans.md', 'fragrans', 'Tembusu', 'published', '
 ## Where seen?
 This beautiful stately tree is commonly planted in our parks and road sides. In the wild, they were found in open and swampy lowlands throughout Malaya, most commonly to the south. It was also known as
@@ -143974,7 +143974,7 @@ Growing also the natural shore
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-', '{}', '', '2026-09-26T19:00:11.098Z');
+', '{}', '', '2026-09-27T06:31:03.255Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/coastal/podocarpus/polystachyus.md', 'polystachyus', 'Sea teak ', 'published', '
 ## Where seen?
 These hardy pines with refreshingly bright green leaves are still found on the natural cliffs of Sentosa. But as suitable habitats are becoming increasingly rare, so too are the trees. It is believed that there are less than 50 wild specimens of these trees in Singapore.
@@ -145206,7 +145206,7 @@ According to Burkill, the fruit is sweet, aromatic and edible. The reddish or br
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-', '{}', '', '2026-09-26T19:00:11.102Z');
+', '{}', '', '2026-09-27T06:31:03.259Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/coastal/tacca/leontopetaloides.md', 'leontopetaloides', 'Seashore bat lily', 'published', '
 ## Where seen?
 A very rare plant in Singapore, it now only occurs naturally at Pulau Semakau and Pulau Pawai. Some propagated plants can be found at Bukit Batok Park. It grows in the sun-dappled shade immediately above the high water mark. It is a widely distributed pantropical plant. Its Malay name is
@@ -145736,7 +145736,7 @@ back to
   "zone": [
     "terrestrial"
   ]
-}', 'https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090428chgd0929m3.jpg', '2026-09-26T19:00:11.103Z');
+}', 'https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090428chgd0929m3.jpg', '2026-09-27T06:31:03.260Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/coastal/tristellateia/australasiae.md', 'australasiae', 'Maiden''s jealousy', 'published', '
 <div class="flex gap-2">
 <div>
@@ -148617,7 +148617,7 @@ Distribution in Singapore on
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
-', '{}', '', '2026-09-26T19:00:11.112Z');
+', '{}', '', '2026-09-27T06:31:03.270Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/mangrove/bruguiera/parviflora.md', 'parviflora', 'Lenggadai ', 'published', '
 ## Where seen?
 This endangered tree is rarely seen in our mangroves. According to Ng, it was only seen at Pasir Ris Park, Pulau Tekong, Pulau Unum; individuals formerly recorded at Sungei Changi seem to have died out. According to Davison, it is found on Pulau Tekong, Sungei Buloh, Pasir Ris Park and the Western Catchment. It is also found on Pulau Ubin and Chek Jawa. According to Hsuan Keng, it was found in Jurong and Ulu Pandan.
@@ -154075,7 +154075,7 @@ According to Burkill, the sour young leaves are eaten with food in Java, while t
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
-', '{}', '', '2026-09-26T19:00:11.127Z');
+', '{}', '', '2026-09-27T06:31:03.298Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/seagrass/beccarii.md', 'beccarii', 'Beccari''s seagrass ', 'published', '
 ## Where seen?
 This small seagrass is quite commonly encountered on Chek Jawa, usually in small patches on bare sand that are exposed at low tide near the boardwalk, with larger meadows on the shore west of House No. 1. The
@@ -154845,7 +154845,7 @@ It is listed as ''Vulnerable'' on the Red List of threatened plants of Singapore
 
 
 
-', '{}', '', '2026-09-26T19:00:11.129Z');
+', '{}', '', '2026-09-27T06:31:03.303Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/seagrass/rotundata.md', 'rotundata', 'Smooth ribbon seagrass ', 'published', '
 ## Where seen?
 There is a small patch of this seagrass on Chek Jawa and they have also been seen on Cyrene Reef.
@@ -158293,7 +158293,7 @@ back to
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/plants/seaweed/chlorophyta/daisy/110220lazd6249m3a.jpg', '2026-09-26T19:00:11.138Z');
+}', 'https://images.naturehungry.sg/plants/seaweed/chlorophyta/daisy/110220lazd6249m3a.jpg', '2026-09-27T06:31:03.316Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/seaweed/chlorophyta/dictyosphaeria.md', 'dictyosphaeria', 'Pimply green seaweed', 'published', '
 ## Where seen?
 This seaweeed with a pimply or bubbly texture is sometimes seen on some of our Southern shores, growing on coral rubble. It forms small scattered patches among other encrusting organisms.
@@ -158514,7 +158514,7 @@ Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery2 %}
-', '{}', '', '2026-09-26T19:00:11.139Z');
+', '{}', '', '2026-09-27T06:31:03.317Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/plants/seaweed/chlorophyta/fluffy.md', 'fluffy', 'Fluffy green seaweeds', 'published', '
 ## Where seen?
 This small fluffy seaweed is sometimes seen on some of our shores, growing on coral rubble in sparse clumps covering an area of 10-20cm.
@@ -283853,7 +283853,7 @@ Distribution in Singapore on
 [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/shorebirds/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-', '{}', '', '2026-09-26T19:00:11.590Z');
+', '{}', '', '2026-09-27T06:31:03.985Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/ambassidae/ambassidae.md', 'ambassidae', 'Perchlets', 'published', '
 ## Where seen?
 Groups of these silvery fishes are frequently encountered in pools at low tide on many of our shores. Elsewhere, they are found in mangroves, estuaries and fresh water. They form groups during the day among mangrove roots and submerged plants. They disperse at night to feed.
@@ -287328,7 +287328,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 (Günther’s flounder).
 
 ---
-', '{}', '', '2026-09-26T19:00:11.601Z');
+', '{}', '', '2026-09-27T06:31:03.996Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/bythitidae/iluocoeteoides.md', 'iluocoeteoides', 'Yellow cuskeel ', 'published', '
 ## Where seen?
 This odd little eel-like fish is sometimes seen on some of our shores, usually near reefs at night. It was previously listed under Family Brotulidae and thus sometimes still referred to as brotulids. Another species, the Riau viviparous brotula (*Ungusurculus riauensis*) looks very similar.
@@ -287718,7 +287718,7 @@ on
 .
 
 ---
-', '{}', '', '2026-09-26T19:00:11.602Z');
+', '{}', '', '2026-09-27T06:31:03.997Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/callionymidae/erythraeus.md', 'erythraeus', 'Smallhead dragonet', 'published', '
 ## Where seen?
 This little fish with a permanent pout is often seen on Changi, sometimes seen on our Northern shores, on sandy areas near seagrasses. Well camouflaged on the sand, it is hard to spot. It is more active at night.
@@ -293504,7 +293504,7 @@ galleries:
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg', '2026-09-26T19:00:11.616Z');
+}', 'https://images.naturehungry.sg/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg', '2026-09-27T06:31:04.015Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/gobiidae/histrio.md', 'histrio', 'Broad-barred acropora goby', 'published', '
 ## Where seen?
 Found only in
@@ -295288,7 +295288,7 @@ and
 - Larson, Helen K and Kelvin K. P. Lim. 2005.
 *A Guide to Gobies of Singapore*
 . Singapore Science Centre. 164pp.
-', '{}', '', '2026-09-26T19:00:11.621Z');
+', '{}', '', '2026-09-27T06:31:04.020Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/gobiidae/shrimpgoby.md', 'shrimpgoby', 'Goby and snapping shrimp partners', 'published', '
 ## Where seen?
 These fish and shrimp partnership is seen on some of our shores. Their co-operation is so good that both animals usually quickly disappear into their shared burrow at the slightest sign of danger. Be patient and still, and soon, they will emerge once again.
@@ -295966,7 +295966,7 @@ on
 .
 
 ---
-', '{}', '', '2026-09-26T19:00:11.623Z');
+', '{}', '', '2026-09-27T06:31:04.023Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/haemulidae/chaetodonoides.md', 'chaetodonoides', 'Harlequin sweetlips', 'published', '
 ## Where seen?
 This delightful fish with cartoonish spots and which swims in frantic wiggles is sometimes seen on some of our shores. Divers also sometimes encounter it. Juveniles are seen in weedy areas, near reefs and seagrasses. Adults are seen near reefs in schools.
@@ -298251,7 +298251,7 @@ galleries:
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/070902sjitch02m3.jpg', '2026-09-26T19:00:11.629Z');
+}', 'https://images.naturehungry.sg/vertebrates/fish/labridae/dussumieri/070902sjitch02m3.jpg', '2026-09-27T06:31:04.030Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/labridae/labridae.md', 'labridae', 'Wrasses', 'published', '
 ## Where seen?
 These colourful fishes are sometimes seen on many of our shores. Among the more colourful little fishes to be seen in tide pools at low tide, wrasses are nevertheless often overlooked as they are often well hidden. Many are active during the day, sheltering during the night in hiding places. Small ones may burrow into sand.
@@ -305793,7 +305793,7 @@ from
 (Pink skunk anemonefish) (VU: Vulnerable)
 
 ---
-', '{}', '', '2026-09-26T19:00:11.649Z');
+', '{}', '', '2026-09-27T06:31:04.054Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/pomacentridae/bengalensis.md', 'bengalensis', 'Bengal sergeant ', 'published', '
 ## Where seen?
 This fish in pajamas is sometimes seen in small groups in pools at low tide on some of our shores, among coral rubble near reefs. It is quite a nervous fish and hides in crevices among coral rubble at the slightest sign of danger. It is sometimes called the Narrow-banded sergeant major.
@@ -307486,7 +307486,7 @@ on
 .
 
 ---
-', '{}', '', '2026-09-26T19:00:11.654Z');
+', '{}', '', '2026-09-27T06:31:04.061Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/pomacentridae/tripunctatus.md', 'tripunctatus', 'Threespot damselfish', 'published', '
 ## Where seen?
 This dark fish with electric blue markings is sometimes seen on some of our shores among coral rubble and near living reefs. Elsewhere, it is found in shallow bays and silty coastal reefs and other ''dead'' areas, up to 3m deep. Usually alone, in holes of small rocks on sandy bottoms with coral rubble.
@@ -308438,7 +308438,7 @@ from
 - Allen, Gerry, 2000.
 *Marine Fishes of South-East Asia: A Field Guide for Anglers and Divers*
 . Periplus Editions. 292 pp.
-', '{}', '', '2026-09-26T19:00:11.657Z');
+', '{}', '', '2026-09-27T06:31:04.065Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/scorpaenidae/longispinis.md', 'longispinis', 'Longspined waspfish ', 'published', '
 ## Where seen?
 This little waspfish is commonly seen on many of our shores, among coral rubble or seagrasses. But it is small and well camouflaged and thus often overlooked. Now in Family Tetrarogidae (waspfishes), it used to be placed in
@@ -308880,7 +308880,7 @@ galleries:
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/100528tkkjk9m6l.jpg', '2026-09-26T19:00:11.659Z');
+}', 'https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/picta/100528tkkjk9m6l.jpg', '2026-09-27T06:31:04.066Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/scorpaenidae/pterois.md', 'pterois', 'pterois', 'published', '
 ## Where seen?
 This magnificent fish is sometimes seen on our Southern shores. Elsewhere, they are found in sheltered lagoons, seaward reefs often sheltering under ledges during the day.
@@ -308939,7 +308939,7 @@ Pterois russelii*
 **
 
 ---
-', '{}', '', '2026-09-26T19:00:11.659Z');
+', '{}', '', '2026-09-27T06:31:04.067Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/scorpaenidae/scorpaenidae.md', 'scorpaenidae', 'Scorpionfishes', 'published', '
 ## Where seen?
 These prickly well-camouflaged fishes are seen on many of our shores, in seagrass and coral rubble areas. Masters of disguise, some can also be very small. Most stay motionless and thus do not betray their presence through movement. Patience and a keen eye is required to spot one.
@@ -311151,7 +311151,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
-', '{}', '', '2026-09-26T19:00:11.665Z');
+', '{}', '', '2026-09-27T06:31:04.074Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/soleidae/orientalis.md', 'orientalis', 'Oriental sole', 'published', '
 ## Where seen?
 This large flattened fish is sometimes seen on some of our shore.
@@ -313257,7 +313257,7 @@ which includes
 
 Hippocampus trimaculatus*
 
-', '{}', '', '2026-09-26T19:00:11.670Z');
+', '{}', '', '2026-09-27T06:31:04.081Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/syngnathidae/kuda.md', 'kuda', 'Estuarine seahorse', 'published', '
 ## Where seen?
 This seahorse is sometimes seen on many of our Northern shores, among seagrasses. According to the Singapore Red Data Book, it is found mainly in seagrass areas near sources of freshwater and found all around Singapore in shallow waters. ''Kuda'' means ''horse'' in Malay.
@@ -313627,7 +313627,7 @@ Trachyrhamphus bicoarctatus*
 *Trachyrhamphus serratus*
 
 ---
-', '{}', '', '2026-09-26T19:00:11.672Z');
+', '{}', '', '2026-09-27T06:31:04.083Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/fish/syngnathidae/seagrass.md', 'seagrass', 'Seagrass pipefish ', 'published', '
 ## Where seen?
 This skinny long fish can be seasonally abundant in seagrass areas on our Northern shores. Also sometimes seen in seagrasses in the South. At low tide, it generally remains motionless among seagrasses and seaweeds, and resembles roots or twigs. Watch your step!
@@ -317267,7 +317267,7 @@ Distribution in Singapore on
 [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/Sus%2520scrofa/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
 
 ---
-', '{}', '', '2026-09-26T19:00:11.682Z');
+', '{}', '', '2026-09-27T06:31:04.097Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/mammals/sousa.md', 'sousa', 'sousa', 'published', '
 ## Where seen?
 These marvellous creatures are still regularly sighted in the waters of our Southern Islands. According to Davison, these dolphins have been observed among our Southern Islands in the Singapore Straits, as well as near our northern shores in the Johor Straits. Globally, they are found in Africa, Asia and Australia, in seas, estuaries and river mouths. They have been seen in freshwater and upstream in large rivers.
@@ -317297,7 +317297,7 @@ This dolphin is listed as ''Endangered'' in the Red List of threatened animals o
 of dolphins on Singapore shores
 
 ---
-', '{}', '', '2026-09-26T19:00:11.683Z');
+', '{}', '', '2026-09-27T06:31:04.097Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/reptilia/cristatella.md', 'cristatella', 'Green crested lizard ', 'published', '
 ## Where seen?
 This large green lizard is very well camouflaged among the green vegetation where it may perch motionless. It is active during the day and is arboreal, found in bushes and trees usually in forested areas and inland wild places.
@@ -318876,7 +318876,7 @@ from Wee Y.C. and Peter K. L. Ng. 1994.
 *Acrochordus granulatus*
 
 ---
-', '{}', '', '2026-09-26T19:00:11.687Z');
+', '{}', '', '2026-09-27T06:31:04.103Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/vertebrates/snakes/laticauda.md', 'laticauda', 'Yellow-lipped sea krait', 'published', '
 ## Where seen?
 This beautiful snake is sometimes seen on our Southern shores especially at night, hunting among reefs and coral rubble. The snake is typically found in shallow seas around coral reefs and rocky shores.
@@ -320150,7 +320150,7 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-', '{}', '', '2026-09-26T19:00:11.691Z');
+', '{}', '', '2026-09-27T06:31:04.107Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/nemertea/redreef.md', 'redreef', 'redreef', 'published', '
 ## Where seen?
 This short red ribbon worm is commonly seen at night in coral rubble and near reefs. Many of of these worms can be glimpsed among seaweeds at night, extending their bodies out of hiding places.They retract instantly as soon as light shines on them, or they feel a disturbance. You only get one chance at a flash photo of them!
@@ -320188,7 +320188,7 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery5 %}
-', '{}', '', '2026-09-26T19:00:11.691Z');
+', '{}', '', '2026-09-27T06:31:04.107Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/nemertea/short.md', 'short', 'short', 'published', '
 ## Where seen?
 Rather short ribbon worms are sometimes seen on some of our shores. They are more active at night.
@@ -320227,7 +320227,7 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-', '{}', '', '2026-09-26T19:00:11.691Z');
+', '{}', '', '2026-09-27T06:31:04.108Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/nemertea/twotone.md', 'twotone', 'twotone', 'published', '
 ## Where seen?
 This long ribbon worm is sometimes seen on some of our rocky shores. It is more active at night.
@@ -320263,7 +320263,7 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery4 %}
-', '{}', '', '2026-09-26T19:00:11.692Z');
+', '{}', '', '2026-09-27T06:31:04.108Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/nemertea/verylong.md', 'verylong', 'Very long ribbon worm', 'published', '
 ## Where seen?
 This amazingly long ribbon worm is sometimes seen in coral rubble areas on our Southern shores. Sometimes several are seen on the same visit!
@@ -324631,7 +324631,7 @@ for free download
 **Acknowledgements**
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-', '{}', '', '2026-09-26T19:00:11.703Z');
+', '{}', '', '2026-09-27T06:31:04.120Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/bayeri.md', 'bayeri', 'Bayer''s flatworm', 'published', '
 ## Where seen?
 This bold black-and-white flatworm is sometimes seen encountered on coral rubble near living reefs.
@@ -324902,7 +324902,7 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery12 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery13 %}
-', '{}', '', '2026-09-26T19:00:11.704Z');
+', '{}', '', '2026-09-27T06:31:04.122Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/bifurcus.md', 'bifurcus', 'bifurcus', 'published', '
 ## Where seen?
 Like a blue race-car with a colourful line along the side, this stunning flatworm is sometimes seen on coral rubble near living reefs.
@@ -324958,7 +324958,7 @@ for free download
 **Acknowledgement**
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-', '{}', '', '2026-09-26T19:00:11.705Z');
+', '{}', '', '2026-09-27T06:31:04.123Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/blueline.md', 'blueline', 'Blue-lined flatworm', 'published', '
 ## Where seen?
 This small pale flatworm elegantly edged in blue with a central blue stripe is regularly encountered on many of our shores, on coral rubble near living reefs. ''Concinnus'' means ''elegant'' in Latin.
@@ -325438,7 +325438,7 @@ on
 
 ---
 {% include img-wrap-group.html items=page.galleries.gallery19 %}
-', '{}', '', '2026-09-26T19:00:11.707Z');
+', '{}', '', '2026-09-27T06:31:04.125Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/damawan.md', 'damawan', 'damawan', 'published', '
 ## Where seen?
 Sometimes seen on remote reefs and also seen by divers on our reefs.
@@ -325455,7 +325455,7 @@ Sometimes seen on remote reefs and also seen by divers on our reefs.
 **Acknowledgements**
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-', '{}', '', '2026-09-26T19:00:11.707Z');
+', '{}', '', '2026-09-27T06:31:04.125Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/dawn.md', 'dawn', 'dawn', 'published', '
 ## Where seen?
 This elegant flatworm is commonly seen on coral rubble near living reefs on many of our Southern shores. Like the first light of dawn, the dark to black flatworm has orange and white edges. Previously known as
@@ -325510,7 +325510,7 @@ With grateful thanks to Leslie H. Harris of the
 for comments on this worm and its identification.
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-', '{}', '', '2026-09-26T19:00:11.708Z');
+', '{}', '', '2026-09-27T06:31:04.126Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/felis.md', 'felis', 'Feline flatworm', 'published', '
 ## Where seen?
 Seen once on a remote reef. Although it looks like
@@ -325622,7 +325622,7 @@ for free download
 {% include img-wrap-group.html items=page.galleries.gallery15 %}
 ---
 {% include img-wrap-group.html items=page.galleries.gallery16 %}
-', '{}', '', '2026-09-26T19:00:11.710Z');
+', '{}', '', '2026-09-27T06:31:04.127Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/fuscopunctata.md', 'fuscopunctata', 'fuscopunctata', 'published', '
 ## Where seen?
 This well camouflaged worm is so far most commonly seen at Chek Jawa, among coral rubble usually at night.
@@ -325676,7 +325676,7 @@ With grateful thanks to Leslie H. Harris of the
 for comments on this worm and its identification.
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-', '{}', '', '2026-09-26T19:00:11.710Z');
+', '{}', '', '2026-09-27T06:31:04.128Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/indicus.md', 'indicus', 'indicus', 'published', '
 ## Where seen?
 This little flatworm with blue dots on its body margin is often seen on many of our shores. On rocky shores, on boulders and under stones, also near reefs.
@@ -325742,7 +325742,7 @@ Grateful thanks to Leslie H. Harris of the
 for comments on this worm and its identification.
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-', '{}', '', '2026-09-26T19:00:11.711Z');
+', '{}', '', '2026-09-27T06:31:04.129Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/laingensis.md', 'laingensis', 'laingensis', 'published', '
 ## Where seen?
 This delightfully spotted flatworm is sometimes seen on our Northern shores, among coral rubble. It seems to be seasonally common, with many of worms seen on one visit, and none later on. It is more active at night. The flatworm is named after Laing Island in Papua New Guinea.
@@ -325795,7 +325795,7 @@ for free download
 **Acknowledgement**
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-', '{}', '', '2026-09-26T19:00:11.711Z');
+', '{}', '', '2026-09-27T06:31:04.129Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/laingensis1.md', 'laingensis1', 'Purple-spotted yelllow flatworms (Polycladida) ', 'published', '
  
 galleries:
@@ -325828,7 +325828,7 @@ galleries:
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/worm/polycladida/laingensis/110518bbtch1m6l.jpg', '2026-09-26T19:00:11.712Z');
+}', 'https://images.naturehungry.sg/worm/polycladida/laingensis/110518bbtch1m6l.jpg', '2026-09-27T06:31:04.130Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/limnostylochus.md', 'limnostylochus', 'limnostylochus', 'published', '
 ## Where seen?
 This blood red flatworm is sometimes seen in numbers in shallow pools of water in our back mangroves. Particularly at night or the early morning.
@@ -325864,7 +325864,7 @@ for free download
 ---
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
 ---
-', '{}', '', '2026-09-26T19:00:11.712Z');
+', '{}', '', '2026-09-27T06:31:04.130Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/lineblue.md', 'lineblue', 'Blue-lined flatworm', 'published', '
 ## Where seen?
 This small pale flatworm elegantly edged in blue with a central blue stripe is regularly encountered on many of our shores, on coral rubble near living reefs. ''Concinnus'' means ''elegant'' in Latin.
@@ -326733,7 +326733,7 @@ for free download
 **Acknowledgement**
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-', '{}', '', '2026-09-26T19:00:11.715Z');
+', '{}', '', '2026-09-27T06:31:04.133Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/orangewhite.md', 'orangewhite', 'Halloween  flatworm', 'published', '
 ## Where seen?
 This black flatworm with orange and white ruffled margins is all ready for Halloween. It is sometimes seen on the reefs of some Southern shores.
@@ -328170,7 +328170,7 @@ for free download
 **Acknowledgement**
 
 Grateful thanks to Rene Ong for sharing details and identifying the flatworms on this page.
-', '{}', '', '2026-09-26T19:00:11.718Z');
+', '{}', '', '2026-09-27T06:31:04.137Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('entries', '_entries/worm/polycladida/scintillatus.md', 'scintillatus', 'Scintillating flatworm', 'published', '
 ## Where seen?
 More often seen by divers. On the intertidal, this tiny flatworm is sometimes seen on our shores.
@@ -330313,7 +330313,7 @@ Development should be carried out sensitively, such that vegetation could be ret
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Adam-Drive-1.jpg', '2026-09-26T19:00:11.723Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Adam-Drive-1.jpg', '2026-09-27T06:31:04.142Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/alexandrawoodlands.md', 'alexandrawoodlands', 'Alexandra Woodlands', 'published', '
 ## Ecological Significance
 
@@ -330393,7 +330393,7 @@ Alexandra Woodland could be **conserved and designated as a Nature Park**, with 
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Alexandra-Woodland-1.jpg', '2026-09-26T19:00:11.723Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Alexandra-Woodland-1.jpg', '2026-09-27T06:31:04.143Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/baharforest.md', 'baharforest', 'Bahar Forest', 'published', '
 ## Ecological Significance
 
@@ -330444,7 +330444,7 @@ The public feedback window for the EIA on Bahar’s forests closed in December 2
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Bahar-Forest-1.jpg', '2026-09-26T19:00:11.724Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Bahar-Forest-1.jpg', '2026-09-27T06:31:04.143Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/bukitbrowncemetery.md', 'bukitbrowncemetery', 'Bukit Brown Cemetery', 'published', '
 ## Ecological Significance
 
@@ -330503,7 +330503,7 @@ More vegetation could be retained at the fringe of the golf course north of Buki
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Bukit-Brown-1.jpg', '2026-09-26T19:00:11.724Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Bukit-Brown-1.jpg', '2026-09-27T06:31:04.143Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/clementi-maju.md', 'clementi-maju', 'Clementi-Maju', 'published', '
 Clementi and Maju forests have entered popular consciousness in recent years, first when COVID restrictions prompted many to explore Singapore’s more ‘untouched’ green spaces. Most recently, HDB’s plan to develop part of Maju forest into residential estate has drawn backlash from nature enthusiasts and residents from the nearby Sunset Way estate.
 
@@ -330581,7 +330581,7 @@ The future of Clementi-Maju has become the subject of considerable public discus
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Clementi-Maju-1.jpg', '2026-09-26T19:00:11.724Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Clementi-Maju-1.jpg', '2026-09-27T06:31:04.143Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/index.html', 'index', 'Our Wild Spaces 2.0', 'published', '<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script src="https://unpkg.com/leaflet-providers@latest/leaflet-providers.js"></script>
@@ -330901,7 +330901,7 @@ generations will be proud to call their own.
   "title": "Our Wild Spaces 2.0",
   "description": "Information about the various terrestrial habitats in Singapore with an interactive map",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.724Z');
+}', '', '2026-09-27T06:31:04.144Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/loyangmangroves.md', 'loyangmangroves', 'Loyang Mangroves', 'published', '
 ## Ecological Significance
 
@@ -330942,7 +330942,7 @@ The adjacent abandoned-land forest likely supplies the Loyang Mangroves with sed
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Loyang-Mangroves-1.jpg', '2026-09-26T19:00:11.724Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Loyang-Mangroves-1.jpg', '2026-09-27T06:31:04.144Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/serangoonriverforest.md', 'serangoonriverforest', 'Serangoon River Forest', 'published', '
 ## Ecological Significance
 
@@ -330977,7 +330977,7 @@ An EIA should be conducted to assess the overall impact on connectivity as the f
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Serangoon-River-Forest-1.jpg', '2026-09-26T19:00:11.725Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Serangoon-River-Forest-1.jpg', '2026-09-27T06:31:04.144Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/tagore-springleaf.md', 'tagore-springleaf', 'Tagore-Springleaf', 'published', '
 ## Ecological Significance
 
@@ -331025,7 +331025,7 @@ Planning efforts should prioritise alternative development sites in the surround
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Tagore-Springleaf-2.jpg', '2026-09-26T19:00:11.725Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Tagore-Springleaf-2.jpg', '2026-09-27T06:31:04.144Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/tohtuckforest.md', 'tohtuckforest', 'Toh Tuck Forest', 'published', '
 ## Ecological Significance
 
@@ -331062,7 +331062,7 @@ A concrete canal currently runs through Toh Tuck and Sleepy Valley, which could 
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Toh-Tuck-1.jpg', '2026-09-26T19:00:11.725Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Toh-Tuck-1.jpg', '2026-09-27T06:31:04.144Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/OurWildSpaces2.0/ulusembawang.md', 'ulusembawang', 'Ulu Sembawang', 'published', '
 ## Ecological Significance
 
@@ -331105,7 +331105,7 @@ Together, these areas could form a continuous ecological corridor linking Mandai
       }
     ]
   }
-}', 'https://images.naturehungry.sg/photos/OWS2/Ulu-Sembawang-1.jpg', '2026-09-26T19:00:11.725Z');
+}', 'https://images.naturehungry.sg/photos/OWS2/Ulu-Sembawang-1.jpg', '2026-09-27T06:31:04.144Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/concepts/aquaculture.md', 'aquaculture', 'Fish Farming and Aquaculture', 'published', '
 If you learn only 3 things about the issue...  
 - Commercial fish farms can impact the surrounding habitats.   
@@ -332730,7 +332730,7 @@ errors? Have a question? Want to share your sightings? [email
 Ria](mailto:hello@wildsingapore.com) I''ll be glad to hear from you!
 wildfactsheets
 website©ria tan 2008
-', '{}', '', '2026-09-26T19:00:11.728Z');
+', '{}', '', '2026-09-27T06:31:04.148Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfbigstars.md', 'cfbigstars', 'Big       sea stars', 'published', '
 ******
 Several different kinds of big flat sea stars commonly seen on our shores look similar.
@@ -332948,7 +332948,7 @@ galleries:
     "intertidal",
     "marine"
   ]
-}', 'https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg', '2026-09-26T19:00:11.729Z');
+}', 'https://images.naturehungry.sg/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg', '2026-09-27T06:31:04.148Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cffan.md', 'cffan', 'Fan-shaped green seaweeds compared', 'published', '
  
 galleries:
@@ -333208,7 +333208,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "fish, flat, head, flathead, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.730Z');
+}', '', '2026-09-27T06:31:04.149Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfgrapes.md', 'cfgrapes', 'Sea grapes compared', 'published', '
 Here''s how to tell apart these two green seaweeds with little round shapes.
 
@@ -333402,7 +333402,7 @@ plants](http://www.flickr.com/photos/54527470@N00/sets/72157600057953536). Make 
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.730Z');
+}', '', '2026-09-27T06:31:04.149Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfketapang.md', 'cfketapang', 'Sea almond and similar trees compared ', 'published', '[![](../../../Templates/wildfactsheet3.gif)](../../indexl)
 
 [wildsingapore
@@ -333511,7 +333511,7 @@ plants](http://www.flickr.com/photos/54527470@N00/sets/72157600057953536). Make 
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "guettarda, speciosa, terminalia, catappa, ketapang, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.730Z');
+}', '', '2026-09-27T06:31:04.149Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cflargecnidarians.md', 'cflargecnidarians', 'Large ''hairy'' cnidarians on Singapore shores: how to tell them apart', 'published', 'cnidarians [text
 index](cnidariaindex.htm) | [photo index](cnidariafi2.htm)
 Phylum [Cnidaria](cnidaria.htm)
@@ -333694,7 +333694,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "feathery, worm, fan, fanworm, feather, star, cucumber, polychaeta, sabellidae, echinodermata, crinoidea, holothuroidea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.730Z');
+}', '', '2026-09-27T06:31:04.149Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfleaf.md', 'cfleaf', 'How to tell apart stick-like fishes on Singapore shores', 'published', '[![](../../../wildfactsheet3.gif)](../../index.html)
 
 [wildsingapore
@@ -333795,7 +333795,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "fish, flat, head, flathead, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.730Z');
+}', '', '2026-09-27T06:31:04.150Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cflimpets.md', 'cflimpets', 'Various kinds of limpets', 'published', '
 **Limpets Look-alike**
 Different kinds of
@@ -334527,7 +334527,7 @@ seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.c
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "flat, worm, flatworm, polyclad, slug, nudibranch, nudibranchia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.733Z');
+}', '', '2026-09-27T06:31:04.152Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfringtentacles.md', 'cfringtentacles', 'cfringtentacles', 'published', 'cnidarians [text
 index](cnidariaindex.htm) | [photo index](cnidariafi2.htm)
 Phylum [Cnidaria](cnidaria.htm)
@@ -334603,7 +334603,7 @@ errors? Have a question? Want to share your sightings? [email
 Ria](mailto:hello@wildsingapore.com) I''ll be glad to hear from you!
 wildfactsheets
 website©ria tan 2008
-', '{}', '', '2026-09-26T19:00:11.733Z');
+', '{}', '', '2026-09-27T06:31:04.152Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfseafile.md', 'cfseafile', 'Banded marine snakes', 'published', '
 **Banded confusion**
 Both the Yellow-lipped sea snake and the Banded file snake are banded snakes with tapered tails that are sometimes encountered on our shores. Here''s how to tell them apart.
@@ -334804,7 +334804,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "fish, flat, head, flathead, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.733Z');
+}', '', '2026-09-27T06:31:04.152Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfsmallring.md', 'cfsmallring', 'cfsmallring', 'published', '[![](../../../Templates/wildfactsheet3.gif)](../../index.html)
 
 [wildsingapore
@@ -334893,7 +334893,7 @@ errors? Have a question? Want to share your sightings? [email
 Ria](mailto:hello@wildsingapore.com) I''ll be glad to hear from you!
 wildfactsheets
 website©ria tan 2008
-', '{}', '', '2026-09-26T19:00:11.733Z');
+', '{}', '', '2026-09-27T06:31:04.153Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfstick.md', 'cfstick', 'How to tell apart stick-like fishes on Singapore shores', 'published', '[![](../../../wildfactsheet3.gif)](../../index.html)
 
 [wildsingapore
@@ -335064,7 +335064,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "fish, flat, head, flathead, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.733Z');
+}', '', '2026-09-27T06:31:04.153Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfstonefish.md', 'cfstonefish', 'Fishes that look like stones on Singapore shores: how to tell them apart', 'published', '[![](../../../wildfactsheet3.gif)](../../index.html)
 
 [wildsingapore
@@ -335248,7 +335248,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "fish, stone, toad, frog, scorpion, venomous, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.734Z');
+}', '', '2026-09-27T06:31:04.153Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/guides/cfstriped.md', 'cfstriped', 'Flatworms with one central line', 'published', '
 These small flatworms with one central line along the length of the body may look similar at first glance.
 
@@ -335858,7 +335858,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
 ', '{
   "title": "Mudflat",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.735Z');
+}', '', '2026-09-27T06:31:04.157Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/habitats/rocky-shore.md', 'rocky-shore', 'Rocky Shore', 'published', '
 A shore with lots of boulders, rocks and stones is called a rocky shore (surprise!). Such shores are often found at the base of natural cliffs which are cloaked in a coastal forest. The rocky shore is a result of the natural, gradual erosion of such cliffs. At the low water mark, a rocky shore may gradually merge with a coral rubble area. Even artificial surfaces such as seawalls, jetty legs and large trash on the shore provide hard surfaces for dwellers adapted to a rocky shore. While the rocks may appear barren, they are usually full of life! Take a closer look!
 
@@ -336046,16 +336046,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/) for free download.
       }
     ]
   }
-}', '', '2026-09-26T19:00:11.736Z');
+}', '', '2026-09-27T06:31:04.157Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/habitats/seagrass-meadow.md', 'seagrass-meadow', 'Seagrass Meadow', 'published', '
 ', '{
   "title": "Seagrass Meadow",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.736Z');
+}', '', '2026-09-27T06:31:04.157Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/habitats/wetland.md', 'wetland', 'Wetland', 'published', '', '{
   "title": "Wetland",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.736Z');
+}', '', '2026-09-27T06:31:04.158Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/habitats/youngsecondaryforest.md', 'youngsecondaryforest', 'Young Secondary Forest', 'published', '
 There are two kinds of young secondary forest. They can be classified as [exotic-dominated secondary forest](/articles/habitats/exotic-dominated-secondary-forest), or as [native-dominated secondary forest](/articles/habitats/exotic-dominated-secondary-forest).
 
@@ -336150,7 +336150,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "coverimg": null,
   "habitats": "rocky-shore, coral, coastalvegetation",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.736Z');
+}', '', '2026-09-27T06:31:04.158Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/lowlandforest/bukit-timah-nature-reserve.md', 'bukit-timah-nature-reserve', 'bukit timah nature reserve', 'published', '
 The Bukit Timah Nature Reserve is home to a **primary forest**, near the summit of the hill. If you visit Jungle Fall Trail, you will be able to see the primary forest.
 
@@ -336166,8 +336166,8 @@ Birds found in this place:
 - [Red-crowned Barbet]()
 - [Little Spiderhunter]()
 -
-', '{}', '', '2026-09-26T19:00:11.737Z');
-INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/lowlandforest/central-catchment-nature-reserve.md', 'central-catchment-nature-reserve', 'central catchment nature reserve', 'published', '', '{}', '', '2026-09-26T19:00:11.737Z');
+', '{}', '', '2026-09-27T06:31:04.158Z');
+INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/lowlandforest/central-catchment-nature-reserve.md', 'central-catchment-nature-reserve', 'central catchment nature reserve', 'published', '', '{}', '', '2026-09-27T06:31:04.158Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/lowlandforest/tagore.md', 'tagore', 'Tagore Forest', 'published', '
 ', '{
   "title": "Tagore Forest",
@@ -336176,7 +336176,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "lowlandforest, youngsecondaryforest",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.737Z');
+}', '', '2026-09-27T06:31:04.158Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/young-secondary-forest/aw.md', 'aw', 'Alexandra Woodland', 'published', '
 ', '{
   "title": "Alexandra Woodland",
@@ -336185,7 +336185,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "youngsecondaryforest",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.737Z');
+}', '', '2026-09-27T06:31:04.158Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/young-secondary-forest/bahar.md', 'bahar', 'Bahar Forest', 'published', '
 ', '{
   "title": "Bahar Forest",
@@ -336194,7 +336194,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "youngsecondaryforest",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.737Z');
+}', '', '2026-09-27T06:31:04.158Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/young-secondary-forest/bukitbatok.md', 'bukitbatok', 'Bukit Batok Nature Corridor', 'published', '
 ', '{
   "title": "Bukit Batok Nature Corridor",
@@ -336203,7 +336203,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "youngsecondaryforest",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.737Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/young-secondary-forest/bukitbrown.md', 'bukitbrown', 'Bukit Brown Cemetery', 'published', '
 ', '{
   "title": "Bukit Brown Cemetery",
@@ -336212,7 +336212,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "youngsecondaryforest",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.737Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/young-secondary-forest/clemmaju.md', 'clemmaju', 'Clementi-Maju', 'published', '
 ', '{
   "title": "Clementi-Maju",
@@ -336221,7 +336221,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "youngsecondaryforest, freshwaterbody, fwsf",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.737Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/young-secondary-forest/tengah.md', 'tengah', 'Tengah Forest', 'published', '
 ', '{
   "title": "Tengah Forest",
@@ -336230,7 +336230,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "youngsecondaryforest, freshwaterbody",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.737Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/forest/young-secondary-forest/tnp.md', 'tnp', 'Thomson Nature Park', 'published', '
 ', '{
   "title": "Thomson Nature Park",
@@ -336239,7 +336239,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "youngsecondaryforest",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.737Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/gardensandparks/bamk.md', 'bamk', 'Bishan-Ang Mo Kio Park', 'published', '
 ', '{
   "title": "Bishan-Ang Mo Kio Park",
@@ -336248,7 +336248,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "freshwaterbody, garden, grassland",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.737Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/gardensandparks/ecp.md', 'ecp', 'East Coast Park', 'published', '', '{
   "title": "East Coast Park",
   "summary": null,
@@ -336256,7 +336256,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "garden",
   "locationgroup": "terrestrial"
-}', 'https://images.naturehungry.sg/photos/LandReclamation/EastCoastPark.jpg', '2026-09-26T19:00:11.737Z');
+}', 'https://images.naturehungry.sg/photos/LandReclamation/EastCoastPark.jpg', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/gardensandparks/sbg.md', 'sbg', 'Singapore Botanic Gardens', 'published', '
 ', '{
   "title": "Singapore Botanic Gardens",
@@ -336265,7 +336265,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "wetland, garden, youngsecondaryforest",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.738Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/grassland/jlg-lonetree.md', 'jlg-lonetree', 'Jurong Lake Gardens Lone Tree Grassland', 'published', '
 ', '{
   "title": "Jurong Lake Gardens Lone Tree Grassland",
@@ -336274,7 +336274,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "grassland",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.738Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/grassland/lorongladahitam.md', 'lorongladahitam', 'Lorong Lada Hitam Grassland', 'published', '
 ', '{
   "title": "Lorong Lada Hitam Grassland",
@@ -336283,7 +336283,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "youngsecondaryforest, grassland",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.738Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/betingbronok.md', 'betingbronok', 'Beting Bronok', 'published', '
 ## About the name
 
@@ -336324,7 +336324,7 @@ Beting Bronok currently is not listed as anything in the [URA Master Plan 2025](
     ]
   },
   "habitats": "rocky shore, coralrubble, coral"
-}', '', '2026-09-26T19:00:11.738Z');
+}', '', '2026-09-27T06:31:04.159Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/chekjawa.md', 'chekjawa', 'Chek Jawa', 'published', '
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/wildsingapore/422908615/in/dateposted/" title="After deferment: the work goes on"><img src="https://live.staticflickr.com/65535/422908615_5168b4c7df_b.jpg" width="1024" height="768" alt="After deferment: the work goes on"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 Siva guiding nonchalantly while a wild boar roams nearby.
@@ -336420,7 +336420,7 @@ photos of Pulau Semakau from wildsingapore flickr](https://www.flickr.com/photos
     ]
   },
   "habitats": "coral, rocky-shore, seagrass-meadow"
-}', '', '2026-09-26T19:00:11.738Z');
+}', '', '2026-09-27T06:31:04.160Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/betingbembanbesar.md', 'betingbembanbesar', 'Beting Bemban Besar', 'published', '
 [main index](index.html) to Singapore''s Southern shores for the [southern expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/)
 | [facebook page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
@@ -336556,7 +336556,7 @@ Does not appear on the [URA Master Plan 2008](http://www.ura.gov.sg/uramaps/?con
   "coverimg": "https://images.naturehungry.sg/photos/LandReclamation/CyreneReef.jpg",
   "habitats": "sandy-shore, coral, seagrass-meadow",
   "locationgroup": "southernislands"
-}', 'https://images.naturehungry.sg/photos/LandReclamation/CyreneReef.jpg', '2026-09-26T19:00:11.738Z');
+}', 'https://images.naturehungry.sg/photos/LandReclamation/CyreneReef.jpg', '2026-09-27T06:31:04.160Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/hantu.md', 'hantu', 'Pulau Hantu and Terumbu Hantu', 'published', '
 ## Pulau Hantu
 1° 13.539''N 103° 44.977''E  
@@ -336792,7 +336792,7 @@ the Hantu Blog
   },
   "habitats": "coral, mangrove, coralrubble, garden",
   "locationgroup": "southernislands"
-}', 'https://live.staticflickr.com/4400/36492421465_e25554c442_c.jpg', '2026-09-26T19:00:11.739Z');
+}', 'https://live.staticflickr.com/4400/36492421465_e25554c442_c.jpg', '2026-09-27T06:31:04.160Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/jong.md', 'jong', 'Pulau Jong ', 'published', ' 
 
 [main index](index.html) to Singapore''s Southern shores
@@ -336876,7 +336876,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "rocky-shore, coastalvegetation, coral, coral-rubble",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.739Z');
+}', '', '2026-09-27T06:31:04.160Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/kusu.md', 'kusu', 'Kusu Island ', 'published', ' 
 
 [main index](index.html) to Singapore''s Southern shores
@@ -336987,7 +336987,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "coral",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.739Z');
+}', '', '2026-09-27T06:31:04.160Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/lazarus.md', 'lazarus', 'Lazarus Island and Seringat-Kias ', 'published', ' 
 
 [main index](index.html) to Singapore''s Southern shores
@@ -337119,7 +337119,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "coral, coastalvegetation, youngsecondaryforest",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.739Z');
+}', '', '2026-09-27T06:31:04.160Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/livefiringarea.md', 'livefiringarea', 'The Life Firing Area islands and reefs', 'published', '
 The last untouched southern shores are found among the islands and
 submerged reefs that lie within the Life Firing Area. Habitats found
@@ -337254,7 +337254,7 @@ or *Saluran*=Gutter or channel;
   "summary": "The last untouched southern shores are found among the islands and submerged reefs that lie within the Life Firing Area. Habitats found here include coastal forest, mangroves, rocky shores, seagrass meadows, rubbly areas and good reefs.",
   "habitats": "coastalvegetation, mangrove, rocky-shore, seagrass-meadow, coral",
   "locationgroup": "southernislands"
-}', 'https://live.staticflickr.com/4011/4250583581_89bbf49724_h.jpg', '2026-09-26T19:00:11.739Z');
+}', 'https://live.staticflickr.com/4011/4250583581_89bbf49724_h.jpg', '2026-09-27T06:31:04.161Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/raffleslighthouse.md', 'raffleslighthouse', 'Raffles Lighthouse (Pulau Satumu) ', 'published', ' 
 
 [main index](index.html) to Singapore''s Southern shores
@@ -337354,7 +337354,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "rocky-shore, coral",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.739Z');
+}', '', '2026-09-27T06:31:04.161Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/semakau.md', 'semakau', 'Pulau Semakau ', 'published', '## History
 
 In 1999, when the last remaining landfill on Singapore''s mainland was exhausted, the Semakau Landfill was created by enclosing part of Pulau Semakau and all of a small adjacent island (Pulau Sakeng) with a rock bund. All of Singapore’s waste now ends up in this Landfill, i.e., ash from the incineration plants and all non-incinerable waste. The parts of Pulau Semakau that was not destroyed remains natural.
@@ -337517,7 +337517,7 @@ photos of Pulau Semakau from wildsingapore flickr](https://www.flickr.com/photos
   },
   "habitats": "coral, coralrubble, mangrove",
   "locationgroup": "southernislands"
-}', 'https://live.staticflickr.com/65535/54625359633_94af59fc3b_c.jpg', '2026-09-26T19:00:11.739Z');
+}', 'https://live.staticflickr.com/65535/54625359633_94af59fc3b_c.jpg', '2026-09-27T06:31:04.161Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/sentosa.md', 'sentosa', 'Sentosa Tanjung Rimau ', 'published', ' 
 
 [main index](index.html) to Singapore''s Southern shores
@@ -337625,7 +337625,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "coastalvegetation, rocky-shore, coral, sandy-shore",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.739Z');
+}', '', '2026-09-27T06:31:04.161Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/sistersisland.md', 'sistersisland', 'The Sisters Islands ', 'published', '
 [main index](index.html) to Singapore''s Southern shores
 for the [southern
@@ -337758,7 +337758,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "coral, rocky-shore,  coralrubble",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.740Z');
+}', '', '2026-09-27T06:31:04.161Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/stjohnsisland.md', 'stjohnsisland', 'St. John''s Island ', 'published', ' 
 [main index](index.html) to Singapore''s Southern shores for the [southern expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/) | [facebook page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
 
@@ -337885,7 +337885,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "coral, coastalvegetation, youngsecondaryforest, mangrove",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.740Z');
+}', '', '2026-09-27T06:31:04.161Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/tekukor.md', 'tekukor', 'Pulau Tekukor ', 'published', '
 [main index](index.html) to Singapore''s Southern shores for the [southern expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/) | [facebook page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
 
@@ -337966,7 +337966,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "coastalvegetation, coralrubble, coral",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.740Z');
+}', '', '2026-09-27T06:31:04.161Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/terumbubemban.md', 'terumbubemban', 'Terumbu Bemban ', 'published', '
 [main index](index.html) to Singapore''s Southern shores for the [southern expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/) | [facebook page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
 
@@ -338050,7 +338050,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "sandy-shore, coral",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.740Z');
+}', '', '2026-09-27T06:31:04.161Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/terumbupempanglaut.md', 'terumbupempanglaut', 'Terumbu Pempang Laut', 'published', '
 ## Habitats
 Central area sandy with some seagrasses, large rocky areas, rubbly edges sparsely reefy.  
@@ -338115,7 +338115,7 @@ website©ria tan 2008
   "coverimg": "https://live.staticflickr.com/65535/55377132175_44f6241ae6_c.jpg",
   "habitats": "sandy-shore, rocky-shore, coral",
   "locationgroup": "southernislands"
-}', 'https://live.staticflickr.com/65535/55377132175_44f6241ae6_c.jpg', '2026-09-26T19:00:11.740Z');
+}', 'https://live.staticflickr.com/65535/55377132175_44f6241ae6_c.jpg', '2026-09-27T06:31:04.161Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/terumbupempangtengah.md', 'terumbupempangtengah', 'Terumbu Pempang Tengah ', 'published', '
 ## Habitats
 
@@ -338190,7 +338190,7 @@ The intertidal area is regularly surveyed by [wildsingapore](https://wildshores.
   },
   "habitats": "sandy-shore, coral",
   "locationgroup": "southernislands"
-}', 'https://live.staticflickr.com/65535/54522245644_9fc5a451c5_c.jpg', '2026-09-26T19:00:11.740Z');
+}', 'https://live.staticflickr.com/65535/54522245644_9fc5a451c5_c.jpg', '2026-09-27T06:31:04.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/terumburaya.md', 'terumburaya', 'Terumbu Raya ', 'published', ' 
 
 [main index](index.html) to Singapore''s Southern shores
@@ -338277,7 +338277,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "sandy-shore, coral",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.740Z');
+}', '', '2026-09-27T06:31:04.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/intertidal/southernislands/terumbusemakau.md', 'terumbusemakau', 'Terumbu Semakau ', 'published', '
 [main index](index.html) to Singapore''s Southern shores for the [southern expedition](http://megamarinesurvey.blogspot.sg/search/label/Southern%20Expedition) | mega marine survey [blog](http://megamarinesurvey.blogspot.sg/) | [facebook page](https://www.facebook.com/pages/Mega-Marine-Survey-of-Singapore/136892629681549)
 
@@ -338349,7 +338349,7 @@ website©ria tan 2008
   "layout": "default",
   "habitats": "rocky-shore, sandy-shore, coral",
   "locationgroup": "southernislands"
-}', '', '2026-09-26T19:00:11.740Z');
+}', '', '2026-09-27T06:31:04.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/tekong.md', 'tekong', 'Pulau Tekong', 'published', '
 Pulau Tekong was pubicly accessible up until 1987, after which it was restricted and the entire island would be fully utilised by the Singapore Armed Forces.
 
@@ -338375,7 +338375,7 @@ The
   "layout": "default",
   "habitats": "mangrove, lowlandforest, coastalvegetation, coral, mudflat",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.740Z');
+}', '', '2026-09-27T06:31:04.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/ubin.md', 'ubin', 'Pulau Ubin', 'published', '
 ', '{
   "title": "Pulau Ubin",
@@ -338383,7 +338383,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "youngsecondaryforest, mangrove, wetland",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.740Z');
+}', '', '2026-09-27T06:31:04.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/wetland/jlg-floatingwetland.md', 'jlg-floatingwetland', 'Jurong Lake Gardens Floating Wetlands', 'published', '
 ', '{
   "title": "Jurong Lake Gardens Floating Wetlands",
@@ -338392,7 +338392,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "freshwaterbody, wetland",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.740Z');
+}', '', '2026-09-27T06:31:04.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('articles', '_articles/locations/wetland/sbwr.md', 'sbwr', 'Sungei Buloh Wetland Reserve', 'published', '
 ', '{
   "title": "Sungei Buloh Wetland Reserve",
@@ -338401,7 +338401,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "layout": "default",
   "habitats": "mangroves, mudflat",
   "locationgroup": "terrestrial"
-}', '', '2026-09-26T19:00:11.741Z');
+}', '', '2026-09-27T06:31:04.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/animals.html', 'animals', 'Photo index of Animals in Singapore', 'published', '
 {% include global/header.html %}
 
@@ -338508,7 +338508,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
 {% include global/footer.html %}', '{
   "title": "Photo index of Animals in Singapore",
   "description": "A visual guide to Singapore''s fauna and flora organized by taxonmic ranks and common features"
-}', '', '2026-09-26T19:00:11.741Z');
+}', '', '2026-09-27T06:31:04.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/barnacles.md', 'barnacles', 'Barnacles', 'published', '
 
 {% assign filtered_posts = site.entries | where_exp: "item", "item.infraclass==''Cirripedia'' "%}
@@ -338533,7 +338533,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.741Z');
+}', '', '2026-09-27T06:31:04.162Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/crab/large.md', 'large', 'Large crabs', 'published', '
 Large crabs: body width > 6cm not including swimming crabs
 
@@ -338564,7 +338564,7 @@ Large crabs: body width > 6cm not including swimming crabs
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.741Z');
+}', '', '2026-09-27T06:31:04.163Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/crab/medium.md', 'medium', 'Medium sized crabs', 'published', '
 Medium sized crabs: body width 3-5cm
 
@@ -338599,7 +338599,7 @@ Medium sized crabs: body width 3-5cm
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.741Z');
+}', '', '2026-09-27T06:31:04.163Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/crab/small.md', 'small', 'Small crabs', 'published', '
 Small crabs: body width < 3 cm
 
@@ -338630,7 +338630,7 @@ Small crabs: body width < 3 cm
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.741Z');
+}', '', '2026-09-27T06:31:04.163Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/crab/smalleyestalks.md', 'smalleyestalks', 'Small crabs with long eye stalks', 'published', '
 Small crabs with long eye stalks and body width
 
@@ -338656,7 +338656,7 @@ Small crabs with long eye stalks and body width
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.742Z');
+}', '', '2026-09-27T06:31:04.163Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/crab/swimming.md', 'swimming', 'Swimming crabs', 'published', '
 Crabs with last pair of legs paddle-shaped
 
@@ -338682,7 +338682,7 @@ Crabs with last pair of legs paddle-shaped
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.742Z');
+}', '', '2026-09-27T06:31:04.163Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/crab.html', 'crab', 'crab', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 width=150 %}
   <div>
@@ -338703,7 +338703,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
 </div>
 {% endfor %}
 <br/>
-', '{}', '', '2026-09-26T19:00:11.742Z');
+', '{}', '', '2026-09-27T06:31:04.164Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/crabfi.md', 'crabfi', 'Photo index of crabs on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -338839,7 +338839,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.742Z');
+}', '', '2026-09-27T06:31:04.164Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/hermit.md', 'hermit', 'Hermit crabs', 'published', 'crab-like animals that live in snail shells
 
 {% assign filtered_posts = site.entries | where_exp: "item", "item.infraorder==''Anomura'' and item.superfamily ==''Paguroidea'' "%}
@@ -338864,7 +338864,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.743Z');
+}', '', '2026-09-27T06:31:04.164Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/other.md', 'other', 'Other crustaceans', 'published', '
 
 {% assign filtered_posts = site.entries | where_exp: "item", "item.order==''Isopoda'' or item.order  ==''Amphipoda'' or item.class==''Ostracoda''"%}
@@ -338889,7 +338889,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.743Z');
+}', '', '2026-09-27T06:31:04.164Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/porcelain.md', 'porcelain', 'Porcelain crabs', 'published', 'tiny flat crabs with three pairs of walking legs
 
 {% assign filtered_posts = site.entries | where_exp: "item", "item.infraorder==''Anomura'' and item.superfamily ==''Galatheoidea'' "%}
@@ -338914,7 +338914,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.743Z');
+}', '', '2026-09-27T06:31:04.164Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/shrimp/big.md', 'big', 'Prawns & Lobsters', 'published', '
 Large prawns and lobsters > 3cm
 
@@ -338946,7 +338946,7 @@ Large prawns and lobsters > 3cm
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.743Z');
+}', '', '2026-09-27T06:31:04.164Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/shrimp/small.md', 'small', 'Shrimps', 'published', '
 Small shrimps and shrimp-like animals < 3cm
 
@@ -338978,7 +338978,7 @@ Small shrimps and shrimp-like animals < 3cm
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.743Z');
+}', '', '2026-09-27T06:31:04.164Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea/shrimp.md', 'shrimp', 'Photo index of shrimp-like crustaceans', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -339026,7 +339026,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.743Z');
+}', '', '2026-09-27T06:31:04.165Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropoda/crustacea.md', 'crustacea', 'Photo index of crustaceans on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -339137,7 +339137,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.743Z');
+}', '', '2026-09-27T06:31:04.165Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/arthropods.html', 'arthropods', 'Photo index', 'published', '
 {% include global/header.html %}
 
@@ -339211,7 +339211,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
 
 {% include global/footer.html %}', '{
   "title": "Photo index"
-}', '', '2026-09-26T19:00:11.743Z');
+}', '', '2026-09-27T06:31:04.165Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/ascidians.md', 'ascidians', 'Photo index of Ascidians', 'published', '
 Tunicates and ascidians
 
@@ -339257,7 +339257,7 @@ Tunicates and ascidians
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.744Z');
+}', '', '2026-09-27T06:31:04.165Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemone.md', 'anemone', 'Sea anemones and anemone-like animals', 'published', '
 
 a central mouth; a ring of tentacles, or a disk covered with short tentacles (sometimes just bumps).
@@ -339443,7 +339443,7 @@ how to tell apart
       ]
     }
   ]
-}', '', '2026-09-26T19:00:11.744Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemone_10_frilly.md', 'anemone_10_frilly', 'Cnidarians on Singapore shores', 'published', '
 
 ## sea anemones and anemone-like animals
@@ -339491,7 +339491,7 @@ diameter > 10cm, with smooth tentacles
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.744Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemone_10_smooth.md', 'anemone_10_smooth', 'Cnidarians on Singapore shores', 'published', '
 
 ## sea anemones and anemone-like animals
@@ -339561,7 +339561,7 @@ diameter > 10cm, with smooth tentacles
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.744Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemone_3-5_long.md', 'anemone_3-5_long', 'Cnidarians on Singapore shores', 'published', '
 
 ## sea anemones and anemone-like animals
@@ -339615,7 +339615,7 @@ diameter 3-5cm, long tentacles
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.744Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemone_3-5_short.md', 'anemone_3-5_short', 'Cnidarians on Singapore shores', 'published', '
 
 ## sea anemones and anemone-like animals
@@ -339675,7 +339675,7 @@ polyp diameter 3-5cm short tentacles
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.744Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemone_5-10.md', 'anemone_5-10', 'Cnidarians on Singapore shores', 'published', '
 
 ## sea anemones and anemone-like animals
@@ -339735,7 +339735,7 @@ diameter 5-10cm
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.744Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemone_lt3.md', 'anemone_lt3', 'Photo index of cnidarians in Singapore', 'published', '
 
 ### sea anemones and anemone-like animals with polyp diameter < 3cm
@@ -339803,7 +339803,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.744Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemonefi3.md', 'anemonefi3', 'Sea anemones and anemone-like animals on Singapore shores: photo index', 'published', 'cnidarians [text
 index](cnidariaindex.htm) | [photo index](cnidariafi2.htm)
 Phylum [Cnidaria](cnidaria.htm)
@@ -339956,7 +339956,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.745Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemonefi4.md', 'anemonefi4', 'Sea anemones and anemone-like animals on Singapore shores: photo index', 'published', 'cnidarians [text
 index](cnidariaindex.htm) | [photo index](cnidariafi2.htm)
 Phylum [Cnidaria](cnidaria.htm)
@@ -340113,7 +340113,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.745Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemonefi5.md', 'anemonefi5', 'Sea anemones and anemone-like animals on Singapore shores: photo index', 'published', 'cnidarians [text
 index](cnidariaindex.htm) | [photo index](cnidariafi2.htm)
 Phylum [Cnidaria](cnidaria.htm)
@@ -340277,7 +340277,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.745Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemonefi6.md', 'anemonefi6', 'Sea anemones and anemone-like animals on Singapore shores: photo index', 'published', 'cnidarians [text
 index](cnidariaindex.htm) | [photo index](cnidariafi2.htm)
 Phylum [Cnidaria](cnidaria.htm)
@@ -340428,7 +340428,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.745Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemonefi7.md', 'anemonefi7', 'Sea anemones and anemone-like animals on Singapore shores: photo index', 'published', 'cnidarians [text
 index](cnidariaindex.htm) | [photo index](cnidariafi2.htm)
 Phylum [Cnidaria](cnidaria.htm)
@@ -340671,7 +340671,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.745Z');
+}', '', '2026-09-27T06:31:04.166Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/anemonefi8.md', 'anemonefi8', 'Cerianthids (Ceriantharia) on Singapore shores: photo index', 'published', 'cnidarians [text
 index](cnidariaindex.htm) | [photo index](cnidariafi2.htm)
 Phylum [Cnidaria](cnidaria.htm)
@@ -340791,7 +340791,7 @@ website©ria tan 2008
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.745Z');
+}', '', '2026-09-27T06:31:04.167Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/actiniara/cerianthids.md', 'cerianthids', 'Cerianthids on Singapore shores', 'published', '
 
 outer ring of long tentacles, inner ring of very short tentacles, makes a tube to live in.
@@ -340828,7 +340828,7 @@ outer ring of long tentacles, inner ring of very short tentacles, makes a tube t
   "description": "Fact sheet with photos on flora and fauna of Singapore''s intertidal shores",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.745Z');
+}', '', '2026-09-27T06:31:04.167Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/anemonefi1.md', 'anemonefi1', 'Photo index of cnidarians on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -341037,7 +341037,7 @@ These
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.745Z');
+}', '', '2026-09-27T06:31:04.167Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/cnidariafi1.md', 'cnidariafi1', 'Photo index of hard corals on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -341283,7 +341283,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.746Z');
+}', '', '2026-09-27T06:31:04.167Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/boulder.html', 'boulder', 'Hard corals on Singapore shores', 'published', '
 <p>Colony boulder-shaped</p>
 <br>
@@ -341406,7 +341406,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
       ]
     }
   ]
-}', '', '2026-09-26T19:00:11.746Z');
+}', '', '2026-09-27T06:31:04.168Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/boulderhex.html', 'boulderhex', 'Hard corals on Singapore shores', 'published', '
 <p>Colony boulder-shaped, corallites hexagonal</p>
 <br>
@@ -341442,7 +341442,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.746Z');
+}', '', '2026-09-27T06:31:04.168Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/bouldermaze.html', 'bouldermaze', 'Hard corals on Singapore shores', 'published', '
 <p>Colony boulder-shaped, corallite brain and maze patterns</p>
 <br>
@@ -341479,7 +341479,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.746Z');
+}', '', '2026-09-27T06:31:04.168Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/boulderother.html', 'boulderother', 'Hard corals on Singapore shores', 'published', '
 <p>Colony boulder-shaped, other corallite patterns</p>
 <br>
@@ -341516,7 +341516,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.746Z');
+}', '', '2026-09-27T06:31:04.168Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/boulderring.html', 'boulderring', 'Hard corals on Singapore shores', 'published', '
 <p>Colony boulder-shaped, corallites circular or ring-shaped</p>
 <br>
@@ -341565,7 +341565,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.747Z');
+}', '', '2026-09-27T06:31:04.168Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/branching.html', 'branching', 'Hard corals on Singapore shores', 'published', '
 <p>Colonies with thick branches</p>
 <br>
@@ -341621,7 +341621,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/050820bbd5737m.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.747Z');
+}', '', '2026-09-27T06:31:04.168Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/leafy.html', 'leafy', 'Hard corals on Singapore shores', 'published', '
 <p>Colony leafy, carnation- or cabbage-like</p>
 <br>
@@ -341666,7 +341666,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.747Z');
+}', '', '2026-09-27T06:31:04.169Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/lumpy.html', 'lumpy', 'Hard corals on Singapore shores', 'published', '
 <p>Colony crinkled or lumpy</p>
 <br>
@@ -341716,7 +341716,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/psammocoridae/crinkled/050625labg8651m3.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porbranch/100201hntd9138m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.747Z');
+}', '', '2026-09-27T06:31:04.169Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/plate.html', 'plate', 'Hard corals on Singapore shores', 'published', '
 <p>Colony plate-shaped</p>
 <br>
@@ -341760,7 +341760,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.747Z');
+}', '', '2026-09-27T06:31:04.169Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/tentacled.html', 'tentacled', 'Hard corals on Singapore shores', 'published', '
 <p>Polyps with long tentacles often hiding a hard skeleton when polyps are extended</p>
 <br>
@@ -341814,7 +341814,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182md.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg"
   ]
-}', '', '2026-09-26T19:00:11.747Z');
+}', '', '2026-09-27T06:31:04.169Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/coralhard/unattached.html', 'unattached', 'Hard corals on Singapore shores', 'published', '
 <p>Colony unattached to the bottom </p>
 <br>
@@ -341854,7 +341854,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg",
     "https://images.naturehungry.sg/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.747Z');
+}', '', '2026-09-27T06:31:04.169Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/corallimorphs.html', 'corallimorphs', 'Photo index of corallimorphs on Singapore shores', 'published', '
 
 {% assign filtered_posts = site.entries | where: "order", "Corallimorpharia" | where_exp: "item", "item.family != ''''" %}
@@ -341900,7 +341900,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/corallimorphs/carpet/040705sisd2121m.jpg",
     "https://images.naturehungry.sg/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg"
   ]
-}', '', '2026-09-26T19:00:11.747Z');
+}', '', '2026-09-27T06:31:04.169Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/hardcorals.html', 'hardcorals', 'Hard corals', 'published', '
 
 Cnidarians with a hard skeleton
@@ -342110,7 +342110,7 @@ Cnidarians with a hard skeleton
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.748Z');
+}', '', '2026-09-27T06:31:04.170Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/hydrozoa.html', 'hydrozoa', 'Photo index of hydroids on Singapore shores', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Hydrozoa" | where_exp: "item", "item.title != ''Hydroids''" %}
@@ -342159,7 +342159,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.748Z');
+}', '', '2026-09-27T06:31:04.170Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/index.html', 'index', 'Photo index', 'published', '
 {% include global/header.html %}
 
@@ -342278,7 +342278,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
 {% include global/footer.html %}', '{
   "title": "Photo index",
   "permalink": "/photoindexes/cnidaria"
-}', '', '2026-09-26T19:00:11.748Z');
+}', '', '2026-09-27T06:31:04.170Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/jellyfish.html', 'jellyfish', 'Photo index of jellyfish on Singapore shores', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Scyphozoa" | where_exp: "item", "item.order != ''''" %}
@@ -342327,7 +342327,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/jellyfish/mangrove/080412cjd1238m.jpg",
     "https://images.naturehungry.sg/cnidaria/others/jellyfish/huge/020809chgd0006m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.750Z');
+}', '', '2026-09-27T06:31:04.170Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/leatherycorals.html', 'leatherycorals', 'Leathery corals on Singapore shores', 'published', '
 
 <p>
@@ -342373,7 +342373,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/050808sntg0866m3a.jpg",
     "https://images.naturehungry.sg/cnidaria/coralsoft/letblackwhite/100715tbtd9020m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.750Z');
+}', '', '2026-09-27T06:31:04.170Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/seafans.html', 'seafans', 'Photo index of sea fans on Singapore shores', 'published', '
 
 
@@ -342438,7 +342438,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/gorgonacea/blue/060516chgd2041m.jpg",
     "https://images.naturehungry.sg/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.750Z');
+}', '', '2026-09-27T06:31:04.170Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/seapens.html', 'seapens', 'Sea Pens on Singapore shores', 'published', '
 
 <p>
@@ -342493,7 +342493,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/pennatulacea/virgularia/090722chgd7702m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/pennatulacea/virgularia/121017tuslks.JPG"
   ]
-}', '', '2026-09-26T19:00:11.750Z');
+}', '', '2026-09-27T06:31:04.170Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/cnidaria/softcorals.html', 'softcorals', 'Soft corals on Singapore shores', 'published', '
 
 <p>
@@ -342549,7 +342549,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.750Z');
+}', '', '2026-09-27T06:31:04.170Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/crustacea/crabfi.md', 'crabfi', 'Photo index of crabs on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -342685,7 +342685,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.750Z');
+}', '', '2026-09-27T06:31:04.171Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/crustacea/shrimp.md', 'shrimp', 'Photo index of crustaceans on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -342733,7 +342733,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.751Z');
+}', '', '2026-09-27T06:31:04.171Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/ctenophora.html', 'ctenophora', 'Ctenophores', 'published', '
 
 {% assign filtered_posts = site.entries | where: "phylum", "Ctenophora" %}
@@ -342754,7 +342754,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.751Z');
+}', '', '2026-09-27T06:31:04.171Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/echinodermata/asteroideabig.md', 'asteroideabig', 'Photo index of large sea stars', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Asteroidea" %}
@@ -342809,7 +342809,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.751Z');
+}', '', '2026-09-27T06:31:04.171Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/echinodermata/asteroideasmall.md', 'asteroideasmall', 'Photo index of small sea stars', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Asteroidea" %}
@@ -342864,7 +342864,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.751Z');
+}', '', '2026-09-27T06:31:04.171Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/echinodermata/crinoids.md', 'crinoids', 'Photo index of feather stars', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Crinoidea" | where_exp: "item", "item.title != ''Feather stars''" %}
@@ -342911,7 +342911,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.751Z');
+}', '', '2026-09-27T06:31:04.171Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/echinodermata/cucumberbig.md', 'cucumberbig', 'Photo index of long sea cucumbers', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Holothuroidea" %}
@@ -342966,7 +342966,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.751Z');
+}', '', '2026-09-27T06:31:04.171Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/echinodermata/cucumbersmall.md', 'cucumbersmall', 'Photo index of short sea cucumbers', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Holothuroidea" %}
@@ -343021,7 +343021,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.751Z');
+}', '', '2026-09-27T06:31:04.171Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/echinodermata/echinoderms.md', 'echinoderms', 'Photo index of echinoderms', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -343185,7 +343185,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.751Z');
+}', '', '2026-09-27T06:31:04.172Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/echinodermata/ophiuroidea.md', 'ophiuroidea', 'Photo index of brittle stars', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Ophiuroidea" | where_exp: "item", "item.title != ''brittle stars''" %}
@@ -343235,7 +343235,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.752Z');
+}', '', '2026-09-27T06:31:04.172Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/echinodermata/sanddollars.md', 'sanddollars', 'Photo index of Sand dollars', 'published', '
 {% assign target = "Cake sand dollar, Pink sand dollar, Keyhole sand dollar, Thick-edged sand dollar" | split: ", " %}
 
@@ -343272,7 +343272,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.752Z');
+}', '', '2026-09-27T06:31:04.172Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/echinodermata/urchins.md', 'urchins', 'Photo index of urchins', 'published', '
 {% assign target = "Sand dollars, Cake sand dollar, Pink sand dollar, Keyhole sand dollar, Thick-edged sand dollar" | split: ", " %}
 
@@ -343307,7 +343307,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.752Z');
+}', '', '2026-09-27T06:31:04.172Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/index.html', 'index', 'Photo index', 'published', '
 {% include global/header.html %}
 
@@ -343348,7 +343348,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "title": "Photo index",
   "permalink": "/photoindex",
   "description": "A visual guide to Singapore''s fauna and flora organized by taxonmic ranks and common features"
-}', '', '2026-09-26T19:00:11.752Z');
+}', '', '2026-09-27T06:31:04.172Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/bivalvia/large.md', 'large', 'Large clams', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Bivalvia" %}
@@ -343396,7 +343396,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.752Z');
+}', '', '2026-09-27T06:31:04.172Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/bivalvia/odd.md', 'odd', 'Odd-shaped clams', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Bivalvia" %}
@@ -343432,7 +343432,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.752Z');
+}', '', '2026-09-27T06:31:04.172Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/bivalvia/small.md', 'small', 'Small clams', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Bivalvia" %}
@@ -343480,7 +343480,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.752Z');
+}', '', '2026-09-27T06:31:04.172Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/bivalvia/stuck.md', 'stuck', 'Clams with one side stuck', 'published', '
 
 {% assign filtered_posts = site.entries | where: "class", "Bivalvia" %}
@@ -343526,7 +343526,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.752Z');
+}', '', '2026-09-27T06:31:04.173Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/bivalvia.md', 'bivalvia', 'Bivalves', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -343623,7 +343623,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.752Z');
+}', '', '2026-09-27T06:31:04.173Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/cephalopoda.md', 'cephalopoda', 'Cephalopods', 'published', '
 octopuses, squids and cuttlefishes
 
@@ -343655,7 +343655,7 @@ octopuses, squids and cuttlefishes
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.173Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/mollusca.md', 'mollusca', 'Photo index of molluscs', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -343753,7 +343753,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.173Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/othersnails.md', 'othersnails', 'Photo index of limpets', 'published', '
 limpets, limpet-like animals and other strangely shaped snails
 
@@ -343791,7 +343791,7 @@ limpets, limpet-like animals and other strangely shaped snails
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg",
     "https://images.naturehungry.sg/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.173Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/large.md', 'large', 'Large shelled snails', 'published', '
 
 5cm-8cm of various shell shapes
@@ -343825,7 +343825,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.173Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/mediumlongreefs.md', 'mediumlongreefs', 'Medium shelled snails', 'published', '
 
 2cm - 5cm with long shell on mangroves, sand, reefs and elsewhere
@@ -343859,7 +343859,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.173Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/mediumlongsurface.md', 'mediumlongsurface', 'Medium shelled snails', 'published', '
 
 2cm - 5cm with long shells on rocks and seawalls
@@ -343893,7 +343893,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.173Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/mediumoval.md', 'mediumoval', 'Medium shelled snails', 'published', '
 
 2cm - 5cm with oval shells
@@ -343927,7 +343927,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.174Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/mediumroundrock.md', 'mediumroundrock', 'Medium shelled snails', 'published', '
 
 2cm - 5cm with round or conical shells on and under rocks
@@ -343961,7 +343961,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.174Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/mediumroundsand.md', 'mediumroundsand', 'Medium shelled snails', 'published', '
 
 2cm - 5cm with round or conical shells on and under rocks
@@ -343995,7 +343995,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.174Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/smallother.md', 'smallother', 'Small shelled snails', 'published', '
 
 1cm - 2cm living on mangroves, sand, seagrasses, elsewhere
@@ -344029,7 +344029,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.174Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/smallrock.md', 'smallrock', 'Small shelled snails', 'published', '
 
 1cm - 2cm living on and under rocks
@@ -344063,7 +344063,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.174Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/tiny.md', 'tiny', 'Tiny shelled snails', 'published', '
 
 1cm or less in various shapes and ecosystems
@@ -344097,7 +344097,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.753Z');
+}', '', '2026-09-27T06:31:04.174Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails/verylarge.md', 'verylarge', 'Large shelled snails', 'published', '
 
 Larger than 8cm of various shell shapes and habitats
@@ -344131,7 +344131,7 @@ Larger than 8cm of various shell shapes and habitats
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.754Z');
+}', '', '2026-09-27T06:31:04.174Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/shelledsnails.md', 'shelledsnails', 'Shelled snails on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -344328,7 +344328,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.754Z');
+}', '', '2026-09-27T06:31:04.174Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs/bumpy.md', 'bumpy', 'Sea slugs without external gills', 'published', '
 
 body long, rounded with bumps
@@ -344361,7 +344361,7 @@ body long, rounded with bumps
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.754Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs/hairy.md', 'hairy', 'Sea slugs without external gills', 'published', '
 
 body ''hairy'' or with finger-like projections
@@ -344394,7 +344394,7 @@ body ''hairy'' or with finger-like projections
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.754Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs/large.md', 'large', 'Large slugs', 'published', '
 
 slugs with external gills: large >5cm
@@ -344428,7 +344428,7 @@ slugs with external gills: large >5cm
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.754Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs/shelled.md', 'shelled', 'Sea slugs with external shell', 'published', '
 
 
@@ -344463,7 +344463,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.754Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs/small.md', 'small', 'Small slugs', 'published', '
 
 slugs with external gills: small <5cm
@@ -344497,7 +344497,7 @@ slugs with external gills: small <5cm
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.754Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs/smooth.md', 'smooth', 'Sea slugs without external gills', 'published', '
 
 body smooth
@@ -344532,7 +344532,7 @@ body smooth
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.754Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs/tendrils.md', 'tendrils', 'Sea slugs without external gills', 'published', '
 
 body with tendrils, etc
@@ -344565,7 +344565,7 @@ body with tendrils, etc
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.754Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs/twoflaps.md', 'twoflaps', 'Sea slugs without external gills', 'published', '
 
 body in two flaps or ''wings'' (called parapodia)
@@ -344598,7 +344598,7 @@ body in two flaps or ''wings'' (called parapodia)
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.755Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs/verylarge.md', 'verylarge', 'Very large slugs', 'published', '
 
 slugs with external gills: very large >10cm
@@ -344644,7 +344644,7 @@ slugs with external gills: very large >10cm
   "description": "",
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default"
-}', '', '2026-09-26T19:00:11.755Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/mollusca/slugs.md', 'slugs', 'Sea slugs on Singapore shores', 'published', '
 ## slugs with feathery external gills on their backs
 {% for row in page.child_pages %}<div class="photo-index-images-text-row">
@@ -344832,7 +344832,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.755Z');
+}', '', '2026-09-27T06:31:04.175Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/others.html', 'others', 'Other animals', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -344909,7 +344909,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.755Z');
+}', '', '2026-09-27T06:31:04.176Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/plants/mangfi.md', 'mangfi', 'Photo index of mangrove trees on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -345025,7 +345025,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.756Z');
+}', '', '2026-09-27T06:31:04.176Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/plants/plantfi.md', 'plantfi', 'Photo index of plants on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -345204,7 +345204,7 @@ see the <a href="seaweed/seaweedfi.htm">seaweed
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.756Z');
+}', '', '2026-09-27T06:31:04.176Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/plants/seaweed/seaweedfi.md', 'seaweedfi', 'Photo index of seaweeds on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -345442,7 +345442,7 @@ how to tell apart
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.756Z');
+}', '', '2026-09-27T06:31:04.177Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/plants/shorefi.md', 'shorefi', 'Photo index of seashore plants on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -345652,7 +345652,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.757Z');
+}', '', '2026-09-27T06:31:04.177Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/porifera/ball.md', 'ball', 'Sponges', 'published', '
 Sponges in the shape of balls or vases
 
@@ -345696,7 +345696,7 @@ Sponges in the shape of balls or vases
     "https://images.naturehungry.sg/porifera/hairyolives/100130brkd8706m3.jpg",
     "https://images.naturehungry.sg/porifera/golfball/201117labrk1.jpg"
   ]
-}', '', '2026-09-26T19:00:11.757Z');
+}', '', '2026-09-27T06:31:04.178Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/porifera/branching.md', 'branching', 'Sponges', 'published', '
 Branching or lumpy sponges
 
@@ -345737,7 +345737,7 @@ Branching or lumpy sponges
     "https://images.naturehungry.sg/porifera/tubespiky/100614bbd5961m3.jpg",
     "https://images.naturehungry.sg/porifera/thickpink/100627hntd7322m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.757Z');
+}', '', '2026-09-27T06:31:04.178Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/porifera/encrusting.md', 'encrusting', 'Sponges', 'published', '
 Encrusting sponges
 
@@ -345778,7 +345778,7 @@ Encrusting sponges
     "https://images.naturehungry.sg/porifera/encrustprickly/051204sisg3279m3.jpg",
     "https://images.naturehungry.sg/porifera/rainbow/091217sbglks.JPG"
   ]
-}', '', '2026-09-26T19:00:11.757Z');
+}', '', '2026-09-27T06:31:04.178Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/porifera/other.md', 'other', 'Sponges', 'published', '
 Sponges in other shapes
 
@@ -345819,7 +345819,7 @@ Sponges in other shapes
     "https://images.naturehungry.sg/porifera/coelocarteria/050112smkd9696m3.jpg",
     "https://images.naturehungry.sg/porifera/chimney/120508skdd1842m3.jpg"
   ]
-}', '', '2026-09-26T19:00:11.757Z');
+}', '', '2026-09-27T06:31:04.178Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/porifera/porifera.md', 'porifera', 'Photo index of sponges on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -345919,7 +345919,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.758Z');
+}', '', '2026-09-27T06:31:04.178Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/vertebrates/fish/fishfi.md', 'fishfi', 'Photo index of fishes on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -346121,7 +346121,7 @@ how
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.758Z');
+}', '', '2026-09-27T06:31:04.179Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/vertebrates/fish/flatfish.md', 'flatfish', 'Flattened fishes', 'published', '
 ', '{
   "title": "Flattened fishes",
@@ -346141,7 +346141,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/vertebrates/fish/platycephalidae/indicus/030927cjd0083m.jpg",
     "https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/050818cftg1401m.jpg"
   ]
-}', '', '2026-09-26T19:00:11.758Z');
+}', '', '2026-09-27T06:31:04.179Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/vertebrates/fish/largefish.md', 'largefish', 'Large typical fishes', 'published', '
 ', '{
   "title": "Large typical fishes",
@@ -346164,7 +346164,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/vertebrates/fish/serranidae/boenak/100527tmd3431m.jpg",
     "https://images.naturehungry.sg/vertebrates/fish/selachii/selachii/110528smks02448m.jpg"
   ]
-}', '', '2026-09-26T19:00:11.758Z');
+}', '', '2026-09-27T06:31:04.179Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/vertebrates/fish/mediumfish.md', 'mediumfish', 'Medium typical fishes', 'published', '
 ', '{
   "title": "Medium typical fishes",
@@ -346187,7 +346187,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m.jpg",
     "https://images.naturehungry.sg/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m.jpg"
   ]
-}', '', '2026-09-26T19:00:11.759Z');
+}', '', '2026-09-27T06:31:04.179Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/vertebrates/fish/roundfish.md', 'roundfish', 'Globular and boxy fishes', 'published', '
 ', '{
   "title": "Globular and boxy fishes",
@@ -346212,7 +346212,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m.jpg",
     "https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/050708labd4747m.jpg"
   ]
-}', '', '2026-09-26T19:00:11.759Z');
+}', '', '2026-09-27T06:31:04.179Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/vertebrates/fish/smallfish.md', 'smallfish', 'Small typical fishes', 'published', '
 ', '{
   "title": "Small typical fishes",
@@ -346235,7 +346235,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m.jpg",
     "https://images.naturehungry.sg/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m.jpg"
   ]
-}', '', '2026-09-26T19:00:11.759Z');
+}', '', '2026-09-27T06:31:04.180Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/vertebrates/fish/stingrays.md', 'stingrays', 'Stingrays', 'published', '
 ', '{
   "title": "Stingrays",
@@ -346256,7 +346256,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     "https://images.naturehungry.sg/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m.jpg",
     "https://images.naturehungry.sg/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m.jpg"
   ]
-}', '', '2026-09-26T19:00:11.759Z');
+}', '', '2026-09-27T06:31:04.180Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/vertebrates/vertfi.md', 'vertfi', 'Photo index of vertebrates of Singapore', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -346349,7 +346349,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.759Z');
+}', '', '2026-09-27T06:31:04.180Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/vertebrates.html', 'vertebrates', 'Photo index', 'published', '
 {% include global/header.html %}
 
@@ -346581,7 +346581,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
       ]
     }
   ]
-}', '', '2026-09-26T19:00:11.760Z');
+}', '', '2026-09-27T06:31:04.181Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/worm/bristle.md', 'bristle', 'Marine worms', 'published', '
 Typical worm-shaped with bristles
 
@@ -346617,7 +346617,7 @@ Typical worm-shaped with bristles
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default",
   "attributes": []
-}', '', '2026-09-26T19:00:11.760Z');
+}', '', '2026-09-27T06:31:04.181Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/worm/feather.md', 'feather', 'Feathery marine worms ', 'published', '
 Worms with feathery heads
 
@@ -346649,7 +346649,7 @@ Worms with feathery heads
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default",
   "attributes": []
-}', '', '2026-09-26T19:00:11.760Z');
+}', '', '2026-09-27T06:31:04.181Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/worm/flat.md', 'flat', 'Marine flatworms', 'published', '
 
 {% assign filtered_posts = site.entries | where_exp: "item", "item.order==''Polycladida'' " %}
@@ -346690,7 +346690,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default",
   "attributes": []
-}', '', '2026-09-26T19:00:11.760Z');
+}', '', '2026-09-27T06:31:04.181Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/worm/smooth.md', 'smooth', 'Marine worms', 'published', '
 Typical worm shaped and smooth
 
@@ -346726,7 +346726,7 @@ Typical worm shaped and smooth
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default",
   "attributes": []
-}', '', '2026-09-26T19:00:11.760Z');
+}', '', '2026-09-27T06:31:04.181Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/worm/tube.md', 'tube', 'Tubeworms', 'published', 'Worms that live in tubes
 
 
@@ -346773,7 +346773,7 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
   "keywords": "photo, index, sea, anemone, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info",
   "layout": "default",
   "attributes": []
-}', '', '2026-09-26T19:00:11.760Z');
+}', '', '2026-09-27T06:31:04.181Z');
 INSERT INTO content_items (collection, path, slug, title, status, body, metadata_json, cover_image, published_at) VALUES ('photoindexes', '_photoindexes/worm.md', 'worm', 'Marine worms on Singapore shores', 'published', '{% for row in page.child_pages %}<div class="photo-index-images-text-row">
 {% include img-grid.html items=row.images cols=4 %}
   <div>
@@ -346917,5 +346917,5 @@ INSERT INTO content_items (collection, path, slug, title, status, body, metadata
     }
   ],
   "layout": "default"
-}', '', '2026-09-26T19:00:11.760Z');
+}', '', '2026-09-27T06:31:04.181Z');
 COMMIT;
