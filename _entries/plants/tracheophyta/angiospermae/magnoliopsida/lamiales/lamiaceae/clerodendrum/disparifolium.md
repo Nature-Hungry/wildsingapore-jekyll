@@ -46,7 +46,8 @@ layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\clerodendrum\disparifolium/P9270454
   (24).jpg
 updated: July 2024
-rdb: Lc
+rdb: LC
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

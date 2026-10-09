@@ -16,24 +16,34 @@ subgenus: Chamaesyce
 section: Poinsettia
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05658 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05659 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05660 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05658
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05659
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05660
+      (12).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05663 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05666 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05661 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05663
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05666
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05661
+      (12).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05667 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC06900 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05667
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC06900
+      (13).jpg
 title: Mexican Fireplant
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05658 (12).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\heterophylla/DSC05658
+  (12).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

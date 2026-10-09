@@ -16,20 +16,27 @@ subgenus: Euphorbia
 section: Euphorbia
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC08889 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC02138 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC02139 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC08889
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC02138
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC02139
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC08888 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC08884 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC08888
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC08884
+      (12).jpg
 title: Indian Spurge Tree
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC08889 (12).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\neriifolia/DSC08889
+  (12).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

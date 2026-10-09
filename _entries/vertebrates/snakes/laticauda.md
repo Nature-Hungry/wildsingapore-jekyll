@@ -138,7 +138,7 @@ location:
 - lfa
 size:
 - 140.0
-rdb: vu
+rdb: VU
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

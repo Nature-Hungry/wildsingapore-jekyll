@@ -14,20 +14,27 @@ tribe: Heliantheae
 subtribe: Helianthinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC01667 (04).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC02652 (04).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC05290 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC01667
+      (04).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC02652
+      (04).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC05290
+      (07).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC05300 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC05288 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC05300
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC05288
+      (07).jpg
 title: Common Sunflower
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC01667 (04).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\asterales\asteraceae\helianthus\annuus/DSC01667
+  (04).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

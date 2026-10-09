@@ -13,9 +13,12 @@ subfamily: Aroideae
 tribe: Caladieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\caladium\bicolor/DSC08851 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\caladium\bicolor/DSC08852 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\caladium\bicolor/DSC08850 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\caladium\bicolor/DSC08851
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\caladium\bicolor/DSC08852
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\caladium\bicolor/DSC08850
+      (08).jpg
   gallery2:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\caladium\bicolor/Hybrid_cultivar1.jpg
 title: Fancy Leaf Caladium
@@ -24,8 +27,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\caladium\bicolor/DSC08851 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\caladium\bicolor/DSC08851
+  (08).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -14,13 +14,19 @@ tribe: Ruellieae
 subtribe: Strobilanthinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC07686 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC07684 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC03542 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC07686
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC07684
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC03542
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC09625 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC09624 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC07500 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC09625
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC09624
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC07500
+      (15).jpg
 title: Red Flame Ivy
 other_names:
 - Red Ivy
@@ -29,8 +35,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC07686 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\strobilanthes\alternata/DSC07686
+  (09).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

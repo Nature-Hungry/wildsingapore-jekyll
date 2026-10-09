@@ -13,19 +13,25 @@ subgenus: Heliconia
 section: Longae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04093 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04092 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04095 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04093
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04092
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04095
+      (11).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04094 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04094
+      (11).jpg
 title: Beefsteak Heliconia
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04093 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\heliconiaceae\heliconia\mariae/DSC04093
+  (11).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -14,21 +14,29 @@ tribe: Justicieae
 subtribe: Justiciinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC00833 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC02138 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC09053 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC00833
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC02138
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC09053
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC01747 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC09055 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC07054 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC01747
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC09055
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC07054
+      (14).jpg
 title: Dainty Spurs
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC00833 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\acanthaceae\rhinacanthus\nasutus/DSC00833
+  (09).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

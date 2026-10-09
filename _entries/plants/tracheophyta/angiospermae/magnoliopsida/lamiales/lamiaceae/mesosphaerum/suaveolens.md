@@ -14,16 +14,24 @@ tribe: Ocimeae
 subtribe: Hyptidinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04515 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC01462 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04521 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04515
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC01462
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04521
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04517 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04518 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04520 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04517
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04518
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04520
+      (09).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC01464 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04524 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC01464
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04524
+      (09).jpg
 title: Pignut
 other_names:
 - Wild Spikenard
@@ -32,8 +40,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04515 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\mesosphaerum\suaveolens/DSC04515
+  (09).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

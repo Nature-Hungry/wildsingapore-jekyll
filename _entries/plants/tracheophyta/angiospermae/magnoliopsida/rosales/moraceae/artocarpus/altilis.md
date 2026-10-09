@@ -12,21 +12,29 @@ family: Moraceae
 tribe: Artocarpeae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08767 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC07764 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08764 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08767
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC07764
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08764
+      (07).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08765 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08763 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08766 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08765
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08763
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08766
+      (07).jpg
 title: Breadfruit
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08767 (07).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\moraceae\artocarpus\altilis/DSC08767
+  (07).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

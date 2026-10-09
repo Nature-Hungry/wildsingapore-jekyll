@@ -18,6 +18,7 @@ zone:
 layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\buchozia\japonica/DSC07033 (10).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

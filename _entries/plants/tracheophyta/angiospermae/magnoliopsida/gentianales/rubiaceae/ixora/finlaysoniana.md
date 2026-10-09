@@ -13,23 +13,32 @@ subfamily: Ixoroideae
 tribe: Ixoreae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC02127 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC02128 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC06813 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC02127
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC02128
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC06813
+      (11).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC06814 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC04572 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC04792 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC06814
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC04572
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC04792
+      (11).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC04791 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC04791
+      (11).jpg
 title: Fragrant Ixora
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC02127 (13).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\ixora\finlaysoniana/DSC02127
+  (13).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -11,27 +11,39 @@ order: Caryophyllales
 family: Portulacaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05293 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC00591 (04).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC03606 (05).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05293
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC00591
+      (04).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC03606
+      (05).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05061 (06).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05303 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05304 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05061
+      (06).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05303
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05304
+      (07).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05305 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC08911 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC08874 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05305
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC08911
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC08874
+      (08).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC08913 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC08913
+      (08).jpg
 title: Moss Rose
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05293 (07).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\portulacaceae\portulaca\grandiflora/DSC05293
+  (07).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

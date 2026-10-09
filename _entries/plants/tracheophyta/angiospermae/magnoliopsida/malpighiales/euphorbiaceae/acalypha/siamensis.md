@@ -14,20 +14,27 @@ tribe: Acalypheae
 subtribe: Acalyphinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070144 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070145 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070153 (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070144
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070145
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070153
+      (25).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070149 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070151 (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070149
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070151
+      (25).jpg
 title: Wild Tea
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070144 (25).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\acalypha\siamensis/P1070144
+  (25).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

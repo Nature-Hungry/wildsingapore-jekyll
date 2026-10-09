@@ -46,7 +46,8 @@ layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\lindsaeaceae\lindsaea\ensifolia/DSC00272
   (13).jpg
 updated: July 2024
-rdb: Lc
+rdb: LC
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

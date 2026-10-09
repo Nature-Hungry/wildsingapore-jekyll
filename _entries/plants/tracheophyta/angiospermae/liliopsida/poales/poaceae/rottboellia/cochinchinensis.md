@@ -14,29 +14,43 @@ tribe: Andropogoneae
 subtribe: Rottboelliinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07940 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07945 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07944 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07940
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07945
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07944
+      (12).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07951 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07954 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07947 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07951
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07954
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07947
+      (12).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07944 (12)s.jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03837 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03845 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07944
+      (12)s.jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03837
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03845
+      (12).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03841 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03839 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03843 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03841
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03839
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC03843
+      (12).jpg
 title: Itchgrass
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07940 (12).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\poaceae\rottboellia\cochinchinensis/DSC07940
+  (12).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

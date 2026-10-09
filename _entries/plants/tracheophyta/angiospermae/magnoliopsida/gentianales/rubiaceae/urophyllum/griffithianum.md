@@ -45,7 +45,8 @@ layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\urophyllum\griffithianum/DSC03729
   (10).jpg
 updated: July 2024
-rdb: vu
+rdb: VU
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

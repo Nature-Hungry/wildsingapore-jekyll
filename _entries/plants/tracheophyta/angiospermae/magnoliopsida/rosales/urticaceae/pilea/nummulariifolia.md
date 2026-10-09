@@ -11,20 +11,27 @@ order: Rosales
 family: Urticaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06723 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06724 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06726 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06723
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06724
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06726
+      (15).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06725 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC01629 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06725
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC01629
+      (15).jpg
 title: Creeping Charlie
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06723 (15).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\urticaceae\pilea\nummulariifolia/DSC06723
+  (15).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -14,11 +14,15 @@ tribe: Ocimeae
 subtribe: Ociminae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09157 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09158 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09160 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09157
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09158
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09160
+      (15).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09162 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09162
+      (15).jpg
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/Hybrid_cultivar1.jpg
 title: Sweet Basil
 authors:
@@ -26,8 +30,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09157 (15).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lamiaceae\ocimum\basilicum/DSC09157
+  (15).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

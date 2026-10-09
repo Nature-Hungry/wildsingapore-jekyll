@@ -11,13 +11,19 @@ order: Caryophyllales
 family: Talinaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01736 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01738 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01737 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01736
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01738
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01737
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC02274 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01742 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01743 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC02274
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01742
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01743
+      (08).jpg
 title: Surinum Purslane
 other_names:
 - Ceylon Spinach
@@ -27,8 +33,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01736 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\caryophyllales\talinaceae\talinum\fruticosum/DSC01736
+  (08).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

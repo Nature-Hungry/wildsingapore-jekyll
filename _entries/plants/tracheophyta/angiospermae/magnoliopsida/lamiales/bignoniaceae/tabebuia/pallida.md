@@ -11,23 +11,36 @@ order: Lamiales
 family: Bignoniaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290066 (20).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290062 (20).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290019 (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290066
+      (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290062
+      (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290019
+      (20).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290025 (20).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290004 (20).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290010 (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290025
+      (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290004
+      (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290010
+      (20).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290007 (20).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290008 (20).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290011 (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290007
+      (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290008
+      (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290011
+      (20).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290022 (20).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290026 (20).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290017 (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290022
+      (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290026
+      (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290017
+      (20).jpg
   gallery5:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290059 (20).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290059
+      (20).jpg
 title: Cuban Pink Trumpet Tree
 other_names:
 - White Cedar
@@ -37,8 +50,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290066 (20).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\bignoniaceae\tabebuia\pallida/PB290066
+  (20).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

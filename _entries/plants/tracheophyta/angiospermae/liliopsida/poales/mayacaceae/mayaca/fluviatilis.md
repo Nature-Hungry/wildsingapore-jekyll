@@ -11,19 +11,25 @@ order: Poales
 family: Mayacaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09066 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09063 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09070 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09066
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09063
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09070
+      (12).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09071 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09071
+      (12).jpg
 title: Stream Bogmoss
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09066 (12).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\poales\mayacaceae\mayaca\fluviatilis/DSC09066
+  (12).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

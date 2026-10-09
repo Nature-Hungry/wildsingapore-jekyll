@@ -31,7 +31,8 @@ layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\rubiaceae\urophyllum\hirsutum/DSC09534
   (08).jpg
 updated: July 2024
-rdb: vu
+rdb: VU
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

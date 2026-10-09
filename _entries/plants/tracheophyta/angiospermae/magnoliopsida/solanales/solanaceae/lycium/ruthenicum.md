@@ -13,20 +13,31 @@ subfamily: Solanoideae
 tribe: Lycieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210064 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210061 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210055 (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210064
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210061
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210055
+      (25).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210056 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210051 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210052 (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210056
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210051
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210052
+      (25).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210059 (25).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PA280002 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PA280007 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210059
+      (25).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PA280002
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PA280007
+      (24).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PA280015 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PA280021 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PA280015
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PA280021
+      (24).jpg
 title: Black Goji Berry
 other_names:
 - Russian Box Thorn
@@ -35,8 +46,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210064 (25).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\solanaceae\lycium\ruthenicum/PB210064
+  (25).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

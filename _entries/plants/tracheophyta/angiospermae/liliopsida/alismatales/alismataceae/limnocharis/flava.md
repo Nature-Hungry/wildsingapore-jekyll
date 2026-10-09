@@ -11,16 +11,24 @@ order: Alismatales
 family: Alismataceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC04701 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC04702 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC02094 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC04701
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC04702
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC02094
+      (12).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC02095 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC01120 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC02096 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC02095
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC01120
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC02096
+      (12).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC02097 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC01118 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC02097
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC01118
+      (08).jpg
 title: Yellow Bur-head
 other_names:
 - Yellow Velvetleaf
@@ -29,8 +37,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC04701 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\alismataceae\limnocharis\flava/DSC04701
+  (08).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

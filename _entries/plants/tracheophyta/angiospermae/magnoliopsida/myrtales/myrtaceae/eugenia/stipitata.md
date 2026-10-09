@@ -16,28 +16,41 @@ subgenus: Eugenia
 section: Pilothecium
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04145 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00500 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00272 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04145
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00500
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00272
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04153 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04150 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04157 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04153
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04150
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04157
+      (10).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04159 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04154 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00504 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04159
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04154
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00504
+      (11).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00502 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00499 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00502
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC00499
+      (11).jpg
 title: Araza
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04145 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\eugenia\stipitata/DSC04145
+  (10).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -11,12 +11,17 @@ order: Ericales
 family: Ebenaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC08876 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC01542 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC01541 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC08876
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC01542
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC01541
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC00487 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC08881 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC00487
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC08881
+      (09).jpg
 title: Butter Fruit
 other_names:
 - Velvet Apple
@@ -26,8 +31,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC08876 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ebenaceae\diospyros\blancoi/DSC08876
+  (09).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -14,9 +14,12 @@ tribe: Potentilleae
 subtribe: Potentillinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rosaceae\potentilla\indica/DSC05152 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rosaceae\potentilla\indica/DSC00817 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rosaceae\potentilla\indica/DSC00819 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rosaceae\potentilla\indica/DSC05152
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rosaceae\potentilla\indica/DSC00817
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rosaceae\potentilla\indica/DSC00819
+      (10).jpg
 title: Mock Strawberry
 other_names:
 - Indian Strawberry
@@ -26,8 +29,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rosaceae\potentilla\indica/DSC05152 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\rosales\rosaceae\potentilla\indica/DSC05152
+  (08).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

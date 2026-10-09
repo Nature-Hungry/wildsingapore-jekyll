@@ -12,17 +12,26 @@ family: Cucurbitaceae
 tribe: Momordiceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC01137 (17).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08714 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08716 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC01137
+      (17).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08714
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08716
+      (07).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC01135 (17).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08713 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08712 (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC01135
+      (17).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08713
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08712
+      (07).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08718 (07).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC06956 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC07490 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC08718
+      (07).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC06956
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC07490
+      (14).jpg
   gallery4:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/Hybrid_cultivar1.jpg
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/Hybrid_cultivar2.jpg
@@ -35,8 +44,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC01137 (17).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\cucurbitales\cucurbitaceae\momordica\charantia/DSC01137
+  (17).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

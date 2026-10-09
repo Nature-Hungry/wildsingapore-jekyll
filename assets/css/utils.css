@@ -35,6 +35,11 @@
     align-items:center;
     background-color: lightgrey;
 }
+.NEx{
+    background-color:black;
+    color: #D81E05;
+    font-weight: bold;
+}
 .CR{
     color:white;
     background-color: #D81E05;

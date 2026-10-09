@@ -14,13 +14,19 @@ tribe: Plumerieae
 subtribe: Plumeriinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC07374 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC02071 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC01975 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC07374
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC02071
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC01975
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC07375 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC04240 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC07376 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC07375
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC04240
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC07376
+      (08).jpg
 title: Singapore Plumeria
 other_names:
 - Singapore Graveyard Flower
@@ -30,8 +36,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC07374 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\plumeria\obtusa/DSC07374
+  (08).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

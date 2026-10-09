@@ -12,21 +12,29 @@ family: Malvaceae
 subfamily: Dombeyoideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02281 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02282 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02283 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02281
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02282
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02283
+      (13).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02285 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02284 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02290 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02285
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02284
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02290
+      (13).jpg
 title: Duck's Foot
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02281 (13).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\pterospermum\grandiflorum/DSC02281
+  (13).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

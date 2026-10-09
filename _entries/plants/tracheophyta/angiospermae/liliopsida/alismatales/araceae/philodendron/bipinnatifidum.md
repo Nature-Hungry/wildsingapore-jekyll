@@ -13,9 +13,12 @@ subfamily: Aroideae
 tribe: Philodendreae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\philodendron\bipinnatifidum/DSC03282 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\philodendron\bipinnatifidum/DSC03283 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\philodendron\bipinnatifidum/DSC03284 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\philodendron\bipinnatifidum/DSC03282
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\philodendron\bipinnatifidum/DSC03283
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\philodendron\bipinnatifidum/DSC03284
+      (08).jpg
 title: Cut-leaf Philodendron
 other_names:
 - Split Leaf Philodendron
@@ -25,8 +28,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\philodendron\bipinnatifidum/DSC03282 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\philodendron\bipinnatifidum/DSC03282
+  (08).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

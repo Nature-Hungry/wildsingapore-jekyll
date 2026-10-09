@@ -14,16 +14,24 @@ tribe: Tabernaemontaneae
 subtribe: Tabernaemontaninae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03956 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC01601 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03957 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03956
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC01601
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03957
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC09053 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC09052 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC09055 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC09053
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC09052
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC09055
+      (12).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03961 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03963 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03961
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03963
+      (09).jpg
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/Hybrid_cultivar1.jpg
   gallery4:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/Hybrid_cultivar2.jpg
@@ -36,8 +44,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03956 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\gentianales\apocynaceae\tabernaemontana\divaricata/DSC03956
+  (09).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

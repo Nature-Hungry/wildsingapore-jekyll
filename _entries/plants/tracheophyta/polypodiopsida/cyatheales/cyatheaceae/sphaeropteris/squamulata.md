@@ -71,7 +71,8 @@ layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\cyatheales\cyatheaceae\sphaeropteris\squamulata/DSC02139
   (15).jpg
 updated: July 2024
-rdb: vu
+rdb: VU
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

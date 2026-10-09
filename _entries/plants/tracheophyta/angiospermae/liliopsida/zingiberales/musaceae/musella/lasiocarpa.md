@@ -11,12 +11,17 @@ order: Zingiberales
 family: Musaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04598 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04693 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04601 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04598
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04693
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04601
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04690 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04600 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04690
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04600
+      (09).jpg
 title: Golden Lotus Banana
 other_names:
 - Chinese Yellow Banana
@@ -25,8 +30,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04598 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musella\lasiocarpa/DSC04598
+  (09).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

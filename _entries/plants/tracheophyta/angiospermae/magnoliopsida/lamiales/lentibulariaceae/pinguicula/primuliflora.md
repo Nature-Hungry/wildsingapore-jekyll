@@ -13,19 +13,25 @@ subgenus: Isoloba
 section: Isoloba
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00679 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00681 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00682 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00679
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00681
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00682
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00683 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00683
+      (09).jpg
 title: Primrose Butterwort
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00679 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\lentibulariaceae\pinguicula\primuliflora/DSC00679
+  (09).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

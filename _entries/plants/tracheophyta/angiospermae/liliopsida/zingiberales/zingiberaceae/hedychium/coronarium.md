@@ -13,12 +13,17 @@ subfamily: Zingiberoideae
 tribe: Zingibereae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC07112 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC02340 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC02338 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC07112
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC02340
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC02338
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC02339 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC07115 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC02339
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC07115
+      (10).jpg
 title: White Ginger Lily
 other_names:
 - Butterfly Ginger
@@ -27,8 +32,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC07112 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\hedychium\coronarium/DSC07112
+  (10).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

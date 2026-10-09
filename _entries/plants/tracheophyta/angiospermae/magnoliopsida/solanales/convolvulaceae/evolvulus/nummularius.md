@@ -13,16 +13,24 @@ subfamily: Dichondroideae
 tribe: Cresseae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08459 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08458 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08470 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08459
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08458
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08470
+      (16).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08463 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08467 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08476 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08463
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08467
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08476
+      (16).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08475 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08472 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08475
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08472
+      (16).jpg
 title: Roundleaf Bindweed
 other_names:
 - Dwarf Morning-glory
@@ -31,8 +39,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08459 (16).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\evolvulus\nummularius/DSC08459
+  (16).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

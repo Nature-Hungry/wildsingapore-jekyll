@@ -14,23 +14,32 @@ tribe: Commelineae
 subtribe: Murdanniinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/DSC02988 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200068 (18).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200069 (18).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/DSC02988
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200068
+      (18).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200069
+      (18).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200066 (18).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200064 (18).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200067 (18).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200066
+      (18).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200064
+      (18).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5200067
+      (18).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5010137 (17).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/P5010137
+      (17).jpg
 title: Asiatic Dewflower
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/DSC02988 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\commelinales\commelinaceae\murdannia\spirata/DSC02988
+  (10).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

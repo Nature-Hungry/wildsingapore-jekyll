@@ -13,17 +13,26 @@ subfamily: Cedreloideae
 tribe: Cedreleae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC02588 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC04567 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC04571 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC02588
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC04567
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC04571
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC02405 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC09260 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC09262 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC02405
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC09260
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC09262
+      (09).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC06948 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC04219 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC09267 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC06948
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC04219
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC09267
+      (09).jpg
 title: Senegal Mahogany
 other_names:
 - African Mahogany
@@ -32,8 +41,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC02588 (16).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\khaya\senegalensis/DSC02588
+  (16).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

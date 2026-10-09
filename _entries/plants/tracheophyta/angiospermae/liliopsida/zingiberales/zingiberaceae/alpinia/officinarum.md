@@ -13,21 +13,29 @@ subfamily: Alpinioideae
 tribe: Alpinieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00719 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00725 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00721 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00719
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00725
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00721
+      (14).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00722 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00724 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00728 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00722
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00724
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00728
+      (14).jpg
 title: Lesser Galangal
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00719 (14).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\zingiberaceae\alpinia\officinarum/DSC00719
+  (14).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -151,7 +151,7 @@ location:
 size:
 - 15.0
 - 20.0
-rdb: vu
+rdb: VU
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

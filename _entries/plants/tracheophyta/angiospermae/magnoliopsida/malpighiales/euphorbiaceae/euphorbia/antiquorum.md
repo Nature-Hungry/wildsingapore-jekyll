@@ -16,23 +16,32 @@ subgenus: Euphorbia
 section: Euphorbia
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC04322 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC07671 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC06849 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC04322
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC07671
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC06849
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC07663 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC07665 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC07666 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC07663
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC07665
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC07666
+      (15).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC06848 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC06848
+      (10).jpg
 title: Triangular Spurge
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC04322 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\euphorbia\antiquorum/DSC04322
+  (11).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

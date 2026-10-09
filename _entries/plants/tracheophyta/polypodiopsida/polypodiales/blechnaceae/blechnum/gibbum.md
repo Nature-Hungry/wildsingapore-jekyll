@@ -12,16 +12,24 @@ suborder: Aspleniinae
 family: Blechnaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04242 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC01519 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC01522 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04242
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC01519
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC01522
+      (13).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04247 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04250 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC01521 (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04247
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04250
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC01521
+      (13).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC01524 (13).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04245 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC01524
+      (13).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04245
+      (11).jpg
 title: Dwarf Tree Fern
 other_names:
 - Silver Lady Fern
@@ -30,8 +38,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04242 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\blechnaceae\blechnum\gibbum/DSC04242
+  (11).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

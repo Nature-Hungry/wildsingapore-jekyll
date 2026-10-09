@@ -14,8 +14,10 @@ tribe: Hippeastreae
 subtribe: Hippeastrinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\zephyranthes\candida/DSC01495 (04).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\zephyranthes\candida/DSC01496 (04).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\zephyranthes\candida/DSC01495
+      (04).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\zephyranthes\candida/DSC01496
+      (04).jpg
 title: Fairy Lily
 other_names:
 - Westwind-flower
@@ -24,7 +26,9 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\zephyranthes\candida/DSC01495 (04).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\amaryllidaceae\zephyranthes\candida/DSC01495
+  (04).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

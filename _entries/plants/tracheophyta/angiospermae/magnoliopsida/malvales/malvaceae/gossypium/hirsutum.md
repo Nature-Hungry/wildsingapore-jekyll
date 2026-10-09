@@ -13,15 +13,22 @@ subfamily: Malvoideae
 tribe: Gossypieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01754 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01752 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01749 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01754
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01752
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01749
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01753 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01755 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01759 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01753
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01755
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01759
+      (08).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC02133 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC02133
+      (08).jpg
 title: Cotton
 other_names:
 - Upland Cotton
@@ -31,8 +38,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01754 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\gossypium\hirsutum/DSC01754
+  (08).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

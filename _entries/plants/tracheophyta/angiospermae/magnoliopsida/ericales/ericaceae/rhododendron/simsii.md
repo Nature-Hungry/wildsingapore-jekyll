@@ -16,19 +16,25 @@ section: Tsutsusi
 subsection: Tsutsusi
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07723 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07725 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07726 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07723
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07725
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07726
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07727 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07727
+      (09).jpg
 title: Azalea
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07723 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\ericales\ericaceae\rhododendron\simsii/DSC07723
+  (09).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

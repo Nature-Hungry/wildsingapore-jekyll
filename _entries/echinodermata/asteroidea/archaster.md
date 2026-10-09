@@ -191,7 +191,7 @@ location:
 size:
 - 12.0
 - 15.0
-rdb: vu
+rdb: VU
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are no longer common on all our shores

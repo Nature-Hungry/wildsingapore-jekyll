@@ -12,13 +12,19 @@ family: Araliaceae
 subfamily: Aralioideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC02469 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC00766 (04).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC02468 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC02469
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC00766
+      (04).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC02468
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC02253 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC04799 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC04801 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC02253
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC04799
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC04801
+      (09).jpg
   gallery3:
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/Hybrid_cultivar1.jpg
 title: Green Aralia
@@ -27,8 +33,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC02469 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\apiales\araliaceae\osmoxylon\lineare/DSC02469
+  (08).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

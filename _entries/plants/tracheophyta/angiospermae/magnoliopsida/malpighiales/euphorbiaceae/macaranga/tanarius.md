@@ -14,25 +14,36 @@ tribe: Acalypheae
 subtribe: Rottlerinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08689 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08691 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08687 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08689
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08691
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08687
+      (16).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08682 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08692 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08693 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08682
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08692
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08693
+      (16).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08694 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08678 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08695 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08694
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08678
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08695
+      (16).jpg
 title: Parasol Leaf Tree
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08689 (16).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\euphorbiaceae\macaranga\tanarius/DSC08689
+  (16).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

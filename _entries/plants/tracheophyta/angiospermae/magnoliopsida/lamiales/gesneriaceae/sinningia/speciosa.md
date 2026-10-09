@@ -14,21 +14,29 @@ tribe: Gesnerieae
 subtribe: Ligeriinae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08661 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08662 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08657 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08661
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08662
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08657
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08658 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08653 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08654 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08658
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08653
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08654
+      (10).jpg
 title: Gloxinia
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08661 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\lamiales\gesneriaceae\sinningia\speciosa/DSC08661
+  (10).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

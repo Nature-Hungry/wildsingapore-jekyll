@@ -67,6 +67,7 @@ coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida
   (08).jpg
 updated: July 2024
 rdb: LC
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

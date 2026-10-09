@@ -11,20 +11,27 @@ order: Alismatales
 family: Hydrocharitaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00420 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00423 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00434 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00420
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00423
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00434
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00444 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00422 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00444
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00422
+      (10).jpg
 title: Water Thyme
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00420 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\hydrocharitaceae\hydrilla\verticillata/DSC00420
+  (10).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

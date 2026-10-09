@@ -11,20 +11,27 @@ order: Zingiberales
 family: Musaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08423 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08427 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08424 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08423
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08427
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08424
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08425 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08426 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08425
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08426
+      (09).jpg
 title: Bronze Banana
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08423 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\zingiberales\musaceae\musa\rubra/DSC08423
+  (09).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

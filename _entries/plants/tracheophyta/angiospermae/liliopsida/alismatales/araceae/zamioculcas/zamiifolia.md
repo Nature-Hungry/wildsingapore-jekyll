@@ -12,21 +12,33 @@ family: Araceae
 subfamily: Zamioculcadoideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170025 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170026 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170040 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170025
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170026
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170040
+      (24).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170044 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170048 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB240132 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170044
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170048
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB240132
+      (24).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170028 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB190050 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB200113 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170028
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB190050
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB200113
+      (24).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB240124 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB200121 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB200118 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB240124
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB200121
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB200118
+      (24).jpg
 title: ZZ Plant
 other_names:
 - Zanzibar Gem
@@ -36,8 +48,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170025 (24).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\alismatales\araceae\zamioculcas\zamiifolia/PB170025
+  (24).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

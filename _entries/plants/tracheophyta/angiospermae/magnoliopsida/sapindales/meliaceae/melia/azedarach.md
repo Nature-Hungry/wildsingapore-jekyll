@@ -13,13 +13,19 @@ subfamily: Melioideae
 tribe: Melieae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09248 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09250 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09245 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09248
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09250
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09245
+      (14).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09242 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09251 (14).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09252 (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09242
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09251
+      (14).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09252
+      (14).jpg
 title: Bead Tree
 other_names:
 - Chinaberry Tree
@@ -28,8 +34,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09248 (14).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\sapindales\meliaceae\melia\azedarach/DSC09248
+  (14).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

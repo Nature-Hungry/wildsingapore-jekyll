@@ -11,15 +11,22 @@ order: Malpighiales
 family: Malpighiaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00759 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00753 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00763 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00759
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00753
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00763
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00773 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00754 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00764 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00773
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00754
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00764
+      (08).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00774 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00774
+      (08).jpg
 title: Golden Thryallis
 other_names:
 - Gold Shower
@@ -28,8 +35,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00759 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malpighiales\malpighiaceae\galphimia\glauca/DSC00759
+  (08).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -13,21 +13,29 @@ family: Dryopteridaceae
 subfamily: Elaphoglossoideae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02679 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02675 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02677 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02679
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02675
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02677
+      (16).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02684 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02683 (16).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02681 (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02684
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02683
+      (16).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02681
+      (16).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02679 (16).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\polypodiopsida\polypodiales\dryopteridaceae\pleocnemia\conjugata/DSC02679
+  (16).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

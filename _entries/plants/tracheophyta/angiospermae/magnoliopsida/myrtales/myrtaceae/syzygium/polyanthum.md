@@ -77,7 +77,8 @@ layout: entry
 coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\myrtaceae\syzygium\polyanthum/DSC04675
   (09).jpg
 updated: July 2024
-rdb: Lc
+rdb: LC
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

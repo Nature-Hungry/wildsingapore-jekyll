@@ -11,7 +11,7 @@ attributes:
 - 36
 - 109
 family: Gentianaceae
-genus: Fagraea
+genus: Cyrtophyllum
 species: fragrans
 inat_id: 915467
 stateofmatter: Life
@@ -95,11 +95,12 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+rdb: LC
 ---
 
 ## Where seen?
 This beautiful stately tree is commonly planted in our parks and road sides. In the wild, they were found in open and swampy lowlands throughout Malaya, most commonly to the south. It was also known as
-*F. cohinchinensis*
+*Fagraea fragrans*
 . According to the NParks website, it is "highly robust and can grow even in poorly drained, clayey soils".
 
 ## Features

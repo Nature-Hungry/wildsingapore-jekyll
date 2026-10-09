@@ -11,25 +11,36 @@ order: Malvales
 family: Thymelaeaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060272 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060280 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060257 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060272
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060280
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060257
+      (24).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060277 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060260 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060266 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060277
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060260
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060266
+      (24).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060270 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060264 (24).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060265 (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060270
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060264
+      (24).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060265
+      (24).jpg
 title: '-'
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060272 (24).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\ridleyi/P9060272
+  (24).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

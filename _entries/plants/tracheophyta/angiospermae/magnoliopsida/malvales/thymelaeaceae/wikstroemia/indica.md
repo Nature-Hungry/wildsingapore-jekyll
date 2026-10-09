@@ -11,16 +11,24 @@ order: Malvales
 family: Thymelaeaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05738 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05734 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05731 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05738
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05734
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05731
+      (11).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05725 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05729 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05733 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05725
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05729
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05733
+      (11).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05736 (11).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05735 (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05736
+      (11).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05735
+      (11).jpg
 title: Tie Bush
 other_names:
 - Indian Stringbush
@@ -29,8 +37,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05738 (11).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\thymelaeaceae\wikstroemia\indica/DSC05738
+  (11).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

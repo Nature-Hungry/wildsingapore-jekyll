@@ -12,17 +12,22 @@ family: Onagraceae
 section: Humboldtia
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\onagraceae\ludwigia\sedioides/DSC07545 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\onagraceae\ludwigia\sedioides/DSC07546 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\onagraceae\ludwigia\sedioides/DSC07548 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\onagraceae\ludwigia\sedioides/DSC07545
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\onagraceae\ludwigia\sedioides/DSC07546
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\onagraceae\ludwigia\sedioides/DSC07548
+      (09).jpg
 title: Mosaic Plant
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\onagraceae\ludwigia\sedioides/DSC07545 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\myrtales\onagraceae\ludwigia\sedioides/DSC07545
+  (09).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

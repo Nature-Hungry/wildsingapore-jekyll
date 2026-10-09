@@ -13,15 +13,22 @@ subfamily: Convolvuloideae
 tribe: Ipomoeeae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC04075 (09).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC00289 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC03759 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC04075
+      (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC00289
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC03759
+      (09).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC00290 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC00293 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC04076 (09).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC00290
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC00293
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC04076
+      (09).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC00292 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC00292
+      (12).jpg
   - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/Hybrid_cultivar1.jpg
 title: Blue Morning Glory
 authors:
@@ -29,8 +36,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC04075 (09).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\solanales\convolvulaceae\ipomoea\indica/DSC04075
+  (09).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

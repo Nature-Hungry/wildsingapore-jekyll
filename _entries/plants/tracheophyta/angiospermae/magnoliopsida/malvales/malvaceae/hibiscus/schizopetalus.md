@@ -14,9 +14,12 @@ tribe: Hibisceae
 hybrid: "Hibiscus \xD7 archeri"
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\hibiscus\schizopetalus/DSC07154 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\hibiscus\schizopetalus/DSC07148 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\hibiscus\schizopetalus/DSC07150 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\hibiscus\schizopetalus/DSC07154
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\hibiscus\schizopetalus/DSC07148
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\hibiscus\schizopetalus/DSC07150
+      (08).jpg
 title: Japanese Hibiscus
 other_names:
 - Japanese Lantern
@@ -27,8 +30,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\hibiscus\schizopetalus/DSC07154 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\malvales\malvaceae\hibiscus\schizopetalus/DSC07154
+  (08).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

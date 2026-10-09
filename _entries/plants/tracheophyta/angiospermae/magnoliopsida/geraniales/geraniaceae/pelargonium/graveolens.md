@@ -13,19 +13,29 @@ subgenus: Pelargonium
 section: Pelargonium
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09522 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09526 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09523 (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09522
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09526
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09523
+      (12).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09524 (12).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09838 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09840 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09524
+      (12).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09838
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09840
+      (15).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09839 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09841 (15).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09842 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09839
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09841
+      (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09842
+      (15).jpg
   gallery4:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09845 (15).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09845
+      (15).jpg
 title: Mosquito Plant
 other_names:
 - Citronella Plant
@@ -34,8 +44,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09522 (12).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\geraniales\geraniaceae\pelargonium\graveolens/DSC09522
+  (12).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -13,19 +13,25 @@ subfamily: Kalanchoideae
 subgenus: Kalanchoe
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07693 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07695 (10).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07694 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07693
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07695
+      (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07694
+      (10).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07696 (10).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07696
+      (10).jpg
 title: Flaming Katy
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07693 (10).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\saxifragales\crassulaceae\kalanchoe\blossfeldiana/DSC07693
+  (10).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

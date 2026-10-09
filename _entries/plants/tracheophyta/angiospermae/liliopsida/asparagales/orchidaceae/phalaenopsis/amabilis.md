@@ -17,21 +17,29 @@ section: Phalaenopsis
 complex: Phalaenopsis amabilis
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01581 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01543 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01544 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01581
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01543
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01544
+      (08).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01545 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01547 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01546 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01545
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01547
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01546
+      (08).jpg
 title: Moth Orchid
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01581 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\asparagales\orchidaceae\phalaenopsis\amabilis/DSC01581
+  (08).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

@@ -11,16 +11,24 @@ family: Selaginellaceae
 subgenus: Stachygynandrum
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260142 (21).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260149 (21).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260151 (21).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260142
+      (21).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260149
+      (21).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260151
+      (21).jpg
   gallery2:
-  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260147 (21).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260152 (21).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260154 (21).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260147
+      (21).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260152
+      (21).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260154
+      (21).jpg
   gallery3:
-  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260150 (21).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260145 (21).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260150
+      (21).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260145
+      (21).jpg
 title: Blue Club Moss
 other_names:
 - Willdenow's Spikemoss
@@ -29,8 +37,10 @@ authors:
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260142 (21).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\lycopodiopsida\selaginellales\selaginellaceae\selaginella\willdenowii/PC260142
+  (21).jpg
 updated: July 2024
+hidden: false
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

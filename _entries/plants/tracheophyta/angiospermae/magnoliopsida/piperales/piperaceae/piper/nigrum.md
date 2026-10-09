@@ -11,15 +11,19 @@ order: Piperales
 family: Piperaceae
 galleries:
   gallery1:
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\piperales\piperaceae\piper\nigrum/DSC03385 (08).jpg
-  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\piperales\piperaceae\piper\nigrum/DSC03384 (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\piperales\piperaceae\piper\nigrum/DSC03385
+      (08).jpg
+  - url: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\piperales\piperaceae\piper\nigrum/DSC03384
+      (08).jpg
 title: Black Pepper
 authors:
 - '[Photos by Ong Kwan Han](https://ilovenature.sg/)'
 zone:
 - terrestrial
 layout: entry
-coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\piperales\piperaceae\piper\nigrum/DSC03385 (08).jpg
+coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida\piperales\piperaceae\piper\nigrum/DSC03385
+  (08).jpg
 updated: July 2024
+hidden: true
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
