@@ -7,7 +7,8 @@ layout: entry
 family: Veneridae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 50588
 stateofmatter: Life
 kingdom: Animalia

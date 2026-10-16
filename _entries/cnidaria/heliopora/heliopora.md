@@ -1,12 +1,15 @@
 ---
 title: Blue coral
 description: Fact sheet of Blue coral on the shores of Singapore
-keywords: blue, heliopora, coerulea, helioporidae, coral, alcyonaria, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: blue, heliopora, coerulea, helioporidae, coral, alcyonaria, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Helioporidae
 genus: Heliopora
 species: coerulea
-attributes: []
+attributes:
+- 155
 inat_id: 102432
 stateofmatter: Life
 kingdom: Animalia
@@ -21,17 +24,22 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg
     caption: Pulau Jong, Jul 07
   - url: https://images.naturehungry.sg/cnidaria/others/heliopora/heliopora/160724tpto7240260m6l.jpg
-    caption: During mass coral bleaching, a small bleaching coral is seen in the middle of large Blue coral colonies that appear normal. Terumbu Pempang Tengah, Jul 16
+    caption: During mass coral bleaching, a small bleaching coral is seen in the middle
+      of large Blue coral colonies that appear normal. Terumbu Pempang Tengah, Jul
+      16
   gallery3:
   - url: https://images.naturehungry.sg/cnidaria/others/heliopora/heliopora/050309smkg3125m3.jpg
     caption: With polyps extended. Pulau Semakau, Mar 05
   - url: https://images.naturehungry.sg/cnidaria/others/heliopora/heliopora/110522bbbd2750m3b.jpg
-    caption: Polyps with branched tentacles more typical of soft than hard corals. Beting Bemban Besar, May 11
+    caption: Polyps with branched tentacles more typical of soft than hard corals.
+      Beting Bemban Besar, May 11
   - url: https://images.naturehungry.sg/cnidaria/others/heliopora/heliopora/060402ulrd1109m3a.jpg
-    caption: A look inside a broken blue coral showing the blue internal skeleton and tiny channels when the polyps are. Pulau Hantu, Apr 06
+    caption: A look inside a broken blue coral showing the blue internal skeleton
+      and tiny channels when the polyps are. Pulau Hantu, Apr 06
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/others/heliopora/heliopora/210501tbtch2.jpg
-    caption: Doridomorpha gardineri Terumbu Bemban, May 21 Photo shared by Toh Chay Hoon on facebook .
+    caption: Doridomorpha gardineri Terumbu Bemban, May 21 Photo shared by Toh Chay
+      Hoon on facebook .
   gallery5:
   - url: https://images.naturehungry.sg/cnidaria/others/heliopora/heliopora/091231biod6966m3.jpg
     caption: Pulau Biola, Dec 09

@@ -11,6 +11,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Calappidae
 genus: Calappa
 species: philargius
@@ -72,8 +73,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Spectacled box crab (
-  *Calappa philargius*
+  - [Spectacled box crab ( *Calappa philargius*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83545)
 

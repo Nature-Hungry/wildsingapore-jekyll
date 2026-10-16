@@ -10,6 +10,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Grapsidae
 genus: Grapsus
 species: albolineatus
@@ -80,8 +81,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Mottled Sally-light-foot (
-  *Grapsus albolineatus*
+  - [Mottled Sally-light-foot ( *Grapsus albolineatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21498)
 

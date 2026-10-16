@@ -10,6 +10,7 @@ attributes:
 - 47
 - 106
 - 108
+- 155
 family: Pomacentridae
 genus: Dischistodus
 species: prosopotaenia
@@ -43,8 +44,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Honey-head damsel (
-  *Dischistodus prosopotaenia*
+  - [Honey-head damsel ( *Dischistodus prosopotaenia*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/343)
 

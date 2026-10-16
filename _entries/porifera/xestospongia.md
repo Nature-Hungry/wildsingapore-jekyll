@@ -10,6 +10,7 @@ species: testudinaria
 attributes:
 - 159
 - 141
+- 155
 inat_id: 319598
 stateofmatter: Life
 kingdom: Animalia

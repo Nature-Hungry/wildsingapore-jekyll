@@ -14,6 +14,7 @@ attributes:
 - 47
 - 48
 - 79
+- 155
 family: Gobiidae
 genus: Cryptocentrus
 species: leptocephalus
@@ -89,8 +90,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Pink-speckled shrimpgoby (
-  *Cryptocentrus leptocephalus)*
+  - [Pink-speckled shrimpgoby ( *Cryptocentrus leptocephalus)*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=25799)
 

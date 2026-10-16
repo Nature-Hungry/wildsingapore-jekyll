@@ -1,7 +1,9 @@
 ---
 title: Razorfishes
 description: Fact sheet of Razorfishes on the shores of Singapore
-keywords: razorfish, razor, fish, aeoliscus, strigatus, centriscidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: razorfish, razor, fish, aeoliscus, strigatus, centriscidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 9
@@ -9,6 +11,7 @@ attributes:
 - 25
 - 47
 - 116
+- 155
 family: Centriscidae
 genus: ''
 species: ''
@@ -39,7 +42,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/centriscidae/centriscidae/150619tuso6190042m3.jpg
     caption: One, next to a sea fan. Tuas, Jun 15
   - url: https://images.naturehungry.sg/vertebrates/fish/centriscidae/centriscidae/250401smknrk1.jpg
-    caption: Seen among spines of Diadema urchin . Pulau Semakau North, Apr 25 Photo shared by Richard Kuah on facebook .
+    caption: Seen among spines of Diadema urchin . Pulau Semakau North, Apr 25 Photo
+      shared by Richard Kuah on facebook .
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/centriscidae/centriscidae/210626cjlks2.jpg
     caption: Chek Jawa, Jun 21 Photo shared by Loh Kok Sheng on facebook .
@@ -71,12 +75,15 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/centriscidae/centriscidae/121115tsmklks.JPG
     caption: Terumbu Semakau, Nov 12 Photo shared by Loh Kok Sheng on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/centriscidae/centriscidae/2007025smknlks5.jpg
-    caption: Pulau Semakau North, Jul 20 Photo shared by Loh Kok Sheng on facebook .
+    caption: Pulau Semakau North, Jul 20 Photo shared by Loh Kok Sheng on facebook
+      .
   gallery9:
   - url: https://images.naturehungry.sg/vertebrates/fish/centriscidae/centriscidae/170514bbbtch4.jpg
-    caption: Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on facebook .
+    caption: Beting Bemban Besar, May 17 Photo shared by Toh Chay Hoon on facebook
+      .
   - url: https://images.naturehungry.sg/vertebrates/fish/centriscidae/centriscidae/251008bbblvo5.jpg
-    caption: Beting Bemban Besar, Oct 25 Photo shared by Lon Voon Ong on facebook .
+    caption: Beting Bemban Besar, Oct 25 Photo shared by Lon Voon Ong on facebook
+      .
   - url: https://images.naturehungry.sg/vertebrates/fish/centriscidae/centriscidae/230806tbrk2.jpg
     caption: Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on facebook .
 links_references: '### Links
@@ -118,7 +125,8 @@ links_references: '### Links
 
   - [Vol. 4. Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
 
 
   ### References

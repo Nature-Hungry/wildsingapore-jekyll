@@ -8,7 +8,8 @@ layout: entry
 family: Dendrophylliidae
 genus: Turbinaria
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 92703
 stateofmatter: Life
 kingdom: Animalia
@@ -124,7 +125,7 @@ links_references: '### Links
 
   . The Nature Society (Singapore), Singapore. 343 pp.
 
- '
+  '
 location:
 - tm
 - ecp

@@ -12,6 +12,7 @@ species: oligospora
 attributes:
 - 97
 - 115
+- 155
 inat_id: 1072199
 stateofmatter: Life
 kingdom: Plantae

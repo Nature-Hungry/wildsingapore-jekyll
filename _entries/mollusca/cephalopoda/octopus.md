@@ -7,7 +7,8 @@ layout: entry
 family: Octopodidae
 genus: ''
 species: Octopus
-attributes: []
+attributes:
+- 155
 inat_id: 47457
 stateofmatter: Life
 kingdom: Animalia

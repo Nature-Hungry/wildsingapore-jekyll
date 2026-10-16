@@ -9,6 +9,7 @@ genus: Haliclona
 species: cf.
 attributes:
 - 140
+- 155
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/porifera/lumpypink/100403bbbd0585m3.jpg
 galleries:

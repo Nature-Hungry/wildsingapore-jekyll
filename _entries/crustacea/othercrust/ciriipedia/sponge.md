@@ -8,7 +8,8 @@ layout: entry
 family: Archaeobalanidae
 genus: Membranobalanus
 species: longirostrum
-attributes: []
+attributes:
+- 155
 inat_id: 778218
 stateofmatter: Life
 kingdom: Animalia

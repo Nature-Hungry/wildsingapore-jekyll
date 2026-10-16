@@ -8,7 +8,8 @@ layout: entry
 family: Arcidae
 genus: Barbatia
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 196279
 stateofmatter: Life
 kingdom: Animalia

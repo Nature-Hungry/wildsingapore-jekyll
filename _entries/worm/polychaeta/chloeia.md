@@ -8,8 +8,9 @@ layout: entry
 family: Amphinomidae
 genus: Chloeia
 species: ''
-attributes: 
+attributes:
 - 149
+- 155
 inat_id: 194941
 stateofmatter: Life
 kingdom: Animalia

@@ -12,6 +12,7 @@ species: scalpelliformis
 attributes:
 - 46
 - 97
+- 155
 inat_id: 570223
 stateofmatter: Life
 kingdom: Plantae

@@ -11,6 +11,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Ocypodidae
 genus: Ocypode
 species: cordimanus
@@ -48,8 +49,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Ghost Crab (
-  *Ocypoda*
+  - [Ghost Crab ( *Ocypoda*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/191)
 

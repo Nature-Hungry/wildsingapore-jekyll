@@ -9,6 +9,7 @@ genus: Pseudoceratina
 species: purpurea*
 attributes:
 - 161
+- 155
 inat_id: 783231
 stateofmatter: Life
 kingdom: Animalia

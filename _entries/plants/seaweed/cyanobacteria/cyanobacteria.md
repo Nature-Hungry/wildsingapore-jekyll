@@ -1,13 +1,16 @@
 ---
 title: Cyanobacteria
 description: Fact sheet of Cyanobacteria on the shores of Singapore
-keywords: cyanobacteria, blue-green, blue, green, seaweed, weed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+keywords: cyanobacteria, blue-green, blue, green, seaweed, weed, algae, chlorophyta,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info
 layout: entry
 division: Cyanophyta
 family: ''
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 1
 stateofmatter: Life
 kingdom: Bacteria
@@ -42,7 +45,9 @@ links_references: '### Links
 
   - [Cynaophyta](http://www.botany.hawaii.edu/faculty/webb/BOT311/Cyanobacteria/Cyanobacteria)
 
-  on the University of Hawai''i Manoa website: lots of photos and lots of brief details on major aspects of the group, quite scientific but the photos and diagrams make it easier to understand.
+  on the University of Hawai''i Manoa website: lots of photos and lots of brief details
+  on major aspects of the group, quite scientific but the photos and diagrams make
+  it easier to understand.
 
   - [Cyanosite](http://www-cyanosite.bio.purdue.edu/)
 
@@ -50,7 +55,8 @@ links_references: '### Links
 
   - [Microbial Mat Page](http://www.uta.edu/paleomap/homepage/Schieberweb/microbial_mat_page)
 
-  by Jurgen Schieber, University of Texas at Arlington Department of Geology website: all about mats produced by microbes with photos and links.
+  by Jurgen Schieber, University of Texas at Arlington Department of Geology website:
+  all about mats produced by microbes with photos and links.
 
   - [Hamelin Pool Marine Nature Reserve](http://www.naturebase.net/component/option,com_hotproperty/task,view/id,56/Itemid,755/)
 
@@ -60,7 +66,8 @@ links_references: '### Links
   ### References
 
 
-  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin Tsai Min and Wang Luan Keng,
+  - Lee Ai Chin, Iris U. Baula, Lilibeth N. Miranda and Sin Tsai Min ; editors: Sin
+  Tsai Min and Wang Luan Keng,
 
   *A photographic guide to the marine algae of Singapore*
 
@@ -68,15 +75,18 @@ links_references: '### Links
 
   - Pham, M. N., H. T. W. Tan, S. Mitrovic & H. H. T. Yeo, 2011.
 
-  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
+  [*A Checklist of the Algae of Singapore*](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/LKCNH
+  Museum Books/LKCNHM Books/singapore_algae_checklist_second_edition.pdf)
 
-  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore, Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
+  , 2nd Edition. Lee Kong Chian Natural History Museum, National University of Singapore,
+  Singapore. 99 pp. Uploaded 1 October 2011. [PDF, 1.58 MB].
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
 
   - Sumich, James L. 1999.
 

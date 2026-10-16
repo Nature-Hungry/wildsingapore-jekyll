@@ -5,7 +5,8 @@ keywords: peacock, tube, anemone, cerianthid, cerianthus, cerianthidae, cerianth
   anthozoa, cnidaria, phoronis, field, guide, seashore, sea, shore, marine, coastal,
   intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: []
+attributes:
+- 155
 stateofmatter: Life
 kingdom: Animalia
 phylum: Cnidaria
@@ -48,8 +49,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Snakelock or cerianthid (
-  *Cerianthus*
+  - [Snakelock or cerianthid ( *Cerianthus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/122)
 

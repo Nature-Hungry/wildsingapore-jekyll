@@ -9,6 +9,7 @@ attributes:
 - 100
 - 78
 - 66
+- 155
 family: Batillariidae
 genus: Batillaria
 species: zonalis
@@ -47,8 +48,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Creeper Shell (
-  *Batillaria zonalis*
+  - [Creeper Shell ( *Batillaria zonalis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/138)
 

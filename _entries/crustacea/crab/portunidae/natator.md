@@ -12,6 +12,7 @@ attributes:
 - 106
 - 112
 - 119
+- 155
 family: Portunidae
 genus: Charybdis
 species: natator*
@@ -88,8 +89,7 @@ links_references: '### Links
 
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
-  - [Ridged swimming crab (
-  *Charybdis natator*
+  - [Ridged swimming crab ( *Charybdis natator*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=83562)
 

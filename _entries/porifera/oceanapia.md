@@ -9,6 +9,7 @@ genus: Oceanapia
 species: sagittaria
 attributes:
 - 160
+- 155
 inat_id: 57735
 stateofmatter: Life
 kingdom: Animalia

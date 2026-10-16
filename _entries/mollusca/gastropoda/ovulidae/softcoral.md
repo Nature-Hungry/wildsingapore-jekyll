@@ -11,6 +11,7 @@ species: identification*
 attributes:
 - 100
 - 87
+- 155
 inat_id: 49260
 stateofmatter: Life
 kingdom: Animalia

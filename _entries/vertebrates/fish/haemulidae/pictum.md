@@ -11,6 +11,7 @@ attributes:
 - 25
 - 43
 - 47
+- 155
 family: Haemulidae
 genus: Diagramma
 species: pictum
@@ -42,8 +43,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Painted sweetlips (
-  *Diagramma pictum*
+  - [Painted sweetlips ( *Diagramma pictum*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/283)
 

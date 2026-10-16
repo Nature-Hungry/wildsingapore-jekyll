@@ -8,6 +8,7 @@ layout: entry
 attributes:
 - 38
 - 54
+- 155
 family: Diogenidae
 genus: Diogenes
 species: sp.*
@@ -50,8 +51,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Mangrove hermit crab (
-  *Diogenes*
+  - [Mangrove hermit crab ( *Diogenes*
 
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)
 
@@ -108,7 +108,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They come in all sizes from tiny ones you can hardly see, to larger ones
-- Every empty shell is a potential hermit crab home. Don't take any shells home! 
+- Every empty shell is a potential hermit crab home. Don't take any shells home!
 - Many other animals live together with a hermit crab. Look for them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

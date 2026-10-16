@@ -1,12 +1,14 @@
 ---
 title: Hydroids
 description: Fact sheet of Hydroids on the shores of Singapore
-keywords: hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Bougainvilliidae
 genus: awaiting
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 63663
 stateofmatter: Life
 kingdom: Animalia
@@ -77,23 +79,29 @@ links_references: '### Links
 
   - [The Hydrozoa Directory](http://www.ville-ge.ch/mhng/hydrozoa/hydrozoa-directory)
 
-  on the Natural History Museum of Geneva website: photos and fact sheets with glossary of terms, covering everything you might want to know about hydroids from nematocysts to life cycle and more.
+  on the Natural History Museum of Geneva website: photos and fact sheets with glossary
+  of terms, covering everything you might want to know about hydroids from nematocysts
+  to life cycle and more.
 
   - [Shallow-water hydroids](http://www.vattenkikaren.gu.se/fakta/arter/cnidaria/hydrozoa/olikahe.html)
 
-  on Aquascope of the Tjarno Marine Biological Laboratory: some photos and titbits on the animals.
+  on Aquascope of the Tjarno Marine Biological Laboratory: some photos and titbits
+  on the animals.
 
   - [Hydroids](http://www.seaslugforum.net/hydroids)
 
-  on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among the stuff that nudibranchs eat, there is some interesting information on them on this site.
+  on the Sea Slug Forum by Dr Bill Rudman: as hydroids are among the stuff that nudibranchs
+  eat, there is some interesting information on them on this site.
 
 
   ### References
 
 
-  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore*
 
-  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
+  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,
+  D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024.
 
   *The Singapore Red Data Book: Threatened plants and animals of Singapore*
 
@@ -101,7 +109,8 @@ links_references: '### Links
 
   - Ling Min Kang, Iffah Iesa, Danwei Huang, Nicholas Wei Liang Yap
 
-  *Diversity of hydromedusae (Cnidaria: Medusozoa: Hydrozoa) at Sentosa, including three new records for Singapore waters*
+  *Diversity of hydromedusae (Cnidaria: Medusozoa: Hydrozoa) at Sentosa, including
+  three new records for Singapore waters*
 
   . Nature in Singapore 16: e2023076, 8 August 2023, DOI: 10.26107/NIS-2023-0076.
 
@@ -126,7 +135,8 @@ links_references: '### Links
   '
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch them
+- Often mistaken for plants, they are animals! Some can sting powerfully. Don't touch
+  them
 - Each 'bush' is a colony of many little polyps.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

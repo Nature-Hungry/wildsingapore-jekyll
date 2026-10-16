@@ -10,6 +10,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Majidae
 genus: Schizophrys
 species: ''
@@ -82,15 +83,13 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Common decorator crab (
-  *Schizophrys aspera*
+  - [Common decorator crab ( *Schizophrys aspera*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=aspera)
 
   and
 
-  [Pronghorn decorator crab (
-  *Schizophrys dama*
+  [Pronghorn decorator crab ( *Schizophrys dama*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Schizophrys&speciesname=dama)
 

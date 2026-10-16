@@ -8,6 +8,9 @@ species: cephalus
 zone:
 - marine
 - freshwater
+attributes:
+- 156
+- 155
 inat_id: 106222
 stateofmatter: Life
 kingdom: Animalia

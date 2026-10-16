@@ -5,11 +5,13 @@ keywords: jellyfish, jelly, fish, jellies, catostylus, catostylidae, scyphozoa, 
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
 layout: entry
-attributes: []
+attributes:
+- 155
 family: Catosylidae
 genus: Catostylus
 species: ''
-summary: Bell 6-10cm across, short thick fat tentacles. Sometimes seen on our Northern shores.
+summary: Bell 6-10cm across, short thick fat tentacles. Sometimes seen on our Northern
+  shores.
 inat_id: 333778
 stateofmatter: Life
 kingdom: Animalia
@@ -18,7 +20,6 @@ class: Scyphozoa
 subclass: Discomedusae
 order: Rhizostomeae
 suborder: Dactyliophorae
-
 updated: Sep 2025
 coverimg: https://images.naturehungry.sg/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
 galleries:

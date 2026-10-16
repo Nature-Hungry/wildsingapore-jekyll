@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Tetraodontidae
 genus: Arothon
 species: reticularis
@@ -30,8 +31,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Reticulated puffer (
-  *Arothron reticularis*
+  - [Reticulated puffer ( *Arothron reticularis*
 
   )](https://www.fishbase.se/summary/6594)
 

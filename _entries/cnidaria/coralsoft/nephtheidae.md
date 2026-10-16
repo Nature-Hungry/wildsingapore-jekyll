@@ -8,7 +8,8 @@ layout: entry
 family: Nephtheidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 141945
 stateofmatter: Life
 kingdom: Animalia
@@ -123,7 +124,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are animals! Although they look like plants. Don't step on them! Each soft
- coral is a colony of countless tiny polyps
+  coral is a colony of countless tiny polyps
 - Tiny animals may live in the colony
 - Look for them.
 authors:

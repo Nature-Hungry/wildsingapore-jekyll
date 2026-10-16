@@ -12,6 +12,7 @@ species: ''
 attributes:
 - 97
 - 98
+- 155
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg
 galleries:

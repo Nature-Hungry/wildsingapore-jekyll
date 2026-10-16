@@ -8,7 +8,8 @@ layout: entry
 family: Gobiidae
 genus: Periophthalmus
 species: variabilis
-attributes: []
+attributes:
+- 155
 inat_id: 326743
 stateofmatter: Life
 kingdom: Animalia

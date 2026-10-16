@@ -10,6 +10,7 @@ attributes:
 - 47
 - 106
 - 108
+- 155
 family: Terapontidae
 genus: Terapon
 species: theraps
@@ -45,8 +46,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Banded perch (
-  *Terapon theraps*
+  - [Banded perch ( *Terapon theraps*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/273)
 

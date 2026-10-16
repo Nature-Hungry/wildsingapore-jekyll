@@ -8,6 +8,7 @@ layout: entry
 attributes:
 - 38
 - 106
+- 155
 family: Trapezioidea
 genus: Tetralia
 species: nigrolineata

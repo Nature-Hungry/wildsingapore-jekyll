@@ -10,6 +10,7 @@ attributes:
 - 1
 - 58
 - 92
+- 155
 family: Oreasteridae
 genus: Anthenea
 species: aspera

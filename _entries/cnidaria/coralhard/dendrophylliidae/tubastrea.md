@@ -8,7 +8,8 @@ layout: entry
 family: Dendrophylliidae
 genus: Tubastraea
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 51803
 stateofmatter: Life
 kingdom: Animalia
@@ -130,7 +131,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - pgl
 - prp

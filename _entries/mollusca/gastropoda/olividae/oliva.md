@@ -11,6 +11,7 @@ species: Oliva
 attributes:
 - 100
 - 127
+- 155
 inat_id: 61805
 stateofmatter: Life
 kingdom: Animalia
@@ -41,8 +42,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Common olive (
-  *Oliva oliva*
+  - [Common olive ( *Oliva oliva*
 
   )](http://www.sealifebase.org/summary/Oliva-oliva.html)
 

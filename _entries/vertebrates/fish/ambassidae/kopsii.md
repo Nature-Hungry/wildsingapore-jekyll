@@ -10,6 +10,7 @@ attributes:
 - 47
 - 69
 - 70
+- 155
 family: Ambassidae
 genus: ''
 species: ''
@@ -53,8 +54,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Kops'' Glass Perchlet (
-  *Ambassis kopsii*
+  - [Kops'' Glass Perchlet ( *Ambassis kopsii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/263)
 
@@ -72,8 +72,7 @@ links_references: '### Links
 
   on Ecology Asia.
 
-  - [Singapore glassy perchlet (
-  *Ambassis kopsii*
+  - [Singapore glassy perchlet ( *Ambassis kopsii*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5982)
 

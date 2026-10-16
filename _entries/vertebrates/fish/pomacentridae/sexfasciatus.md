@@ -12,6 +12,7 @@ attributes:
 - 60
 - 69
 - 70
+- 155
 family: Pomacentridae
 genus: Abudefduf
 species: sexfasciatus
@@ -35,8 +36,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Scissortail sergeant (
-  *Abudefduf sexfasciatus*
+  - [Scissortail sergeant ( *Abudefduf sexfasciatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/340)
 
@@ -46,8 +46,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Scissortail sergeant (
-  *Abudefduf sexfasciatus*
+  - [Scissortail sergeant ( *Abudefduf sexfasciatus*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=5688)
 

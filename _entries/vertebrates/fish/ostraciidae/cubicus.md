@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Ostraciidae
 genus: Ostracion
 species: cubicus
@@ -35,8 +36,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Yellow boxfish (
-  *Ostracion cubicus*
+  - [Yellow boxfish ( *Ostracion cubicus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=6555)
 

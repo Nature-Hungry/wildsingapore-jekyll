@@ -11,6 +11,7 @@ attributes:
 - 25
 - 47
 - 116
+- 155
 family: Monacanthidae
 genus: Anacanthus
 species: barbatus
@@ -42,8 +43,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bearded leatherjacket (
-  *Anacanthus barbatus*
+  - [Bearded leatherjacket ( *Anacanthus barbatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8178)
 

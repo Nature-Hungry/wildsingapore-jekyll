@@ -11,6 +11,7 @@ attributes:
 - 25
 - 43
 - 47
+- 155
 family: Gobiidae
 genus: Valenciennea
 species: muralis
@@ -54,8 +55,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Mural goby (
-  *Valenciennea muralis*
+  - [Mural goby ( *Valenciennea muralis*
 
   )](http://www.fishbase.org/summary/7226)
 

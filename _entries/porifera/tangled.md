@@ -9,6 +9,7 @@ genus: Callyspongia
 species: samarensis
 attributes:
 - 140
+- 155
 inat_id: 1077657
 stateofmatter: Life
 kingdom: Animalia

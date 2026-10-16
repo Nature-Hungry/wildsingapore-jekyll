@@ -11,6 +11,7 @@ attributes:
 - 25
 - 43
 - 47
+- 155
 family: Muraenidae
 genus: Uropterygius
 species: concolor*
@@ -47,8 +48,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Unicolor snake moray (
-  *Uropterygius concolor*
+  - [Unicolor snake moray ( *Uropterygius concolor*
 
   )](http://www.fishbase.se/summary/SpeciesSummary.php?id=7283)
 

@@ -1,7 +1,8 @@
 ---
 title: 'Nipah palm '
 description: Fact sheet of Nipah     palm  on the shores of Singapore
-keywords: nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 8
@@ -10,6 +11,7 @@ attributes:
 - 21
 - 36
 - 82
+- 155
 family: Arecaceae
 genus: Nypa
 species: fruticans
@@ -84,7 +86,8 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
   ### References
@@ -92,7 +95,8 @@ links_references: '### Links
 
   - Teo, S., W. F. Ang, A. F. S. L. Lok, B. R. Kurukulasuriya & H. T. W. Tan, 2010.
 
-  [The status and distribution of the nipah palm, Nypa fruticans Wurmb (Arecaceae), in Singapore](http://rmbr.nus.edu.sg/nis/bulletin2010/2010nis045-052.pdf)
+  [The status and distribution of the nipah palm, Nypa fruticans Wurmb (Arecaceae),
+  in Singapore](http://rmbr.nus.edu.sg/nis/bulletin2010/2010nis045-052.pdf)
 
   . Nature in Singapore, 3: 45-52.
 
@@ -112,7 +116,8 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 

@@ -8,7 +8,8 @@ layout: entry
 family: Euryleptidae
 genus: Maritigrella
 species: virgulata
-attributes: []
+attributes:
+- 155
 inat_id: 841626
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,8 @@ layout: entry
 family: Gorgoniidae
 genus: ''
 species: identification*
-attributes: []
+attributes:
+- 155
 inat_id: 120131
 stateofmatter: Life
 kingdom: Animalia
@@ -16,7 +17,9 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
-summary: 20-30cm. Colony bushy, long stems not frequently branched. Cylindrical, thick (1cm) fleshy and leathery, with a wire-like central support sometimes exposed at the tips. Dusky pinkish beige. On coral reefs. Seen on our Southern shores.
+summary: 20-30cm. Colony bushy, long stems not frequently branched. Cylindrical, thick
+  (1cm) fleshy and leathery, with a wire-like central support sometimes exposed at
+  the tips. Dusky pinkish beige. On coral reefs. Seen on our Southern shores.
 updated: Mar 2020
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/leathery/100517jngd2750m3.jpg
 galleries:

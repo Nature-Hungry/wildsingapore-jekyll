@@ -5,7 +5,8 @@ keywords: electric, sting, ray, stingray, numbfish, narcine, torpedinidae, narci
   fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: []
+attributes:
+- 155
 family: Narcinidae
 genus: ''
 species: ''

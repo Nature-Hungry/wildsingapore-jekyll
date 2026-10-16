@@ -9,6 +9,7 @@ genus: Callyspongia
 species: ''
 attributes:
 - 140
+- 155
 inat_id: 128116
 stateofmatter: Life
 kingdom: Animalia

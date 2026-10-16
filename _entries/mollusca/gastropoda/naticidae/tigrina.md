@@ -15,6 +15,7 @@ attributes:
 - 100
 - 111
 - 123
+- 155
 family: Naticidae
 genus: Notocochlis
 species: tigrina
@@ -75,15 +76,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Tiger moon snail (
-  *Natica tigrina*
+  - [Tiger moon snail ( *Natica tigrina*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86530)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Tiger moon snail (
-  *Natica tigrina*
+  - Tiger moon snail ( *Natica tigrina*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

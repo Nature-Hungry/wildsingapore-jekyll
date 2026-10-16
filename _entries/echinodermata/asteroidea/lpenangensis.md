@@ -8,7 +8,8 @@ layout: entry
 family: Luidiidae
 genus: Luidia
 species: penangensis
-attributes: []
+attributes:
+- 155
 inat_id: 353781
 stateofmatter: Life
 kingdom: Animalia

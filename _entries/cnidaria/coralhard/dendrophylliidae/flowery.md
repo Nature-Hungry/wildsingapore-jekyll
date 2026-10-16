@@ -8,7 +8,8 @@ layout: entry
 family: Dendrophylliidae
 genus: Turbinaria
 species: peltata
-attributes: []
+attributes:
+- 155
 inat_id: 1189993
 stateofmatter: Life
 kingdom: Animalia

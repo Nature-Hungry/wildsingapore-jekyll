@@ -12,6 +12,7 @@ attributes:
 - 23
 - 75
 - 100
+- 155
 inat_id: 604344
 stateofmatter: Life
 kingdom: Animalia
@@ -59,15 +60,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Spurred turban (
-  *Astralium calcar*
+  - [Spurred turban ( *Astralium calcar*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86822)
 
   in SeaLife Base: Technical fact sheet.
 
-  - Spurred turban (
-  *Astralium calcar*
+  - Spurred turban ( *Astralium calcar*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

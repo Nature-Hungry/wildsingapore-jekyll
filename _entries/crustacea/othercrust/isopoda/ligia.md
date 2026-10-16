@@ -7,7 +7,8 @@ layout: entry
 family: Ligiidae
 genus: Ligia
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 55358
 stateofmatter: Life
 kingdom: Animalia

@@ -11,6 +11,7 @@ attributes:
 - 47
 - 49
 - 81
+- 155
 family: Platycephalidae
 genus: Platycephalus
 species: indicus
@@ -49,8 +50,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bartail Flathead (
-  *Platycephalus indicus*
+  - [Bartail Flathead ( *Platycephalus indicus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/259)
 
@@ -60,8 +60,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Bartail Flathead (
-  *Platycephalus indicus*
+  - [Bartail Flathead ( *Platycephalus indicus*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=950)
 

@@ -9,6 +9,7 @@ genus: Dactylospongia
 species: elegans
 attributes:
 - 140
+- 155
 inat_id: 1536626
 stateofmatter: Life
 kingdom: Animalia

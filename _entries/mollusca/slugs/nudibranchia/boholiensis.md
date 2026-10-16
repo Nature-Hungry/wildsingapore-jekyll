@@ -10,6 +10,7 @@ genus: Discodoris
 species: boholiensis
 attributes:
 - 22
+- 155
 inat_id: 50442
 stateofmatter: Life
 kingdom: Animalia

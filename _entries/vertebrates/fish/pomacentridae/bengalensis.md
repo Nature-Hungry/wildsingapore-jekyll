@@ -14,6 +14,7 @@ attributes:
 - 70
 - 106
 - 108
+- 155
 family: Pomacentridae
 genus: Abudefduf
 species: bengalensis
@@ -68,8 +69,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bengal sergeant (
-  *Abudefduf bengalensis*
+  - [Bengal sergeant ( *Abudefduf bengalensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/339)
 
@@ -79,8 +79,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Bengal sergeant (
-  *Abudefduf bengalensis*
+  - [Bengal sergeant ( *Abudefduf bengalensis*
 
   )](http://www.fishbase.se/Summary/SpeciesSummary.php?id=6517)
 

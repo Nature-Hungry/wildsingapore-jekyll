@@ -8,7 +8,8 @@ layout: entry
 family: Lobophylliidae
 genus: Lobophyllia
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 503597
 stateofmatter: Life
 kingdom: Animalia
@@ -106,7 +107,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - snt
 - tkr

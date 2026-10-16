@@ -9,6 +9,7 @@ genus: Terpios
 species: ''
 attributes:
 - 160
+- 155
 inat_id: 131764
 stateofmatter: Life
 kingdom: Animalia

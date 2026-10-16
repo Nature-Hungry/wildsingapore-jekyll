@@ -10,6 +10,7 @@ attributes:
 - 47
 - 58
 - 60
+- 155
 family: Lethrinidae
 genus: Lethrinus
 species: lentjan
@@ -59,8 +60,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Pink ear emperor (
-  *Lethrinus lentjan*
+  - [Pink ear emperor ( *Lethrinus lentjan*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=1863)
 

@@ -8,7 +8,8 @@ layout: entry
 family: Acroporidae
 genus: Montipora
 species: sp.
-attributes: []
+attributes:
+- 155
 inat_id: 106125
 stateofmatter: Life
 kingdom: Animalia
@@ -95,7 +96,7 @@ links_references: '### Links
 
   . The Nature Society (Singapore), Singapore. 343 pp.
 
- '
+  '
 location:
 - bb
 - tm

@@ -10,6 +10,7 @@ species: clavosa
 attributes:
 - 159
 - 141
+- 155
 inat_id: 764906
 stateofmatter: Life
 kingdom: Animalia

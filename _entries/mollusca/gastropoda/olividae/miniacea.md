@@ -11,6 +11,7 @@ species: Oliva
 attributes:
 - 100
 - 127
+- 155
 inat_id: 61805
 stateofmatter: Life
 kingdom: Animalia
@@ -52,15 +53,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Redmouth olive (
-  *Oliva miniacea*
+  - [Redmouth olive ( *Oliva miniacea*
 
   )](http://www.sealifebase.org/summary/SpeciesSummary.php?id=87039)
 
   on SeaLife Base: Technical fact sheet and photo.
 
-  - [Orange-mouth olive snail (
-  *Olivia sericea*
+  - [Orange-mouth olive snail ( *Olivia sericea*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=202)
 

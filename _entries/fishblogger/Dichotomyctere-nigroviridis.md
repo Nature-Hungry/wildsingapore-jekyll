@@ -8,6 +8,8 @@ species: nigroviridis
 rdb: LC
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 621545
 stateofmatter: Life
 kingdom: Animalia

@@ -1,88 +1,109 @@
 ---
-title: "Cnidarians"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "cnidaria, coral, anemone, jellyfish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+title: Cnidarians
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cnidaria, coral, anemone, jellyfish, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 stateofmatter: Life
 kingdom: Animalia
 phylum: Cnidaria
-trivia_title: "if you only 3 things about them ... "
+trivia_title: 'if you only 3 things about them ... '
 trivia_items:
 - Many Cnidarians are small and easily overlooked. Don't step on it.
-- Most Cnidarians have stingers. Don't touch them! 
+- Most Cnidarians have stingers. Don't touch them!
 - Cnidarians are important to the habitat. Don't kill or remove them.
 updated: Nov 2019
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acropora/050309smkd1489m.jpg
-    caption: '[Hard coral](/entries/cnidaria/coralhard/coralhard)' 
+    caption: '[Hard coral](/entries/cnidaria/coralhard/coralhard)'
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpinwheel/060402ulrd0988m.jpg
     caption: '[Soft coral](/entries/cnidaria/coralsoft/alcyoniidae)'
   - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/040701chgd1388m.jpg
     caption: '[Peacock anemone](/entries/Cnidaria/Anthozoa/Ceriantharia)'
-  - url: https://images.naturehungry.sg/cnidaria/actiniaria/doreensis/050821bbd5815m.jpg  
+  - url: https://images.naturehungry.sg/cnidaria/actiniaria/doreensis/050821bbd5815m.jpg
     caption: '[Sea anemone](/entries/Cnidaria/Anthozoa/Hexacorallia/Actiniaria)'
-  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/050624tusg8505m.jpg  
+  - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/050624tusg8505m.jpg
     caption: '[Jellyfishes](/entries/cnidaria/others/jellyfish/jellyfish)'
-  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/040720chgd2899m.jpg  
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/040720chgd2899m.jpg
     caption: '[Sea pens](/entries/cnidaria/others/pennatulacea/pennatulacea)'
-  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/040828skdd5545ma.jpg  
+  - url: https://images.naturehungry.sg/cnidaria/others/zoanthid/zoanthus/040828skdd5545ma.jpg
     caption: '[Colonial anemones](/entries/cnidaria/others/zoanthid/zoanthid)'
-  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m.jpg  
+  - url: https://images.naturehungry.sg/cnidaria/others/corallimorphs/beaded/060527sjig6070m.jpg
     caption: '[Corallimorphs](/entries/cnidaria/others/corallimorphs/corallimorph)'
-  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050411tusd2333ma.jpg  
-    caption: '[Hydroids](/entries/cnidaria/others/hydrozoa/hydrozoa)' 
-  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/050821bbd5844m.jpg  
+  - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050411tusd2333ma.jpg
+    caption: '[Hydroids](/entries/cnidaria/others/hydrozoa/hydrozoa)'
+  - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/050821bbd5844m.jpg
     caption: '[Sea fans](/entries/cnidaria/others/gorgonacea/gorgonacea)'
   gallery2:
-  
   - url: https://images.naturehungry.sg/cnidaria/p500a.gif
     caption: Sequence of firing stinging cell
   - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/060415hntd1226m3.jpg
-    caption: The [cerianthid](others/ceriantharia/ceriantharia.htm) has special stingers used to create its tube.  *Pulau Hantu, Apr 06*
+    caption: The [cerianthid](others/ceriantharia/ceriantharia.htm) has special stingers
+      used to create its tube.  *Pulau Hantu, Apr 06*
   - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
-    caption: "[Stinging hydroids](others/hydrozoa/stinging.htm) inflict very painful stings on humans. *Tuas, Apr 05*"
+    caption: '[Stinging hydroids](others/hydrozoa/stinging.htm) inflict very painful
+      stings on humans. *Tuas, Apr 05*'
   gallery3:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/haddonieat/020328cjd7880m3.jpg
-    caption: A  [carpet anemone](/entries/cnidaria/actiniaria/haddoni/) swallowing a dead fish. *Chek Jawa, Mar 02*
+    caption: A  [carpet anemone](/entries/cnidaria/actiniaria/haddoni/) swallowing
+      a dead fish. *Chek Jawa, Mar 02*
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg
-    caption: A [tiger sea anemone](/entries/cnidaria/actiniaria/tiger) attempting to swallow a [sea pen](/entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea)! *Changi, Jul 04*
+    caption: A [tiger sea anemone](/entries/cnidaria/actiniaria/tiger) attempting
+      to swallow a [sea pen](/entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea)!
+      *Changi, Jul 04*
     col_span: 2
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/others/051103sisd6298m3.jpg
-    caption: "[Coral bleaching](/entries/cnidaria/coralhard/coralhard): When hard coral lose their zooxanthellae, they turn white. *Sisters Island, Nov 05*"
+    caption: '[Coral bleaching](/entries/cnidaria/coralhard/coralhard): When hard
+      coral lose their zooxanthellae, they turn white. *Sisters Island, Nov 05*'
   - url: https://images.naturehungry.sg/cnidaria/coralhard/others/160707kuso7070100.jpg
-    caption: "*Mass coral bleaching in 2016, when most of the hard corals on a shore suffer from bleaching. *Kusu Island, Jul 16*"
+    caption: '*Mass coral bleaching in 2016, when most of the hard corals on a shore
+      suffer from bleaching. *Kusu Island, Jul 16*'
     col_span: 2
-  gallery5: 
-  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3a.jpg  
-    caption: "Colonial polyps of a [sea pen](others/pennatulacea/pennatulacea.htm) emerge from a fluid-filled body.  *Changi, Jun 05*"
+  gallery5:
+  - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3a.jpg
+    caption: Colonial polyps of a [sea pen](others/pennatulacea/pennatulacea.htm)
+      emerge from a fluid-filled body.  *Changi, Jun 05*
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/030520bbd0066m3a.jpg
-    caption: "Colonial polyps of a [sea fan](others/gorgonacea/candelabra.htm) emerging from a hard skeleton.  *Beting Bronok, May 03*"
+    caption: Colonial polyps of a [sea fan](others/gorgonacea/candelabra.htm) emerging
+      from a hard skeleton.  *Beting Bronok, May 03*
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg
-    caption: "[Pore corals](poritidae/porites.htm) have tiny polyps emerging from a hard skeleton. *Sisters Island, Jan 06*"
+    caption: '[Pore corals](poritidae/porites.htm) have tiny polyps emerging from
+      a hard skeleton. *Sisters Island, Jan 06*'
   gallery6:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/oulastrea/051105sisg3018m3c.jpg
-    caption: "Polyps and hard skeleton of [zebra hard coral](coralhard/faviidae/oulastrea.htm) *Sisters Island, Nov 05*"
+    caption: Polyps and hard skeleton of [zebra hard coral](coralhard/faviidae/oulastrea.htm)
+      *Sisters Island, Nov 05*
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonsmall/060501labg5897m3.jpg
-    caption: "Colonial polyps of a [hard coral](coralhard/poritidae/gonsmall.htm). *Labrador, May 06*"
+    caption: Colonial polyps of a [hard coral](coralhard/poritidae/gonsmall.htm).
+      *Labrador, May 06*
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letpimply/110423tpld9947m3a.jpg
-    caption: "Colonial polyps of a [leathery soft coral](coralsoft/alcyoniidae.htm). *Terumbu Pempang Laut, Apr 11*"
+    caption: Colonial polyps of a [leathery soft coral](coralsoft/alcyoniidae.htm).
+      *Terumbu Pempang Laut, Apr 11*
   gallery7:
   - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg
-    caption: "The medusa is the typical [jellyfish](others/jellyfish/jellyfish.htm) shape. *Tuas Jun 05*"
+    caption: The medusa is the typical [jellyfish](others/jellyfish/jellyfish.htm)
+      shape. *Tuas Jun 05*
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/polkadot/120705chgd7096m3.jpg
-    caption: "A [sea anemone](actiniaria/actiniaria.htm) is a solitary polyp. *Sentosa, Apr 04*"
+    caption: A [sea anemone](actiniaria/actiniaria.htm) is a solitary polyp. *Sentosa,
+      Apr 04*
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/061122smkd6844m3a.jpg
-    caption: "Most [hard corals](coralhard/coralhard.htm) are a colony of many polyps. *Labrador, Jul 05*"
+    caption: Most [hard corals](coralhard/coralhard.htm) are a colony of many polyps.
+      *Labrador, Jul 05*
   gallery8:
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
-    caption: "The [False clown anemonefish](../vertebrates/fish/pomacentridae/ocellaris.htm) can live happily in the  [carpet anemone](actiniaria/stichodactyla.htm) that would eat any other fish. *Kusu Island, Jun 04*"
+    caption: The [False clown anemonefish](../vertebrates/fish/pomacentridae/ocellaris.htm)
+      can live happily in the  [carpet anemone](actiniaria/stichodactyla.htm) that
+      would eat any other fish. *Kusu Island, Jun 04*
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
-    caption: "[Peacock-tail anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis.htm)  are often found [carpet anemones](actiniaria/stichodactyla.htm). *Kusu Island, Jul 04*"
+    caption: '[Peacock-tail anemone shrimps](/wildfacts/guides/crustacea/crustacea/othercrust/shrimp/brevicarpalis.htm)  are
+      often found [carpet anemones](actiniaria/stichodactyla.htm). *Kusu Island, Jul
+      04*'
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
-    caption: "Hermit crab with three [large sea anemones](actiniaria/hermitbig.htm) (retracted) on its shell. *Changi, Jul 04*"
-permalink: "/entries/Cnidaria"
+    caption: Hermit crab with three [large sea anemones](actiniaria/hermitbig.htm)
+      (retracted) on its shell. *Changi, Jul 04*
+permalink: /entries/Cnidaria
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---

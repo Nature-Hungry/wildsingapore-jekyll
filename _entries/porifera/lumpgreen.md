@@ -9,6 +9,7 @@ genus: Haliclona
 species: sp.*
 attributes:
 - 140
+- 155
 inat_id: 1485370
 stateofmatter: Life
 kingdom: Animalia

@@ -12,6 +12,7 @@ attributes:
 - 36
 - 68
 - 83
+- 155
 family: Acanthaceae
 genus: Avicennia
 species: rumphiana
@@ -52,8 +53,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Api-api bulu (
-  *Avicennia rumphiana*
+  - [Api-api bulu ( *Avicennia rumphiana*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1052)
 

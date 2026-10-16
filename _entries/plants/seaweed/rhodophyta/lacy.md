@@ -12,6 +12,7 @@ species: elegans
 attributes:
 - 97
 - 98
+- 155
 inat_id: 704184
 stateofmatter: Life
 kingdom: Plantae

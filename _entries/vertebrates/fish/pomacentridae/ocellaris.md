@@ -13,6 +13,7 @@ attributes:
 - 47
 - 48
 - 79
+- 155
 family: Pomacentridae
 genus: Amphiprion
 species: ocellaris
@@ -138,8 +139,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Clown Anemonefish (
-  *Amphiprion ocellaris*
+  - [Clown Anemonefish ( *Amphiprion ocellaris*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/337)
 
@@ -154,8 +154,7 @@ links_references: '### Links
   (Perciformes: Pomacentridae) False Clown Anemonefish by Joy Wong Shu Yee, 2016,
   on taxo4254.
 
-  - [Clown Anemonefish (
-  *Amphiprion ocellaris*
+  - [Clown Anemonefish ( *Amphiprion ocellaris*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=6509)
 
@@ -165,8 +164,7 @@ links_references: '### Links
 
   : Technical fact sheet on the family, including fact sheet on
 
-  - [False-Clown Anemonefish (
-  *Amphiprion ocellaris*
+  - [False-Clown Anemonefish ( *Amphiprion ocellaris*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/aocellaris)
 

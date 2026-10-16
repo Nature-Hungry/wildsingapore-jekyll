@@ -7,10 +7,10 @@ keywords: seagrass, seahare, hare, phyllaplysia, aplysiidae, anaspidea, opisthob
 layout: entry
 attributes:
 - 14
-
 - 27
 - 33
 - 90
+- 155
 family: Aplysiidae
 genus: Phyllaplysia
 species: ''

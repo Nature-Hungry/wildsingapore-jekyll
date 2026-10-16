@@ -7,6 +7,8 @@ genus: Strongylura
 species: strongylura
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 113308
 stateofmatter: Life
 kingdom: Animalia

@@ -9,8 +9,9 @@ attributes:
 - 38
 - 106
 - 112
+- 155
 family: Ocypodidae
-genus: 'Austruca'
+genus: Austruca
 species: annulipes
 inat_id: 51932
 stateofmatter: Life
@@ -72,8 +73,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Porcelain fiddler (
-  *Uca annulipes*
+  - [Porcelain fiddler ( *Uca annulipes*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2053)
 

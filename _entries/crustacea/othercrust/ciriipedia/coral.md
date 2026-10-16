@@ -7,7 +7,8 @@ layout: entry
 family: Pyrgomatidae
 genus: Pyrgoma
 species: sp.
-attributes: []
+attributes:
+- 155
 inat_id: 643648
 stateofmatter: Life
 kingdom: Animalia

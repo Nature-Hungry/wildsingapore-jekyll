@@ -11,6 +11,7 @@ attributes:
 - 25
 - 42
 - 47
+- 155
 family: Pomacanthidae
 genus: Pomacanthus
 species: annularis
@@ -36,8 +37,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bluering angelfish (
-  *Pomacanthus annularis*
+  - [Bluering angelfish ( *Pomacanthus annularis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/332)
 
@@ -47,8 +47,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Bluering angelfishl (
-  *Pomacanthus annularis*
+  - [Bluering angelfishl ( *Pomacanthus annularis*
 
   )](http://fishbase.sinica.edu.tw/Summary/SpeciesSummary.php?id=7902)
 
@@ -58,8 +57,7 @@ links_references: '### Links
 
   : Technical fact sheet.
 
-  - [Blue-ringed Angelfish (
-  *Pomacanthus annularis*
+  - [Blue-ringed Angelfish ( *Pomacanthus annularis*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/pannularis)
 

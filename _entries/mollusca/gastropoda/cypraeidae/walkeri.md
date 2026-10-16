@@ -11,6 +11,7 @@ species: walkeri
 attributes:
 - 100
 - 127
+- 155
 inat_id: 882273
 stateofmatter: Life
 kingdom: Animalia

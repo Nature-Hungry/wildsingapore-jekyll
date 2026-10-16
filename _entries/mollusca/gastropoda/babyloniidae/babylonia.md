@@ -10,6 +10,7 @@ genus: Babylonia
 species: spirata
 attributes:
 - 100
+- 155
 inat_id: 490805
 stateofmatter: Life
 kingdom: Animalia

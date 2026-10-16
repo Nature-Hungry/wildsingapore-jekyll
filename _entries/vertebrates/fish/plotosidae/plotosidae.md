@@ -1,12 +1,15 @@
 ---
 title: Eeltail catfishes
 description: Fact sheet of Eeltail catfishes on the shores of Singapore
-keywords: eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Plotosidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 49213
 stateofmatter: Life
 kingdom: Animalia

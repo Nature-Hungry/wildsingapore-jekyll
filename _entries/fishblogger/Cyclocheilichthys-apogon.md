@@ -8,6 +8,8 @@ species: apogon
 rdb: EN
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 187287
 stateofmatter: Life
 kingdom: Animalia

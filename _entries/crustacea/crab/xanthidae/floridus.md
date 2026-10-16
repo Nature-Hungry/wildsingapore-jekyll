@@ -11,6 +11,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Xanthidae
 genus: Atergatis
 species: floridus

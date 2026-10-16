@@ -11,6 +11,7 @@ species: miliaris
 attributes:
 - 100
 - 127
+- 155
 inat_id: 747600
 stateofmatter: Life
 kingdom: Animalia

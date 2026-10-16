@@ -7,7 +7,8 @@ layout: entry
 family: Loliginidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 49441
 stateofmatter: Life
 kingdom: Animalia

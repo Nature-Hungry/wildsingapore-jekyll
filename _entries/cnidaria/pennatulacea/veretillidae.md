@@ -5,8 +5,13 @@ keywords: flowery, pen, seapen, veretilllidae, pennatulacea, anthozoa, cnidaria,
   cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
-attributes: []
-summary: 15-20cm long. Sausage-like central stalk bears white flower-like secondary polyps (1-2cm) that have branched tentacles. Primary polyp thick and sausage-like. Maroon to orange, purple and white. When exposed at low tide, the secondary polyps are retracted and they look like limp sausages. Sandy shores near seagrasses. Commonly seen on our Northern shores.
+attributes:
+- 155
+summary: 15-20cm long. Sausage-like central stalk bears white flower-like secondary
+  polyps (1-2cm) that have branched tentacles. Primary polyp thick and sausage-like.
+  Maroon to orange, purple and white. When exposed at low tide, the secondary polyps
+  are retracted and they look like limp sausages. Sandy shores near seagrasses. Commonly
+  seen on our Northern shores.
 family: Veretillidae
 genus: ''
 species: ''

@@ -9,6 +9,7 @@ attributes:
 - 6
 - 88
 - 102
+- 155
 family: Discosomidae
 genus: Rhodactis
 species: indosinensis
@@ -78,7 +79,9 @@ zone:
 - marine
 habitats:
 - coral reef
-summary: This small animal with white bulbous tips on its tentacles is often seen in clusters of several tucked among dead and living corals. Sometimes seen on some of our Southern shores.
+summary: This small animal with white bulbous tips on its tentacles is often seen
+  in clusters of several tucked among dead and living corals. Sometimes seen on some
+  of our Southern shores.
 ---
 
 ## Where seen?

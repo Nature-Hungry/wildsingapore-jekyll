@@ -8,7 +8,8 @@ layout: entry
 family: Faviidae
 genus: Oulastrea
 species: crispata*
-attributes: []
+attributes:
+- 155
 inat_id: 503818
 stateofmatter: Life
 kingdom: Animalia
@@ -112,7 +113,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - prp
 - chg

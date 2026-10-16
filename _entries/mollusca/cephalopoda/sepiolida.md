@@ -8,7 +8,8 @@ layout: entry
 family: Sepiolidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 143626
 stateofmatter: Life
 kingdom: Animalia
@@ -76,15 +77,13 @@ links_references: '### Links
 
   on SeaLife Base: Technical fact sheets for
 
-  [Mimika bobtail squid (
-  *Euprymna morsei*
+  [Mimika bobtail squid ( *Euprymna morsei*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57886)
 
   ,
 
-  [Butterfly bobtail (
-  *Sepiola birostrata*
+  [Butterfly bobtail ( *Sepiola birostrata*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=57725)
 

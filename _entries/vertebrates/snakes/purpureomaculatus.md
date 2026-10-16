@@ -31,7 +31,8 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Shore Pit Viper](http://www.ecologyasia.com/verts/snakes/shore_pit_viper.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Shore Pit Viper](http://www.ecologyasia.com/verts/snakes/shore_pit_viper.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Mangrove snakes: Shore Pit Viper](http://mangrove.nus.edu.sg/guidebooks/text/2112)
 

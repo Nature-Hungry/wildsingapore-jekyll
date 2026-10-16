@@ -15,6 +15,7 @@ attributes:
 - 6
 - 67
 - 88
+- 155
 family: Actiniidae
 genus: Paracondylactis
 species: hertwigi
@@ -52,10 +53,8 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/sandstripe/220103tpljk1.jpg
     caption: Terumbu Pempang Laut, Jan 22 Photo shared by James Koh on facebook .
-links_references: "### Links
-\n- *[Paracondylactis hertwigi](https://www.sealifebase.se/summary/Paracondylactis-hertwigi)*\n\
-  on SeaLife Base: technical fact sheet.\n\n### References
-\n- Checklist of Cnidaria\
+links_references: "### Links \n- *[Paracondylactis hertwigi](https://www.sealifebase.se/summary/Paracondylactis-hertwigi)*\n\
+  on SeaLife Base: technical fact sheet.\n\n### References \n- Checklist of Cnidaria\
   \ (non-Sclerectinia) Species with their Category of Threat Status for Singapore\
   \ by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,\
   \ D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data\

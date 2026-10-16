@@ -8,9 +8,10 @@ layout: entry
 family: Aglajidae
 genus: Chelidonura
 species: ''
-attributes: 
+attributes:
 - 27
 - 90
+- 155
 inat_id: 54576
 stateofmatter: Life
 kingdom: Animalia

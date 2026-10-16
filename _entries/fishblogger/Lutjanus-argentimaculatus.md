@@ -6,6 +6,8 @@ family: Lutjanidae
 genus: Lutjanus
 species: argentimaculatus
 rdb: NT
+attributes:
+- 155
 zone:
 - marine
 inat_id: 125802

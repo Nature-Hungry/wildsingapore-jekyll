@@ -8,6 +8,8 @@ species: selangoricus
 rdb: CR
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 187752
 stateofmatter: Life
 kingdom: Animalia

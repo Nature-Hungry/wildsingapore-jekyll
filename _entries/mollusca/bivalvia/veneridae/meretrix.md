@@ -8,7 +8,8 @@ layout: entry
 family: Veneridae
 genus: Meretrix
 species: meretrix*
-attributes: []
+attributes:
+- 155
 inat_id: 332437
 stateofmatter: Life
 kingdom: Animalia

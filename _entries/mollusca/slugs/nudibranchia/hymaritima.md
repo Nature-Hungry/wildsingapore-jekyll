@@ -10,6 +10,7 @@ genus: Hypselodoris
 species: maritima
 attributes:
 - 22
+- 155
 inat_id: 418369
 stateofmatter: Life
 kingdom: Animalia

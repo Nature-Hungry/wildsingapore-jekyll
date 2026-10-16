@@ -24,15 +24,13 @@ tribe: Plumerieae
 subtribe: Thevetiinae
 updated: Jan 13
 coverimg: https://images.naturehungry.sg/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
-links_references: "\n### Links
- \n- Cerbera odollam on Total Vascular Flora of Singapore\
+links_references: "\n### Links \n- Cerbera odollam on Total Vascular Flora of Singapore\
   \ Online: photos and fact sheet. \n- Cerbera odollam on the NParks Flora and Fauna\
   \ website: photos and fact sheet. \n- Giesen, Wim and Stephan Wulffraat, Max Zieren\
   \ and Liesbeth Scholten. 2006. Mangrove Guidebook for Southeast Asia (PDF online\
   \ downloadable). RAP publication 2006/07 Food and Agriculture Organization of the\
-  \ United Nations Regional Office for Asia and the Pacific Bangkok. \n\n### References
-\
-  \ \n- Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore:\
+  \ United Nations Regional Office for Asia and the Pacific Bangkok. \n\n### References\
+  \  \n- Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990, The Concise Flora of Singapore:\
   \ Gymnosperms and Dicotyledons . Singapore University Press. 222 pp. \n- Tan, Hugh\
   \ T.W. and T. Morgany. 2001. Growing the Native Plants of Singapore . BP Science\
   \ Centre Guidebook. 168pp. \n- Tee Swee Ping and Wee Mei Lynn (eds). 2001. Trees\

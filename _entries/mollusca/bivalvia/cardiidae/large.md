@@ -8,7 +8,8 @@ layout: entry
 family: Cardiidae
 genus: ''
 species: identification*
-attributes: []
+attributes:
+- 155
 inat_id: 50597
 stateofmatter: Life
 kingdom: Animalia

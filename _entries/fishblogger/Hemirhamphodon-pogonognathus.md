@@ -8,6 +8,8 @@ species: pogonognathus
 rdb: EN
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 446101
 stateofmatter: Life
 kingdom: Animalia

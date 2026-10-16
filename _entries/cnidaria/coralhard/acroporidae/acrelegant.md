@@ -8,7 +8,8 @@ layout: entry
 family: Acroporidae
 genus: Acropora
 species: sp.*
-attributes: []
+attributes:
+- 155
 inat_id: 93272
 stateofmatter: Life
 kingdom: Animalia

@@ -12,6 +12,7 @@ attributes:
 - 25
 - 42
 - 47
+- 155
 family: Chaetodontidae
 genus: Parachaetodon
 species: ocellatus
@@ -98,8 +99,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Kite butterflyfish (
-  *Parachaetodon ocellatus*
+  - [Kite butterflyfish ( *Parachaetodon ocellatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/329)
 
@@ -113,8 +113,7 @@ links_references: '### Links
 
   on Ecology Asia: Fact sheet with photos.
 
-  - [Sixspine butterflyfish (
-  *Parachaetodon ocellatus*
+  - [Sixspine butterflyfish ( *Parachaetodon ocellatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7887)
 

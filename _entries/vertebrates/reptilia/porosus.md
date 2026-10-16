@@ -8,7 +8,8 @@ layout: entry
 family: Crocodylidae
 genus: Crocodylus
 species: porosus
-attributes: []
+attributes:
+- 155
 inat_id: 26068
 stateofmatter: Life
 kingdom: Animalia
@@ -35,7 +36,8 @@ links_references: '### Links
   by Ramakrishnan Kolandavelu in Wetlands, a publication of the Sungei Buloh Wetland
   Reserve, Vol 13 No 3, 2006.
 
-  - [Estuarine crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Estuarine crocodile](http://www.ecologyasia.com/verts/lizards/estuarine_crocodile.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [*Crocodylus porosus*](https://singapore.biodiversity.online/taxo4254/mainSpace/Crocodylus%20porosus.html)
 
@@ -53,11 +55,9 @@ links_references: '### Links
 
   - Marcus Ng and Robert W. Mendyk. 2012.
 
-  [Predation of an Adult Malaysian Water monitor (
-  *Varanus salvator macromaculatus*
+  [Predation of an Adult Malaysian Water monitor ( *Varanus salvator macromaculatus*
 
-  ) by an Estuarine Crocodile (
-  *Crocodylus porosus*
+  ) by an Estuarine Crocodile ( *Crocodylus porosus*
 
   )](https://www.researchgate.net/profile/Robert_Mendyk/publication/307973031_Predation_of_an_Adult_Malaysian_Water_monitor_Varanus_salvator_macromaculatus_by_an_Estuarine_Crocodile_Crocodylus_porosus/links/57d4d86508ae5f03b4916283.pdf?origin=publication_list)
 

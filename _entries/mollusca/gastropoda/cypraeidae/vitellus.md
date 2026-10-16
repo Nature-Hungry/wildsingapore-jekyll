@@ -11,6 +11,7 @@ species: vitellus
 attributes:
 - 100
 - 127
+- 155
 inat_id: 143171
 stateofmatter: Life
 kingdom: Animalia
@@ -34,15 +35,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Pacific deer cowrie (
-  *Cypraea vitellus*
+  - [Pacific deer cowrie ( *Cypraea vitellus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86907)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Pacific deer cowrie (
-  *Cypraea vitellus*
+  - Pacific deer cowrie ( *Cypraea vitellus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

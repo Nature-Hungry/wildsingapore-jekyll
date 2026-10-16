@@ -8,7 +8,8 @@ layout: entry
 family: Alcyoniidae
 genus: Lobophytum
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 416177
 stateofmatter: Life
 kingdom: Animalia

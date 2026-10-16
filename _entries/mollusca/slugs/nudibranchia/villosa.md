@@ -10,6 +10,7 @@ genus: Thordisa
 species: villosa
 attributes:
 - 22
+- 155
 inat_id: 50569
 stateofmatter: Life
 kingdom: Animalia

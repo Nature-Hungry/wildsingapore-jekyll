@@ -8,7 +8,8 @@ layout: entry
 family: Merulinidae
 genus: Hydnophora
 species: exesa
-attributes: []
+attributes:
+- 155
 inat_id: 102990
 stateofmatter: Life
 kingdom: Animalia
@@ -134,7 +135,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - tm
 - ecp

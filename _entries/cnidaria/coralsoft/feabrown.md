@@ -6,10 +6,14 @@ keywords: alcyonacea, soft, coral, xeniidae, alcyonacea, octocoral, cnidaria, fi
   sheet, info, photo
 layout: entry
 family: Xeniidae
-summary: Colony 10-15cm. Polyps 1-1.5cm in diameter, on stalks 1-2cm long. Eight skinny tentacles with long thin side branches. Side branches pale brown, oral disk and main tentacles paler. The polyps don't pulsate. On coral rubble. Seen on our Southern shores.
+summary: Colony 10-15cm. Polyps 1-1.5cm in diameter, on stalks 1-2cm long. Eight skinny
+  tentacles with long thin side branches. Side branches pale brown, oral disk and
+  main tentacles paler. The polyps don't pulsate. On coral rubble. Seen on our Southern
+  shores.
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 155023
 stateofmatter: Life
 kingdom: Animalia

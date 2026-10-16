@@ -12,6 +12,7 @@ attributes:
 - 100
 - 23
 - 77
+- 155
 inat_id: 369055
 stateofmatter: Life
 kingdom: Animalia
@@ -75,15 +76,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Pear-shaped moon snail (
-  *Polinices mammilla*
+  - [Pear-shaped moon snail ( *Polinices mammilla*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86934)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Pear-shaped moon snail (
-  *Polinices mammilla*
+  - Pear-shaped moon snail ( *Polinices mammilla*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
@@ -92,8 +91,7 @@ links_references: '### Links
 
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
-  - [Moon Snail (
-  *Polinices*
+  - [Moon Snail ( *Polinices*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)
 

@@ -8,7 +8,8 @@ layout: entry
 family: Mactridae
 genus: Mactra
 species: grandis
-attributes: []
+attributes:
+- 155
 inat_id: 850389
 stateofmatter: Life
 kingdom: Animalia
@@ -59,15 +60,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Plain troughshell (
-  *Mactra mera*
+  - [Plain troughshell ( *Mactra mera*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84554)
 
   on SeaBase Life: Technical fact sheet.
 
-  - Plain troughshell (
-  *Mactra mera*
+  - Plain troughshell ( *Mactra mera*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

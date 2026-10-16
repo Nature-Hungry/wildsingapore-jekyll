@@ -1,12 +1,14 @@
 ---
 title: Boxfishes
 description: Fact sheet of Boxfishes on the shores of Singapore
-keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ostraciidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 47529
 stateofmatter: Life
 kingdom: Animalia
@@ -61,7 +63,8 @@ links_references: '### Links
 
   *A shortsnout boxfish, Ostracion rhinorhynchos in the Singapore Strait*
 
-  . 31 July 2018. Singapore Biodiversity Records 2018: 76 ISSN 2345-7597. National University of Singapore.
+  . 31 July 2018. Singapore Biodiversity Records 2018: 76 ISSN 2345-7597. National
+  University of Singapore.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -95,7 +98,7 @@ size:
 - 50.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Boxfishes are poisonous to eat! 
+- Boxfishes are poisonous to eat!
 - They have a hard shell around their body
 - They can swim quickly if they have to, even though they have tiny fins!
 authors:

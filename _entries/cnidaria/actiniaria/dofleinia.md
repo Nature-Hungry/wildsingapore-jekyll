@@ -15,6 +15,7 @@ attributes:
 - 6
 - 88
 - 113
+- 155
 family: Actiniidae
 genus: Dofleinia
 species: armata
@@ -72,8 +73,7 @@ links_references: '### Links
   website by Dr Daphne Fautin with classification, distribution, biological associations
   and more.
 
-  - [Striped Anemone (
-  *Dofleinia armata*
+  - [Striped Anemone ( *Dofleinia armata*
 
   )](http://deh.gov.au/cgi-bin/species-bank/sbank-treatment.pl?id=81299)
 

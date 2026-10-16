@@ -9,6 +9,7 @@ attributes:
 - 2
 - 33
 - 73
+- 155
 family: Pteriidae
 genus: Isognomon
 species: isognomum
@@ -43,15 +44,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Wader tree oyster (
-  *Isognomon isognomum*
+  - [Wader tree oyster ( *Isognomon isognomum*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84370&genusname=Isognomon&speciesname=isognomum)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Wader tree oyster (
-  *Isognomon isgonomum*
+  - Wader tree oyster ( *Isognomon isgonomum*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

@@ -7,7 +7,8 @@ layout: entry
 family: Ocypodidae
 genus: Uca
 species: sp.
-attributes: []
+attributes:
+- 155
 inat_id: 640625
 stateofmatter: Life
 kingdom: Animalia
@@ -27,8 +28,7 @@ subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Jan 2020
 coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
-links_references: "### Links
-\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm)Tan,\
+links_references: "### Links \n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/pub/seashore/text/190.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Fiddler crabs (*Uca*spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2053.htm)with\
   \ descriptions of four species.Ng, Peter K. L. & N. Sivasothi, 1999.*[A Guide to\
@@ -39,8 +39,7 @@ links_references: "### Links
   \ crabs bluff with fake pincers](http://wildshores.blogspot.com/2008/11/dishonest-fiddler-crabs-bluff-with-fake.html)\n\
   \ - [Eye of the fiddler](http://wildshores.blogspot.com/2009/10/eye-of-fiddler.html)\n\
   \ - [How do girl fiddler crabs defend their territory?](http://wildshores.blogspot.com/2009/11/how-do-girl-fiddler-crabs-defend-their.html)\n\
-  \n### References
-\n- Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.*Systema\
+  \n### References \n- Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.*Systema\
   \ Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the\
   \ world*. The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.\n\
   \n- Jocelyn Crane. 1975. Fiddler Crabs of the World. Ocypodidae: Genus*Uca*, Princeton\
@@ -116,8 +115,9 @@ size:
 - 3.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They common on undisturbed shores. Don't step on them! 
-- Only males have an enlarge pincer It is too big to use for feeding. Females have two small pincers and thus can eat twice as fast
+- They common on undisturbed shores. Don't step on them!
+- Only males have an enlarge pincer It is too big to use for feeding. Females have
+  two small pincers and thus can eat twice as fast
 - They can change colours and species cannot be identified by colour alone.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

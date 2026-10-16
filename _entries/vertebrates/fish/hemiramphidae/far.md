@@ -11,6 +11,7 @@ attributes:
 - 25
 - 47
 - 116
+- 155
 family: Hemiramphidae
 genus: Hemiramphus
 species: far
@@ -42,8 +43,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Black-barred Halfbeak (
-  *Hemiramphus far*
+  - [Black-barred Halfbeak ( *Hemiramphus far*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/238)
 
@@ -53,8 +53,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Black-barred Halfbeak (
-  *Hemiramphus far*
+  - [Black-barred Halfbeak ( *Hemiramphus far*
 
   )](http://fishbase.org.cn/Summary/SpeciesSummary.php?ID=5404&AT=Talos)
 

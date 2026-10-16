@@ -1,12 +1,15 @@
 ---
-title: 'Acroporid corals'
+title: Acroporid corals
 description: Fact sheet of Acroporid corals  on the shores of Singapore
-keywords: acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Acroporidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 48746
 stateofmatter: Life
 kingdom: Animalia
@@ -19,7 +22,8 @@ coverimg: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrowide
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg
-    caption: Some acropora coral form table-like colonies. Raffles Lighthouse, Jun 07
+    caption: Some acropora coral form table-like colonies. Raffles Lighthouse, Jun
+      07
   - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg
     caption: Most members have an axial corallite. Sisters Island, Dec 05
   - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
@@ -48,13 +52,18 @@ links_references: '### Links
   ### References
 
 
-  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore*
+  - *Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore*
 
-  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,
+  D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book:
+  Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663
+  pp.
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -94,7 +103,7 @@ links_references: '### Links
 
   . The Nature Society (Singapore), Singapore. 343 pp.
 
- '
+  '
 location:
 - tm
 - snt

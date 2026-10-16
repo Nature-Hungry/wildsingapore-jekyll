@@ -2,7 +2,7 @@
 title: Boddart's Blue-spotted Mudskipper
 externalurl: https://sgfishesabovewater.blogspot.com/2025/09/boddarts-blue-spotted-mudskipper.html
 coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEjy6hUGP6gP4kkO_QF9FuGeocQANWqiUTcDfQi1jGJnvHNh_x9XmPa6KSLja5oeZzetHTy1g-Uk_eUVpLcjbxczHvFq9GImcNKV_lGLobBnh7j29oWfmzWm5KcNpmr1sPlQyoKx68XIM2GnzzWpYEjfmDG5dzzgweIc2jwJeQPC7dmgWTMw5Eks_LeSIUvn
-family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
+family: Oxudercidae
 genus: Boleophthalmus
 species: boddarti
 rdb: VU

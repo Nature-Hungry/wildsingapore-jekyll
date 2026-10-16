@@ -9,6 +9,7 @@ attributes:
 - 38
 - 106
 - 112
+- 155
 family: Macrophthalmidae
 genus: Macrophthalmus
 species: sp.
@@ -63,8 +64,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Sentinel crabs (
-  *Macrophthalmus*
+  - [Sentinel crabs ( *Macrophthalmus*
 
   spp.)](http://mangrove.nus.edu.sg/guidebooks/text/2055)
 
@@ -94,8 +94,7 @@ links_references: '### Links
 
   and
 
-  [Latreille''s sentinel crab (
-  *Macrophthalmus latreillei*
+  [Latreille''s sentinel crab ( *Macrophthalmus latreillei*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1797)
 

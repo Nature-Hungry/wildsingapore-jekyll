@@ -12,6 +12,7 @@ attributes:
 - 36
 - 68
 - 117
+- 155
 family: Rhizophoraceae
 genus: Rhizophora
 species: stylosa
@@ -37,8 +38,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bakau pasir (
-  *Rhizophora stylosa*](http://mangrove.nus.edu.sg/guidebooks/text/1071)
+  - [Bakau pasir ( *Rhizophora stylosa*](http://mangrove.nus.edu.sg/guidebooks/text/1071)
 
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
 

@@ -14,6 +14,7 @@ attributes:
 - 70
 - 106
 - 108
+- 155
 family: Pomacentridae
 genus: Dischistodus
 species: fasciatus
@@ -92,8 +93,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Yellow-banded damsel (
-  *Dischistodus fasciatus*
+  - [Yellow-banded damsel ( *Dischistodus fasciatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/341)
 
@@ -103,8 +103,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Banded damsel (
-  *Dischistodus fasciatus*
+  - [Banded damsel ( *Dischistodus fasciatus*
 
   )](http://www.fishbase.se/Summary/SpeciesSummary.php?id=9982)
 

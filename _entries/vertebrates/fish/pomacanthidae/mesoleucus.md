@@ -11,6 +11,7 @@ attributes:
 - 25
 - 42
 - 47
+- 155
 family: Pomacanthidae
 genus: Chaetodontoplus
 species: mesoleucus
@@ -34,8 +35,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Yellowtail or Vermiculated angelfish (
-  *Chaetodontoplus mesoleucus*
+  - [Yellowtail or Vermiculated angelfish ( *Chaetodontoplus mesoleucus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/334)
 

@@ -8,7 +8,8 @@ layout: entry
 family: Poritidae
 genus: Goniopora
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 88581
 stateofmatter: Life
 kingdom: Animalia
@@ -22,7 +23,7 @@ galleries:
   gallery1:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg
     caption: Larger polyps of Anemone coral compared with smaller Small goniopora
-     coral.
+      coral.
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3a.jpg
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3b.jpg
@@ -114,7 +115,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp.
 
- '
+  '
 location:
 - cj
 - skd

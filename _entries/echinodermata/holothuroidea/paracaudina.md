@@ -14,6 +14,7 @@ attributes:
 - 66
 - 89
 - 92
+- 155
 family: Caudinidae
 genus: Paracaudina
 species: australis

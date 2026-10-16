@@ -1,7 +1,9 @@
 ---
-title: "Cephalopods"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "cephalopoda, squid, cuttlefish, octopus, mollusc, mollusk, mollusca, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: Cephalopods
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: cephalopoda, squid, cuttlefish, octopus, mollusc, mollusk, mollusca, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 stateofmatter: Life
 kingdom: Animalia
@@ -9,41 +11,45 @@ phylum: Mollusca
 class: Cephalopoda
 permalink: entries/Mollusca/Cephalopoda
 updated: May 2020
-trivia_title: "if you learn only 3 things about them ..."
+trivia_title: if you learn only 3 things about them ...
 trivia_items:
-- Cephalopods are molluscs but lack external shells (except the Natilus). 
-- They move by jet-propulsion and have many arms.  
+- Cephalopods are molluscs but lack external shells (except the Natilus).
+- They move by jet-propulsion and have many arms.
 - Most can rapidly change their colours and even skin texture.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 galleries:
-    gallery1:
-    - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg
-      caption: "Squids have a pair of onger tentacles that extend beyond the shorter arms.\n *Pulau Hantu, Aug 03*"
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/070531sisd1525m3a.jpg"
-      caption: "Underside of the octopus is full of suckers.\n *Sisters Island, May 07*"
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg"
-      caption: "An octopus using jet propulsion to move. \n*Cyrene Reef, Oct 08*"
-    gallery2:
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg"
-      caption: "Octopus is perfectly camouflaged with the sand, while its distracting ink trails away. *Cyrene, Mar 12*"
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg"
-      caption: "The ink squirted out by this squid retains its shape. *Sister Island, May 12*"
-      col_span: 2
-    gallery3:
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2768m3.jpg"
-      caption: "These two photos are of the same animal .."
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2773m3.jpg"
-      caption: "... taken minutes apart. *Sentosa, Jul 04*"
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg"
-      caption: "Squids taking on different colours. *Tanah Merah, Jun 09*"
-    gallery4:
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg"
-      caption: "Cephalopod egg capsules commonly seen. *Pulau Hantu, Feb 08*"
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg"
-      caption: "String of black cephalopod egg capsoules *Changi, Jul 02*"
-    - url: "https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg"
-      caption: "Octopus carrying egg string along. *Changi, Jul 09*"
+  gallery1:
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg
+    caption: "Squids have a pair of onger tentacles that extend beyond the shorter\
+      \ arms.\n *Pulau Hantu, Aug 03*"
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/070531sisd1525m3a.jpg
+    caption: "Underside of the octopus is full of suckers.\n *Sisters Island, May\
+      \ 07*"
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg
+    caption: "An octopus using jet propulsion to move. \n*Cyrene Reef, Oct 08*"
+  gallery2:
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg
+    caption: Octopus is perfectly camouflaged with the sand, while its distracting
+      ink trails away. *Cyrene, Mar 12*
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
+    caption: The ink squirted out by this squid retains its shape. *Sister Island,
+      May 12*
+    col_span: 2
+  gallery3:
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2768m3.jpg
+    caption: These two photos are of the same animal ..
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040718sntd2773m3.jpg
+    caption: '... taken minutes apart. *Sentosa, Jul 04*'
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg
+    caption: Squids taking on different colours. *Tanah Merah, Jun 09*
+  gallery4:
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg
+    caption: Cephalopod egg capsules commonly seen. *Pulau Hantu, Feb 08*
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
+    caption: String of black cephalopod egg capsoules *Changi, Jul 02*
+  - url: https://images.naturehungry.sg/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
+    caption: Octopus carrying egg string along. *Changi, Jul 09*
 ---
 
 ## Where seen?

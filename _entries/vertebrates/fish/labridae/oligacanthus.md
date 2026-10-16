@@ -10,6 +10,7 @@ attributes:
 - 47
 - 58
 - 60
+- 155
 family: Labridae
 genus: Choerodon
 species: oligacanthus
@@ -35,15 +36,13 @@ galleries:
 links_references: '### Links
 
 
-  - [White-patch tuskfish (
-  *Choerodon oligacanthus*
+  - [White-patch tuskfish ( *Choerodon oligacanthus*
 
   )](http://www.fishbase.org/summary/8406)
 
   on SeaLife Base: technical fact sheet.
 
-  - [White-patch tuskfish (
-  *Choerodon oligacanthus*
+  - [White-patch tuskfish ( *Choerodon oligacanthus*
 
   )](http://www.iucnredlist.org/details/187568/0)
 

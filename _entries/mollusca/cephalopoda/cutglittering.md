@@ -8,7 +8,8 @@ layout: entry
 family: Sepiidae
 genus: Sepiella
 species: inermis
-attributes: []
+attributes:
+- 155
 inat_id: 151476
 stateofmatter: Life
 kingdom: Animalia

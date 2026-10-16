@@ -33,7 +33,8 @@ links_references: '### Links
 
   on the IUCN Red List website..
 
-  - [Common Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Common Palm Civet](http://www.ecologyasia.com/verts/mammals/common_palm_civet.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Common Palm Civet](http://www.wildsingapore.per.sg/discovery/factsheet/civetpalm)
 

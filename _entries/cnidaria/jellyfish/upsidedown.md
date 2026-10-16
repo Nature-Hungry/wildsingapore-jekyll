@@ -7,10 +7,13 @@ keywords: jellyfish, jelly, fish, jellies, cassiopea, scyphozoa, cnidaria, field
 layout: entry
 attributes:
 - 56
+- 155
 family: Cassiopeidae
 genus: Cassiopea
 species: ''
-summary: Bell about 4-12cm, tentacles length about half the bell diameter. Usually seen upside down. Can be seasonally common on Pulau Semakau and shores near the island.
+summary: Bell about 4-12cm, tentacles length about half the bell diameter. Usually
+  seen upside down. Can be seasonally common on Pulau Semakau and shores near the
+  island.
 inat_id: 128144
 stateofmatter: Life
 kingdom: Animalia

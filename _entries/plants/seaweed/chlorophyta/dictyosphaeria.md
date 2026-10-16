@@ -12,6 +12,7 @@ species: ''
 attributes:
 - 97
 - 115
+- 155
 inat_id: 131345
 stateofmatter: Life
 kingdom: Plantae

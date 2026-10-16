@@ -8,9 +8,10 @@ layout: entry
 family: Onchidiidae
 genus: ''
 species: identification*
-attributes: 
+attributes:
 - 28
 - 90
+- 155
 inat_id: 54928
 stateofmatter: Life
 kingdom: Animalia

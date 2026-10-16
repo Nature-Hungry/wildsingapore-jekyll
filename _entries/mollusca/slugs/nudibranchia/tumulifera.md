@@ -10,6 +10,7 @@ genus: Goniobranchus
 species: tumulifera
 attributes:
 - 22
+- 155
 updated: May 2025
 coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg
 galleries:

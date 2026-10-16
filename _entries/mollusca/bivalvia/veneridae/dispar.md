@@ -8,7 +8,8 @@ layout: entry
 family: Veneridae
 genus: Gafrarium
 species: dispar*
-attributes: []
+attributes:
+- 155
 inat_id: 898889
 stateofmatter: Life
 kingdom: Animalia

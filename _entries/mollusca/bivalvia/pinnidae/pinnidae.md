@@ -1,12 +1,15 @@
 ---
 title: Fan clams
 description: Fact sheet of Fan clams on the shores of Singapore
-keywords: fan, pen, shell, fanshell, clam, pinnidae, pinna, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: fan, pen, shell, fanshell, clam, pinnidae, pinna, bivalve, mollusc, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 2
 - 33
 - 59
+- 155
 family: Pinnidae
 genus: ''
 species: ''
@@ -24,24 +27,30 @@ coverimg: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/050
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg
-    caption: Byssus threads on the narrow end of the shell anchor the animal in the ground. Changi, May 05
+    caption: Byssus threads on the narrow end of the shell anchor the animal in the
+      ground. Changi, May 05
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/011021cjd0933m3.jpg
     caption: The razor-sharp edge can cut barefoot visitors . Chek Jawa, Oct 01
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/060625bbd3447m3.jpg
-    caption: When submerged, the valves of a living clam open slightly and the animal filter feeds Beting Bronok, Jun 06
+    caption: When submerged, the valves of a living clam open slightly and the animal
+      filter feeds Beting Bronok, Jun 06
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2921m3.jpg
     caption: All kinds of animals stuck on a Fan shell. Changi, May 12
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg
-    caption: Keelworms on the portion of the shell above the ground. Pulau Sekudu, Jun 06
+    caption: Keelworms on the portion of the shell above the ground. Pulau Sekudu,
+      Jun 06
   gallery4:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch2.jpg
-    caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook .
+    caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo
+      shared by Toh Chay Hoon on facebook .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch1.jpg
-    caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo shared by Toh Chay Hoon on facebook .
+    caption: Snapping shrimp found inside a living Fan shell. Changi, Jul 20 Photo
+      shared by Toh Chay Hoon on facebook .
   gallery5:
   - url: https://images.naturehungry.sg/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg
-    caption: A fang-blenny guarding eggs laid inside a dead Fan shell. Tanah Merah, Sep 09
+    caption: A fang-blenny guarding eggs laid inside a dead Fan shell. Tanah Merah,
+      Sep 09
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2790m3.jpg
     caption: Crab and Drills hiding in a dead Fan shell. Changi, May 12
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/120510chgs07181m3.jpg
@@ -51,14 +60,16 @@ galleries:
     caption: Coney Island, Feb 19 Photo shared by Richard Kuah on facebook .
   gallery7:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/250909lazlks8.jpg
-    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on facebook .
+    caption: Seringat-Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on
+      facebook .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/160508kusjt13.jpg
     caption: Kusu Island, May 16 Photo shared by Jonathan Tan on facebook .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/111001sjiro4m3.jpg
     caption: St. John's Island, Oct 11 Photo shared by Rene Ong on facebook .
   gallery8:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/160208smkshpy2.jpg
-    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook .
+    caption: Pulau Semakau South, Feb 16 Photo shared by Heng Pei Yan on facebook
+      .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/100617tblks4m3.jpg
     caption: Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pinnidae/pinnidae/250812tbal4.jpg
@@ -70,7 +81,8 @@ galleries:
     caption: Pulau Salu, Jun 10
   gallery10:
   - url: https://live.staticflickr.com/7906/32210599507_87b4528e75_z.jpg
-    caption: Sudden explosion of Fan clams at Changi, Feb 2019 from the wild shores of singapore blog.
+    caption: Sudden explosion of Fan clams at Changi, Feb 2019 from the wild shores
+      of singapore blog.
 links_references: '### Links
 
 
@@ -102,13 +114,15 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  description and photos.
 
   - [Fan Mussel](http://www.marlin.ac.uk/species/Atrinafragilis)
 
   ( *Atrina fragilis*
 
-  ) on the Marine Life Information Network for Britain and Ireland website: fact sheet on this Pinnid and about other Pinnids of the area and their uses.
+  ) on the Marine Life Information Network for Britain and Ireland website: fact sheet
+  on this Pinnid and about other Pinnids of the area and their uses.
 
 
   ### References

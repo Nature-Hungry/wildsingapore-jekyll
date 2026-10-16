@@ -8,7 +8,8 @@ layout: entry
 family: Plesiastreidae
 genus: Plesiastrea
 species: versipora
-attributes: []
+attributes:
+- 155
 inat_id: 503821
 stateofmatter: Life
 kingdom: Animalia
@@ -22,7 +23,7 @@ links_references: '### Links
 
 
   - [*Plesiastrea versipora*](http://coral.aims.gov.au/factsheet.jsp?speciesCode=0306)on
- corals of the World online on the Australian Institute of Marine Science website:
+  corals of the World online on the Australian Institute of Marine Science website:
   Technical fact sheet.
 
 

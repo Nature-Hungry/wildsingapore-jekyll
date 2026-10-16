@@ -45,7 +45,8 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Oriental Whip Snake](http://www.ecologyasia.com/verts/snakes/oriental_whip-snake.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Oriental Whip Snake](http://www.ecologyasia.com/verts/snakes/oriental_whip-snake.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Oriental Whip Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakewhiporiental)
 

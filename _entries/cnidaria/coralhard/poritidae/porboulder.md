@@ -8,7 +8,8 @@ layout: entry
 family: Poritidae
 genus: Porites
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 47530
 stateofmatter: Life
 kingdom: Animalia

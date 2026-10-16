@@ -10,6 +10,7 @@ attributes:
 - 75
 - 76
 - 66
+- 155
 family: Planaxidae
 genus: Planaxis
 species: sulcatus
@@ -36,13 +37,11 @@ galleries:
     caption: Pulau Jong, Nov 08
   - url: https://images.naturehungry.sg/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck02m3.jpg
     caption: Photo shared by Chim Chee Kong on his flickr .
-links_references: "### Links
-\n- [*Planaxis sulcatus*](http://www.sealifebase.org/summary/speciessummary.php?id=4317)\n\
+links_references: "### Links \n- [*Planaxis sulcatus*](http://www.sealifebase.org/summary/speciessummary.php?id=4317)\n\
   on SeaLife Base: Technical fact sheet.\n- [Clusterwinks (Family Planaxidae)](http://seashellsofnsw.org.au/Planaxidae/Pages/Planaxidae_intro)\n\
   on\n[The Seashells of New South Wales](http://seashellsofnsw.org.au/index)\nby Des\
   \ Beechey Research Associate, Australian Museum: family introductions with photos\
-  \ of shells and detailed fact sheets for many species.\n\n### References
-\n- Tan\
+  \ of shells and detailed fact sheets for many species.\n\n### References \n- Tan\
   \ SK & Low MEY (2014)\n*Singapore Mollusca: 5. The subfamily Planaxinae (Gastropoda:\
   \ Caenogastropoda: Cerithioidea: Planaxidae).*\nNature in Singapore, 7: 15\u2013\
   23.\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The\

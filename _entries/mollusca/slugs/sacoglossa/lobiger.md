@@ -7,7 +7,6 @@ keywords: tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, o
 layout: entry
 attributes:
 - 14
-
 - 30
 - 33
 - 64
@@ -19,6 +18,7 @@ attributes:
 - 123
 - 125
 - 126
+- 155
 family: Oxynoidae
 genus: Lobiger
 species: viridis

@@ -1,12 +1,14 @@
 ---
 title: Jellyfish
 description: Fact sheet of Jellyfish on the shores of Singapore
-keywords: jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 128143
 stateofmatter: Life
 kingdom: Animalia
@@ -21,7 +23,8 @@ coverimg: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/110323
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
-    caption: The Ribbon jellyfish has thin tentacles and thick ruffled long arms. Terumbu Semakau, Mar 11
+    caption: The Ribbon jellyfish has thin tentacles and thick ruffled long arms.
+      Terumbu Semakau, Mar 11
   - url: https://images.naturehungry.sg/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg
     caption: Terumbu Semakau, Mar 11
   gallery3:
@@ -69,7 +72,8 @@ links_references: '### Links
 
   - [Jellyfish: Do tourists need warnings?](http://wildsingaporenews.blogspot.com/2010/11/jellyfish-do-tourists-need-warnings.html)
 
-  Some say they must know risk, but others warn against panic Nirmal Ghosh, Straits Times 26 Nov 10;
+  Some say they must know risk, but others warn against panic Nirmal Ghosh, Straits
+  Times 26 Nov 10;
 
   - From the wild shores of singapore blog.
 
@@ -93,7 +97,11 @@ links_references: '### Links
   ### References
 
 
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp.
 
   - Iffah Iesa, Chuan Chee Hoe & Nicholas Yap Wei Liang. 30 September 2020.
 
@@ -105,19 +113,22 @@ links_references: '### Links
 
   *Box jellyfish of the genus Morbakka in Singapore*
 
-  . 31 January 2018. Singapore Biodiversity Records 2018: 13-15 ISSN 2345-7597. National University of Singapore.
+  . 31 January 2018. Singapore Biodiversity Records 2018: 13-15 ISSN 2345-7597. National
+  University of Singapore.
 
   - Iffah Iesa.
 
   *Mangrove box jellyfish, Tripedalia cystophora, in Singapore*
 
-  . 28 December 2017. Singapore Biodiversity Records 2017: 183 ISSN 2345-7597. National University of Singapore.
+  . 28 December 2017. Singapore Biodiversity Records 2017: 183 ISSN 2345-7597. National
+  University of Singapore.
 
   - Uwe Will & Iffah Iesa.
 
   *River jellyfish, Acromitus hardenbergi, at Sungei Buloh*
 
-  . 30 November 2017. Singapore Biodiversity Records 2017: 156-157 ISSN 2345-7597. National University of Singapore.
+  . 30 November 2017. Singapore Biodiversity Records 2017: 156-157 ISSN 2345-7597.
+  National University of Singapore.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -140,7 +151,8 @@ links_references: '### Links
   '
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are not fish! Many can sting. Don't touch jellyfish, even those stranded on the beach
+- They are not fish! Many can sting. Don't touch jellyfish, even those stranded on
+  the beach
 - Sea turtles eat jellyfishes and often mistake plastic bags for jellyfishes
 - Turtles can die from accidentally eating the bags.
 authors:

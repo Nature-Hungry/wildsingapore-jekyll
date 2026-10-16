@@ -1,7 +1,8 @@
 ---
 title: Wentletrap
 description: Fact sheet of Wentletrap on the shores of Singapore
-keywords: wentletrap, snail, epitoniidae, , gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: wentletrap, snail, epitoniidae, , gastropod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Epitoniidae
 genus: ''
@@ -9,6 +10,7 @@ species: ''
 attributes:
 - 100
 - 87
+- 155
 inat_id: 122558
 stateofmatter: Life
 kingdom: Animalia
@@ -35,7 +37,8 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on drills with photos
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  fact sheet on drills with photos
 
 
   ### References

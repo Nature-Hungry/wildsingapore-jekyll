@@ -6,7 +6,8 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 stateofmatter: Life
 layout: entry
-keywords: acoel, flat, worm, flatworm, acoela, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: acoel, flat, worm, flatworm, acoela, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 kingdom: Animalia
 coverimg: https://images.naturehungry.sg/worm/acoela/acoela/111029smkd2994m3.jpg
 zone:
@@ -16,10 +17,13 @@ genus: ''
 links_references: '### References
 
 
-  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*Sea Challengers. 314pp.
+  - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef
+  Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the
+  vertebrates*Sea Challengers. 314pp.
 
 
-  - Newman, Leslie and Lester Cannon. 2003.*Marine Flatworms: The World of Polyclads*. CSIRO Publishing. 97pp.'
+  - Newman, Leslie and Lester Cannon. 2003.*Marine Flatworms: The World of Polyclads*.
+  CSIRO Publishing. 97pp.'
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/worm/acoela/acoela/111029smkd2994m3.jpg
@@ -34,9 +38,11 @@ galleries:
     caption: On Anemone coral . Pulau Semakau, Aug 11
   gallery2:
   - url: https://images.naturehungry.sg/worm/acoela/acoela/151225tsmktch3m3.jpg
-    caption: On Button zoanthid . Terumbu Semakau, Dec 15 Photo shared by Toh Chay Hoon on facebook .
+    caption: On Button zoanthid . Terumbu Semakau, Dec 15 Photo shared by Toh Chay
+      Hoon on facebook .
   - url: https://images.naturehungry.sg/worm/acoela/acoela/250515tpttl2.jpg
-    caption: On Leathery soft coral Terumbu Pempang Tengah, May 25 Photo shared by Tammy Lim on facebook .
+    caption: On Leathery soft coral Terumbu Pempang Tengah, May 25 Photo shared by
+      Tammy Lim on facebook .
 location:
 - bb
 - tus
@@ -48,7 +54,8 @@ location:
 - tpg
 - smk
 - tsm
-attributes: []
+attributes:
+- 155
 title: Acoel worms
 subphylum: Xenacoela
 phylum: Xenacoelomorpha

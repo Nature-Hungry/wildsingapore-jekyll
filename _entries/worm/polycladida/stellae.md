@@ -8,7 +8,8 @@ layout: entry
 family: Pseudocerotidae
 genus: Pseudobiceros
 species: stellae
-attributes: []
+attributes:
+- 155
 inat_id: 372164
 stateofmatter: Life
 kingdom: Animalia

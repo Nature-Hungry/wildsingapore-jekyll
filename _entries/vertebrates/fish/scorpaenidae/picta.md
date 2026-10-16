@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Scorpaenidae
 genus: Parascorpaena
 species: picta
@@ -73,8 +74,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Painted scorpionfish (
-  *Parascorpaena picta*
+  - [Painted scorpionfish ( *Parascorpaena picta*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/254)
 
@@ -86,8 +86,7 @@ links_references: '### Links
 
   Singapore Science Centre. 163 pp.
 
-  - [Northern scorpionfish (
-  *Parascorpaena picta*
+  - [Northern scorpionfish ( *Parascorpaena picta*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8296)
 

@@ -10,6 +10,7 @@ genus: Desmaulus
 species: extinctorium
 attributes:
 - 100
+- 155
 inat_id: 538771
 stateofmatter: Life
 kingdom: Animalia

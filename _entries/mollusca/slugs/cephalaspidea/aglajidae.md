@@ -8,7 +8,8 @@ layout: entry
 family: Aglajidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 49843
 stateofmatter: Life
 kingdom: Animalia

@@ -10,6 +10,7 @@ genus: Cymbiola
 species: nobilis
 attributes:
 - 100
+- 155
 inat_id: 541862
 stateofmatter: Life
 kingdom: Animalia

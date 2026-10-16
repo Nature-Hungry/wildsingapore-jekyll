@@ -9,6 +9,7 @@ genus: Lendenfeldia
 species: cf.
 attributes:
 - 161
+- 155
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/porifera/smoothblue/040706lazd2411m3.jpg
 galleries:

@@ -12,6 +12,7 @@ attributes:
 - 100
 - 23
 - 77
+- 155
 inat_id: 369037
 stateofmatter: Life
 kingdom: Animalia
@@ -69,15 +70,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Calf moon snail (
-  *Natica vitellus*
+  - [Calf moon snail ( *Natica vitellus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86930)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Calf moon snail (
-  *Natica vitellus*
+  - Calf moon snail ( *Natica vitellus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

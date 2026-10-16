@@ -9,6 +9,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Plagusiidae
 genus: Plagusia
 species: sp.
@@ -74,8 +75,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Tuberculated Sally-light-foot (
-  *Plagusia squamosa*
+  - [Tuberculated Sally-light-foot ( *Plagusia squamosa*
 
   )](http://142.103.81.136/summary/SpeciesSummary.php?genusname=Plagusia&speciesname=squamosa)
 
@@ -85,8 +85,7 @@ links_references: '### Links
 
   : Technical fact sheet.
 
-  - [Depressed red rock crab (
-  *Plagusia tuberculata*
+  - [Depressed red rock crab ( *Plagusia tuberculata*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1752)
 

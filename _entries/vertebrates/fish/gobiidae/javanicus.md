@@ -10,6 +10,7 @@ attributes:
 - 47
 - 106
 - 108
+- 155
 family: Gobiidae
 genus: Pseudogobius
 species: javanicus
@@ -38,8 +39,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Javanese fatnose goby (
-  *Pseudogobius javanicus*
+  - [Javanese fatnose goby ( *Pseudogobius javanicus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
 
@@ -49,8 +49,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Javanese fatnose goby (
-  *Pseudogobius javanicus*
+  - [Javanese fatnose goby ( *Pseudogobius javanicus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/376)
 

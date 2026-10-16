@@ -12,6 +12,7 @@ attributes:
 - 25
 - 47
 - 72
+- 155
 family: Gobiidae
 genus: Scartelaos
 species: histophorus
@@ -67,8 +68,7 @@ links_references: '### Links
 
   by Gianluca Polgar: Technical fact sheets with lots of photos.
 
-  - [Walking goby (
-  *Scartelaos histophoru*
+  - [Walking goby ( *Scartelaos histophoru*
 
   )](http://fishbase.mnhn.fr/Summary/SpeciesSummary.php?id=7487)
 

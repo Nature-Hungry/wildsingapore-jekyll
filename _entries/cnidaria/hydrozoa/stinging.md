@@ -5,16 +5,18 @@ keywords: stinging, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, sh
   marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
-genus: 'awaiting'
+genus: awaiting
 phylum: Cnidaria
 class: Hydrozoa
 species: identification*
-attributes: []
+attributes:
+- 155
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
-summary: 4-20cm long. Transparent or white fern-like 'leaves' on black branches. Stings powerfully. On coral rubble. Commonly seen on some of our shores.
+summary: 4-20cm long. Transparent or white fern-like 'leaves' on black branches. Stings
+  powerfully. On coral rubble. Commonly seen on some of our shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
 galleries:
   gallery1:
@@ -84,11 +86,9 @@ galleries:
     caption: ''
   - url: https://images.naturehungry.sg/cnidaria/others/hydrozoa/stinging/210428slujll1.jpg
     caption: Pulau Salu, Apr 21 Photo shared by Jianlin Liu on facebook .
-links_references: "### Links
-\n- [*Macrorhynchia philippina*](http://taxo4254.wikispaces.com/Macrorhynchia+philippina)\n\
+links_references: "### Links \n- [*Macrorhynchia philippina*](http://taxo4254.wikispaces.com/Macrorhynchia+philippina)\n\
   (Leptothecata: Aglaopheniidae) White stinger by Claire Gu\xE9rin, 2014, on taxo4254.\n\
-  \n### References
-\n- Gosliner, Terrence M., David W. Behrens and Gary C. Williams.\
+  \n### References \n- Gosliner, Terrence M., David W. Behrens and Gary C. Williams.\
   \ 1996.\n*Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii\
   \ exclusive of the vertebrates*\nSea Challengers. 314pp\n"
 location:

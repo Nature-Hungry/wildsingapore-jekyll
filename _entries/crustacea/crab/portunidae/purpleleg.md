@@ -12,6 +12,7 @@ attributes:
 - 106
 - 112
 - 119
+- 155
 family: Portunidae
 genus: Charybdis
 species: hellerii*
@@ -80,8 +81,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Spiny hands (
-  *Charybdis hellerii*
+  - [Spiny hands ( *Charybdis hellerii*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=9332)
 
@@ -91,8 +91,7 @@ links_references: '### Links
 
   : technical fact sheet.
 
-  - [Indo-Pacific swimming crab (
-  *Charybdis hellerii*
+  - [Indo-Pacific swimming crab ( *Charybdis hellerii*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1122)
 

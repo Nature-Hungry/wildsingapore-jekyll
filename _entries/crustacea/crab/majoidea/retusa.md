@@ -10,6 +10,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Inachidae
 genus: Camposcia
 species: retusa
@@ -123,8 +124,7 @@ links_references: '### Links
   by Palomares, M.L.D. and D. Pauly. Editors. 2009: fact sheets on a vast range of
   marinelife.
 
-  - [Decorator crab (
-  *Camposcia retusa*
+  - [Decorator crab ( *Camposcia retusa*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=856)
 

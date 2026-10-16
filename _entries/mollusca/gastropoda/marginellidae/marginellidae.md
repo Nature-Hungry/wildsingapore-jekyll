@@ -1,13 +1,16 @@
 ---
 title: Margin snails
 description: Fact sheet of Margin snails on the shores of Singapore
-keywords: marginellidae, cryptospira, gastropod, mollusc, margin, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: marginellidae, cryptospira, gastropod, mollusc, margin, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Marginellidae
 genus: Cryptospira
 species: ''
 attributes:
 - 100
+- 155
 inat_id: 890097
 stateofmatter: Life
 kingdom: Animalia

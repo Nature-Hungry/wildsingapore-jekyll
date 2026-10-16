@@ -12,6 +12,7 @@ attributes:
 - 66
 - 76
 - 100
+- 155
 inat_id: 496404
 stateofmatter: Life
 kingdom: Animalia
@@ -63,22 +64,19 @@ galleries:
 links_references: '### Links
 
 
-  - [Ramose murex (
-  *Murex ramosus*
+  - [Ramose murex ( *Murex ramosus*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/Chicoreus-ramosus.html)
 
   on SeaLife Base: Technical fact sheet.
 
-  - [Ramose murex (
-  *Murex ramosus*
+  - [Ramose murex ( *Murex ramosus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=200)
 
   on the NParks Flora and Fauna website.
 
-  - Ramose murex (
-  *Murex ramosus*
+  - Ramose murex ( *Murex ramosus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

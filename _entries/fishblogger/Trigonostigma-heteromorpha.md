@@ -8,6 +8,8 @@ species: heteromorpha
 rdb: EN
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 188588
 stateofmatter: Life
 kingdom: Animalia

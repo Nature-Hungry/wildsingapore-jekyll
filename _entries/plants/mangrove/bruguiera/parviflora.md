@@ -12,6 +12,7 @@ attributes:
 - 32
 - 36
 - 68
+- 155
 family: Rhizophoraceae
 genus: Bruguiera
 species: parviflora
@@ -35,8 +36,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Lenggadai (
-  *Bruguiera parviflora*
+  - [Lenggadai ( *Bruguiera parviflora*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1055)
 

@@ -10,6 +10,7 @@ attributes:
 - 47
 - 106
 - 108
+- 155
 family: Gobiidae
 genus: Drombus
 species: triangularis
@@ -45,8 +46,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Brown shore goby (
-  *Drombus triangularis*
+  - [Brown shore goby ( *Drombus triangularis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/364)
 

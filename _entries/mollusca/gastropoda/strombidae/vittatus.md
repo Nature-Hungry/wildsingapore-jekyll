@@ -10,6 +10,7 @@ genus: Doxander
 species: vittatus
 attributes:
 - 100
+- 155
 inat_id: 701365
 stateofmatter: Life
 kingdom: Animalia

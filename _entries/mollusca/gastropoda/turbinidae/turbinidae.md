@@ -1,7 +1,8 @@
 ---
 title: 'Turban snails '
 description: Fact sheet of Turban snails  on the shores of Singapore
-keywords: turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: ''
@@ -10,6 +11,7 @@ attributes:
 - 23
 - 75
 - 100
+- 155
 inat_id: 86122
 stateofmatter: Life
 kingdom: Animalia
@@ -25,7 +27,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg
     caption: Sisters Island, Oct 11
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2100m3.jpg
-    caption: Two different kinds of turban snails. More easily distinguished by their operculum.
+    caption: Two different kinds of turban snails. More easily distinguished by their
+      operculum.
   - url: https://images.naturehungry.sg/mollusca/gastropoda/turbinidae/intercostalis/120620sntd5829m3.jpg
     caption: Sometimes, only the operculum is seen on the shore.
   gallery3:
@@ -71,13 +74,17 @@ links_references: '### Links
 
   - [Family Turbinidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Turbinidae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
+  Natural History Museum website: brief fact sheet with photos.
 
   - [The Humble Operculum](http://www.nansaidh.us/operc/index1.html)
 
-  : photos and facts just some beautiful opercula of snails, many of which are turban shells, with photos also of their shells. A fascinating site.
+  : photos and facts just some beautiful opercula of snails, many of which are turban
+  shells, with photos also of their shells. A fascinating site.
 
-  - Family Turbinidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Turbinidae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -91,7 +98,8 @@ links_references: '### Links
 
   *Recent record of the turban snail, Turbo heterocheilus, at Changi*
 
-  . 31 March 2017. Singapore Biodiversity Records 2017: 33-34 ISSN 2345-7597. National University of Singapore.
+  . 31 March 2017. Singapore Biodiversity Records 2017: 33-34 ISSN 2345-7597. National
+  University of Singapore.
 
   - Tan Heok Hui & Tan Siong Kiat. 30 May 2014.
 

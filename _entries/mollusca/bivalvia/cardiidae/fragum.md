@@ -8,7 +8,8 @@ layout: entry
 family: Cardiidae
 genus: Fragum
 species: unedo
-attributes: []
+attributes:
+- 155
 inat_id: 369829
 stateofmatter: Life
 kingdom: Animalia
@@ -83,15 +84,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Pacific strawberry cockle (
-  *Fragum unedo*
+  - [Pacific strawberry cockle ( *Fragum unedo*
 
   )](http://www.sealifebase.org/summary/SpeciesSummary.php?id=84532)
 
   from SeaLife Base: Technical fact sheet.
 
-  - Pacific strawberry cockle (
-  *Fragum unedo*
+  - Pacific strawberry cockle ( *Fragum unedo*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

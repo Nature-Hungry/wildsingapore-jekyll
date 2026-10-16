@@ -12,6 +12,7 @@ attributes:
 - 25
 - 47
 - 72
+- 155
 family: Gobiidae
 genus: Periophthalmus
 species: chrysospilos
@@ -73,8 +74,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Gold-spotted mudskipper (
-  *Periophthalmus chrysospilos*
+  - [Gold-spotted mudskipper ( *Periophthalmus chrysospilos*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/371)
 

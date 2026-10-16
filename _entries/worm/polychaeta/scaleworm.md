@@ -8,8 +8,9 @@ layout: entry
 family: Polynoidae
 genus: ''
 species: ''
-attributes: 
+attributes:
 - 149
+- 155
 inat_id: 53607
 stateofmatter: Life
 kingdom: Animalia

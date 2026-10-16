@@ -12,6 +12,7 @@ attributes:
 - 58
 - 60
 - 85
+- 155
 family: Centrogenyidae
 genus: Centrogenys
 species: vaigiensis
@@ -81,8 +82,7 @@ galleries:
 links_references: '### Links
 
 
-  - [False scorpionfish (
-  *Centrogenys vaigiensis)*](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/265)
+  - [False scorpionfish ( *Centrogenys vaigiensis)*](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/265)
 
   Lim, Kelvin K. P. & Jeffrey K. Y. Low, 1998.
 
@@ -94,8 +94,7 @@ links_references: '### Links
 
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
 
-  - [Tigerfish (
-  *Centrogenys vaigiensis*
+  - [Tigerfish ( *Centrogenys vaigiensis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/242)
 
@@ -111,8 +110,7 @@ links_references: '### Links
 
   [False scorpionfish](http://www.fishbase.org/Summary/speciesSummary.php?ID=10339)
 
-  [(
-  *Centrogenys vaigiensis*
+  [( *Centrogenys vaigiensis*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=10339)
 

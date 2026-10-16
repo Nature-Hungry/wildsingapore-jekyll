@@ -6,11 +6,12 @@ keywords: philine, orientalis, philinidae, cephalaspidea, gastropod, mollusc, fi
   sheet, info, photo
 layout: entry
 family: Philinidae
-genus: 'Philine'
+genus: Philine
 species: orientalis
-attributes: 
+attributes:
 - 29
 - 90
+- 155
 inat_id: 49852
 stateofmatter: Life
 kingdom: Animalia

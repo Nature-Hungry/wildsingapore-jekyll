@@ -12,6 +12,7 @@ species: maculata
 attributes:
 - 97
 - 98
+- 155
 inat_id: 1485701
 stateofmatter: Life
 kingdom: Plantae

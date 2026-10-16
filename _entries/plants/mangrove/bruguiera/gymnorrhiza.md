@@ -13,6 +13,7 @@ attributes:
 - 36
 - 57
 - 68
+- 155
 family: Rhizophoraceae
 genus: Bruguiera
 species: gymnorrhiza
@@ -43,8 +44,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Tumu (
-  *Bruguiera gymnorrhiza*
+  - [Tumu ( *Bruguiera gymnorrhiza*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1054)
 

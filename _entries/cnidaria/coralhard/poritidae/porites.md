@@ -8,7 +8,8 @@ layout: entry
 family: Poritidae
 genus: Porites
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 47530
 stateofmatter: Life
 kingdom: Animalia
@@ -124,7 +125,7 @@ links_references: '### Links
 
   . The Nature Society (Singapore), Singapore. 343 pp.
 
- '
+  '
 location:
 - cj
 - skd

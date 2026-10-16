@@ -7,7 +7,8 @@ layout: entry
 family: ''
 genus: Acanthopleura
 species: gemmata
-attributes: []
+attributes:
+- 155
 inat_id: 369105
 stateofmatter: Life
 kingdom: Animalia

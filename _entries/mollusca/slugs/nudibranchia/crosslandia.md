@@ -11,6 +11,7 @@ attributes:
 - 30
 - 33
 - 90
+- 155
 family: Scyllaeidae
 genus: Crosslandia
 species: daedali

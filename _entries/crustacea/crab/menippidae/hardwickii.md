@@ -11,6 +11,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Menippidae
 genus: Myomenippe
 species: hardwickii
@@ -87,8 +88,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Stone Crab (
-  *Myomenippe hardwicki*
+  - [Stone Crab ( *Myomenippe hardwicki*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/214)
 
@@ -98,8 +98,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Stone Crab (
-  *Myomenippe hardwicki*
+  - [Stone Crab ( *Myomenippe hardwicki*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2041)
 
@@ -113,15 +112,13 @@ links_references: '### Links
 
   (Decapoda: Menippidae) Thunder crab by Suhailah Binte Isnin, 2015, on taxo4254.
 
-  - [Stone Crab (
-  *Myomenippe hardwicki*
+  - [Stone Crab ( *Myomenippe hardwicki*
 
   )](http://ranong.myspecies.info/category/clade/flora-and-fauna/crustacea/decapoda/brachyura/menippidae/myomenippe-hardwickii)
 
   on Marine Flora and Fauna of Ranong, Thailand
 
-  - [Stone Crab (
-  *Myomenippe hardwicki*
+  - [Stone Crab ( *Myomenippe hardwicki*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&menuentry=soorten&id=1453&tab=synoniemen)
 

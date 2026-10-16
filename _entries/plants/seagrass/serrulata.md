@@ -8,6 +8,7 @@ keywords: serrated, ribbon, grass, cymodocea, serrulata, cymodoceaceae, potamoge
 layout: entry
 attributes:
 - 95
+- 155
 englishname: Serrated ribbon seagrass
 family: Cymodoceaceae
 genus: Cymodocea

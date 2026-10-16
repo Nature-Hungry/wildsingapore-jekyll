@@ -13,6 +13,7 @@ attributes:
 - 41
 - 97
 - 98
+- 155
 inat_id: 51025
 stateofmatter: Life
 kingdom: Chromista
@@ -71,8 +72,7 @@ links_references: '### Links
   by Keith Davey on the Marine Education Society of Australia website: Fact sheet
   with photos of species found in Australia.
 
-  - [Mermaid''s fan (
-  *Padina*
+  - [Mermaid''s fan ( *Padina*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/104)
 

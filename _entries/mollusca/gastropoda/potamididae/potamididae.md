@@ -1,13 +1,16 @@
 ---
 title: 'Horn snails '
 description: Fact sheet of Horn snails  on the shores of Singapore
-keywords: horn, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: horn, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc,
+  mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Potamididae
 genus: ''
 species: ''
 attributes:
 - 100
+- 155
 inat_id: 68129
 stateofmatter: Life
 kingdom: Animalia
@@ -82,9 +85,12 @@ links_references: '### Links
 
   - [Family Potamididae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Gastropoda/Potamididae.html)
 
-  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on Nerites with photos.
+  on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
+  Natural History Museum website: brief fact sheet on Nerites with photos.
 
-  - Family Potamididae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Potamididae in the Gastropods section by J.M. Poutiers in the FAO Species
+  Identification Guide for Fishery Purposes: The Living Marine Resources of the Western
+  Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 

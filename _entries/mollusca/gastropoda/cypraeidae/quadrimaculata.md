@@ -11,6 +11,7 @@ species: quadrimaculata
 attributes:
 - 100
 - 127
+- 155
 inat_id: 624149
 stateofmatter: Life
 kingdom: Animalia

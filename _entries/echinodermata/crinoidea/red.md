@@ -9,6 +9,7 @@ attributes:
 - 1
 - 45
 - 92
+- 155
 family: Himerometridae
 genus: Himerometra
 species: robustipinna

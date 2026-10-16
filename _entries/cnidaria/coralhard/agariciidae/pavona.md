@@ -8,7 +8,8 @@ layout: entry
 family: Agariciidae
 genus: Pavona
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 90878
 stateofmatter: Life
 kingdom: Animalia
@@ -126,7 +127,7 @@ links_references: '### Links
 
   on SeaLife Base: Technical fact sheets.
 
- '
+  '
 location:
 - tm
 - ecp

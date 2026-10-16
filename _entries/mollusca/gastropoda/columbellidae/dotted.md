@@ -11,6 +11,7 @@ species: scripta
 attributes:
 - 100
 - 87
+- 155
 inat_id: 504328
 stateofmatter: Life
 kingdom: Animalia

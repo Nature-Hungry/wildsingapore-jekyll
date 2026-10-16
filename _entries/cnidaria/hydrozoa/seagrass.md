@@ -5,16 +5,18 @@ keywords: hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marin
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
-genus: 'awaiting'
+genus: awaiting
 phylum: Cnidaria
 class: Hydrozoa
 species: identification*
-attributes: []
+attributes:
+- 155
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
-summary: 0.5cm or shorter. Feathery, grows in rows on seagrass blades. Sometimes seen on some of our shores.
+summary: 0.5cm or shorter. Feathery, grows in rows on seagrass blades. Sometimes seen
+  on some of our shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
 galleries:
   gallery1:

@@ -10,6 +10,7 @@ attributes:
 - 25
 - 42
 - 47
+- 155
 family: Scatophagidae
 genus: Scatophagus
 species: argus
@@ -48,8 +49,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Spotted Scat (
-  *Scatophagus argus*
+  - [Spotted Scat ( *Scatophagus argus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/326)
 
@@ -59,8 +59,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Scat or Butterfish (
-  *Scatophagus argus*
+  - [Scat or Butterfish ( *Scatophagus argus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/244)
 
@@ -70,8 +69,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Spotted scat (
-  *Scatophagus argus*
+  - [Spotted scat ( *Scatophagus argus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2110)
 

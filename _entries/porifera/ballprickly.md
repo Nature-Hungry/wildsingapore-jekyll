@@ -10,6 +10,7 @@ species: robusta
 attributes:
 - 159
 - 141
+- 155
 inat_id: 707284
 stateofmatter: Life
 kingdom: Animalia

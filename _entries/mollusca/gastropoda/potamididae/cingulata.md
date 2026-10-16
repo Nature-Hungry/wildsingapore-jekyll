@@ -9,6 +9,7 @@ attributes:
 - 100
 - 78
 - 66
+- 155
 family: Potamididae
 genus: Cerithidea
 species: cingulata
@@ -32,15 +33,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Girdled horn snail (
-  *Cerithidea cingulata*
+  - [Girdled horn snail ( *Cerithidea cingulata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86861)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Girdled horn snail (
-  *Cerithidea cingulata*
+  - Girdled horn snail ( *Cerithidea cingulata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

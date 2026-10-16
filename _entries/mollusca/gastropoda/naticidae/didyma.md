@@ -12,6 +12,7 @@ attributes:
 - 100
 - 23
 - 77
+- 155
 inat_id: 59353
 stateofmatter: Life
 kingdom: Animalia
@@ -37,15 +38,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Bladder moon snail (
-  *Polinices didyma*
+  - [Bladder moon snail ( *Polinices didyma*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86933)
 
   from SeaLife Base: Technical fact sheet.
 
-  - Bladder moon snail (
-  *Polinices didyma*
+  - Bladder moon snail ( *Polinices didyma*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

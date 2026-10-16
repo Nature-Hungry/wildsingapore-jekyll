@@ -8,7 +8,8 @@ layout: entry
 family: Ellisellidae
 genus: Ctenocella
 species: pectinata*
-attributes: []
+attributes:
+- 155
 inat_id: 604334
 stateofmatter: Life
 kingdom: Animalia
@@ -17,7 +18,9 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
-summary: 15-20cm. Colony with long unbranched thin cylindrical stems emerging vertically from a horizontal stem. Red or brown. On coral rubble. Sometimes seen on our Northern shores.
+summary: 15-20cm. Colony with long unbranched thin cylindrical stems emerging vertically
+  from a horizontal stem. Red or brown. On coral rubble. Sometimes seen on our Northern
+  shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
 galleries:
   gallery1:

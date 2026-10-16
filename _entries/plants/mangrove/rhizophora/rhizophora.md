@@ -1,12 +1,14 @@
 ---
 title: Bakau
 description: Fact sheet of Bakau on the shores of Singapore
-keywords: rhizophora, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: rhizophora, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Rhizophoraceae
 genus: Rhizophora
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 60338
 stateofmatter: Life
 kingdom: Plantae
@@ -77,7 +79,8 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
   - [Cork warts and aerenchyma pressurize internal airflow: mangrove](http://www.asknature.org/strategy/f03594e44137da289a46047291aafc17)
 

@@ -1,12 +1,14 @@
 ---
 title: Sea mussels
 description: Fact sheet of Sea mussels on the shores of Singapore
-keywords: mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Mytilidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 50600
 stateofmatter: Life
 kingdom: Animalia
@@ -25,7 +27,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
     caption: Nest mussels can form vast mats Chek Jawa, Aug 07
   - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg
-    caption: Tiny Green mussels growing among tinier Nest mussels . Pulau Sekudu, Jul 07
+    caption: Tiny Green mussels growing among tinier Nest mussels . Pulau Sekudu,
+      Jul 07
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
     caption: Green mussels
@@ -71,9 +74,11 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief description and photos.
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  description and photos.
 
-  - Family Mytilidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Mytilidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 

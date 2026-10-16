@@ -11,6 +11,7 @@ species: moneta
 attributes:
 - 100
 - 127
+- 155
 inat_id: 51809
 stateofmatter: Life
 kingdom: Animalia

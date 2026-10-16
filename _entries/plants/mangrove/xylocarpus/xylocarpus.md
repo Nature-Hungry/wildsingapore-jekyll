@@ -1,12 +1,15 @@
 ---
 title: ' Nyireh'
 description: Fact sheet of  Nyireh on the shores of Singapore
-keywords: nyireh, bunga, xylocarpus, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: nyireh, bunga, xylocarpus, polygalaceae, meliaceae, tree, mangrove, mangroves,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Meliaceae
 genus: Xylocarpus
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 182183
 stateofmatter: Life
 kingdom: Plantae
@@ -71,7 +74,8 @@ links_references: '### Links
 
   on the NParks Flora and Fauna website: photos and fact sheet.
 
-  - [The Struggle for Survival: Five threatened coastal plants once common on our shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d)
+  - [The Struggle for Survival: Five threatened coastal plants once common on our
+  shores](http://habitatnews.nus.edu.sg/pub/naturewatch/text/a061d)
 
   by Jean W H Yong, Nature Watch Vol 6 No 1 Jan-Mar 98
 
@@ -85,7 +89,8 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
   ### References

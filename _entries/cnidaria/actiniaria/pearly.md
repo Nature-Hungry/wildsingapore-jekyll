@@ -15,6 +15,7 @@ attributes:
 - 5
 - 6
 - 88
+- 155
 family: Actiniidae
 genus: Paracondylactis
 species: sinensis
@@ -78,12 +79,19 @@ links_references: '
 
   ### Links
 
-  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.
-  - D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A. Crowther, R. Goodwill, K. Sanpanich & Tay Y. C.
-  *Sea anemones (Cnidaria: Actiniaria) of Singapore: shallow water species known also from the Indian subcontinent*
-  . 10 July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
+  - Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat
+  Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H.
+  Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The
+  Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition.
+  National Parks Board. 663 pp. - D. G. Fautin, R. Tan, N. W. L. Yap, Tan S. H., A.
+  Crowther, R. Goodwill, K. Sanpanich & Tay Y. C. *Sea anemones (Cnidaria: Actiniaria)
+  of Singapore: shallow water species known also from the Indian subcontinent* . 10
+  July 2015 The Comprehensive Marine Biodiversity Survey: Johor Straits International
+  Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 44-59.
 
-  - *[Paracondylactis sinensis](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Paracondylactis&subgenus=&species=sinensis&subspecies=&synseniorid=1553)* on the  [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm) website by Dr Daphne G. Fautin with classification, distribution, biological associations
+  - *[Paracondylactis sinensis](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Paracondylactis&subgenus=&species=sinensis&subspecies=&synseniorid=1553)*
+  on the  [Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/order.cfm)
+  website by Dr Daphne G. Fautin with classification, distribution, biological associations
   and more.
 
   '

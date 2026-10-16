@@ -8,6 +8,8 @@ species: javanensis
 rdb: LC
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 1316096
 stateofmatter: Life
 kingdom: Animalia

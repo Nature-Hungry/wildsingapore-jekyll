@@ -10,6 +10,7 @@ attributes:
 - 47
 - 58
 - 60
+- 155
 family: Serranidae
 genus: Epinephelus
 species: quoyanus

@@ -8,7 +8,8 @@ layout: entry
 family: Delphinidae
 genus: Sousa
 species: chinensis
-attributes: []
+attributes:
+- 155
 inat_id: 469961
 stateofmatter: Life
 kingdom: Animalia
@@ -26,8 +27,7 @@ superfamily: Delphinoidea
 subfamily: Delphininae
 updated: Oct 2019
 coverimg: https://images.naturehungry.sg/vertebrates/mammals/sousa/170823tsmkjt2.jpg
-links_references: "### Links
-\n- *[Sousa chinensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Sousa%20Chinensisl)*\
+links_references: "### Links \n- *[Sousa chinensis](https://singapore.biodiversity.online/taxo4254/mainSpace/Sousa%20Chinensisl)*\
   \ (Cetartiodactyla: Delphinidae) Indo-Pacific Humpbacked Dolphin by Yang Jia Qi,\
   \ 2015, on taxo4254.\n- [Support ACRES effort for wild dolphins in Singapore](http://wildshores.blogspot.sg/2015/04/support-acres-effort-for-wild-dolphinsl)\
   \ on the wild shores of singapore blog.\n- [How\n  to eat live sotong if you have\
@@ -35,8 +35,7 @@ links_references: "### Links
   \ a dolphin hunting\n  technique on the wild shores of singapore blog.\n- [Latest\n\
   \  media reports on dolphins](http://wildsingaporenews.blogspot.com/search/label/dolphins)\
   \ on the wildsingapore news blog.\n- [Singapore\n  Wild Marine Mammal Survey](http://www.tmsi.nus.edu.sg/mmrl)\
-  \ (SWiMMS)\n\n### References
-\n- Benjamin P. Y-H. Lee & Michelle Ooi. 30 June 2020.\
+  \ (SWiMMS)\n\n### References \n- Benjamin P. Y-H. Lee & Michelle Ooi. 30 June 2020.\
   \ *Indo-Pacific humpback dolphins near Jurong Island*. Singapore Biodiversity Records\
   \ 2020: 84-85 ISSN 2345-7597\n- Teresa Stephanie Tay & Rene Ong. 10 October 2014.\
   \ *Indo-Pacific humpback dolphins off Lazarus Island, Sousa chinensis*. Singapore\

@@ -4,7 +4,8 @@ description: Fact sheet of Barnacles on the shores of Singapore
 keywords: barnacle, cirripedia, sessilia, crustacea, field, guide, seashore, sea,
   shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: []
+attributes:
+- 155
 family: Archaeobalanidae
 genus: ''
 species: ''
@@ -68,15 +69,13 @@ links_references: '### Links
 
   ,
 
-  [barnacles on crabs (
-  *Balanus, Octolasmis*
+  [barnacles on crabs ( *Balanus, Octolasmis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/269)
 
   ,
 
-  [Parasitic barnacles (
-  *Thompsonia, Sacculina*
+  [Parasitic barnacles ( *Thompsonia, Sacculina*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/270)
 
@@ -138,9 +137,11 @@ links_references: '### Links
   '
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are NOT clams or even snails! They are more similar to crabs and shrimps! 
-- A living barnacle has a door over the opening in its shell. A dead one has a gaping hole. Other animals may shelter in the empty shell
-- Barnacles affect urban living. They grow on ships and thus affect shipping. Cities rely on ships for supplies and transportation!
+- They are NOT clams or even snails! They are more similar to crabs and shrimps!
+- A living barnacle has a door over the opening in its shell. A dead one has a gaping
+  hole. Other animals may shelter in the empty shell
+- Barnacles affect urban living. They grow on ships and thus affect shipping. Cities
+  rely on ships for supplies and transportation!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

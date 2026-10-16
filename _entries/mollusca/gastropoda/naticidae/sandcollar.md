@@ -12,6 +12,7 @@ attributes:
 - 100
 - 23
 - 77
+- 155
 inat_id: 48923
 stateofmatter: Life
 kingdom: Animalia
@@ -33,8 +34,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Moon Snail (
-  *Polinices*
+  - [Moon Snail ( *Polinices*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/142)
 

@@ -11,6 +11,7 @@ attributes:
 - 25
 - 42
 - 47
+- 155
 family: Monacanthidae
 genus: Chaetodermis
 species: penicilligerus
@@ -61,8 +62,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Prickly leatherjacket (
-  *Chaetodermis penicilligerus*
+  - [Prickly leatherjacket ( *Chaetodermis penicilligerus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7975)
 

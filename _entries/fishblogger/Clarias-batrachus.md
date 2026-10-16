@@ -8,6 +8,8 @@ species: batrachus
 rdb: NT
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 97926
 stateofmatter: Life
 kingdom: Animalia

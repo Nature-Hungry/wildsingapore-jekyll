@@ -8,6 +8,7 @@ layout: entry
 attributes:
 - 38
 - 54
+- 155
 family: Coenobitidae
 genus: Coenobita
 species: sp.
@@ -77,8 +78,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Land hermit crab (
-  *Coenobita cavipes*
+  - [Land hermit crab ( *Coenobita cavipes*
 
   ) Family Coenobitidae](http://mangrove.nus.edu.sg/guidebooks/text/2063)
 
@@ -162,7 +162,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - This hermit crab is seldom seen on the mainland
-- Every empty shell is a potential hermit crab home. Don't take any shells home! 
+- Every empty shell is a potential hermit crab home. Don't take any shells home!
 - It is so well adapted to land it will drown if kept under water!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

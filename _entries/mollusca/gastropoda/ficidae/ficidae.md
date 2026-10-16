@@ -1,13 +1,16 @@
 ---
 title: Fig snail
 description: Fact sheet of Fig snail on the shores of Singapore
-keywords: fig, snail, ficus, variegata, ficidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: fig, snail, ficus, variegata, ficidae, gastropod, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Ficidae
 genus: Ficus
 species: variegata
 attributes:
 - 100
+- 155
 inat_id: 50996
 stateofmatter: Life
 kingdom: Animalia
@@ -38,7 +41,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ficidae/ficidae/200723nrsccrk1.jpg
     caption: East Coast Park, Jul 20 Photo shared by Richard Kuah on facebook .
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ficidae/ficidae/210529ecpgtch2.jpg
-    caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook .
+    caption: East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on facebook
+      .
 links_references: '### Links
 
 
@@ -48,7 +52,8 @@ links_references: '### Links
 
   [The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)
 
-  at Washington State University Tri-Cities Natural History Museum website: brief fact sheet on drills with photos
+  at Washington State University Tri-Cities Natural History Museum website: brief
+  fact sheet on drills with photos
 
   - [Family Ficidae](http://seashellsofnsw.org.au/Ficidae/Pages/Ficidae_intro)
 
@@ -56,9 +61,11 @@ links_references: '### Links
 
   [The Seashells of New South Wales](http://seashellsofnsw.org.au/index)
 
-  website by Des Beechey Research Associate, Australian Museum: family introductions with photos of shells and detailed fact sheets for many species.
+  website by Des Beechey Research Associate, Australian Museum: family introductions
+  with photos of shells and detailed fact sheets for many species.
 
-  - Family Ficidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Ficidae in the Gastropods section by J.M. Poutiers in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -76,7 +83,8 @@ links_references: '### Links
 
   - Neo, M. L., 2010.
 
-  *The taxonomic status of fig shells, with notes on Ficus variegata (Roding, 1798) (Mollusca: Gastropoda: Ficoidea: Ficidae)*
+  *The taxonomic status of fig shells, with notes on Ficus variegata (Roding, 1798)
+  (Mollusca: Gastropoda: Ficoidea: Ficidae)*
 
   . Nature in Singapore, 3: 117-123.
 

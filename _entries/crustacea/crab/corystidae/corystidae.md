@@ -1,11 +1,14 @@
 ---
 title: Masked burrowing crabs
 description: Fact sheet of Masked burrowing crabs on the shores of Singapore
-keywords: masked, burrowing, crab, corystidae, gomeza, bicornis, jonas, formosa, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: masked, burrowing, crab, corystidae, gomeza, bicornis, jonas, formosa, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 38
 - 106
+- 155
 family: Corystidae
 genus: ''
 species: ''
@@ -33,10 +36,12 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/corystidae/corystidae/041215labd9039m3.jpg
     caption: Carrying eggs on the abdomen.
   - url: https://images.naturehungry.sg/crustacea/crab/corystidae/corystidae/041215labd9037m3b.jpg
-    caption: Interlocking hairs on the antennae may form a breathing tube when the crab is underground.
+    caption: Interlocking hairs on the antennae may form a breathing tube when the
+      crab is underground.
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/crab/corystidae/corystidae/121018chglks.JPG
-    caption: Female carrying eggs. Changi, Oct 12 Photo shared by Lok Kok Sheng on flickr .
+    caption: Female carrying eggs. Changi, Oct 12 Photo shared by Lok Kok Sheng on
+      flickr .
   gallery3:
   - url: https://images.naturehungry.sg/crustacea/crab/corystidae/corystidae/090720skdmn4m3.jpg
     caption: Pulau Sekudu, Jul 09 Photo shared by Marcus Ng on his blog .

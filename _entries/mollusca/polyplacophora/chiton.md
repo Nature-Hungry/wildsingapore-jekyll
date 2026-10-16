@@ -7,7 +7,8 @@ layout: entry
 family: Pinnidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 50584
 stateofmatter: Life
 kingdom: Animalia

@@ -11,6 +11,7 @@ attributes:
 - 25
 - 47
 - 116
+- 155
 family: Hemiramphidae
 genus: Hyporhamphus
 species: quoyi*
@@ -43,8 +44,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Quoy''s halfbeak (
-  *Hyporhamphus quoyi*
+  - [Quoy''s halfbeak ( *Hyporhamphus quoyi*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/239)
 
@@ -54,8 +54,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Quoy''s garfish (
-  *Hyporhamphus quoyi*
+  - [Quoy''s garfish ( *Hyporhamphus quoyi*
 
   )](http://fishbase.org.cn/summary/SpeciesSummary.php?id=8262)
 

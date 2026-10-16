@@ -10,6 +10,7 @@ genus: Chromodoris
 species: lineolata
 attributes:
 - 22
+- 155
 inat_id: 50428
 stateofmatter: Life
 kingdom: Animalia

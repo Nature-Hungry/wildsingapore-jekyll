@@ -8,7 +8,8 @@ layout: entry
 family: Limidae
 genus: Lima
 species: vulgaris
-attributes: []
+attributes:
+- 155
 inat_id: 926694
 stateofmatter: Life
 kingdom: Animalia
@@ -61,15 +62,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Common file shell (
-  *Lima vulgaris*
+  - [Common file shell ( *Lima vulgaris*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84401)
 
   on SeaLife Base: Technical fact sheet.
 
-  - [File shells (
-  *Lima lima*
+  - [File shells ( *Lima lima*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/162)
 
@@ -79,8 +78,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - Common file clam (
-  *Lima vulgaris*
+  - Common file clam ( *Lima vulgaris*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

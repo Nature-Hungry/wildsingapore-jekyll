@@ -11,6 +11,7 @@ attributes:
 - 25
 - 43
 - 47
+- 155
 family: Bythitidae
 genus: Dinematichthys
 species: iluocoeteoides
@@ -60,8 +61,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Yellow cuskeel (
-  *Dinematichthys iluocoeteoides*
+  - [Yellow cuskeel ( *Dinematichthys iluocoeteoides*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/229)
 
@@ -79,8 +79,7 @@ links_references: '### Links
 
   and
 
-  [Yellow pigmy brotula (
-  *Dinematichthys iluocoeteoides*
+  [Yellow pigmy brotula ( *Dinematichthys iluocoeteoides*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7300)
 

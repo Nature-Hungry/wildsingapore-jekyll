@@ -8,7 +8,8 @@ layout: entry
 family: Pectinidae
 genus: Volachlamys
 species: singaporina
-attributes: []
+attributes:
+- 155
 inat_id: 370295
 stateofmatter: Life
 kingdom: Animalia

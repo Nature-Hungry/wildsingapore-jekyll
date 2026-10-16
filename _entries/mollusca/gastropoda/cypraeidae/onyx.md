@@ -11,6 +11,7 @@ species: onyx
 attributes:
 - 100
 - 127
+- 155
 inat_id: 525414
 stateofmatter: Life
 kingdom: Animalia
@@ -51,15 +52,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Onyx cowrie (
-  *Cypraea onyx*
+  - [Onyx cowrie ( *Cypraea onyx*
 
   )](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=86923)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Onyx cowrie (
-  *Cypraea onyx*
+  - Onyx cowrie ( *Cypraea onyx*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

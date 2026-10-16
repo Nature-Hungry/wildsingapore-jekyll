@@ -7,6 +7,7 @@ layout: entry
 attributes:
 - 38
 - 106
+- 155
 family: Pocilloporidae
 genus: Pocillopora
 species: ''
@@ -133,7 +134,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp.
 
- '
+  '
 location:
 - tm
 - ecp

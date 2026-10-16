@@ -15,6 +15,7 @@ attributes:
 - 100
 - 111
 - 123
+- 155
 family: Naticidae
 genus: Tanea
 species: lineata
@@ -49,15 +50,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Lined moon snail (
-  *Natica lineata*
+  - [Lined moon snail ( *Natica lineata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86935)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Lined moon snail (
-  *Natica lineata*
+  - Lined moon snail ( *Natica lineata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

@@ -10,6 +10,7 @@ genus: Architectonica
 species: perspectiva
 attributes:
 - 100
+- 155
 inat_id: 355522
 stateofmatter: Life
 kingdom: Animalia
@@ -53,22 +54,19 @@ links_references: '### Links
   on The Gladys Archerd Shell Collection at Washington State University Tri-Cities
   Natural History Museum website: brief fact sheet with photos.
 
-  - [Clear sundial (
-  *Architectonica perspectiva*
+  - [Clear sundial ( *Architectonica perspectiva*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=2755)
 
   in SeaLife Base: Technical fact sheet.
 
-  - [Clear sundial (
-  *Architectonica perspectiva*
+  - [Clear sundial ( *Architectonica perspectiva*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=190)
 
   on the NParks Flora and Fauna website.
 
-  - Clear sundial (
-  *Architectonica perspectiva*
+  - Clear sundial ( *Architectonica perspectiva*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

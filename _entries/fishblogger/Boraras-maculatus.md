@@ -8,6 +8,8 @@ species: maculatus
 rdb: EN
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 95888
 stateofmatter: Life
 kingdom: Animalia

@@ -1,7 +1,8 @@
 ---
-title: "Hard corals "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+title: 'Hard corals '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 coverimg: https://images.naturehungry.sg/cnidaria/coralhard/others/120607kusd4812m6l.jpg
 stateofmatter: Life
@@ -16,64 +17,79 @@ authors:
 zone:
 - intertidal
 - marine
-trivia_title: if you learn only 3 things about them ...  
-trivia_items: 
-- Although a hard coral may look like a dead rock, it is a living animal. Don't step on it.  
-- Hard corals are a colony of many tiny animals. Thus they grow slowly. Don't break them!  
-- Hard corals are rainforests of the sea. Their presence allows other marine life to find shelter and food in the area.
+trivia_title: if you learn only 3 things about them ...
+trivia_items:
+- Although a hard coral may look like a dead rock, it is a living animal. Don't step
+  on it.
+- Hard corals are a colony of many tiny animals. Thus they grow slowly. Don't break
+  them!
+- Hard corals are rainforests of the sea. Their presence allows other marine life
+  to find shelter and food in the area.
 galleries:
- gallery1:
- - url: https://images.naturehungry.sg/cnidaria/coralhard/others/120607kusd4812m6l.jpg  
-   caption: Kusu Island has living reefs just minutes from the city centre <br> *Kusu Island, Jun 12*
-   col_span: 2
- - url: https://images.naturehungry.sg/concepts/pix/070703sntrg0998m3.jpg
-   caption: Reclamation of a living reef at Sentosa for the Integrated Resort. *Sentosa, Jul 07*
- gallery2:
- - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/040507rlhad0077m3c.jpg 
-   caption: Each polyp creates a tiny skeleton [Galaxy coral](euphylliidae/galaxea.htm)<br> *Raffles Lighthouse Jul 05*  
- - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg
-   caption: '[Pore corals](poritidae/porites.htm) have tiny corallites.<br>*Sisters Island, Jan 06*'
- - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/080608cyrd5460m3.jpg
-   caption: '[Flowery disk corals](dendrophylliidae/flowery.htm) have large corallites.<br>*Cyrene Reef, Jun 08*'
- gallery3:
- - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
-   caption: '[Flowery disk corals](dendrophylliidae/flowery.htm) have large polyps with short body columns.<br>*Sentosa, Jun 07*'
- - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
-   caption: With long polyps that hide the hard skeleton, the [Anemone coral](poritidae/gonbig.htm) is indeed often mistaken for a sea anemone.<br>*Sisters Island, Dec 05*
- - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/070219sisg7733m3.jpg
-   caption: The [mushroom hard coral](fungiidae/circular.htm) is a giant solitary polyp!<br>*Sisters Island, Feb 07*
- gallery4:
- - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/ring/ringsmall/040606kusd0279m3.jpg
-   caption: Some corals flouresce at sunset.<br>*Kusu Island, Jun 04*
- - url: https://images.naturehungry.sg/cnidaria/coralhard/others/101224sisd4112m3.jpg
-   caption: Some produce slime to clean themselves.<br>*Sisters Island, Dec 10*
- - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/050917smkg2405m3b.jpg
-   caption: Long sweeper tentacles produced by Galaxy coral.<br>*Pulau Semakau, Sep 05*
- gallery5:
- - url: https://images.naturehungry.sg/cnidaria/coralhard/others/1-s2.0-S0025326X15005251-gr1.gif
-   caption: 'A stylised depiction of the reproductive cycle of Acropora. From "Effects of sediments on the reproductive cycle of corals R. Jonesa, G.F. Ricardoa, A.P. Negria, 2015 on [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0025326X15005251)"'
- gallery6:
- - url: https://images.naturehungry.sg/cnidaria/coralhard/others/051103sisd6310m3.jpg
-   caption: Bites of fishes on a hard coral.<br>*Sisters Island, Nov 05*
- - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/comes/120820sisd0689m3.jpg
-   caption: '[Seahorses](../../vertebrates/fish/syngnathidae/comes.htm) sometimes shelter among branching corals<br>* Sisters Island, Dec 03*'
- - url: https://images.naturehungry.sg/cnidaria/coralhard/../../vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg
-   caption: The [Acropora goby](../../vertebrates/fish/gobiidae/histrio.htm) lives only in [Acropora corals](acroporidae/acropora.htm).<br>*Sisters Island, Dec 05*
- gallery7:
- - url: https://images.naturehungry.sg/cnidaria/coralhard/others/051103sisd6298m3.jpg
-   caption: Coral bleaching<br>*Sisters Island, Nov 05*
- - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3.jpg
-   caption: Diseased coral after bleaching.<br>*Sisters Island, Ju 10*
- - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100531biod4571m3.jpg
-   caption: Some produce mucus to protect themselves.<br>*Pulau Biola, May 10*
- gallery8:
- - url: https://images.naturehungry.sg/cnidaria/coralhard/others/160707kuso7070100.jpg
-   caption: Mass coral bleaching in 2016.<br>*Kusu Island, Jul 16*
-   col_span: 2
- - url: https://images.naturehungry.sg/cnidaria/coralhard/others/190220smk.jpg
-   caption: Colourful bleaching.<br>*Pulau Semakau, Feb 19*
-
-
+  gallery1:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/others/120607kusd4812m6l.jpg
+    caption: Kusu Island has living reefs just minutes from the city centre <br> *Kusu
+      Island, Jun 12*
+    col_span: 2
+  - url: https://images.naturehungry.sg/concepts/pix/070703sntrg0998m3.jpg
+    caption: Reclamation of a living reef at Sentosa for the Integrated Resort. *Sentosa,
+      Jul 07*
+  gallery2:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/040507rlhad0077m3c.jpg
+    caption: Each polyp creates a tiny skeleton [Galaxy coral](euphylliidae/galaxea.htm)<br>
+      *Raffles Lighthouse Jul 05*
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg
+    caption: '[Pore corals](poritidae/porites.htm) have tiny corallites.<br>*Sisters
+      Island, Jan 06*'
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/080608cyrd5460m3.jpg
+    caption: '[Flowery disk corals](dendrophylliidae/flowery.htm) have large corallites.<br>*Cyrene
+      Reef, Jun 08*'
+  gallery3:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
+    caption: '[Flowery disk corals](dendrophylliidae/flowery.htm) have large polyps
+      with short body columns.<br>*Sentosa, Jun 07*'
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg
+    caption: With long polyps that hide the hard skeleton, the [Anemone coral](poritidae/gonbig.htm)
+      is indeed often mistaken for a sea anemone.<br>*Sisters Island, Dec 05*
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/070219sisg7733m3.jpg
+    caption: The [mushroom hard coral](fungiidae/circular.htm) is a giant solitary
+      polyp!<br>*Sisters Island, Feb 07*
+  gallery4:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/faviidae/ring/ringsmall/040606kusd0279m3.jpg
+    caption: Some corals flouresce at sunset.<br>*Kusu Island, Jun 04*
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/others/101224sisd4112m3.jpg
+    caption: Some produce slime to clean themselves.<br>*Sisters Island, Dec 10*
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/euphylliidae/galaxea/050917smkg2405m3b.jpg
+    caption: Long sweeper tentacles produced by Galaxy coral.<br>*Pulau Semakau, Sep
+      05*
+  gallery5:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/others/1-s2.0-S0025326X15005251-gr1.gif
+    caption: A stylised depiction of the reproductive cycle of Acropora. From "Effects
+      of sediments on the reproductive cycle of corals R. Jonesa, G.F. Ricardoa, A.P.
+      Negria, 2015 on [ScienceDirect](http://www.sciencedirect.com/science/article/pii/S0025326X15005251)"
+  gallery6:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/others/051103sisd6310m3.jpg
+    caption: Bites of fishes on a hard coral.<br>*Sisters Island, Nov 05*
+  - url: https://images.naturehungry.sg/vertebrates/fish/syngnathidae/comes/120820sisd0689m3.jpg
+    caption: '[Seahorses](../../vertebrates/fish/syngnathidae/comes.htm) sometimes
+      shelter among branching corals<br>* Sisters Island, Dec 03*'
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/../../vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg
+    caption: The [Acropora goby](../../vertebrates/fish/gobiidae/histrio.htm) lives
+      only in [Acropora corals](acroporidae/acropora.htm).<br>*Sisters Island, Dec
+      05*
+  gallery7:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/others/051103sisd6298m3.jpg
+    caption: Coral bleaching<br>*Sisters Island, Nov 05*
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3.jpg
+    caption: Diseased coral after bleaching.<br>*Sisters Island, Ju 10*
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/porboulder/100531biod4571m3.jpg
+    caption: Some produce mucus to protect themselves.<br>*Pulau Biola, May 10*
+  gallery8:
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/others/160707kuso7070100.jpg
+    caption: Mass coral bleaching in 2016.<br>*Kusu Island, Jul 16*
+    col_span: 2
+  - url: https://images.naturehungry.sg/cnidaria/coralhard/others/190220smk.jpg
+    caption: Colourful bleaching.<br>*Pulau Semakau, Feb 19*
 ---
 
 

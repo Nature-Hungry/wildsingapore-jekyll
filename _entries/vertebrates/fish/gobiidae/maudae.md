@@ -16,6 +16,7 @@ attributes:
 - 79
 - 106
 - 108
+- 155
 family: Gobiidae
 genus: Cryptocentrus
 species: maudae
@@ -85,8 +86,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Saddled prawn-goby (
-  *Cryptocentrus maudae*
+  - [Saddled prawn-goby ( *Cryptocentrus maudae*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=13767)
 

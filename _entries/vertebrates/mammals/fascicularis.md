@@ -8,7 +8,8 @@ layout: entry
 family: Cercopithecidae
 genus: Long-tailed
 species: macaque
-attributes: []
+attributes:
+- 155
 inat_id: 43459
 stateofmatter: Life
 kingdom: Animalia
@@ -37,7 +38,8 @@ galleries:
 links_references: '### Links
 
 
-  - [Long-tailed Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Long-tailed Macaque](http://www.ecologyasia.com/verts/mammals/long-tailed_macaque.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Long-tailed Macaque](http://www.wildsingapore.per.sg/discovery/factsheet/macaque)
 

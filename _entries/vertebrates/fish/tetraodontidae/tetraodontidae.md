@@ -1,12 +1,14 @@
 ---
 title: Pufferfishes
 description: Fact sheet of Pufferfishes on the shores of Singapore
-keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Tetraodontidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 49266
 stateofmatter: Life
 kingdom: Animalia
@@ -21,11 +23,14 @@ coverimg: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellat
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg
-    caption: And inflated fish that was dead/dying and washed ashore. St. John's Island, Dec 16 Photo shared by Rene Ong on facebook .
+    caption: And inflated fish that was dead/dying and washed ashore. St. John's Island,
+      Dec 16 Photo shared by Rene Ong on facebook .
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/081101chgik2.jpg
-    caption: Fused teeth, on a dead pufferfish. Changi, Nov 08 Photo shared by Ivan Kwan on flickr .
+    caption: Fused teeth, on a dead pufferfish. Changi, Nov 08 Photo shared by Ivan
+      Kwan on flickr .
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/reticularis/081101chgik2a.jpg
-    caption: Fine prickly skin, on a dead pufferfish. Changi, Nov 08 Photo shared by Ivan Kwan on flickr .
+    caption: Fine prickly skin, on a dead pufferfish. Changi, Nov 08 Photo shared
+      by Ivan Kwan on flickr .
   gallery3:
   - url: https://images.naturehungry.sg/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg
     caption: Milk-spotted pufferfish
@@ -110,7 +115,8 @@ links_references: '### Links
 
   - [Don''t eat toxic fish balls!](http://wildshores.blogspot.com/2009/01/dont-eat-toxic-fish-balls.html)
 
-  on the wild shores of singapore blog: about a case of pufferfish poisoning and other uses of pufferfish toxins.
+  on the wild shores of singapore blog: about a case of pufferfish poisoning and other
+  uses of pufferfish toxins.
 
   - [Why pufferfishes are deadly and not dead](http://wildshores.blogspot.com/2009/12/why-are-pufferfishes-deadly-and-not.html)
 
@@ -122,9 +128,11 @@ links_references: '### Links
 
   - Toh Chay Hoon & Kelvin K. P. Lim.
 
-  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore Strait*
+  *Blue-spotted pufferfish (Arothron caeruleopunctatus) observed in the Singapore
+  Strait*
 
-  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National University of Singapore.
+  . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National
+  University of Singapore.
 
   - Tan Heok Hui. 1 October 2013.
 
@@ -138,7 +146,8 @@ size:
 - 30.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Pufferfishes are poisonous to eat! They can inflate themselves with water or air to deter predators
+- Pufferfishes are poisonous to eat! They can inflate themselves with water or air
+  to deter predators
 - But don't force a pufferfish to do this
 - They have powerful teeth and can give a nasty bite.
 authors:

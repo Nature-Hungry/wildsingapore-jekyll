@@ -11,6 +11,7 @@ attributes:
 - 91
 - 92
 - 106
+- 155
 family: Asterinidae
 genus: Aquilonastra
 species: anomala

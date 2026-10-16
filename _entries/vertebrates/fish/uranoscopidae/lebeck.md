@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Uranoscopidae
 genus: Ichthyscopus
 species: lebeck

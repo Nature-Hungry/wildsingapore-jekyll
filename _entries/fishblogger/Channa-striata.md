@@ -8,6 +8,8 @@ species: striata
 rdb: LC
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 97280
 stateofmatter: Life
 kingdom: Animalia

@@ -7,10 +7,10 @@ keywords: emerald, slug, stiliger, smaragdinus, limapontidae, sacoglossa, opisth
 layout: entry
 attributes:
 - 14
-
 - 26
 - 33
 - 90
+- 155
 family: Elysiidae
 genus: Stiliger
 species: smaragdinus

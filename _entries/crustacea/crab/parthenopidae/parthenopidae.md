@@ -1,12 +1,14 @@
 ---
 title: Elbow crabs
 description: Fact sheet of Elbow crabs on the shores of Singapore
-keywords: elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Parthenopidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 52582
 stateofmatter: Life
 kingdom: Animalia
@@ -60,7 +62,8 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach*
 
-  . Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+  . Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 

@@ -12,6 +12,7 @@ species: serrulata
 attributes:
 - 46
 - 97
+- 155
 inat_id: 131326
 stateofmatter: Life
 kingdom: Plantae

@@ -12,6 +12,7 @@ attributes:
 - 23
 - 77
 - 100
+- 155
 inat_id: 360962
 stateofmatter: Life
 kingdom: Animalia
@@ -32,15 +33,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Flatspired nerite (
-  *Nerita planospira*
+  - [Flatspired nerite ( *Nerita planospira*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86838)
 
   on SeaBase Life: Technical fact sheet.
 
-  - Flatspired nerite (
-  *Nerita planospira*
+  - Flatspired nerite ( *Nerita planospira*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

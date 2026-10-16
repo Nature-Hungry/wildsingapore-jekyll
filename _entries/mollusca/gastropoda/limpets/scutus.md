@@ -7,6 +7,7 @@ keywords: limpet, scutus, hoof, shield, fissurellidae, gastropod, mollusc, snail
 layout: entry
 attributes:
 - 100
+- 155
 family: Fissurellidae
 genus: Scutus
 species: ''

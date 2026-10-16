@@ -11,6 +11,7 @@ species: sibogae
 attributes:
 - 90
 - 26
+- 155
 inat_id: 520837
 stateofmatter: Life
 kingdom: Animalia

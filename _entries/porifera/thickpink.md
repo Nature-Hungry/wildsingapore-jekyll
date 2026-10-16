@@ -9,6 +9,7 @@ genus: Callyspongia
 species: diffusa
 attributes:
 - 140
+- 155
 inat_id: 450023
 stateofmatter: Life
 kingdom: Animalia

@@ -8,6 +8,8 @@ species: lateristriga
 rdb: EN
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 1316238
 stateofmatter: Life
 kingdom: Animalia

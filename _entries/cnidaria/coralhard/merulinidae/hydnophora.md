@@ -8,7 +8,8 @@ layout: entry
 family: Merulinidae
 genus: Hydnophora
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 88980
 stateofmatter: Life
 kingdom: Animalia
@@ -101,7 +102,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 size:
 - 15.0
 - 20.0

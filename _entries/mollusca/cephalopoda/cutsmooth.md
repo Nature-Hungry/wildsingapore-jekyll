@@ -7,7 +7,8 @@ layout: entry
 family: Sepiidae
 genus: ''
 species: identification*
-attributes: []
+attributes:
+- 155
 inat_id: 67960
 stateofmatter: Life
 kingdom: Animalia

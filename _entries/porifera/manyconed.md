@@ -9,6 +9,7 @@ genus: Spheciospongia
 species: sp.*
 attributes:
 - 160
+- 155
 inat_id: 464969
 stateofmatter: Life
 kingdom: Animalia

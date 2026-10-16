@@ -8,7 +8,8 @@ layout: entry
 family: Alcyoniidae
 genus: Cladiella
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 508275
 stateofmatter: Life
 kingdom: Animalia
@@ -22,7 +23,7 @@ links_references: '### Links
 
 
   - [*Cladiella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Cladiella)on[Reef
- corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)on
+  corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding)on
   the[Marine Species Identification Portal](http://species-identification.org/index.php):
   Technical fact sheet and photos.
 

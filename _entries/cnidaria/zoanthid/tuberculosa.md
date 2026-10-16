@@ -10,6 +10,7 @@ layout: entry
 attributes:
 - 6
 - 88
+- 155
 family: Zoanthidae
 genus: Palythoa
 species: tuberculosa*
@@ -98,7 +99,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - Each is a colony of many little animals
-- Don't touch them! 
+- Don't touch them!
 - The rubbery mat is living tissue and animals. Don't step on it!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

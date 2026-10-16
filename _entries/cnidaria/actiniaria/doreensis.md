@@ -15,6 +15,7 @@ attributes:
 - 6
 - 88
 - 113
+- 155
 family: Actiniidae
 genus: Heteractis
 species: doreensis
@@ -108,16 +109,14 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/doreensis/181125jt.jpg
     caption: Terumbu Pempang Tengah, Nov 18 Photo shared by Juria Toramae on facebook
       .
-links_references: "### Links
-\n- [*Macrodactyla doreensis*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Macrodactyla&subgenus=&species=doorensis&subspecies=&synseniorid=77)\n\
+links_references: "### Links \n- [*Macrodactyla doreensis*](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/speciesdetail.cfm?genus=Macrodactyla&subgenus=&species=doorensis&subspecies=&synseniorid=77)\n\
   on the\n[Hexacorallians of the World](http://hercules.kgs.ku.edu/Hexacoral/Anemone2/)\n\
   website by Dr Daphne Fautin with classification, distribution, biological associations\
   \ and more.\n- [*Macrodactyla doreensis*](http://www.nhm.ku.edu/inverts/ebooks/ch1.html#doreen)\n\
   on Fautin, Daphne G. and Gerald R. Allen, 1992.\n[Field guide to anemone fishes\
   \ and their host sea anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)\n\
   . Western Australian Museum.\n- [*Macrodactyla doreensis*](http://www.sealifebase.fisheries.ubc.ca/summary/Macrodactyla-doreensis.html)\n\
-  on SeaLife Base: technical fact sheet.\n\n### References
-\n- Checklist of Cnidaria\
+  on SeaLife Base: technical fact sheet.\n\n### References \n- Checklist of Cnidaria\
   \ (non-Sclerectinia) Species with their Category of Threat Status for Singapore\
   \ by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan,\
   \ D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data\

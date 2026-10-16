@@ -1,15 +1,18 @@
 ---
-title: 'Pearl bubble coral'
+title: Pearl bubble coral
 description: Fact sheet of Pearl bubble coral  on the shores of Singapore
-summary: Colony 10-20cm. Corallites brain-like meandering made up of large coin-like disks. In daylight covered in bubbles. Colours beige. Rarely seen, on our Southern shores
+summary: Colony 10-20cm. Corallites brain-like meandering made up of large coin-like
+  disks. In daylight covered in bubbles. Colours beige. Rarely seen, on our Southern
+  shores
 keywords: branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae,
- coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
+  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Euphylliidae
 genus: Physogyra
 species: lichtensteini*
-attributes: []
+attributes:
+- 155
 inat_id: 109498
 stateofmatter: Life
 kingdom: Animalia
@@ -71,7 +74,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 size:
 - 15.0
 - 20.0

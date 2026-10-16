@@ -8,7 +8,8 @@ layout: entry
 family: Fungiidae
 genus: Ctenactis
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 87725
 stateofmatter: Life
 kingdom: Animalia
@@ -137,7 +138,7 @@ links_references: '### Links
 
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
- '
+  '
 location:
 - tm
 - snt

@@ -11,6 +11,7 @@ species: paradoxum
 attributes:
 - 23
 - 100
+- 155
 inat_id: 883552
 stateofmatter: Life
 kingdom: Animalia
@@ -37,8 +38,7 @@ links_references: '### Links
 
   in SeaBase Life: Technical fact sheet.
 
-  - Labio monodont (
-  *Monodontia labio*
+  - Labio monodont ( *Monodontia labio*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

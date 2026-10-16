@@ -14,6 +14,7 @@ attributes:
 - 6
 - 88
 - 113
+- 155
 family: Stichodactylidae
 genus: Stichodactyla
 species: haddoni
@@ -118,8 +119,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Sea anemones (
-  *Stoichactis*
+  - [Sea anemones ( *Stoichactis*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/120)
 

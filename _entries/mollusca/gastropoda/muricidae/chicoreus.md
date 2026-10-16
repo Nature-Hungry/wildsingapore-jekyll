@@ -12,6 +12,7 @@ attributes:
 - 66
 - 76
 - 100
+- 155
 inat_id: 1396786
 stateofmatter: Life
 kingdom: Animalia
@@ -116,20 +117,17 @@ galleries:
 links_references: '### Links
 
 
-  - [Firebrand murex (
-  *Chicoreus torrefactus*
+  - [Firebrand murex ( *Chicoreus torrefactus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86970)
 
   and
 
-  [Adusta murex (
-  *Chicoreus brunneus*](http://www.sealifebase.org/summary/speciessummary.php?genusname=Chicoreus&speciesname=brunneus)
+  [Adusta murex ( *Chicoreus brunneus*](http://www.sealifebase.org/summary/speciessummary.php?genusname=Chicoreus&speciesname=brunneus)
 
   ) on SeaLife Base: Technical fact sheet.
 
-  - Firebrand murex (
-  *Chicoreus torrefactus*
+  - Firebrand murex ( *Chicoreus torrefactus*
 
   ) and
 

@@ -8,9 +8,10 @@ layout: entry
 family: Plakobranchidae
 genus: Elysia
 species: ''
-attributes: 
+attributes:
 - 27
 - 90
+- 155
 inat_id: 47799
 stateofmatter: Life
 kingdom: Animalia

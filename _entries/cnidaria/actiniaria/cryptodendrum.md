@@ -16,6 +16,7 @@ attributes:
 - 51
 - 88
 - 113
+- 155
 family: Thalassianthidae
 genus: Cryptodendrum
 species: adhaesivum

@@ -10,6 +10,7 @@ genus: Chromodoris
 species: orientalis
 attributes:
 - 22
+- 155
 inat_id: 707769
 stateofmatter: Life
 kingdom: Animalia

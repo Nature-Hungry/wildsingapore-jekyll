@@ -11,6 +11,7 @@ attributes:
 - 91
 - 92
 - 106
+- 155
 family: Astropectinidae
 genus: ''
 species: Astropecten
@@ -63,8 +64,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Sand star (
-  *Astropecten*
+  - [Sand star ( *Astropecten*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/221)
 

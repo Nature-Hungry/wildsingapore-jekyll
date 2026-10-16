@@ -7,7 +7,8 @@ layout: entry
 family: Clavulariidae
 genus: Carijoa
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 51010
 stateofmatter: Life
 kingdom: Animalia

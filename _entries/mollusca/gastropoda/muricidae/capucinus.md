@@ -13,6 +13,7 @@ attributes:
 - 76
 - 78
 - 100
+- 155
 inat_id: 601986
 stateofmatter: Life
 kingdom: Animalia
@@ -42,11 +43,9 @@ galleries:
 links_references: '### Links
 
 
-  - [Drill (
-  *Thais gradata*
+  - [Drill ( *Thais gradata*
 
-  ) and Ketem (
-  *Chicoreus capucinus*
+  ) and Ketem ( *Chicoreus capucinus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2085)
 
@@ -56,8 +55,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Mangrove Murex (
-  *Chicoreus capucinus*
+  - [Mangrove Murex ( *Chicoreus capucinus*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/146)
 

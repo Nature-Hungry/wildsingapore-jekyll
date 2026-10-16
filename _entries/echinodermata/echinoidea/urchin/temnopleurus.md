@@ -13,6 +13,7 @@ attributes:
 - 92
 - 93
 - 94
+- 155
 family: Temnopleuridae
 genus: Temnopleurus
 species: toreumaticus

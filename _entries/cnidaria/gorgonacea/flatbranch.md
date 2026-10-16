@@ -8,7 +8,8 @@ layout: entry
 family: Subergorgiidae
 genus: Subergorgia
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 357442
 stateofmatter: Life
 kingdom: Animalia
@@ -16,7 +17,9 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
-summary: 10-20cm. Colony randomly branched, on one plane. Stems flattened with groove along the centre, large white polyps at sides of stem, not in groove. Brown, orange, red. On coral rubble. Sometimes seen on our Northern shores.
+summary: 10-20cm. Colony randomly branched, on one plane. Stems flattened with groove
+  along the centre, large white polyps at sides of stem, not in groove. Brown, orange,
+  red. On coral rubble. Sometimes seen on our Northern shores.
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
 galleries:

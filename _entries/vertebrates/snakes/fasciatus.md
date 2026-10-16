@@ -7,7 +7,8 @@ layout: entry
 family: Elapidae
 genus: Bungarus
 species: fasciatus
-attributes: []
+attributes:
+- 155
 inat_id: 30448
 stateofmatter: Life
 kingdom: Animalia
@@ -41,7 +42,8 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Banded Krait](http://www.ecologyasia.com/verts/snakes/banded_krait.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Banded Krait](http://www.ecologyasia.com/verts/snakes/banded_krait.htm) on Nick
+  Baker''s EcologyAsia website: fact sheet with photos.
 
   - [The Banded Krait that graced the launch of the Chek Jawa boardwalk](http://habitatnews.nus.edu.sg/index.php?entry=/marine/20070708-bungarus_fasciatus.txt)
 
@@ -62,8 +64,7 @@ links_references: '### Links
 
   - Tan Heok Hui. 1 Oct 2013.
 
-  [Banded krait (
-  *Bungarus fasciatus*
+  [Banded krait ( *Bungarus fasciatus*
 
   ) on Pulau Ubin](http://lkcnhm.nus.edu.sg/nis/sbr2013/sbr2013-002.pdf)
 

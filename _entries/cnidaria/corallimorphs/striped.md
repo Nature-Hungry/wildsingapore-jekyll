@@ -9,6 +9,7 @@ attributes:
 - 6
 - 88
 - 102
+- 155
 family: Discosomidae
 genus: Discosoma
 species: ''
@@ -49,7 +50,8 @@ zone:
 - marine
 habitats:
 - coral rubble
-summary: These little brown disk-shaped animal with stripes is sometimes encountered on our Southern shores, in coral rubble areas.
+summary: These little brown disk-shaped animal with stripes is sometimes encountered
+  on our Southern shores, in coral rubble areas.
 ---
 
 ## Where seen?

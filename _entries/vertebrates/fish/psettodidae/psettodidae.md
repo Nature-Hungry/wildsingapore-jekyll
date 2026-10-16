@@ -1,7 +1,9 @@
 ---
 title: 'Halibuts '
 description: Fact sheet of Halibuts  on the shores of Singapore
-keywords: flat, fish, flatfish, halibut, psettodes, erumei psettodidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: flat, fish, flatfish, halibut, psettodes, erumei psettodidae, pleuronectiformes,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes:
 - 9
@@ -9,6 +11,7 @@ attributes:
 - 47
 - 49
 - 81
+- 155
 family: Psettodidae
 genus: ''
 species: ''
@@ -28,7 +31,8 @@ galleries:
   - url: https://images.naturehungry.sg/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg
     caption: Juvenile Indian halibut (about 3cm long) Tuas, Mar 12
   - url: https://images.naturehungry.sg/vertebrates/fish/psettodidae/erumei/090622chgd4715m6l.jpg
-    caption: Indian halibutL Large mouth with fang-like teeth. Tail fin well separated from dorsal and anal fins. Changi, Jun 09
+    caption: Indian halibutL Large mouth with fang-like teeth. Tail fin well separated
+      from dorsal and anal fins. Changi, Jun 09
   gallery2:
   - url: https://images.naturehungry.sg/vertebrates/fish/psettodidae/erumei/250615chg6al1.jpg
     caption: Changi Carpark 6, Jun 25 Photo shared by Adriane Lee on facebook .
@@ -61,7 +65,8 @@ links_references: '### Links
 
   - [Volume 4: Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
 
 
   ### References

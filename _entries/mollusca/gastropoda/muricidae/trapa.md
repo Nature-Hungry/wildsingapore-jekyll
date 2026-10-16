@@ -12,6 +12,7 @@ attributes:
 - 66
 - 76
 - 100
+- 155
 inat_id: 50746
 stateofmatter: Life
 kingdom: Animalia
@@ -51,22 +52,19 @@ galleries:
 links_references: '### Links
 
 
-  - [Rarespined murex (
-  *Murex trapa*
+  - [Rarespined murex ( *Murex trapa*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86982)
 
   on SeaLife Base: Technical fact sheet.
 
-  - [Rare-spined murex (
-  *Murex trapa*
+  - [Rare-spined murex ( *Murex trapa*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=195)
 
   on the NParks Flora and Fauna website.
 
-  - Rarespined murex (
-  *Murex trapa*
+  - Rarespined murex ( *Murex trapa*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

@@ -1,12 +1,14 @@
 ---
 title: Bakau
 description: Fact sheet of Bakau on the shores of Singapore
-keywords: bruguiera, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: bruguiera, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Rhizophoraceae
 genus: Bruguiera
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 156930
 stateofmatter: Life
 kingdom: Plantae
@@ -54,7 +56,8 @@ galleries:
     caption: Sepals extend away from the propagule.
   gallery6:
   - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/100411prpd1040m3.jpg
-    caption: Long narrow flowers, several on one stalk. Calyx very long and narrow, pale.
+    caption: Long narrow flowers, several on one stalk. Calyx very long and narrow,
+      pale.
   - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg
     caption: Tassels on petal tips.
   - url: https://images.naturehungry.sg/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg
@@ -112,9 +115,11 @@ links_references: '### Links
 
   - Chiou-Rong Sheue, Jean W. H. Yong and Yuen- Po Yang. 2005.
 
-  *[The Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore, Especially on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*
+  *[The Bruguiera (Rhizophoraceae) Species in the Mangroves of Singapore, Especially
+  on the New Record and the Rediscovery](http://lkcnhm.nus.edu.sg/dna/docs/ecb82a5bf09257209a08147c2d86900c.pdf)*
 
-  . Taiwania, 50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity Research website).
+  . Taiwania, 50(4): 251-260, 2005 (pdf on the Raffles Museum of Biodiversity Research
+  website).
 
   - Hsuan Keng, S.C. Chin and H. T. W. Tan. 1990,
 

@@ -10,6 +10,7 @@ attributes:
 - 1
 - 58
 - 92
+- 155
 family: Oreasteridae
 genus: Protoreaster
 species: nodosus
@@ -163,7 +164,8 @@ links_references: '**Acknowledgements**With
 
   grateful thanks to Chim Chee Kong of the [Star
 
-  Trackers](http://startrackers.blogspot.com/) for identifying the sea stars. ### Links
+  Trackers](http://startrackers.blogspot.com/) for identifying the sea stars. ###
+  Links
 
 
   - [The Star Trackers blog](http://startrackers.blogspot.com/)all about the Knobbly

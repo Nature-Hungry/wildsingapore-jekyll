@@ -7,7 +7,8 @@ layout: entry
 family: Dasyatidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 47271
 stateofmatter: Life
 kingdom: Animalia

@@ -14,6 +14,7 @@ attributes:
 - 6
 - 88
 - 102
+- 155
 family: Stichodactylidae
 genus: Stichodactyla
 species: tapetum

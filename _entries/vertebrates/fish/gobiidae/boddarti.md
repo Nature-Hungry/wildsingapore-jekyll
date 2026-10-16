@@ -12,6 +12,7 @@ attributes:
 - 25
 - 47
 - 72
+- 155
 family: Gobiidae
 genus: Boleophthalmus
 species: boddarti
@@ -46,8 +47,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Blue-spotted mudskipper (
-  *Boleophthalmus boddarti*
+  - [Blue-spotted mudskipper ( *Boleophthalmus boddarti*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2106)
 
@@ -57,8 +57,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Blue-spotted mudskipper (
-  *Boleophthalmus boddarti*
+  - [Blue-spotted mudskipper ( *Boleophthalmus boddarti*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/369)
 
@@ -80,8 +79,7 @@ links_references: '### Links
 
   by Gianluca Polgar: Technical fact sheet with lots of photos.
 
-  - [Boddart''s goggle-eyed goby (
-  *Boleophthalmus boddarti*
+  - [Boddart''s goggle-eyed goby ( *Boleophthalmus boddarti*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=4901)
 

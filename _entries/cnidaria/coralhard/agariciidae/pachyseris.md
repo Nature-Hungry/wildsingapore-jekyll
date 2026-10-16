@@ -8,7 +8,8 @@ layout: entry
 family: Agariciidae
 genus: Pachyseris
 species: speciosa
-attributes: []
+attributes:
+- 155
 inat_id: 520313
 stateofmatter: Life
 kingdom: Animalia
@@ -87,7 +88,7 @@ links_references: '### Links
 
   on SeaLife Base: species factsheet.
 
- '
+  '
 location:
 - tm
 - ecp

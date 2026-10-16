@@ -7,7 +7,6 @@ keywords: bivalve, slug, berthelinia, singaporensis, juliidae, sacoglossa, opist
 layout: entry
 attributes:
 - 14
-
 - 23
 - 30
 - 33
@@ -21,6 +20,7 @@ attributes:
 - 123
 - 125
 - 126
+- 155
 family: Juliidae
 genus: Berthelinia
 species: singaporensis

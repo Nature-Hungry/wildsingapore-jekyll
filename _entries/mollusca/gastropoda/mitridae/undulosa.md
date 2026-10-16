@@ -10,6 +10,7 @@ genus: Pterygia
 species: undulosa
 attributes:
 - 100
+- 155
 inat_id: 1005352
 stateofmatter: Life
 kingdom: Animalia

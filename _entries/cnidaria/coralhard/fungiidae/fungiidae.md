@@ -1,12 +1,15 @@
 ---
-title: 'mushroom corals'
+title: mushroom corals
 description: Fact sheet of mushroom corals  on the shores of Singapore
-keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Fungiidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 53677
 stateofmatter: Life
 kingdom: Animalia
@@ -19,7 +22,8 @@ coverimg: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/1
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
-    caption: Young mushroom corals start life attached to a hard surface on stalks. Tanah Merah, Jul 2011
+    caption: Young mushroom corals start life attached to a hard surface on stalks.
+      Tanah Merah, Jul 2011
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
     caption: '''Stalk'' on underside of dead mushroom coral. Sisters Island, Aug 08'
   - url: https://images.naturehungry.sg/cnidaria/coralhard/fungiidae/circular/060131sjig4475m3e.jpg
@@ -56,7 +60,8 @@ links_references: '### Links
 
   - [Family Fungiidae](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Fungiidae)
 
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical factsheet.
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical factsheet.
 
   - [Family Fungiidae](https://www.sealifebase.ca/identification/SpeciesList.php?famcode=1451&areacode=57&c_code=&spines=&fins=&sortby=species)
 
@@ -78,19 +83,22 @@ links_references: '### Links
 
   - Hoeksema, Bert W. and Esther G. L. Koh. 30 Dec 2009.
 
-  *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in changing reef conditions*
+  *Depauration of the mushroom coral fauna (Fungiidae) of Singapore (1860s-2006) in
+  changing reef conditions*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 91-101.
 
   - Hoeksama, Bert W. 30 Dec 2009.
 
-  *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions at Singapore, including a new species and a new record.*
+  *Attached mushroom corals (Scleractinia: Fungiidae) in sediment-stressed reef conditions
+  at Singapore, including a new species and a new record.*
 
   Raffles Bulletin of Zoology Supplement No. 22: 97-107.
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -130,7 +138,7 @@ links_references: '### Links
 
   . The Nature Society (Singapore), Singapore. 343 pp.
 
- '
+  '
 location:
 - tm
 - snt

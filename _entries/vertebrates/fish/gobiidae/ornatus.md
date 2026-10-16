@@ -10,6 +10,7 @@ attributes:
 - 47
 - 69
 - 70
+- 155
 family: Gobiidae
 genus: Istigobius
 species: ornatus
@@ -63,8 +64,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Ornate goby (
-  *Istigobius ornatus*
+  - [Ornate goby ( *Istigobius ornatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/361)
 

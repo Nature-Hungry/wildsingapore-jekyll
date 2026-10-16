@@ -8,7 +8,8 @@ layout: entry
 family: Malleidae
 genus: Gafrarium
 species: divaricatum*
-attributes: []
+attributes:
+- 155
 inat_id: 701583
 stateofmatter: Life
 kingdom: Animalia

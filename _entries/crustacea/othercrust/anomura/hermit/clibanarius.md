@@ -8,7 +8,8 @@ layout: entry
 family: Diogenidae
 genus: Clibanarius
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 52410
 stateofmatter: Life
 kingdom: Animalia

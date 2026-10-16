@@ -11,6 +11,7 @@ species: teretiusculus*
 attributes:
 - 100
 - 87
+- 155
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/nassariidae/lined/110829ecpd0140m6la.jpg
 galleries:

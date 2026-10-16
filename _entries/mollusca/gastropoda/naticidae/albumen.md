@@ -12,6 +12,7 @@ attributes:
 - 100
 - 23
 - 77
+- 155
 inat_id: 684604
 stateofmatter: Life
 kingdom: Animalia
@@ -63,15 +64,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Eggwhite moon snail (
-  *Neverita albumen*
+  - [Eggwhite moon snail ( *Neverita albumen*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86931)
 
   from SeaLife Base: Technical fact sheet.
 
-  - Eggwhite moon snail (
-  *Neverita albumen*
+  - Eggwhite moon snail ( *Neverita albumen*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

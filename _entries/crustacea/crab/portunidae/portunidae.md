@@ -1,12 +1,15 @@
 ---
 title: 'Swimming crabs '
 description: Fact sheet of Swimming crabs  on the shores of Singapore
-keywords: swimming, crab, portunidae, thalamita, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+keywords: swimming, crab, portunidae, thalamita, decapod, crustrace, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
 family: Portunidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 49506
 stateofmatter: Life
 kingdom: Animalia
@@ -29,9 +32,11 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
     caption: Mating swimming crabs Pulau Sekudu, May 04
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/110517tptd1379m3.jpg
-    caption: Brown crab mating with a red one. Both are Red swimming crabs . Terumbu Pempang Tengah, May 11
+    caption: Brown crab mating with a red one. Both are Red swimming crabs . Terumbu
+      Pempang Tengah, May 11
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/250812tbmn2.jpg
-    caption: With eggs on the belly. Terumbu Bemban, Aug 25 Photo shared by Marcus Ng on facebook .
+    caption: With eggs on the belly. Terumbu Bemban, Aug 25 Photo shared by Marcus
+      Ng on facebook .
   gallery3:
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
     caption: Flower crab (top) next to its moulted shell (bottom) Sentosa, Jul 04
@@ -44,7 +49,8 @@ galleries:
     caption: Eating a jellyfish Pulau Semakau, Dec 04
   gallery5:
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg
-    caption: Eating a bristleworm Pulau Semakau (West), Jul 25 Photo shared by Jayden Kang on facebok .
+    caption: Eating a bristleworm Pulau Semakau (West), Jul 25 Photo shared by Jayden
+      Kang on facebok .
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/mottled/260101cryyls4a.jpg
     caption: Caught an amphipod? Cyrene, Feb 26 Photo by Yan Le Su on facebook .
   - url: https://images.naturehungry.sg/crustacea/crab/portunidae/purpleleg/090511chgd1344m3.jpg
@@ -111,15 +117,20 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Portunidae in the Crabs section by Peter K. L. Ng in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 2: Cephalopods, crustaceans, holothurians and sharks](http://www.fao.org/docrep/009/w7192e/w7192e00)
 
   on the Food and Agriculture Organization of the United Nations (FAO) website.
 
-  - [Homing in the swimming crab Thalamita crenata: a mechanism based on underwater landmark memory](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10973722&dopt=Abstract)
+  - [Homing in the swimming crab Thalamita crenata: a mechanism based on underwater
+  landmark memory](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10973722&dopt=Abstract)
 
-  . Cannicci S, Barelli C, Vannini M. on the US National Center for Biotechnology Information website: their study shows these crabs can learn and remember landmarks to safely move about and that their ability is more flexible and complex than other crabs, and comparable to that of honeybees.
+  . Cannicci S, Barelli C, Vannini M. on the US National Center for Biotechnology
+  Information website: their study shows these crabs can learn and remember landmarks
+  to safely move about and that their ability is more flexible and complex than other
+  crabs, and comparable to that of honeybees.
 
 
   ### References
@@ -133,7 +144,8 @@ links_references: '### Links
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
 
   [.](http://lkcnhm.nus.edu.sg/rbz/biblio/s17/s17rbz.pdf)
 
@@ -141,15 +153,18 @@ links_references: '### Links
 
   - Wee, D. P. C. & Ng, P. K. L.,
 
-  *Swimming crabs of the genera Charybdis De Haan, 1833, and Thalamita Latreille, 1829*
+  *Swimming crabs of the genera Charybdis De Haan, 1833, and Thalamita Latreille,
+  1829*
 
-  (Crustacea: Decapoda: Brachyura: Portunidae) from Peninsular Malaysia and Singapore. Pp. 1-128. Raffles Bulleting of Zoology, Supplement Series No. 1 (31 December 1995)
+  (Crustacea: Decapoda: Brachyura: Portunidae) from Peninsular Malaysia and Singapore.
+  Pp. 1-128. Raffles Bulleting of Zoology, Supplement Series No. 1 (31 December 1995)
 
   - Lim, S., P. Ng, L. Tan, & W. Y. Chin, 1994.
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
 
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
 
   - Davison, G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008.
 
@@ -185,7 +200,8 @@ size:
 - 15.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- Unlike other crabs, they swim very well! They move quickly to hunt fast-moving prey like fish
+- Unlike other crabs, they swim very well! They move quickly to hunt fast-moving prey
+  like fish
 - They can give a nasty pinch
 - Leave them alone!
 authors:

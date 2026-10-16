@@ -8,7 +8,8 @@ layout: entry
 family: Sepiidae
 genus: Sepia
 species: recurvirostra
-attributes: []
+attributes:
+- 155
 inat_id: 1500691
 stateofmatter: Life
 kingdom: Animalia
@@ -52,8 +53,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Curvespine cuttlefish (
-  *Sepia recurvirostra*
+  - [Curvespine cuttlefish ( *Sepia recurvirostra*
 
   )](http://sealifebase.ca/summary/Sepia-recurvirostra.html)
 

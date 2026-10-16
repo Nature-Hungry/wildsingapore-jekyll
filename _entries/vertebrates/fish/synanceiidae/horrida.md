@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Synanceiidae
 genus: Synanceia
 species: horrida
@@ -109,8 +110,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Hollow-cheek Stonefish (
-  *Synanceia horrida*
+  - [Hollow-cheek Stonefish ( *Synanceia horrida*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/256)
 
@@ -120,8 +120,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Stonefish (
-  *Synanceia horrida*
+  - [Stonefish ( *Synanceia horrida*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/231)
 
@@ -207,8 +206,8 @@ trivia_title: if you learn only 3 things about it ..
 trivia_items:
 - It is well camouflaged. Look carefully
 - It has venomous spines. Don't handle it!
-- Watch your step! Its venom is only used for protection from predators
-  and not to catch prey.
+- Watch your step! Its venom is only used for protection from predators and not to
+  catch prey.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

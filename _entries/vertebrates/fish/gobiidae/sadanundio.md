@@ -10,6 +10,7 @@ attributes:
 - 47
 - 106
 - 108
+- 155
 family: Gobiidae
 genus: Stigmatogobius
 species: sadanundio
@@ -34,8 +35,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Grey knight-goby (
-  *Stigmatogobius sadanundio*
+  - [Grey knight-goby ( *Stigmatogobius sadanundio*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
 
@@ -45,8 +45,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Grey knight-goby (
-  *Stigmatogobius sadanundio*
+  - [Grey knight-goby ( *Stigmatogobius sadanundio*
 
   )](http://www.fishbase.tw/summary/speciessummary.php?id=25119)
 

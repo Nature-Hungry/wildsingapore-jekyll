@@ -7,7 +7,8 @@ layout: entry
 family: Gobiidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 47308
 stateofmatter: Life
 kingdom: Animalia

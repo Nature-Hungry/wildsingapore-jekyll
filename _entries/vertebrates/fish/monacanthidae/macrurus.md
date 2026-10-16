@@ -11,6 +11,7 @@ attributes:
 - 25
 - 42
 - 47
+- 155
 family: Monacanthidae
 genus: Pseudomonacanthus
 species: macrurus
@@ -51,8 +52,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Strap-weed file-fish (
-  *Pseudomonacanthus macrurus*
+  - [Strap-weed file-fish ( *Pseudomonacanthus macrurus*
 
   )](www.fishbase.org/Summary/SpeciesSummary.php?ID=10598)
 

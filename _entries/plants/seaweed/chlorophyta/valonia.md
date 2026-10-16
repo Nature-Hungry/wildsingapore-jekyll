@@ -12,6 +12,7 @@ species: Valonia
 attributes:
 - 97
 - 115
+- 155
 inat_id: 59739
 stateofmatter: Life
 kingdom: Plantae

@@ -1,7 +1,8 @@
 ---
 title: Crustaceans
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: crustacea, crustacean, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+keywords: crustacea, crustacean, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info
 layout: entry
 zone:
 - intertidal
@@ -27,14 +28,17 @@ galleries:
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
     caption: '[Prawns](othercrust/shrimp/shrimp) are crustaceans too.'
   - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg
-    caption: '[Anemone shrimps](othercrust/shrimp/brevicarpalis) live in a sea anemone! *Pulau Hantu, Apr 04*'
+    caption: '[Anemone shrimps](othercrust/shrimp/brevicarpalis) live in a sea anemone!
+      *Pulau Hantu, Apr 04*'
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/othercrust/ciriipedia/euraphia/050413labg4662m3.jpg
     caption: '[Barnacles](othercrust/ciriipedia/cirripedia) are crustaceans!'
   - url: https://images.naturehungry.sg/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
-    caption: '[Mussel shrimps](othercrust/ostracoda/ostracoda) are tiny crustaceans that give off blue bioluminescence'
+    caption: '[Mussel shrimps](othercrust/ostracoda/ostracoda) are tiny crustaceans
+      that give off blue bioluminescence'
   - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
-    caption: '[Horseshoe crabs](../../arthropoda/limulidae/limulidae) are NOT crustaceans! But they are arthropods.'
+    caption: '[Horseshoe crabs](../../arthropoda/limulidae/limulidae) are NOT crustaceans!
+      But they are arthropods.'
 permalink: /entries/Arthropoda/Crustacea
 ---
 

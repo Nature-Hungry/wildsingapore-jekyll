@@ -11,6 +11,7 @@ attributes:
 - 47
 - 49
 - 81
+- 155
 family: Soleidae
 genus: Synaptura
 species: commersonnii
@@ -42,13 +43,11 @@ galleries:
   gallery4:
   - url: https://images.naturehungry.sg/vertebrates/fish/soleidae/commersonnii/220616chgelks21.jpg
     caption: Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on facebook .
-links_references: "### Links
-\n- [Commerson's sole (\n*Synaptura commersonnii*\n)](http://www.fishbase.org/summary/14395)\n\
+links_references: "### Links \n- [Commerson's sole (\n*Synaptura commersonnii*\n)](http://www.fishbase.org/summary/14395)\n\
   from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet.\n- [Volume 4:\
   \ Bony fishes part 2 (Mugilidae to Carangidae)](http://www.fao.org/docrep/009/x2400e/x2400e00)\n\
   FAO Species Identification Guide for Fishery Purposes The Living Marine Resources\
-  \ of the Western Central Pacific.\n\n### References
-\n- Tan Heok Hui & Jeremy Yeo\
+  \ of the Western Central Pacific.\n\n### References \n- Tan Heok Hui & Jeremy Yeo\
   \ Wei Liang. 25 Jan 2017.\n*Polychaetes in the diet of the Commerson\u2019s sole*\n\
   . Singapore Biodiversity Records 2017: 11-12.\n"
 location:

@@ -13,6 +13,7 @@ attributes:
 - 111
 - 123
 - 127
+- 155
 family: Cypraeidae
 genus: Palmadusta
 species: saulae

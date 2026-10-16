@@ -12,6 +12,7 @@ attributes:
 - 47
 - 48
 - 79
+- 155
 family: Gobiidae
 genus: Gobiodon
 species: histrio
@@ -71,8 +72,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Broad-barred Acropora Goby (
-  *Gobiodon histrio*
+  - [Broad-barred Acropora Goby ( *Gobiodon histrio*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/358)
 
@@ -82,8 +82,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Broad-barred goby (
-  *Gobiodon histrio*
+  - [Broad-barred goby ( *Gobiodon histrio*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7216)
 
@@ -108,7 +107,7 @@ links_references: '### Links
   . Singapore Science Centre. 164pp.
 
   - [Coward or braveheart: extreme habitat fidelity through hypoxia tolerance in a
- coral-dwelling goby](http://jeb.biologists.org/cgi/content/abstract/207/1/33)
+  coral-dwelling goby](http://jeb.biologists.org/cgi/content/abstract/207/1/33)
 
   by Goran E. Nilsson, Jean-Paul Hobbs, Philip L. Munday and Sara Ostlund-Nilsson
   First published online November 24, 2003 Journal of Experimental Biology 207, 33-39

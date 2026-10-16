@@ -1,5 +1,5 @@
 ---
-title: 'Smooth hexagonal corals'
+title: Smooth hexagonal corals
 description: Fact sheet of Smooth hexagonal corals  on the shores of Singapore
 keywords: coral, hard, scleractinia, cnidaria, merulinidae, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -7,7 +7,8 @@ layout: entry
 family: Faviidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 503799
 stateofmatter: Life
 kingdom: Animalia

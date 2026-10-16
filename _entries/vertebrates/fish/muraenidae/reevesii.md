@@ -11,6 +11,7 @@ attributes:
 - 25
 - 43
 - 47
+- 155
 family: Muraenidae
 genus: Gymnothorax
 species: reevesii
@@ -47,8 +48,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Brown-spotted Moray (
-  *Gymnothorax reevesii*
+  - [Brown-spotted Moray ( *Gymnothorax reevesii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/211)
 
@@ -58,8 +58,7 @@ links_references: '### Links
 
   . Singapore Science Centre.
 
-  - [Reeve''s moray (
-  *Gymnothorax reevesii*
+  - [Reeve''s moray ( *Gymnothorax reevesii*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=10159)
 

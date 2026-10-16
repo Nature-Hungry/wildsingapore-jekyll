@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Scorpaenidae
 genus: Scorpaenopsis
 species: diabolus
@@ -25,11 +26,9 @@ suborder: Scorpaenoidei
 subfamily: Scorpaeninae
 updated: Oct 2020
 coverimg: https://images.naturehungry.sg/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg
-links_references: "### Links
-  \n- [False\n  stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolusl)\
+links_references: "### Links \n- [False\n  stonefish (*Scorpaenopsis diabolus*)](http://www.fishbase.org/summary/Scorpaenopsis-diabolusl)\
   \ from [FishBase](http://www.fishbase.org/):\n  Technical fact sheet on the order,\
-  \ including a fact sheet on\n\n### References
-\n- Allen, Gerry,\n  2000. *Marine\n\
+  \ including a fact sheet on\n\n### References \n- Allen, Gerry,\n  2000. *Marine\n\
   \  Fishes of South-East Asia: A Field Guide for Anglers and Divers*.\n  Periplus\
   \ Editions. 292 pp.\n"
 galleries:

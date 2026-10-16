@@ -10,6 +10,7 @@ genus: Phalium/Semicassis
 species: bisulcata
 attributes:
 - 100
+- 155
 updated: Jul 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
 galleries:
@@ -51,8 +52,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Globular helmet shell (
-  *Semicassis bisulcata*
+  - [Globular helmet shell ( *Semicassis bisulcata*
 
   )](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=137542)
 

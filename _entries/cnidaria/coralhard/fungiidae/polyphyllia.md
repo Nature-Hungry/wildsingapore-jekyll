@@ -8,7 +8,8 @@ layout: entry
 family: Fungiidae
 genus: Polyphyllia
 species: talpina
-attributes: []
+attributes:
+- 155
 inat_id: 109999
 stateofmatter: Life
 kingdom: Animalia
@@ -105,7 +106,7 @@ links_references: '### Links
 
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
- '
+  '
 location:
 - snt
 - kus

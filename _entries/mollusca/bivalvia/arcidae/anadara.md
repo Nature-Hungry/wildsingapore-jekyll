@@ -8,7 +8,8 @@ layout: entry
 family: Arcidae
 genus: Anadara
 species: sp.
-attributes: []
+attributes:
+- 155
 inat_id: 1211171
 stateofmatter: Life
 kingdom: Animalia
@@ -33,8 +34,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Blood cockle (
-  *Anandara granosa*
+  - [Blood cockle ( *Anandara granosa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1022a)
 
@@ -44,8 +44,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Blood Cockle (
-  *Anadara granosa*
+  - [Blood Cockle ( *Anadara granosa*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/156)
 

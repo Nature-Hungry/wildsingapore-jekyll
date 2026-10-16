@@ -9,6 +9,7 @@ attributes:
 - 25
 - 47
 - 118
+- 155
 family: Dasyatidae
 genus: Himantura
 species: walga
@@ -52,8 +53,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Mangrove Whipray (
-  *Himantura walga*
+  - [Mangrove Whipray ( *Himantura walga*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/205)
 
@@ -63,8 +63,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Dwarf whipray (
-  *Himantura walga*
+  - [Dwarf whipray ( *Himantura walga*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=15484)
 

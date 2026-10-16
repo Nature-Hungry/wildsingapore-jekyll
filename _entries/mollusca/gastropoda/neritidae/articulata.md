@@ -15,6 +15,7 @@ attributes:
 - 100
 - 111
 - 123
+- 155
 family: Neritidae
 genus: Nerita
 species: articulata
@@ -53,8 +54,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Common nerite (
-  *Nerita lineata*
+  - [Common nerite ( *Nerita lineata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2078)
 

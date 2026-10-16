@@ -10,6 +10,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Calappidae
 genus: Calappa
 species: hepatica
@@ -63,8 +64,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Reef box crab (
-  *Calappa hepatica*
+  - [Reef box crab ( *Calappa hepatica*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21137&genusname=Calappa&speciesname=hepatica)
 

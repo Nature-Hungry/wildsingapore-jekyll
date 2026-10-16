@@ -11,6 +11,7 @@ attributes:
 - 47
 - 49
 - 81
+- 155
 family: Soleidae
 genus: Zebrias
 species: zebra
@@ -42,8 +43,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Zebra Sole (
-  *Zebrias zebra*
+  - [Zebra Sole ( *Zebrias zebra*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/388)
 
@@ -53,8 +53,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp. Family Soleidae .
 
-  - [Zebra sole (
-  *Zebrias zebra*
+  - [Zebra sole ( *Zebrias zebra*
 
   )](http://www.fishbase.org/summary/8999)
 

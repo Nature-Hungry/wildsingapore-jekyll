@@ -10,6 +10,7 @@ species: patera
 attributes:
 - 159
 - 141
+- 155
 inat_id: 856104
 stateofmatter: Life
 kingdom: Animalia

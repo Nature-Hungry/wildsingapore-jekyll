@@ -9,6 +9,7 @@ attributes:
 - 25
 - 47
 - 118
+- 155
 family: Dasyatidae
 genus: Taeniura
 species: lymma
@@ -84,8 +85,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Blue-spotted Fantail Ray (
-  *Taeniura lymma*
+  - [Blue-spotted Fantail Ray ( *Taeniura lymma*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/204)
 
@@ -100,8 +100,7 @@ links_references: '### Links
   (Myliobatiformes: Dasyatidae) Blue-spotted Fantail Ray by Shelley Chan Hiang Ming,
   2016, on taxo4254.
 
-  - [Bluespotted ribbontail ray (
-  *Taeniura lymma*
+  - [Bluespotted ribbontail ray ( *Taeniura lymma*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=5399)
 

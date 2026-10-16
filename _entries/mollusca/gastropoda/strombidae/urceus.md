@@ -13,6 +13,7 @@ attributes:
 - 100
 - 111
 - 123
+- 155
 family: Strombidae
 genus: Canarium
 species: urceus
@@ -69,22 +70,19 @@ galleries:
 links_references: '### Links
 
 
-  - [Little pitcher conch (
-  *Strombus urceus*
+  - [Little pitcher conch ( *Strombus urceus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86879)
 
   on SeaLife Base: Technical fact sheet.
 
-  - [Black-lipped conch (
-  *Strombus urceus*
+  - [Black-lipped conch ( *Strombus urceus*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=199)
 
   on the NParks Flora and Fauna website.
 
-  - Little pitcher conch (
-  *Strombus urceus*
+  - Little pitcher conch ( *Strombus urceus*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

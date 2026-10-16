@@ -12,6 +12,7 @@ species: ''
 attributes:
 - 97
 - 99
+- 155
 inat_id: 54644
 stateofmatter: Life
 kingdom: Plantae
@@ -31,8 +32,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Sea Lettuce (
-  *Ulva*
+  - [Sea Lettuce ( *Ulva*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/103)
 

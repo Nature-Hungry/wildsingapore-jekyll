@@ -12,6 +12,7 @@ attributes:
 - 36
 - 61
 - 68
+- 155
 family: Lythraceae
 genus: Sonneratia
 species: ovata
@@ -51,8 +52,7 @@ links_references: '### Links
 
   on the NParks Flora and Fauna website: photos and fact sheet.
 
-  - [Gedabu (
-  *Sonneratia ovata*
+  - [Gedabu ( *Sonneratia ovata*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1075)
 

@@ -12,6 +12,7 @@ attributes:
 - 100
 - 78
 - 66
+- 155
 inat_id: 570217
 stateofmatter: Life
 kingdom: Animalia

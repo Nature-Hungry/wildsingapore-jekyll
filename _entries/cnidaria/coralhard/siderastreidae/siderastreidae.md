@@ -1,12 +1,15 @@
 ---
-title: 'Siderastreid corals'
+title: Siderastreid corals
 description: Fact sheet of Siderastreid corals  on the shores of Singapore
-keywords: star, psammocora, siderastreidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: star, psammocora, siderastreidae, coral, hard, scleractinia, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Siderastreidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 86045
 stateofmatter: Life
 kingdom: Animalia
@@ -29,17 +32,20 @@ links_references: '### Links
 
   - [Family Siderastreidae](http://coral.aims.gov.au/speciesPages/)
 
-  (select species from list) on Corals of the World online on the Australian Institute of Marine Science website: Technical fact sheet.
+  (select species from list) on Corals of the World online on the Australian Institute
+  of Marine Science website: Technical fact sheet.
 
   - [http://species-identification.org/species.php?species_group=corals&id=130&menuentry=groepen](http://species-identification.org/species.php?species_group=corals&id=130&menuentry=groepen)
 
   [Family Siderastreidae](http://species-identification.org/species.php?species_group=corals&id=124&menuentry=groepen)
 
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
 
   - [Family Siderastreidae](http://www.iucnredlist.org/apps/redlist/search)
 
-  (enter Siderastreidae in search bar) on the IUCN Red List of Threatened Species website: Technical fact sheet.
+  (enter Siderastreidae in search bar) on the IUCN Red List of Threatened Species
+  website: Technical fact sheet.
 
 
   ### References
@@ -47,7 +53,8 @@ links_references: '### Links
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  [*An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz069-080.pdf)
+  [*An inventory of zooxanthellate sclerectinian corals in Singapore including 33
+  new records*](http://lkcnhm.nus.edu.sg/rbz/biblio/s22/s22rbz069-080.pdf)
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -69,7 +76,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp.
 
- '
+  '
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

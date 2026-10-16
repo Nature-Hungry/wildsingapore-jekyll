@@ -8,7 +8,8 @@ layout: entry
 family: Sepiidae
 genus: Sepia
 species: latimanus
-attributes: []
+attributes:
+- 155
 inat_id: 1500640
 stateofmatter: Life
 kingdom: Animalia
@@ -78,8 +79,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Broadclub cuttlefish (
-  *Sepia latimanus*
+  - [Broadclub cuttlefish ( *Sepia latimanus*
 
   )](http://sealifebase.ca/summary/Sepia-latimanus.html)
 

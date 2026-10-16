@@ -22,6 +22,7 @@ attributes:
 - 79
 - 88
 - 113
+- 155
 family: Stichodactylidae
 genus: Heteractis
 species: magnifica

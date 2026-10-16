@@ -11,6 +11,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Menippidae
 genus: Menippe
 species: rumphii
@@ -65,8 +66,7 @@ links_references: '### Links
   on Crabs of Japan, the Marine Species Identification Portal: technical fact sheet
   with photos.
 
-  - [Maroon stone crab (
-  *Menippe rumphii*
+  - [Maroon stone crab ( *Menippe rumphii*
 
   )](http://www.sealifebase.org/summary/SpeciesSummary.php?id=83550)
 

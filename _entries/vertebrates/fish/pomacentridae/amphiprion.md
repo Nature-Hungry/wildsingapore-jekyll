@@ -8,7 +8,8 @@ layout: entry
 family: Pomacentridae
 genus: Amphiprion
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 57742
 stateofmatter: Life
 kingdom: Animalia
@@ -43,8 +44,7 @@ galleries:
     caption: Clown anemonefish
   - url: https://images.naturehungry.sg/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg
     caption: Tomato anemonefish
-links_references: "### Links
-\n- [Field Guide to Anemone Fishes and their host Sea\
+links_references: "### Links \n- [Field Guide to Anemone Fishes and their host Sea\
   \ Anemones](http://www.nhm.ku.edu/inverts/ebooks/intro.html)\nby Dr Daphne G. Fautin\
   \ and Dr Gerald R. Allen: tons of information and photos of anemonefishes and their\
   \ sea anemone hosts. Lots of details about how anemonefish develop immunity to sea\
@@ -61,9 +61,8 @@ links_references: "### Links
   \ blog.\n- [Nemo leaves home: how far does he go?](http://wildshores.blogspot.com/2009/03/nemo-leaves-home-how-far-does-he-go.html)\n\
   - [Acid oceans confuse baby nemos](http://wildshores.blogspot.com/2009/02/acid-oceans-confuse-baby-nemos.html)\n\
   - [Clown anemonefishes need rainforests](http://wildshores.blogspot.com/2008/08/clown-anemonefishes-need-rainforests.html)\n\
-  : about how these fishes find their way to a suitable sea anemone host\n\n### References
-\n\
-  - Toh Chay Hoon. 11 April 2014.\n*Spawn of the saddleback anemonefish*\n. Singapore\
+  : about how these fishes find their way to a suitable sea anemone host\n\n### References\
+  \ \n- Toh Chay Hoon. 11 April 2014.\n*Spawn of the saddleback anemonefish*\n. Singapore\
   \ Biodiversity Records 2014: 96.\n- Jeffrey K. Y. Low. 2013.\n*More noteworthy fishes\
   \ observed in the Singapore Straits*\n. Nature in Singapore, 6: 31\u201337.\n- Toh\
   \ Chay Hoon. 20 December 2013.\n*Shrimps and saddleback anemonefish on carpet anemone\

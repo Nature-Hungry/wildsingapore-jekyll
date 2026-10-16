@@ -8,7 +8,8 @@ layout: entry
 family: Plexauridae
 genus: ''
 species: Euplexaura
-attributes: []
+attributes:
+- 155
 inat_id: 85999
 stateofmatter: Life
 kingdom: Animalia
@@ -16,7 +17,9 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
-summary: 10-15cm. Colony with sparse branches, that emerge in a U-shape. Cylindrical stems with large white polyps all around. Orange. On coral rubble, rocks. Commonly seen on our Northern shores.
+summary: 10-15cm. Colony with sparse branches, that emerge in a U-shape. Cylindrical
+  stems with large white polyps all around. Orange. On coral rubble, rocks. Commonly
+  seen on our Northern shores.
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
 galleries:

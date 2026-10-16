@@ -5,7 +5,8 @@ keywords: goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, fi
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
-attributes: []
+attributes:
+- 155
 family: Poritidae
 genus: Goniopora
 species: ''

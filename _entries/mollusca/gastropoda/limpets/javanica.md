@@ -16,6 +16,7 @@ attributes:
 - 111
 - 123
 - 125
+- 155
 family: Siphonariidae
 genus: Siphonaria
 species: javanica
@@ -55,15 +56,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Javanese false limpet (
-  *Siphonaria javanica*
+  - [Javanese false limpet ( *Siphonaria javanica*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87081)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Javan false limpet (
-  *Siphonaria javanica*
+  - Javan false limpet ( *Siphonaria javanica*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

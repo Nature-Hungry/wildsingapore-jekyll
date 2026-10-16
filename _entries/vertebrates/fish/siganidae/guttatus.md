@@ -10,6 +10,7 @@ attributes:
 - 47
 - 58
 - 60
+- 155
 family: Siganidae
 genus: Siganus
 species: guttatus
@@ -45,8 +46,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Orange-spotted rabbitfish (
-  *Siganus guttatus*
+  - [Orange-spotted rabbitfish ( *Siganus guttatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4588)
 

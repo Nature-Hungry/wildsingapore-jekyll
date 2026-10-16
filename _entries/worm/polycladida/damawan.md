@@ -8,7 +8,8 @@ layout: entry
 family: Pseudocerotidae
 genus: Pseudobiceros
 species: damawan
-attributes: []
+attributes:
+- 155
 inat_id: 842482
 stateofmatter: Life
 kingdom: Animalia
@@ -29,14 +30,12 @@ galleries:
   gallery2:
   - url: https://images.naturehungry.sg/worm/polycladida/damawan/140201kushpy1m3.jpg
     caption: Kusu Island, Feb 14 Photo shared by Heng Pei Yan on her blog .
-links_references: "### Links
-\n- [*Pseudobiceros damawan*](http://polycladida.lifedesks.org/pages/3186)\n\
+links_references: "### Links \n- [*Pseudobiceros damawan*](http://polycladida.lifedesks.org/pages/3186)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n### References
-\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
-  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
-  \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1os,\
-  \ B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\
+  \ sheet.\n\n### References \n- Rene S.L. Ong and Samantha J.W. Tong. 29 October\
+  \ 2018.\n*A preliminary checklist and photographic catalogue of polyclad flatworms\
+  \ recorded from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1\
+  os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\
   \ (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with\
   \ remarks on colour variation*\n.(pdf) The Raffles Bulletin of Zoology Supplement\
   \ No. 34: 130-169 Pp. 130-169.\n- Newman, L.J. & Cannon, L.R.G.\n*Nine new species\

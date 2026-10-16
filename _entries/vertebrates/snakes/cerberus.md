@@ -8,7 +8,8 @@ layout: entry
 family: Homalopsidae
 genus: Cerberus
 species: schneiderii
-attributes: []
+attributes:
+- 155
 inat_id: 200191
 stateofmatter: Life
 kingdom: Animalia
@@ -59,7 +60,8 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Dog-faced Water Snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Dog-faced Water Snake](http://www.ecologyasia.com/verts/snakes/dog-faced_water-snake.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Dog-faced Water Snake](http://www.wildsingapore.per.sg/discovery/factsheet/snakedogfaced)
 

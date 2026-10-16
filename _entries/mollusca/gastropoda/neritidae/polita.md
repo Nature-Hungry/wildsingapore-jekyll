@@ -15,6 +15,7 @@ attributes:
 - 100
 - 111
 - 123
+- 155
 family: Neritidae
 genus: Nerita
 species: polita
@@ -50,15 +51,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Polished nerite (
-  *Nerita polita*
+  - [Polished nerite ( *Nerita polita*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86832)
 
   on SeaBase Life: Technical fact sheet.
 
-  - Polished nerite (
-  *Nerita polita*
+  - Polished nerite ( *Nerita polita*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

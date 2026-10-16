@@ -16,6 +16,7 @@ attributes:
 - 143
 - 6
 - 88
+- 155
 family: Actiniidae
 genus: Anthopleura
 species: ''
@@ -74,8 +75,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Banded bead anemone (
-  *Epiactis*
+  - [Banded bead anemone ( *Epiactis*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/119)
 

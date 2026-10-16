@@ -7,7 +7,8 @@ layout: entry
 family: Balanidae
 genus: Balanus
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 49129
 stateofmatter: Life
 kingdom: Animalia
@@ -59,8 +60,7 @@ links_references: '### Links
 
   ,
 
-  [barnacles on crabs (
-  *Balanus, Octolasmis*
+  [barnacles on crabs ( *Balanus, Octolasmis*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/269)
 

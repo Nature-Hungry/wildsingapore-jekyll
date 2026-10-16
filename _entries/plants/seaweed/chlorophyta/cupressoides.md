@@ -12,6 +12,7 @@ species: cupressoides
 attributes:
 - 46
 - 97
+- 155
 inat_id: 131266
 stateofmatter: Life
 kingdom: Plantae

@@ -20,6 +20,7 @@ species: sinuatum
 attributes:
 - 22
 - 90
+- 155
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg
 galleries:

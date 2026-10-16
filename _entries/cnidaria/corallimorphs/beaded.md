@@ -9,6 +9,7 @@ attributes:
 - 6
 - 88
 - 102
+- 155
 family: Discosomidae
 genus: Discosoma
 species: nummiforme
@@ -99,7 +100,8 @@ zone:
 - marine
 habitats:
 - coral rubble
-summary: This little disk-like animal with round bead-like bumps is sometimes seen in small groups on coral rubble on many of our Southern shores.
+summary: This little disk-like animal with round bead-like bumps is sometimes seen
+  in small groups on coral rubble on many of our Southern shores.
 ---
 
 ## Where seen?

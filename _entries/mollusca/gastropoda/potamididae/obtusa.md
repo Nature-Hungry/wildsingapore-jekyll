@@ -12,6 +12,7 @@ attributes:
 - 100
 - 78
 - 66
+- 155
 inat_id: 372034
 stateofmatter: Life
 kingdom: Animalia
@@ -40,8 +41,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Mud creepers (
-  *Cerithidea obtusa*
+  - [Mud creepers ( *Cerithidea obtusa*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2081)
 
@@ -51,8 +51,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Obtuse creeper (
-  *Cerithidae obtusa*
+  - [Obtuse creeper ( *Cerithidae obtusa*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/139)
 
@@ -62,15 +61,13 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Obtuse horn snail (
-  *Cerithidea obtusa*
+  - [Obtuse horn snail ( *Cerithidea obtusa*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86855)
 
   in SeaLife Base: Technical fact sheet.
 
-  - Obtuse horn snail (
-  *Cerithidea obtusa*
+  - Obtuse horn snail ( *Cerithidea obtusa*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

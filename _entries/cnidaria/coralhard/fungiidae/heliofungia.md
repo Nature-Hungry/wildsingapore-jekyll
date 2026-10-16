@@ -5,7 +5,8 @@ keywords: white, tip, mushroom, heliofungia, actiniformis, fungiidae, coral, har
   scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
   singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: []
+attributes:
+- 155
 family: Fungiidae
 genus: Heliofungia
 species: actiniformis
@@ -121,7 +122,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - bb
 - hnt

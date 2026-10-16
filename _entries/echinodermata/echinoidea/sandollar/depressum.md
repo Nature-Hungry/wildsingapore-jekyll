@@ -11,6 +11,7 @@ attributes:
 - 12
 - 86
 - 92
+- 155
 family: Laganidae
 genus: Jacksonaster
 species: depressum

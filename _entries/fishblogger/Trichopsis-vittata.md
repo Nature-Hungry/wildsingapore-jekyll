@@ -8,6 +8,8 @@ species: vittata
 rdb: LC
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 188586
 stateofmatter: Life
 kingdom: Animalia

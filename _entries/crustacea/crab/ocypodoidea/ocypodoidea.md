@@ -1,11 +1,14 @@
 ---
 title: Stalk-eyed crabs
 description: Fact sheet of Stalk-eyed crabs  on the shores of Singapore
-keywords: stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 342556
 stateofmatter: Life
 kingdom: Animalia
@@ -27,11 +30,13 @@ coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthal
 galleries:
   gallery2:
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg
-    caption: The eye stalks of a ghost crab 'fold' away into grooves at the side of its body. Tanah Merah, Aug 09
+    caption: The eye stalks of a ghost crab 'fold' away into grooves at the side of
+      its body. Tanah Merah, Aug 09
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg
     caption: The Sentinel crab has super long eye stalks. Pulau Hantu, May 05
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
-    caption: Some fiddler crabs have brightly coloured eye stalks. Chek Jawa, Mar 09
+    caption: Some fiddler crabs have brightly coloured eye stalks. Chek Jawa, Mar
+      09
   gallery3:
   - url: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg
     caption: Horn-eyed ghost crab
@@ -117,7 +122,8 @@ links_references: '### Links
 
   - [Animal Olympians](http://www.pbrc.hawaii.edu/%7Epetra/animal_olympians.html)
 
-  by Petra H. Lenz on the University of Hawaii website: listing of records of animal performance, and the Ghost crab ranks among the top fastest terrestrial animals.
+  by Petra H. Lenz on the University of Hawaii website: listing of records of animal
+  performance, and the Ghost crab ranks among the top fastest terrestrial animals.
 
   - [Deposit feeders](http://www.mesa.edu.au/friends/seashores/deposit_feeders.html)
 
@@ -125,7 +131,8 @@ links_references: '### Links
 
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
 
-  by Keith Davey on the Marine Education Society of Australia website: Fact sheet on deposit feeders including crabs.
+  by Keith Davey on the Marine Education Society of Australia website: Fact sheet
+  on deposit feeders including crabs.
 
 
   ### References
@@ -133,7 +140,8 @@ links_references: '### Links
 
   - Ng, Peter K. L. and Daniele Guinot and Peter J. F. Davie, 2008.
 
-  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs of the world*
+  *Systema Brachyurorum: Part 1. An annotated checklist of extant Brachyuran crabs
+  of the world*
 
   . The Raffles Bulletin of Zoology. Supplement No. 17, 31 Jan 2008. 286 pp.
 
@@ -141,7 +149,8 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
 
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
 
   - Wee Y.C. and Peter K. L. Ng. 1994.
 
@@ -161,8 +170,10 @@ location:
 - lck
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- 'This group includes crabs usually found on sandy shores: fiddler crabs, soldier crabs, sand bubblers and ghost crabs'
-- They come out at low tide and cover the shore. Don't step on them! They are very shy
+- 'This group includes crabs usually found on sandy shores: fiddler crabs, soldier
+  crabs, sand bubblers and ghost crabs'
+- They come out at low tide and cover the shore. Don't step on them! They are very
+  shy
 - To see them, wait quietly without moving.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

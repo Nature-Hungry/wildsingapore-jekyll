@@ -36,7 +36,8 @@ galleries:
 links_references: '### Links
 
 
-  - [Plantain Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Plantain Squirrel](http://www.ecologyasia.com/verts/mammals/plantain_squirrel.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Plantain Squirrel](http://www.wildsingapore.per.sg/discovery/factsheet/squirrelplantain)
 

@@ -11,6 +11,7 @@ attributes:
 - 25
 - 42
 - 47
+- 155
 family: Toxotidae
 genus: Toxotes
 species: jaculatrix
@@ -42,8 +43,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Banded Archerfish (
-  *Toxotes jaculatrix*
+  - [Banded Archerfish ( *Toxotes jaculatrix*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/324)
 
@@ -53,8 +53,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Archerfish (
-  *Toxotes jaculatrix*
+  - [Archerfish ( *Toxotes jaculatrix*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2105)
 
@@ -70,8 +69,7 @@ links_references: '### Links
 
   from EcologyAsia .
 
-  - [Banded Archerfish (
-  *Toxotes jaculatrix*
+  - [Banded Archerfish ( *Toxotes jaculatrix*
 
   )](http://fishbase.org/summary/8229)
 
@@ -81,8 +79,7 @@ links_references: '### Links
 
   : Technical fact sheet.
 
-  - [Banded Archerfish (
-  *Toxotes jaculatrix*
+  - [Banded Archerfish ( *Toxotes jaculatrix*
 
   )](http://www.amonline.net.au/fishes/fishfacts/fish/tjaculat)
 

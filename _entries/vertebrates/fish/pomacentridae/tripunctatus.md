@@ -14,6 +14,7 @@ attributes:
 - 70
 - 106
 - 108
+- 155
 family: Pomacentridae
 genus: Pomacentrus
 species: tripunctatus
@@ -102,8 +103,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Threespot damsel (
-  *Pomacentrus tripunctatus*
+  - [Threespot damsel ( *Pomacentrus tripunctatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/344)
 
@@ -113,8 +113,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Threespot damsel (
-  *Pomacentrus tripunctatus*
+  - [Threespot damsel ( *Pomacentrus tripunctatus*
 
   )](http://www.fishbase.se/Summary/SpeciesSummary.php?id=8277)
 

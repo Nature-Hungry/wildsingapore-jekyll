@@ -12,6 +12,7 @@ attributes:
 - 100
 - 78
 - 66
+- 155
 inat_id: 346074
 stateofmatter: Life
 kingdom: Animalia
@@ -63,8 +64,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Obelisk vertagus (
-  *Rhinoclavis sinensis*
+  - [Obelisk vertagus ( *Rhinoclavis sinensis*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?GenusName=Rhinoclavis&SpeciesName=sinensis)
 

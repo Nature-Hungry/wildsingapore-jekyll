@@ -17,7 +17,8 @@ superorder: Eucarida
 order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
-attributes: []
+attributes:
+- 155
 updated: Feb 2020
 coverimg: https://images.naturehungry.sg/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
 links_references: '### Links

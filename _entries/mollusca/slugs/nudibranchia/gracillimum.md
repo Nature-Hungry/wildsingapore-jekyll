@@ -10,6 +10,7 @@ genus: Ceratosoma
 species: gracillimum
 attributes:
 - 22
+- 155
 inat_id: 358109
 stateofmatter: Life
 kingdom: Animalia

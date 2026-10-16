@@ -10,6 +10,7 @@ genus: Bufonaria
 species: ''
 attributes:
 - 100
+- 155
 inat_id: 50657
 stateofmatter: Life
 kingdom: Animalia
@@ -61,15 +62,13 @@ links_references: '### Links
   website by Des Beechey Research Associate, Australian Museum: family introductions
   with photos of shells and detailed fact sheets for many species.
 
-  - [Common frog snail (
-  *Bufonaria rana*
+  - [Common frog snail ( *Bufonaria rana*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86964)
 
   in SeaLife Base: Technical fact sheet.
 
-  - Common frog snail (
-  *Bufonaria rana*
+  - Common frog snail ( *Bufonaria rana*
 
   ) in Family Bursidae in the Gastropods section by J.M. Poutiers in the FAO Species
   Identification Guide for Fishery Purposes: The Living Marine Resources of the Western

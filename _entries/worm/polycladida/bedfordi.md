@@ -8,7 +8,8 @@ layout: entry
 family: Pseudocerotidae
 genus: Pseudobiceros
 species: bedfordi
-attributes: []
+attributes:
+- 155
 inat_id: 121378
 stateofmatter: Life
 kingdom: Animalia
@@ -19,28 +20,26 @@ suborder: Cotylea
 updated: Feb 2020
 coverimg: https://images.naturehungry.sg/worm/polycladida/bedfordi/070324cyrd9371m3.jpg
 links_references: "**Acknowledgement** \nGrateful thanks to Rene Ong for sharing details\
-  \ and identifying the flatworms on this page. \n \n### Links
-\n- [*Pseudobiceros\
+  \ and identifying the flatworms on this page. \n \n### Links \n- [*Pseudobiceros\
   \ bedfordi*](http://seaslugs.free.fr/flatworm/planaire/pseudobiceros_bedfordi_a.htm)on\
   \ the[South-west Indian Ocean Flatworm site](http://seaslugs.free.fr/flatworm/planaire/a_intro.htm):\
   \ fact sheets and photos with references.\n\n- [*Pseudobiceros bedfordi*](http://polycladida.lifedesks.org/pages/3182)on\
   \ Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n### References
-\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.*A\
-  \ preliminary checklist and photographic catalogue of polyclad flatworms recorded\
-  \ from Singapore.*Nature in Singapore 2018 11: 77\u2013125.\n\n- D. M. Bola\xF1\
-  os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.*First records of pseudocerotid flatworms\
-  \ (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with\
-  \ remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology Supplement\
-  \ No. 34: 130-169 Pp. 130-169.\n\n- Newman, L.J. & Cannon, L.R.G.*Nine new species\
-  \ of Pseudobiceros (Platyhelminthes: Polycladida) from Indo-Pacific*. Pp. 341-368.\
-  \ in the Raffles Bulletin of Zoology vol 45.\n\n- Gosliner, Terrence M., David W.\
-  \ Behrens and Gary C. Williams. 1996.*Coral Reef Animals of the Indo-Pacific: Animal\
-  \ life from Africa to Hawaii exclusive of the vertebrates*Sea Challengers. 314pp.\n\
-  \n- Newman, Leslie and Lester Cannon. 2003.*Marine Flatworms: The World of Polyclads*.\
-  \ CSIRO Publishing. 97pp.\n\n- Humann, Paul and Ned Deloach. 2010.*Reef Creature\
-  \ Identification: Tropical Pacific*New World Publications. 497pp.\n\n- Kuiter, Rudie\
-  \ H and Helmut Debelius. 2009. World Atlas of Marine Fauna. IKAN-Unterwasserachiv.\
+  \ sheet.\n\n### References \n- Rene S.L. Ong and Samantha J.W. Tong. 29 October\
+  \ 2018.*A preliminary checklist and photographic catalogue of polyclad flatworms\
+  \ recorded from Singapore.*Nature in Singapore 2018 11: 77\u2013125.\n\n- D. M.\
+  \ Bola\xF1os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.*First records of pseudocerotid\
+  \ flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic\
+  \ report with remarks on colour variation*.(pdf) The Raffles Bulletin of Zoology\
+  \ Supplement No. 34: 130-169 Pp. 130-169.\n\n- Newman, L.J. & Cannon, L.R.G.*Nine\
+  \ new species of Pseudobiceros (Platyhelminthes: Polycladida) from Indo-Pacific*.\
+  \ Pp. 341-368. in the Raffles Bulletin of Zoology vol 45.\n\n- Gosliner, Terrence\
+  \ M., David W. Behrens and Gary C. Williams. 1996.*Coral Reef Animals of the Indo-Pacific:\
+  \ Animal life from Africa to Hawaii exclusive of the vertebrates*Sea Challengers.\
+  \ 314pp.\n\n- Newman, Leslie and Lester Cannon. 2003.*Marine Flatworms: The World\
+  \ of Polyclads*. CSIRO Publishing. 97pp.\n\n- Humann, Paul and Ned Deloach. 2010.*Reef\
+  \ Creature Identification: Tropical Pacific*New World Publications. 497pp.\n\n-\
+  \ Kuiter, Rudie H and Helmut Debelius. 2009. World Atlas of Marine Fauna. IKAN-Unterwasserachiv.\
   \ 723pp."
 galleries:
   gallery1:

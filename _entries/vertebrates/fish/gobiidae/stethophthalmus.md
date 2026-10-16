@@ -11,6 +11,7 @@ attributes:
 - 25
 - 43
 - 47
+- 155
 family: Gobiidae
 genus: Amblygobius
 species: stethophthalmus
@@ -86,8 +87,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Byno Goby (
-  *Amblygobius bynoensis*
+  - [Byno Goby ( *Amblygobius bynoensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/359)
 

@@ -1,12 +1,15 @@
 ---
 title: Box crabs
 description: Fact sheet of Box crabs on the shores of Singapore
-keywords: spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Calappidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 121190
 stateofmatter: Life
 kingdom: Animalia

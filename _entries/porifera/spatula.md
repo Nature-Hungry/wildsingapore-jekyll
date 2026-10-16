@@ -9,6 +9,7 @@ genus: Lamellodysidea
 species: herbacea
 attributes:
 - 161
+- 155
 inat_id: 565912
 stateofmatter: Life
 kingdom: Animalia

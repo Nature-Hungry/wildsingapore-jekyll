@@ -7,9 +7,11 @@ keywords: jellyfish, jelly, fish, jellies, chrysaora, scyphozoa, cnidaria, field
 layout: entry
 attributes:
 - 56
+- 155
 family: Pelagiidae
 genus: Chrysaora
-summary: Bell 8-12cm across, ribbon-like tentacles 20-50cm long. Sometimes seen on our shores. Stings painfully.
+summary: Bell 8-12cm across, ribbon-like tentacles 20-50cm long. Sometimes seen on
+  our shores. Stings painfully.
 species: ''
 inat_id: 48483
 stateofmatter: Life

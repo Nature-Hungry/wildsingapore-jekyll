@@ -16,8 +16,9 @@ subclass: Autobranchia
 infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Ostreoidea
-attributes: 
+attributes:
 - 34
+- 155
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg
 galleries:

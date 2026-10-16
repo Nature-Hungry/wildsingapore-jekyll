@@ -1,13 +1,16 @@
 ---
 title: Winged oysters
 description: Fact sheet of Winged oysters on the shores of Singapore
-keywords: winged, oyster, clam, pteria, pteriidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: winged, oyster, clam, pteria, pteriidae, bivalve, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Pteriidae
 genus: ''
 species: ''
 attributes:
 - 73
+- 155
 inat_id: 62590
 stateofmatter: Life
 kingdom: Animalia
@@ -24,7 +27,8 @@ galleries:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg
     caption: Several sea fan oysters on one sea fan. Changi, Jan 13
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/pteriidae/121215sislks2a.jpg
-    caption: Electroma physoides Sisters Island, Dec 12 Photo shared by Loh Kok Sheng on flickr .
+    caption: Electroma physoides Sisters Island, Dec 12 Photo shared by Loh Kok Sheng
+      on flickr .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/pteriidae/vulsella/200113chgsaf.jpg
     caption: Sponge finger oyster in a sponge. Changi, Jan 20
   gallery2:
@@ -40,7 +44,8 @@ galleries:
 links_references: '### Links
 
 
-  - Family Pteriidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Pteriidae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 
@@ -70,7 +75,8 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Berens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
 
   Sea Challengers. 314pp.
 

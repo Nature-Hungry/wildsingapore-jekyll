@@ -15,6 +15,7 @@ attributes:
 - 6
 - 88
 - 113
+- 155
 family: Actinodendridae
 genus: Actinostephanus
 species: haeckeli

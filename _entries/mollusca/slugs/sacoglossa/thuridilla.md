@@ -8,9 +8,10 @@ layout: entry
 family: Plakobranchidae
 genus: Thuridilla
 species: sp.*
-attributes: 
+attributes:
 - 27
 - 90
+- 155
 inat_id: 469569
 stateofmatter: Life
 kingdom: Animalia

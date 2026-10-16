@@ -6,16 +6,18 @@ keywords: feathery, hydroid, sertularella, sertulariidae, hydrozoa, cnidaria, fi
   sheet, info, photo
 layout: entry
 family: ''
-genus: 'awaiting'
+genus: awaiting
 phylum: Cnidaria
 class: Hydrozoa
 species: identification*
-attributes: []
+attributes:
+- 155
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 2025
-summary: 10-15cm long forming a fern-like shape. Usually bright orange. On boulders and coral rubble. Sometimes seen on some of our Northern shores.
+summary: 10-15cm long forming a fern-like shape. Usually bright orange. On boulders
+  and coral rubble. Sometimes seen on some of our Northern shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
 galleries:
   gallery1:

@@ -11,6 +11,7 @@ species: Pictocolumbella
 attributes:
 - 100
 - 75
+- 155
 inat_id: 50704
 stateofmatter: Life
 kingdom: Animalia
@@ -42,8 +43,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Pigeon or Dove Shell (
-  *Pyrene*
+  - [Pigeon or Dove Shell ( *Pyrene*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/147)
 

@@ -12,6 +12,7 @@ attributes:
 - 25
 - 47
 - 74
+- 155
 family: Pegasidae
 genus: Pegasus
 species: volitans
@@ -87,8 +88,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Slender Seamoth (
-  *Pegasus volitans*
+  - [Slender Seamoth ( *Pegasus volitans*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/247)
 

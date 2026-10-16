@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Antennariidae
 genus: Lophiocharon
 species: trisignatus
@@ -128,8 +129,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Spotted-tail Frogfish (
-  *Lophiocharon trisignatus*
+  - [Spotted-tail Frogfish ( *Lophiocharon trisignatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/231)
 
@@ -139,8 +139,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Three-spot frogfish (
-  *Lophiocharon trisignatus*
+  - [Three-spot frogfish ( *Lophiocharon trisignatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=10330)
 

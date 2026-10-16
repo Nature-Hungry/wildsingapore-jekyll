@@ -10,6 +10,7 @@ genus: Doriprismatica
 species: atromarginata
 attributes:
 - 22
+- 155
 inat_id: 468042
 stateofmatter: Life
 kingdom: Animalia

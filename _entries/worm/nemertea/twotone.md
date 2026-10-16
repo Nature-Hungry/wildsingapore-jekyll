@@ -8,12 +8,9 @@ layout: entry
 stateofmatter: Life
 kingdom: Animalia
 phylum: Nemertea
-attributes: []
+attributes:
+- 155
 inat_id: 1
-stateofmatter: Life
-kingdom: Animalia
-phylum: Nemertea
-
 updated: Jan 2022
 coverimg: https://images.naturehungry.sg/worm/nemertea/twotone/080603prpd4699m3.jpg
 galleries:

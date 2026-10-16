@@ -8,7 +8,8 @@ layout: entry
 family: Acroporidae
 genus: Astreopora
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 81538
 stateofmatter: Life
 kingdom: Animalia
@@ -112,7 +113,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - tm
 - snt

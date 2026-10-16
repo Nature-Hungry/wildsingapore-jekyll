@@ -11,6 +11,7 @@ attributes:
 - 47
 - 49
 - 81
+- 155
 family: Soleidae
 genus: Solea
 species: ovata
@@ -44,8 +45,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Ovate Sole (
-  *Solea ovata*
+  - [Ovate Sole ( *Solea ovata*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/386)
 
@@ -55,8 +55,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Ovate sole (
-  *Solea ovata*
+  - [Ovate sole ( *Solea ovata*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=14391)
 

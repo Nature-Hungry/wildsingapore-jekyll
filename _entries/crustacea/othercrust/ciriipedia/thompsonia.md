@@ -8,7 +8,8 @@ layout: entry
 family: Thompsoniidae
 genus: Thompsonia
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 996533
 stateofmatter: Life
 kingdom: Animalia
@@ -30,8 +31,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Parasitic barnacles (
-  *Thompsonia, Sacculina*
+  - [Parasitic barnacles ( *Thompsonia, Sacculina*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/270)
 

@@ -36,7 +36,8 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Reticulated python](http://www.ecologyasia.com/verts/snakes/reticulated_python.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Reticulated python](http://www.ecologyasia.com/verts/snakes/reticulated_python.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Reticulated python](http://www.wildsingapore.per.sg/discovery/factsheet/snakepython)
 

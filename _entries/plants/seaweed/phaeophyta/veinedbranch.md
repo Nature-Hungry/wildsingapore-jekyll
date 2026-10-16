@@ -12,6 +12,7 @@ species: ''
 attributes:
 - 97
 - 98
+- 155
 inat_id: 131263
 stateofmatter: Life
 kingdom: Chromista

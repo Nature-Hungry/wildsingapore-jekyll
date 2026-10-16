@@ -12,6 +12,7 @@ attributes:
 - 106
 - 112
 - 119
+- 155
 family: Portunidae
 genus: Charybdis
 species: annulata*

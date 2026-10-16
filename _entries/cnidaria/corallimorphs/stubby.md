@@ -2,13 +2,14 @@
 title: Stubby corallimorph
 description: Fact sheet of Stubby corallimorph on the shores of Singapore
 keywords: corallimorph, discosoma, nummiforme, discosomidae, ricordea, yuma, ricordeidae,
- corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine,
+  corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 6
 - 88
 - 102
+- 155
 family: Ricordeidae
 genus: Ricordea
 species: yuma
@@ -86,7 +87,8 @@ zone:
 - marine
 habitats:
 - coral rubble
-summary: These little disk-shaped animal with stubby tentacles is sometimes encountered on our Southern shores, among coral rubble.
+summary: These little disk-shaped animal with stubby tentacles is sometimes encountered
+  on our Southern shores, among coral rubble.
 ---
 
 ## Where seen?

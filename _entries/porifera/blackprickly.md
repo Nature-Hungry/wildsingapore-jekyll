@@ -10,6 +10,7 @@ species: conulosum
 attributes:
 - 159
 - 141
+- 155
 inat_id: 1654174
 stateofmatter: Life
 kingdom: Animalia

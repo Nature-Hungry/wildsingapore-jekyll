@@ -5,11 +5,11 @@ keywords: ribbon, worm, ribbonworm, baseodiscus, delineatus, nemertine, nemertea
   nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
   facts, fact sheet, info, photo
 layout: entry
-
 family: Valenciniidae
 genus: Baseodiscus
 species: delineatus*
-attributes: []
+attributes:
+- 155
 inat_id: 497475
 stateofmatter: Life
 kingdom: Animalia

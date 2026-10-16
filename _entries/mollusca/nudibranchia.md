@@ -1,7 +1,9 @@
 ---
-title: "Nudibranchs"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "nudibranchia, slug, seaslug, pisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+title: Nudibranchs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: nudibranchia, slug, seaslug, pisthobranch, gastropod, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
 stateofmatter: Life
 kingdom: Animalia
@@ -15,7 +17,7 @@ order: Nudibranchia
 permalink: /entries/Mollusca/Gastropoda/Heterobranchia/Nudibranchia
 updated: May 2020
 coverimg: /assets/temp/nudibranchia.png
-trivia_title: "if you learn only 3 things about them ..."
+trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - Pronounced 'noo-dee-brank', which means 'naked gills'.
 - In some, the gaudy colours warn of their toxic nature or unpleasant taste.
@@ -25,25 +27,33 @@ authors:
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/atromarginata/050529sjig7138m3.jpg
-    caption: "The Black-margined nudibranch is among the most commonly encountered nudibranchs on our reefs. *St. John's Island, May 05*"
+    caption: The Black-margined nudibranch is among the most commonly encountered
+      nudibranchs on our reefs. *St. John's Island, May 05*
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/lineolata/050626smkg8815m3.jpg
-    caption: "The Lined chromodoris nudibranch is another commonly seen nudibranch. *Pulau Semakau, Jun 05*"
+    caption: The Lined chromodoris nudibranch is another commonly seen nudibranch.
+      *Pulau Semakau, Jun 05*
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3.jpg
-    caption: "The Bohol nudibranch is seasonally numerous. *Sentosa, Jan 06*"
+    caption: The Bohol nudibranch is seasonally numerous. *Sentosa, Jan 06*
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg
-    caption: "Aeolid nudibranchs carry stinging cells from their prey in their cerata. *Pasir Ris, Dec 08*"
+    caption: Aeolid nudibranchs carry stinging cells from their prey in their cerata.
+      *Pasir Ris, Dec 08*
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg
-    caption: "The Blue dragon nudibranch can be numerous at times. *Beting Bronok, Jul 03*"
+    caption: The Blue dragon nudibranch can be numerous at times. *Beting Bronok,
+      Jul 03*
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/melibe/090310tusd7857m3.jpg
-    caption: "The Melibe nudibranch eats tiny crustaceans, capturing them with an expandable hood. *Tuas, Mar 09*"
+    caption: The Melibe nudibranch eats tiny crustaceans, capturing them with an expandable
+      hood. *Tuas, Mar 09*
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/110217cyrs05409m3.jpg
-    caption: "A Polka-dot nudibranch chomping on a blue sponge? *South Cyrene, Feb 11*"
+    caption: A Polka-dot nudibranch chomping on a blue sponge? *South Cyrene, Feb
+      11*
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg
-    caption: "The Orange-spotted gymnodoris eats other nudibranchs and slugs. *Pulau Ular, Apr 06*"
+    caption: The Orange-spotted gymnodoris eats other nudibranchs and slugs. *Pulau
+      Ular, Apr 06*
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/080220smkd9777m3.jpg
-    caption: "A pair of Polka-dot nudibranchs possibly mating. *Pulau Semakau, Jul 08*"
+    caption: A pair of Polka-dot nudibranchs possibly mating. *Pulau Semakau, Jul
+      08*
 ---
 
 ## Where seen?

@@ -9,6 +9,7 @@ attributes:
 - 47
 - 69
 - 70
+- 155
 family: Gobiidae
 genus: Bathygobius
 species: ''
@@ -45,8 +46,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Common frill-fin goby (
-  *Bathygobius fuscus*
+  - [Common frill-fin goby ( *Bathygobius fuscus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/360)
 
@@ -58,15 +58,13 @@ links_references: '### Links
 
   - [Dusky frillgoby](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
 
-  [(
-  *Bathygobius fuscus*
+  [( *Bathygobius fuscus*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=7201)
 
   and
 
-  [Meggitt''s goby (
-  *Bathygobius meggitti*
+  [Meggitt''s goby ( *Bathygobius meggitti*
 
   )](http://www.fishbase.org/summary/SpeciesSummary.php?id=46431)
 

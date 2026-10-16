@@ -8,7 +8,8 @@ layout: entry
 family: Poritidae
 genus: Goniopora
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 88581
 stateofmatter: Life
 kingdom: Animalia

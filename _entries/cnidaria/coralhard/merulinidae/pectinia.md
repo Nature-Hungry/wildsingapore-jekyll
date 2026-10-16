@@ -8,7 +8,8 @@ layout: entry
 family: Merulinidae
 genus: ''
 species: Pectinia
-attributes: []
+attributes:
+- 155
 inat_id: 85893
 stateofmatter: Life
 kingdom: Animalia
@@ -129,7 +130,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp.
 
- '
+  '
 location:
 - tm
 - ecp

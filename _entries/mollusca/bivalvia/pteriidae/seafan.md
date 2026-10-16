@@ -8,8 +8,9 @@ layout: entry
 family: Pteriidae
 genus: ''
 species: ''
-attributes: 
+attributes:
 - 73
+- 155
 inat_id: 62590
 stateofmatter: Life
 kingdom: Animalia

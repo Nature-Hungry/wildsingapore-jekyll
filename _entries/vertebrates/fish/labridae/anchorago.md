@@ -10,6 +10,7 @@ attributes:
 - 47
 - 58
 - 60
+- 155
 family: Labridae
 genus: Choerodon
 species: anchorago
@@ -80,8 +81,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Anchor Tuskfish (
-  *Choerodon anchorago*
+  - [Anchor Tuskfish ( *Choerodon anchorago*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/347)
 
@@ -97,8 +97,7 @@ links_references: '### Links
 
   on the IUCN Red List.
 
-  - [Orange-dotted tuskfish (
-  *Choerodon anchorago*
+  - [Orange-dotted tuskfish ( *Choerodon anchorago*
 
   )](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=5502)
 

@@ -8,6 +8,8 @@ species: nieuhofii
 rdb: EN
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 187242
 stateofmatter: Life
 kingdom: Animalia

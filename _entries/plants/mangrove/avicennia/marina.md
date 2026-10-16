@@ -12,6 +12,7 @@ attributes:
 - 36
 - 68
 - 83
+- 155
 family: Acanthaceae
 genus: Avicennia
 species: marina
@@ -50,8 +51,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Api-api jambu (
-  *Avicennia marina*
+  - [Api-api jambu ( *Avicennia marina*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1050)
 

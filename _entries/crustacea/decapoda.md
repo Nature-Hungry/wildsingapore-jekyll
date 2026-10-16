@@ -1,7 +1,8 @@
 ---
-title: "Decapods"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "decapod, crustacea, crustacean, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: Decapods
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: decapod, crustacea, crustacean, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 stateofmatter: Life
 kingdom: Animalia
@@ -26,22 +27,29 @@ zone:
 - freshwater
 galleries:
   gallery1:
-  - url: "https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
-    caption: " The [Flower crab](crab/portunidae/pelagicus) and other decapods   are among our favourite seafood!   *Changi, Jun 05*"
-  - url: "https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0423m3.jpg"
-    caption: "[Porcelain crabs](othercrust/anomura/porcellanidae/porcellanidae) often live with other animals. *Changi, Jul 05*"
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
+    caption: ' The [Flower crab](crab/portunidae/pelagicus) and other decapods   are
+      among our favourite seafood!   *Changi, Jun 05*'
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0423m3.jpg
+    caption: '[Porcelain crabs](othercrust/anomura/porcellanidae/porcellanidae) often
+      live with other animals. *Changi, Jul 05*'
   gallery2:
-  - url: "https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/040523sjiad0014m3.jpg"
-    caption: "Unlike true crabs, [hermit crabs](othercrust/anomura/hermit/hermit) have a soft abdomen which is protected by tucking it into an empty snail shell \n*St. John's Island, May 04*"
-  - url: "https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg"
-    caption: "[Anemone shrimps](othercrust/shrimp/brevicarpalis) live in a sea anemone! *Pulau Hantu, Apr 04*"
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/coenobita/040523sjiad0014m3.jpg
+    caption: "Unlike true crabs, [hermit crabs](othercrust/anomura/hermit/hermit)\
+      \ have a soft abdomen which is protected by tucking it into an empty snail shell\
+      \ \n*St. John's Island, May 04*"
+  - url: https://images.naturehungry.sg/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg
+    caption: '[Anemone shrimps](othercrust/shrimp/brevicarpalis) live in a sea anemone!
+      *Pulau Hantu, Apr 04*'
   gallery3:
-  - url: "https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg"
-    caption: "A freshly moulted crab (top right) with the moult (lower left). *Sentosa, Jul 04*"
-  - url: "https://images.naturehungry.sg/crustacea/crab/crabnoid/050609cftg7545m3.jpg"
-    caption: "The moulted exoskeleton 'opened' up. *Changi, Jun 05*"
-  - url: "https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3.jpg"
-    caption: "*A hermit crab moult outside the shell with the original inhabitant inside the shell. *Changi, Jul 05*"
+  - url: https://images.naturehungry.sg/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
+    caption: A freshly moulted crab (top right) with the moult (lower left). *Sentosa,
+      Jul 04*
+  - url: https://images.naturehungry.sg/crustacea/crab/crabnoid/050609cftg7545m3.jpg
+    caption: The moulted exoskeleton 'opened' up. *Changi, Jun 05*
+  - url: https://images.naturehungry.sg/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3.jpg
+    caption: '*A hermit crab moult outside the shell with the original inhabitant
+      inside the shell. *Changi, Jul 05*'
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---

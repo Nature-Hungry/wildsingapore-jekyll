@@ -8,7 +8,8 @@ layout: entry
 family: Mytilidae
 genus: Xenostrobus
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 340585
 stateofmatter: Life
 kingdom: Animalia
@@ -40,8 +41,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Black mussel (
-  *Xenostrobus*
+  - [Black mussel ( *Xenostrobus*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2092)
 
@@ -51,8 +51,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Atrate mussel (
-  *Xenostrobus atratus*
+  - [Atrate mussel ( *Xenostrobus atratus*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=80195)
 

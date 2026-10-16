@@ -2,7 +2,7 @@
 title: Slender Mudskipper
 externalurl: https://sgfishesabovewater.blogspot.com/2025/09/slender-mudskipper-periophthalmus.html
 coverimg: https://blogger.googleusercontent.com/img/a/AVvXsEgWRZfBoJQyDhoGHYRQ3QiwQOpZe4snwBtyng_e9dmCY1Wd88Mm427k-KRlkxpyRUvKQOu4dfN7hRWMsAVESBxz2NmROvlz2IDSxT5_dLgiXvyignmUyIQJiw_D2r3JsC8jw2jtHL8TXKoEOAFMrdjMK25SC0iF4jf9CcGj6OUQQdLXA4CbaRD02BjRzA6n=w666-h499
-family: Oxudercidae (Subfamily Oxudercinae - Mudskippers)
+family: Oxudercidae
 genus: Periophthalmus
 species: gracilis
 rdb: VU

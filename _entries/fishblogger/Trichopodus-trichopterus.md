@@ -8,6 +8,8 @@ species: trichopterus
 rdb: VU
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 188583
 stateofmatter: Life
 kingdom: Animalia

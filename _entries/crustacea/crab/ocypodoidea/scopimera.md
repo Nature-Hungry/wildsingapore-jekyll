@@ -9,6 +9,7 @@ attributes:
 - 38
 - 106
 - 112
+- 155
 stateofmatter: Life
 kingdom: Animalia
 phylum: Arthropoda
@@ -79,8 +80,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Sand Bubbler Crab (
-  *Scopimera*
+  - [Sand Bubbler Crab ( *Scopimera*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/193)
 
@@ -98,8 +98,7 @@ links_references: '### Links
 
   on SeaLife Base: Technical fact sheet.
 
-  - [Sand bubbler crab (
-  *Scopimera globosa*
+  - [Sand bubbler crab ( *Scopimera globosa*
 
   )](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1775&menuentry=soorten)
 
@@ -159,7 +158,7 @@ size:
 - 1.5
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are everywhere on the sandy shore at low tide. Don't step on them! 
+- They are everywhere on the sandy shore at low tide. Don't step on them!
 - The tiny sand balls are processed sand Not excretion or from burrowing
 - They are related to fiddler crabs.
 authors:

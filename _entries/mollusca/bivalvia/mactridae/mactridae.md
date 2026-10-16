@@ -1,12 +1,15 @@
 ---
 title: Mactra clams
 description: Fact sheet of Mactra clams on the shores of Singapore
-keywords: surf, clam, mactra, mactridae, mollusc, bivalvia, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: surf, clam, mactra, mactridae, mollusc, bivalvia, snail, shell, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Mactridae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 117623
 stateofmatter: Life
 kingdom: Animalia
@@ -39,7 +42,8 @@ links_references: '### Links
 
   at Washington State University Tri-Cities Natural History Museum website.
 
-  - Family Mactridae in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
+  - Family Mactridae in the Bivalves section by J.M. Poutiers in the FAO Species Identification
+  Guide for Fishery Purposes: The Living Marine Resources of the Western Central Pacific
 
   [Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)
 

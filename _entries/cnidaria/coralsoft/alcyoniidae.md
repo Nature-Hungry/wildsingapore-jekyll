@@ -8,7 +8,8 @@ layout: entry
 family: Alcyoniidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 155097
 stateofmatter: Life
 kingdom: Animalia
@@ -35,7 +36,7 @@ galleries:
     caption: Shedding a layer of mucus. Pulau Hantu, Mar 07
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/111128sntd4108m3a.jpg
     caption: Stinging tentacles produced by ctenophores living on the leathery soft
-     coral. Sentosa, Nov 11
+      coral. Sentosa, Nov 11
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
     caption: Omelette leathery soft coral

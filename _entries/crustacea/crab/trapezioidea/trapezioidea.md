@@ -1,12 +1,14 @@
 ---
 title: Coral crabs
 description: Fact sheet of Coral crabs  on the shores of Singapore
-keywords: coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: coral, crab, trapeziidae, decapod, crustacea, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: ''
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 354657
 stateofmatter: Life
 kingdom: Animalia

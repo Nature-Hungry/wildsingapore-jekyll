@@ -9,6 +9,7 @@ attributes:
 - 84
 - 103
 - 104
+- 155
 family: Palinuridae
 genus: Panulirus
 species: ornatus
@@ -45,8 +46,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Ornate spiny lobster (
-  *Panulirus ornatus*
+  - [Ornate spiny lobster ( *Panulirus ornatus*
 
   )](http://www.sealifebase.ca/summary/Panulirus-ornatus.html)
 

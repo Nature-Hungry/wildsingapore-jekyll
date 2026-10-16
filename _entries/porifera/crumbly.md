@@ -9,6 +9,7 @@ genus: Amorphinopsis
 species: excavans
 attributes:
 - 161
+- 155
 inat_id: 1636800
 stateofmatter: Life
 kingdom: Animalia

@@ -22,6 +22,7 @@ attributes:
 - 79
 - 88
 - 113
+- 155
 family: Actiniidae
 genus: Entacmaea
 species: quadricolor

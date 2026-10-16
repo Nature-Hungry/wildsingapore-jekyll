@@ -11,6 +11,7 @@ species: echinatus*
 attributes:
 - 100
 - 87
+- 155
 inat_id: 1153055
 stateofmatter: Life
 kingdom: Animalia

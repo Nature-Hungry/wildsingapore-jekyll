@@ -2,13 +2,14 @@
 title: Elephant-nose plate
 description: Fact sheet of Elephant-nose plate on the shores of Singapore
 keywords: elephant, nose, plate, mycedium, elephantotus, merulinidae, pectiniidae,
- coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
+  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
   coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Mycedium
 species: elephantotus
-attributes: []
+attributes:
+- 155
 inat_id: 503538
 stateofmatter: Life
 kingdom: Animalia
@@ -79,7 +80,7 @@ links_references: '### Links
 
   Australian Institute of Marine Science, Australia. 3 volumes.
 
- '
+  '
 location:
 - tm
 - ecp

@@ -1,5 +1,5 @@
 ---
-title: 'Pearl bubble coral'
+title: Pearl bubble coral
 description: Fact sheet of Pearl bubble coral  on the shores of Singapore
 keywords: pearl, bubble, coral, physogyra, lichtensteini, hard, scleractinia, cnidaria,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
@@ -8,7 +8,8 @@ layout: entry
 family: Euphyllidae
 genus: Physogyra
 species: lichtensteini*
-attributes: []
+attributes:
+- 155
 inat_id: 109498
 stateofmatter: Life
 kingdom: Animalia
@@ -91,7 +92,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - hnt
 - smk

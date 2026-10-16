@@ -1,48 +1,60 @@
 ---
-title: "Anthozoans "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+title: 'Anthozoans '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info
 layout: entry
 stateofmatter: Life
 kingdom: Animalia
 phylum: Cnidaria
 class: Anthozoa
-trivia_title: "if you only 3 things about them ... "
+trivia_title: 'if you only 3 things about them ... '
 trivia_items:
 - Many anthozoans are small and easily overlooked. Don't step on it.
-- Most anthozoans have stingers. Don't touch them! 
+- Most anthozoans have stingers. Don't touch them!
 - Anthozoans are important to the habitat. Don't kill or remove them.
 updated: Nov 2019
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/cnidaria/others/ceriantharia/common/040720chgd2929m3.jpg
-    caption: "*The [cerianthid](/entries/cnidaria/anthozoa/ceriantharia) does resemble a flower. *Changi, Jul 04*"
+    caption: '*The [cerianthid](/entries/cnidaria/anthozoa/ceriantharia) does resemble
+      a flower. *Changi, Jul 04*'
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/spiky/110518bbd1893m3.jpg
-    caption: "*The [sea pen](/entries/Cnidaria/Anthozoa/Scleralcyonacea/Pennatuloidea) doesn't look like a flower, although its tiny polyps do. *Chek Jawa, Aug 05*"
+    caption: '*The [sea pen](/entries/Cnidaria/Anthozoa/Scleralcyonacea/Pennatuloidea)
+      doesn''t look like a flower, although its tiny polyps do. *Chek Jawa, Aug 05*'
   - url: https://images.naturehungry.sg/cnidaria/others/gorgonacea/candelabra/050820bbg1809m3c.jpg
-    caption: "Tiny polyps of a [sea fan](/entries/cnidaria/gorgonacea/candelabra/) resembles a flower. *Beting Bronok, Aug 05*"
+    caption: Tiny polyps of a [sea fan](/entries/cnidaria/gorgonacea/candelabra/)
+      resembles a flower. *Beting Bronok, Aug 05*
   gallery2:
   - url: https://images.naturehungry.sg/cnidaria/coralhard/poritidae/gonbig/061122smkd6844m3a.jpg
-    caption: Smooth tentacles of a hard coral  the [Anemone coral](/entries/cnidaria/coralhard/poritidae/gonbig/) *Labrador, Jul 05*
+    caption: Smooth tentacles of a hard coral  the [Anemone coral](/entries/cnidaria/coralhard/poritidae/gonbig/)
+      *Labrador, Jul 05*
   - url: https://images.naturehungry.sg/cnidaria/coralhard/dendrophylliidae/flowery/050723labg0029m3b.jpg
-    caption: Smooth tentacles of a hard coral the [Flowery disk coral](/entries/cnidaria/coralhard/dendrophylliidae/flowery) *Labrador, Jul 05*
+    caption: Smooth tentacles of a hard coral the [Flowery disk coral](/entries/cnidaria/coralhard/dendrophylliidae/flowery)
+      *Labrador, Jul 05*
   - url: https://images.naturehungry.sg/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3a.jpg
-    caption: Smooth tentacles of a hard coral the [Acropora coral](/entries/cnidaria/coralhard/acroporidae/acropora). *Pulau Semakau, Apr 08*
+    caption: Smooth tentacles of a hard coral the [Acropora coral](/entries/cnidaria/coralhard/acroporidae/acropora).
+      *Pulau Semakau, Apr 08*
   gallery3:
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/letomelette/080707hntd7429m3c.jpg
-    caption: Eight branched tentacles of a [leathery soft coral](/entries/cnidaria/coralsoft/alcyoniidae) *Pulau Hantu, Jul 08*
+    caption: Eight branched tentacles of a [leathery soft coral](/entries/cnidaria/coralsoft/alcyoniidae)
+      *Pulau Hantu, Jul 08*
   - url: https://images.naturehungry.sg/cnidaria/coralsoft/feabroad/050807sjig0759m3a.jpg
-    caption: Eight branched tentacles of a soft coral the [Broad feathery soft coral](/entries/cnidaria/coralsoft/feabroad) *St. John's Island, Aug 05*
+    caption: Eight branched tentacles of a soft coral the [Broad feathery soft coral](/entries/cnidaria/coralsoft/feabroad)
+      *St. John's Island, Aug 05*
   - url: https://images.naturehungry.sg/cnidaria/others/pennatulacea/veretillidae/050608cftg7366m3a.jpg
-    caption: Eight branched tentacles of a [sea pen](/entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea) *Changi, Jun 05*
+    caption: Eight branched tentacles of a [sea pen](/entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea)
+      *Changi, Jun 05*
   gallery4:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/haddonieat/020328cjd7880m3.jpg
-    caption: A  [carpet anemone](/entries/cnidaria/actiniaria/haddoni/) swallowing a dead fish. *Chek Jawa, Mar 02*
+    caption: A  [carpet anemone](/entries/cnidaria/actiniaria/haddoni/) swallowing
+      a dead fish. *Chek Jawa, Mar 02*
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg
-    caption: A [tiger sea anemone](/entries/cnidaria/actiniaria/tiger) attempting to swallow a [sea pen](/entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea)! *Changi, Jul 04*
+    caption: A [tiger sea anemone](/entries/cnidaria/actiniaria/tiger) attempting
+      to swallow a [sea pen](/entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea)!
+      *Changi, Jul 04*
     col_span: 2
-
-permalink: "/entries/Cnidaria/Anthozoa"
+permalink: /entries/Cnidaria/Anthozoa
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---

@@ -8,7 +8,8 @@ layout: entry
 family: Fungiidae
 genus: Herpolitha
 species: limax
-attributes: []
+attributes:
+- 155
 inat_id: 102656
 stateofmatter: Life
 kingdom: Animalia
@@ -125,7 +126,7 @@ links_references: '### Links
 
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
- '
+  '
 location:
 - tm
 - ecp

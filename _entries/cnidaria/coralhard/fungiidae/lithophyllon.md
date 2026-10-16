@@ -8,7 +8,8 @@ layout: entry
 family: Fungiidae
 genus: Lithophyllon
 species: undulatum
-attributes: []
+attributes:
+- 155
 inat_id: 104752
 stateofmatter: Life
 kingdom: Animalia
@@ -111,7 +112,7 @@ links_references: '### Links
 
   IKAN-Unterwasserachiv, Frankfurt. 305 pp.
 
- '
+  '
 location:
 - tm
 - snt

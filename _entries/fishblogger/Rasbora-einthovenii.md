@@ -8,6 +8,8 @@ species: einthovenii
 rdb: VU
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 552963
 stateofmatter: Life
 kingdom: Animalia

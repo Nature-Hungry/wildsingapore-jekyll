@@ -9,6 +9,7 @@ attributes:
 - 47
 - 58
 - 60
+- 155
 family: Cichlidae
 genus: Etroplus
 species: suratensis
@@ -34,8 +35,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Green chromide (
-  *Etroplus suratensis*
+  - [Green chromide ( *Etroplus suratensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/335)
 
@@ -45,8 +45,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Pearlspot (
-  *Etroplus suratensis*
+  - [Pearlspot ( *Etroplus suratensis*
 
   )](http://www.fishbase.org/summary/Etroplus-suratensis.html)
 

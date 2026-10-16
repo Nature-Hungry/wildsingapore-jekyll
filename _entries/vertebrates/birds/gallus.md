@@ -7,7 +7,8 @@ layout: entry
 family: Phasianidae
 genus: Gallus
 species: gallus
-attributes: []
+attributes:
+- 155
 inat_id: 882
 stateofmatter: Life
 kingdom: Animalia

@@ -12,6 +12,7 @@ species: sertularioides
 attributes:
 - 46
 - 97
+- 155
 inat_id: 209714
 stateofmatter: Life
 kingdom: Plantae

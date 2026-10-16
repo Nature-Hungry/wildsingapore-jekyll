@@ -7,9 +7,13 @@ keywords: spiky, flower, stereonephthya, nephtheidae, alcyonacea, soft, coral, c
 layout: entry
 family: Nephtheidea
 genus: Stereonephthya
-summary: Colony bushy 6-12cm, branched with 'stems' that are white or transparent, embedded with spicules. Polyps tiny (about 0.5cm) with eight branched tentacles, may be beige, white or purple. Large spikes next to the polyps. On coral rubble. Seen on our Northern shores.
+summary: Colony bushy 6-12cm, branched with 'stems' that are white or transparent,
+  embedded with spicules. Polyps tiny (about 0.5cm) with eight branched tentacles,
+  may be beige, white or purple. Large spikes next to the polyps. On coral rubble.
+  Seen on our Northern shores.
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 1208378
 stateofmatter: Life
 kingdom: Animalia

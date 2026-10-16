@@ -8,7 +8,8 @@ layout: entry
 family: Pseudocerotidae
 genus: Nymphozoon
 species: orsaki
-attributes: []
+attributes:
+- 155
 inat_id: 1534272
 stateofmatter: Life
 kingdom: Animalia

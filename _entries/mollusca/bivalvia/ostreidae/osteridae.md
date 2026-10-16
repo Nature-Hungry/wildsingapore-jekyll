@@ -7,7 +7,8 @@ layout: entry
 family: Ostreidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 47582
 stateofmatter: Life
 kingdom: Animalia
@@ -19,8 +20,7 @@ order: Ostreida
 superfamily: Ostreoidea
 updated: May 2020
 coverimg: https://images.naturehungry.sg/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg
-links_references: "### Links
-\n- [Edible Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm)Tan,\
+links_references: "### Links \n- [Edible Rock Oyster (*Saccostrea*)](http://mangrove.nus.edu.sg/pub/seashore/text/164.htm)Tan,\
   \ Leo W. H. & Ng, Peter K. L., 1988.*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*.\
   \ The Singapore Science Centre, Singapore. 160 pp.\n\n- [Family Ostreidae](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Ostreidae.html)on[The\
   \ Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)at\
@@ -36,8 +36,7 @@ links_references: "### Links
   \ and Agriculture Organization of the United Nations (FAO) website.\n\n- From the\
   \ wild shores of singapore blog.\n - [The unexpected benefit of oysters](http://wildshores.blogspot.com/2008/12/unexpected-benefit-of-oysters.html)\n\
   \ - [Oyster reefs: most severely impacted marine habitat on the planet](http://wildshores.blogspot.com/2009/05/oyster-reefs-most-severely-impacted.html)\n\
-  \n### References
-\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist\
+  \n### References \n- Tan Siong Kiat and Henrietta P. M. Woo, 2010*Preliminary Checklist\
   \ of The Molluscs of Singapore*(pdf), Raffles Museum of Biodiversity Research, National\
   \ University of Singapore.\n\n- Katherine Lam and Brian Morton. 31 Aug 2009.*Oysters\
   \ (Bivalvia: Ostreidae and Gryphaeidae) recorded from Malaysia and Singapore*. Raffles\

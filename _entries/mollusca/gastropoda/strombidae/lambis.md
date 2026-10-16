@@ -10,6 +10,7 @@ genus: Lambis
 species: lambis
 attributes:
 - 100
+- 155
 inat_id: 368457
 stateofmatter: Life
 kingdom: Animalia

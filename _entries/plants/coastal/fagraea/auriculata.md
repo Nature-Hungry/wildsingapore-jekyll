@@ -25,12 +25,10 @@ subtribe: Potaliinae
 updated: Feb 11
 coverimg: https://images.naturehungry.sg/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
 links_references: "**Acknowledgements** \nWith grateful thanks to Andrew Tay for identifying\
-  \ this plant.\n\n### Links
-\n- [*Fagraea auriculata*](http://floraofsingapore.wordpress.com/2011/02/20/fagraea-auriculata/)on\
-  \ the Total Vascular Plants of Singapore blog: photos and fact sheet.\n\n### References
-\n\
-  - Tan, Hugh T.W. and T. Morgany. 2001.*[A Guide to Growing the Native Plants of\
-  \ Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
+  \ this plant.\n\n### Links \n- [*Fagraea auriculata*](http://floraofsingapore.wordpress.com/2011/02/20/fagraea-auriculata/)on\
+  \ the Total Vascular Plants of Singapore blog: photos and fact sheet.\n\n### References\
+  \ \n- Tan, Hugh T.W. and T. Morgany. 2001.*[A Guide to Growing the Native Plants\
+  \ of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*.\
   \ BP Science Centre Guidebook. 168pp.\n\n- Hsuan Keng, S.C. Chin and H. T. W. Tan.\
   \ 1990,*[The Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.\
   \ Singapore University Press. 222 pp.\n\n- Corners, E. J. H., 1997.*[Wayside Trees\

@@ -11,6 +11,7 @@ attributes:
 - 106
 - 112
 - 119
+- 155
 family: Portunidae
 genus: Thalamita
 species: danae*
@@ -121,8 +122,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Spiny claw swimming crab (
-  *Thalamita spinimana*
+  - [Spiny claw swimming crab ( *Thalamita spinimana*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83573)
 

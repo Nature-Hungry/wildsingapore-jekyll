@@ -11,6 +11,7 @@ attributes:
 - 6
 - 88
 - 102
+- 155
 family: Corallimorphidae
 genus: Corynactis
 species: ''
@@ -22,9 +23,9 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
-summary: 1.5-4cm. Tentacles many, long thin, transparent with darker ball-shaped tip.
-  Body column smooth and brightly coloured brown, blue, orange or red. Oral disk usually
-  dark. On rocks. Seen on our Northern shores.
+summary: This small animal with little balls at the tips of its transparent tentacles
+  is seen growing on hard surfaces. Rocks and coral rubble in clusters of a few individuals.
+  Sometimes seen on some of our shores.
 coverimg: https://images.naturehungry.sg/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
 galleries:
   gallery1:
@@ -131,7 +132,6 @@ zone:
 - marine
 habitats:
 - coral rubble
-summary: This small animal with little balls at the tips of its transparent tentacles is seen growing on hard surfaces. Rocks and coral rubble in clusters of a few individuals. Sometimes seen on some of our shores.
 ---
 
 ## Where seen?

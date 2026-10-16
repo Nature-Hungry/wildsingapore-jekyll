@@ -8,7 +8,8 @@ layout: entry
 family: Limidae
 genus: Limaria
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 136363
 stateofmatter: Life
 kingdom: Animalia
@@ -77,8 +78,7 @@ galleries:
 links_references: '### Links
 
 
-  - [File shells (
-  *Lima lima*
+  - [File shells ( *Lima lima*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/162)
 
@@ -88,8 +88,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - Common file clam (
-  *Lima vulgaris*
+  - Common file clam ( *Lima vulgaris*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

@@ -13,6 +13,7 @@ attributes:
 - 24
 - 92
 - 101
+- 155
 family: Cucumariidae
 genus: ''
 species: awaiting

@@ -55,8 +55,7 @@ links_references: '### Links
 
   on the teamseagrass blog.
 
-  - [Sea teak (
-  *Podocarpus polystachyus*
+  - [Sea teak ( *Podocarpus polystachyus*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1040)
 

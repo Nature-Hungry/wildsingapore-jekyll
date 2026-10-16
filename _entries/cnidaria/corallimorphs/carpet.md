@@ -9,6 +9,7 @@ attributes:
 - 6
 - 88
 - 102
+- 155
 family: Discosomidae
 genus: Rhodactis
 species: indosinensis
@@ -107,7 +108,8 @@ zone:
 - marine
 habitats:
 - coral rubble
-summary: This shaggy disk-shaped animal is commonly encountered on many of our Southern shores, on coral rubble.
+summary: This shaggy disk-shaped animal is commonly encountered on many of our Southern
+  shores, on coral rubble.
 ---
 
 ## Where seen?

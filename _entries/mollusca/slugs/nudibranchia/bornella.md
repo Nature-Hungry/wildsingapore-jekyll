@@ -7,10 +7,10 @@ keywords: bornella, nudibranchia, slug, seaslug, stellifer, opisthobranch, gastr
 layout: entry
 attributes:
 - 14
-
 - 30
 - 33
 - 90
+- 155
 family: Bornellidae
 genus: Bornella
 species: stellifer

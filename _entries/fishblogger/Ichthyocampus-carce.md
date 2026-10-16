@@ -9,6 +9,9 @@ rdb: VU
 zone:
 - marine
 - freshwater
+attributes:
+- 156
+- 155
 inat_id: 103268
 stateofmatter: Life
 kingdom: Animalia

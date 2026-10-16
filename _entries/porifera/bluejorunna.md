@@ -9,6 +9,7 @@ genus: Neopetrosia
 species: ''
 attributes:
 - 140
+- 155
 inat_id: 131793
 stateofmatter: Life
 kingdom: Animalia

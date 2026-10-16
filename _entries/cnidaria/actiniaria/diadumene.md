@@ -15,6 +15,7 @@ attributes:
 - 143
 - 6
 - 88
+- 155
 family: Diadumenidae
 genus: Diadumene
 species: lineata

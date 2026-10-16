@@ -15,6 +15,7 @@ attributes:
 - 100
 - 111
 - 123
+- 155
 family: Neritidae
 genus: Nerita
 species: undata
@@ -56,8 +57,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Waved nerite (
-  *Nerita undata*
+  - [Waved nerite ( *Nerita undata*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86842)
 
@@ -67,8 +67,7 @@ links_references: '### Links
 
   (Cycloneritimorpha: Neritidae) Undate Nerite by Rebecca Loh Ker, 2015, on taxo4254.
 
-  - Waved nerite (
-  *Nerita undata*
+  - Waved nerite ( *Nerita undata*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

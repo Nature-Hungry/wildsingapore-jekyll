@@ -6,7 +6,8 @@ layout: entry
 family: Faviidae
 genus: Diploastrea
 species: heliopora*
-attributes: []
+attributes:
+- 155
 inat_id: 50357
 stateofmatter: Life
 kingdom: Animalia
@@ -119,7 +120,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - snt
 - kus

@@ -10,6 +10,7 @@ genus: Hoplodoris
 species: nodulosa
 attributes:
 - 22
+- 155
 inat_id: 854653
 stateofmatter: Life
 kingdom: Animalia

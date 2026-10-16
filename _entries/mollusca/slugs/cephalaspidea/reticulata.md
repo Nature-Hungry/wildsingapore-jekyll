@@ -8,9 +8,10 @@ layout: entry
 family: Aglajidae
 genus: ''
 species: Philinopsis
-attributes: 
+attributes:
 - 27
 - 90
+- 155
 inat_id: 49843
 stateofmatter: Life
 kingdom: Animalia

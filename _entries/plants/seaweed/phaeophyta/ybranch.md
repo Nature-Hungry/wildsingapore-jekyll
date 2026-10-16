@@ -12,6 +12,7 @@ species: dichotoma
 attributes:
 - 97
 - 98
+- 155
 inat_id: 51024
 stateofmatter: Life
 kingdom: Chromista

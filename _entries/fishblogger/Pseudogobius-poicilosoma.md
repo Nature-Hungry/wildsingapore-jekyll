@@ -10,6 +10,9 @@ zone:
 - intertidal
 - marine
 - freshwater
+attributes:
+- 156
+- 155
 inat_id: 188142
 stateofmatter: Life
 kingdom: Animalia

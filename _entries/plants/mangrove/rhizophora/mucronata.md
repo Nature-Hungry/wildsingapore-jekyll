@@ -12,6 +12,7 @@ attributes:
 - 36
 - 68
 - 117
+- 155
 family: Rhizophoraceae
 genus: Rhizophora
 species: mucronata
@@ -48,8 +49,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bakau kurap (
-  *Rhizophora mucronata*](http://mangrove.nus.edu.sg/guidebooks/text/1070)
+  - [Bakau kurap ( *Rhizophora mucronata*](http://mangrove.nus.edu.sg/guidebooks/text/1070)
 
   ) Ng, Peter K. L. & N. Sivasothi, 1999.
 

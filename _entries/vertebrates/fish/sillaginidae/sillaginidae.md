@@ -1,7 +1,8 @@
 ---
 title: 'Whitings '
 description: Fact sheet of Whitings  on the shores of Singapore
-keywords: sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
@@ -10,6 +11,7 @@ attributes:
 - 70
 - 106
 - 108
+- 155
 family: Sillaginidae
 genus: ''
 species: ''
@@ -104,7 +106,8 @@ links_references: '### Links
 
   [Coastal Fishes of Indonesia: Field Guide to Lombok Island](http://research.kahaku.go.jp/zoology/FishGuide/index.html)
 
-  by Keiichi Matsuura, Seishi Kimura and Teguh Peristiwady on the National Science Museum, Tokyo website: factsheets with photos and descriptions.
+  by Keiichi Matsuura, Seishi Kimura and Teguh Peristiwady on the National Science
+  Museum, Tokyo website: factsheets with photos and descriptions.
 
 
   ### References

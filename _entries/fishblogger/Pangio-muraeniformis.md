@@ -8,6 +8,8 @@ species: muraeniformis
 rdb: CR
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 611900
 stateofmatter: Life
 kingdom: Animalia

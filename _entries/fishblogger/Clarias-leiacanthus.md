@@ -8,6 +8,8 @@ species: leiacanthus
 rdb: VU
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 611728
 stateofmatter: Life
 kingdom: Animalia

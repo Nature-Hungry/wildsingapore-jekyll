@@ -1,5 +1,5 @@
 ---
-title: 'Pencil squids'
+title: Pencil squids
 description: Fact sheet of Pencil squids  on the shores of Singapore
 keywords: pencil, squid, loliginidae, cephalopod, mollusc, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -7,7 +7,8 @@ layout: entry
 family: Loliginidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 49441
 stateofmatter: Life
 kingdom: Animalia

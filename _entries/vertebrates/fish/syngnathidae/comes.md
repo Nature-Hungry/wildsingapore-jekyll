@@ -12,6 +12,7 @@ attributes:
 - 25
 - 47
 - 74
+- 155
 family: Syngnathidae
 genus: Hippocampus
 species: comes
@@ -124,8 +125,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Tiger tail seahorse (
-  *Hippocampus comes*
+  - [Tiger tail seahorse ( *Hippocampus comes*
 
   )](http://www.fishbase.org/summary/53792)
 

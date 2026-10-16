@@ -9,6 +9,7 @@ genus: Higginsia
 species: ''
 attributes:
 - 140
+- 155
 inat_id: 247180
 stateofmatter: Life
 kingdom: Animalia

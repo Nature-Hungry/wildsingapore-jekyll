@@ -11,6 +11,7 @@ attributes:
 - 25
 - 43
 - 47
+- 155
 family: Plotosidae
 genus: Plotosus
 species: lineatus
@@ -79,8 +80,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Striped eeltail catfish (
-  *Plotosus lineatus*
+  - [Striped eeltail catfish ( *Plotosus lineatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/226)
 
@@ -92,8 +92,7 @@ links_references: '### Links
 
   [http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706)
 
-  - [Striped eel-catfish (
-  *Plotosus lineatus*
+  - [Striped eel-catfish ( *Plotosus lineatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4706)
 
@@ -172,7 +171,7 @@ size:
 rdb: LC
 trivia_title: if you learn only 3 things about it ..
 trivia_items:
-- Often seen in a group of many fishes, for safety. Don't break up the group! 
+- Often seen in a group of many fishes, for safety. Don't break up the group!
 - The 'whiskers' don't sting They are used to find food in murky waters
 - It has venomous spines. Don't touch it!
 authors:

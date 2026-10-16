@@ -8,6 +8,8 @@ species: sellifer
 rdb: VU
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 1359879
 stateofmatter: Life
 kingdom: Animalia

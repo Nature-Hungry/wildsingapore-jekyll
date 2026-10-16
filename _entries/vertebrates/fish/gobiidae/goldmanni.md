@@ -10,6 +10,7 @@ attributes:
 - 47
 - 106
 - 108
+- 155
 family: Gobiidae
 genus: Istigobius
 species: goldmanni
@@ -52,8 +53,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Goldman''s goby (
-  *Istigobius goldmanni*
+  - [Goldman''s goby ( *Istigobius goldmanni*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=4327)
 

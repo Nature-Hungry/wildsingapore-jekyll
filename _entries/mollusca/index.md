@@ -1,14 +1,15 @@
 ---
-title: "Molluscs"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "mollusc, mollusca, mollusk, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+title: Molluscs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: mollusc, mollusca, mollusk, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 stateofmatter: Life
 kingdom: Animalia
 phylum: Mollusca
 permalink: /entries/Mollusca
 updated: Sep 2020
-trivia_title: "if you learn only 3 things about them ..."
+trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - Besides shelled snails, molluscs include slugs, octopuses, squids and cuttlefishes.
 - They have a tongue that is specialised to eat their food or prey.
@@ -18,25 +19,31 @@ authors:
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/umbonium/050206cjd0010m.jpg
-    caption: "Snails with shells. *Chek Jawa, Feb 05*"
+    caption: Snails with shells. *Chek Jawa, Feb 05*
   - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/050509hntd3208m.jpg
-    caption: "Limpets are one of the many gastropod groups. *Pulau Hantu, May 05*"
+    caption: Limpets are one of the many gastropod groups. *Pulau Hantu, May 05*
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/040409tusad0040m.jpg
-    caption: "Nudibranchs are among the most colourful marine creatures. *Tuas, Apr 04*"
+    caption: Nudibranchs are among the most colourful marine creatures. *Tuas, Apr
+      04*
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m.jpg
-    caption: "The Giant clam is among the largest bivalves on our shore. *Sisters Island, Jan 04*"
+    caption: The Giant clam is among the largest bivalves on our shore. *Sisters Island,
+      Jan 04*
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/reefoctopus/040507rlhad0030m.jpg
-    caption: "An octopus can be surprisingly clever and well camouflaged. *Pulau Hantu, May 04*"
+    caption: An octopus can be surprisingly clever and well camouflaged. *Pulau Hantu,
+      May 04*
   - url: https://images.naturehungry.sg/mollusca/cephalopoda/sqindian/030712hntbd0022m.jpg
-    caption: "Squids are fast-moving molluscs. *Pulau Hantu, Jul 03*"
+    caption: Squids are fast-moving molluscs. *Pulau Hantu, Jul 03*
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/polyplacophora/chiton/090922sjid1570m.jpg
-    caption: "A chiton is a mollusc too, although its shell is made of plates. *Pulau Semakau, Sep 09*"
+    caption: A chiton is a mollusc too, although its shell is made of plates. *Pulau
+      Semakau, Sep 09*
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/060612cftd2847m3.jpg
-    caption: "Moon snails can expand to be far bigger than their shell. *Changi, Jun 06*"
+    caption: Moon snails can expand to be far bigger than their shell. *Changi, Jun
+      06*
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/funebris/050329sntg3856m3.jpg
-    caption: "The white colour of this polka-dot nudibranch warns that it is not good to eat. *Sentosa, Mar 05*"
+    caption: The white colour of this polka-dot nudibranch warns that it is not good
+      to eat. *Sentosa, Mar 05*
 ---
 
 ## Where seen?

@@ -12,6 +12,7 @@ attributes:
 - 25
 - 47
 - 74
+- 155
 family: Syngnathidae
 genus: Hippocampus
 species: kuda
@@ -101,8 +102,7 @@ links_references: '### Links
 
   - ****
 
-  [Seahorse (
-  *Hippocampus*
+  [Seahorse ( *Hippocampus*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/229)
 
@@ -112,8 +112,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Spotted Seahorse (
-  *Hippocampus kuda*
+  - [Spotted Seahorse ( *Hippocampus kuda*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/248)
 
@@ -125,8 +124,7 @@ links_references: '### Links
 
   Singapore Science Centre. 163 pp.
 
-  - [Spotted seahorse (
-  *Hippocampus kuda*
+  - [Spotted seahorse ( *Hippocampus kuda*
 
   )](http://www.fishbase.org/summary/5955)
 

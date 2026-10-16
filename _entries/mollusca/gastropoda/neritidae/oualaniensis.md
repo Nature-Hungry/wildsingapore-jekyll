@@ -10,8 +10,9 @@ genus: Clithon
 species: oualaniensis
 attributes:
 - 23
-- 75 
+- 75
 - 100
+- 155
 inat_id: 503068
 stateofmatter: Life
 kingdom: Animalia
@@ -64,15 +65,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Guamanian nerite (
-  *Clithon oualaniensis*
+  - [Guamanian nerite ( *Clithon oualaniensis*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=90111&genusname=Clithon&speciesname=oualaniensis)
 
   on SeaLife Base: Technical fact sheet.
 
-  - [Guamanian nerite (
-  *Clithon oualaniensis*
+  - [Guamanian nerite ( *Clithon oualaniensis*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=188)
 

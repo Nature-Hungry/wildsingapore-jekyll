@@ -10,6 +10,7 @@ attributes:
 - 47
 - 69
 - 70
+- 155
 family: Terapontidae
 genus: Pelates
 species: quadrilineatus
@@ -47,8 +48,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Trumpeter Perch (
-  *Pelates quadrilineatus*
+  - [Trumpeter Perch ( *Pelates quadrilineatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/271)
 
@@ -62,8 +62,7 @@ links_references: '### Links
 
   from NParks Flora and Fauna website.
 
-  - [Fourlined terapon (
-  *Pelates quadrilineatus*
+  - [Fourlined terapon ( *Pelates quadrilineatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7945)
 

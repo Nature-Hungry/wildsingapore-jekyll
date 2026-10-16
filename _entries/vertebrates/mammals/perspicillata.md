@@ -8,7 +8,8 @@ layout: entry
 family: Mustelidae
 genus: Lutrogale
 species: perspicillata
-attributes: []
+attributes:
+- 155
 inat_id: 1638842
 stateofmatter: Life
 kingdom: Animalia
@@ -50,8 +51,7 @@ links_references: '### Links
 
   (Carnivora: Mustelidae) Smooth-coated Otter by Tan Jia Xiu, 2015, on taxo4254.
 
-  - [Group of ten smooth-coated otters (
-  *Lutrogale perspicillata*
+  - [Group of ten smooth-coated otters ( *Lutrogale perspicillata*
 
   ) at Pulau Ubin](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-064.pdf)
 
@@ -61,9 +61,11 @@ links_references: '### Links
 
   .
 
-  - [Smooth Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Smooth Otter](http://www.ecologyasia.com/verts/mammals/smooth_otter.htm) on Nick
+  Baker''s EcologyAsia website: fact sheet with photos.
 
-  - [Ring Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water.htm) on Nick Baker''s EcologyAsia website
+  - [Ring Of Bright Water, a close encounter with the otters of Sungei Buloh](http://www.ecologyasia.com/html-loc/ring-of-bright-water.htm)
+  on Nick Baker''s EcologyAsia website
 
   - From
 

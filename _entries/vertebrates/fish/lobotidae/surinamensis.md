@@ -11,6 +11,7 @@ attributes:
 - 25
 - 42
 - 47
+- 155
 family: Lobotidae
 genus: Lobotes
 species: surinamensis
@@ -44,8 +45,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Atlantic Tripletail (
-  *Lobotes surinamensis*
+  - [Atlantic Tripletail ( *Lobotes surinamensis*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=1077&genusname=Lobotes&speciesname=surinamensis)
 

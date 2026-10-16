@@ -1,12 +1,15 @@
 ---
 title: Stonefishes
 description: Fact sheet of Stonefishes on the shores of Singapore
-keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Synanceiidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 64494
 stateofmatter: Life
 kingdom: Animalia
@@ -113,7 +116,8 @@ links_references: '### Links
 
   [Australian Museum Fish Site](http://www.amonline.net.au/fishes/fishfacts/)
 
-  on the Australian Museum Online website: fact sheet with photos and video clips of these fishes on the move.
+  on the Australian Museum Online website: fact sheet with photos and video clips
+  of these fishes on the move.
 
 
   ### References

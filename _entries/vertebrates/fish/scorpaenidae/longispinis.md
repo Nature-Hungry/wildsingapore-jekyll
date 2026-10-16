@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Scorpaenidae
 genus: Paracentropogon
 species: longispinis
@@ -70,8 +71,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Long-spine scorpionfish (
-  *Paracentropogon longispinis*
+  - [Long-spine scorpionfish ( *Paracentropogon longispinis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/255)
 
@@ -87,8 +87,7 @@ links_references: '### Links
 
   and
 
-  [Wispy waspfish (
-  *Paracentropogon longispinus*
+  [Wispy waspfish ( *Paracentropogon longispinus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=12043)
 

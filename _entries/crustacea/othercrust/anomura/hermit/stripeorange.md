@@ -8,6 +8,7 @@ layout: entry
 attributes:
 - 38
 - 54
+- 155
 family: Diogenidae
 genus: Clibanarius
 species: infraspinatus*
@@ -61,8 +62,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Mangrove hermit crab (
-  *Clibanarius*
+  - [Mangrove hermit crab ( *Clibanarius*
 
   sp.) Family Diogenidae](http://mangrove.nus.edu.sg/guidebooks/text/2062)
 
@@ -155,7 +155,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They come in orange, red and blue
-- Every empty shell is a potential hermit crab home. Don't take any shells home! 
+- Every empty shell is a potential hermit crab home. Don't take any shells home!
 - Many other animals live together with a hermit crab. Look for them.
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

@@ -9,6 +9,7 @@ genus: Coelocarteria
 species: singaporensis
 attributes:
 - 160
+- 155
 inat_id: 710245
 stateofmatter: Life
 kingdom: Animalia

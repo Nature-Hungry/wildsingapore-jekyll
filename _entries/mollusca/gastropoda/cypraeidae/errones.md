@@ -13,6 +13,7 @@ attributes:
 - 111
 - 123
 - 127
+- 155
 family: Cypraeidae
 genus: Erronea
 species: errones
@@ -63,8 +64,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Wandering Cowrie (
-  *Cypraea errones*
+  - [Wandering Cowrie ( *Cypraea errones*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/141)
 

@@ -9,6 +9,7 @@ genus: Gelliodes
 species: fibulata
 attributes:
 - 140
+- 155
 inat_id: 604340
 stateofmatter: Life
 kingdom: Animalia

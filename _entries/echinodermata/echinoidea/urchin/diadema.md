@@ -13,6 +13,7 @@ attributes:
 - 92
 - 93
 - 94
+- 155
 family: Diadematidae
 genus: Diadema
 species: setosum
@@ -129,8 +130,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Black sea urchin (
-  *Diadema setosum*
+  - [Black sea urchin ( *Diadema setosum*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/223)
 

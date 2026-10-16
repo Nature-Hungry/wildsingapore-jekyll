@@ -1,12 +1,14 @@
 ---
 title: 'Emperors '
 description: Fact sheet of Emperors  on the shores of Singapore
-keywords: emperor, fish, lethrinidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: emperor, fish, lethrinidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Lethrinidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 55207
 stateofmatter: Life
 kingdom: Animalia
@@ -74,7 +76,8 @@ links_references: '### Links
 
   - [Volume 5: Bony fishes part 3 (Menidae to Pomacentridae)](http://www.fao.org/docrep/009/y0770e/y0770e00)
 
-  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources of the Western Central Pacific.
+  FAO Species Identification Guide for Fishery Purposes The Living Marine Resources
+  of the Western Central Pacific.
 
 
   ### References

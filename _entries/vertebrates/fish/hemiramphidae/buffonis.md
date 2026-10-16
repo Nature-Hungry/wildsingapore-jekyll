@@ -11,6 +11,7 @@ attributes:
 - 25
 - 47
 - 116
+- 155
 family: Zenarchopteridae
 genus: Zenarchopterus
 species: buffonis
@@ -33,8 +34,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Striped-nose Halfbeak (
-  *Zenarchopterus buffonis*
+  - [Striped-nose Halfbeak ( *Zenarchopterus buffonis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/237)
 
@@ -58,8 +58,7 @@ links_references: '### Links
 
   on the Ecology Asia website: fact sheet with photos.
 
-  - [Buffon''s river-garfish (
-  *Zenarchopterus buffonis*
+  - [Buffon''s river-garfish ( *Zenarchopterus buffonis*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=17041)
 

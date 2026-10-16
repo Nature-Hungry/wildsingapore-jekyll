@@ -9,6 +9,7 @@ genus: Clathria
 species: reinwardti
 attributes:
 - 140
+- 155
 inat_id: 1432650
 stateofmatter: Life
 kingdom: Animalia

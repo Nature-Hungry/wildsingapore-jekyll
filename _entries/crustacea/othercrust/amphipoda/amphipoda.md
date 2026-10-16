@@ -1,12 +1,14 @@
 ---
 title: 'Amphipods '
 description: Fact sheet of Amphipods  on the shores of Singapore
-keywords: sand, beach, flea, amphipod, crustacea,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
+keywords: sand, beach, flea, amphipod, crustacea,  field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Caprellidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 47626
 stateofmatter: Life
 kingdom: Animalia
@@ -74,7 +76,8 @@ links_references: '### Links
 
   [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1.html)
 
-  by Keith Davey on the Marine Education Society of Australia website: Fact sheet, diagrams.
+  by Keith Davey on the Marine Education Society of Australia website: Fact sheet,
+  diagrams.
 
   - [World Amphipoda Database](http://www.marinespecies.org/amphipoda/)
 
@@ -92,7 +95,8 @@ links_references: '### Links
 
   *Rhythm of the Sea: The Life and Times of Labrador Beach.*
 
-  Division of Biology, School of Science, Nanyang Technological University & Department of Zoology, the National University of Singapore. 160 pp.
+  Division of Biology, School of Science, Nanyang Technological University & Department
+  of Zoology, the National University of Singapore. 160 pp.
 
   '
 location:

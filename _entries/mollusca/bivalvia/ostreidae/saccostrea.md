@@ -8,8 +8,9 @@ layout: entry
 family: Osteridae
 genus: Saccostrea
 species: cuccullata*
-attributes: 
+attributes:
 - 34
+- 155
 inat_id: 482639
 stateofmatter: Life
 kingdom: Animalia
@@ -33,8 +34,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Edible Rock Oyster (
-  *Saccostrea*
+  - [Edible Rock Oyster ( *Saccostrea*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/164)
 
@@ -46,8 +46,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - Hooded oysters (
-  *Saccostrea cuccullata*
+  - Hooded oysters ( *Saccostrea cuccullata*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

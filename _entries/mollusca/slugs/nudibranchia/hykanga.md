@@ -10,6 +10,7 @@ genus: Hypselodoris
 species: kanga
 attributes:
 - 22
+- 155
 inat_id: 473492
 stateofmatter: Life
 kingdom: Animalia

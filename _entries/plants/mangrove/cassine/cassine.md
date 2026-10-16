@@ -1,7 +1,9 @@
 ---
 title: Kempudang baran
 description: Fact sheet of Kempudang baran  on the shores of Singapore
-keywords: cassine, viburnifolia, celastraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: cassine, viburnifolia, celastraceae, tree, mangrove, mangroves, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes:
 - 16
@@ -10,6 +12,7 @@ attributes:
 - 36
 - 68
 - 80
+- 155
 kingdom: Plantae
 phylum: Tracheophyta
 subphylum: Angiospermae
@@ -27,7 +30,8 @@ galleries:
   - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0137m3.jpg
     caption: Leaves with scalloped edges. Sungei Buloh Wetland Reserve, Sep 09
   - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090816sbwrd9075m3.jpg
-    caption: Sungei Buloh Wetland Reserve, Aug 09 Sungei Buloh Wetland Reserve, Mar 11
+    caption: Sungei Buloh Wetland Reserve, Aug 09 Sungei Buloh Wetland Reserve, Mar
+      11
   gallery2:
   - url: https://images.naturehungry.sg/plants/mangrove/cassine/cassine/090905sbwrd0135m3b.jpg
     caption: Sungei Buloh Wetland Reserve, Sep 09
@@ -50,7 +54,8 @@ links_references: '### Links
 
   [*Mangrove Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00)
 
-  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization of the United Nations Regional Office for Asia and the Pacific Bangkok.
+  (PDF online downloadable). RAP publication 2006/07 Food and Agriculture Organization
+  of the United Nations Regional Office for Asia and the Pacific Bangkok.
 
 
   ### References
@@ -78,7 +83,8 @@ links_references: '### Links
 
   *A Dictionary of the Economic Products of the Malay Peninsula*
 
-  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+  . 3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
+  Volume 1: 1-1240; volume 2: 1241-2444.
 
   '
 size:

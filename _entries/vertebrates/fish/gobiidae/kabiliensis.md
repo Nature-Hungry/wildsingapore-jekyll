@@ -10,6 +10,7 @@ attributes:
 - 47
 - 106
 - 108
+- 155
 family: Gobiidae
 genus: Brachygobius
 species: kabiliensis
@@ -37,8 +38,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bumblebee goby (
-  *Brachygobius kabillensis*
+  - [Bumblebee goby ( *Brachygobius kabillensis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2107)
 
@@ -48,8 +48,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 168 pp.
 
-  - [Kabili bumblebee goby (
-  *Brachygobius kabiliensis*
+  - [Kabili bumblebee goby ( *Brachygobius kabiliensis*
 
   )](http://www.fishbase.org/summary/speciessummary.php?id=25067)
 

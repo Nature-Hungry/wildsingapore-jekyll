@@ -8,7 +8,8 @@ layout: entry
 family: Luidiidae
 genus: Luidia
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 122245
 stateofmatter: Life
 kingdom: Animalia

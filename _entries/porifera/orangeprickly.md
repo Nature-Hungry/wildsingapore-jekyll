@@ -9,6 +9,7 @@ genus: Mycale
 species: parishi*
 attributes:
 - 161
+- 155
 inat_id: 676748
 stateofmatter: Life
 kingdom: Animalia

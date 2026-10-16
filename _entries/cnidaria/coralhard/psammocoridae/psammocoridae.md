@@ -1,12 +1,15 @@
 ---
-title: 'Sandpaper corals'
+title: Sandpaper corals
 description: Fact sheet of Sandpaper corals  on the shores of Singapore
-keywords: sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Psammocoridae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 503716
 stateofmatter: Life
 kingdom: Animalia
@@ -55,7 +58,8 @@ links_references: '### Links
 
   - *[Psammocora](http://species-identification.org/species.php?species_group=corals&id=126&menuentry=groepen)*
 
-  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal: Technical fact sheet.
+  on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification Portal:
+  Technical fact sheet.
 
   - *[Psammocora digitata](http://www.sealifebase.org/Summary/speciesSummary.php?ID=45488)*
 
@@ -67,7 +71,8 @@ links_references: '### Links
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -95,7 +100,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp.
 
- '
+  '
 location:
 - cj
 - skd

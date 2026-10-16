@@ -8,7 +8,8 @@ layout: entry
 family: Pseudocerotidae
 genus: Nymphozoon
 species: bayeri
-attributes: []
+attributes:
+- 155
 inat_id: 574906
 stateofmatter: Life
 kingdom: Animalia

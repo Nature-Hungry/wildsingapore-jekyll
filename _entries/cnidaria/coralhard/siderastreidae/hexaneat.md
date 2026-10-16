@@ -8,7 +8,8 @@ layout: entry
 family: Siderastreidae
 genus: Pseudosiderastrea
 species: tayamai*
-attributes: []
+attributes:
+- 155
 inat_id: 368134
 stateofmatter: Life
 kingdom: Animalia
@@ -67,7 +68,7 @@ links_references: '### Links
 
   Australian Institute of Marine Science, Australia. 3 volumes.
 
- '
+  '
 location:
 - chg
 - ubn

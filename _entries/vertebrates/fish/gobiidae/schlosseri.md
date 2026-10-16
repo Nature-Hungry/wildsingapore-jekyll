@@ -12,6 +12,7 @@ attributes:
 - 25
 - 47
 - 72
+- 155
 family: Gobiidae
 genus: Periophthalmodon
 species: schlosseri
@@ -49,8 +50,7 @@ galleries:
     caption: The poor fish often a target of mosquitoes!
   - url: https://images.naturehungry.sg/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3b.jpg
     caption: ''
-links_references: "### Links
-\n- [Giant mudskipper (\n*Periophthalmodon schlosseri*\n\
+links_references: "### Links \n- [Giant mudskipper (\n*Periophthalmodon schlosseri*\n\
   )](http://mangrove.nus.edu.sg/guidebooks/text/2106)\nNg, Peter K. L. & N. Sivasothi,\
   \ 1999.\n*[A Guide to the Mangroves of Singapore II (Animal Diversity)](http://mangrove.nus.edu.sg/guidebooks/)*\n\
   . Singapore Science Centre. 168 pp.\n- [Giant mudskipper (\n*Periophthalmodon schlosseri*\n\
@@ -63,16 +63,15 @@ links_references: "### Links
   \ Technical fact sheet with lots of photos.\n- [Giant mudskipper (\n*Periophthalmodon\
   \ schlosseri*\n)](http://www.fishbase.org/Summary/SpeciesSummary.php?id=8414)\n\
   from\n[FishBase](http://www.fishbase.org/)\n: Technical fact sheet.\n- [Giant mudskipper](http://www.ecologyasia.com/verts/brackish-fishes/giant-mudskipper)\n\
-  on\n[EcologyAsia](http://www.ecologyasia.com/)\n: photos and fact sheet.\n\n### References
-\n\
-  - Tan Heok Hui and Theresa Su . 28 Oct 2016.\n*Possible courtship behaviour of the\
-  \ giant mudskipper*\n. Singapore Biodiversity Records 2016: 149-150.\n- Theresa\
-  \ L. Su & Shirley S. L. Lim. 12 August 2016.\n*Niche partitioning in two syntopic\
-  \ mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore mangrove*\n\
-  . Raffles Bulletin of Zoology 64: 220\u2013228.\n- Serin Subaraj. 23 October 2015.\n\
-  *Giant mudskipper preying on crab-eating water snake*\n. Singapore Biodiversity\
-  \ Records 2015: 163\n- S.Z. Zulkifli, F. Mohamat-Yusuff, A. Ismail, N. Miyazaki.\
-  \ 30 April 2012.\n"
+  on\n[EcologyAsia](http://www.ecologyasia.com/)\n: photos and fact sheet.\n\n###\
+  \ References \n- Tan Heok Hui and Theresa Su . 28 Oct 2016.\n*Possible courtship\
+  \ behaviour of the giant mudskipper*\n. Singapore Biodiversity Records 2016: 149-150.\n\
+  - Theresa L. Su & Shirley S. L. Lim. 12 August 2016.\n*Niche partitioning in two\
+  \ syntopic mudskipper species (Teleostei: Gobiidae: Oxudercinae) in a Singapore\
+  \ mangrove*\n. Raffles Bulletin of Zoology 64: 220\u2013228.\n- Serin Subaraj. 23\
+  \ October 2015.\n*Giant mudskipper preying on crab-eating water snake*\n. Singapore\
+  \ Biodiversity Records 2015: 163\n- S.Z. Zulkifli, F. Mohamat-Yusuff, A. Ismail,\
+  \ N. Miyazaki. 30 April 2012.\n"
 location:
 - sbw
 - prp

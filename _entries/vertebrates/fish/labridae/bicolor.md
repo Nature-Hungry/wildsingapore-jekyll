@@ -10,6 +10,7 @@ attributes:
 - 47
 - 69
 - 70
+- 155
 family: Labridae
 genus: Halichoeres
 species: bicolor
@@ -87,8 +88,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Brown-stripe Wrasse (
-  *Halichoeres bicolor*
+  - [Brown-stripe Wrasse ( *Halichoeres bicolor*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/350)
 

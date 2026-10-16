@@ -9,6 +9,7 @@ attributes:
 - 2
 - 33
 - 73
+- 155
 family: Cardiidae
 genus: Corculum
 species: cardissa
@@ -66,15 +67,13 @@ galleries:
 links_references: '### Links
 
 
-  - [True heart cockle (
-  *Corculum cardissa*
+  - [True heart cockle ( *Corculum cardissa*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84534)
 
   on SeaBase Life: Technical fact sheet.
 
-  - True heart cockle (
-  *Corculum cardissa*
+  - True heart cockle ( *Corculum cardissa*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

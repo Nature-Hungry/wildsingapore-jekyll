@@ -13,6 +13,7 @@ attributes:
 - 47
 - 58
 - 60
+- 155
 family: Haemulidae
 genus: Plectorhinchus
 species: gibbosus
@@ -80,8 +81,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Brown Sweetlips or Harry Hotlips (
-  *Plectorhinchus gibbosus*
+  - [Brown Sweetlips or Harry Hotlips ( *Plectorhinchus gibbosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/285)
 
@@ -91,8 +91,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Harry Hotlips (
-  *Plectorhinchus gibbosus*
+  - [Harry Hotlips ( *Plectorhinchus gibbosus*
 
   )](http://www.fishbase.org/Summary/speciesSummary.php?ID=6366&genusname=Plectorhinchus&speciesname=gibbosus)
 

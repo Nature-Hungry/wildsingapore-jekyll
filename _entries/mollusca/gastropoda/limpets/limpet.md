@@ -7,6 +7,7 @@ keywords: limpet, lottiidae, nacellidae, siphonariidae, fissurellidae, gastropod
 layout: entry
 attributes:
 - 100
+- 155
 genus: ''
 species: ''
 inat_id: 47582

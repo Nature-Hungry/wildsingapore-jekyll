@@ -11,6 +11,7 @@ species: militaris
 attributes:
 - 90
 - 26
+- 155
 inat_id: 349137
 stateofmatter: Life
 kingdom: Animalia

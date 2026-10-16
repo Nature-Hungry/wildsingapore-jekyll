@@ -1,5 +1,5 @@
 ---
-title: 'Dendrophylliid corals'
+title: Dendrophylliid corals
 description: Fact sheet of Dendrophylliid corals  on the shores of Singapore
 keywords: disk, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
@@ -8,7 +8,8 @@ layout: entry
 family: Dendrophylliidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 51800
 stateofmatter: Life
 kingdom: Animalia
@@ -99,7 +100,7 @@ links_references: '### Links
 
   . The Nature Society (Singapore), Singapore. 343 pp.
 
- '
+  '
 location: []
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

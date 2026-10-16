@@ -11,6 +11,7 @@ attributes:
 - 25
 - 43
 - 47
+- 155
 family: Blennidae
 genus: Petroscirtes
 species: variabilis
@@ -76,8 +77,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Variable Fang-blenny (
-  *Petroscirtes variabilis*
+  - [Variable Fang-blenny ( *Petroscirtes variabilis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/357)
 
@@ -87,8 +87,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Variable sabretooth blenny (
-  *Petroscirtes variabilis*
+  - [Variable sabretooth blenny ( *Petroscirtes variabilis*
 
   )](http://fishbase.org/Summary/SpeciesSummary.php?ID=6076)
 

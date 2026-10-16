@@ -11,6 +11,7 @@ genus: Littoraria
 species: melanostoma
 attributes:
 - 100
+- 155
 inat_id: 541099
 stateofmatter: Life
 kingdom: Animalia
@@ -38,8 +39,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Mangrove periwinkle (
-  *Littoraria*
+  - [Mangrove periwinkle ( *Littoraria*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2080)
 

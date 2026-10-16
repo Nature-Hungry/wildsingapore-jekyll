@@ -9,6 +9,7 @@ genus: Suberites
 species: ''
 attributes:
 - 161
+- 155
 inat_id: 180012
 stateofmatter: Life
 kingdom: Animalia

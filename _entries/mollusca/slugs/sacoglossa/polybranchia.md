@@ -8,10 +8,10 @@ keywords: polybranchia, phyllobranchus, phyllobranchillus, orientalis, slug, sea
 layout: entry
 attributes:
 - 14
-
 - 30
 - 33
 - 90
+- 155
 family: Caliphyllidae
 genus: Polybranchia
 species: orientalis
@@ -52,23 +52,21 @@ galleries:
     caption: Beting Bronok, Jul 07 Photo shared by Marcus Ng on flickr .
   - url: https://images.naturehungry.sg/mollusca/slugs/sacoglossa/polybranchia/130723ecplks.JPG
     caption: East Coast Park, Jul 13 Photo shared by Loh Kok Sheng on flickr .
-links_references: "### Links
-\n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
+links_references: "### Links \n- [The Sea Slug Forum](http://www.seaslugforum.net/)\n\
   by Dr Bill Rudman: photos and fact sheet on\n[*Polybranchia orientalis*](http://www.seaslugforum.net/factsheet.cfm?base=polyorie)\n\
   .\n- [The Slug Site](http://slugsite.us/)\nBranch of the Week: photo and fact sheet\
-  \ on\n*[Polybranchia orientalis](http://slugsite.us/bow/nudwk353)*\n\n### References
-\n\
-  - Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The Molluscs\
-  \ of Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National University\
-  \ of Singapore.\n- Debelius, Helmut, 2001.\n*Nudibranchs and Sea Snails: Indo-Pacific\
-  \ Field Guide*\nIKAN-Unterwasserachiv, Frankfurt. 321 pp.\n- Wells, Fred E. and\
-  \ Clayton W. Bryce. 2000.\n*Slugs of Western Australia: A guide to the species from\
-  \ the Indian to West Pacific Oceans*\n. Western Australian Museum. 184 pp.\n- Humann,\
-  \ Paul and Ned Deloach. 2010.\n*Reef Creature Identification: Tropical Pacific*\n\
-  New World Publications. 497pp.\n- Kuiter, Rudie H and Helmut Debelius. 2009.\n*World\
-  \ Atlas of Marine Fauna*\n. IKAN-Unterwasserachiv. 723pp.\n- Coleman, Neville. 2001.\n\
-  *1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*\n. Neville Coleman\u2019\
-  s Underwater Geographic Pty Ltd, Australia.144pp.\n"
+  \ on\n*[Polybranchia orientalis](http://slugsite.us/bow/nudwk353)*\n\n### References\
+  \ \n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary Checklist of The\
+  \ Molluscs of Singapore*\n(pdf), Raffles Museum of Biodiversity Research, National\
+  \ University of Singapore.\n- Debelius, Helmut, 2001.\n*Nudibranchs and Sea Snails:\
+  \ Indo-Pacific Field Guide*\nIKAN-Unterwasserachiv, Frankfurt. 321 pp.\n- Wells,\
+  \ Fred E. and Clayton W. Bryce. 2000.\n*Slugs of Western Australia: A guide to the\
+  \ species from the Indian to West Pacific Oceans*\n. Western Australian Museum.\
+  \ 184 pp.\n- Humann, Paul and Ned Deloach. 2010.\n*Reef Creature Identification:\
+  \ Tropical Pacific*\nNew World Publications. 497pp.\n- Kuiter, Rudie H and Helmut\
+  \ Debelius. 2009.\n*World Atlas of Marine Fauna*\n. IKAN-Unterwasserachiv. 723pp.\n\
+  - Coleman, Neville. 2001.\n*1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*\n\
+  . Neville Coleman\u2019s Underwater Geographic Pty Ltd, Australia.144pp.\n"
 location:
 - chg
 - cj

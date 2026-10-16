@@ -8,10 +8,11 @@ layout: entry
 family: Aplysiidae
 genus: Bursatella
 species: leachii
-attributes: 
+attributes:
 - 27
 - 26
 - 90
+- 155
 inat_id: 50559
 stateofmatter: Life
 kingdom: Animalia

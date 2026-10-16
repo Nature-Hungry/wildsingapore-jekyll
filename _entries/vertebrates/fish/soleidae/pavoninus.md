@@ -11,6 +11,7 @@ attributes:
 - 47
 - 49
 - 81
+- 155
 family: Soleidae
 genus: Pardachirus
 species: pavoninus
@@ -105,8 +106,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Peacock Sole (
-  *Pardachirus pavoninus*
+  - [Peacock Sole ( *Pardachirus pavoninus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/385)
 
@@ -116,8 +116,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp. Family Soleidae .
 
-  - [Peacock sole (
-  *Pardachirus pavoninus*
+  - [Peacock sole ( *Pardachirus pavoninus*
 
   )](http://www.fishbase.org/summary/8271)
 

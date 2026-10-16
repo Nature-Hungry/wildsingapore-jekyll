@@ -8,7 +8,8 @@ layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
 species: caeruleocinctus
-attributes: []
+attributes:
+- 155
 inat_id: 711149
 stateofmatter: Life
 kingdom: Animalia
@@ -26,14 +27,12 @@ galleries:
     caption: Pseudotentacles made up of folded edges of body margin.
   - url: https://images.naturehungry.sg/worm/polycladida/sapphirinus/200310lazvc1.jpg
     caption: Lazarus, Mar 20 Photo shared by VIncent Choo on facebook .
-links_references: "### Links
-\n- [*Pseudoceros sapphirinus*](http://polycladida.lifedesks.org/pages/3132)\n\
+links_references: "### Links \n- [*Pseudoceros sapphirinus*](http://polycladida.lifedesks.org/pages/3132)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n### References
-\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
-  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
-  \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1os,\
-  \ B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\
+  \ sheet.\n\n### References \n- Rene S.L. Ong and Samantha J.W. Tong. 29 October\
+  \ 2018.\n*A preliminary checklist and photographic catalogue of polyclad flatworms\
+  \ recorded from Singapore.*\nNature in Singapore 2018 11: 77\u2013125\n- D. M. Bola\xF1\
+  os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\
   \ (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with\
   \ remarks on colour variation*\n.(pdf) The Raffles Bulletin of Zoology Supplement\
   \ No. 34: 130-169 Pp. 130-169.\n- Newman, L.J. & Cannon, L.R.G.\n*Pseudoceros (Platyhelminthes:\

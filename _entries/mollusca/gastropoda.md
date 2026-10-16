@@ -1,7 +1,9 @@
 ---
-title: "Snails and slugs"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "slug, snail, shell, gastropod, mollusc, mollusk, mollusca, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: Snails and slugs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: slug, snail, shell, gastropod, mollusc, mollusk, mollusca, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 stateofmatter: Life
 kingdom: Animalia
@@ -9,7 +11,7 @@ phylum: Mollusca
 class: Gastropoda
 updated: Sep 2020
 permalink: /entries/Mollusca/Gastropoda/
-trivia_title: "if you learn only 3 things about them ..."
+trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - The shape of the shell reveals the snail's way of life.
 - Slugs are molluscs without shells. They are not worms.
@@ -19,25 +21,26 @@ authors:
 galleries:
   gallery1:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/umbonium/050206cjd0010m.jpg
-    caption: "Snails with shells. *Chek Jawa, Feb 05*"
+    caption: Snails with shells. *Chek Jawa, Feb 05*
   - url: https://images.naturehungry.sg/mollusca/gastropoda/limpets/atra/050509hntd3208m.jpg
-    caption: "Limpets are also gastropods. *Pulau Hantu, May 05*"
+    caption: Limpets are also gastropods. *Pulau Hantu, May 05*
   - url: https://images.naturehungry.sg/mollusca/slugs/nudibranchia/ianthina/040409tusad0040m.jpg
-    caption: "Nudibranchs are sea slugs in the order Nudibranchia. *Tuas, Apr 04*"
+    caption: Nudibranchs are sea slugs in the order Nudibranchia. *Tuas, Apr 04*
   gallery2:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/trochidae/maculatus/050110skdd301m3.jpg
-    caption: "The large foot of a top shell. *Pulau Sekudu, Jan 05*"
+    caption: The large foot of a top shell. *Pulau Sekudu, Jan 05*
   - url: https://images.naturehungry.sg/mollusca/gastropoda/naticidae/didyma/060612cftd2847m3.jpg
-    caption: "The body of a moon snail can expand to be much bigger than its shell. *Changi, Jun 06*"
+    caption: The body of a moon snail can expand to be much bigger than its shell.
+      *Changi, Jun 06*
   - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg
-    caption: "Spider conchs are magnificent snails that can hop. *Labrador, Mar 05*"
+    caption: Spider conchs are magnificent snails that can hop. *Labrador, Mar 05*
   gallery3:
   - url: https://images.naturehungry.sg/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg
-    caption: "Nerites mating with their white egg capsules. *Chek Jawa, Feb 02*"
+    caption: Nerites mating with their white egg capsules. *Chek Jawa, Feb 02*
   - url: https://images.naturehungry.sg/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg
-    caption: "Conch snails have eyes on long stalks. *Tanah Merah, Dec 11*"
+    caption: Conch snails have eyes on long stalks. *Tanah Merah, Dec 11*
   - url: https://images.naturehungry.sg/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg
-    caption: "Ovulid snails live on the sea fans that they eat. *East Coast, Jun 06*"
+    caption: Ovulid snails live on the sea fans that they eat. *East Coast, Jun 06*
 ---
 
 ## Where seen?

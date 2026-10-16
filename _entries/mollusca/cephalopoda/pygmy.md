@@ -8,7 +8,8 @@ layout: entry
 family: Idiosepiidae
 genus: Idiosepius
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 149971
 stateofmatter: Life
 kingdom: Animalia
@@ -112,8 +113,7 @@ links_references: '### Links
   on the Tree of Life website: fact sheet with photos of squids, location of the ''glue-gun''
   on its body, egg laying and more.
 
-  - [Southern Pygmy Squid (
-  *Idiosepius notoides*](http://australianmuseum.net.au/Southern-Pygmy-Squid-Idiosepius-notoides-Berry-1921)
+  - [Southern Pygmy Squid ( *Idiosepius notoides*](http://australianmuseum.net.au/Southern-Pygmy-Squid-Idiosepius-notoides-Berry-1921)
 
   ) on the Australian Museum website: fact sheet.
 

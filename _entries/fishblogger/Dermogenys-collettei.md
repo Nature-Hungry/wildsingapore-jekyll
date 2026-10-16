@@ -8,6 +8,8 @@ species: collettei
 rdb: LC
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 466706
 stateofmatter: Life
 kingdom: Animalia

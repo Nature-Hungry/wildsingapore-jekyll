@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Tetraodontidae
 genus: Arothon
 species: caeruleopunctatus
@@ -29,8 +30,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Blue-spotted puffer (
-  *Arothron caeruleopunctatus*
+  - [Blue-spotted puffer ( *Arothron caeruleopunctatus*
 
   )](https://www.fishbase.se/summary/13051)
 

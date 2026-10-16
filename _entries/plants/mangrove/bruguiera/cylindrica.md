@@ -13,6 +13,7 @@ attributes:
 - 36
 - 57
 - 68
+- 155
 family: Rhizophoraceae
 genus: Bruguiera
 species: cylindrica
@@ -37,8 +38,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bakau putih (
-  *Bruguiera cylindrica*
+  - [Bakau putih ( *Bruguiera cylindrica*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/1053)
 

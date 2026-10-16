@@ -16,6 +16,7 @@ attributes:
 - 67
 - 88
 - 102
+- 155
 family: Actiniidae
 genus: Mesactinia
 species: ganensis

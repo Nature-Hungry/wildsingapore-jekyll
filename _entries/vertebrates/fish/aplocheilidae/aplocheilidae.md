@@ -1,13 +1,16 @@
 ---
 title: Rivulines
 description: Fact sheet of Rivulines on the shores of Singapore
-keywords: white, spot, tin, head, killifish, killi, aplocheilus, panchax, aplocheilidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: white, spot, tin, head, killifish, killi, aplocheilus, panchax, aplocheilidae,
+  fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes:
 - 25
 - 47
 - 106
 - 108
+- 155
 family: Aplocheilidae
 genus: Aplocheilus
 species: panchax*
@@ -85,7 +88,8 @@ links_references: '### Links
 
   - Yeo, D. C. J. & K. K. P. Lim. 25 November 2010.
 
-  *Aplocheilus lineatus, a non-native killifish (Actinopterygii: Cyprinodontiformes: Aplocheilidae) in Singapore*
+  *Aplocheilus lineatus, a non-native killifish (Actinopterygii: Cyprinodontiformes:
+  Aplocheilidae) in Singapore*
 
   . Nature in Singapore, 3: 327-332.
 

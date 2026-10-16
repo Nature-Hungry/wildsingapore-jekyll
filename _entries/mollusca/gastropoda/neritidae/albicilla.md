@@ -12,6 +12,7 @@ attributes:
 - 23
 - 75
 - 100
+- 155
 inat_id: 368225
 stateofmatter: Life
 kingdom: Animalia
@@ -56,15 +57,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Oxpalate nerite (
-  *Nerita albicilla*
+  - [Oxpalate nerite ( *Nerita albicilla*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86830)
 
   on SeaBase Life: Technical fact sheet.
 
-  - Oxpalate nerite (
-  *Nerita albicilla*
+  - Oxpalate nerite ( *Nerita albicilla*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

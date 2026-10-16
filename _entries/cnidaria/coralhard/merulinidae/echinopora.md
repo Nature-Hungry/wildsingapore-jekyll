@@ -1,5 +1,5 @@
 ---
-title: 'Hedgehog corals'
+title: Hedgehog corals
 description: Fact sheet of Hedgehog corals  on the shores of Singapore
 keywords: hedgehog, echinopora, faviidae, merulinidae, coral, hard, scleractinia,
   cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
@@ -8,7 +8,8 @@ layout: entry
 family: Merulinidae
 genus: Echinopora
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 503554
 stateofmatter: Life
 kingdom: Animalia
@@ -114,7 +115,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - tm
 - kus

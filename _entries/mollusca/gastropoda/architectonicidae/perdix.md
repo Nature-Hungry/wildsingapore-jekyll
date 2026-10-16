@@ -10,6 +10,7 @@ genus: Architectonica
 species: perdix
 attributes:
 - 100
+- 155
 inat_id: 538775
 stateofmatter: Life
 kingdom: Animalia

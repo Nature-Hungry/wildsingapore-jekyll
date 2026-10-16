@@ -10,6 +10,7 @@ species: suberitoides
 attributes:
 - 159
 - 141
+- 155
 inat_id: 1536347
 stateofmatter: Life
 kingdom: Animalia

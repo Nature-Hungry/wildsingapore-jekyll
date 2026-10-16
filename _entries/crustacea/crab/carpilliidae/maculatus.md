@@ -10,6 +10,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Carpiliidae
 genus: Carpilius
 species: maculatus
@@ -43,8 +44,7 @@ links_references: '### Links
 
   - [Spotted reef crab](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380&genusname=Carpilius&speciesname=maculatus)
 
-  [(
-  *Carpilius maculatus*
+  [( *Carpilius maculatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=21380)
 

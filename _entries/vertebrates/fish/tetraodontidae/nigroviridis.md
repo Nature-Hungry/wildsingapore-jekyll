@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Tetraodontidae
 genus: Dichotomyctere
 species: nigroviridis
@@ -40,8 +41,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Spotted Green Puffer (
-  *Tetraodon nigroviridis*
+  - [Spotted Green Puffer ( *Tetraodon nigroviridis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/398)
 
@@ -51,8 +51,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Spotted green puffer (
-  *Tetraodon nigroviridis*
+  - [Spotted green puffer ( *Tetraodon nigroviridis*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2108)
 
@@ -67,8 +66,7 @@ links_references: '### Links
   (Tetraodontiformes: Tetraodontidae) Spotted Green Pufferfish by Cheong Ka Min Delicia,
   2014, on taxo4254.
 
-  - [Spotted green pufferfish (
-  *Tetraodon nigroviridis*
+  - [Spotted green pufferfish ( *Tetraodon nigroviridis*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?id=7763)
 

@@ -12,6 +12,7 @@ attributes:
 - 106
 - 112
 - 119
+- 155
 family: Portunidae
 genus: Charybdis
 species: feriata*
@@ -60,8 +61,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Crucifix crab (
-  *Charybdis feriatus*
+  - [Crucifix crab ( *Charybdis feriatus*
 
   )](http://www.sealifebase.org/summary/Charybdis-feriatus.html)
 

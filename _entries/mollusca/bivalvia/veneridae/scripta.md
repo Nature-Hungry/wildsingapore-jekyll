@@ -8,7 +8,8 @@ layout: entry
 family: Veneridae
 genus: Circe
 species: scripta*
-attributes: []
+attributes:
+- 155
 inat_id: 701318
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,8 @@ layout: entry
 family: Loliginidae
 genus: Uroteuthis
 species: duvaucelii
-attributes: []
+attributes:
+- 155
 inat_id: 694953
 stateofmatter: Life
 kingdom: Animalia
@@ -37,8 +38,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Indian squid (
-  *Uroteuthis duvaucelii*
+  - [Indian squid ( *Uroteuthis duvaucelii*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/Uroteuthis-duvaucelii.html)
 

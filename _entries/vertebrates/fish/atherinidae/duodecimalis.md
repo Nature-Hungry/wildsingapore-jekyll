@@ -10,6 +10,7 @@ attributes:
 - 47
 - 106
 - 108
+- 155
 family: Atherinidae
 genus: ''
 species: ''
@@ -53,8 +54,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Tropical Silverside (
-  *Atherinomorus duodecimalis*
+  - [Tropical Silverside ( *Atherinomorus duodecimalis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/234)
 
@@ -64,8 +64,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Tropical Silverside (
-  *Atherinomorus duodecimalis)*](http://mangrove.nus.edu.sg/guidebooks/text/2103)
+  - [Tropical Silverside ( *Atherinomorus duodecimalis)*](http://mangrove.nus.edu.sg/guidebooks/text/2103)
 
   Ng, Peter K. L. & N. Sivasothi, 1999.
 
@@ -77,8 +76,7 @@ links_references: '### Links
 
   on The Biodiversity of Singapore, Lee Kong Chian Natural History Museum.
 
-  - [Tropical Silverside (
-  *Atherinomorus duodecimalis*
+  - [Tropical Silverside ( *Atherinomorus duodecimalis*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=1302)
 

@@ -8,9 +8,10 @@ layout: entry
 family: Aplysiidae
 genus: Syphonota
 species: geographica
-attributes: 
+attributes:
 - 27
 - 90
+- 155
 inat_id: 50564
 stateofmatter: Life
 kingdom: Animalia

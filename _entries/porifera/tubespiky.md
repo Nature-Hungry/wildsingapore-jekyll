@@ -9,6 +9,7 @@ genus: Gelliodes
 species: ''
 attributes:
 - 140
+- 155
 inat_id: 604341
 stateofmatter: Life
 kingdom: Animalia

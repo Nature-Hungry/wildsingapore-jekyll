@@ -10,6 +10,7 @@ species: globostellata
 attributes:
 - 159
 - 141
+- 155
 inat_id: 751628
 stateofmatter: Life
 kingdom: Animalia

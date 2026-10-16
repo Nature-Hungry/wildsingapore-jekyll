@@ -8,10 +8,10 @@ layout: entry
 attributes:
 - 22
 - 14
-
 - 33
 - 63
 - 90
+- 155
 family: Discodorididae
 genus: Jorunna
 species: funebris

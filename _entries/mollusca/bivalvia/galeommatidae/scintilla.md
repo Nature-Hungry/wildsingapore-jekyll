@@ -7,7 +7,8 @@ layout: entry
 family: Galeommatidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 51849
 stateofmatter: Life
 kingdom: Animalia

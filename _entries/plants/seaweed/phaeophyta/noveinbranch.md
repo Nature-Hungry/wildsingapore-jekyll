@@ -12,6 +12,7 @@ species: zonale*
 attributes:
 - 97
 - 98
+- 155
 inat_id: 131274
 stateofmatter: Life
 kingdom: Chromista

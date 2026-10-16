@@ -15,8 +15,9 @@ phylum: Annelida
 class: Polychaeta
 genus: Oxydromus
 species: cf. angustifrons
-attributes: 
+attributes:
 - 149
+- 155
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
 galleries:

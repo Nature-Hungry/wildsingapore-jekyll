@@ -7,7 +7,6 @@ keywords: bubble, shell, snail, haminoea, haminoeidae, cephalaspidea, gastropod,
 layout: entry
 attributes:
 - 14
-
 - 23
 - 33
 - 64
@@ -20,6 +19,7 @@ attributes:
 - 123
 - 125
 - 126
+- 155
 family: Haminoeidae
 genus: ''
 species: Family
@@ -64,8 +64,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bubble shell (
-  *Haminoea*
+  - [Bubble shell ( *Haminoea*
 
   sp.)](http://mangrove.nus.edu.sg/guidebooks/text/2088)
 

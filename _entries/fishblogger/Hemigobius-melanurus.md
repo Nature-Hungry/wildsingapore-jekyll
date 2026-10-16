@@ -9,6 +9,9 @@ rdb: NT
 zone:
 - marine
 - freshwater
+attributes:
+- 156
+- 155
 inat_id: 1316641
 stateofmatter: Life
 kingdom: Animalia

@@ -9,6 +9,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Varunidae
 genus: Varuna
 species: ''
@@ -57,8 +58,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Paddler crab (
-  *Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046)
+  - [Paddler crab ( *Varuna yui)*](http://mangrove.nus.edu.sg/guidebooks/text/2046)
 
   Ng, Peter K. L. & N. Sivasothi, 1999.
 
@@ -74,8 +74,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Sundaic paddler crab (
-  *Varuna yui*
+  - [Sundaic paddler crab ( *Varuna yui*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/SpeciesSummary.php?genusname=Varuna&speciesname=yui)
 

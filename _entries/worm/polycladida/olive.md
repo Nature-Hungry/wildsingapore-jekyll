@@ -8,7 +8,8 @@ layout: entry
 family: Pseudocerotidae
 genus: Tytthosoceros
 species: lizardensis
-attributes: []
+attributes:
+- 155
 inat_id: 603920
 stateofmatter: Life
 kingdom: Animalia
@@ -61,17 +62,15 @@ galleries:
   gallery8:
   - url: https://live.staticflickr.com/4518/38813741652_69bffb77e9_z.jpg
     caption: ''
-links_references: "### Links
-\n- [*Tytthosoceros lizardensis*](http://polycladida.lifedesks.org/pages/3230)\n\
+links_references: "### Links \n- [*Tytthosoceros lizardensis*](http://polycladida.lifedesks.org/pages/3230)\n\
   on Encyclopedia of Life, LifeDesks, Marine Flatworms - Polycladida: Technical fact\
-  \ sheet.\n\n### References
-\n- Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018.\n\
-  *A preliminary checklist and photographic catalogue of polyclad flatworms recorded\
-  \ from Singapore.*\nNature in Singapore 2018 11: 77\u2013125.\n- D. M. Bola\xF1\
-  os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid flatworms\
-  \ (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic report with\
-  \ remarks on colour variation*\n.(pdf) The Raffles Bulletin of Zoology Supplement\
-  \ No. 34: 130-169 Pp. 130-169.\n- Rene S. L. Ong. 31 August 2016.\n*Aggregation\
+  \ sheet.\n\n### References \n- Rene S.L. Ong and Samantha J.W. Tong. 29 October\
+  \ 2018.\n*A preliminary checklist and photographic catalogue of polyclad flatworms\
+  \ recorded from Singapore.*\nNature in Singapore 2018 11: 77\u2013125.\n- D. M.\
+  \ Bola\xF1os, B. Q. Gan & R. S. L. Ong. 29 Jun 2016.\n*First records of pseudocerotid\
+  \ flatworms (Platyhelminthes: Polycladida: Cotylea) from Singapore: A taxonomic\
+  \ report with remarks on colour variation*\n.(pdf) The Raffles Bulletin of Zoology\
+  \ Supplement No. 34: 130-169 Pp. 130-169.\n- Rene S. L. Ong. 31 August 2016.\n*Aggregation\
   \ of Tytthosoceros lizardensis flatworms at Beting Bronok*\n. Singapore Biodiversity\
   \ Records 2016: 108-109.\n- Rene Ong, Samantha Tong & Teresa Stephanie Tay. 13 November\
   \ 2015.\n*Marine flatworms at Seringat Kias*\n. Singapore Biodiversity Records 2015:\

@@ -8,7 +8,8 @@ layout: entry
 family: Veneridae
 genus: Gafrarium
 species: sp.*
-attributes: []
+attributes:
+- 155
 inat_id: 1209247
 stateofmatter: Life
 kingdom: Animalia

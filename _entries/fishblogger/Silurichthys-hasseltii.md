@@ -8,6 +8,8 @@ species: hasseltii
 rdb: CR
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 620855
 stateofmatter: Life
 kingdom: Animalia

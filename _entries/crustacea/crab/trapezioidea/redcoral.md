@@ -8,6 +8,7 @@ layout: entry
 attributes:
 - 38
 - 106
+- 155
 family: Trapeziidae
 genus: Trapezia
 species: cymodoce
@@ -67,8 +68,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Lilac coral crab (
-  *Trapezia cymodoce*
+  - [Lilac coral crab ( *Trapezia cymodoce*
 
   )](http://www.sealifebase.fisheries.ubc.ca/summary/speciessummary.php?id=103072)
 

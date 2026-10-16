@@ -8,6 +8,7 @@ layout: entry
 attributes:
 - 103
 - 104
+- 155
 family: Palaemonidae
 genus: Palaemon
 species: sp.*
@@ -59,8 +60,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Glass Shrimp (
-  *Palaemon*
+  - [Glass Shrimp ( *Palaemon*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/180)
 
@@ -70,8 +70,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Estuarine prawn (
-  *Macrobrachium equidens*
+  - [Estuarine prawn ( *Macrobrachium equidens*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2037)
 

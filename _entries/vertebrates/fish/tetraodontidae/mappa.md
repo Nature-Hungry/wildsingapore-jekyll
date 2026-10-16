@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Tetraodontidae
 genus: Arothon
 species: mappa
@@ -32,8 +33,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Map puffer (
-  *Arothron mappa*
+  - [Map puffer ( *Arothron mappa*
 
   )](https://www.fishbase.se/summary/7857)
 

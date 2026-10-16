@@ -7,6 +7,8 @@ genus: Lates
 species: calcarifer
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 47353
 stateofmatter: Life
 kingdom: Animalia

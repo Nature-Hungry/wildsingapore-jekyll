@@ -9,6 +9,7 @@ genus: Petrosia
 species: ''
 attributes:
 - 160
+- 155
 inat_id: 131797
 stateofmatter: Life
 kingdom: Animalia

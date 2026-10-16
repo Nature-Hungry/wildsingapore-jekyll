@@ -9,6 +9,7 @@ attributes:
 - 38
 - 106
 - 112
+- 155
 family: Dotillidae
 genus: Dotilla
 species: myctiroides
@@ -69,8 +70,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Soldier crab (
-  *Dotilla*
+  - [Soldier crab ( *Dotilla*
 
   sp.)](http://mangrove.nus.edu.sg/pub/seashore/text/192)
 
@@ -80,8 +80,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Soldier crab (
-  *Dotilla myctiroides*
+  - [Soldier crab ( *Dotilla myctiroides*
 
   )](http://mangrove.nus.edu.sg/guidebooks/text/2052)
 
@@ -160,7 +159,7 @@ size:
 rdb: LC
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They are everywhere on the sandy shore at low tide. Don't step on them! 
+- They are everywhere on the sandy shore at low tide. Don't step on them!
 - They are very shy. To see them, wait quietly without moving
 - Unlike most crabs, they can run forwards, backwards as well as sideways.
 authors:

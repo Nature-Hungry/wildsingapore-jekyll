@@ -9,6 +9,7 @@ genus: Neopetrosia
 species: exigua*
 attributes:
 - 161
+- 155
 inat_id: 1427706
 stateofmatter: Life
 kingdom: Animalia

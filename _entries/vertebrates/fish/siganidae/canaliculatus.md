@@ -10,6 +10,7 @@ attributes:
 - 47
 - 58
 - 60
+- 155
 family: Siganidae
 genus: Siganus
 species: canaliculatus
@@ -80,8 +81,7 @@ galleries:
 links_references: '### Links
 
 
-  - [White-spotted Rabbitfish (
-  *Siganus canaliculatus*
+  - [White-spotted Rabbitfish ( *Siganus canaliculatus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/379)
 
@@ -91,8 +91,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [White-spotted spinefoot (
-  *Siganus canaliculatus*
+  - [White-spotted spinefoot ( *Siganus canaliculatus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=4456)
 
@@ -102,8 +101,7 @@ links_references: '### Links
 
   : Technical fact sheet.
 
-  - [White-spotted spinefoot (
-  *Siganus canaliculatus*
+  - [White-spotted spinefoot ( *Siganus canaliculatus*
 
   )](http://research.kahaku.go.jp/zoology/FishGuide/data/fish291.html)
 

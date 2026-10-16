@@ -10,6 +10,7 @@ genus: Turricula
 species: javana
 attributes:
 - 100
+- 155
 inat_id: 538776
 stateofmatter: Life
 kingdom: Animalia
@@ -38,15 +39,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Javanese turrid (
-  *Turricula javana*
+  - [Javanese turrid ( *Turricula javana*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87071)
 
   on SeaLife Base: Technical fact sheet.
 
-  - Javanese turrid (
-  *Turricula javana*
+  - Javanese turrid ( *Turricula javana*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

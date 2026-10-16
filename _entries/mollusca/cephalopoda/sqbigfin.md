@@ -8,7 +8,8 @@ layout: entry
 family: Loliginidae
 genus: Sepioteuthis
 species: lessoniana
-attributes: []
+attributes:
+- 155
 inat_id: 121187
 stateofmatter: Life
 kingdom: Animalia
@@ -108,8 +109,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Bigfin reef squid (
-  *Sepioteuthis lessoniana*
+  - [Bigfin reef squid ( *Sepioteuthis lessoniana*
 
   )](http://www.sealifebase.org/summary/Sepioteuthis-lessoniana.html)
 

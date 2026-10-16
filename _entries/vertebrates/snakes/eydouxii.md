@@ -7,7 +7,8 @@ layout: entry
 family: Elapidae
 genus: Aipysurus
 species: eydouxii
-attributes: []
+attributes:
+- 155
 inat_id: 35264
 stateofmatter: Life
 kingdom: Animalia
@@ -47,7 +48,8 @@ galleries:
 links_references: '### Links
 
 
-  - [Marbled Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Marbled Sea Snake](http://www.ecologyasia.com/verts/snakes/marbled-sea-snake.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [Volume 6: Sea snakes](http://www.fao.org/docrep/009/x2401e/x2401e00)
 
@@ -69,8 +71,7 @@ links_references: '### Links
 
   - Noel Thomas & Francis L. K. Lim. 7 February 2014.
 
-  [Beaded sea-snake (
-  *Aipysurus eydouxii*
+  [Beaded sea-snake ( *Aipysurus eydouxii*
 
   ) at Pulau Ubin](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Singapore%20Biodiversity/2014/sbr2014-038-039.pdf)
 
@@ -78,8 +79,7 @@ links_references: '### Links
 
   - Ron K. H. Yeo. 21 February 2014.
 
-  [Beaded sea-snake (
-  *Aipysurus eydouxii*
+  [Beaded sea-snake ( *Aipysurus eydouxii*
 
   ) at Changi Beach](http://lkcnhm.nus.edu.sg/nis/sbr2014/sbr2014-050.pdf)
 

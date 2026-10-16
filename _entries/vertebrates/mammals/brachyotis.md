@@ -28,7 +28,8 @@ coverimg: https://images.naturehungry.sg/vertebrates/mammals/brachyotis/030917sb
 links_references: '### Links
 
 
-  - [Lesser Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Lesser Dog-faced Fruit Bat](http://www.ecologyasia.com/verts/bats/lesser_dog-faced_fruit-bat.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [*Cynopterus brachyotis*](https://singapore.biodiversity.online/taxo4254/mainSpace/Cynopterus%20brachyotis.html)
 

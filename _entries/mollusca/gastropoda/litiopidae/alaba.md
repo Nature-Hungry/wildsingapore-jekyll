@@ -10,6 +10,7 @@ genus: Alaba
 species: virgata*
 attributes:
 - 100
+- 155
 updated: Aug 2020
 coverimg: https://images.naturehungry.sg/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg
 galleries:

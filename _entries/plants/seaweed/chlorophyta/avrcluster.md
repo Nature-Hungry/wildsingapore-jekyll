@@ -12,6 +12,7 @@ species: lacerata
 attributes:
 - 44
 - 97
+- 155
 inat_id: 1070803
 stateofmatter: Life
 kingdom: Plantae

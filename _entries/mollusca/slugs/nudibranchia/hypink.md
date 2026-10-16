@@ -10,6 +10,7 @@ genus: Hypselodoris
 species: sp.
 attributes:
 - 22
+- 155
 inat_id: 143297
 stateofmatter: Life
 kingdom: Animalia

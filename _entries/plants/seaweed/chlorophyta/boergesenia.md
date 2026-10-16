@@ -12,6 +12,7 @@ species: forbesii
 attributes:
 - 97
 - 115
+- 155
 inat_id: 556938
 stateofmatter: Life
 kingdom: Plantae

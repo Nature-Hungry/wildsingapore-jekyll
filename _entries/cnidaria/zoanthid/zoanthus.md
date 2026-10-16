@@ -10,6 +10,7 @@ layout: entry
 attributes:
 - 6
 - 88
+- 155
 family: Zoanthidae
 genus: Zoanthus
 species: ''
@@ -103,7 +104,7 @@ size:
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
 - They are like tiny sea anemones with long bodies
-- Don't touch them! 
+- Don't touch them!
 - They are small and may retract at low tide. Don't step on them!
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'

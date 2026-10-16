@@ -10,6 +10,7 @@ attributes:
 - 47
 - 106
 - 108
+- 155
 family: Gobiidae
 genus: Acentrogobius
 species: nebulosus
@@ -57,8 +58,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Shadow goby (
-  *Yongeichthys nebulosus*
+  - [Shadow goby ( *Yongeichthys nebulosus*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/365)
 
@@ -68,8 +68,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Shadow goby (
-  *Acentrogobius nebulosus*
+  - [Shadow goby ( *Acentrogobius nebulosus*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7228)
 

@@ -8,10 +8,11 @@ layout: entry
 family: Aplysiidae
 genus: Stylocheilus
 species: ''
-attributes: 
+attributes:
 - 27
 - 26
 - 90
+- 155
 inat_id: 47575
 stateofmatter: Life
 kingdom: Animalia

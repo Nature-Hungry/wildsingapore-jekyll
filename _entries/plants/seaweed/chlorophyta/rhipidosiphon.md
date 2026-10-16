@@ -12,6 +12,7 @@ species: javensis
 attributes:
 - 44
 - 97
+- 155
 inat_id: 1392156
 stateofmatter: Life
 kingdom: Plantae

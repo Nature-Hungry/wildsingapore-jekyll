@@ -21,6 +21,7 @@ attributes:
 - 79
 - 88
 - 113
+- 155
 family: Stichodactylidae
 genus: Stichodactyla
 species: gigantea

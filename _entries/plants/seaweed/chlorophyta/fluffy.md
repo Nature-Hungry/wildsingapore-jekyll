@@ -12,6 +12,7 @@ species: verticillata
 attributes:
 - 46
 - 97
+- 155
 inat_id: 326813
 stateofmatter: Life
 kingdom: Plantae

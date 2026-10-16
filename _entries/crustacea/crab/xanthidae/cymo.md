@@ -8,6 +8,7 @@ layout: entry
 attributes:
 - 38
 - 106
+- 155
 family: Xanthidae
 genus: Cymo
 species: andreossyi
@@ -52,8 +53,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Hairy coral crab (
-  *Cymo andreossyi*
+  - [Hairy coral crab ( *Cymo andreossyi*
 
   )](http://www.sealifebase.fisheries.ubc.ca/Summary/speciesSummary.php?ID=106153&genusname=Cymo&speciesname=andreossyi)
 

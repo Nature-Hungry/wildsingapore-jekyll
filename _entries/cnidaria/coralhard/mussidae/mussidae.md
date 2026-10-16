@@ -1,12 +1,15 @@
 ---
-title: 'Brain corals'
+title: Brain corals
 description: Fact sheet of Brain corals  on the shores of Singapore
-keywords: brain, mussidae, lobophylliidae, lobophyllia, symphyllia, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: brain, mussidae, lobophylliidae, lobophyllia, symphyllia, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Lobophylliidae
 genus: ''
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 503525
 stateofmatter: Life
 kingdom: Animalia
@@ -44,7 +47,8 @@ links_references: '### Links
 
   - Danwei Huang, Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009.
 
-  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new records*
+  *An inventory of zooxanthellate sclerectinian corals in Singapore including 33 new
+  records*
 
   (pdf). Raffles Bulletin of Zoology Supplement No. 22: 69-80.
 
@@ -72,7 +76,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - snt
 - tkr

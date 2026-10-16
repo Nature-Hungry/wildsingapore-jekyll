@@ -9,6 +9,7 @@ attributes:
 - 100
 - 78
 - 66
+- 155
 family: Volutidae
 genus: Turritella
 species: terebra
@@ -33,15 +34,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Screw turret (
-  *Turritella terebra*
+  - [Screw turret ( *Turritella terebra*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86863)
 
   in SeaLife Base: Technical fact sheet.
 
-  - Screw turret (
-  *Turritella terebra*
+  - Screw turret ( *Turritella terebra*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

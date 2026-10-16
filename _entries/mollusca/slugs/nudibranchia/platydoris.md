@@ -8,10 +8,10 @@ layout: entry
 attributes:
 - 22
 - 14
-
 - 33
 - 90
 - 124
+- 155
 family: Discodorididae
 genus: Platydoris
 species: scabra

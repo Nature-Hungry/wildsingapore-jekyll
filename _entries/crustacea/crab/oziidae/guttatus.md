@@ -11,6 +11,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Oziidae
 genus: Ozius
 species: guttatus
@@ -86,8 +87,7 @@ links_references: '### Links
 
   on A field guide to Kenyan mangroves: fact sheet with photos.
 
-  - [Spottedbelly rock crab (
-  *Ozius guttatus*
+  - [Spottedbelly rock crab ( *Ozius guttatus*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83554)
 

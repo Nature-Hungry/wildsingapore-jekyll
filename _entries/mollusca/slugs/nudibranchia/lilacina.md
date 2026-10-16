@@ -10,6 +10,7 @@ genus: Tayuva
 species: lilacina
 attributes:
 - 22
+- 155
 inat_id: 123428
 stateofmatter: Life
 kingdom: Animalia

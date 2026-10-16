@@ -15,6 +15,7 @@ attributes:
 - 6
 - 67
 - 88
+- 155
 family: Haloclavidae
 genus: Synpeachia
 species: temasek

@@ -10,6 +10,7 @@ attributes:
 - 25
 - 47
 - 85
+- 155
 family: Tetraodontidae
 genus: Arothon
 species: stellatus
@@ -33,8 +34,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Stellate puffer (
-  *Arothron stellatus*
+  - [Stellate puffer ( *Arothron stellatus*
 
   )](http://www.fishbase.org/summary/6526)
 
@@ -56,8 +56,7 @@ links_references: '### Links
   . 30 April 2019. Singapore Biodiversity Records 2019: 54-55 ISSN 2345-7597. National
   University of Singapore.
 
-  - Tan Heok Hui. 29 July 2016. Starry pufferfish (
-  *Arothon stellatus*
+  - Tan Heok Hui. 29 July 2016. Starry pufferfish ( *Arothon stellatus*
 
   ) with barnacles in its gut sold for food in a market. Singapore Biodiversity Records
   2016: 102-103

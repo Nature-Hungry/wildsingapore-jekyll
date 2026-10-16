@@ -8,7 +8,8 @@ layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
 species: scintillatus
-attributes: []
+attributes:
+- 155
 inat_id: 318009
 stateofmatter: Life
 kingdom: Animalia

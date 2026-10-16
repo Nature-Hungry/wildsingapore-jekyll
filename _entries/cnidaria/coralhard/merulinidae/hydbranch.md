@@ -8,7 +8,8 @@ layout: entry
 family: Merulinidae
 genus: Hydnophora
 species: rigida
-attributes: []
+attributes:
+- 155
 inat_id: 102994
 stateofmatter: Life
 kingdom: Animalia
@@ -109,7 +110,7 @@ links_references: '### Links
 
   T.F. H Publications. 464 pp
 
- '
+  '
 location:
 - tm
 - snt

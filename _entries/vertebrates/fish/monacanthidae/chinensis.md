@@ -11,6 +11,7 @@ attributes:
 - 25
 - 42
 - 47
+- 155
 family: Monacanthidae
 genus: Monacanthus
 species: chinensis
@@ -80,8 +81,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Fan-bellied Filefish (
-  *Monacanthus chinensis*
+  - [Fan-bellied Filefish ( *Monacanthus chinensis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/394)
 
@@ -101,8 +101,7 @@ links_references: '### Links
 
   . The Singapore Science Centre, Singapore. 160 pp.
 
-  - [Fan-bellied leatherjacket (
-  *Monacanthus chinensis*
+  - [Fan-bellied leatherjacket ( *Monacanthus chinensis*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.cfm?ID=7976)
 

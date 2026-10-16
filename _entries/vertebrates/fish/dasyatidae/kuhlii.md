@@ -9,6 +9,7 @@ attributes:
 - 25
 - 47
 - 118
+- 155
 family: Dasyatidae
 genus: Neotrygon
 species: kuhlii
@@ -45,8 +46,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Blue-spotted Stingray (
-  *Dasyatis kuhlii*
+  - [Blue-spotted Stingray ( *Dasyatis kuhlii*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/203)
 
@@ -56,8 +56,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp.
 
-  - [Bluespotted stingray (
-  *Neotrygon kuhlii*
+  - [Bluespotted stingray ( *Neotrygon kuhlii*
 
   )](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=4508)
 

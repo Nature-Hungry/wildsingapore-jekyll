@@ -7,7 +7,8 @@ layout: entry
 family: Dugongidae
 genus: Dugong
 species: dugon
-attributes: []
+attributes:
+- 155
 inat_id: 46311
 stateofmatter: Life
 kingdom: Animalia

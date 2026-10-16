@@ -10,6 +10,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Parthenopidae
 genus: Cryptopodia
 species: fornicata

@@ -11,6 +11,7 @@ species: tigris
 attributes:
 - 100
 - 127
+- 155
 inat_id: 84107
 stateofmatter: Life
 kingdom: Animalia
@@ -68,22 +69,19 @@ galleries:
 links_references: '### Links
 
 
-  - [Tiger cowrie (
-  *Cypraea tigris*
+  - [Tiger cowrie ( *Cypraea tigris*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=86906)
 
   on SeaLife Base: Technical fact sheet.
 
-  - [Tiger cowrie (
-  *Cypraea tigris*
+  - [Tiger cowrie ( *Cypraea tigris*
 
   )](https://florafaunaweb.nparks.gov.sg/Special-Pages/animal-detail.aspx?id=194)
 
   on the NParks Flora and Fauna website.
 
-  - Tiger cowrie (
-  *Cypraea tigris*
+  - Tiger cowrie ( *Cypraea tigris*
 
   ) in the Gastropods section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

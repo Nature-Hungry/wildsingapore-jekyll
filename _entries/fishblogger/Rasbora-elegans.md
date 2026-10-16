@@ -8,6 +8,8 @@ species: elegans
 rdb: VU
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 111562
 stateofmatter: Life
 kingdom: Animalia

@@ -11,6 +11,7 @@ species: nucleus
 attributes:
 - 100
 - 127
+- 155
 inat_id: 368531
 stateofmatter: Life
 kingdom: Animalia

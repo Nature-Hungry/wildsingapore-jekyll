@@ -11,6 +11,7 @@ attributes:
 - 69
 - 106
 - 112
+- 155
 family: Xanthidae
 genus: Etisus
 species: laevimanus
@@ -103,8 +104,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Common Rock Crab (
-  *Leptodius*
+  - [Common Rock Crab ( *Leptodius*
 
   )](http://mangrove.nus.edu.sg/pub/seashore/text/208)
 

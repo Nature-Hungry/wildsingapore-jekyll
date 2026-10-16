@@ -8,7 +8,8 @@ layout: entry
 family: Elapidae
 genus: Laticauda
 species: colubrina
-attributes: []
+attributes:
+- 155
 inat_id: 68343
 stateofmatter: Life
 kingdom: Animalia
@@ -72,7 +73,8 @@ links_references: '### Links
 
   blog: fact sheet with photos and links to local sightings and other posts.
 
-  - [Amphibious Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake.htm) on Nick Baker''s EcologyAsia website: fact sheet with photos.
+  - [Amphibious Sea Snake](http://www.ecologyasia.com/verts/snakes/amphibious_sea_snake.htm)
+  on Nick Baker''s EcologyAsia website: fact sheet with photos.
 
   - [*Laticauda colubrina*](https://singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrina.html#Laticauda%20colubrina)
 

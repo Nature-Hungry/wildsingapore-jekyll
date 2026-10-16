@@ -9,6 +9,7 @@ attributes:
 - 2
 - 33
 - 59
+- 155
 family: Placunidae
 genus: Placuna
 species: ''
@@ -65,8 +66,7 @@ galleries:
     caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/placunidae/placuna/110522bbbro2m3.jpg
     caption: Beting Bemban Besar, May 11 Photo shared by Rene Ong on facebook .
-links_references: "### Links
-\n- [Saddle oyster (\n*Placuna ephippium*\n)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84399&genusname=Placuna&speciesname=ephippium)\n\
+links_references: "### Links \n- [Saddle oyster (\n*Placuna ephippium*\n)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84399&genusname=Placuna&speciesname=ephippium)\n\
   and\n[Windowpane oyster (\n*Placuna placenta*\n)](http://www.sealifebase.org/Summary/SpeciesSummary.php?ID=84398)\n\
   on SeaLife Base: Technical fact sheets\n- [Window Pane shells (Family Anomiidae)](http://shells.tricity.wsu.edu/ArcherdShellCollection/Bivalvia/Anomiidae.html)\n\
   on the\n[The Gladys Archerd Shell Collection](http://shells.tricity.wsu.edu/ArcherdShellCollection/ShellCollection.html)\n\
@@ -75,15 +75,14 @@ links_references: "### Links
   \ Guide for Fishery Purposes: The Living Marine Resources of the Western Central\
   \ Pacific\n[Volume 1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\n\
   on the Food and Agriculture Organization of the United Nations (FAO) website.\n\n\
-  ### References
-\n- Peter K. L. Ng. Arcotheres placunicola, a new species of pea crab\
-  \ (Crustacea: Brachyura: Pinnotheridae) from the window-pane shell, Placuna ephippium\
-  \ Philipsson, 1788 (Placunidae) in Singapore. 23 August 2018. Raffles Bulletin of\
-  \ Zoology 66: 474\u2013485\n- Tan Siong Kiat and Henrietta P. M. Woo, 2010\n*Preliminary\
-  \ Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum of Biodiversity\
-  \ Research, National University of Singapore.\n- Tan, K. S. & L. M. Chou, 2000.\n\
-  *A Guide to the Common Seashells of Singapore*\n. Singapore Science Centre. 160\
-  \ pp.\n"
+  ### References \n- Peter K. L. Ng. Arcotheres placunicola, a new species of pea\
+  \ crab (Crustacea: Brachyura: Pinnotheridae) from the window-pane shell, Placuna\
+  \ ephippium Philipsson, 1788 (Placunidae) in Singapore. 23 August 2018. Raffles\
+  \ Bulletin of Zoology 66: 474\u2013485\n- Tan Siong Kiat and Henrietta P. M. Woo,\
+  \ 2010\n*Preliminary Checklist of The Molluscs of Singapore*\n(pdf), Raffles Museum\
+  \ of Biodiversity Research, National University of Singapore.\n- Tan, K. S. & L.\
+  \ M. Chou, 2000.\n*A Guide to the Common Seashells of Singapore*\n. Singapore Science\
+  \ Centre. 160 pp.\n"
 location:
 - prp
 - chg

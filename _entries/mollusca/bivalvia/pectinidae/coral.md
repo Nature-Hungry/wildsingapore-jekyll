@@ -8,7 +8,8 @@ layout: entry
 family: Pectinidae
 genus: Pedum
 species: spondyloideum
-attributes: []
+attributes:
+- 155
 inat_id: 202181
 stateofmatter: Life
 kingdom: Animalia

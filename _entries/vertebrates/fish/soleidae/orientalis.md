@@ -11,6 +11,7 @@ attributes:
 - 47
 - 49
 - 81
+- 155
 family: Soleidae
 genus: Brachirus
 species: orientalis
@@ -66,8 +67,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Oriental Sole (
-  *Brachirus orientalis*
+  - [Oriental Sole ( *Brachirus orientalis*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/387)
 
@@ -77,8 +77,7 @@ links_references: '### Links
 
   . Singapore Science Centre. 163 pp. Family Soleidae .
 
-  - [Oriental sole (
-  *Brachirus orientalis*
+  - [Oriental sole ( *Brachirus orientalis*
 
   )](http://www.fishbase.org/summary/8312)
 

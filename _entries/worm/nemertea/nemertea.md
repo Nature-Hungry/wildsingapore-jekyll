@@ -1,12 +1,15 @@
 ---
 title: Ribbon worms
 description: Fact sheet of Ribbon worms on the shores of Singapore
-keywords: ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 stateofmatter: Life
 kingdom: Animalia
 phylum: Nemertea
-attributes: []
+attributes:
+- 155
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/worm/nemertea/pink/050510tusg6052m3.jpg
 galleries:
@@ -75,7 +78,8 @@ links_references: '### Links
 
   - Gosliner, Terrence M., David W. Behrens and Gary C. Williams. 1996.
 
-  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
+  *Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive
+  of the vertebrates*
 
   Sea Challengers. 314pp.
 
@@ -102,7 +106,7 @@ size:
 - 100.0
 trivia_title: if you learn only 3 things about them ..
 trivia_items:
-- They can be very long! 
+- They can be very long!
 - They are predators and efficient hunters
 - They are delicate and some are venomous. Don't touch!
 authors:

@@ -8,8 +8,10 @@ layout: entry
 family: Catosylidae
 genus: Acromitus
 species: ''
-summary: Bell 6-8cm across, short thick fat tentacles with thin 'tails'. Sometimes seen in mangrove streams and lagoons in our Northern shores.
-attributes: []
+summary: Bell 6-8cm across, short thick fat tentacles with thin 'tails'. Sometimes
+  seen in mangrove streams and lagoons in our Northern shores.
+attributes:
+- 155
 inat_id: 502402
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,8 @@ layout: entry
 family: Tridacnidae
 genus: Tridacna
 species: crocea
-attributes: []
+attributes:
+- 155
 inat_id: 50590
 stateofmatter: Life
 kingdom: Animalia
@@ -71,15 +72,13 @@ galleries:
 links_references: '### Links
 
 
-  - [Crocus giant clam (
-  *Tridacna crocea*
+  - [Crocus giant clam ( *Tridacna crocea*
 
   )](http://www.sealifebase.org/Summary/speciesSummary.php?ID=84545)
 
   on SeaBase Life: Technical fact sheet.
 
-  - Crocus giant clam (
-  *Tridacna crocea*
+  - Crocus giant clam ( *Tridacna crocea*
 
   ) in the Bivalves section by J.M. Poutiers in the FAO Species Identification Guide
   for Fishery Purposes: The Living Marine Resources of the Western Central Pacific

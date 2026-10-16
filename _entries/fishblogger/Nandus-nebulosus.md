@@ -8,6 +8,8 @@ species: nebulosus
 rdb: EN
 zone:
 - freshwater
+attributes:
+- 156
 inat_id: 187724
 stateofmatter: Life
 kingdom: Animalia

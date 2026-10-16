@@ -8,7 +8,8 @@ layout: entry
 family: Fungiidae
 genus: Fungia
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 53674
 stateofmatter: Life
 kingdom: Animalia

@@ -8,7 +8,8 @@ layout: entry
 family: Alcyoniidae
 genus: Sinularia
 species: ''
-attributes: []
+attributes:
+- 155
 inat_id: 1430597
 stateofmatter: Life
 kingdom: Animalia

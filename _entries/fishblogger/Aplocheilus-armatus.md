@@ -9,6 +9,9 @@ rdb: LC
 zone:
 - marine
 - freshwater
+attributes:
+- 156
+- 155
 inat_id: 1316507
 stateofmatter: Life
 kingdom: Animalia

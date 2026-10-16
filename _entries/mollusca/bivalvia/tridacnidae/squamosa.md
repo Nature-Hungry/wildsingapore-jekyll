@@ -8,7 +8,8 @@ layout: entry
 family: Tridacnidae
 genus: Tridacna
 species: squamosa
-attributes: []
+attributes:
+- 155
 inat_id: 50591
 stateofmatter: Life
 kingdom: Animalia
@@ -98,8 +99,7 @@ galleries:
     caption: Photo shared by Loh Kok Sheng on his flickr .
   - url: https://images.naturehungry.sg/mollusca/bivalvia/tridacnidae/squamosa/100530pbklks5m3.jpg
     caption: Pulau Berkas, May 10 Photo shared by Loh Kok Sheng on his flickr .
-links_references: "### Links
-\n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\n\
+links_references: "### Links \n- [Giant Clam (\n*Tridacna squamosa*\n)](http://mangrove.nus.edu.sg/pub/seashore/text/267)\n\
   Tan, Leo W. H. & Ng, Peter K. L., 1988.\n*[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*\n\
   . The Singapore Science Centre, Singapore. 160 pp.\n- [Fluted giant clam (\n*Tridacna\
   \ squamosa*\n)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=83871)\n\
@@ -112,15 +112,14 @@ links_references: "### Links
   \ Resources of the Western Central Pacific\n[Volume 1: Seaweeds, corals, bivalves\
   \ and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00)\non the Food and\
   \ Agriculture Organization of the United Nations (FAO) website.\n- [*Tridacna squamosa*](https://singapore.biodiversity.online/taxo4254/mainSpace/Tridacna%20squamosa.html)\n\
-  (Veneroida: Cardiidae) Fluted giant clam on Taxo4254.\n\n### References
-\n- Neo Mei\
-  \ Lin & Loh Kok Sheng. 28 Nov 2025.\n*Rediscovery of the fluted giant clam, Tridacna\
-  \ squamosa, at Labrador Nature Reserve*\n. Singapore Biodiversity Records 2025 DOI:\
-  \ 10.26107/NIS-2025-0115\n- Eckman W, Vicentuan-Cabaitan K & Todd PA (2014)\n*Observations\
-  \ on the hyposalinity tolerance of fluted giant clam (Tridacna squamosa, Lamarck\
-  \ 1819) larvae*\n. Nature in Singapore, 7: 111\u2013116.\n- Neo Mei Lin & Loh Kok\
-  \ Sheng. 5 September 2014.\n*Giant clam shells \u2018graveyard\u2019 at Semakau\
-  \ Landfill, Tridacna squamosa*\n. Singapore Biodiversity Records 2014: 248-249.\n\
+  (Veneroida: Cardiidae) Fluted giant clam on Taxo4254.\n\n### References \n- Neo\
+  \ Mei Lin & Loh Kok Sheng. 28 Nov 2025.\n*Rediscovery of the fluted giant clam,\
+  \ Tridacna squamosa, at Labrador Nature Reserve*\n. Singapore Biodiversity Records\
+  \ 2025 DOI: 10.26107/NIS-2025-0115\n- Eckman W, Vicentuan-Cabaitan K & Todd PA (2014)\n\
+  *Observations on the hyposalinity tolerance of fluted giant clam (Tridacna squamosa,\
+  \ Lamarck 1819) larvae*\n. Nature in Singapore, 7: 111\u2013116.\n- Neo Mei Lin\
+  \ & Loh Kok Sheng. 5 September 2014.\n*Giant clam shells \u2018graveyard\u2019 at\
+  \ Semakau Landfill, Tridacna squamosa*\n. Singapore Biodiversity Records 2014: 248-249.\n\
   - Neo ML & Todd PA (2013)\n*Conservation status reassessment of giant clams (Mollusca:\
   \ Bivalvia: Tridacninae) in Singapore*\n. Nature in Singapore, 6: 125\u2013133.\n\
   - Neo ML, Todd PA, Chou LM & Teo SL-M (2011)\n*Spawning induction and larval development\

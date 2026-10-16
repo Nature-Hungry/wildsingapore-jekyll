@@ -11,6 +11,7 @@ attributes:
 - 25
 - 43
 - 47
+- 155
 family: Muraenidae
 genus: Gymnothorax
 species: tile
@@ -77,8 +78,7 @@ galleries:
 links_references: '### Links
 
 
-  - [Estuarine Moray (
-  *Gymnothorax tile*
+  - [Estuarine Moray ( *Gymnothorax tile*
 
   )](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/210)
 

@@ -11,6 +11,7 @@ species: Oliva
 attributes:
 - 100
 - 127
+- 155
 inat_id: 61805
 stateofmatter: Life
 kingdom: Animalia

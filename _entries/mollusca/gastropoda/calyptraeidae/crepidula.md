@@ -10,6 +10,7 @@ genus: Siphopatella
 species: walshi
 attributes:
 - 100
+- 155
 inat_id: 1106937
 stateofmatter: Life
 kingdom: Animalia

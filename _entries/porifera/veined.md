@@ -9,6 +9,7 @@ genus: Clathria
 species: cf.
 attributes:
 - 161
+- 155
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/porifera/veined/110812chgd8798m3.jpg
 galleries:

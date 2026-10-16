@@ -9,6 +9,7 @@ attributes:
 - 6
 - 88
 - 102
+- 155
 family: Discosomidae
 genus: Platyzoanthus
 species: mussoides
@@ -67,7 +68,8 @@ zone:
 - marine
 habitats:
 - coral rubble
-summary: These little ridged disk-like animal is sometimes seen on our Southern shores, growing on coral rubble.
+summary: These little ridged disk-like animal is sometimes seen on our Southern shores,
+  growing on coral rubble.
 ---
 
 ## Where seen?
