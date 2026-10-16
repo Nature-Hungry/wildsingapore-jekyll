@@ -65,6 +65,7 @@ links_references: '### References
   Book: Threatened plants and animals of Singapore*. Nature Society (Singapore). 285
   pp.'
 habitats:
+- coastal forest
 - sandy shore
 - rocky shore
 ---

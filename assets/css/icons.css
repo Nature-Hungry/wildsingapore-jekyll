@@ -56,3 +56,33 @@
     mask-image: url('/assets/icons/seagrass.svg');
     background-color: green;
 }
+.icon-native-forest {
+    -webkit-mask-image: url('/assets/icons/native-forest.svg');
+    mask-image: url('/assets/icons/native-forest.svg');
+    background-color: #0A9B00;
+}
+.icon-exotic-forest {
+    -webkit-mask-image: url('/assets/icons/exotic-forest.svg');
+    mask-image: url('/assets/icons/exotic-forest.svg');
+    background-color: #93D11F;
+}
+.icon-urban-park {
+    -webkit-mask-image: url('/assets/icons/urban-park.svg');
+    mask-image: url('/assets/icons/urban-park.svg');
+    background-color: #B2DC3D;
+}
+.icon-built-up {
+    -webkit-mask-image: url('/assets/icons/built-up.svg');
+    mask-image: url('/assets/icons/built-up.svg');
+    background-color: #B1AEA5;
+}
+.icon-freshwater-swamp {
+    -webkit-mask-image: url('/assets/icons/freshwater-swamp.svg');
+    mask-image: url('/assets/icons/freshwater-swamp.svg');
+    background-color: #005916;
+}
+.icon-coastal-forest {
+    -webkit-mask-image: url('/assets/icons/coastal-forest.svg');
+    mask-image: url('/assets/icons/coastal-forest.svg');
+    background-color: #00B887;
+}

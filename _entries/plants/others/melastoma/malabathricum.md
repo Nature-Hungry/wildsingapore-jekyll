@@ -62,6 +62,10 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+habitats:
+- native forest
+- exotic forest
+- freshwater swamp
 ---
 
 ## Where seen?

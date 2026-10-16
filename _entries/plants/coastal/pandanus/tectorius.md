@@ -71,6 +71,7 @@ authors:
 zone:
 - terrestrial
 habitats:
+- coastal forest
 - sandy shore
 - mangrove
 ---

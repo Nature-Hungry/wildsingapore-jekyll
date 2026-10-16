@@ -43,6 +43,10 @@ zone:
 - terrestrial
 habitats:
 - mangrove
+- native forest
+- exotic forest
+- urban park
+- built-up
 ---
 
 ## Where seen?

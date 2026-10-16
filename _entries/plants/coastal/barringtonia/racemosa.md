@@ -99,6 +99,7 @@ authors:
 zone:
 - terrestrial
 habitats:
+- coastal forest
 - sandy shore
 - muddy shore
 - rocky shore

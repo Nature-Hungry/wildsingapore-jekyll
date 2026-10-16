@@ -83,6 +83,7 @@ authors:
 zone:
 - terrestrial
 habitats:
+- coastal forest
 - rocky shore
 ---
 
