@@ -1,5 +1,5 @@
 ---
-title: 'Dragon scales '
+title: 'Dragon scales'
 description: Fact sheet of Dragon scales  on the shores of Singapore
 keywords: drymoglossum, piloselloides, polypodiaceae, fern, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -11,7 +11,7 @@ attributes:
 - 36
 - 96
 family: Polypodiaceae
-genus: Drymoglossum
+genus: Pyrrosia
 species: piloselloides
 stateofmatter: Life
 kingdom: Plantae
@@ -77,6 +77,7 @@ zone:
 - terrestrial
 habitats:
 - mangrove
+rdb: LC
 ---
 
 ## Where seen?
