@@ -120,6 +120,9 @@ habitats:
 - muddy shore
 - mangrove
 permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Malpighiales/Euphorbiaceae/Euphorbioideae/Excoecaria
+other_sources:
+- url: https://uforest.org/plants/species?q=Excoecaria_agallocha
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

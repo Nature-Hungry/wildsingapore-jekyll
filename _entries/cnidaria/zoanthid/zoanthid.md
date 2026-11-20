@@ -106,7 +106,7 @@ zone:
 habitats:
 - rocky shore
 - coral reef
-permalink: /entries/Cnidaria/Anthozoa/Zoantharia/Brachycnemina/Zoanthidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Zoantharia/Brachycnemina/Zoanthidae
 ---
 
 ## Where seen?

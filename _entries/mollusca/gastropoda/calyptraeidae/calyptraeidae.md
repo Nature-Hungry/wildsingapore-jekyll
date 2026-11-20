@@ -76,7 +76,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Calyptraeoidea/Calyptraeidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Calyptraeoidea/Calyptraeidae
 ---
 
 ## Where seen?

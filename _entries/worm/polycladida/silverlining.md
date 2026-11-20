@@ -5,6 +5,12 @@ keywords: flat, worm, flatworm, pseudoceros, prudhoei, polyclad, turbellaria, pl
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 family: Pseudocerotidae
 genus: Pseudoceros
 species: cf.

@@ -77,6 +77,7 @@ zone:
 - marine
 habitats:
 - coral rubble
+kingdom: Animalia
 ---
 
 ## Where seen?

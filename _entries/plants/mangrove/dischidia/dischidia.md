@@ -96,6 +96,9 @@ zone:
 habitats:
 - mangrove
 permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Gentianales/Apocynaceae/Asclepiadoideae/Dischidia
+other_sources:
+- url: https://uforest.org/plants/species?q=Dischidia_major
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

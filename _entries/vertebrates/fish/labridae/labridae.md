@@ -114,7 +114,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Labriformes/Labroidei/Labridae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Labriformes/Labroidei/Labridae
 ---
 
 ## Where seen?

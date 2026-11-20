@@ -96,6 +96,9 @@ authors:
 zone:
 - terrestrial
 rdb: LC
+other_sources:
+- url: https://uforest.org/plants/species?q=Cyrtophyllum_fragrans
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

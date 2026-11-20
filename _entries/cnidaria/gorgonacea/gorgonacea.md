@@ -74,7 +74,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Cnidaria/Anthozoa/Octocorallia/Malacalcyonacea
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Octocorallia/Malacalcyonacea
 ---
 
 ## Where seen?

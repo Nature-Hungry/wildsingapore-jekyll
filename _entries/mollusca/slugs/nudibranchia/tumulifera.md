@@ -81,6 +81,8 @@ zone:
 habitats:
 - rocky shore
 - coral rubble
+kingdom: Animalia
+phylum: Mollusca
 ---
 
 ## Where seen?

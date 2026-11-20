@@ -105,7 +105,7 @@ zone:
 habitats:
 - rocky shore
 - seagrass meadow
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Buccinoidea/Columbellidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Buccinoidea/Columbellidae
 ---
 
 ## Where seen?

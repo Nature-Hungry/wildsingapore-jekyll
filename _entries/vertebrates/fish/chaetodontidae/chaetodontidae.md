@@ -121,7 +121,7 @@ habitats:
 - seagrass meadow
 - coral rubble
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Chaetodontidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Chaetodontidae
 ---
 
 ## Where seen?

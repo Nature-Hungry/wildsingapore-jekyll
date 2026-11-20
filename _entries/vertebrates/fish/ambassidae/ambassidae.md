@@ -86,7 +86,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Mugiliformes/Ambassidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Mugiliformes/Ambassidae
 ---
 
 ## Where seen?

@@ -163,7 +163,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Merulinidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Merulinidae
 ---
 
 ## Where seen?

@@ -169,7 +169,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Perciformes/Scorpaenoidei/Synanceiidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Perciformes/Scorpaenoidei/Synanceiidae
 ---
 
 ## Where seen?

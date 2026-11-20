@@ -206,7 +206,7 @@ zone:
 habitats:
 - mangrove
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Chondrichthyes/Myliobatiformes/Dasyatidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Chondrichthyes/Myliobatiformes/Dasyatidae
 ---
 
 ## Where seen?

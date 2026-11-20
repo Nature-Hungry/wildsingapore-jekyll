@@ -99,7 +99,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Psettodidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Psettodidae
 ---
 
 ## Where seen?

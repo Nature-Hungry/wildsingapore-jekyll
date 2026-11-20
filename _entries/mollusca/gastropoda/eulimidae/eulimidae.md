@@ -67,7 +67,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Gastropoda/Eulimidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Eulimidae
 ---
 
 ## Where seen?

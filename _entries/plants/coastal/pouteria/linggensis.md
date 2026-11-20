@@ -43,6 +43,9 @@ zone:
 habitats:
 - coastal forest
 - rocky shore
+other_sources:
+- url: https://uforest.org/plants/species?q=Pouteria_liggensis
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

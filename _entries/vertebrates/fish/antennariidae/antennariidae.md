@@ -163,7 +163,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Lophiiformes/Antennariidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Lophiiformes/Antennariidae
 ---
 
 ## Where seen?

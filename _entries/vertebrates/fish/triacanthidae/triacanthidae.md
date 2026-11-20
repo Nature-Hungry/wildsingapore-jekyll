@@ -174,7 +174,7 @@ zone:
 habitats:
 - mangrove
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Triacanthodoidei/Triacanthidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Triacanthodoidei/Triacanthidae
 ---
 
 ## Where seen?

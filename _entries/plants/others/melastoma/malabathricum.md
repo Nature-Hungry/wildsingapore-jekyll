@@ -66,6 +66,9 @@ habitats:
 - native forest
 - exotic forest
 - freshwater swamp
+other_sources:
+- url: https://uforest.org/plants/species?q=Melastoma_malabathricum
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

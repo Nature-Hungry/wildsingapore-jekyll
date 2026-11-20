@@ -69,6 +69,8 @@ zone:
 - marine
 habitats:
 - mangrove
+kingdom: Animalia
+phylum: Mollusca
 ---
 
 ## Where seen?

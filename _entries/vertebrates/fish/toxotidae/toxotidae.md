@@ -126,7 +126,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Toxotoidei/Toxotidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Carangiformes/Toxotoidei/Toxotidae
 ---
 
 ## Where seen?

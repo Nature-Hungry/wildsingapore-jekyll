@@ -33,6 +33,8 @@ authors:
 zone:
 - intertidal
 - marine
+kingdom: Animalia
+phylum: Mollusca
 ---
 
 **Unidentified

@@ -106,7 +106,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Euphylliidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Euphylliidae
 ---
 
 ## Where seen?

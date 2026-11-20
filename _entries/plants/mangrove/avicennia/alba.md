@@ -115,6 +115,9 @@ zone:
 - intertidal
 habitats:
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Avicennia_alba
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

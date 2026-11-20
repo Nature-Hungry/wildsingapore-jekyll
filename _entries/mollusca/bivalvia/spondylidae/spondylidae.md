@@ -88,7 +88,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Mollusca/Bivalvia/Autobranchia/Pectinida/Pectinoidea/Spondylidae/Spondylinae/Spondylus
+permalink: /entries/Animalia/Mollusca/Bivalvia/Autobranchia/Pectinida/Pectinoidea/Spondylidae/Spondylinae/Spondylus
 ---
 
 ## Where seen?

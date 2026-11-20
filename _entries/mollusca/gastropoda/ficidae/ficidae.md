@@ -109,7 +109,7 @@ zone:
 - marine
 habitats:
 - sandy shore
-permalink: /entries/Mollusca/Gastropoda/Littorinimorpha/Ficidae/Ficus
+permalink: /entries/Animalia/Mollusca/Gastropoda/Littorinimorpha/Ficidae/Ficus
 ---
 
 ## Where seen?

@@ -8,6 +8,11 @@ layout: entry
 family: 'Suborder Acotylea '
 genus: ''
 species: identification*
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
 attributes:
 - 155
 updated: Feb 2020

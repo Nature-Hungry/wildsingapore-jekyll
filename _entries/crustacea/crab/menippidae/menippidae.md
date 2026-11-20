@@ -54,7 +54,7 @@ zone:
 - marine
 habitats:
 - coral rubble
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Eriphioidea/Menippidae
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Eriphioidea/Menippidae
 ---
 
 ## Where seen?

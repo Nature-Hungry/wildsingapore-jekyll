@@ -119,7 +119,7 @@ zone:
 - marine
 habitats:
 - coral rubble
-permalink: /entries/Mollusca/Bivalvia/Autobranchia/Cardiida/Cardioidea/Cardiidae/Tridacninae
+permalink: /entries/Animalia/Mollusca/Bivalvia/Autobranchia/Cardiida/Cardioidea/Cardiidae/Tridacninae
 ---
 
 ## Where seen?

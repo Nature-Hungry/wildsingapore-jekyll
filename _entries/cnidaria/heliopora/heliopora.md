@@ -86,7 +86,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Cnidaria/Anthozoa/Scleralcyonacea/Helioporidae/Heliopora
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleralcyonacea/Helioporidae/Heliopora
 ---
 
 ## Where seen?

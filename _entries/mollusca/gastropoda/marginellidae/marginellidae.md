@@ -44,7 +44,7 @@ zone:
 - marine
 habitats:
 - sandy shore
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Volutoidea/Marginellidae/Pruninae/Cryptospira
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Volutoidea/Marginellidae/Pruninae/Cryptospira
 ---
 
 ## Where seen?

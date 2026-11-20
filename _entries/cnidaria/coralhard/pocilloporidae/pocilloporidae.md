@@ -119,7 +119,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Pocilloporidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Pocilloporidae
 ---
 
 ## Where seen?

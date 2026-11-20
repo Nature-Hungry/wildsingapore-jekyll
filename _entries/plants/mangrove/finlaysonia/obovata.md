@@ -112,6 +112,9 @@ zone:
 - intertidal
 habitats:
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Finlaysonia_obovata
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

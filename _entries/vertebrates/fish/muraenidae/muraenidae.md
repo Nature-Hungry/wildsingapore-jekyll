@@ -204,7 +204,7 @@ zone:
 habitats:
 - coral rubble
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Anguilliformes/Muraenoidei/Muraenidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Anguilliformes/Muraenoidei/Muraenidae
 ---
 
 ## Where seen?

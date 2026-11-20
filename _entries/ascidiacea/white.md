@@ -54,6 +54,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
+kingdom: Animalia
 ---
 
 ## Where seen?

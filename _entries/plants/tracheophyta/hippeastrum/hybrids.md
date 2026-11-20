@@ -38,6 +38,8 @@ coverimg: https://images.naturehungry.sg\tracheophyta\hippeastrum\hybrids/P42000
   (23).jpg
 updated: July 2024
 hidden: true
+kingdom: Plantae
+phylum: Tracheophyta
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

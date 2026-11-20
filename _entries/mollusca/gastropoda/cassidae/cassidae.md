@@ -122,7 +122,7 @@ zone:
 - marine
 habitats:
 - sandy shore
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Tonnoidea/Cassidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Tonnoidea/Cassidae
 ---
 
 ## Where seen?

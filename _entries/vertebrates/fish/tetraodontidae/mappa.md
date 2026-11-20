@@ -11,6 +11,16 @@ attributes:
 - 47
 - 85
 - 155
+
+inat_id: 124906
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Tetraodontiformes
+suborder: Tetraodontoidei
 family: Tetraodontidae
 genus: Arothon
 species: mappa

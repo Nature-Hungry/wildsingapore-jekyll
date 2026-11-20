@@ -74,7 +74,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Arthropoda/Crustacea/Ostracoda
+permalink: /entries/Animalia/Arthropoda/Crustacea/Ostracoda
 ---
 
 ## Where seen?

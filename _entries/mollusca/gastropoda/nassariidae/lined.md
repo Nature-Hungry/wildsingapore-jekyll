@@ -39,6 +39,8 @@ zone:
 - marine
 habitats:
 - sandy shore
+kingdom: Animalia
+phylum: Mollusca
 ---
 
 ## Where seen?

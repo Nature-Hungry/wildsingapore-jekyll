@@ -94,7 +94,7 @@ habitats:
 - sandy shore
 - muddy shore
 - seagrass meadow
-permalink: /entries/Cnidaria/Anthozoa/Ceriantharia
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Ceriantharia
 ---
 
 ## Where seen?

@@ -143,7 +143,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei
 ---
 
 ## Where seen?

@@ -107,7 +107,7 @@ zone:
 - marine
 habitats:
 - coral rubble
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Xanthoidea/Xanthidae
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Xanthoidea/Xanthidae
 ---
 
 ## Where seen?

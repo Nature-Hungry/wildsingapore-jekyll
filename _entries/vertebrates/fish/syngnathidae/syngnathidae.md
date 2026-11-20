@@ -142,7 +142,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Syngnathiformes/Syngnathoidei/Syngnathidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Syngnathiformes/Syngnathoidei/Syngnathidae
 ---
 
 ## Where seen?

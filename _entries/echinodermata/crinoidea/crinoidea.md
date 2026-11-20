@@ -142,7 +142,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Echinodermata/Crinozoa/Crinoidea/Comatulida/Colobometridae
+permalink: /entries/Animalia/Echinodermata/Crinozoa/Crinoidea/Comatulida/Colobometridae
 ---
 
 ## Where seen?

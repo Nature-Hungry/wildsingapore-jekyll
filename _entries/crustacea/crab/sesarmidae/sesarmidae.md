@@ -139,7 +139,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Grapsoidea/Sesarmidae
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Grapsoidea/Sesarmidae
 ---
 
 ## Where seen?

@@ -231,7 +231,7 @@ zone:
 habitats:
 - rocky shore
 - coral reef
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Conoidea/Conidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Conoidea/Conidae
 ---
 
 ## Where seen?

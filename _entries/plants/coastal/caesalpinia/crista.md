@@ -97,6 +97,9 @@ habitats:
 - coastal forest
 - sandy shore
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Caesalpinia_crista
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

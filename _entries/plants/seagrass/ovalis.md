@@ -139,6 +139,9 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+other_sources:
+- url: https://uforest.org/plants/species?q=Halophila_ovalis
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 

@@ -143,7 +143,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Cnidaria/Hydrozoa/Anthoathecata/Filifera/Bougainvilliidae
+permalink: /entries/Animalia/Cnidaria/Hydrozoa/Anthoathecata/Filifera/Bougainvilliidae
 ---
 
 ## Where seen?

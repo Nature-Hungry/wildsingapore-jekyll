@@ -155,7 +155,7 @@ habitats:
 - muddy shore
 - coral rubble
 - coral reef
-permalink: /entries/Annelida/Polychaeta/Sabellida/Sabellidae
+permalink: /entries/Animalia/Annelida/Polychaeta/Sabellida/Sabellidae
 ---
 
 ## Where seen?

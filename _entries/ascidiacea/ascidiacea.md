@@ -1,10 +1,11 @@
 ---
-title: 'Ascidians  '
+title: Ascidians
 description: Fact sheet of Ascidians   on the shores of Singapore
 keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
   fact sheet, info, photo
 layout: entry
+kingdom: Animalia
 phylum: Chordata
 subphylum: Tunicata
 class: Ascidiacea
@@ -110,7 +111,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
-permalink: /entries/Chordata/Tunicata/Ascidiacea
+permalink: /entries/Animalia/Chordata/Tunicata/Ascidiacea
 ---
 
 ## Where seen?

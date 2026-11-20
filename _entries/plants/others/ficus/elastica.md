@@ -55,6 +55,9 @@ links_references: '### References
   - Burkill, I. H., 1993.*[A Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*.
   3rd printing. Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.
   Volume 1: 1-1240; volume 2: 1241-2444.'
+other_sources:
+- url: https://uforest.org/plants/species?q=Ficus_elastica
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

@@ -125,7 +125,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Psammocoridae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Psammocoridae
 ---
 
 ## Where seen?

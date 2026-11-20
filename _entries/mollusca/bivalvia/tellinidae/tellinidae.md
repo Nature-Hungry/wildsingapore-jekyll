@@ -88,7 +88,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Bivalvia/Autobranchia/Cardiida/Tellinoidea/Tellinidae
+permalink: /entries/Animalia/Mollusca/Bivalvia/Autobranchia/Cardiida/Tellinoidea/Tellinidae
 ---
 
 ## Where seen?

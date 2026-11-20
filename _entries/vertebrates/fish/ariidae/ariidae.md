@@ -133,7 +133,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Siluriformes/Siluroidei/Ariidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Siluriformes/Siluroidei/Ariidae
 ---
 
 ## Where seen?

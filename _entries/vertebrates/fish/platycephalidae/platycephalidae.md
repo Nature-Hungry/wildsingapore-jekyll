@@ -177,7 +177,7 @@ habitats:
 - sandy shore
 - seagrass meadow
 - coral rubble
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Perciformes/Scorpaenoidei/Platycephalidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Perciformes/Scorpaenoidei/Platycephalidae
 ---
 
 ## Where seen?

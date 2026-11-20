@@ -57,9 +57,7 @@ updated: July 2024
 other_sources:
 - url: https://uforest.org/plants/species?q=Tabebuia_rosea
   img: https://uforest.org/images_root/logo.svg
-- url: https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3171
-  img: https://www.nparks.gov.sg/images/default-source/default-album/_system/nparks-logo_no-tagline.svg?sfvrsn=3183528a_1
-hidden: true
+hidden: false
 ---
 
 <h2>Other sources</h2>

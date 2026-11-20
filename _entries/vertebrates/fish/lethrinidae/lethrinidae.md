@@ -125,7 +125,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Lethrinidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Lethrinidae
 ---
 
 ## Where seen?

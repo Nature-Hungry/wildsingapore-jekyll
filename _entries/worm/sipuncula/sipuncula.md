@@ -172,7 +172,7 @@ habitats:
 - muddy shore
 - mangrove
 - seagrass meadow
-permalink: /entries/Annelida/Sipuncula/Phascolosomatidae
+permalink: /entries/Animalia/Annelida/Sipuncula/Phascolosomatidae
 ---
 
 ## Where seen?

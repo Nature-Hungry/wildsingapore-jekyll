@@ -133,7 +133,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
-permalink: /entries/Mollusca/Bivalvia/Autobranchia/Pectinida/Pectinoidea/Pectinidae
+permalink: /entries/Animalia/Mollusca/Bivalvia/Autobranchia/Pectinida/Pectinoidea/Pectinidae
 ---
 
 ## Where seen?

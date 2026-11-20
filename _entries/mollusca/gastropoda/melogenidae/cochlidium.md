@@ -124,6 +124,8 @@ habitats:
 - mangrove
 - rocky shore
 - seagrass meadow
+kingdom: Animalia
+phylum: Mollusca
 ---
 
 ## Where seen?

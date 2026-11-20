@@ -4,9 +4,16 @@ keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shor
 layout: entry
 shape: encrusting
 title: Veined sponge
-family: Poecilosclerida
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Poecilosclerida
+family: Microcionidae
+subfamily: Microcioninae
 genus: Clathria
-species: cf.
+species: cf. mima
 attributes:
 - 161
 - 155

@@ -25,7 +25,7 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 family: Dotillidae
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Ocypodoidea/Dotillidae
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Decapoda/Pleocyemata/Brachyura/Ocypodoidea/Dotillidae
 updated: Dec 2019
 coverimg: https://images.naturehungry.sg/crustacea/crab/ocypodoidea/scopimera/050206cjd0046m3.jpg
 galleries:

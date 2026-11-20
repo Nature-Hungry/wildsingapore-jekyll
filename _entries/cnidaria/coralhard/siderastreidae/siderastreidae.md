@@ -82,7 +82,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Siderastreidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Siderastreidae
 ---
 
 ## Where seen?

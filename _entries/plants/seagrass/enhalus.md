@@ -189,6 +189,9 @@ habitats:
 - mangrove
 - seagrass meadow
 - coral rubble
+other_sources:
+- url: https://uforest.org/plants/species?q=Enhalus_acoroides
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

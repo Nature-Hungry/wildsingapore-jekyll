@@ -217,7 +217,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Chondrichthyes/Orectolobiformes/Hemiscylliidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Chondrichthyes/Orectolobiformes/Hemiscylliidae
 ---
 
 ## Where seen?

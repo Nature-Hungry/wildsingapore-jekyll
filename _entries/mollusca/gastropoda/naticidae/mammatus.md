@@ -77,6 +77,8 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+kingdom: Animalia
+phylum: Mollusca
 ---
 
 ## Where seen?

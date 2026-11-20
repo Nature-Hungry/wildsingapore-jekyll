@@ -52,6 +52,8 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+kingdom: Animalia
+phylum: Arthropoda
 ---
 
 ## Where seen?

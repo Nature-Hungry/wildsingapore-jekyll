@@ -90,7 +90,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Tonnoidea/Tonnidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Tonnoidea/Tonnidae
 ---
 
 ## Where seen?

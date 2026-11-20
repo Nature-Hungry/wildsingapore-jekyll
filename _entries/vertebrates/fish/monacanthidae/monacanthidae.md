@@ -214,7 +214,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Balistoidei/Monacanthidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Balistoidei/Monacanthidae
 ---
 
 ## Where seen?

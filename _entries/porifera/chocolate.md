@@ -4,9 +4,16 @@ keywords: chocolate, sponge, spheciospongia, vagabunda, clionaidae, porifera, fi
 layout: entry
 shape: blobs
 title: Chocolate sponge
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Clionaida
 family: Clionaidae
 genus: Spheciospongia
-species: cf.
+species: cf. vagabunda
+inat_id: 464969
 attributes:
 - 159
 - 141

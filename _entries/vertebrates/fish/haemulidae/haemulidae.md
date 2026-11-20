@@ -63,7 +63,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Haemulidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Haemulidae
 ---
 
 ## Where seen?

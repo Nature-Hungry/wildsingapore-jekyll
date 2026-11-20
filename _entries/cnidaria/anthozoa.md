@@ -54,7 +54,7 @@ galleries:
       to swallow a [sea pen](/entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea)!
       *Changi, Jul 04*
     col_span: 2
-permalink: /entries/Cnidaria/Anthozoa
+permalink: /entries/Animalia/Cnidaria/Anthozoa
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---

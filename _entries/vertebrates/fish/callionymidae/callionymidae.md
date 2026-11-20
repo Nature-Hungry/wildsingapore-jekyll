@@ -171,7 +171,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Syngnathiformes/Callionymoidei/Callionymidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Syngnathiformes/Callionymoidei/Callionymidae
 ---
 
 ## Where seen?

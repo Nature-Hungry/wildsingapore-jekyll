@@ -113,6 +113,9 @@ zone:
 - intertidal
 habitats:
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Bruguiera_cylindrica
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

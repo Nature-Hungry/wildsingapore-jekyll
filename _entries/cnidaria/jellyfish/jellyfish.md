@@ -160,7 +160,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Cnidaria/Scyphozoa
+permalink: /entries/Animalia/Cnidaria/Scyphozoa
 ---
 
 ## Where seen?

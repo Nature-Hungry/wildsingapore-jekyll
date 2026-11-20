@@ -77,6 +77,9 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+other_sources:
+- url: https://uforest.org/plants/species?q=Nepenthes_rafflesiana
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

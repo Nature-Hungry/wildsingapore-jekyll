@@ -236,7 +236,7 @@ zone:
 - marine
 habitats:
 - sandy shore
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Naticoidea/Naticidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Naticoidea/Naticidae
 ---
 
 ## Where seen?

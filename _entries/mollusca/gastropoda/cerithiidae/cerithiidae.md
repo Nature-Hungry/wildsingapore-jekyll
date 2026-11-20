@@ -130,7 +130,7 @@ habitats:
 - sandy shore
 - coral rubble
 - coral reef
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Cerithioidea/Cerithiidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Cerithioidea/Cerithiidae
 ---
 
 ## Where seen?

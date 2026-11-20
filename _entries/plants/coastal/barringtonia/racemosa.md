@@ -104,6 +104,9 @@ habitats:
 - muddy shore
 - rocky shore
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Barringtonia_racemosa
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

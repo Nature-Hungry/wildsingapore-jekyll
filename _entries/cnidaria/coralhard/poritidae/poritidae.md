@@ -99,7 +99,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Poritidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Poritidae
 ---
 
 ## Where seen?

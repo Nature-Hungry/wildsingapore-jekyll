@@ -191,7 +191,7 @@ zone:
 habitats:
 - mangrove
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Beloniformes/Belonidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Beloniformes/Belonidae
 ---
 
 ## Where seen?

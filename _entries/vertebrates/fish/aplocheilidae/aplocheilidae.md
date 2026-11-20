@@ -106,7 +106,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Cyprinodontiformes/Aplocheiloidei/Aplocheilidae/Aplocheilus
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Cyprinodontiformes/Aplocheiloidei/Aplocheilidae/Aplocheilus
 ---
 
 **What are Rivulines?**

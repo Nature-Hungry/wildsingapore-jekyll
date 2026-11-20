@@ -196,7 +196,7 @@ habitats:
 - sandy shore
 - seagrass meadow
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Paralichthyidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Paralichthyidae
 ---
 
 ## Where seen?

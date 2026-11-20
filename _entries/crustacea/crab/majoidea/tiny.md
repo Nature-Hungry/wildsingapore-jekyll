@@ -48,6 +48,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
+phylum: Arthropoda
 ---
 
 ## Where seen?

@@ -91,6 +91,9 @@ habitats:
 - sandy shore
 - muddy shore
 - rocky shore
+other_sources:
+- url: https://uforest.org/plants/species?q=Desmodium_umbellatum
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

@@ -89,7 +89,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Velutinoidea/Triviidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Velutinoidea/Triviidae
 ---
 
 ## Where seen?

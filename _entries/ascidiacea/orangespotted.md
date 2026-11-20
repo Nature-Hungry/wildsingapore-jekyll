@@ -51,6 +51,7 @@ authors:
 zone:
 - intertidal
 - marine
+kingdom: Animalia
 ---
 
 ## Where seen?

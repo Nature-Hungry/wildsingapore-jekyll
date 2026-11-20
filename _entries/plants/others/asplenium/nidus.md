@@ -47,6 +47,9 @@ habitats:
 - exotic forest
 - urban park
 - built-up
+other_sources:
+- url: https://uforest.org/plants/species?q=Asplenium_nidus
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

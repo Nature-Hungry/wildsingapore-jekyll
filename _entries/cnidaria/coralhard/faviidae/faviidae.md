@@ -80,7 +80,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Faviidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Faviidae
 ---
 
 ## Where seen?

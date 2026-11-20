@@ -95,7 +95,7 @@ zone:
 - marine
 habitats:
 - sandy shore
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Conoidea/Turridae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Conoidea/Turridae
 ---
 
 ## Where seen?

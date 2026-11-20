@@ -196,7 +196,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Soleidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Soleidae
 ---
 
 ## Where seen?

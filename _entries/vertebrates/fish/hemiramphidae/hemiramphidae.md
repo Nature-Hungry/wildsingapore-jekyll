@@ -127,7 +127,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Beloniformes/Hemiramphidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Beloniformes/Hemiramphidae
 ---
 
 ## Where seen?

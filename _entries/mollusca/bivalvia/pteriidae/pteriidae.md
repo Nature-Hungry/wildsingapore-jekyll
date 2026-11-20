@@ -106,7 +106,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Mollusca/Bivalvia/Autobranchia/Ostreida/Pterioidea/Pteriidae
+permalink: /entries/Animalia/Mollusca/Bivalvia/Autobranchia/Ostreida/Pterioidea/Pteriidae
 ---
 
 ## Where seen?

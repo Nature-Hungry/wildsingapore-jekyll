@@ -117,7 +117,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Apogonoidei/Apogonidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Apogonoidei/Apogonidae
 ---
 
 ## Where seen?

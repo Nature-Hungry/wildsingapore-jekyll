@@ -1,5 +1,5 @@
 ---
-title: ' Baru-baru '
+title: ' Baru-baru'
 description: Fact sheet of  Baru-baru  on the shores of Singapore
 keywords: portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -61,6 +61,8 @@ links_references: '### Links
   Volume 1: 1-1240; volume 2: 1241-2444.'
 galleries:
   gallery1:
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090611prpd3837m3.jpg
+    caption: Flower bud about to blossom.
   - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090611prpd3964m3.jpg
     caption: Developing fruits.
   - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090611prpd3836m3.jpg
@@ -74,6 +76,41 @@ galleries:
     caption: Pulau Ubin, Jun 08 Cotton stainer bugs on the fruit.
   - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090428chgd0933m3.jpg
     caption: Changi, May 09
+  gallery3:
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090428chgd0929m3.jpg
+    caption: Changi, May 09
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090321krjo3211490m3.jpg
+    caption: Kranji Canal, Mar 09
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/031019ubnd0004m3a.jpg
+    caption: Pulau Ubin, Oct 03
+  gallery4:
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090111smkd4932m3.jpg
+    caption: Pulau Semakau, Jan 09
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/031019ubnd0029m3.jpg
+    caption: Pulau Ubin, Oct 03
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090614ubnd4248m3.jpg
+    caption: Pulau Ubin, Jun 09
+  gallery5:
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090411lckd9592m3.jpg
+    caption: Lim Chu Kang, Apr 09
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090411lckd9591m3.jpg
+    caption: ''
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090411lckd9588m3.jpg
+    caption: ''
+  gallery6:
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/110502prpd0458m3.jpg
+    caption: Pasir Ris Park, May 11
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/110502prpd0462m3.jpg
+    caption: Pasir Ris Park, May 11
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/110406sbbd8660m3.jpg
+    caption: Sungei Buloh Besar, Apr 11
+  gallery7:
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/110406sbbd8658m6l.jpg
+    caption: Sungei Buloh Besar, Apr 11
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/110502prpd0455m6l.jpg
+    caption: Pasir Ris Park, May 11
+  - url: https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg
+    caption: Pasir Ris, Jun 09
 size:
 - 200.0
 - 1000.0
@@ -87,6 +124,9 @@ habitats:
 - sandy shore
 - rocky shore
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Thespesia_populnea
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?
@@ -104,24 +144,26 @@ Fruits large (2-4cm), flattened globe containing 3-4 seeds covered with dense, s
 
 The fruit is the primary means of dispersal, although the seeds may also float. Bark light grey becoming rugged with deep fissures.
 
+{% include img-wrap-group.html items=page.galleries.gallery2 %}
+
 ## Human uses
 
 According to Burkill, thoughout much of the Pacific, the tree is considered sacred and planted near temples. He suggests this is because the tree was so important to sea-faring people. It is used interchangeably with the
 [Sea hibiscus](../../hibiscus/tiliaceus)
 (*Hibiscus tiliceaus*) for cordage. The timber is hard and Fiji natives praise it as being "almost indestructible underwater". In the Philippines it is prized for making musical instruments. According to Hugh Tan, oil is extracted from the seeds and gum from the bark, while an orange-yellow dye is extracted from the wood.
 
-*![](https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg)
 
-Pasir Ris, Jun 09
 
-![](https://images.naturehungry.sg/plants/coastal/thespesia/populnea/090611prpd3837m3.jpg)*
-Flower bud about to blossom.
 
-{% include img-wrap-group.html items=page.galleries.gallery1 %}---
-{% include img-wrap-group.html items=page.galleries.gallery2 %}
 
-[more photos](populnea1)
-of portia trees on Singapore shores
+{% include img-wrap-group.html items=page.galleries.gallery1 %}
 
----
 {% include img-wrap-group.html items=page.galleries.gallery3 %}
+{% include img-wrap-group.html items=page.galleries.gallery4 %}
+{% include img-wrap-group.html items=page.galleries.gallery5 %}
+{% include img-wrap-group.html items=page.galleries.gallery6 %}
+
+{% include img-wrap-group.html items=page.galleries.gallery7 cols=3 %}
+
+
+

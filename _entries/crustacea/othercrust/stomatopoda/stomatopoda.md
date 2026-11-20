@@ -111,7 +111,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Hoplocarida/Stomatopoda/Unipeltata/Gonodactyloidea/Gonodactylidae
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Hoplocarida/Stomatopoda/Unipeltata/Gonodactyloidea/Gonodactylidae
 ---
 
 ## Where seen?

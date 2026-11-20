@@ -171,7 +171,7 @@ habitats:
 - seagrass meadow
 - coral rubble
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Siluriformes/Siluroidei/Plotosidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Siluriformes/Siluroidei/Plotosidae
 ---
 
 ## Where seen?

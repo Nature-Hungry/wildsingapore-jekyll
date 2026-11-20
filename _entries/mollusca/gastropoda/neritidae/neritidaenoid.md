@@ -51,6 +51,8 @@ authors:
 zone:
 - intertidal
 - marine
+kingdom: Animalia
+phylum: Mollusca
 ---
 
 **Unidentified nerite snail #070506sjig9293**

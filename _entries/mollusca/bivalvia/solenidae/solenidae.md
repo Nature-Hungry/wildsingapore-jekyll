@@ -87,7 +87,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
-permalink: /entries/Mollusca/Bivalvia/Autobranchia/Adapedonta/Solenoidea/Solenidae
+permalink: /entries/Animalia/Mollusca/Bivalvia/Autobranchia/Adapedonta/Solenoidea/Solenidae
 ---
 
 ## Where seen?

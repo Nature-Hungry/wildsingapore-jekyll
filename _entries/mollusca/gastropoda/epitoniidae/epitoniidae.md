@@ -69,7 +69,7 @@ habitats:
 - sandy shore
 size:
 - 1.0
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Epitonioidea/Epitoniidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Epitonioidea/Epitoniidae
 ---
 
 ## Where seen?

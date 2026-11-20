@@ -1,5 +1,5 @@
 ---
-title: 'Rubber tree'
+title: Rubber tree
 description: Fact sheet of Rubber tree  on the shores of Singapore
 keywords: rubber, hevea, brasiliensis, euphorbiaceae, tree, plant, field, guide, seashore,
   sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
@@ -85,6 +85,9 @@ zone:
 - terrestrial
 habitats:
 - exotic forest
+other_sources:
+- url: https://uforest.org/plants/species?q=Hevea_brasiliensis
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

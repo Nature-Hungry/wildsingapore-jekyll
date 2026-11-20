@@ -45,7 +45,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Arthropoda
+permalink: /entries/Animalia/Arthropoda
 ---
 
 **What are arthropods?**

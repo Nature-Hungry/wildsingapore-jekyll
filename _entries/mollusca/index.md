@@ -7,7 +7,7 @@ layout: entry
 stateofmatter: Life
 kingdom: Animalia
 phylum: Mollusca
-permalink: /entries/Mollusca
+permalink: /entries/Animalia/Mollusca
 updated: Sep 2020
 trivia_title: if you learn only 3 things about them ...
 trivia_items:

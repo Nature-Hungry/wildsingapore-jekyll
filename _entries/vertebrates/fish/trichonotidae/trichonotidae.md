@@ -104,7 +104,7 @@ zone:
 habitats:
 - sandy shore
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Trichonotoidei/Trichonotidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Trichonotoidei/Trichonotidae
 ---
 
 ## Where seen?

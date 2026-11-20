@@ -4,9 +4,12 @@ keywords: blue, encrusting, prickly, sponge, porifera, field, guide, seashore, s
 layout: entry
 shape: encrusting
 title: Blue encrusting prickly sponge
-family: ' updated Oct 2016'
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+family: ''
 genus: ''
-species: identification*
+species: ''
 attributes:
 - 161
 - 155

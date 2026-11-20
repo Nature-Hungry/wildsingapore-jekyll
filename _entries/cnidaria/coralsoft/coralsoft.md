@@ -132,7 +132,7 @@ zone:
 habitats:
 - coral rubble
 - coral reef
-permalink: /entries/Cnidaria/Anthozoa/Malacalcyonacea/Nephtheidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Malacalcyonacea/Nephtheidae
 ---
 
 ## Where seen?

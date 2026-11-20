@@ -129,7 +129,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Acroporidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Acroporidae
 ---
 
 ## Where seen?

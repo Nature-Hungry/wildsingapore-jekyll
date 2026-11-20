@@ -100,7 +100,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Vermetoidea/Vermetidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Vermetoidea/Vermetidae
 ---
 
 ## Where seen?

@@ -5,7 +5,13 @@ keywords: flat, worm, flatworm, acotylea, polyclad, turbellaria, platyhelminthes
   guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
   sheet, info, photo
 layout: entry
-family: Suborder Acotylea
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Acotylea
+family: '' 
 genus: ''
 species: identification*
 attributes:

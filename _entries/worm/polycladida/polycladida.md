@@ -226,7 +226,7 @@ links_references: "**Acknowledgement** \nWith grateful thanks to Leslie H. Harri
   \ Robert D. Barnes. 2004.*Invertebrate Zoology*Brooks/Cole of Thomson Learning Inc.,\
   \ 7th Edition. pp. 963\n\n- Pechenik, Jan A., 2005.*Biology of the Invertebrates*.\
   \ 5thedition. McGraw-Hill Book Co., Singapore. 578 pp."
-permalink: /entries/Platyhelminthes/Rhabditophora/Polycladida
+permalink: /entries/Animalia/Platyhelminthes/Rhabditophora/Polycladida
 ---
 
 ## Where seen?

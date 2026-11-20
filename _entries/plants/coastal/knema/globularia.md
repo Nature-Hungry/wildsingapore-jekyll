@@ -78,6 +78,9 @@ habitats:
 - coastal forest
 - sandy shore
 - rocky shore
+other_sources:
+- url: https://uforest.org/plants/species?q=Knema_globularia
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

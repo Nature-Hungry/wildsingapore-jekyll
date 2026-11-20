@@ -14,7 +14,7 @@ infraclass: Euthyneura
 subterclass: Ringipleura
 superorder: Nudipleura
 order: Nudibranchia
-permalink: /entries/Mollusca/Gastropoda/Heterobranchia/Nudibranchia
+permalink: /entries/Animalia/Mollusca/Gastropoda/Heterobranchia/Nudibranchia
 updated: May 2020
 coverimg: /assets/temp/nudibranchia.png
 trivia_title: if you learn only 3 things about them ...

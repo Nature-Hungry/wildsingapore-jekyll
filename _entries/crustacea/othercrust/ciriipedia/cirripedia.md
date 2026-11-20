@@ -149,6 +149,8 @@ zone:
 - marine
 habitats:
 - mangrove
+kingdom: Animalia
+phylum: Arthropoda
 ---
 
 ## Where seen?

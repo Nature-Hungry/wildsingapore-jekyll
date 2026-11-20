@@ -164,7 +164,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Fungiidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Fungiidae
 ---
 
 ## Where seen?

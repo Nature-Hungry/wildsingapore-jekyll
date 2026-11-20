@@ -149,7 +149,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Ephippidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Ephippidae
 ---
 
 ## Where seen?

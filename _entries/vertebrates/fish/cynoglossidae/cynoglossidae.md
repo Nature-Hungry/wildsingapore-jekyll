@@ -104,7 +104,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Cynoglossidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Carangiformes/Pleuronectoidei/Cynoglossidae
 ---
 
 ## Where seen?

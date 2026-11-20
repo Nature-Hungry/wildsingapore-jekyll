@@ -170,7 +170,7 @@ habitats:
 - seagrass meadow
 - coral rubble
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Gerreidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Gerreidae
 ---
 
 ## Where seen?

@@ -128,7 +128,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Perciformes/Scorpaenoidei/Scorpaenidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Perciformes/Scorpaenoidei/Scorpaenidae
 ---
 
 ## Where seen?

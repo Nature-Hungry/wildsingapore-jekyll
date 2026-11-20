@@ -159,7 +159,7 @@ zone:
 habitats:
 - sandy shore
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Sillaginidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Sillaginidae
 ---
 
 ## Where seen?

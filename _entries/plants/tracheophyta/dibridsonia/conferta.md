@@ -50,6 +50,8 @@ coverimg: https://images.naturehungry.sg\tracheophyta\dibridsonia\conferta/DSC07
   (11).jpg
 updated: July 2024
 hidden: false
+kingdom: Plantae
+phylum: Tracheophyta
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

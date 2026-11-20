@@ -85,6 +85,9 @@ zone:
 habitats:
 - coastal forest
 - rocky shore
+other_sources:
+- url: https://uforest.org/plants/species?q=Eurycoma_longifolia
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

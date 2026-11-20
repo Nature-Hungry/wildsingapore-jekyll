@@ -39,7 +39,7 @@ galleries:
   - url: https://images.naturehungry.sg/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
     caption: '[Horseshoe crabs](../../arthropoda/limulidae/limulidae) are NOT crustaceans!
       But they are arthropods.'
-permalink: /entries/Arthropoda/Crustacea
+permalink: /entries/Animalia/Arthropoda/Crustacea
 ---
 
   

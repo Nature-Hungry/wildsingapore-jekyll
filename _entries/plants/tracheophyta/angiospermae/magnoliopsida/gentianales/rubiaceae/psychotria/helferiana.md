@@ -51,6 +51,9 @@ coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\magnoliopsida
 updated: July 2024
 rdb: CR
 hidden: true
+other_sources:
+- url: https://uforest.org/plants/species?q=Psychotria_helferiana
+  img: https://uforest.org/images_root/logo.svg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

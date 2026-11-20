@@ -75,7 +75,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral reef
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Corystoidea/Corystidae
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Corystoidea/Corystidae
 ---
 
 ## Where seen?

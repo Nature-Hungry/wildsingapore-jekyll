@@ -73,7 +73,9 @@ document.body.addEventListener('click', function(event) {
     '.pig-wrap',
     '.content-grid',
     'nav',
-    '.flickr-img-link'
+    '.flickr-img-link',
+    '[external]',
+    '.other-source img',
   ].join(',');
 
   const createLightbox = () => {

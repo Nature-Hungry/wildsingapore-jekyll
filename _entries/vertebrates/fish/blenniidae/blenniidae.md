@@ -230,7 +230,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Blenniiformes/Blennioidei/Blenniidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Blenniiformes/Blennioidei/Blenniidae
 ---
 
 ## Where seen?

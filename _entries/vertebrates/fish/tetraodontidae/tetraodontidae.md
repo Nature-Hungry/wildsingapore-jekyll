@@ -160,7 +160,7 @@ habitats:
 - seagrass meadow
 - coral rubble
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Tetraodontoidei/Tetraodontidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Tetraodontoidei/Tetraodontidae
 ---
 
 ## Where seen?

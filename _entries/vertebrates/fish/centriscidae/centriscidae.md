@@ -190,7 +190,7 @@ habitats:
 - coral reef
 - muddy shore
 - mangrove
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Syngnathiformes/Syngnathoidei/Centriscidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Syngnathiformes/Syngnathoidei/Centriscidae
 ---
 
 ## Where seen?

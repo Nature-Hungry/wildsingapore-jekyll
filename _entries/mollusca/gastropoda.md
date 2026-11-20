@@ -10,7 +10,7 @@ kingdom: Animalia
 phylum: Mollusca
 class: Gastropoda
 updated: Sep 2020
-permalink: /entries/Mollusca/Gastropoda/
+permalink: /entries/Animalia/Mollusca/Gastropoda/
 trivia_title: if you learn only 3 things about them ...
 trivia_items:
 - The shape of the shell reveals the snail's way of life.

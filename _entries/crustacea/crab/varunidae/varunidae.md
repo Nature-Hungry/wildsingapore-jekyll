@@ -58,7 +58,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Grapsoidea/Varunidae
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Grapsoidea/Varunidae
 ---
 
 ## Where seen?

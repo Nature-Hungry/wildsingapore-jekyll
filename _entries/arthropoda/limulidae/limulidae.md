@@ -180,7 +180,7 @@ zone:
 - marine
 habitats:
 - mangrove
-permalink: /entries/Arthropoda/Chelicerata/Merostomata/Xiphosurida/Limulidae
+permalink: /entries/Animalia/Arthropoda/Chelicerata/Merostomata/Xiphosurida/Limulidae
 ---
 
 ## Where seen?

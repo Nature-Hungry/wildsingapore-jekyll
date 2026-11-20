@@ -11,6 +11,15 @@ attributes:
 - 47
 - 85
 - 155
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Tetraodontiformes
+suborder: Tetraodontoidei
+inat_id: 196936
 family: Tetraodontidae
 genus: Arothon
 species: stellatus

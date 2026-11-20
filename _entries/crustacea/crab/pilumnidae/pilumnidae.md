@@ -91,7 +91,7 @@ zone:
 habitats:
 - coral rubble
 - coral reef
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Pilumnoidea/Pilumnidae
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Pilumnoidea/Pilumnidae
 ---
 
 ## Where seen?

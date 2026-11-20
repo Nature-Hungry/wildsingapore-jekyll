@@ -56,6 +56,9 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+other_sources:
+- url: https://uforest.org/plants/species?q=Tristellateia_australasiae
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 <div class="flex gap-2">

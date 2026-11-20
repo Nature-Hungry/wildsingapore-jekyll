@@ -93,7 +93,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Centrarchiformes/Terapontoidei/Terapontidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Centrarchiformes/Terapontoidei/Terapontidae
 ---
 
 ## Where seen?

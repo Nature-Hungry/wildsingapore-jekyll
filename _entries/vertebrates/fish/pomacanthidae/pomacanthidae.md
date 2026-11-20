@@ -145,7 +145,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Pomacanthidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Pomacanthidae
 ---
 
 ## Where seen?

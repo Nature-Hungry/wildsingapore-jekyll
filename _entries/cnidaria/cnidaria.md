@@ -103,7 +103,7 @@ galleries:
   - url: https://images.naturehungry.sg/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
     caption: Hermit crab with three [large sea anemones](actiniaria/hermitbig.htm)
       (retracted) on its shell. *Changi, Jul 04*
-permalink: /entries/Cnidaria
+permalink: /entries/Animalia/Cnidaria
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 ---

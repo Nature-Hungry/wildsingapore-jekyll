@@ -82,7 +82,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Tetraodontoidei/Diodontidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Tetraodontoidei/Diodontidae
 ---
 
 ## Where seen?

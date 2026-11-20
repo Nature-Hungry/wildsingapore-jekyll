@@ -104,6 +104,9 @@ habitats:
 - coastal forest
 - sandy shore
 - muddy shore
+other_sources:
+- url: https://uforest.org/plants/species?q=Ardisia_elliptica
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

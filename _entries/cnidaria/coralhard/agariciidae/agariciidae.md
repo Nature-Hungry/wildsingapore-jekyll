@@ -64,7 +64,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Cnidaria/Anthozoa/Scleractinia/Agariciidae
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Scleractinia/Agariciidae
 ---
 
 ## Where seen?

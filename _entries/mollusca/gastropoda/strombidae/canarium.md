@@ -134,6 +134,8 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
+kingdom: Animalia
+phylum: Mollusca
 ---
 
 ## Where seen?

@@ -116,7 +116,7 @@ zone:
 - marine
 habitats:
 - coral reef
-permalink: /entries/Mollusca/Bivalvia/Autobranchia/Limida/Limoidea/Limidae
+permalink: /entries/Animalia/Mollusca/Bivalvia/Autobranchia/Limida/Limoidea/Limidae
 ---
 
 ## Where seen?

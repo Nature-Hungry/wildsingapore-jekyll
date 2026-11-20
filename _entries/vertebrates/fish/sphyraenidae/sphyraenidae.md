@@ -89,7 +89,7 @@ habitats:
 - mangrove
 - seagrass meadow
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Carangiformes/Centropomoidei/Sphyraenidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Carangiformes/Centropomoidei/Sphyraenidae
 ---
 
 ## Where seen?

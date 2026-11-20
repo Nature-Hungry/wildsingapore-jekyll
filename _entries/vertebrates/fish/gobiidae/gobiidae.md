@@ -165,7 +165,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Gobioidei/Gobiidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Gobioidei/Gobiidae
 ---
 
 ## Where seen?

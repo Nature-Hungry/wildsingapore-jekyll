@@ -188,7 +188,7 @@ zone:
 - marine
 habitats:
 - sandy shore
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Mugiliformes/Mugilidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Mugiliformes/Mugilidae
 ---
 
 ## Where seen?

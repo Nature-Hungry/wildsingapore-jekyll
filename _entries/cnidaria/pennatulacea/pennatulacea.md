@@ -121,7 +121,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Octocorallia/Scleralcyonacea/Pennatuloidea
 ---
 
 ## Where seen?

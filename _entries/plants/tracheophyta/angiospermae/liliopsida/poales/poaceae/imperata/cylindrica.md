@@ -42,6 +42,9 @@ coverimg: https://images.naturehungry.sg\tracheophyta\angiospermae\liliopsida\po
 updated: July 2024
 rdb: LC
 hidden: false
+other_sources:
+- url: https://uforest.org/plants/species?q=Imperata_cylindrica
+  img: https://uforest.org/images_root/logo.svg
 ---
 {% include img-wrap-group.html items=page.galleries.gallery1 %}
 {% include img-wrap-group.html items=page.galleries.gallery2 %}

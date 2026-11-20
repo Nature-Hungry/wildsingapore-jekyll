@@ -111,6 +111,9 @@ habitats:
 - coastal forest
 - sandy shore
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Podocarpus_polystachyus
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

@@ -137,6 +137,9 @@ zone:
 habitats:
 - mangrove
 permalink: /entries/Tracheophyta/Angiospermae/Liliopsida/Arecales/Arecaceae/Nypoideae/Nypa
+other_sources:
+- url: https://uforest.org/plants/species?q=Nypa_fruticans
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

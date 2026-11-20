@@ -4,9 +4,16 @@ keywords: smooth, blue, sponge, lendenfeldia, chondrodes, thorectidae, porifera,
 layout: entry
 shape: encrusting
 title: Blue icing sponge
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Keratosa
+order: Dictyoceratida
 family: Thorectidae
+subfamily: Phyllospongiinae
 genus: Lendenfeldia
-species: cf.
+species: cf. chondrodes
 attributes:
 - 161
 - 155

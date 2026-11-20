@@ -53,6 +53,7 @@ zone:
 habitats:
 - coral rubble
 - coral reef
+kingdom: Animalia
 ---
 
 ## Where seen?

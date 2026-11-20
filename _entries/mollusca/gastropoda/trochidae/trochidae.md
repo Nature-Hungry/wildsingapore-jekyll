@@ -132,7 +132,7 @@ zone:
 - marine
 habitats:
 - rocky shore
-permalink: /entries/Mollusca/Gastropoda/Vetigastropoda/Trochida/Trochoidea/Trochidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Vetigastropoda/Trochida/Trochoidea/Trochidae
 ---
 
 ## Where seen?

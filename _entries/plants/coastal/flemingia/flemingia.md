@@ -63,6 +63,9 @@ authors:
 zone:
 - terrestrial
 permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Fabales/Fabaceae/Faboideae/Flemingia
+other_sources:
+- url: https://uforest.org/plants/species?q=Flemingia_strobilifera
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

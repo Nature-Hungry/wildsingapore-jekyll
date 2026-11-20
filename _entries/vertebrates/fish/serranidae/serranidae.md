@@ -96,7 +96,7 @@ habitats:
 - coral reef
 - muddy shore
 - mangrove
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Perciformes/Percoidei/Serranidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Perciformes/Percoidei/Serranidae
 ---
 
 ## Where seen?

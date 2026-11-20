@@ -120,6 +120,9 @@ habitats:
 - rocky shore
 - mangrove
 permalink: /entries/Tracheophyta/Angiospermae/Magnoliopsida/Malvales/Malvaceae/Sterculioideae/Heritiera
+other_sources:
+- url: https://uforest.org/plants/species?q=Heritiera_littoralis
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

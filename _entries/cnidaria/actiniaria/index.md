@@ -106,7 +106,7 @@ habitats:
 - rocky shore
 - seagrass meadow
 - coral rubble
-permalink: /entries/Cnidaria/Anthozoa/Hexacorallia/Actiniaria
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Hexacorallia/Actiniaria
 ---
 
 

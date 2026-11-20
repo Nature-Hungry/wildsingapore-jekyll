@@ -157,7 +157,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Stromboidea/Strombidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Littorinimorpha/Stromboidea/Strombidae
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

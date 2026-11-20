@@ -126,6 +126,9 @@ habitats:
 - sandy shore
 - rocky shore
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Terminalia_catappa
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

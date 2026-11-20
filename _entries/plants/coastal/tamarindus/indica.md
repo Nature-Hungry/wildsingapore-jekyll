@@ -81,6 +81,9 @@ zone:
 habitats:
 - coastal forest
 - sandy shore
+other_sources:
+- url: https://uforest.org/plants/species?q=Tamarindus_indica
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

@@ -125,6 +125,9 @@ zone:
 habitats:
 - muddy shore
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Lumnitzera_littorea
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

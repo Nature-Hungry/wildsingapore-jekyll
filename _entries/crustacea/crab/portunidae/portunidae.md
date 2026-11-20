@@ -211,7 +211,7 @@ zone:
 - marine
 habitats:
 - seagrass meadow
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Portunoidea/Portunidae
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Eumalacostraca/Decapoda/Pleocyemata/Brachyura/Portunoidea/Portunidae
 ---
 
 ## Where seen?

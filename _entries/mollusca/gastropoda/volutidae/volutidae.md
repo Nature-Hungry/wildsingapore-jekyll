@@ -120,7 +120,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Volutoidea/Volutidae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Volutoidea/Volutidae
 ---
 
 {% include img-wrap-group.html items=page.galleries.gallery1 %}

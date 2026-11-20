@@ -208,7 +208,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Siganidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Acanthuriformes/Siganidae
 ---
 
 ## Where seen?

@@ -137,7 +137,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Blenniiformes/Pomacentridae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Blenniiformes/Pomacentridae
 ---
 
 ## Where seen?

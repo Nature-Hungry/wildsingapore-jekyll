@@ -18,7 +18,7 @@ trivia_items:
 - Decapods have ten limbs. Some are walking legs, others are pincers.
 - They are found in a wide range of habitats. Many can tolerate being out of water.
 - Some live with other animals; anemone shrimps, porcelain crabs.
-permalink: /entries/Arthropoda/Crustacea/Malacostraca/Decapoda
+permalink: /entries/Animalia/Arthropoda/Crustacea/Malacostraca/Decapoda
 updated: Mar 2020
 zone:
 - intertidal

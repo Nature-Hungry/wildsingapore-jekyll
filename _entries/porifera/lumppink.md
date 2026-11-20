@@ -4,9 +4,16 @@ keywords: pink, lumpy, sponge, haliclona, baeri, chalinidae, porifera, field, gu
 layout: entry
 shape: blobs
 title: Lumpy pink sponge
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 family: Chalinidae
 genus: Haliclona
-species: cf.
+species: cf. baeri
+inat_id: 1635058
 attributes:
 - 140
 - 155

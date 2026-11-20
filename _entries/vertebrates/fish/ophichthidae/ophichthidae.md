@@ -148,7 +148,7 @@ zone:
 - marine
 habitats:
 - coral rubble
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Anguilliformes/Congroidei/Ophichthidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Anguilliformes/Congroidei/Ophichthidae
 ---
 
 ## Where seen?

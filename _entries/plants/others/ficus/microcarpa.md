@@ -1,5 +1,5 @@
 ---
-title: 'Jejawi'
+title: Jejawi
 description: Fact sheet of Jejawi  on the shores of Singapore
 keywords: fig, malayan, banyan, ficus, microcarpa, moraceae, tree, plant, field, guide,
   seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
@@ -96,6 +96,9 @@ zone:
 habitats:
 - rocky shore
 - mangrove
+other_sources:
+- url: https://uforest.org/plants/species?q=Ficus_microcarpa
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

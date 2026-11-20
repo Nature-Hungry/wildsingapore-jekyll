@@ -79,6 +79,7 @@ zone:
 habitats:
 - seagrass meadow
 - coral rubble
+phylum: Arthropoda
 ---
 
 ## Where seen?

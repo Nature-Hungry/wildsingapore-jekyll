@@ -10,6 +10,8 @@ authors:
 zone:
 - intertidal
 - marine
+kingdom: Animalia
+phylum: Arthropoda
 ---
 
 Filmed at Sisters Island, Dec 10

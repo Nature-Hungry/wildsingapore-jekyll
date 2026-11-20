@@ -157,7 +157,7 @@ habitats:
 - rocky shore
 - mangrove
 - coral reef
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Gobioidei/Gobiidae/Oxudercinae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Gobiiformes/Gobioidei/Gobiidae/Oxudercinae
 ---
 
 ## Where seen?

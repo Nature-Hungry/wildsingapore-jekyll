@@ -106,7 +106,7 @@ authors:
 zone:
 - intertidal
 - marine
-permalink: /entries/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Balistoidei/Ostraciidae
+permalink: /entries/Animalia/Chordata/Vertebrata/Actinopterygii/Tetraodontiformes/Balistoidei/Ostraciidae
 ---
 
 ## Where seen?

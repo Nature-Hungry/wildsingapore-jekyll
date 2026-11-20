@@ -157,6 +157,17 @@
 
         {{content}}
 
+        {% if page.other_sources %}
+        <h2>Other sources</h2>
+        <div class="other-sources">
+        {% for s in page.other_sources %}
+        <a class="other-source" rel="nofollow" href="{{s.url}}" target="_blank">
+          <img src="{{s.img}}">
+        </a>
+        {% endfor %}
+        </div>
+        {% endif %}
+
         {% if page.inat_id and page.inat_id > 1 %}
           <section>
             <h2 id="inat" label="Sightings">Sightings of {{page.title}} on <a href="https://www.inaturalist.org/observations?project_id=wild-singapore-sightings&subview=map&taxon_id={{page.inat_id}}&verifiable=any">iNaturalist</a></h2>
@@ -303,6 +314,7 @@ purgeAllInactiveCache();
 <script>
 
 const pageData = {
+  'kingdom':"{{page.kingdom | default : ''}}",
   'phylum':"{{page.phylum | default : ''}}",
   'subphylum':"{{page.subphylum | default : ''}}",
   'class':"{{page.class | default : ''}}",
@@ -316,6 +328,7 @@ const pageData = {
   'genus':"{{page.genus | default : ''}}",
 }
 let groups = [
+    'kingdom',
     'phylum',
     'subphylum',
     'class',

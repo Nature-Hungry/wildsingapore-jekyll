@@ -41,6 +41,9 @@ zone:
 habitats:
 - coastal forest
 - rocky shore
+other_sources:
+- url: https://uforest.org/plants/species?q=Adenanthera_pavonina
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

@@ -1,5 +1,5 @@
 ---
-title: 'Common red stem-fig'
+title: Common red stem-fig
 description: Fact sheet of Common red stem-fig  on the shores of Singapore
 keywords: common, red, stem-fig, stem, fig, ficus, variegated, moraceae, tree, plant,
   field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
@@ -63,6 +63,9 @@ authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:
 - terrestrial
+other_sources:
+- url: https://uforest.org/plants/species?q=Ficus_variegata
+  img: https://uforest.org/images_root/logo.svg
 ---
 
 ## Where seen?

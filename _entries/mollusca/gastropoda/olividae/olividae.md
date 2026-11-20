@@ -135,7 +135,7 @@ zone:
 habitats:
 - sandy shore
 - seagrass meadow
-permalink: /entries/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Olivoidea/Olividae
+permalink: /entries/Animalia/Mollusca/Gastropoda/Caenogastropoda/Neogastropoda/Olivoidea/Olividae
 ---
 
 ## Where seen?

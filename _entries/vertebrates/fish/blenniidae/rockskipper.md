@@ -11,6 +11,14 @@ attributes:
 - 43
 - 47
 - 155
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Blenniiformes
+suborder: Blennioidei
 family: Blennidae
 genus: ''
 species: ''

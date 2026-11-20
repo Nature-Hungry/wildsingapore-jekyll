@@ -11,7 +11,7 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
-permalink: /entries/Cnidaria/Anthozoa/Hexacorallia/Scleractinia
+permalink: /entries/Animalia/Cnidaria/Anthozoa/Hexacorallia/Scleractinia
 authors:
 - '[Ria Tan](https://www.facebook.com/wildsingapore/)'
 zone:

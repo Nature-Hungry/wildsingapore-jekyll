@@ -4,12 +4,19 @@ keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, 
 layout: entry
 shape: blobs
 title: Brownie sponge
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Keratosa
+order: Dictyoceratida
 family: Spongiidae
 genus: Hyattella
 species: tubaria
 attributes:
 - 140
 - 155
+inat_id: 131795
 updated: Oct 2016
 coverimg: https://images.naturehungry.sg/porifera/brownie/120708tryd7520m3.jpg
 galleries:
