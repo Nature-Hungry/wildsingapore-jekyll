@@ -3,9 +3,9 @@
   "name": "nature-hungry",
   "main": "./src/d1-entries-api.mjs",
   "compatibility_date": "2026-09-25",
-  "not_found_handling": "404-page",
   "assets": {
-    "directory": "./_site"
+    "directory": "./_site",
+    "not_found_handling": "404-page"
   },
   "r2_buckets": [
     {
