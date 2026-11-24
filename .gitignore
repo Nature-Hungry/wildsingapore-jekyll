@@ -34,4 +34,6 @@ __pycache__
 .netlify
 
 .bundle/
-vendor/
+vendor/node_modules/
+
+node_modules/

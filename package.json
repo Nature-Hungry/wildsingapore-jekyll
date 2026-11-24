@@ -1,0 +1,17 @@
+{
+  "name": "nature-hungry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "d1:setup": "wrangler d1 create nature-hungry-db --location=oc",
+    "d1:migrate": "npx wrangler d1 execute nature-hungry-db --file=./db/schema.sql",
+    "d1:seed": "node scripts/import-content-to-d1.mjs && npx wrangler d1 execute nature-hungry-db --file=./db/seed.sql",
+    "d1:query": "npx wrangler d1 execute nature-hungry-db --command='SELECT collection, COUNT(*) AS count FROM content_items GROUP BY collection ORDER BY collection'",
+    "build": "bundle exec jekyll build"
+  },
+  "devDependencies": {
+    "wrangler": "^4.140.0",
+    "yaml": "^2.9.1"
+  }
+}

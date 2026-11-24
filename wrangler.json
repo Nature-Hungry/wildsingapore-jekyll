@@ -1,0 +1,23 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "nature-hungry",
+  "main": "./src/d1-entries-api.mjs",
+  "compatibility_date": "2026-09-25",
+  "assets": {
+    "directory": "./_site",
+    "not_found_handling": "404-page"
+  },
+  "r2_buckets": [
+    {
+      "binding": "R2_BUCKET",
+      "bucket_name": "nature-hungry-cache"
+    }
+  ],
+  "d1_databases": [
+    {
+      "binding": "ENTRIES_DB",
+      "database_name": "nature-hungry-db",
+      "database_id": "0a28b4d9-4353-4351-b589-467ae72a10a2"
+    }
+  ]
+}
