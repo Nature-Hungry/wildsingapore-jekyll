@@ -1,0 +1,14 @@
+{
+  "ignored_fields": {
+    "keywords": 5,
+    "stateofmatter": 5,
+    "zoosection": 1,
+    "zoosubsection": 1,
+    "updated": 5,
+    "location": 4,
+    "tribe": 3,
+    "subtribe": 1
+  },
+  "issues": [],
+  "failed": []
+}
